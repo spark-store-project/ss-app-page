@@ -31,9 +31,14 @@ echo "$1 文件已按目录结构复制完成。"
 sync_file '*.json' &
 sync_file '*.html' &
 sync_file '*.css' &
+sync_file '*.js' &
 sync_file '*.metalink' &
 sync_file 'Packages' &
 sync_file 'Release' &
 sync_file 'InRelease' &
 sync_file '*.png' &
+sync_file '*.conf' &
+sync_file '*.list' &
+sync_file '*.zip' &
+sync_files '*.txt' &
 wait
