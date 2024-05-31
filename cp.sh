@@ -40,5 +40,5 @@ sync_file '*.png' &
 sync_file '*.conf' &
 sync_file '*.list' &
 sync_file '*.zip' &
-sync_files '*.txt' &
+sync_file '*.txt' &
 wait
