@@ -1,0 +1,16 @@
+{
+    "Name": "LocalSend",
+    "Version": "1.14.0+45",
+    "Filename": "localsend_1.14.0_plus_45_amd64.deb",
+    "Torrent_address": "localsend_1.14.0_plus_45_amd64.deb.torrent",
+    "Pkgname": "localsend",
+    "Author": "Tienisto <dev.tien.donam@gmail.com>",
+    "Contributor": "ThinkYoung",
+    "Website": "https://localsend.org/",
+    "Update": "2024-05-05 14:56:19",
+    "Size": "8.92 MB",
+    "More": "LocalSend是一个跨平台的应用程序，可以使用REST API和HTTPS加密实现设备之间的安全通信。与其他依赖外部服务器的消息传递应用程序不同，LocalSend 不需要互联网连接或第三方服务器，使其成为快速可靠的本地通信解决方案。\nLocalSend 使用安全通信协议，允许设备使用 REST API 相互通信。所有数据都通过HTTPS安全发送，并在每台设备上动态生成TLS / SSL证书，确保最大的安全性。",
+    "Tags": "community;ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/d77ba85f13214f61bb6c1a17f220707f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/a6433d9fb4de4166ab3a3531bb9d76a9.png"
+}

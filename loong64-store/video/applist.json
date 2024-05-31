@@ -1,0 +1,178 @@
+[
+{
+    "Author": "Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "obs-studio_29.0.2_plus_dfsg-1_plus_b2_loong64.deb",
+    "More": "录屏、推流神器。ACE",
+    "Name": "OBS Studio(ACE)",
+    "Pkgname": "obs-studio",
+    "Size": "1 Kb",
+    "Tags": "community;deepin;ubuntu",
+    "Torrent_address": "obs-studio_29.0.2_plus_dfsg-1_plus_b2_loong64.deb.torrent",
+    "Update": "2024-03-23 23:49:32",
+    "Version": "29.0.2+dfsg-1+b2",
+    "Website": "https://gitee.com/spark-building-service/ace-host-package-creator",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/video/obs-studio/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/obs-studio/screen_1.png\"]"
+}
+
+,
+{
+    "Name": "央视影音",
+    "Version": "6.0.0.1spark10",
+    "Filename": "com.cctv.ysyy.spark_6.0.0.1spark10_all.deb",
+    "Torrent_address": "com.cctv.ysyy.spark_6.0.0.1spark10_all.deb.torrent",
+    "Pkgname": "com.cctv.ysyy.spark",
+    "Author": "中国网络电视台CNTV",
+    "Contributor": "sgb76",
+    "Website": "https://app.cctv.com/#page5",
+    "Update": "2023-12-13 16:38:56",
+    "Size": "79.9 MB",
+    "More": "央视pc客户端--高清、流畅、简洁\n\n直播点播随心看\n分类筛选方便看\n边播边选小窗看",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/13/6031910f17334ce3a0c2428594acbb07.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/13/5965487065e747638e4b7868307873e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/13/4846c18d53d24fedaf6c8fedba57d4c2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/13/ca2463d73f3a4a5ea878392ed76a6e10.png"
+}
+,
+{
+    "Author": "loongson <loongson@loongson-pc>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "loongvideoeditor_1.0.0-1_loong64.deb",
+    "More": " 一款视频剪辑软件。\n首次安装请注销或重启",
+    "Name": "龙芯剪辑(ACE)",
+    "Pkgname": "loongvideoeditor",
+    "Size": "35 Mb",
+    "Tags": "deepin",
+    "Torrent_address": "loongvideoeditor_1.0.0-1_loong64.deb.torrent",
+    "Update": "2024-03-24 13:08:39",
+    "Version": "1.0.0-1",
+    "Website": "https://gitee.com/spark-building-service/ace-host-package-creator",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/video/loongvideoeditor/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/loongvideoeditor/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/loongvideoeditor/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "msojocs",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "io.github.msojocs.bilibili_1.13.2.3296.1-continuous_loong64.deb",
+    "More": "由msojocs编写的哔哩哔哩客户端 Linux 移植版本",
+    "Name": "bilibili客户端",
+    "Pkgname": "io.github.msojocs.bilibili",
+    "Size": "101 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "io.github.msojocs.bilibili_1.13.2.3296.1-continuous_loong64.deb.torrent",
+    "Update": "2024-05-08 22:49:31",
+    "Version": "1.13.2.3296.1-continuous",
+    "Website": "https://github.com/msojocs/bilibili-linux/releases",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/video/io.github.msojocs.bilibili/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/video/io.github.msojocs.bilibili/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/video/io.github.msojocs.bilibili/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "org.openshot.spark_2.4.3_plus_dfsg1-1.1_all.deb",
+    "More": "一款免费，易用，功能丰富的 Linux 视频编辑器\n首次使用ACE包请注销或重启",
+    "Name": "OpenShot(ACE)",
+    "Pkgname": "org.openshot.spark",
+    "Size": "1 Kb",
+    "Tags": "deepin;ubuntu",
+    "Torrent_address": "org.openshot.spark_2.4.3_plus_dfsg1-1.1_all.deb.torrent",
+    "Update": "2024-03-24 13:10:27",
+    "Version": "2.4.3+dfsg1-1.1",
+    "Website": "https://gitee.com/spark-building-service/ace-host-package-creator",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/video/org.openshot.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/org.openshot.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/org.openshot.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/org.openshot.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "Deepin Packages Builder <packages@deepin.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "openqtmovie_1.0.0-1_loong64.deb",
+    "More": "极简风格播放器,纯Qt播放,gstreamer,打开速度快,其他emmmm,就这样吧,欢迎github点赞,ubuntu需要自行安装解码器,和系统那个播放器通用,其他的应该都ok",
+    "Name": "开源Qt播放器",
+    "Pkgname": "openqtmovie",
+    "Size": "159 Kb",
+    "Tags": "community;deepin;uos;ubuntu;dtk5",
+    "Torrent_address": "openqtmovie_1.0.0-1_loong64.deb.torrent",
+    "Update": "2024-03-24 22:11:42",
+    "Version": "1.0.0-1",
+    "Website": "http://www.deepin.org",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/video/openqtmovie/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/openqtmovie/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/openqtmovie/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/openqtmovie/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/openqtmovie/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "co.jianpian8.player_4.2.3.48_all.deb",
+    "More": "专治迅雷被封链接 \n保证所有迅雷无法下载的资源 荐片播放器100%可以高速下载，netflix、美剧、韩剧、动漫全网资源永久免费观看，必备看片神器",
+    "Name": "荐片播放器",
+    "Pkgname": "co.jianpian8.player",
+    "Size": "262 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "co.jianpian8.player_4.2.3.48_all.deb.torrent",
+    "Update": "2024-05-07 11:17:41",
+    "Version": "4.2.3.48",
+    "Website": "https://www.jianpian8.co/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/video/co.jianpian8.player/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/co.jianpian8.player/screen_1.png\"]"
+}
+
+,
+{
+    "Name": "萤石云视频",
+    "Version": "1.0",
+    "Filename": "com.ezvizstudio.com_1.0_all.deb",
+    "Torrent_address": "com.ezvizstudio.com_1.0_all.deb.torrent",
+    "Pkgname": "com.ezvizstudio.com",
+    "Author": "yingshi@ezvizlife.com",
+    "Contributor": "zs8855858",
+    "Website": "https://service.ezviz.com/",
+    "Update": "2023-06-17 17:21:59",
+    "Size": "156.16 MB",
+    "More": "萤石云视频，由杭州萤石软件有限公司官方出品，是你家里的智能硬件管理平台，不仅连接安防产品以及智能硬件产品，同时还有精品电商及新鲜资讯，为用户提供智能安全生活解决方案。亮点介绍：【远程查看，轻松分享】 随时随地查看实时视频、历史录像，进行语音对话、视频留言等互动，您也可以与家人分享您的视频，让他们也能轻松观看~ 【信息推送，智能提醒】 您可以及时接收您所关注场所的异常信息，可以快速查看异常场景出现的时间与录像，您也可以通过智能提醒、电话提醒等增值服务，提高检测准确率，及时采取安全防护措施~ 【萤石电商，轻松购买】 您可以在线购买萤石所有的硬件产品与增值服务，电商定期会举办各种线上活动，优惠多多，等你来拿~ 【安全双备份，萤石云存储】录像云端存储，砸不坏，偷不走！就算设备不在线或者遗失，也可以查看之前录制的云录像。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/17/495d9c20-0cf0-11ee-ad27-75f2b95b2514.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/17/49796180-0cf0-11ee-ad27-75f2b95b2514.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/17/498bff20-0cf0-11ee-ad27-75f2b95b2514.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/17/499e9cc0-0cf0-11ee-ad27-75f2b95b2514.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/17/2efe82e0-0cf0-11ee-ad27-75f2b95b2514.png"
+}
+,
+{
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.zxt2007.movietogif.spark_3.3.0.0spark2_all.deb",
+    "More": "一款完全免费的视频 Gif 转换工具\n\n--说明--\n视频转换结束后，会弹出捐赠窗口，等倒计时结束后，可点击已捐赠并随意输入一个邮箱即可。",
+    "Name": "Movie To GIF",
+    "Pkgname": "com.zxt2007.movietogif.spark",
+    "Size": "33 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.zxt2007.movietogif.spark_3.3.0.0spark2_all.deb.torrent",
+    "Update": "2024-03-24 22:16:12",
+    "Version": "3.3.0.0spark2",
+    "Website": "http://en.zxt2007.com/video-tools/movietogif.html",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/video/com.zxt2007.movietogif.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/com.zxt2007.movietogif.spark/screen_1.png\"]"
+}
+
+,
+{
+    "Name": "iDealshare VideoGo",
+    "Version": "6.7.2.8768spark0",
+    "Filename": "net.idealshare.spark_6.7.2.8768spark0_all.deb",
+    "Torrent_address": "net.idealshare.spark_6.7.2.8768spark0_all.deb.torrent",
+    "Pkgname": "net.idealshare.spark",
+    "Author": "iDealshare",
+    "Contributor": "sgb76",
+    "Website": "https://www.idealshare.net/video-converter.html",
+    "Update": "2024-01-06 00:33:18",
+    "Size": "31 MB",
+    "More": "一款视频转换器，可以快速转换视频、音频和网络媒体文件，专业且易于使用，转换视频几乎没有质量损失，还具有视频下载和编辑功能。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/06/9c7ebf9e9e2f4483bdd88f79eb252ace.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/06/3c4f6cfa2cb147299eefdcf8b006d4a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/06/82a05941cb4f4704905c29116b033b9f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/06/77686491d6e346339b90ba68e1ffd620.png"
+}
+]

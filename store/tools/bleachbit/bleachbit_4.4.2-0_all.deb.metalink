@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="bleachbit_4.4.2-0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">735773f053caa71e02482f708e93594a</hash>
+				  
+				<hash type="sha1">adac375b5198c3c6812ce9d71cf19cfd086f9e5d</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/bleachbit/bleachbit_4.4.2-0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/bleachbit/bleachbit_4.4.2-0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/bleachbit/bleachbit_4.4.2-0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/bleachbit/bleachbit_4.4.2-0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/bleachbit/bleachbit_4.4.2-0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/bleachbit/bleachbit_4.4.2-0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

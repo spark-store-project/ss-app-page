@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.qihoo.360safe_10.0.0.7536_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">0bb895b942ae6b4d3dac7dca6094b3a3</hash>
+				  
+				<hash type="sha1">aa9172181e4d9e8a1483510d4346672bb5352adb</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.qihoo.360safe/com.qihoo.360safe_10.0.0.7536_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/tools/com.qihoo.360safe/com.qihoo.360safe_10.0.0.7536_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/tools/com.qihoo.360safe/com.qihoo.360safe_10.0.0.7536_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/tools/com.qihoo.360safe/com.qihoo.360safe_10.0.0.7536_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/tools/com.qihoo.360safe/com.qihoo.360safe_10.0.0.7536_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/tools/com.qihoo.360safe/com.qihoo.360safe_10.0.0.7536_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

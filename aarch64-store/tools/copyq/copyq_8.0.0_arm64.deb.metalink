@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="copyq_8.0.0_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">8628620da03d28a1c7a94045e1296dc9</hash>
+				  
+				<hash type="sha1">9f0b0f26d3ae28c0b9d9184558d7598a75b98895</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/copyq/copyq_8.0.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/tools/copyq/copyq_8.0.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/tools/copyq/copyq_8.0.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/tools/copyq/copyq_8.0.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/tools/copyq/copyq_8.0.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/tools/copyq/copyq_8.0.0_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

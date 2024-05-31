@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.360.360player_1.0.0.111_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">6281cb33e7ff3f9cef24edb305471575</hash>
+				  
+				<hash type="sha1">c8ebae5485f4604f3b45f58706d117b24cb8b927</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/video/cn.360.360player/cn.360.360player_1.0.0.111_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/video/cn.360.360player/cn.360.360player_1.0.0.111_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/video/cn.360.360player/cn.360.360player_1.0.0.111_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/video/cn.360.360player/cn.360.360player_1.0.0.111_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/video/cn.360.360player/cn.360.360player_1.0.0.111_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/video/cn.360.360player/cn.360.360player_1.0.0.111_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

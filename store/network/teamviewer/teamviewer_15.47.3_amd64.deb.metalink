@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="teamviewer_15.47.3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">952a396a66453f98a8d967067e198d86</hash>
+				  
+				<hash type="sha1">67f4988c5866ab9fe369a3943d71a0253aed70d1</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/teamviewer/teamviewer_15.47.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/teamviewer/teamviewer_15.47.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/teamviewer/teamviewer_15.47.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/teamviewer/teamviewer_15.47.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/teamviewer/teamviewer_15.47.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/teamviewer/teamviewer_15.47.3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

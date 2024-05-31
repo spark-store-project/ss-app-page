@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-bftf_1.0.0_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">42ce84c336b5faebe980fa75bbe0bd97</hash>
+				  
+				<hash type="sha1">3dd9c1a1127ce3975232f7e2f1932e2a7a07fc21</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/spark-bftf/spark-bftf_1.0.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/spark-bftf/spark-bftf_1.0.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/spark-bftf/spark-bftf_1.0.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/spark-bftf/spark-bftf_1.0.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/spark-bftf/spark-bftf_1.0.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/spark-bftf/spark-bftf_1.0.0_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

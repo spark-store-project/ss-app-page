@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="deepin-wine-runtime_0.1.8_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f3dc691f08b3438b445ddcb5b6416034</hash>
+				  
+				<hash type="sha1">d1ee1575a4e338fbab735411be21206e84f10498</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/dwine6/deepin-wine-runtime_0.1.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/dwine6/deepin-wine-runtime_0.1.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/dwine6/deepin-wine-runtime_0.1.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/dwine6/deepin-wine-runtime_0.1.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/dwine6/deepin-wine-runtime_0.1.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/dwine6/deepin-wine-runtime_0.1.8_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

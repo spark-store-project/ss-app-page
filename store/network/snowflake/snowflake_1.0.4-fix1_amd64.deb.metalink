@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="snowflake_1.0.4-fix1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b389d5e6a461fea3d39ccf2852d0203d</hash>
+				  
+				<hash type="sha1">95403b7db928b83ab50955b1ebdf4a84047b4628</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/snowflake/snowflake_1.0.4-fix1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/snowflake/snowflake_1.0.4-fix1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/snowflake/snowflake_1.0.4-fix1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/snowflake/snowflake_1.0.4-fix1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/snowflake/snowflake_1.0.4-fix1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/snowflake/snowflake_1.0.4-fix1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

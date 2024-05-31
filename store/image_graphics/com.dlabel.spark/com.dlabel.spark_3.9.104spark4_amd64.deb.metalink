@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.dlabel.spark_3.9.104spark4_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">2ebb66371d1f833f89c789c681c85f62</hash>
+				  
+				<hash type="sha1">c0ee0d86d3a7251c274786e31ebadbc11c4a4997</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.dlabel.spark/com.dlabel.spark_3.9.104spark4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/com.dlabel.spark/com.dlabel.spark_3.9.104spark4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/com.dlabel.spark/com.dlabel.spark_3.9.104spark4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/com.dlabel.spark/com.dlabel.spark_3.9.104spark4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/com.dlabel.spark/com.dlabel.spark_3.9.104spark4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/com.dlabel.spark/com.dlabel.spark_3.9.104spark4_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

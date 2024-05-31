@@ -1,0 +1,16 @@
+{
+    "Name": "文华财经软件通用版(wine)",
+    "Version": "6.0.0",
+    "Filename": "spark.mytrader.wine_6.0.0_all.deb",
+    "Torrent_address": "spark.mytrader.wine_6.0.0_all.deb.torrent",
+    "Pkgname": "spark.mytrader.wine",
+    "Author": "LFRon",
+    "Contributor": "LFRon",
+    "Website": "https://wh6.wenhua.com.cn/",
+    "Update": "2023-11-17 19:54:05",
+    "Size": "343.02 MB",
+    "More": "文华财经分析软件,使用spark-wine8运行\n\n已知问题:1.部分地方UI错位\n2.部分地方字体比较奇怪\n3.Deepin-v23无法直接安装,需要使用wine运行器解压deb包里的wine容器到其他目录,然后手动下载spark-wine8最新版运行本程序",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/17/8c6cc67b2c2443e4b28d30b83afe264e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/17/3b007ee4806b40bbac5e71bb8d9b3d7b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/17/d3da564ed7c747d18bd919505310f5d5.png"
+}

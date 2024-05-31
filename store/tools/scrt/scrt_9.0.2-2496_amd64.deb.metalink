@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="scrt_9.0.2-2496_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">90d2f7e5d5cc2a0b4c19aa9320938779</hash>
+				  
+				<hash type="sha1">d6bbdc05283f2e92b1685e868b5cb9354beb07f8</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/scrt/scrt_9.0.2-2496_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/scrt/scrt_9.0.2-2496_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/scrt/scrt_9.0.2-2496_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/scrt/scrt_9.0.2-2496_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/scrt/scrt_9.0.2-2496_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/scrt/scrt_9.0.2-2496_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

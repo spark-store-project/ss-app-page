@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.openscad.spark_2021.01spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ac5cae6ed41ba50db59538c9b6584cb2</hash>
+				  
+				<hash type="sha1">c7e543f6d98491f899abafba1745a7fdff9617ad</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/org.openscad.spark/org.openscad.spark_2021.01spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/org.openscad.spark/org.openscad.spark_2021.01spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/org.openscad.spark/org.openscad.spark_2021.01spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/org.openscad.spark/org.openscad.spark_2021.01spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/org.openscad.spark/org.openscad.spark_2021.01spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/org.openscad.spark/org.openscad.spark_2021.01spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

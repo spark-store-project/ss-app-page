@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="edrawmax_11.5.6_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5c8633559612d89c74dcb50486c28a38</hash>
+				  
+				<hash type="sha1">ad0b33833870c1f758d7bc95d238dc792ceb1c67</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/office/edrawmax/edrawmax_11.5.6_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/office/edrawmax/edrawmax_11.5.6_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/office/edrawmax/edrawmax_11.5.6_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/office/edrawmax/edrawmax_11.5.6_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/office/edrawmax/edrawmax_11.5.6_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/office/edrawmax/edrawmax_11.5.6_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

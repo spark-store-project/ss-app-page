@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="wemeet_3.19.1.400_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">fcdc2a010a25561a4d23e168b677b493</hash>
+				  
+				<hash type="sha1">3513dbd762255a7d7895976cf990552ca797c8af</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/chat/wemeet/wemeet_3.19.1.400_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/chat/wemeet/wemeet_3.19.1.400_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/chat/wemeet/wemeet_3.19.1.400_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/chat/wemeet/wemeet_3.19.1.400_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/chat/wemeet/wemeet_3.19.1.400_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/chat/wemeet/wemeet_3.19.1.400_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

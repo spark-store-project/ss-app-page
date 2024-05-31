@@ -1,0 +1,16 @@
+{
+    "Name": "招商证券PC客户端（wine）",
+    "Version": "7.21deepin5",
+    "Filename": "com.cmschina.zhiyuan.spark_7.21deepin5_i386.deb",
+    "Torrent_address": "com.cmschina.zhiyuan.spark_7.21deepin5_i386.deb.torrent",
+    "Pkgname": "com.cmschina.zhiyuan.spark",
+    "Author": "招商证券股份有限公司",
+    "Contributor": "delsin",
+    "Website": "https://yht.cmschina.com/download.html",
+    "Update": "2022-05-02 15:37:19",
+    "Size": "330.78 MB",
+    "More": "招商证券PC版v7.21，由Deepin-wine5运行。\nZhaoShangZhengQuan Client v7.21 on Deepin-Wine5.\n提示：\n（1）本版本更改了注册表以优化字体显示。\n（2）本版本更新时会覆盖原有版本的安装目录，请在更新前手动备份T0002、vipdoc文件夹，以免日线数据、用户自定义数据被抹除。\n（3）退出本应用时，等待30秒左右应用才能完全退出。\n（4）对于高分辨率屏幕字体显示太小的问题，请在终端安装并自定义winetricks。安装命令：sudo apt install winetricks。自定义分辨率的终端命令：WINEPREFIX=\"/home/你的用户名/.deepinwine/Deepin-ZhaoShangZhiYuanClient\" winetricks 请在弹出的界面中选择默认的wine容器——运行winecfg——显示——屏幕分辨率。屏幕分辨率越高，dpi需设置越大（可多调整几次dpi，以期达到最佳显示效果）。另外，在通达信运行后在系统设置——外观——报价字号——大型/超大型，大号菜单，也可一定程度解决显示字体太小的问题。\n（5）卸载该应用后会在~/.deepinwine/Deepin-ZhaoShangZhiYuanClient留下残留，需自行删除Deepin-ZhaoShangZhiYuanClient文件夹。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/02/85e5c180-c9ea-11ec-8c4b-1555f6502cf6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/02/8791eae0-c9ea-11ec-8c4b-1555f6502cf6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/02/82c0b3c0-c9ea-11ec-8c4b-1555f6502cf6.png"
+}

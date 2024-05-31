@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="mdx-editor_0.7.4_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e026c9146e08ba6b66b42f45c9d01a11</hash>
+				  
+				<hash type="sha1">c97c8d154cba6c3fee36afeaf7cf5dbea4e79381</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/mdx-editor/mdx-editor_0.7.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/mdx-editor/mdx-editor_0.7.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/mdx-editor/mdx-editor_0.7.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/mdx-editor/mdx-editor_0.7.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/mdx-editor/mdx-editor_0.7.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/mdx-editor/mdx-editor_0.7.4_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

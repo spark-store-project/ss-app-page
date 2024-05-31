@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.dongimmortal.spark_1.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">eef811ab7e5ee97cb8da1cb5114cb2d0</hash>
+				  
+				<hash type="sha1">0b96beaab9797857493400fc00f63ec29ad8c4e5</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.dongimmortal.spark/com.dongimmortal.spark_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.dongimmortal.spark/com.dongimmortal.spark_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.dongimmortal.spark/com.dongimmortal.spark_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.dongimmortal.spark/com.dongimmortal.spark_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.dongimmortal.spark/com.dongimmortal.spark_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.dongimmortal.spark/com.dongimmortal.spark_1.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="dde-pstate_0.2.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">44e2806eea550bb9e71ea73fe81174ed</hash>
+				  
+				<hash type="sha1">d40e5c95c31d69cdcf4b0fdb29863a43b4ee2ad5</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/dde-pstate/dde-pstate_0.2.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/dde-pstate/dde-pstate_0.2.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/dde-pstate/dde-pstate_0.2.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/dde-pstate/dde-pstate_0.2.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/dde-pstate/dde-pstate_0.2.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/dde-pstate/dde-pstate_0.2.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

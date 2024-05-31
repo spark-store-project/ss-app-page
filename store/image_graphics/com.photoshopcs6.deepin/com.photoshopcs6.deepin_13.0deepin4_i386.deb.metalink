@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.photoshopcs6.deepin_13.0deepin4_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">2c6caec43a79daf1b757431c91302b1e</hash>
+				  
+				<hash type="sha1">fee3177fe8fa9e31b7e6dc9479326e2bc6a01c67</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.photoshopcs6.deepin/com.photoshopcs6.deepin_13.0deepin4_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/com.photoshopcs6.deepin/com.photoshopcs6.deepin_13.0deepin4_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/com.photoshopcs6.deepin/com.photoshopcs6.deepin_13.0deepin4_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/com.photoshopcs6.deepin/com.photoshopcs6.deepin_13.0deepin4_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/com.photoshopcs6.deepin/com.photoshopcs6.deepin_13.0deepin4_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/com.photoshopcs6.deepin/com.photoshopcs6.deepin_13.0deepin4_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

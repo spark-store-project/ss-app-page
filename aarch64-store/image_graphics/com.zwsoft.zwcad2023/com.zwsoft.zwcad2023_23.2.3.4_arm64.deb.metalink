@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.zwsoft.zwcad2023_23.2.3.4_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e13f0451a7e099c76cafc61aea8e8f99</hash>
+				  
+				<hash type="sha1">63433e824d233a3318b92c3b9ed044bbf0a482d0</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.zwsoft.zwcad2023/com.zwsoft.zwcad2023_23.2.3.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/image_graphics/com.zwsoft.zwcad2023/com.zwsoft.zwcad2023_23.2.3.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/image_graphics/com.zwsoft.zwcad2023/com.zwsoft.zwcad2023_23.2.3.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/image_graphics/com.zwsoft.zwcad2023/com.zwsoft.zwcad2023_23.2.3.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/image_graphics/com.zwsoft.zwcad2023/com.zwsoft.zwcad2023_23.2.3.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/image_graphics/com.zwsoft.zwcad2023/com.zwsoft.zwcad2023_23.2.3.4_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

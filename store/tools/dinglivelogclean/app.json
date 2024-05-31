@@ -1,0 +1,16 @@
+{
+    "Name": "钉钉视频会议日志清理",
+    "Version": "1.2.3-0.1",
+    "Filename": "dinglivelogclean_1.2.3-0.1_all.deb",
+    "Torrent_address": "dinglivelogclean_1.2.3-0.1_all.deb.torrent",
+    "Pkgname": "dinglivelogclean",
+    "Author": "NurIwL<way610@126.com>",
+    "Contributor": "WAYYYAW <way610@126.com>",
+    "Website": "...",
+    "Update": "2022-12-27 12:09:47",
+    "Size": "24.88 KB",
+    "More": "钉钉linux视频会议产生超大日志文件，还不能直接rm。写了个一键清理工具。可以在会议进行的情况下清理日志。\n-可以选择清理今天的日志\n-也可以清理以前的日志\n-想要定期执行可以写入crontab\n-安装后会生成两个图标，自行选择",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/b8d5e5277edb4ad4ac489574b29fc6e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/3c4331cfedb14772a13effb96493c749.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/27/6e7950ee141c41c3a8a32f9ed6dc3a30.png"
+}

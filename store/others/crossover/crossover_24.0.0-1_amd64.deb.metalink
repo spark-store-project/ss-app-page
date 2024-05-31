@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="crossover_24.0.0-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b8bd5d3677c021f7559c24481293a060</hash>
+				  
+				<hash type="sha1">dbb3f8af2cb9b875608148f49e938cd1c47d3a31</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/crossover/crossover_24.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/crossover/crossover_24.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/crossover/crossover_24.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/crossover/crossover_24.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/crossover/crossover_24.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/crossover/crossover_24.0.0-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

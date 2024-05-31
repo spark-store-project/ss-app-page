@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.luxor3.spark_1.0spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9630013f09b6921e80a4cf5ea71152b0</hash>
+				  
+				<hash type="sha1">d2fe764dc77824f98153db071727c0ab3e318bdf</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.luxor3.spark/com.luxor3.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.luxor3.spark/com.luxor3.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.luxor3.spark/com.luxor3.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.luxor3.spark/com.luxor3.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.luxor3.spark/com.luxor3.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.luxor3.spark/com.luxor3.spark_1.0spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

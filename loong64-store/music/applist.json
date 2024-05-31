@@ -1,0 +1,158 @@
+[
+{
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.163.music.spark_2.10.6spark7_all.deb",
+    "More": "网易云音乐pc客户端 \n\n更新说明： \n尝试修复Gnome和deepin 23下的启动问题",
+    "Name": "网易云音乐（wine）",
+    "Pkgname": "com.163.music.spark",
+    "Size": "134 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.163.music.spark_2.10.6spark7_all.deb.torrent",
+    "Update": "2024-03-23 22:50:39",
+    "Version": "2.10.6spark7",
+    "Website": "http://music.163.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/music/com.163.music.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/music/com.163.music.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/com.163.music.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/com.163.music.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "qier222 <qier222@outlook.com>",
+    "Contributor": "qier222 <qier222@outlook.com>",
+    "Filename": "yesplaymusic_0.4.3_loong64.deb",
+    "More": "高颜值的第三方网易云播放器",
+    "Name": "Yesplaymusic（第三方网易云音乐）",
+    "Pkgname": "yesplaymusic",
+    "Size": "95 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "yesplaymusic_0.4.3_loong64.deb.torrent",
+    "Update": "2024-03-22 19:50:01",
+    "Version": "0.4.3",
+    "Website": "https://github.com/qier222/YesPlayMusic",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/music/yesplaymusic/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/music/yesplaymusic/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/yesplaymusic/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/yesplaymusic/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/yesplaymusic/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/yesplaymusic/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "懵仙兔兔 <acgm@qq.com>",
+    "Contributor": "懵仙兔兔 <acgm@qq.com>",
+    "Filename": "netease-cloud-music_1.2.1.1_loong64.deb",
+    "More": "懵仙兔兔修改版的网易云音乐官方客户端\n- 1.修复了无法在线播放sq音乐(flac格式音乐)的问题\n- 2.彻底修复了在 Debian、Ubuntu、Deepin等缺少动态库以至于不能正常运行\n- 3.修复 NSS 初始化失败的问题\n- 4.修复无法使用 fcitx 或 fcitx5 的问题\n- 5.修复 wayland 不能中文输入的问题\n- 5.删除 gtk 或 gdk 及其依赖项，使用系统内建\n- 6.修复 VLC RCE CVE-2019-13962，删除 VLC 及其插件和依赖项，使用系统内建\n- 7.删除不需要的动态库及其依赖项，以缩小体积\n\n注：2023年5月起，仅首页的个性化推荐api失效，其余功能都正常（不能直接密码登陆）\n\n兼容性测试：\ndebian testing：正常\ndebian 12：正常\nubuntu 22.04：正常\ndeepin 23b2：正常\ndeepin 20.9：正常",
+    "Name": "网易云音乐(ACE x86)",
+    "Pkgname": "netease-cloud-music",
+    "Size": "66 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "netease-cloud-music_1.2.1.1_loong64.deb.torrent",
+    "Update": "2024-04-03 01:10:50",
+    "Version": "1.2.1.1",
+    "Website": "https://gitee.com/amber-ce",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/music/netease-cloud-music/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/music/netease-cloud-music/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/netease-cloud-music/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/netease-cloud-music/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/netease-cloud-music/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/netease-cloud-music/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.kugou.spark_10.2.46spark7_all.deb",
+    "More": "就是歌多 大有不同 \n\n更新说明：\n1.基于deepin-wine6打包，已知问题：播放MV只有声音、无画面\n2.修复了应用窗口缩放后无法调整的问题",
+    "Name": "酷狗音乐（wine）",
+    "Pkgname": "com.kugou.spark",
+    "Size": "141 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.kugou.spark_10.2.46spark7_all.deb.torrent",
+    "Update": "2024-03-23 22:31:38",
+    "Version": "10.2.46spark7",
+    "Website": "https://www.kugou.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/music/com.kugou.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/music/com.kugou.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/com.kugou.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/com.kugou.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "fengT-T <2995207228@qq.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "cocomusic_2.0.7.1_loong64.deb",
+    "More": "Coco Music，美观的第三方QQ音乐\n\n首次安装ACE应用请重启或者注销以显示在应用列表",
+    "Name": "Coco Music(ACE x86)",
+    "Pkgname": "cocomusic",
+    "Size": "45 Mb",
+    "Tags": "community;deepin",
+    "Torrent_address": "cocomusic_2.0.7.1_loong64.deb.torrent",
+    "Update": "2024-04-04 18:56:16",
+    "Version": "2.0.7.1",
+    "Website": "https://gitee.com/spark-building-service/ace-host-package-creator",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/music/cocomusic/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/music/cocomusic/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/cocomusic/screen_2.png\"]"
+}
+
+,
+{
+    "Name": "音频格式转换器（Sound Converter）",
+    "Version": "3.0.1-2",
+    "Filename": "uos.app.soundconverter_3.0.1-2_all.deb",
+    "Pkgname": "uos.app.soundconverter",
+    "Author": "GNOME",
+    "Contributor": "shenmo",
+    "Website": "https://soundconverter.org/",
+    "Update": "2021-12-12 15:56:32",
+    "Size": "105.11 KB",
+    "More": "Sound Converter 是 一 款 实 用 的 音频 转换 工具 ， 能 互相 转换 不 同 声音 文件 的 格式 。Sound Converter 可 以 将 大 多 数 音频 格式 方便 的 转换 成 ogg、flac、mp3 或\n者 wav 文件 ， 还 可 以 按照 1D3 信 息 给 转换 后 的 歌曲 重新 命名 。\n",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/12/741d96a0-5b20-11ec-b375-49e92b822e8f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/12/7123dea0-5b20-11ec-b375-49e92b822e8f.png"
+}
+,
+{
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "ru.aimp.spark_5.30.2530spark4_all.deb",
+    "More": "一款来自俄罗斯的音乐播放软件，操作方式类似老牌MP3播放器 Winamp。但是它却有比 Winamp 更多以及更好用的功能，而且完全是免费软件\n\n说明：在deepin下窗口最大化后会出现闪屏现象，但不影响操作；Ubuntu下则正常",
+    "Name": "AIMP",
+    "Pkgname": "ru.aimp.spark",
+    "Size": "41 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "ru.aimp.spark_5.30.2530spark4_all.deb.torrent",
+    "Update": "2024-03-23 19:58:38",
+    "Version": "5.30.2530spark4",
+    "Website": "http://www.aimp.ru/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/music/ru.aimp.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/music/ru.aimp.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/ru.aimp.spark/screen_2.png\"]"
+}
+
+,
+{
+    "Name": "UTAU(Wine)",
+    "Version": "5",
+    "Filename": "utau-spark-wine_5_all.deb",
+    "Torrent_address": "utau-spark-wine_5_all.deb.torrent",
+    "Pkgname": "utau-spark-wine",
+    "Author": "utsu",
+    "Contributor": "1074536311",
+    "Website": "http://utau2008.xrea.jp/",
+    "Update": "2024-02-17 20:00:35",
+    "Size": "96.35 MB",
+    "More": "utau",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/17/0742adf0-cd8c-11ee-8579-d7e592573d06.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/17/04c503c0-cd8c-11ee-8579-d7e592573d06.ico"
+}
+,
+{
+    "Name": "PulseEffects 音效切换器",
+    "Version": "1.0b20201224",
+    "Filename": "com.xretia.petray_1.0b20201224_all.deb",
+    "Pkgname": "com.xretia.petray",
+    "Author": "dfc643",
+    "Contributor": "dfc643",
+    "Website": "https://gitlab.com/dfc643/pulseeffectstray/",
+    "Update": "2020-12-24 06:42:58",
+    "Size": "290.22 KB",
+    "More": "兼容 PulseEffects 4.x ，不兼容深度商店的老版本，安装完成后在主菜单中右键图标选开机自动启动即可。\n\nPulseEffects 4.x 安装教程：https://bbs.deepin.org/post/208571\n\n1.0b20201224\n使用 PyQt 重写以适配 DTK\n添加左键点击图标快速禁用启动音效\n添加切换音效时显示通知\n添加打开 PulseEffects 入口\n添加简体中文、繁体中文、日语、英语支持\n优化图标大小",
+    "Tags": "community;deepin;uos;dtk5;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/22ce4ca0-45b3-11eb-9068-bf202cae3933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/27731c90-45b3-11eb-9068-bf202cae3933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/28ec4f10-45b3-11eb-9068-bf202cae3933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/2ab88390-45b3-11eb-9068-bf202cae3933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/2d419f70-45b3-11eb-9068-bf202cae3933.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/24/1dd73e00-45b3-11eb-9068-bf202cae3933.png"
+}
+]

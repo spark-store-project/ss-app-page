@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.nagi-p.nssh.spark_1.3j-3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c00967351dac027f695b95e93ee17fb2</hash>
+				  
+				<hash type="sha1">54a53ee5a82ee2cd6dcd7dfeb11243c619d65284</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.nagi-p.nssh.spark/com.nagi-p.nssh.spark_1.3j-3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.nagi-p.nssh.spark/com.nagi-p.nssh.spark_1.3j-3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.nagi-p.nssh.spark/com.nagi-p.nssh.spark_1.3j-3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.nagi-p.nssh.spark/com.nagi-p.nssh.spark_1.3j-3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.nagi-p.nssh.spark/com.nagi-p.nssh.spark_1.3j-3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.nagi-p.nssh.spark/com.nagi-p.nssh.spark_1.3j-3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

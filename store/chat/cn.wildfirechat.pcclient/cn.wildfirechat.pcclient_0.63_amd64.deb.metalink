@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.wildfirechat.pcclient_0.63_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b47cf5bb70d1492ee6fe57b93aec08e4</hash>
+				  
+				<hash type="sha1">0d2e35343c45782670ff46a69824e1e9a3402d12</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/chat/cn.wildfirechat.pcclient/cn.wildfirechat.pcclient_0.63_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/chat/cn.wildfirechat.pcclient/cn.wildfirechat.pcclient_0.63_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/chat/cn.wildfirechat.pcclient/cn.wildfirechat.pcclient_0.63_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/chat/cn.wildfirechat.pcclient/cn.wildfirechat.pcclient_0.63_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/chat/cn.wildfirechat.pcclient/cn.wildfirechat.pcclient_0.63_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/chat/cn.wildfirechat.pcclient/cn.wildfirechat.pcclient_0.63_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="deepin.com.wechat_2.6.8.65spark1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">98ca920d59d63b2e064eb84089a6adad</hash>
+				  
+				<hash type="sha1">0861da7213fe222b5bfc962e51b6b22605b55e40</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/chat/deepin.com.wechat/deepin.com.wechat_2.6.8.65spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/chat/deepin.com.wechat/deepin.com.wechat_2.6.8.65spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/chat/deepin.com.wechat/deepin.com.wechat_2.6.8.65spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/chat/deepin.com.wechat/deepin.com.wechat_2.6.8.65spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/chat/deepin.com.wechat/deepin.com.wechat_2.6.8.65spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/chat/deepin.com.wechat/deepin.com.wechat_2.6.8.65spark1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

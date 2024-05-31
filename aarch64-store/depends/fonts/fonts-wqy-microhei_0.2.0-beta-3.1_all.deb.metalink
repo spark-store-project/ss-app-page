@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="fonts-wqy-microhei_0.2.0-beta-3.1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">41e50066c39e6235c8cbd289b2d1ae13</hash>
+				  
+				<hash type="sha1">5f6730e30eaddeb0e589c86b993e9fd1197d42d4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/depends/fonts/fonts-wqy-microhei_0.2.0-beta-3.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/depends/fonts/fonts-wqy-microhei_0.2.0-beta-3.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/depends/fonts/fonts-wqy-microhei_0.2.0-beta-3.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/depends/fonts/fonts-wqy-microhei_0.2.0-beta-3.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/depends/fonts/fonts-wqy-microhei_0.2.0-beta-3.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/depends/fonts/fonts-wqy-microhei_0.2.0-beta-3.1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

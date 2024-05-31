@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="simple-image-filter_1.0.9_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">079f4adcf5d92b86debeb297d859f903</hash>
+				  
+				<hash type="sha1">6676be3cd3f651351a3eb6f811096b03324ab0e8</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/simple-image-filter/simple-image-filter_1.0.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/simple-image-filter/simple-image-filter_1.0.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/simple-image-filter/simple-image-filter_1.0.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/simple-image-filter/simple-image-filter_1.0.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/simple-image-filter/simple-image-filter_1.0.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/simple-image-filter/simple-image-filter_1.0.9_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

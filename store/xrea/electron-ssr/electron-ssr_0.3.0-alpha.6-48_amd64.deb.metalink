@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="electron-ssr_0.3.0-alpha.6-48_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5f15e576f35a85be92291732c5116851</hash>
+				  
+				<hash type="sha1">33a964f4e9447b4f4abacded100f464dc3715731</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/xrea/electron-ssr/electron-ssr_0.3.0-alpha.6-48_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/xrea/electron-ssr/electron-ssr_0.3.0-alpha.6-48_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/xrea/electron-ssr/electron-ssr_0.3.0-alpha.6-48_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/xrea/electron-ssr/electron-ssr_0.3.0-alpha.6-48_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/xrea/electron-ssr/electron-ssr_0.3.0-alpha.6-48_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/xrea/electron-ssr/electron-ssr_0.3.0-alpha.6-48_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

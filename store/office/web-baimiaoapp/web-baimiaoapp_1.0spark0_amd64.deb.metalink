@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="web-baimiaoapp_1.0spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">8327ab7c700bf26687c5b67209b40818</hash>
+				  
+				<hash type="sha1">a6795687a3b7f1a4c82fa214ce28b65e637fa6c7</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/web-baimiaoapp/web-baimiaoapp_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/web-baimiaoapp/web-baimiaoapp_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/web-baimiaoapp/web-baimiaoapp_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/web-baimiaoapp/web-baimiaoapp_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/web-baimiaoapp/web-baimiaoapp_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/web-baimiaoapp/web-baimiaoapp_1.0spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

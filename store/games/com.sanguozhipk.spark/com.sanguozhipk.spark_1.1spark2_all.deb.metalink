@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.sanguozhipk.spark_1.1spark2_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">0d0525e51f97c6dba3e340665eaf1f31</hash>
+				  
+				<hash type="sha1">f2a9e19f36911aa6d0ddbc302cb8fb49109670ac</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.sanguozhipk.spark/com.sanguozhipk.spark_1.1spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.sanguozhipk.spark/com.sanguozhipk.spark_1.1spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.sanguozhipk.spark/com.sanguozhipk.spark_1.1spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.sanguozhipk.spark/com.sanguozhipk.spark_1.1spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.sanguozhipk.spark/com.sanguozhipk.spark_1.1spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.sanguozhipk.spark/com.sanguozhipk.spark_1.1spark2_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,15 @@
+{
+    "Name": "Notion",
+    "Version": "2.0.11-4",
+    "Filename": "notion-desktop_2.0.11-4_amd64.deb",
+    "Pkgname": "notion-desktop",
+    "Author": "davidbailey00",
+    "Contributor": "jerrywang",
+    "Website": "https://github.com/davidbailey00/notion-linux-builder",
+    "Update": "2021-02-03 22:54:52",
+    "Size": "93.17 MB",
+    "More": "一个将笔记、任务管理和知识库相结合的跨平台协作工具, 非常好的笔记软件. \n官网: https://notion.so\n本软件是非官方包, 是github大神的在debian上的移植, 效果和win上的差不多, 可在有缓存的情况下离线编辑.\n此版本支持最新版 notion-enhancer。升级之后需要修改权限方可使用Notion-enhancer \n```\nsudo chmod -R a+wr /usr/lib/notion-desktop/resources/app\n```",
+    "Tags": "ubuntu;community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/03/7aa4f860-662f-11eb-b2b7-99472486f8a0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/03/79d99210-662f-11eb-b2b7-99472486f8a0.png"
+}

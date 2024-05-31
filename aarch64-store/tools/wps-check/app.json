@@ -1,0 +1,16 @@
+{
+    "Author": "Careone <emacslocale@126.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "wps-check_0.3-1_all.deb",
+    "More": "License: MulanPSL2 (Mulan Permissive Software License，Version 2)\n .\n 许可证：MulanPSL2 (木兰宽松许可证, 第2版)\n .\n WPS Office 版本信息检测报告工具。可以自动自动填写当前Linux系统版本号、\n 硬件平台；内核版本；WPS Office 版本号；以及其它相关信息。\n .\n 主要用途：方便用户反馈和上报 WPS Office 异常、缺陷; 缺失的常用中文/英文\n /符号字体，以及其它建议。\n .\n 测试环境:\n  * WPS Office 11.1.0.11664 (2022-6-08 发布)\n  * Debian 11.6 amd64\n .\n SourceForge: https://sourceforge.net/projects/emacslocale/files/wps-check/\n\n用法：\n以普通用户运行命令\nwps-check\n或者 带 -a 参数（可检测并记录 Windows 相关字体信息）\nwps-check -a",
+    "Name": "WPS Office 版本信息及字体检测小工具",
+    "Pkgname": "wps-check",
+    "Size": "126 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "wps-check_0.3-1_all.deb.torrent",
+    "Update": "2023-03-05 18:41:53",
+    "Version": "0.3-1",
+    "Website": "https://bbs.deepin.org/post/248386",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/wps-check/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/wps-check/screen_1.png\"]"
+}

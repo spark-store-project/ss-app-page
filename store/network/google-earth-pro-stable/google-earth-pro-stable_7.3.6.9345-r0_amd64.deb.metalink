@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="google-earth-pro-stable_7.3.6.9345-r0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">0c801e2c22c42d47210bae598cbece1d</hash>
+				  
+				<hash type="sha1">6cbf2770e545a6f2bec54e7cab5c9b8f2f86a9ee</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/google-earth-pro-stable/google-earth-pro-stable_7.3.6.9345-r0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/google-earth-pro-stable/google-earth-pro-stable_7.3.6.9345-r0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/google-earth-pro-stable/google-earth-pro-stable_7.3.6.9345-r0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/google-earth-pro-stable/google-earth-pro-stable_7.3.6.9345-r0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/google-earth-pro-stable/google-earth-pro-stable_7.3.6.9345-r0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/google-earth-pro-stable/google-earth-pro-stable_7.3.6.9345-r0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

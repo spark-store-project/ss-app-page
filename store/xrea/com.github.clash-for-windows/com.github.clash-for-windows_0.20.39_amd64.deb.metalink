@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.github.clash-for-windows_0.20.39_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">d3f7466d01cc928eb6d5ce36376da855</hash>
+				  
+				<hash type="sha1">036b651b333e7600c34cc9478fb1a17c7ab7c274</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/xrea/com.github.clash-for-windows/com.github.clash-for-windows_0.20.39_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/xrea/com.github.clash-for-windows/com.github.clash-for-windows_0.20.39_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/xrea/com.github.clash-for-windows/com.github.clash-for-windows_0.20.39_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/xrea/com.github.clash-for-windows/com.github.clash-for-windows_0.20.39_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/xrea/com.github.clash-for-windows/com.github.clash-for-windows_0.20.39_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/xrea/com.github.clash-for-windows/com.github.clash-for-windows_0.20.39_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

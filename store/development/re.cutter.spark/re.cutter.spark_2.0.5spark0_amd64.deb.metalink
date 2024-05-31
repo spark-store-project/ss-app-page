@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="re.cutter.spark_2.0.5spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f8d7cfecc19cd685fe27d4886a02db8b</hash>
+				  
+				<hash type="sha1">9a58d4eb6b1da71764a82517ef8dae0108740f1c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/re.cutter.spark/re.cutter.spark_2.0.5spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/re.cutter.spark/re.cutter.spark_2.0.5spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/re.cutter.spark/re.cutter.spark_2.0.5spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/re.cutter.spark/re.cutter.spark_2.0.5spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/re.cutter.spark/re.cutter.spark_2.0.5spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/re.cutter.spark/re.cutter.spark_2.0.5spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

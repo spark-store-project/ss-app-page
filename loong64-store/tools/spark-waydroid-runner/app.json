@@ -1,0 +1,16 @@
+{
+    "Name": "Waydroid 运行器 1.2.0.1",
+    "Version": "1.2.0.1",
+    "Filename": "spark-waydroid-runner_1.2.0.1_all.deb",
+    "Torrent_address": "spark-waydroid-runner_1.2.0.1_all.deb.torrent",
+    "Pkgname": "spark-waydroid-runner",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gitee.com/gfdgd-xi/waydroid-runner",
+    "Update": "2023-09-29 15:06:08",
+    "Size": "1.17 MB",
+    "More": "介绍\nWaydroid运行器是可以通过GUI形式半自动配置Waydroid的工具，使用户使用Waydroid更为方便。Waydroid本身存在很多因AOSP未考虑PC用户而产生的问题(如没有自带Houdini,默认英语,默认非小窗模式)而使用户使用起来非常难受,本运行器支持以GUI形式自动化安装以及配置Waydroid，并会创建快捷控制的快捷方式，可以用于玩游戏/刷视频/Android开发等。\n\n配置要求\n仅限启用 Wayland 的 x86-64 的 Linux，ARM64的在安装Magisk时需要重新制作data.img(教程有时间放出来) 显卡仅限Intel & AMD(独立显卡需要启动桌面环境时使用独立显卡,否则无法使用),只有英伟达显卡(连Intel核心显卡都没有的)当前无法使用本项目，建议使用xDroid/UEngine作为替代。\n\nWaydroid运行器 QQ 交流群：872491938 \n推荐在 Deepin23 Wayland 环境下使用，X11 下会自动调用 Sway/Weston 运行 \n如果在 Deepin20/UOS家庭版使用，程序会自动升级系统的 lxc 版本，可能会导致系统崩溃，且 UOS 用户需要开启开发者模式才能正常安装 \nUOS 专业版/教育版暂不支持",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/56f32f53400e48959cc1fed1824cb210.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/85865e520c76454fbe734c9fb7550fbc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/fc446b266ef04482877ac7679f0c351b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/29/b734b0164def46fe9cbe7077a88cc399.png"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.microsoft2003.installer.spark_2003spark0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">cfbb0a8d3dd62a4dc079e5fdd24242da</hash>
+				  
+				<hash type="sha1">df172cba10d7b869f52800c0cffeeba76d1b7b90</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/office/com.microsoft2003.installer.spark/com.microsoft2003.installer.spark_2003spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/office/com.microsoft2003.installer.spark/com.microsoft2003.installer.spark_2003spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/office/com.microsoft2003.installer.spark/com.microsoft2003.installer.spark_2003spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/office/com.microsoft2003.installer.spark/com.microsoft2003.installer.spark_2003spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/office/com.microsoft2003.installer.spark/com.microsoft2003.installer.spark_2003spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/office/com.microsoft2003.installer.spark/com.microsoft2003.installer.spark_2003spark0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

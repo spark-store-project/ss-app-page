@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="photogimp_2.10.21.1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f51c8d2b874750dbca2752405452e3b7</hash>
+				  
+				<hash type="sha1">97ba89852f0ed838822ae45a20b911d780906d2c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/photogimp/photogimp_2.10.21.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/photogimp/photogimp_2.10.21.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/photogimp/photogimp_2.10.21.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/photogimp/photogimp_2.10.21.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/photogimp/photogimp_2.10.21.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/photogimp/photogimp_2.10.21.1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

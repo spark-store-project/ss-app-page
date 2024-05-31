@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="linuxqq-2.0.0-b2_2.0.0-b2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a75738d54672f1be380b0d739e3c8e8e</hash>
+				  
+				<hash type="sha1">e91faf1723ea6e305f559aa697346f00ef42807c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/chat/linuxqq-2.0.0-b2/linuxqq-2.0.0-b2_2.0.0-b2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/chat/linuxqq-2.0.0-b2/linuxqq-2.0.0-b2_2.0.0-b2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/chat/linuxqq-2.0.0-b2/linuxqq-2.0.0-b2_2.0.0-b2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/chat/linuxqq-2.0.0-b2/linuxqq-2.0.0-b2_2.0.0-b2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/chat/linuxqq-2.0.0-b2/linuxqq-2.0.0-b2_2.0.0-b2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/chat/linuxqq-2.0.0-b2/linuxqq-2.0.0-b2_2.0.0-b2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

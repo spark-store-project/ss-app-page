@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="bellsoft-java8-full_1.8.0.412_plus9_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b27be31a79fa815e7294fd91dbfe842b</hash>
+				  
+				<hash type="sha1">df21a1128192fc278ec6b18cdcbb4e26a1a16c6a</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/bellsoft-java8-full/bellsoft-java8-full_1.8.0.412_plus9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/bellsoft-java8-full/bellsoft-java8-full_1.8.0.412_plus9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/bellsoft-java8-full/bellsoft-java8-full_1.8.0.412_plus9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/bellsoft-java8-full/bellsoft-java8-full_1.8.0.412_plus9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/bellsoft-java8-full/bellsoft-java8-full_1.8.0.412_plus9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/bellsoft-java8-full/bellsoft-java8-full_1.8.0.412_plus9_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

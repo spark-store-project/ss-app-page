@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.sloppygoat.spark_1.0spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c26e71d166c16d6bdc8a4310622b5db1</hash>
+				  
+				<hash type="sha1">8186af20a04f97dea3f534737edaeec3fbd92486</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.sloppygoat.spark/com.sloppygoat.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.sloppygoat.spark/com.sloppygoat.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.sloppygoat.spark/com.sloppygoat.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.sloppygoat.spark/com.sloppygoat.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.sloppygoat.spark/com.sloppygoat.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.sloppygoat.spark/com.sloppygoat.spark_1.0spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

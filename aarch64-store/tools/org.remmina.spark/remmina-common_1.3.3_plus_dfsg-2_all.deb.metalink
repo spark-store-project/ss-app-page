@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="remmina-common_1.3.3_plus_dfsg-2_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">d340a9e1fb18cb7f284b60eea1574b68</hash>
+				  
+				<hash type="sha1">87105b46cae90a705ed2a68ae95f85a4a4e6d57d</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/org.remmina.spark/remmina-common_1.3.3_plus_dfsg-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/tools/org.remmina.spark/remmina-common_1.3.3_plus_dfsg-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/tools/org.remmina.spark/remmina-common_1.3.3_plus_dfsg-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/tools/org.remmina.spark/remmina-common_1.3.3_plus_dfsg-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/tools/org.remmina.spark/remmina-common_1.3.3_plus_dfsg-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/tools/org.remmina.spark/remmina-common_1.3.3_plus_dfsg-2_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.qq.weixin.mejituu_3.9.6.32_plus_Mejituu-2023121722_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">70fa7f38ed1053e8b41918fca50056f8</hash>
+				  
+				<hash type="sha1">21bc4cea74f9b04f0cfcd03f4b73142e7dd53163</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/com.qq.weixin.mejituu/com.qq.weixin.mejituu_3.9.6.32_plus_Mejituu-2023121722_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/chat/com.qq.weixin.mejituu/com.qq.weixin.mejituu_3.9.6.32_plus_Mejituu-2023121722_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/chat/com.qq.weixin.mejituu/com.qq.weixin.mejituu_3.9.6.32_plus_Mejituu-2023121722_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/chat/com.qq.weixin.mejituu/com.qq.weixin.mejituu_3.9.6.32_plus_Mejituu-2023121722_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/chat/com.qq.weixin.mejituu/com.qq.weixin.mejituu_3.9.6.32_plus_Mejituu-2023121722_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/chat/com.qq.weixin.mejituu/com.qq.weixin.mejituu_3.9.6.32_plus_Mejituu-2023121722_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

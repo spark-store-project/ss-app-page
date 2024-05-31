@@ -1,0 +1,16 @@
+{
+    "Name": "羽云 GIF 编辑器",
+    "Version": "1.1.2",
+    "Filename": "com.wingsummer.winggifeditor_1.1.2_amd64.deb",
+    "Torrent_address": "com.wingsummer.winggifeditor_1.1.2_amd64.deb.torrent",
+    "Pkgname": "com.wingsummer.winggifeditor",
+    "Author": "寂静的羽夏(wingsummer)",
+    "Contributor": "wingsummer <1326224942@qq.com>",
+    "Website": "https://www.cnblogs.com/wingsummer/",
+    "Update": "2022-11-15 12:17:45",
+    "Size": "1.4 MB",
+    "More": "一个运行在 Deepin 上的简单易用强大的 GIF 图像编辑器。\n目前对此版本做了以下修复：\n1. 更换编码库为 cgif\n2. 增加图像后处理，充分利用现有的控制台图像处理工具\n3. 修复切割图像窗体关闭后仍不恢复的 Bug\n4. 增加日志系统\n5. 增加文件拖拽打开文件功能",
+    "Tags": "community;deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/15/515d7796-9c53-4051-9bf5-1b6b2d1515cc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/15/17071cba-db40-4cf8-a631-721ea742c2b6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/15/94db1d24-7681-4ad3-8488-1cd9c5216ff4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/15/8f8dd8f0-6d08-4787-b2e9-56169491dc41.png"
+}

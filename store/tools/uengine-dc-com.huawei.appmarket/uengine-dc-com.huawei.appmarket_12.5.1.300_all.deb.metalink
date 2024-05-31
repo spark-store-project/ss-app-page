@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="uengine-dc-com.huawei.appmarket_12.5.1.300_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">67c39101fc0326475a5174a6a2b455cd</hash>
+				  
+				<hash type="sha1">ae15f6e20486e9113b9ce2e37bee509b796b8d6d</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/uengine-dc-com.huawei.appmarket/uengine-dc-com.huawei.appmarket_12.5.1.300_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/uengine-dc-com.huawei.appmarket/uengine-dc-com.huawei.appmarket_12.5.1.300_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/uengine-dc-com.huawei.appmarket/uengine-dc-com.huawei.appmarket_12.5.1.300_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/uengine-dc-com.huawei.appmarket/uengine-dc-com.huawei.appmarket_12.5.1.300_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/uengine-dc-com.huawei.appmarket/uengine-dc-com.huawei.appmarket_12.5.1.300_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/uengine-dc-com.huawei.appmarket/uengine-dc-com.huawei.appmarket_12.5.1.300_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

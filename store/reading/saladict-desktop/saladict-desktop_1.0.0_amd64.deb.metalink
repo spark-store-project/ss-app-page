@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="saladict-desktop_1.0.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a275b50925fac1b53386f548f625290e</hash>
+				  
+				<hash type="sha1">7332401a1208d369ce8de449fee9e684aec6255f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/reading/saladict-desktop/saladict-desktop_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/reading/saladict-desktop/saladict-desktop_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/reading/saladict-desktop/saladict-desktop_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/reading/saladict-desktop/saladict-desktop_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/reading/saladict-desktop/saladict-desktop_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/reading/saladict-desktop/saladict-desktop_1.0.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,16 @@
+{
+    "Name": "引导修复 Boot-Repair",
+    "Version": "4ppa203",
+    "Filename": "boot-repair_4ppa203_all.deb",
+    "Torrent_address": "boot-repair_4ppa203_all.deb.torrent",
+    "Pkgname": "boot-repair",
+    "Author": "Yann Mrn <yannubuntu@protonmail.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://launchpad.net/boot-repair",
+    "Update": "2023-03-03 23:16:33",
+    "Size": "15.31 KB",
+    "More": "In some situation, you might loose access to one or several of\n your operating systems, because of a buggy update, a bootloader\n problem, or after installing a new OS (e.g. installing\n Windows breaks Linux bootloader).\n .\n Boot-Repair is a graphical tool that will repair these problems,\n generally by reinstalling GRUB, which then restores access to the\n operating systems you had installed before the issue.\n .\n Boot-Repair also has advanced options to reinstall GRUB, add\n kernel options, or restore a generic MBR.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/f8c5955496724364892c9aeb48814314.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/0bc66a7cfc8c49f2aad86b41f840a1c9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/03/9a360c13ca32441489dc8344e7bb6799.png"
+}

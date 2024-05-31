@@ -1,0 +1,451 @@
+[
+{
+    "Author": "deepin-wine team",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.photoshopcs6.deepin_13.1spark1_all.deb",
+    "More": "photoshopcs6 on Wine\n根据之前留存在本地的容器打包，深度应用商店的PS CS6被下架了\n\n神秘链接：https://bbs.deepin.org/post/235013",
+    "Name": "Adobe Photoshop CS6",
+    "Pkgname": "com.photoshopcs6.deepin",
+    "Size": "560 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.photoshopcs6.deepin_13.1spark1_all.deb.torrent",
+    "Update": "2023-08-04 15:21:44",
+    "Version": "13.1spark1",
+    "Website": "https://www.adobe.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.photoshopcs6.deepin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.photoshopcs6.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.photoshopcs6.deepin/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "meitu",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.meitu.mtxx_2.0.4_arm64.deb",
+    "More": "美图秀秀是一款很好用的免费图片处理软件，不用学习就会用。美图秀秀拥有的图片特效、美容、拼图、场景、边框、饰品等功能，加上每天更新的精选素材，可以让你1分钟做出影楼级照片。",
+    "Name": "美图秀秀（Linux）",
+    "Pkgname": "com.meitu.mtxx",
+    "Size": "124 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.meitu.mtxx_2.0.4_arm64.deb.torrent",
+    "Update": "2023-08-02 13:32:39",
+    "Version": "2.0.4",
+    "Website": "https://pc.meitu.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.meitu.mtxx/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.meitu.mtxx/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.meitu.mtxx/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.meitu.mtxx/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "liuminghang  <liuminghang0821@gmail.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "simple-image-filter_1.1.0_arm64.deb",
+    "More": "处理简单的图像,一键化操作,可裁剪头像等功能,简单的图像处理,纯qt +dtk打造,官网有不使用dtk版本,并且可以在windows编译,欢迎点赞",
+    "Name": "简单图像处理工具",
+    "Pkgname": "simple-image-filter",
+    "Size": "283 Kb",
+    "Tags": "deepin;uos;dtk5",
+    "Torrent_address": "simple-image-filter_1.1.0_arm64.deb.torrent",
+    "Update": "2023-03-05 19:35:15",
+    "Version": "1.1.0",
+    "Website": "simple-image-filter",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/simple-image-filter/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/simple-image-filter/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/simple-image-filter/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/simple-image-filter/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "zhangkaijie <zhangkaijie@021.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.wn51.picture_1.0.1_arm64.deb",
+    "More": "多平台的看图软件",
+    "Name": "万能看图王",
+    "Pkgname": "com.wn51.picture",
+    "Size": "304 Kb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.wn51.picture_1.0.1_arm64.deb.torrent",
+    "Update": "2023-08-02 13:38:19",
+    "Version": "1.0.1",
+    "Website": "<insert the upstream URL, if relevant>",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.wn51.picture/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.wn51.picture/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.wn51.picture/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "leijie <leijie@zwcad.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.zwsoft.zwcad2023_23.2.3.4_arm64.deb",
+    "More": "ZWCAD2023 Linux是ZWSOFT研发的计算机辅助设计软件。",
+    "Name": "中望CAD 2023 For Linux",
+    "Pkgname": "com.zwsoft.zwcad2023",
+    "Size": "154 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.zwsoft.zwcad2023_23.2.3.4_arm64.deb.torrent",
+    "Update": "2023-06-11 12:30:24",
+    "Version": "23.2.3.4",
+    "Website": "https://www.zwcad.com",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcad2023/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcad2023/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcad2023/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcad2023/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcad2023/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "JGraph <support@draw.io>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "draw.io_24.4.8_arm64.deb",
+    "More": "draw.io 是一个强大简洁的绘图软件，支持流程图，UML图，架构图，原型图等图标。支持Github，Google Drive, One drive等网盘同步，并且永久免费。",
+    "Name": "draw.io",
+    "Pkgname": "draw.io",
+    "Size": "95 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "draw.io_24.4.8_arm64.deb.torrent",
+    "Update": "2024-05-27 19:02:33",
+    "Version": "24.4.8",
+    "Website": "https://github.com/jgraph/drawio",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/draw.io/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/draw.io/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "Liuminghang",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Filename": "durian-ocr_1.0_arm64.deb",
+    "More": "deepin-ocr的无dtk版本，可以在ubuntu20.04和debian10以上系统使用，增加了一个小界面和切换识别语言，使用方法:命令行使用:durian-ocr +路径  ，界面使用",
+    "Name": "榴莲-OCR",
+    "Pkgname": "durian-ocr",
+    "Size": "18 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "durian-ocr_1.0_arm64.deb.torrent",
+    "Update": "2023-03-05 18:14:24",
+    "Version": "1.0",
+    "Website": "http://www.deepin.org/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/durian-ocr/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/durian-ocr/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/durian-ocr/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "weizuxing <weizuxing@photosir.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "cn.photosir.himirage_2.0.6.31228_arm64.deb",
+    "More": "悟空图像是一款强大的图像处理软件，照片裁剪、图像编辑、特效蒙版、图形设计、炫彩文字随心创作，让设计触手可得。",
+    "Name": "悟空图像",
+    "Pkgname": "cn.photosir.himirage",
+    "Size": "252 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "cn.photosir.himirage_2.0.6.31228_arm64.deb.torrent",
+    "Update": "2024-03-24 13:38:17",
+    "Version": "2.0.6.31228",
+    "Website": "https://www.photosir.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.photosir.himirage/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.photosir.himirage/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.photosir.himirage/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "刘久胜 <891599396@qq.com>",
+    "Contributor": "刘久胜 <891599396@qq.com>",
+    "Filename": "xyz.liujiusheng.gisbrowser_0.3.0_arm64.deb",
+    "More": " gis成果查看、国土空间规划、esri file gdb、shapefile、mdb、pdf、jpeg/jpg、png、zip、docx、xlsx、txt\n",
+    "Name": "GIS成果浏览器",
+    "Pkgname": "xyz.liujiusheng.gisbrowser",
+    "Size": "5401 Kb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "xyz.liujiusheng.gisbrowser_0.3.0_arm64.deb.torrent",
+    "Update": "2023-07-14 17:01:20",
+    "Version": "0.3.0",
+    "Website": "https://github.com/liujiusheng/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/xyz.liujiusheng.gisbrowser/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/xyz.liujiusheng.gisbrowser/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/xyz.liujiusheng.gisbrowser/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/xyz.liujiusheng.gisbrowser/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "support <support@gstarcad.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.gstarcad2023.cad_23.0.2_arm64.deb",
+    "More": "本产品是浩辰公司基于Linux系统开发的可视化计算机辅助绘图软件，可以完美兼容R14-2018各版本DWG/DXF图纸及字体、线型和填充等相关数据文件，可进行常规的图形绘制和编辑操作，支持文字和尺寸标注，可插入图块和外部参照，让用户可以脱离WINDOWS系统也能完成机械、建筑、规划、交通、勘察、石化等各种图纸的查看、绘制、归档和输出。当您安装使用本产品时必须遵循本产品的《最终用户许可协议》。",
+    "Name": "浩辰CAD 2023 For Linux",
+    "Pkgname": "com.gstarcad2023.cad",
+    "Size": "116 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.gstarcad2023.cad_23.0.2_arm64.deb.torrent",
+    "Update": "2023-06-11 12:29:59",
+    "Version": "23.0.2",
+    "Website": "https://www.gstarcad.com",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2023.cad/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2023.cad/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2023.cad/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2023.cad/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "gfdgd xi",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "spark-photozoom_1.1_arm64.deb",
+    "More": "这是一个使用了全新的S-Spline技术的程序，对不断放大的图片保持了极佳的品质\n（我发现以前打包上传的是非官方原版的，因此重新打包，发现官方原版的 PhotoZoom Pro 8 可以正常使用）",
+    "Name": "PhotoZoom Pro 8（wine）",
+    "Pkgname": "spark-photozoom",
+    "Size": "45 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine2",
+    "Torrent_address": "spark-photozoom_1.1_arm64.deb.torrent",
+    "Update": "2023-03-05 19:35:49",
+    "Version": "1.1",
+    "Website": "https://www.benvista.com/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/spark-photozoom/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/spark-photozoom/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/spark-photozoom/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/spark-photozoom/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "yuntucad <yuntucad@163.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.yuntucad.cloudcad_0.0.2.1_arm64.deb",
+    "More": "云图三维 For Linux\n\n云图三维是新一代自主可控的3D云原生工业设计平台，为制造业提供云端设计、协同于一体的行业解决方案。集成企业协作平台为团队提供操作更流畅、沟通更高效的创新工作模式，打造设计、装配、渲染、出图为一体的全新 All-in-one 体验。",
+    "Name": "云图三维 For Linux",
+    "Pkgname": "com.yuntucad.cloudcad",
+    "Size": "61 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.yuntucad.cloudcad_0.0.2.1_arm64.deb.torrent",
+    "Update": "2023-03-05 18:35:24",
+    "Version": "0.0.2.1",
+    "Website": "<https://www.yuntucad.com>",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.yuntucad.cloudcad/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.yuntucad.cloudcad/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.yuntucad.cloudcad/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.yuntucad.cloudcad/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.jpchacha.chasysdraw.spark_5.29.01spark3_all.deb",
+    "More": "一款开源免费的图像处理软件",
+    "Name": "Chasys Draw IES",
+    "Pkgname": "com.jpchacha.chasysdraw.spark",
+    "Size": "62 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.jpchacha.chasysdraw.spark_5.29.01spark3_all.deb.torrent",
+    "Update": "2023-12-15 18:38:41",
+    "Version": "5.29.01spark3",
+    "Website": "https://www.jpchacha.com/chasysdraw/index.php",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.jpchacha.chasysdraw.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.jpchacha.chasysdraw.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.jpchacha.chasysdraw.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.jpchacha.chasysdraw.spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.jpchacha.chasysdraw.spark/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "XMuli <xmulitech@gmail.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "sunny_1.6.2_arm64.deb",
+    "More": "wSunny是一款简洁且漂亮的\"截图 & 钉图\"软件，支持Windows、MacOS和Linux系统，亦支持 OCR 和图片翻译功能。官网: https://sunny.xmuli.tech",
+    "Name": "Sunny 截图",
+    "Pkgname": "sunny",
+    "Size": "579 Kb",
+    "Tags": "deepin;ubuntu",
+    "Torrent_address": "sunny_1.6.2_arm64.deb.torrent",
+    "Update": "2024-05-22 14:53:16",
+    "Version": "1.6.2",
+    "Website": "https://sunny.xmuli.tech/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/sunny/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/sunny/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/sunny/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/sunny/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/sunny/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/sunny/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmos@spark-app.store>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "htycolorpicker_1.0_arm64.deb",
+    "More": "Linux 平台基于 Qt 的颜色拾取程序。",
+    "Name": "海天鹰取色器",
+    "Pkgname": "htycolorpicker",
+    "Size": "25 Kb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "htycolorpicker_1.0_arm64.deb.torrent",
+    "Update": "2023-03-06 20:45:54",
+    "Version": "1.0",
+    "Website": "https://github.com/sonichy/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/htycolorpicker/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/htycolorpicker/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "zhengzeli <zhengzeli@zwcad.com>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Filename": "com.zwsoft.zwcadm2023_23.2.3.4_arm64.deb",
+    "More": "ZWCADM2023 Linux是ZWSOFT研发的计算机辅助设计软件。",
+    "Name": "中望CAD建筑版 2023 For Linux",
+    "Pkgname": "com.zwsoft.zwcadm2023",
+    "Size": "302 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.zwsoft.zwcadm2023_23.2.3.4_arm64.deb.torrent",
+    "Update": "2023-03-05 18:21:38",
+    "Version": "23.2.3.4",
+    "Website": "https://www.zwcad.com",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcadm2023/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcadm2023/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcadm2023/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcadm2023/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcadm2023/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.ticompressor.ticompressor.spark_3.1.0spark0_all.deb",
+    "More": "一款压缩速度极快的桌面端图片压缩软件",
+    "Name": "极速图片压缩器",
+    "Pkgname": "com.ticompressor.ticompressor.spark",
+    "Size": "103 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.ticompressor.ticompressor.spark_3.1.0spark0_all.deb.torrent",
+    "Update": "2023-12-12 12:23:38",
+    "Version": "3.1.0spark0",
+    "Website": "https://www.ticompressor.com/online/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.ticompressor.ticompressor.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.ticompressor.ticompressor.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.ticompressor.ticompressor.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.ticompressor.ticompressor.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "support <support@gstarcad.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.gstarcad2022.cad_22sp2_arm64.deb",
+    "More": "本产品是浩辰公司基于Linux系统开发的可视化计算机辅助绘图软件，可以完美兼容R14-2018各版本DWG/DXF图纸及字体、线型和填充等相关数据文件，可进行常规的图形绘制和编辑操作，支持文字和尺寸标注，可插入图块和外部参照，让用户可以脱离WINDOWS系统也能完成机械、建筑、规划、交通、勘察、石化等各种图纸的查看、绘制、归档和输出。当您安装使用本产品时必须遵循本产品的《最终用户许可协议》。",
+    "Name": "浩辰CAD 2022 For Linux",
+    "Pkgname": "com.gstarcad2022.cad",
+    "Size": "138 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.gstarcad2022.cad_22sp2_arm64.deb.torrent",
+    "Update": "2023-06-11 12:29:34",
+    "Version": "22sp2",
+    "Website": "https://www.gstarcad.com",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2022.cad/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2022.cad/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2022.cad/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "yanglin <yanglin@zwcad.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.zwsoft.zwcada2023_23.2.3.4_arm64.deb",
+    "More": "ZWCAD2023 Architecture Linux是ZWSOFT研发的计算机辅助设计软件。",
+    "Name": "中望建筑 2023 For Linux",
+    "Pkgname": "com.zwsoft.zwcada2023",
+    "Size": "283 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.zwsoft.zwcada2023_23.2.3.4_arm64.deb.torrent",
+    "Update": "2023-03-05 18:29:05",
+    "Version": "23.2.3.4",
+    "Website": "https://www.zwcad.com",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcada2023/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcada2023/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcada2023/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcada2023/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcada2023/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "support <support@gstarcad.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.gstarcad.cad_24.1_arm64.deb",
+    "More": "本产品是浩辰公司基于Linux系统开发的可视化计算机辅助绘图软件，可以完美兼容R14-2018各版本DWG/DXF图纸及字体、线型和填充等相关数据文件，可进行常规的图形绘制和编辑操作，支持文字和尺寸标注，可插入图块和外部参照，让用户可以脱离WINDOWS系统也能完成机械、建筑、规划、交通、勘察、石化等各种图纸的查看、绘制、归档和输出。当您安装使用本产品时必须遵循本产品的《最终用户许可协议》。",
+    "Name": "浩辰CAD For Linux",
+    "Pkgname": "com.gstarcad.cad",
+    "Size": "290 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.gstarcad.cad_24.1_arm64.deb.torrent",
+    "Update": "2024-03-24 13:39:31",
+    "Version": "24.1",
+    "Website": "https://www.gstarcad.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.gstarcad.cad/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.gstarcad.cad/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "zheng <zhengzeli@zwcad.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.zwsoft.zwcadm2022_22.2.2.3_arm64.deb",
+    "More": "ZWCADM2022 Linux是ZWSOFT研发的计算机辅助软件。",
+    "Name": "中望CAD建筑版 2022 For Linux",
+    "Pkgname": "com.zwsoft.zwcadm2022",
+    "Size": "321 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.zwsoft.zwcadm2022_22.2.2.3_arm64.deb.torrent",
+    "Update": "2023-03-06 20:30:59",
+    "Version": "22.2.2.3",
+    "Website": "https://www.zwcad.com",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcadm2022/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcadm2022/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcadm2022/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcadm2022/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "Yongzhuo Wei <weiyongzhuo@zwcad.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.zwsoft.zw3dprofessional_2023.0.3.1_arm64.deb",
+    "More": "ZW3D Linux Professional is a Demo of ZW3D Linux. ZW3D Linux Professional is an integrated CAD solution designed for Reviewing and Inspecting 3D models and 2D Drawings.  ZW3D Linux Professional also includes basic functions for 3D Modeling, 2D Sketching and 2D Drawing.",
+    "Name": "中望3D 2023 For Linux",
+    "Pkgname": "com.zwsoft.zw3dprofessional",
+    "Size": "307 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.zwsoft.zw3dprofessional_2023.0.3.1_arm64.deb.torrent",
+    "Update": "2023-04-29 07:49:54",
+    "Version": "2023.0.3.1",
+    "Website": "https://www.zwsoft.cn",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zw3dprofessional/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zw3dprofessional/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zw3dprofessional/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "gfdgd xi",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.wpspicture.spark_6.0.0spark2_all.deb",
+    "More": "WPS图片是一款永久无广告的图片处理软件，强劲图片引擎加持，流畅查看大图；完美兼容超过17种图片格式。内含30余种图片工具，智能抠图、表情包DIY、拼图等功能助你一秒变身p图大师；更有批量处理、高级图片打印、无损压缩等功能让你的职场工作效率加倍",
+    "Name": "WPS 看图（Wine）",
+    "Pkgname": "com.wpspicture.spark",
+    "Size": "51 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.wpspicture.spark_6.0.0spark2_all.deb.torrent",
+    "Update": "2024-05-18 21:53:54",
+    "Version": "6.0.0spark2",
+    "Website": "https://photoplus.wps.cn/home",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.wpspicture.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.wpspicture.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.wpspicture.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.wpspicture.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "嘉立创 <lichuang>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "cn.lceda_6.5.39_arm64.deb",
+    "More": "高效的国产PCB设计工具， 永久免费",
+    "Name": "立创EDA",
+    "Pkgname": "cn.lceda",
+    "Size": "72 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "cn.lceda_6.5.39_arm64.deb.torrent",
+    "Update": "2024-03-24 13:37:39",
+    "Version": "6.5.39",
+    "Website": "https://lceda.cn/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.lceda/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.lceda/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.lceda/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.lceda/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "yanglin <yanglin@zwcad.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.zwsoft.zwcada2022_22.2.2.3_arm64.deb",
+    "More": "ZWCAD2022 Architecture Linux是ZWSOFT研发的计算机辅助软件。",
+    "Name": "中望建筑 2022 For Linux",
+    "Pkgname": "com.zwsoft.zwcada2022",
+    "Size": "297 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.zwsoft.zwcada2022_22.2.2.3_arm64.deb.torrent",
+    "Update": "2023-06-11 12:30:55",
+    "Version": "22.2.2.3",
+    "Website": "https://www.zwcad.com",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcada2022/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcada2022/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcada2022/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcada2022/screen_3.png\"]"
+}
+
+]

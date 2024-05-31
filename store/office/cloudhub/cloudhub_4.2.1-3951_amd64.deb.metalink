@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cloudhub_4.2.1-3951_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">46288168ea839dd6cae2f6fa56cc0f94</hash>
+				  
+				<hash type="sha1">e3ee15d6cb3501c9730fb213b62fd6942a4943cf</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/cloudhub/cloudhub_4.2.1-3951_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/cloudhub/cloudhub_4.2.1-3951_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/cloudhub/cloudhub_4.2.1-3951_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/cloudhub/cloudhub_4.2.1-3951_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/cloudhub/cloudhub_4.2.1-3951_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/cloudhub/cloudhub_4.2.1-3951_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

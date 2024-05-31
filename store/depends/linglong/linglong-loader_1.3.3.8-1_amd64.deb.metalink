@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="linglong-loader_1.3.3.8-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">df6f49d1ea841cf0a653fb8874259a98</hash>
+				  
+				<hash type="sha1">cdd352768a060d29ba8a33fa97287b80b0d7c0c9</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/linglong/linglong-loader_1.3.3.8-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/linglong/linglong-loader_1.3.3.8-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/linglong/linglong-loader_1.3.3.8-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/linglong/linglong-loader_1.3.3.8-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/linglong/linglong-loader_1.3.3.8-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/linglong/linglong-loader_1.3.3.8-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

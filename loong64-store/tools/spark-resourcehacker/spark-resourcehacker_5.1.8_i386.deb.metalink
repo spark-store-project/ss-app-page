@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-resourcehacker_5.1.8_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e850dd1b7136dd255f8ff9ddfde77fa9</hash>
+				  
+				<hash type="sha1">0c6464983b714828a163778e2583f23c855d4dca</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-resourcehacker/spark-resourcehacker_5.1.8_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/tools/spark-resourcehacker/spark-resourcehacker_5.1.8_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/tools/spark-resourcehacker/spark-resourcehacker_5.1.8_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/tools/spark-resourcehacker/spark-resourcehacker_5.1.8_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/tools/spark-resourcehacker/spark-resourcehacker_5.1.8_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/tools/spark-resourcehacker/spark-resourcehacker_5.1.8_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

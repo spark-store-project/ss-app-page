@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.mythware.cms-student_2.7.3605-1.0.102_plus_10751uos_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">78f4698b93915b0665f40f2fee939b84</hash>
+				  
+				<hash type="sha1">2c3d34e6bf664971b91b7bd9d6a9c947da0a9fd3</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/others/com.mythware.cms-student/com.mythware.cms-student_2.7.3605-1.0.102_plus_10751uos_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/others/com.mythware.cms-student/com.mythware.cms-student_2.7.3605-1.0.102_plus_10751uos_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/others/com.mythware.cms-student/com.mythware.cms-student_2.7.3605-1.0.102_plus_10751uos_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/others/com.mythware.cms-student/com.mythware.cms-student_2.7.3605-1.0.102_plus_10751uos_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/others/com.mythware.cms-student/com.mythware.cms-student_2.7.3605-1.0.102_plus_10751uos_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/others/com.mythware.cms-student/com.mythware.cms-student_2.7.3605-1.0.102_plus_10751uos_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

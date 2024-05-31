@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="bellsoft-jdk15_plus_36-linux-amd64-full.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7ac0be666a9e36f408b4cdec38d3a609</hash>
+				  
+				<hash type="sha1">cddb1a1fe06e002d16be0d03190507c35d61bcfa</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/bellsoft-java15-full/bellsoft-jdk15_plus_36-linux-amd64-full.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/bellsoft-java15-full/bellsoft-jdk15_plus_36-linux-amd64-full.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/bellsoft-java15-full/bellsoft-jdk15_plus_36-linux-amd64-full.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/bellsoft-java15-full/bellsoft-jdk15_plus_36-linux-amd64-full.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/bellsoft-java15-full/bellsoft-jdk15_plus_36-linux-amd64-full.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/bellsoft-java15-full/bellsoft-jdk15_plus_36-linux-amd64-full.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

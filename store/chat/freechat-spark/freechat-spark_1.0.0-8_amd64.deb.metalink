@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="freechat-spark_1.0.0-8_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9eb97ed0431e2908c2462afd9f329914</hash>
+				  
+				<hash type="sha1">92a73a361969aaf0998fcb3fa52cff0fda462e0c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/chat/freechat-spark/freechat-spark_1.0.0-8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/chat/freechat-spark/freechat-spark_1.0.0-8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/chat/freechat-spark/freechat-spark_1.0.0-8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/chat/freechat-spark/freechat-spark_1.0.0-8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/chat/freechat-spark/freechat-spark_1.0.0-8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/chat/freechat-spark/freechat-spark_1.0.0-8_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

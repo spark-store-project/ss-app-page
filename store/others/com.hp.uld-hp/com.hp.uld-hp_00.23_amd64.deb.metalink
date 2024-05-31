@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.hp.uld-hp_00.23_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">167ea0ea1baaaa601a174bac81004b0d</hash>
+				  
+				<hash type="sha1">a43f11d21b76469393807e5058dcc4ca09c757b1</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/com.hp.uld-hp/com.hp.uld-hp_00.23_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/com.hp.uld-hp/com.hp.uld-hp_00.23_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/com.hp.uld-hp/com.hp.uld-hp_00.23_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/com.hp.uld-hp/com.hp.uld-hp_00.23_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/com.hp.uld-hp/com.hp.uld-hp_00.23_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/com.hp.uld-hp/com.hp.uld-hp_00.23_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

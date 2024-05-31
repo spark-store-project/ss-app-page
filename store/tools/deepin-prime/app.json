@@ -1,0 +1,16 @@
+{
+    "Name": "deepin-prime",
+    "Version": "1.0.3",
+    "Filename": "deepin-prime_1.0.3_amd64.deb",
+    "Torrent_address": "deepin-prime_1.0.3_amd64.deb.torrent",
+    "Pkgname": "deepin-prime",
+    "Author": "Alberto Milone <alberto.milone@canonical.com>",
+    "Contributor": "Alberto Milone <alberto.milone@canonical.com>",
+    "Website": "deepin.org",
+    "Update": "2023-02-09 15:54:11",
+    "Size": "31.84 KB",
+    "More": "deepin官方维护的显卡切换工具，目前只上架了deepin20.8的源，但是在uos22和deepin v23 alpha2测试成功，支持intel、nvidia和amd显卡，安装完之后，在终端输入pkexec prime-select nvidia/\nintel/amd进行切换，切换后重启电脑就好",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/09/5689c4c0d5d44cb6a2bcc975890ca0e9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/09/f81216d19d674f18a06b862b02bee1a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/09/f2688a4a8a3a4b4d8f1194965331fe93.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/09/68c6fbb3f1d341d98fcdcdfc696e7bcb.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/09/7a8c37b0d55e47dcb368f6242f8c471d.png"
+}

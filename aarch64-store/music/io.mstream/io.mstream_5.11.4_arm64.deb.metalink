@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="io.mstream_5.11.4_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">2d5eb332a233cb341ae1fecf16f4bdd3</hash>
+				  
+				<hash type="sha1">73d7bc6b824c9f4a9a8e1bdf809ed5952b45a2a0</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/music/io.mstream/io.mstream_5.11.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/music/io.mstream/io.mstream_5.11.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/music/io.mstream/io.mstream_5.11.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/music/io.mstream/io.mstream_5.11.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/music/io.mstream/io.mstream_5.11.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/music/io.mstream/io.mstream_5.11.4_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

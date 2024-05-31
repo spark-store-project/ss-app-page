@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="live-filesystem_1.1_plus201804181734-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5408e4fa6ccce837c7cbfb69653045c5</hash>
+				  
+				<hash type="sha1">d102dd95e3b23845d658927fecd4d4542487d37b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/live-filesystem/live-filesystem_1.1_plus201804181734-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/live-filesystem/live-filesystem_1.1_plus201804181734-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/live-filesystem/live-filesystem_1.1_plus201804181734-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/live-filesystem/live-filesystem_1.1_plus201804181734-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/live-filesystem/live-filesystem_1.1_plus201804181734-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/live-filesystem/live-filesystem_1.1_plus201804181734-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.gitee.uengine.runner.spark_2.2.0.1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7d79d7dca30f8ed0254318e8e41777b0</hash>
+				  
+				<hash type="sha1">a7bc05cc344d5c6f83b5123c34402658f698d522</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/com.gitee.uengine.runner.spark/com.gitee.uengine.runner.spark_2.2.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/com.gitee.uengine.runner.spark/com.gitee.uengine.runner.spark_2.2.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/com.gitee.uengine.runner.spark/com.gitee.uengine.runner.spark_2.2.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/com.gitee.uengine.runner.spark/com.gitee.uengine.runner.spark_2.2.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/com.gitee.uengine.runner.spark/com.gitee.uengine.runner.spark_2.2.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/com.gitee.uengine.runner.spark/com.gitee.uengine.runner.spark_2.2.0.1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="fydur-ventoy_1.0.96_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">d9c94adc12815afbffe84f0c280cc8a0</hash>
+				  
+				<hash type="sha1">ed669ccf12ea59243a13f8d4c2564ceed8cc262b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/fydur-ventoy/fydur-ventoy_1.0.96_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/fydur-ventoy/fydur-ventoy_1.0.96_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/fydur-ventoy/fydur-ventoy_1.0.96_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/fydur-ventoy/fydur-ventoy_1.0.96_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/fydur-ventoy/fydur-ventoy_1.0.96_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/fydur-ventoy/fydur-ventoy_1.0.96_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

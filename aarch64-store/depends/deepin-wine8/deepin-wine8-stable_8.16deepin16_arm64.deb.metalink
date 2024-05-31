@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="deepin-wine8-stable_8.16deepin16_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">cd8b5e1630f6e173ea7a2fb88e6def13</hash>
+				  
+				<hash type="sha1">f286da9478c4578b030556b386455ec534028929</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/depends/deepin-wine8/deepin-wine8-stable_8.16deepin16_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/depends/deepin-wine8/deepin-wine8-stable_8.16deepin16_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/depends/deepin-wine8/deepin-wine8-stable_8.16deepin16_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/depends/deepin-wine8/deepin-wine8-stable_8.16deepin16_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/depends/deepin-wine8/deepin-wine8-stable_8.16deepin16_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/depends/deepin-wine8/deepin-wine8-stable_8.16deepin16_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

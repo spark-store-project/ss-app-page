@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="jellyfin-server_10.8.8-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">d0b9936710a0d91c50c08852eb2ff10d</hash>
+				  
+				<hash type="sha1">b3307fe8651b042702755454a753ddc8f2106028</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/jellyfin/jellyfin-server_10.8.8-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/jellyfin/jellyfin-server_10.8.8-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/jellyfin/jellyfin-server_10.8.8-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/jellyfin/jellyfin-server_10.8.8-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/jellyfin/jellyfin-server_10.8.8-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/jellyfin/jellyfin-server_10.8.8-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.sogou.sogoupinyin-uos-sogouhw_1.0.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a2c0f9fe1f8cf7deda3e69d7464a8017</hash>
+				  
+				<hash type="sha1">49ed5c50e63a75be0320e3f7a3bd9c52c43a1de2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.sogou.sogoupinyin-uos-sogouhw/com.sogou.sogoupinyin-uos-sogouhw_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.sogou.sogoupinyin-uos-sogouhw/com.sogou.sogoupinyin-uos-sogouhw_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.sogou.sogoupinyin-uos-sogouhw/com.sogou.sogoupinyin-uos-sogouhw_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.sogou.sogoupinyin-uos-sogouhw/com.sogou.sogoupinyin-uos-sogouhw_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.sogou.sogoupinyin-uos-sogouhw/com.sogou.sogoupinyin-uos-sogouhw_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.sogou.sogoupinyin-uos-sogouhw/com.sogou.sogoupinyin-uos-sogouhw_1.0.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

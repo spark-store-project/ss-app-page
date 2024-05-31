@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.imagetoolkit.potatofield.spark_3.5.1spark3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e7ee2a0c8291a5e307124cb94b44cb94</hash>
+				  
+				<hash type="sha1">5121b0c1b9edbeef76d49037cea169e61a728296</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.imagetoolkit.potatofield.spark/cn.imagetoolkit.potatofield.spark_3.5.1spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/cn.imagetoolkit.potatofield.spark/cn.imagetoolkit.potatofield.spark_3.5.1spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/cn.imagetoolkit.potatofield.spark/cn.imagetoolkit.potatofield.spark_3.5.1spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/cn.imagetoolkit.potatofield.spark/cn.imagetoolkit.potatofield.spark_3.5.1spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/cn.imagetoolkit.potatofield.spark/cn.imagetoolkit.potatofield.spark_3.5.1spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/cn.imagetoolkit.potatofield.spark/cn.imagetoolkit.potatofield.spark_3.5.1spark3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libdtkcommon-dev_5.5.17_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ad7a2e70aeddef7db42d1f5260928055</hash>
+				  
+				<hash type="sha1">909dc383ab8a3f8cdb0c2701599ff4f0cb990904</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/dtk/dtkcommon/libdtkcommon-dev_5.5.17_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/dtk/dtkcommon/libdtkcommon-dev_5.5.17_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/dtk/dtkcommon/libdtkcommon-dev_5.5.17_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/dtk/dtkcommon/libdtkcommon-dev_5.5.17_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/dtk/dtkcommon/libdtkcommon-dev_5.5.17_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/dtk/dtkcommon/libdtkcommon-dev_5.5.17_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="figma-linux_0.6.2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">bd91b8397fc1ed1861f0d747ad8bd433</hash>
+				  
+				<hash type="sha1">73901f3a73b98b3d03ba82257e5f13673b34bfbf</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/figma-linux/figma-linux_0.6.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/figma-linux/figma-linux_0.6.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/figma-linux/figma-linux_0.6.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/figma-linux/figma-linux_0.6.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/figma-linux/figma-linux_0.6.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/figma-linux/figma-linux_0.6.2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

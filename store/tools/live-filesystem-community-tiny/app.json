@@ -1,0 +1,16 @@
+{
+    "Name": "Deepin Community Live CD 2.0.0-tiny",
+    "Version": "2.0.0",
+    "Filename": "live-filesystem-community-tiny_2.0.0_amd64.deb",
+    "Torrent_address": "live-filesystem-community-tiny_2.0.0_amd64.deb.torrent",
+    "Pkgname": "live-filesystem-community-tiny",
+    "Author": "LinuxDeepin Project <linuxdeepin@linuxdeepin.com>, gfdgd xi<3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gfdgd-xi.github.io",
+    "Update": "2023-07-26 22:32:14",
+    "Size": "416.95 MB",
+    "More": "此 Live CD 基于 deepin 20.7.1 和原 Live CD 2.0 制作，目前提供三种版本，安装部分维护工具（如果还有需要添加的就说），感谢 https://bbs.deepin.org/post/166409 的作者 @xchngg的参考文档，测试完整版 Ventoy 在 Legary 和 UEFT 模式下均可运行此 Live CD，有常用驱动（网卡、显卡、声卡），理论上能运行 deepin 20.5 均可运行，其它版本理论上只要能正常启动 Live CD 2.0 就可以开启\n同时也借鉴了以下文章的内容：\nhttps://bbs.deepin.org/post/228930 @deepin-superuser\n\nhttps://bbs.deepin.org/post/228568 @木一明\n以及感谢用户 @为什么您不喜欢熊出没和阿布呢 参与制作（他还未注册 deepin 论坛）\n此版本相比于原来官方的 Live CD 只升级了内核，没有多的更新，也没有重新打包（所以壁纸也没有换），适用于应急或者空间、网速以及对功能要求不高且电脑配置较低以及语言非简体中文的用户\n提示：该版本支持读取 exfat 分区\n以及此应用与 mini 和 full 版本冲突\n并且此 Live CD 密码未知，如果有使用密码的需求建议使用 passwd 修改密码\n更新内容：\n※1、更新内核到 5.18.17-hwe",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/26/17f30a45e01b493e9dc38ee89b9b0222.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/26/a6954a870f9143d484c416971b1a145c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/26/8760cfb6485a408fb4128de9b02531ff.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/26/019bb0366a414f6d8bdb6890b3219081.png"
+}

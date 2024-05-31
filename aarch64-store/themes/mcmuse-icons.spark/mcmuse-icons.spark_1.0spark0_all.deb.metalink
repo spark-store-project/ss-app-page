@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="mcmuse-icons.spark_1.0spark0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">eb3ee45e39407053ac86a0a1cf2f2a1c</hash>
+				  
+				<hash type="sha1">5a6e811eda0d95fd82d97afc01b1b704afff9eb9</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/themes/mcmuse-icons.spark/mcmuse-icons.spark_1.0spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/themes/mcmuse-icons.spark/mcmuse-icons.spark_1.0spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/themes/mcmuse-icons.spark/mcmuse-icons.spark_1.0spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/themes/mcmuse-icons.spark/mcmuse-icons.spark_1.0spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/themes/mcmuse-icons.spark/mcmuse-icons.spark_1.0spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/themes/mcmuse-icons.spark/mcmuse-icons.spark_1.0spark0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

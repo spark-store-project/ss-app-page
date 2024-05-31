@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="sunny_1.6.2_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a02e2a4c2da463e6a65abcc86e8abdf7</hash>
+				  
+				<hash type="sha1">fdfe14830a5a80e3d1392ab6cdc253321b608650</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/sunny/sunny_1.6.2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/image_graphics/sunny/sunny_1.6.2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/image_graphics/sunny/sunny_1.6.2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/image_graphics/sunny/sunny_1.6.2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/image_graphics/sunny/sunny_1.6.2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/image_graphics/sunny/sunny_1.6.2_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

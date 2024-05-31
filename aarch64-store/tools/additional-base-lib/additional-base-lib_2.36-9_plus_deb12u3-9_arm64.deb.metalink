@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="additional-base-lib_2.36-9_plus_deb12u3-9_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7b49d3597d8049b28eb9c97e6ad2a789</hash>
+				  
+				<hash type="sha1">e6d010019c03f4010c26b5cd78acad39af7b838a</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/additional-base-lib/additional-base-lib_2.36-9_plus_deb12u3-9_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/tools/additional-base-lib/additional-base-lib_2.36-9_plus_deb12u3-9_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/tools/additional-base-lib/additional-base-lib_2.36-9_plus_deb12u3-9_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/tools/additional-base-lib/additional-base-lib_2.36-9_plus_deb12u3-9_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/tools/additional-base-lib/additional-base-lib_2.36-9_plus_deb12u3-9_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/tools/additional-base-lib/additional-base-lib_2.36-9_plus_deb12u3-9_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

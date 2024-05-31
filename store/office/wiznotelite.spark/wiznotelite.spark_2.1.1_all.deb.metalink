@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="wiznotelite.spark_2.1.1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">dec9c5977b8a764f158f801b1d2d79ee</hash>
+				  
+				<hash type="sha1">62d004aeb14966f71579d78f9fc85f6b6e296ba2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/wiznotelite.spark/wiznotelite.spark_2.1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/wiznotelite.spark/wiznotelite.spark_2.1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/wiznotelite.spark/wiznotelite.spark_2.1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/wiznotelite.spark/wiznotelite.spark_2.1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/wiznotelite.spark/wiznotelite.spark_2.1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/wiznotelite.spark/wiznotelite.spark_2.1.1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

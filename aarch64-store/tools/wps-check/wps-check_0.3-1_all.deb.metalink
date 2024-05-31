@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="wps-check_0.3-1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ceac3ac395bf72fc07ffcec4c4c6ec0a</hash>
+				  
+				<hash type="sha1">3963b54328c8f9e3bca32dd5eb6a06e9c7f9d0b2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/wps-check/wps-check_0.3-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/tools/wps-check/wps-check_0.3-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/tools/wps-check/wps-check_0.3-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/tools/wps-check/wps-check_0.3-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/tools/wps-check/wps-check_0.3-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/tools/wps-check/wps-check_0.3-1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

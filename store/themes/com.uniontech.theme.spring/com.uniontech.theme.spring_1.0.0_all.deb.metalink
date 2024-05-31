@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.uniontech.theme.spring_1.0.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">911a191af0dc270e918220f7a31d3dd2</hash>
+				  
+				<hash type="sha1">fe8cb73632b36c44e7a45595d27f7679789c323a</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.spring/com.uniontech.theme.spring_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/themes/com.uniontech.theme.spring/com.uniontech.theme.spring_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/themes/com.uniontech.theme.spring/com.uniontech.theme.spring_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/themes/com.uniontech.theme.spring/com.uniontech.theme.spring_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/themes/com.uniontech.theme.spring/com.uniontech.theme.spring_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/themes/com.uniontech.theme.spring/com.uniontech.theme.spring_1.0.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

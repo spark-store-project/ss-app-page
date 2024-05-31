@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.thehaunted-hellsreach.spark_1.0spark0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e006acb87a70c9e025fc8025c9179efe</hash>
+				  
+				<hash type="sha1">447b6b4986ed594e4b390a3534c4b099e4159d98</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.thehaunted-hellsreach.spark/com.thehaunted-hellsreach.spark_1.0spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.thehaunted-hellsreach.spark/com.thehaunted-hellsreach.spark_1.0spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.thehaunted-hellsreach.spark/com.thehaunted-hellsreach.spark_1.0spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.thehaunted-hellsreach.spark/com.thehaunted-hellsreach.spark_1.0spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.thehaunted-hellsreach.spark/com.thehaunted-hellsreach.spark_1.0spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.thehaunted-hellsreach.spark/com.thehaunted-hellsreach.spark_1.0spark0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

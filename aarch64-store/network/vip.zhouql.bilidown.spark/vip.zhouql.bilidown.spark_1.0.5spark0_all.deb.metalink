@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="vip.zhouql.bilidown.spark_1.0.5spark0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">daa47e7b7d49282516fa41a4a3ac9da3</hash>
+				  
+				<hash type="sha1">565b2c612bea1c4a1fcd5016c018fcf13db9fa05</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/network/vip.zhouql.bilidown.spark/vip.zhouql.bilidown.spark_1.0.5spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/network/vip.zhouql.bilidown.spark/vip.zhouql.bilidown.spark_1.0.5spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/network/vip.zhouql.bilidown.spark/vip.zhouql.bilidown.spark_1.0.5spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/network/vip.zhouql.bilidown.spark/vip.zhouql.bilidown.spark_1.0.5spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/network/vip.zhouql.bilidown.spark/vip.zhouql.bilidown.spark_1.0.5spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/network/vip.zhouql.bilidown.spark/vip.zhouql.bilidown.spark_1.0.5spark0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

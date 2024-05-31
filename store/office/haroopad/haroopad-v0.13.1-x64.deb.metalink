@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="haroopad-v0.13.1-x64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">4130ae76318811a2a6e9b7962bc9d258</hash>
+				  
+				<hash type="sha1">43d66eda56acb28d658971ac7bcbb818565f84b1</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/haroopad/haroopad-v0.13.1-x64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/haroopad/haroopad-v0.13.1-x64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/haroopad/haroopad-v0.13.1-x64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/haroopad/haroopad-v0.13.1-x64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/haroopad/haroopad-v0.13.1-x64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/haroopad/haroopad-v0.13.1-x64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

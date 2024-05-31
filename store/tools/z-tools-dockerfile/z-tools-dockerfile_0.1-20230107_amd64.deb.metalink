@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="z-tools-dockerfile_0.1-20230107_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b5ab52ed29f48f557ec4739112bde778</hash>
+				  
+				<hash type="sha1">98fa7c9e857e12bee97e853c3853582848024459</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-dockerfile/z-tools-dockerfile_0.1-20230107_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/z-tools-dockerfile/z-tools-dockerfile_0.1-20230107_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/z-tools-dockerfile/z-tools-dockerfile_0.1-20230107_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/z-tools-dockerfile/z-tools-dockerfile_0.1-20230107_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/z-tools-dockerfile/z-tools-dockerfile_0.1-20230107_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/z-tools-dockerfile/z-tools-dockerfile_0.1-20230107_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

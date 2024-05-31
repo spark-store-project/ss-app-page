@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.heidisql.spark_12.7.0.6850_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">82bca44781f7c85cfc99eb98b5b081f5</hash>
+				  
+				<hash type="sha1">25596640e303f631c5a3aaae20c859c740c3d478</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/com.heidisql.spark/com.heidisql.spark_12.7.0.6850_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/com.heidisql.spark/com.heidisql.spark_12.7.0.6850_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/com.heidisql.spark/com.heidisql.spark_12.7.0.6850_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/com.heidisql.spark/com.heidisql.spark_12.7.0.6850_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/com.heidisql.spark/com.heidisql.spark_12.7.0.6850_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/com.heidisql.spark/com.heidisql.spark_12.7.0.6850_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

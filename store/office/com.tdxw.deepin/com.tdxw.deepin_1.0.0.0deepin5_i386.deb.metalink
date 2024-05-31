@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.tdxw.deepin_1.0.0.0deepin5_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b24ef7c7a16b78bc13bced5a59e3f1d7</hash>
+				  
+				<hash type="sha1">6d3fb53b41672c2384baf692750fa090e7d7424b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.tdxw.deepin/com.tdxw.deepin_1.0.0.0deepin5_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.tdxw.deepin/com.tdxw.deepin_1.0.0.0deepin5_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.tdxw.deepin/com.tdxw.deepin_1.0.0.0deepin5_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.tdxw.deepin/com.tdxw.deepin_1.0.0.0deepin5_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.tdxw.deepin/com.tdxw.deepin_1.0.0.0deepin5_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.tdxw.deepin/com.tdxw.deepin_1.0.0.0deepin5_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.homesheephome2.spark_1.0spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a14128bed4a1244e4df2208bdb881f8e</hash>
+				  
+				<hash type="sha1">6d03562b551c340539853d7aa2fc24cb58d90d44</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.homesheephome2.spark/com.homesheephome2.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.homesheephome2.spark/com.homesheephome2.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.homesheephome2.spark/com.homesheephome2.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.homesheephome2.spark/com.homesheephome2.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.homesheephome2.spark/com.homesheephome2.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.homesheephome2.spark/com.homesheephome2.spark_1.0spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

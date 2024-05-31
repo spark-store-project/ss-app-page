@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="feem.spark_4.4.2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7017ef920d9f0cebe9d6a2cf03cb8491</hash>
+				  
+				<hash type="sha1">1fec88bdb1dcdc8eb7b4fc890cae2a52fb954cbe</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/feem.spark/feem.spark_4.4.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/feem.spark/feem.spark_4.4.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/feem.spark/feem.spark_4.4.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/feem.spark/feem.spark_4.4.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/feem.spark/feem.spark_4.4.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/feem.spark/feem.spark_4.4.2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

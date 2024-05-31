@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="loongson-vbios-creator_2.1.0-1.lnd.1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9ccfb3861b6539798197e8f772815e8d</hash>
+				  
+				<hash type="sha1">d520c90ad645bb315daa536c131d409f8d2f7f96</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/loongson-vbios-creator/loongson-vbios-creator_2.1.0-1.lnd.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/loongson-vbios-creator/loongson-vbios-creator_2.1.0-1.lnd.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/loongson-vbios-creator/loongson-vbios-creator_2.1.0-1.lnd.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/loongson-vbios-creator/loongson-vbios-creator_2.1.0-1.lnd.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/loongson-vbios-creator/loongson-vbios-creator_2.1.0-1.lnd.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/loongson-vbios-creator/loongson-vbios-creator_2.1.0-1.lnd.1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

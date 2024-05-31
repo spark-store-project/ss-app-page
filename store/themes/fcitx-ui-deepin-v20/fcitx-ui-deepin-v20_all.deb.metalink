@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="fcitx-ui-deepin-v20_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">0c5447541ea795c3b2a07aac234bfb9f</hash>
+				  
+				<hash type="sha1">e74f34655d3236bbfbcdcdda7a7ead73020360ca</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/themes/fcitx-ui-deepin-v20/fcitx-ui-deepin-v20_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/themes/fcitx-ui-deepin-v20/fcitx-ui-deepin-v20_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/themes/fcitx-ui-deepin-v20/fcitx-ui-deepin-v20_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/themes/fcitx-ui-deepin-v20/fcitx-ui-deepin-v20_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/themes/fcitx-ui-deepin-v20/fcitx-ui-deepin-v20_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/themes/fcitx-ui-deepin-v20/fcitx-ui-deepin-v20_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="fonts-cjk-cn-xinye-nianti_1.0-2_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">426f4a70a158e923efbb47576c897314</hash>
+				  
+				<hash type="sha1">c06c2ef38e76b30b974d0d405707d4ae1870dfa9</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/others/fonts-cjk-cn-xinye-nianti/fonts-cjk-cn-xinye-nianti_1.0-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/others/fonts-cjk-cn-xinye-nianti/fonts-cjk-cn-xinye-nianti_1.0-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/others/fonts-cjk-cn-xinye-nianti/fonts-cjk-cn-xinye-nianti_1.0-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/others/fonts-cjk-cn-xinye-nianti/fonts-cjk-cn-xinye-nianti_1.0-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/others/fonts-cjk-cn-xinye-nianti/fonts-cjk-cn-xinye-nianti_1.0-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/others/fonts-cjk-cn-xinye-nianti/fonts-cjk-cn-xinye-nianti_1.0-2_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

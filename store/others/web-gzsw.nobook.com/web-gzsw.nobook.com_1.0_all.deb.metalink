@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="web-gzsw.nobook.com_1.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7f16dd2966b50cc347cafa10861c3e78</hash>
+				  
+				<hash type="sha1">c86c26ad8061628e14116a90c6e2258cc08c442b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/web-gzsw.nobook.com/web-gzsw.nobook.com_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/web-gzsw.nobook.com/web-gzsw.nobook.com_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/web-gzsw.nobook.com/web-gzsw.nobook.com_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/web-gzsw.nobook.com/web-gzsw.nobook.com_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/web-gzsw.nobook.com/web-gzsw.nobook.com_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/web-gzsw.nobook.com/web-gzsw.nobook.com_1.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

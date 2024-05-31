@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-microsoft-word_1.2_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f2968bd4e03e50f5a4fb0a544f4b7b4d</hash>
+				  
+				<hash type="sha1">420f3605436298746fdc9e1a0f6cdb1086624f7c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/office/spark-microsoft-word/spark-microsoft-word_1.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/office/spark-microsoft-word/spark-microsoft-word_1.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/office/spark-microsoft-word/spark-microsoft-word_1.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/office/spark-microsoft-word/spark-microsoft-word_1.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/office/spark-microsoft-word/spark-microsoft-word_1.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/office/spark-microsoft-word/spark-microsoft-word_1.2_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

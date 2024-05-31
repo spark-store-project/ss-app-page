@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.fritzing_0.9.10_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">38705b299e6d5a4e14753753f6c96455</hash>
+				  
+				<hash type="sha1">f9615c51673794741f642411d9661606576822ca</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/org.fritzing/org.fritzing_0.9.10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/org.fritzing/org.fritzing_0.9.10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/org.fritzing/org.fritzing_0.9.10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/org.fritzing/org.fritzing_0.9.10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/org.fritzing/org.fritzing_0.9.10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/org.fritzing/org.fritzing_0.9.10_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="web-aibot.cn_1.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">90761aed2a9ca8fb9e7ae2ff3cef7b05</hash>
+				  
+				<hash type="sha1">0d039e721c1357494561ce0ec7cb372498b0b6b7</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/web-aibot.cn/web-aibot.cn_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/web-aibot.cn/web-aibot.cn_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/web-aibot.cn/web-aibot.cn_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/web-aibot.cn/web-aibot.cn_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/web-aibot.cn/web-aibot.cn_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/web-aibot.cn/web-aibot.cn_1.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

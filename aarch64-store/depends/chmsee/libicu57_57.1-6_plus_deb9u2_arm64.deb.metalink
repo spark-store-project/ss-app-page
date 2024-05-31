@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libicu57_57.1-6_plus_deb9u2_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">76ed92fec86695e2bb749a172392b8df</hash>
+				  
+				<hash type="sha1">49699e97b1f57b4c779ebe3cb92f5f53b6294c96</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/depends/chmsee/libicu57_57.1-6_plus_deb9u2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/depends/chmsee/libicu57_57.1-6_plus_deb9u2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/depends/chmsee/libicu57_57.1-6_plus_deb9u2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/depends/chmsee/libicu57_57.1-6_plus_deb9u2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/depends/chmsee/libicu57_57.1-6_plus_deb9u2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/depends/chmsee/libicu57_57.1-6_plus_deb9u2_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

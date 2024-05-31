@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.xretia.petray_1.0b20201224_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">42dc04ecef9c0bf4ad293351a3ca80a8</hash>
+				  
+				<hash type="sha1">3e7425d42e238af140000706edbc2794ece5f272</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/music/com.xretia.petray/com.xretia.petray_1.0b20201224_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/music/com.xretia.petray/com.xretia.petray_1.0b20201224_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/music/com.xretia.petray/com.xretia.petray_1.0b20201224_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/music/com.xretia.petray/com.xretia.petray_1.0b20201224_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/music/com.xretia.petray/com.xretia.petray_1.0b20201224_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/music/com.xretia.petray/com.xretia.petray_1.0b20201224_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

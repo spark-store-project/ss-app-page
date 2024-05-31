@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="system-monitoring-center_2.26.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">92575cbf649bcc840c40c1fd93fafd04</hash>
+				  
+				<hash type="sha1">0c6441f6144871e6e9c73c297c0f98a5344c52c5</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/system-monitoring-center/system-monitoring-center_2.26.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/system-monitoring-center/system-monitoring-center_2.26.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/system-monitoring-center/system-monitoring-center_2.26.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/system-monitoring-center/system-monitoring-center_2.26.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/system-monitoring-center/system-monitoring-center_2.26.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/system-monitoring-center/system-monitoring-center_2.26.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

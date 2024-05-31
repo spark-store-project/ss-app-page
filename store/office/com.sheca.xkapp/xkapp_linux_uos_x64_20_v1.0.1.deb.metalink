@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="xkapp_linux_uos_x64_20_v1.0.1.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">2a1f221451aaee5013522a286ece2254</hash>
+				  
+				<hash type="sha1">9fb22443aa1a937347b9ea7021d35349c5ef5b64</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.sheca.xkapp/xkapp_linux_uos_x64_20_v1.0.1.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.sheca.xkapp/xkapp_linux_uos_x64_20_v1.0.1.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.sheca.xkapp/xkapp_linux_uos_x64_20_v1.0.1.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.sheca.xkapp/xkapp_linux_uos_x64_20_v1.0.1.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.sheca.xkapp/xkapp_linux_uos_x64_20_v1.0.1.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.sheca.xkapp/xkapp_linux_uos_x64_20_v1.0.1.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

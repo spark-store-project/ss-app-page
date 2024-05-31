@@ -1,0 +1,12 @@
+[
+    {
+        "name":"装机必备",
+        "type":"appList",
+        "jsonUrl":"/home/lists/NecessaryforInstallation.json"
+    },
+    {
+        "name":"社区精品",
+        "type":"appList",
+        "jsonUrl":"/home/lists/CommunityApps.json"
+    }
+]

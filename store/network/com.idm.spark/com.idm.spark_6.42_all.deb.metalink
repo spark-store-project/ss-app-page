@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.idm.spark_6.42_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">965ee8680737c02d7055a72233f0b88d</hash>
+				  
+				<hash type="sha1">7571687f4da6ee7346047d6ac427e9796d537152</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/com.idm.spark/com.idm.spark_6.42_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/com.idm.spark/com.idm.spark_6.42_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/com.idm.spark/com.idm.spark_6.42_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/com.idm.spark/com.idm.spark_6.42_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/com.idm.spark/com.idm.spark_6.42_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/com.idm.spark/com.idm.spark_6.42_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

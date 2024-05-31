@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="unsplash-wallpapers_1.1.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b9d1d25036c40be815e96acbfd4078f3</hash>
+				  
+				<hash type="sha1">755cfdd503d77d4cd32278dc9ed3b81d62666e7a</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/themes/unsplash-wallpapers/unsplash-wallpapers_1.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/themes/unsplash-wallpapers/unsplash-wallpapers_1.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/themes/unsplash-wallpapers/unsplash-wallpapers_1.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/themes/unsplash-wallpapers/unsplash-wallpapers_1.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/themes/unsplash-wallpapers/unsplash-wallpapers_1.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/themes/unsplash-wallpapers/unsplash-wallpapers_1.1.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

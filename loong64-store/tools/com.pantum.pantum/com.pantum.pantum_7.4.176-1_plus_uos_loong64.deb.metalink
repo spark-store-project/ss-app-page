@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.pantum.pantum_7.4.176-1_plus_uos_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">657838420023bd47e5c25086e234b168</hash>
+				  
+				<hash type="sha1">c77014ad6a55453b610f80689826e6b4733c31cb</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.pantum.pantum/com.pantum.pantum_7.4.176-1_plus_uos_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/tools/com.pantum.pantum/com.pantum.pantum_7.4.176-1_plus_uos_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/tools/com.pantum.pantum/com.pantum.pantum_7.4.176-1_plus_uos_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/tools/com.pantum.pantum/com.pantum.pantum_7.4.176-1_plus_uos_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/tools/com.pantum.pantum/com.pantum.pantum_7.4.176-1_plus_uos_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/tools/com.pantum.pantum/com.pantum.pantum_7.4.176-1_plus_uos_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-store-console-in-container_4.2.6.2_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">87aa34a6e31decafe810caff9256cf58</hash>
+				  
+				<hash type="sha1">edc91ae8c6cb5da601534fccfb8a8a2bb687b44e</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/spark-store-console-in-container_4.2.6.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/spark-store-console-in-container_4.2.6.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/spark-store-console-in-container_4.2.6.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/spark-store-console-in-container_4.2.6.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/spark-store-console-in-container_4.2.6.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/spark-store-console-in-container_4.2.6.2_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

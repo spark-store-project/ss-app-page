@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libjpeg62-turbo_1.5.2.6-1_plus_dde_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">767e04bf2cf703c94a603be8d87d37ef</hash>
+				  
+				<hash type="sha1">98e8e735ec0a2aacc36ad0899a4dffce3283c20c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/deepin-wine-series/libjpeg62-turbo_1.5.2.6-1_plus_dde_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/deepin-wine-series/libjpeg62-turbo_1.5.2.6-1_plus_dde_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/deepin-wine-series/libjpeg62-turbo_1.5.2.6-1_plus_dde_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/deepin-wine-series/libjpeg62-turbo_1.5.2.6-1_plus_dde_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/deepin-wine-series/libjpeg62-turbo_1.5.2.6-1_plus_dde_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/deepin-wine-series/libjpeg62-turbo_1.5.2.6-1_plus_dde_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

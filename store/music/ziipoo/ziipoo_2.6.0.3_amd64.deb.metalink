@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="ziipoo_2.6.0.3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e9f34c2dc015fe29ac561a9c221eeae0</hash>
+				  
+				<hash type="sha1">b1945e8298b5c0e58ee4d431b3d4c1f74fafeef2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/music/ziipoo/ziipoo_2.6.0.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/music/ziipoo/ziipoo_2.6.0.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/music/ziipoo/ziipoo_2.6.0.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/music/ziipoo/ziipoo_2.6.0.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/music/ziipoo/ziipoo_2.6.0.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/music/ziipoo/ziipoo_2.6.0.3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="linux-wifi-hotspot_4.5.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">acd4490001a5f78b0d04ecf19c7078bd</hash>
+				  
+				<hash type="sha1">6b7ac0bc04cf816faf0a3acd8e1b5f40b177c32d</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/linux-wifi-hotspot/linux-wifi-hotspot_4.5.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/linux-wifi-hotspot/linux-wifi-hotspot_4.5.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/linux-wifi-hotspot/linux-wifi-hotspot_4.5.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/linux-wifi-hotspot/linux-wifi-hotspot_4.5.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/linux-wifi-hotspot/linux-wifi-hotspot_4.5.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/linux-wifi-hotspot/linux-wifi-hotspot_4.5.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.vzhd1701.gridplayer.spark_0.5.2spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c611a44995acc2d756e8712094889b05</hash>
+				  
+				<hash type="sha1">177b6e87b720efb631c2e12006a0c9fe7465aca1</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/video/com.vzhd1701.gridplayer.spark/com.vzhd1701.gridplayer.spark_0.5.2spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/video/com.vzhd1701.gridplayer.spark/com.vzhd1701.gridplayer.spark_0.5.2spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/video/com.vzhd1701.gridplayer.spark/com.vzhd1701.gridplayer.spark_0.5.2spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/video/com.vzhd1701.gridplayer.spark/com.vzhd1701.gridplayer.spark_0.5.2spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/video/com.vzhd1701.gridplayer.spark/com.vzhd1701.gridplayer.spark_0.5.2spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/video/com.vzhd1701.gridplayer.spark/com.vzhd1701.gridplayer.spark_0.5.2spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

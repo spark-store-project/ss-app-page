@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="google-chrome-unstable_124.0.6342.3-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">deb38e9ad97ca08970dbc8ddb2f6f2f7</hash>
+				  
+				<hash type="sha1">549964ef581cc181ddb0bd8563b28197de18db9f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-unstable/google-chrome-unstable_124.0.6342.3-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/google-chrome-unstable/google-chrome-unstable_124.0.6342.3-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/google-chrome-unstable/google-chrome-unstable_124.0.6342.3-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/google-chrome-unstable/google-chrome-unstable_124.0.6342.3-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/google-chrome-unstable/google-chrome-unstable_124.0.6342.3-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/google-chrome-unstable/google-chrome-unstable_124.0.6342.3-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

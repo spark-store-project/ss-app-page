@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libdtkgui5_5.4.15_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">3f3bbad9503819ab637691e3cc5f573e</hash>
+				  
+				<hash type="sha1">fb96bd7cb2c455fb1bc28c9d7d992065365d521c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/dtk/dtkgui/libdtkgui5_5.4.15_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/dtk/dtkgui/libdtkgui5_5.4.15_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/dtk/dtkgui/libdtkgui5_5.4.15_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/dtk/dtkgui/libdtkgui5_5.4.15_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/dtk/dtkgui/libdtkgui5_5.4.15_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/dtk/dtkgui/libdtkgui5_5.4.15_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

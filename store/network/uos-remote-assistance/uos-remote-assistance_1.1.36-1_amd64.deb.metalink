@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="uos-remote-assistance_1.1.36-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ba9fb3fb63a9a7ff4bab40f429ae1a7a</hash>
+				  
+				<hash type="sha1">9913c614162ad0c827258c99aac354eedd91e46f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/uos-remote-assistance/uos-remote-assistance_1.1.36-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/uos-remote-assistance/uos-remote-assistance_1.1.36-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/uos-remote-assistance/uos-remote-assistance_1.1.36-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/uos-remote-assistance/uos-remote-assistance_1.1.36-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/uos-remote-assistance/uos-remote-assistance_1.1.36-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/uos-remote-assistance/uos-remote-assistance_1.1.36-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

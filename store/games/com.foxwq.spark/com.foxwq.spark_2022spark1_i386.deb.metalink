@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.foxwq.spark_2022spark1_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">47ac6e18d3191f4a4b8a13f84e77e5f2</hash>
+				  
+				<hash type="sha1">52f68e680990d95d9cdaaef3c9a7459ef88e8307</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.foxwq.spark/com.foxwq.spark_2022spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.foxwq.spark/com.foxwq.spark_2022spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.foxwq.spark/com.foxwq.spark_2022spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.foxwq.spark/com.foxwq.spark_2022spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.foxwq.spark/com.foxwq.spark_2022spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.foxwq.spark/com.foxwq.spark_2022spark1_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

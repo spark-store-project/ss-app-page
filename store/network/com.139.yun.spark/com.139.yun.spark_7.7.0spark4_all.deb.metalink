@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.139.yun.spark_7.7.0spark4_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">584dd6919003655c807c325892d4d663</hash>
+				  
+				<hash type="sha1">23826f1e29eff3ae1a73aa3bd5b3321242355e6c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/com.139.yun.spark/com.139.yun.spark_7.7.0spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/com.139.yun.spark/com.139.yun.spark_7.7.0spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/com.139.yun.spark/com.139.yun.spark_7.7.0spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/com.139.yun.spark/com.139.yun.spark_7.7.0spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/com.139.yun.spark/com.139.yun.spark_7.7.0spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/com.139.yun.spark/com.139.yun.spark_7.7.0spark4_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.qq.qqgames_1.0.3.2-1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">906511a5ebad7171ebfcae962547d4c3</hash>
+				  
+				<hash type="sha1">69b75898f23afba0c88d2c9f61f3c46385a5d1c3</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.qq.qqgames/com.qq.qqgames_1.0.3.2-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.qq.qqgames/com.qq.qqgames_1.0.3.2-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.qq.qqgames/com.qq.qqgames_1.0.3.2-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.qq.qqgames/com.qq.qqgames_1.0.3.2-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.qq.qqgames/com.qq.qqgames_1.0.3.2-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.qq.qqgames/com.qq.qqgames_1.0.3.2-1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

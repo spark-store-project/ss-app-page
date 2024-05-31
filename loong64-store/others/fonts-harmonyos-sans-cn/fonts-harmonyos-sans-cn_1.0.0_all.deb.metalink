@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="fonts-harmonyos-sans-cn_1.0.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">d7d7d49425cb7deba99c58c05acd6b31</hash>
+				  
+				<hash type="sha1">c8bd4df1401ec92fdf329b58f38d6035951b5a10</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/others/fonts-harmonyos-sans-cn/fonts-harmonyos-sans-cn_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/others/fonts-harmonyos-sans-cn/fonts-harmonyos-sans-cn_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/others/fonts-harmonyos-sans-cn/fonts-harmonyos-sans-cn_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/others/fonts-harmonyos-sans-cn/fonts-harmonyos-sans-cn_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/others/fonts-harmonyos-sans-cn/fonts-harmonyos-sans-cn_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/others/fonts-harmonyos-sans-cn/fonts-harmonyos-sans-cn_1.0.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

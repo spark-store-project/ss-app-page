@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="microsoft-powershell_7.3.4~spark1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">025026494c48d056084547a775c4b84a</hash>
+				  
+				<hash type="sha1">942346bf7dbe9efc31cda3e99465f4f954335827</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/microsoft-powershell/microsoft-powershell_7.3.4~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/microsoft-powershell/microsoft-powershell_7.3.4~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/microsoft-powershell/microsoft-powershell_7.3.4~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/microsoft-powershell/microsoft-powershell_7.3.4~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/microsoft-powershell/microsoft-powershell_7.3.4~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/microsoft-powershell/microsoft-powershell_7.3.4~spark1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

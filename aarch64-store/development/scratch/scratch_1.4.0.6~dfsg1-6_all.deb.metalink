@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="scratch_1.4.0.6~dfsg1-6_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">2f4f55ddd5edc30c516d5f6c52f55652</hash>
+				  
+				<hash type="sha1">777d9c3f317898a5ea9e4433a9df6969bda2e575</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/development/scratch/scratch_1.4.0.6~dfsg1-6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/development/scratch/scratch_1.4.0.6~dfsg1-6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/development/scratch/scratch_1.4.0.6~dfsg1-6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/development/scratch/scratch_1.4.0.6~dfsg1-6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/development/scratch/scratch_1.4.0.6~dfsg1-6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/development/scratch/scratch_1.4.0.6~dfsg1-6_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

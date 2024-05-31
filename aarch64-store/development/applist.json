@@ -1,0 +1,379 @@
+[
+{
+    "Name": "Visual Studio Code(vscode)",
+    "Version": "1.89.1-1715058876",
+    "Filename": "code_1.89.1-1715058876_arm64.deb",
+    "Torrent_address": "code_1.89.1-1715058876_arm64.deb.torrent",
+    "Pkgname": "code",
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo<shenmo@spark-app.store>",
+    "Website": "https://code.visualstudio.com/",
+    "Update": "2024-05-09 22:02:27",
+    "Size": "90M",
+    "More": "VSCode是一款非常牛逼的编辑器",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/code/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/code/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/code/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/code/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/code/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/development/code/icon.png"
+}
+
+,
+{
+    "Author": "royqh1979@gmail.com",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "redpanda-cpp_2.12-1_arm64.deb",
+    "More": "小巧但功能强大的C/C++编辑器\n操作简便 \n小熊猫C++无需复杂的安装和配置，打开即可直接编辑程序文件；无需创建项目，点击工具栏上按钮即可编译、运行和调试程序。 \n轻量高效 \n小熊猫C++基于QT和C++语言开发，使用内置的轻量级代码分析器进行智能语法分析，运行时无需大量的内存和CPU资源，在低配置机器上也能获得流畅的运行体验。 \n多平台支持 \n小熊猫C++支持Windows 7/8/10、Linux等操作系统。在各种操作系统下都能获得相同的高质量编程体验。 \n生产力提升 \n通过集成自动缩进、智能代码补全、智能语法高亮和实时语法检查等功能，小熊猫C++提供了流畅的代码编辑体验，可以大幅度提升代码编写的效率。 \n调试 \n小熊猫C++提供完善的调试功能，包括控制程序执行、断点、监视变量和表达式、表达式求值、查看本地变量、查看和切换调用栈、查看和修改内存、查看CPU寄存器和反编译信息等。小熊猫C++甚至还可以重定向被调试程序的输入！ \n多屏幕 \n小熊猫C++提供了完善的高分辨率和多显示器支持，能够在多个不同DPI设置的显示器间自由切换，同时提供完善的显示效果，便于教学和展示。 \n试题集和OJ \n针对C/C++教学和竞赛需求，小熊猫C++专门提供了试题集和OJ功能：可以方便的组织管理、运行和测试C/C++练习程序；可以导入或者从OJ网站下载试题和配套的测试数据。 \nGit版本管理 \n小熊猫C++内置git支持，可以方便对项目或工作文件夹进行版本管理（需额外安装git程序） \n整合多种学习用库 \nWindows版小熊猫C++在自带gcc中整合了ege、海龟作图、raylib、freeglut、GLFW和GLEW等适合编程或者游戏开发入门者使用的库和项目模板，无需复杂的安装配置即可直接使用。",
+    "Name": "小熊猫 C++",
+    "Pkgname": "redpanda-cpp",
+    "Size": "2771 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "redpanda-cpp_2.12-1_arm64.deb.torrent",
+    "Update": "2023-03-08 22:29:58",
+    "Version": "2.12-1",
+    "Website": "https://github.com/royqh1979/RedPanda-CPP",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/development/redpanda-cpp/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/redpanda-cpp/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/redpanda-cpp/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/redpanda-cpp/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/redpanda-cpp/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "z-tools-desktop-generater_1.2-20230129_arm64.deb",
+    "More": "desktop 图标生成器，提供基于Linux平台的desktop文件自动化生成工具",
+    "Name": "desktop 图标生成器",
+    "Pkgname": "z-tools-desktop-generater",
+    "Size": "50 Kb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "z-tools-desktop-generater_1.2-20230129_arm64.deb.torrent",
+    "Update": "2023-03-06 20:57:37",
+    "Version": "1.2-20230129",
+    "Website": "https://gitee.com/zinface",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/development/z-tools-desktop-generater/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/z-tools-desktop-generater/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/z-tools-desktop-generater/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/z-tools-desktop-generater/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "Brendan Forster <github@brendanforster.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "github-desktop_3.2.7-linux2_arm64.deb",
+    "More": "GitHub Desktop 是一个基于 Electron 的开源 GitHub 应用程序。它是用 TypeScript 编写的，并使用 React。",
+    "Name": "GitHub Desktop",
+    "Pkgname": "github-desktop",
+    "Size": "87 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "github-desktop_3.2.7-linux2_arm64.deb.torrent",
+    "Update": "2023-08-15 16:43:09",
+    "Version": "3.2.7-linux2",
+    "Website": "https://github.com/shiftkey/desktop",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/development/github-desktop/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/github-desktop/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/github-desktop/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/github-desktop/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "gfdgd xi<3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.scratch3.spark_3.29.1_all.deb",
+    "More": "scratch是目前全球最广泛使用的图形化编程语言，它的图形化的编程界面可以让零基础的用户快速轻松上手。目前官方正式发布了scratch3.0编程，通过它用户可以编写属于自己的互动媒体，像是故事、游戏、动画，然后你可以将你的创意分享给全世界，并且可以帮助年轻人更具创造力、逻辑力、协作力。全新的scratch3.0特别为8到16岁孩子设计，它扩展了Scratch的使用方式、功能和适用环境。其中包括了几十个新的角色、全新的声音编辑器和许多新的编程积木。除了支持桌面电脑和笔记本电脑外，你还可以在平板电脑上使用scratch3.0创作和观看作品。",
+    "Name": "Scratch 3（Wine）",
+    "Pkgname": "com.scratch3.spark",
+    "Size": "425 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.scratch3.spark_3.29.1_all.deb.torrent",
+    "Update": "2023-06-24 12:55:35",
+    "Version": "3.29.1",
+    "Website": "https://scratch.mit.edu",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/development/com.scratch3.spark/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/com.scratch3.spark/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/com.scratch3.spark/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/com.scratch3.spark/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/com.scratch3.spark/screen_4.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/com.scratch3.spark/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "Codemao",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Filename": "cn.codemao.wood_0.1.3_arm64.deb",
+    "More": "海龟编辑器，是编程猫面向Python初学者开发的图形化Python编辑器。",
+    "Name": "海龟编辑器",
+    "Pkgname": "cn.codemao.wood",
+    "Size": "71 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "cn.codemao.wood_0.1.3_arm64.deb.torrent",
+    "Update": "2023-03-05 18:17:14",
+    "Version": "0.1.3",
+    "Website": "https://wood.codemao.cn",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/development/cn.codemao.wood/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/cn.codemao.wood/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/cn.codemao.wood/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "Codemao",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Filename": "cn.codemao.kitten3_3.7.13_arm64.deb",
+    "More": "支持离线编辑代码，让创作更简单。",
+    "Name": "编程猫源码编辑器",
+    "Pkgname": "cn.codemao.kitten3",
+    "Size": "128 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "cn.codemao.kitten3_3.7.13_arm64.deb.torrent",
+    "Update": "2023-03-05 18:10:34",
+    "Version": "3.7.13",
+    "Website": "https://kitten.codemao.cn",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/development/cn.codemao.kitten3/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/cn.codemao.kitten3/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/cn.codemao.kitten3/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "DFRobot <mindplus@dfrobot.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "mindplus_1.7.1-202107301900_arm64.deb",
+    "More": "Mind+是一款拥有自主知识产权的国产青少年编程软件，集成各种主流主控板及上百种开源硬件，支持人工智能（AI）与物联网（IoT）功能，既可以拖动图形化积木编程，还可以使用Python/C/C++等高级编程语言，让大家轻松体验创造的乐趣。",
+    "Name": "Mind+",
+    "Pkgname": "mindplus",
+    "Size": "431 Mb",
+    "Tags": "deepin",
+    "Torrent_address": "mindplus_1.7.1-202107301900_arm64.deb.torrent",
+    "Update": "2023-03-06 20:31:45",
+    "Version": "1.7.1-202107301900",
+    "Website": "https://github.com/LLK/scratch-gui#readme",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/development/mindplus/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/mindplus/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/mindplus/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/mindplus/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/mindplus/screen_4.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/mindplus/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "spark-store",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "appimage2deb_2.5.1_all.deb",
+    "More": "1.添加AppImage后缀名支持\n2.增加高清图标支持\n3. 默认解包\n4. 支持直接投递UOS商店\n5. 使用xz而不是gzip\n6. 多线程支持\n7. 出包依赖ablrun方便适配打包\n8. 如果没有填写软件名，则用默认的desktop的",
+    "Name": "A2D 软件打包",
+    "Pkgname": "appimage2deb",
+    "Size": "258 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "appimage2deb_2.5.1_all.deb.torrent",
+    "Update": "2023-08-21 16:34:38",
+    "Version": "2.5.1",
+    "Website": "https://gitee.com/deepin-community-store/appimage2deb",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/development/appimage2deb/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/appimage2deb/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/appimage2deb/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/appimage2deb/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "Miriam Ruiz <miriam@debian.org>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "scratch_1.4.0.6~dfsg1-6_all.deb",
+    "More": "Scratch is an easy, interactive, collaborative programming\n environment designed for creation of interactive stories, animations,\n games, music, and art -- and sharing these on the web.\n Scratch is designed to help young people (ages 8 and up) develop 21st\n century learning skills. As they create Scratch projects, young people\n learn important mathematical and computational ideas, while also\n gaining a deeper understanding of the process of design.",
+    "Name": "Scratch 1.4",
+    "Pkgname": "scratch",
+    "Size": "25 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "scratch_1.4.0.6~dfsg1-6_all.deb.torrent",
+    "Update": "2023-03-05 18:38:17",
+    "Version": "1.4.0.6~dfsg1-6",
+    "Website": "http://scratch.mit.edu",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/development/scratch/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/scratch/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/scratch/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "Eugene Pankov <e@ajenti.org>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "tabby-terminal_1.0.200_arm64.deb",
+    "More": "A terminal for a modern age",
+    "Name": "Tabby",
+    "Pkgname": "tabby-terminal",
+    "Size": "87 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "tabby-terminal_1.0.200_arm64.deb.torrent",
+    "Update": "2023-09-26 14:44:40",
+    "Version": "1.0.200",
+    "Website": "https://github.com/Eugeny/tabby#readme",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/development/tabby-terminal/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/tabby-terminal/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/tabby-terminal/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/tabby-terminal/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "VSCodium Team https://github.com/VSCodium/vscodium/graphs/contributors",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "codium_1.79.2.23166_arm64.deb",
+    "More": "VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.",
+    "Name": "VSCodium",
+    "Pkgname": "codium",
+    "Size": "81 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "codium_1.79.2.23166_arm64.deb.torrent",
+    "Update": "2023-06-30 15:56:05",
+    "Version": "1.79.2.23166",
+    "Website": "https://vscodium.com/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/development/codium/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/codium/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/codium/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "qtcreator-ondarkpro-style-themes_0.0.1-20230308_arm64.deb",
+    "More": "在 QtCreator 中应用 one dark pro 主题",
+    "Name": "在 QtCreator 中应用 one dark pro 主题",
+    "Pkgname": "qtcreator-ondarkpro-style-themes",
+    "Size": "4 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "qtcreator-ondarkpro-style-themes_0.0.1-20230308_arm64.deb.torrent",
+    "Update": "2023-03-08 22:31:50",
+    "Version": "0.0.1-20230308",
+    "Website": "https://gitee.com/zinface/qtcreator.ondarkpro-style-themes",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/development/qtcreator-ondarkpro-style-themes/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/qtcreator-ondarkpro-style-themes/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "Sublime HQ Pty Ltd <support@sublimetext.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "sublime-merge_2083_arm64.deb",
+    "More": "sublime-merge，用来Git的软件，是sublime家的一员",
+    "Name": "Sublime Merge",
+    "Pkgname": "sublime-merge",
+    "Size": "4907 Kb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "sublime-merge_2083_arm64.deb.torrent",
+    "Update": "2023-08-21 00:22:48",
+    "Version": "2083",
+    "Website": "https://www.sublimemerge.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/development/sublime-merge/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/sublime-merge/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <jifengshenmo@outlook.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "shirodeb_0.1.2.1_all.deb",
+    "More": "ShiroDEB 是一个方便的脚本集，用于按照 UOS 规范将软件快速打包成 deb 包。",
+    "Name": "Shirodeb",
+    "Pkgname": "shirodeb",
+    "Size": "10 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "shirodeb_0.1.2.1_all.deb.torrent",
+    "Update": "2023-10-24 14:27:52",
+    "Version": "0.1.2.1",
+    "Website": "https://gitee.com/spark-community-works-collections/shirodeb",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/development/shirodeb/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/shirodeb/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.github.skylark.spark_4.0.4spark1_all.deb",
+    "More": "一款开源文本/十六进制编辑器。\n\n功能特色：\n- 支持40多种常用编程语言的语法高亮与自动补全.\n- 支持50多个国家语言编码的转换.\n- 内置16进制编辑器.\n- 内置sqlite3/mysql/PostgreSQL/redis数据库客户端.\n- 支持sql与lua脚本直接运行.\n- 支持json解析与格式化.\n- 支持clang-format格式化.\n- 支持代码片段功能\n- 支持操作系统暗黑主题模式\n- 支持sumatrapdf插件, 可直接在skylark打开pdf文档和epub等格式电子书\n- 常用密钥算法的加密与解密.\n- 内置文件管理器与sftp远程管理器.\n- 内置二维码转换, 简繁转换, 半角全角符号转换功能.\n- 强大的文本搜索与文件搜索功能.\n- 纯绿色, 不写注册表, 不注入资源管理器, 不在安装文件位置之外写入任何东西.\n- 可视化主题定制, 简洁明了的一级菜单操作方式\n- 提供lua脚本接口, 您不必精通lua编程, 以配置文件的方式即可修改工具栏, 快捷键以及自定义语法高亮",
+    "Name": "Skylark Edit",
+    "Pkgname": "com.github.skylark.spark",
+    "Size": "26 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.github.skylark.spark_4.0.4spark1_all.deb.torrent",
+    "Update": "2023-09-05 21:10:31",
+    "Version": "4.0.4spark1",
+    "Website": "https://github.com/adonais/skylark",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/development/com.github.skylark.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/com.github.skylark.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/com.github.skylark.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/com.github.skylark.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "vscode-history-analyzer_0.0.2-20230308_arm64.deb",
+    "More": "一个可以帮助您了解 VSCode 历史项目信息的分析器",
+    "Name": "VSCode 历史项目信息分析器",
+    "Pkgname": "vscode-history-analyzer",
+    "Size": "128 Kb",
+    "Tags": "community;deepin;ubuntu",
+    "Torrent_address": "vscode-history-analyzer_0.0.2-20230308_arm64.deb.torrent",
+    "Update": "2023-03-08 22:32:05",
+    "Version": "0.0.2-20230308",
+    "Website": "https://gitee.com/zinface/qt.vscode-history-analyzer",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/development/vscode-history-analyzer/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/vscode-history-analyzer/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "Dmitry Baryshev <dmitrymq@gmail.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "qsseditor_0.6.1-1_arm64.deb",
+    "More": "QSS 编辑器是一个编辑和预览 Qt 样式表的工具。\n偶然发现，说不定有用。样式参考：https://github.com/ColinDuquesnoy/QDarkStyleSheet",
+    "Name": "QSS 编辑器",
+    "Pkgname": "qsseditor",
+    "Size": "98 Kb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "qsseditor_0.6.1-1_arm64.deb.torrent",
+    "Update": "2023-03-05 19:37:43",
+    "Version": "0.6.1-1",
+    "Website": "https://github.com/smoked-herring/qsseditor",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/development/qsseditor/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/qsseditor/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.360.electron360-api-demos_16.0.3_arm64.deb",
+    "More": "360易创 旨在提供一套跨平台的应用程序开发框架，以Chromium内核+Node.js引擎+Native API为标准运行体系，结合我国信创领域的实际业务场景和需求，面向应用厂商在安全防护、性能提升、跨平台支持等方面技术赋能，协助其提高软件开发质量、产品能力以及市场竞争力",
+    "Name": "360易创API示例",
+    "Pkgname": "com.360.electron360-api-demos",
+    "Size": "87 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "com.360.electron360-api-demos_16.0.3_arm64.deb.torrent",
+    "Update": "2023-03-06 20:28:40",
+    "Version": "16.0.3",
+    "Website": "https://www.360.cn/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/development/com.360.electron360-api-demos/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/com.360.electron360-api-demos/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/com.360.electron360-api-demos/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "ThinkYoung",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.heidisql.spark_12.7.0.6850_all.deb",
+    "More": "HeidiSQL是一款面向Web开发人员的功能强大且可靠的工具，适用于流行数据库如MySQL、SQlite、Microsoft SQL和PostgreSQL。它允许用户轻松浏览和编辑数据，创建和编辑结构。该软件免费使用，旨在易于学习。",
+    "Name": "HeidiSQL(wine)",
+    "Pkgname": "com.heidisql.spark",
+    "Size": "36 Mb",
+    "Tags": "deepin;ubuntu;dwine5;uos",
+    "Torrent_address": "com.heidisql.spark_12.7.0.6850_all.deb.torrent",
+    "Update": "2024-05-06 11:59:39",
+    "Version": "12.7.0.6850",
+    "Website": "https://www.heidisql.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/development/com.heidisql.spark/icon.png",
+    "img_urls": "[]"
+}
+
+,
+{
+    "Author": "ArteryTeck",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "at32-work-bench_1.0.03_arm64.deb",
+    "More": "AT32 Workbench嵌入式开发工具提供初始化C语言代码生成，图形化配置使MCU软件工程师更有效率进行应用开发和优化程序代码，并兼容Windows®和Linux®等多平台操作系统，提升用户体验及便捷，同时支持Keil、IAR、AT32 IDE等常见IDE开发工具，轻松实现平台转换移植。",
+    "Name": "at32-work-bench",
+    "Pkgname": "at32-work-bench",
+    "Size": "44 Mb",
+    "Tags": "deepin;ubuntu",
+    "Torrent_address": "at32-work-bench_1.0.03_arm64.deb.torrent",
+    "Update": "2024-03-12 22:59:19",
+    "Version": "1.0.03",
+    "Website": "https://www.arterytek.com/cn/product/AT32F413.jsp",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/development/at32-work-bench/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/at32-work-bench/screen_1.png\"]"
+}
+
+]

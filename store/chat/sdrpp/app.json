@@ -1,0 +1,16 @@
+{
+    "Name": "SDR++",
+    "Version": "1.0.4",
+    "Filename": "sdrpp_1.0.4_all.deb",
+    "Torrent_address": "sdrpp_1.0.4_all.deb.torrent",
+    "Pkgname": "sdrpp",
+    "Author": "AlexandreRouma",
+    "Contributor": "bINFeng",
+    "Website": "https://github.com/AlexandreRouma/SDRPlusPlus",
+    "Update": "2022-11-24 11:58:37",
+    "Size": "2.13 MB",
+    "More": "自己编译的deb包，基于Deepin20.7，提前安装依赖包：libfftw3-dev, libglfw3-dev, libvolk1-dev, librtaudio-dev, libzstd-dev, libhackrf-dev, librtlsdr-dev",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/24/900a07ee-bd2c-42c6-9cd3-8bcf9a5d0f39.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/24/6a9d307e-1751-4fd9-a445-0d91892838a3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/24/627b5261-a5af-49cc-bf39-f9f2345094ce.png"
+}

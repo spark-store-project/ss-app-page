@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.xunlei.spark_11.4.8.2122spark3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">8b205c5386d431c3bed104af8ec3f19f</hash>
+				  
+				<hash type="sha1">2b61ae92bbd3a27ec736b528e45d5e73ba5f8408</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/com.xunlei.spark/com.xunlei.spark_11.4.8.2122spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/com.xunlei.spark/com.xunlei.spark_11.4.8.2122spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/com.xunlei.spark/com.xunlei.spark_11.4.8.2122spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/com.xunlei.spark/com.xunlei.spark_11.4.8.2122spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/com.xunlei.spark/com.xunlei.spark_11.4.8.2122spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/com.xunlei.spark/com.xunlei.spark_11.4.8.2122spark3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

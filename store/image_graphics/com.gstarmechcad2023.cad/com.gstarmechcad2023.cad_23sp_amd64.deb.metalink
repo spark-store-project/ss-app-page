@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.gstarmechcad2023.cad_23sp_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">00dcc4db677c1f4aa3c157d97fad8fcf</hash>
+				  
+				<hash type="sha1">8ed24555afa0958ec509fcf505db6d0474149e86</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.gstarmechcad2023.cad/com.gstarmechcad2023.cad_23sp_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/com.gstarmechcad2023.cad/com.gstarmechcad2023.cad_23sp_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/com.gstarmechcad2023.cad/com.gstarmechcad2023.cad_23sp_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/com.gstarmechcad2023.cad/com.gstarmechcad2023.cad_23sp_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/com.gstarmechcad2023.cad/com.gstarmechcad2023.cad_23sp_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/com.gstarmechcad2023.cad/com.gstarmechcad2023.cad_23sp_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

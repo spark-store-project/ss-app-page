@@ -1,0 +1,15 @@
+{
+    "Name": "百度Linux输入法",
+    "Version": "1.0.1.0",
+    "Filename": "fcitx-baidupinyin_1.0.1.0_amd64.deb",
+    "Pkgname": "fcitx-baidupinyin",
+    "Author": "北京百度网讯科技有限公司",
+    "Contributor": "IA",
+    "Website": "https://srf.baidu.com/site/guanwang_linux/index.html",
+    "Update": "2021-02-26 13:57:43",
+    "Size": "27.9 MB",
+    "More": "我们来了，久等了。\n百度输入法是由百度公司全新推出的一款基于强大搜索引擎技术，适应于互联网使用需求的输入法产品，旨在为用户提供高效、智能、稳定、便捷的输入体验。\n具有以下特点：、\n拼音五笔都支持，一键切换不麻烦。\n含超全三维词库，有利于精准输入。\n英文输入模式下，指定应用输英文。\n手误有智能纠错，新词也有云输入。\n整句联想来助力，指尖生活更美好。\n\n\n1.请使用UOS发行版的用户不要使用此版本，百度公司开发了单独版本。\n2.本输入法输入面板程序与其他输入法如搜狗输入法、讯飞输入法冲突，在个别情况下可能会受其他输入法影响而无法正常启动，若已安装其他输入法并导致百度输入法输入面板无法正常启动，应关闭其他输入法相关进程并重启百度输入法输入面板程序，输入面板程序安装路径为/opt/apps/com.baidu.fcitx-baidupinyin/files/bin/baidu-qimpanel\n3.安装本输入法前请更新后安装fcitx、qt\n4.安装后请重启计算机再使用。",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/26/144a5240-77f5-11eb-9190-c146382386db.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/26/1285bee0-77f5-11eb-9190-c146382386db.png"
+}

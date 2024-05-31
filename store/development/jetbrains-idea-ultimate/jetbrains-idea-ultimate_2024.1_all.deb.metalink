@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="jetbrains-idea-ultimate_2024.1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f81c08b285e6a7128bcfd83ffc1c06c9</hash>
+				  
+				<hash type="sha1">1e42e0024d26041ec7f2e65d8c81473a9b83e0d2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/jetbrains-idea-ultimate/jetbrains-idea-ultimate_2024.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/jetbrains-idea-ultimate/jetbrains-idea-ultimate_2024.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/jetbrains-idea-ultimate/jetbrains-idea-ultimate_2024.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/jetbrains-idea-ultimate/jetbrains-idea-ultimate_2024.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/jetbrains-idea-ultimate/jetbrains-idea-ultimate_2024.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/jetbrains-idea-ultimate/jetbrains-idea-ultimate_2024.1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

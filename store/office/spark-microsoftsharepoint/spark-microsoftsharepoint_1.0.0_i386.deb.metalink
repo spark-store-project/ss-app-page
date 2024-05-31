@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-microsoftsharepoint_1.0.0_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">d7b96a61cc0aaa5a8d773b1bc345c26d</hash>
+				  
+				<hash type="sha1">dec2856cd4d539bf0312d5ff2b1211923c0604e0</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/spark-microsoftsharepoint/spark-microsoftsharepoint_1.0.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/spark-microsoftsharepoint/spark-microsoftsharepoint_1.0.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/spark-microsoftsharepoint/spark-microsoftsharepoint_1.0.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/spark-microsoftsharepoint/spark-microsoftsharepoint_1.0.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/spark-microsoftsharepoint/spark-microsoftsharepoint_1.0.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/spark-microsoftsharepoint/spark-microsoftsharepoint_1.0.0_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

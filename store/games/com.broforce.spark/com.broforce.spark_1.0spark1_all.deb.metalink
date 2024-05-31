@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.broforce.spark_1.0spark1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b3ebb48d2f5dfa57aa7f2139e22494ed</hash>
+				  
+				<hash type="sha1">d4a7a71b872894f85ca9a8da49c184519818b3fe</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.broforce.spark/com.broforce.spark_1.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.broforce.spark/com.broforce.spark_1.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.broforce.spark/com.broforce.spark_1.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.broforce.spark/com.broforce.spark_1.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.broforce.spark/com.broforce.spark_1.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.broforce.spark/com.broforce.spark_1.0spark1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.ccnew.client.spark_2.292deepin6_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">89fa5628bd3ae3d2081cafca61880bee</hash>
+				  
+				<hash type="sha1">56097a06edb4914be137aa7f764bcc60d4f9891f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.ccnew.client.spark/com.ccnew.client.spark_2.292deepin6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.ccnew.client.spark/com.ccnew.client.spark_2.292deepin6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.ccnew.client.spark/com.ccnew.client.spark_2.292deepin6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.ccnew.client.spark/com.ccnew.client.spark_2.292deepin6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.ccnew.client.spark/com.ccnew.client.spark_2.292deepin6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.ccnew.client.spark/com.ccnew.client.spark_2.292deepin6_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="PDMan-linux_v2.2.0.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a47c608a014611cfce024947044b2659</hash>
+				  
+				<hash type="sha1">b4ca524f44bf9ecf8a6cf114ba0366cc94f8bb4a</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/pdman/PDMan-linux_v2.2.0.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/pdman/PDMan-linux_v2.2.0.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/pdman/PDMan-linux_v2.2.0.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/pdman/PDMan-linux_v2.2.0.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/pdman/PDMan-linux_v2.2.0.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/pdman/PDMan-linux_v2.2.0.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

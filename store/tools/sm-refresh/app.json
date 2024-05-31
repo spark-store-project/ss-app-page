@@ -1,0 +1,16 @@
+{
+    "Name": "右键刷新插件",
+    "Version": "1.1",
+    "Filename": "sm-refresh_1.1_all.deb",
+    "Torrent_address": "sm-refresh_1.1_all.deb.torrent",
+    "Pkgname": "sm-refresh",
+    "Author": "shenmo <jifengshenmo@outlook.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "http://blog.shenmo.tech",
+    "Update": "2023-04-27 21:26:53",
+    "Size": "12.14 KB",
+    "More": "深度右键刷新插件,请在星火商店的应用详情页面卸载或输入\nsudo apt purge sm-refresh -y\n更新内容：\n支持了非中文环境下显示为Refresh\n改预依赖为普通依赖以便处理\n\n修复了可能的失效问题",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/775d81a1fd4a43d49ce520dc67f65358.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/ca7f8baea5d046d7acbf004b6492de39.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/27/c81e2b152a3d4bb7bf3778b61cd1232f.png"
+}

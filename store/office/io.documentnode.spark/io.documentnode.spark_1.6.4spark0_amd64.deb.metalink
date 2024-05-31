@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="io.documentnode.spark_1.6.4spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">3e15dcc413f2279edbbbb33c92034c26</hash>
+				  
+				<hash type="sha1">757e22988eba70a8ef0dd3e32191bfa2401a57f9</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/io.documentnode.spark/io.documentnode.spark_1.6.4spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/io.documentnode.spark/io.documentnode.spark_1.6.4spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/io.documentnode.spark/io.documentnode.spark_1.6.4spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/io.documentnode.spark/io.documentnode.spark_1.6.4spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/io.documentnode.spark/io.documentnode.spark_1.6.4spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/io.documentnode.spark/io.documentnode.spark_1.6.4spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

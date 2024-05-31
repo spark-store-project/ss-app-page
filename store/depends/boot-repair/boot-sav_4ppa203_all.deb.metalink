@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="boot-sav_4ppa203_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7859e0e22e8cc94fe5fa5765f289bc3e</hash>
+				  
+				<hash type="sha1">7cf6273307d56cc545ced141343ca5c82667f2d9</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/boot-repair/boot-sav_4ppa203_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/boot-repair/boot-sav_4ppa203_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/boot-repair/boot-sav_4ppa203_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/boot-repair/boot-sav_4ppa203_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/boot-repair/boot-sav_4ppa203_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/boot-repair/boot-sav_4ppa203_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

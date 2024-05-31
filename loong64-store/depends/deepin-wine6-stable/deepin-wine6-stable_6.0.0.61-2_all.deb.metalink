@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="deepin-wine6-stable_6.0.0.61-2_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">826bcd6f36c9371aee926fe8e865f003</hash>
+				  
+				<hash type="sha1">18cc8ba38044e44d02620a2d1f321eda3ea79eac</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/depends/deepin-wine6-stable/deepin-wine6-stable_6.0.0.61-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/depends/deepin-wine6-stable/deepin-wine6-stable_6.0.0.61-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/depends/deepin-wine6-stable/deepin-wine6-stable_6.0.0.61-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/depends/deepin-wine6-stable/deepin-wine6-stable_6.0.0.61-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/depends/deepin-wine6-stable/deepin-wine6-stable_6.0.0.61-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/depends/deepin-wine6-stable/deepin-wine6-stable_6.0.0.61-2_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

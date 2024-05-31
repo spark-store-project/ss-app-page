@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cool.flicker.spark_5.3.2spark0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e2144e9711752e4b786c3be0a843abd1</hash>
+				  
+				<hash type="sha1">676720322bc25a183c676e708fc6bfc1ca87566e</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/cool.flicker.spark/cool.flicker.spark_5.3.2spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/cool.flicker.spark/cool.flicker.spark_5.3.2spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/cool.flicker.spark/cool.flicker.spark_5.3.2spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/cool.flicker.spark/cool.flicker.spark_5.3.2spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/cool.flicker.spark/cool.flicker.spark_5.3.2spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/cool.flicker.spark/cool.flicker.spark_5.3.2spark0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

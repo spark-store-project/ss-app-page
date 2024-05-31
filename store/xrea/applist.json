@@ -1,0 +1,136 @@
+[
+{
+    "Author": "懵仙兔兔 <acgm@qq.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.github.clash-for-windows_0.20.39_amd64.deb",
+    "More": "Clash For Windows 中文版\n网络联机时刷新配置文件： 当网络恢复在线时刷新配置文件，以唤醒代理。\n    更新冲突文档： 更新了冲突文档中的链接和信息。\n    更新反馈视图的样式： 更新了反馈视图的样式。\n    修复 \"检查更新 \"不显示的问题： 修复了 \"检查更新 \"不显示的问题。\n    杂项： 处理并修复了各种小故障。",
+    "Name": "Clash For Windows（Linux中文版）",
+    "Pkgname": "com.github.clash-for-windows",
+    "Size": "85 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "com.github.clash-for-windows_0.20.39_amd64.deb.torrent",
+    "Update": "2023-10-21 20:47:37",
+    "Version": "0.20.39",
+    "Website": "https://github.com/Fndroid/clash_for_windows_pkg",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.github.clash-for-windows/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.github.clash-for-windows/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.github.clash-for-windows/screen_2.png\"]"
+}
+
+,
+{
+    "Name": "FClash",
+    "Version": "1.4.4",
+    "Filename": "cn.kingtous.fclash_1.4.4_amd64.deb",
+    "Torrent_address": "cn.kingtous.fclash_1.4.4_amd64.deb.torrent",
+    "Pkgname": "cn.kingtous.fclash",
+    "Author": "Kingtous",
+    "Contributor": "Kingtous <kingtous@qq.com>",
+    "Website": "https://github.com/fclash/fclash",
+    "Update": "2024-01-02 20:27:00",
+    "Size": "32.13 MB",
+    "More": "更好的Clash客户端,支持Windows/MacOS/Linux的更好的Clash客户端 Clash fronted client by Flutter (Windows/MacOS/Linux supported). 支持自动设置系统代理,RULE-SET转换.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/02/92b51ee86ddf4eceada826d6659b97fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/02/d6b9efdb48d040bb931c628648ac69a0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/02/3bf35fd71c3f48a18c5957899272d2bd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/02/0f70433905614a5cb352ef21edf85a92.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/02/cb9f68701be34e2f8aefba0d07aac63e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/02/e85448b1956244e4a53fd7fefbcddf59.png"
+}
+,
+{
+    "Name": "v2rayA",
+    "Version": "2.0.1",
+    "Filename": "v2raya_2.0.1_amd64.deb",
+    "Torrent_address": "v2raya_2.0.1_amd64.deb.torrent",
+    "Pkgname": "v2raya",
+    "Author": "v2rayA",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://github.com/v2rayA/v2raya",
+    "Update": "2023-03-05 18:47:11",
+    "Size": "9.31 MB",
+    "More": "v2rayA 是一个支持全局透明代理的 V2Ray Linux 客户端，同时兼容SS、SSR、Trojan、PingTunnel协议。 \nv2rayA 致力于提供最简单的操作，满足绝大部分需求。\n得益于Web客户端的优势，你不仅可以将其用于本地计算机，还可以轻松地将它部署在路由器或NAS上。\n需要安装v2ray-core，详见https://github.com/v2rayA/v2rayA/wiki/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95",
+    "Tags": "community;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/c68f0d01d9784066b1efa18bf0a30413.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/05/265a76de5f8a4c549fabb155f7015b49.png"
+}
+,
+{
+    "Name": "qv2ray",
+    "Version": "2.7.0",
+    "Filename": "qv2ray_2.7.0_amd64.deb",
+    "Pkgname": "qv2ray",
+    "Author": "Qv2ray Workgroup",
+    "Contributor": "kexuanr",
+    "Website": "https://qv2ray.net/",
+    "Update": "2022-02-21 23:46:17",
+    "Size": "37.36 MB",
+    "More": "Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 SSR / Trojan / Trojan-Go / NaiveProxy | 使用 C++ / Qt5 开发 | 可拓展插件式设计",
+    "Tags": "deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/21/55789520-932d-11ec-a2c6-3b1d14697083.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/21/55921090-932d-11ec-a2c6-3b1d14697083.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/21/55a9b740-932d-11ec-a2c6-3b1d14697083.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/02/21/4f7323c0-932d-11ec-a2c6-3b1d14697083.png"
+}
+,
+{
+    "Name": "Clash Verge",
+    "Version": "1.6.2",
+    "Filename": "clash-verge_1.6.2_amd64.deb",
+    "Torrent_address": "clash-verge_1.6.2_amd64.deb.torrent",
+    "Pkgname": "clash-verge",
+    "Author": "zzzgydi, wonfen, MystiPanda",
+    "Contributor": "clash-verge-rev",
+    "Website": "https://clash-verge-rev.github.io/",
+    "Update": "2024-05-08 17:49:16",
+    "Size": "40.94 MB",
+    "More": "A Clash Meta GUI based on tauri.\nClash Verge的新维护者版本,支持Linux发行版下开启系统代理",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/08/07a44caa4dcf482188109ebae30d8213.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/08/780ac06194664f1580b94071381ed3d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/08/8d79c6e2fe0b4520bd7be6c0a87be5ae.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/08/754b665bd74e4dc58053b18957b63bc4.png"
+}
+,
+{
+    "Name": "ssr",
+    "Version": "9.9.9",
+    "Filename": "com.ssr.spark_9.9.9_amd64.deb",
+    "Pkgname": "com.ssr.spark",
+    "Author": "erguotou",
+    "Contributor": "momen",
+    "Website": "https://github.com/qingshuisiyuan/electron-ssr-backup",
+    "Update": "2021-01-24 17:26:45",
+    "Size": "34.22 MB",
+    "More": "最经典的ssr工具，基于electron-ssr0.2.6,为了防止更新已将版本号改为9.9.9，修复了图标无法正常显示的错误",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/2270ad30-5e26-11eb-8442-992800dad24c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/2278c380-5e26-11eb-8442-992800dad24c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/227bd0c0-5e26-11eb-8442-992800dad24c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/24/1a1cdf00-5e26-11eb-8442-992800dad24c.png"
+}
+,
+{
+    "Name": "electron-ssr",
+    "Version": "0.3.0-alpha.6-48",
+    "Filename": "electron-ssr_0.3.0-alpha.6-48_amd64.deb",
+    "Torrent_address": "electron-ssr_0.3.0-alpha.6-48_amd64.deb.torrent",
+    "Pkgname": "electron-ssr",
+    "Author": "The Electron-SSR Authors <xVanTuring@outlook.com>",
+    "Contributor": "zty199",
+    "Website": "https://github.com/shadowsocksrr/electron-ssr",
+    "Update": "2024-02-03 20:00:59",
+    "Size": "46.34 MB",
+    "More": "Shadowsocksr client using electron.\n\nchangelog:\n1. 修复 Deepin V23 Beta3 无法安装使用问题",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/03/b6384dd0-c28b-11ee-abd9-713b9e99e77a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/03/b80879f0-c28b-11ee-abd9-713b9e99e77a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/03/b450a210-c28b-11ee-abd9-713b9e99e77a.png"
+}
+,
+{
+    "Name": "Clash Nyanpasu～(∠・ω< )⌒☆​ ",
+    "Version": "1.5.1",
+    "Filename": "clash-nyanpasu_1.5.1_amd64.deb",
+    "Torrent_address": "clash-nyanpasu_1.5.1_amd64.deb.torrent",
+    "Pkgname": "clash-nyanpasu",
+    "Author": "zzzgydi, keiko233",
+    "Contributor": "idleness",
+    "Website": "https://nyanpasu.elaina.moe/",
+    "Update": "2024-04-12 23:07:19",
+    "Size": "53.19 MB",
+    "More": "基于 Tauri 的偏执 Clash 图形界面。",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/e7122150-f8dd-11ee-94b3-3598cf0b4d68.gif\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/d8f3eef0-f8dd-11ee-94b3-3598cf0b4d68.png"
+}
+]

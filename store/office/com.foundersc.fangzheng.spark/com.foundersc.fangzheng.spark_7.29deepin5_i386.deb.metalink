@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.foundersc.fangzheng.spark_7.29deepin5_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f05c41dad8d055052072e13724c6c514</hash>
+				  
+				<hash type="sha1">7cd8e71fdb62cbb30ab7d70a5c09e3b7810b7769</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.foundersc.fangzheng.spark/com.foundersc.fangzheng.spark_7.29deepin5_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.foundersc.fangzheng.spark/com.foundersc.fangzheng.spark_7.29deepin5_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.foundersc.fangzheng.spark/com.foundersc.fangzheng.spark_7.29deepin5_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.foundersc.fangzheng.spark/com.foundersc.fangzheng.spark_7.29deepin5_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.foundersc.fangzheng.spark/com.foundersc.fangzheng.spark_7.29deepin5_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.foundersc.fangzheng.spark/com.foundersc.fangzheng.spark_7.29deepin5_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

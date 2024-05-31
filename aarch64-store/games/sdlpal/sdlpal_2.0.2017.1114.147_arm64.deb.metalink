@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="sdlpal_2.0.2017.1114.147_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">871cc6420fb7883bfbda1e335bf314a5</hash>
+				  
+				<hash type="sha1">ac94bffb79feef3c271a819ddf46f8f3469d154b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/games/sdlpal/sdlpal_2.0.2017.1114.147_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/games/sdlpal/sdlpal_2.0.2017.1114.147_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/games/sdlpal/sdlpal_2.0.2017.1114.147_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/games/sdlpal/sdlpal_2.0.2017.1114.147_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/games/sdlpal/sdlpal_2.0.2017.1114.147_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/games/sdlpal/sdlpal_2.0.2017.1114.147_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

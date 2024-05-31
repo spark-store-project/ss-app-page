@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="huawei-cloud-koocli_3.4.12~spark1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5f0c2006b73409c4c7107d05f125682b</hash>
+				  
+				<hash type="sha1">b4136faf1287d8b884fe51765cb12588e1a877b3</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/huawei-cloud-koocli/huawei-cloud-koocli_3.4.12~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/huawei-cloud-koocli/huawei-cloud-koocli_3.4.12~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/huawei-cloud-koocli/huawei-cloud-koocli_3.4.12~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/huawei-cloud-koocli/huawei-cloud-koocli_3.4.12~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/huawei-cloud-koocli/huawei-cloud-koocli_3.4.12~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/huawei-cloud-koocli/huawei-cloud-koocli_3.4.12~spark1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

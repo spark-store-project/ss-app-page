@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-box86_0.3.5_plus_20240431_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">cc8e472838552f312adc9b87b3eced26</hash>
+				  
+				<hash type="sha1">289cb376aba8d7f4ad20c043d5db6cb84a56b7e4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/depends/box8664/spark-box86_0.3.5_plus_20240431_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/depends/box8664/spark-box86_0.3.5_plus_20240431_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/depends/box8664/spark-box86_0.3.5_plus_20240431_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/depends/box8664/spark-box86_0.3.5_plus_20240431_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/depends/box8664/spark-box86_0.3.5_plus_20240431_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/depends/box8664/spark-box86_0.3.5_plus_20240431_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

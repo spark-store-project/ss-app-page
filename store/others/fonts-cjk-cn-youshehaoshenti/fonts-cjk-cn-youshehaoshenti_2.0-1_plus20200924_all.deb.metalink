@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="fonts-cjk-cn-youshehaoshenti_2.0-1_plus20200924_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">47a6e5c6878f8419f0568abbe80aaadc</hash>
+				  
+				<hash type="sha1">d3d2618382bcb4b2e4c03ae8dc26e40ae2d4eedd</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/fonts-cjk-cn-youshehaoshenti/fonts-cjk-cn-youshehaoshenti_2.0-1_plus20200924_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/fonts-cjk-cn-youshehaoshenti/fonts-cjk-cn-youshehaoshenti_2.0-1_plus20200924_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/fonts-cjk-cn-youshehaoshenti/fonts-cjk-cn-youshehaoshenti_2.0-1_plus20200924_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/fonts-cjk-cn-youshehaoshenti/fonts-cjk-cn-youshehaoshenti_2.0-1_plus20200924_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/fonts-cjk-cn-youshehaoshenti/fonts-cjk-cn-youshehaoshenti_2.0-1_plus20200924_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/fonts-cjk-cn-youshehaoshenti/fonts-cjk-cn-youshehaoshenti_2.0-1_plus20200924_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

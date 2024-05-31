@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="uengine-dc-cn.furwall.app_1.1.2_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">fc6154bb38c704269b2a837eacf7a511</hash>
+				  
+				<hash type="sha1">70fc8a11bba39dbfaaad263f89203b992dcdfa1e</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/chat/uengine-dc-cn.furwall.app/uengine-dc-cn.furwall.app_1.1.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/chat/uengine-dc-cn.furwall.app/uengine-dc-cn.furwall.app_1.1.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/chat/uengine-dc-cn.furwall.app/uengine-dc-cn.furwall.app_1.1.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/chat/uengine-dc-cn.furwall.app/uengine-dc-cn.furwall.app_1.1.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/chat/uengine-dc-cn.furwall.app/uengine-dc-cn.furwall.app_1.1.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/chat/uengine-dc-cn.furwall.app/uengine-dc-cn.furwall.app_1.1.2_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

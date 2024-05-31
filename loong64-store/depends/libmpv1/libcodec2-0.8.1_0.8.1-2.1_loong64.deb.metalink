@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libcodec2-0.8.1_0.8.1-2.1_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1e2368b7aa7e5bc1aa4c9597fb8fcde8</hash>
+				  
+				<hash type="sha1">4d10481ecf77234d5da56f3dc4392e3c038f690a</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/depends/libmpv1/libcodec2-0.8.1_0.8.1-2.1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/depends/libmpv1/libcodec2-0.8.1_0.8.1-2.1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/depends/libmpv1/libcodec2-0.8.1_0.8.1-2.1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/depends/libmpv1/libcodec2-0.8.1_0.8.1-2.1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/depends/libmpv1/libcodec2-0.8.1_0.8.1-2.1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/depends/libmpv1/libcodec2-0.8.1_0.8.1-2.1_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

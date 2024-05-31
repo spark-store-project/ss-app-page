@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.bandisoft.bandizip.spark_7.32spark0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b925cf9ad7e5686693159a8c137c6b18</hash>
+				  
+				<hash type="sha1">e644622393154bc3a9d27e26edfef9b5fb9685d7</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/com.bandisoft.bandizip.spark/com.bandisoft.bandizip.spark_7.32spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/com.bandisoft.bandizip.spark/com.bandisoft.bandizip.spark_7.32spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/com.bandisoft.bandizip.spark/com.bandisoft.bandizip.spark_7.32spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/com.bandisoft.bandizip.spark/com.bandisoft.bandizip.spark_7.32spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/com.bandisoft.bandizip.spark/com.bandisoft.bandizip.spark_7.32spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/com.bandisoft.bandizip.spark/com.bandisoft.bandizip.spark_7.32spark0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

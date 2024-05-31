@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="uengine-dc-com.kugou.android_11.4.2_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">27421a6a481bb631e60fc7c889c51353</hash>
+				  
+				<hash type="sha1">071daf527c6461998e34b13ce85bf98a4c136fb0</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/music/uengine-dc-com.kugou.android/uengine-dc-com.kugou.android_11.4.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/music/uengine-dc-com.kugou.android/uengine-dc-com.kugou.android_11.4.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/music/uengine-dc-com.kugou.android/uengine-dc-com.kugou.android_11.4.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/music/uengine-dc-com.kugou.android/uengine-dc-com.kugou.android_11.4.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/music/uengine-dc-com.kugou.android/uengine-dc-com.kugou.android_11.4.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/music/uengine-dc-com.kugou.android/uengine-dc-com.kugou.android_11.4.2_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

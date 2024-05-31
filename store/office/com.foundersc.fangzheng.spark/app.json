@@ -1,0 +1,16 @@
+{
+    "Name": "方正证券",
+    "Version": "7.29deepin5",
+    "Filename": "com.foundersc.fangzheng.spark_7.29deepin5_i386.deb",
+    "Torrent_address": "com.foundersc.fangzheng.spark_7.29deepin5_i386.deb.torrent",
+    "Pkgname": "com.foundersc.fangzheng.spark",
+    "Author": "方正证券股份有限公司",
+    "Contributor": "delsin",
+    "Website": "https://www.foundersc.com/",
+    "Update": "2022-05-10 23:18:41",
+    "Size": "326.6 MB",
+    "More": "方正证券小方行情客户端电脑版7.29 on Deepin Wine5\n提示：\n（1）对于高分辨率屏幕字体显示太小的问题，请在终端安装并自定义winetricks。\n安装命令：sudo apt install winetricks。\n自定义分辨率的终端命令：WINEPREFIX=\"/home/你的用户名/.deepinwine/Spark-Fangzheng\" winetricks 请在弹出的界面中选择默认的wine容器——运行winecfg——显示——屏幕分辨率。屏幕分辨率越高，dpi需设置越大（可多调整几次dpi，以期达到最佳显示效果）。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/10/209b5fc0-d074-11ec-853c-fb300ff192e7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/10/2e718ca0-d074-11ec-853c-fb300ff192e7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/10/1dd22da0-d074-11ec-853c-fb300ff192e7.png"
+}

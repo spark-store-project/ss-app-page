@@ -1,0 +1,12 @@
+{
+   "Name":"systemd-swap-gui",
+   "Version":"0.1.1",
+   "Filename":"systemd-swap-gui0.1.1.deb",
+   "Pkgname":"systemd-swap-gui",
+   "Author":"MeowSprite",
+   "Contributor":"shamate",
+   "Website":"https://github.com/MeowSprite/swap-control-gui",
+   "Update":"2020-09-04 17:44",
+   "Size":"47.37KB",
+   "More":"这个程序基于systemd和systemd-swap来动态管理swap的gui程序 关于zswap: zswap是一个linux下实现的内存压缩技术，实现在ram中压缩内存来缓解内存不足，也避免了内存换出的消耗"
+}

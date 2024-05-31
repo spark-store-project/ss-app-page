@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="deepin-wine6-stable_6.0.0.68_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b066a4f5976d413228e565bff674cd63</hash>
+				  
+				<hash type="sha1">7ceaaba25b96105638c3af5efc1d73676d2b2666</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/dwine6/deepin-wine6-stable_6.0.0.68_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/dwine6/deepin-wine6-stable_6.0.0.68_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/dwine6/deepin-wine6-stable_6.0.0.68_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/dwine6/deepin-wine6-stable_6.0.0.68_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/dwine6/deepin-wine6-stable_6.0.0.68_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/dwine6/deepin-wine6-stable_6.0.0.68_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

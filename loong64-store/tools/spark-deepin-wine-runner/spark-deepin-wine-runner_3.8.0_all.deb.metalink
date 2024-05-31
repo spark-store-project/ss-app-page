@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-deepin-wine-runner_3.8.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">73ea0f568276cc54b4540364f610ced5</hash>
+				  
+				<hash type="sha1">5fa4bd610e41dc70fa4d2ae62f5e6ba0e0a748e5</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/spark-deepin-wine-runner_3.8.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/spark-deepin-wine-runner_3.8.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/spark-deepin-wine-runner_3.8.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/tools/spark-deepin-wine-runner/spark-deepin-wine-runner_3.8.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/tools/spark-deepin-wine-runner/spark-deepin-wine-runner_3.8.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/tools/spark-deepin-wine-runner/spark-deepin-wine-runner_3.8.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="bellsoft-java17-full_17.0.11_plus10_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f43890d477093982c1016ebcb434a400</hash>
+				  
+				<hash type="sha1">2486936bc210e3ba249c74337119a9a33a54789d</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/bellsoft-java17-full/bellsoft-java17-full_17.0.11_plus10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/bellsoft-java17-full/bellsoft-java17-full_17.0.11_plus10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/bellsoft-java17-full/bellsoft-java17-full_17.0.11_plus10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/bellsoft-java17-full/bellsoft-java17-full_17.0.11_plus10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/bellsoft-java17-full/bellsoft-java17-full_17.0.11_plus10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/bellsoft-java17-full/bellsoft-java17-full_17.0.11_plus10_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

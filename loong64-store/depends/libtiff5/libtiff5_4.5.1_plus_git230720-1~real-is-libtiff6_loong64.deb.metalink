@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libtiff5_4.5.1_plus_git230720-1~real-is-libtiff6_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e4dc1a9a51729abf8089f2da60a502da</hash>
+				  
+				<hash type="sha1">c2e0534787512342b79bc311c742a6b1f2152673</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/depends/libtiff5/libtiff5_4.5.1_plus_git230720-1~real-is-libtiff6_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/depends/libtiff5/libtiff5_4.5.1_plus_git230720-1~real-is-libtiff6_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/depends/libtiff5/libtiff5_4.5.1_plus_git230720-1~real-is-libtiff6_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/depends/libtiff5/libtiff5_4.5.1_plus_git230720-1~real-is-libtiff6_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/depends/libtiff5/libtiff5_4.5.1_plus_git230720-1~real-is-libtiff6_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/depends/libtiff5/libtiff5_4.5.1_plus_git230720-1~real-is-libtiff6_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.github.ccc-app-manager_0.0.11_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9829c1ab52ef3f1d6d706637e2511cf6</hash>
+				  
+				<hash type="sha1">c5c82429a0ac8bae625aa9b42e48237068742e36</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/com.github.ccc-app-manager/com.github.ccc-app-manager_0.0.11_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/com.github.ccc-app-manager/com.github.ccc-app-manager_0.0.11_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/com.github.ccc-app-manager/com.github.ccc-app-manager_0.0.11_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/com.github.ccc-app-manager/com.github.ccc-app-manager_0.0.11_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/com.github.ccc-app-manager/com.github.ccc-app-manager_0.0.11_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/com.github.ccc-app-manager/com.github.ccc-app-manager_0.0.11_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

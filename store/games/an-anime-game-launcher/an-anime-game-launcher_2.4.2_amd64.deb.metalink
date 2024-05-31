@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="an-anime-game-launcher_2.4.2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a85fc253dc07f4773145b1d76395256c</hash>
+				  
+				<hash type="sha1">09d2d5114a217ee633f67ca9ae0e68152973e82b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/an-anime-game-launcher/an-anime-game-launcher_2.4.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/an-anime-game-launcher/an-anime-game-launcher_2.4.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/an-anime-game-launcher/an-anime-game-launcher_2.4.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/an-anime-game-launcher/an-anime-game-launcher_2.4.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/an-anime-game-launcher/an-anime-game-launcher_2.4.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/an-anime-game-launcher/an-anime-game-launcher_2.4.2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

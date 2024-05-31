@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.csii.powerservice_1.0.0.9_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f2ddfd9507fd421f07695aaa0f6c29bc</hash>
+				  
+				<hash type="sha1">420479695f991e02aaae9aec2e21171d4c0da050</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.csii.powerservice/com.csii.powerservice_1.0.0.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.csii.powerservice/com.csii.powerservice_1.0.0.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.csii.powerservice/com.csii.powerservice_1.0.0.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.csii.powerservice/com.csii.powerservice_1.0.0.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.csii.powerservice/com.csii.powerservice_1.0.0.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.csii.powerservice/com.csii.powerservice_1.0.0.9_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

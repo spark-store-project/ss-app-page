@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.github.realesrgan-gui.spark_0.2.5.0spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1a79143bcd06cd3b61c300bebda7d580</hash>
+				  
+				<hash type="sha1">e58f2bc09cd69c3de7281fa47f3aee5ea48ea739</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.github.realesrgan-gui.spark/com.github.realesrgan-gui.spark_0.2.5.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/com.github.realesrgan-gui.spark/com.github.realesrgan-gui.spark_0.2.5.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/com.github.realesrgan-gui.spark/com.github.realesrgan-gui.spark_0.2.5.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/com.github.realesrgan-gui.spark/com.github.realesrgan-gui.spark_0.2.5.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/com.github.realesrgan-gui.spark/com.github.realesrgan-gui.spark_0.2.5.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/com.github.realesrgan-gui.spark/com.github.realesrgan-gui.spark_0.2.5.0spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

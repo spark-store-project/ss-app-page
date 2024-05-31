@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.ticktick.task_2.0.10_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b57c8b220b5fff5827d11dc8a07d3c34</hash>
+				  
+				<hash type="sha1">99acb7d598902d83ab54d008fe16eb505c93b162</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/office/cn.ticktick.task/cn.ticktick.task_2.0.10_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/office/cn.ticktick.task/cn.ticktick.task_2.0.10_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/office/cn.ticktick.task/cn.ticktick.task_2.0.10_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/office/cn.ticktick.task/cn.ticktick.task_2.0.10_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/office/cn.ticktick.task/cn.ticktick.task_2.0.10_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/office/cn.ticktick.task/cn.ticktick.task_2.0.10_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

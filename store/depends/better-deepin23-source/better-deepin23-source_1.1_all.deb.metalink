@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="better-deepin23-source_1.1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b7af1f81fa6a315ddc307b81a516e0b0</hash>
+				  
+				<hash type="sha1">8e788c5ac33ba25c77adf8c111c295749f8b75f3</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/better-deepin23-source/better-deepin23-source_1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/better-deepin23-source/better-deepin23-source_1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/better-deepin23-source/better-deepin23-source_1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/better-deepin23-source/better-deepin23-source_1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/better-deepin23-source/better-deepin23-source_1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/better-deepin23-source/better-deepin23-source_1.1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

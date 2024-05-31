@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.ntpwedit.spark_1.0.0_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">3a4a65f135133b35762bf2a4054449f1</hash>
+				  
+				<hash type="sha1">8f7b22df65cbaee6861b2ada2f31b81864b30b36</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/com.ntpwedit.spark/com.ntpwedit.spark_1.0.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/com.ntpwedit.spark/com.ntpwedit.spark_1.0.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/com.ntpwedit.spark/com.ntpwedit.spark_1.0.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/com.ntpwedit.spark/com.ntpwedit.spark_1.0.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/com.ntpwedit.spark/com.ntpwedit.spark_1.0.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/com.ntpwedit.spark/com.ntpwedit.spark_1.0.0_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

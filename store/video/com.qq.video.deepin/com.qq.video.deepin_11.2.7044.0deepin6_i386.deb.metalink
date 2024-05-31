@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.qq.video.deepin_11.2.7044.0deepin6_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5e0bd63eda4e20c3f277a8a630fb87b2</hash>
+				  
+				<hash type="sha1">8d741db874b5bc0a4008140aed1463ec9898a773</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/video/com.qq.video.deepin/com.qq.video.deepin_11.2.7044.0deepin6_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/video/com.qq.video.deepin/com.qq.video.deepin_11.2.7044.0deepin6_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/video/com.qq.video.deepin/com.qq.video.deepin_11.2.7044.0deepin6_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/video/com.qq.video.deepin/com.qq.video.deepin_11.2.7044.0deepin6_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/video/com.qq.video.deepin/com.qq.video.deepin_11.2.7044.0deepin6_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/video/com.qq.video.deepin/com.qq.video.deepin_11.2.7044.0deepin6_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

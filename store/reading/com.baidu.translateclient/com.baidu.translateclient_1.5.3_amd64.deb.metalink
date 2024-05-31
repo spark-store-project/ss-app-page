@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.baidu.translateclient_1.5.3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c33cf7498e0dbc5a9f428313d850019e</hash>
+				  
+				<hash type="sha1">577b771596ccb87d21a528224d3aed419c5f938d</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/reading/com.baidu.translateclient/com.baidu.translateclient_1.5.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/reading/com.baidu.translateclient/com.baidu.translateclient_1.5.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/reading/com.baidu.translateclient/com.baidu.translateclient_1.5.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/reading/com.baidu.translateclient/com.baidu.translateclient_1.5.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/reading/com.baidu.translateclient/com.baidu.translateclient_1.5.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/reading/com.baidu.translateclient/com.baidu.translateclient_1.5.3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

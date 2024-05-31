@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="synology-drive_7.3.0-15082_plus1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">45441e8d0fddf616523cb1d318bf035c</hash>
+				  
+				<hash type="sha1">fd2e000d45e71d4df7681755686ba53cf684aa87</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/synology-drive/synology-drive_7.3.0-15082_plus1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/synology-drive/synology-drive_7.3.0-15082_plus1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/synology-drive/synology-drive_7.3.0-15082_plus1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/synology-drive/synology-drive_7.3.0-15082_plus1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/synology-drive/synology-drive_7.3.0-15082_plus1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/synology-drive/synology-drive_7.3.0-15082_plus1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

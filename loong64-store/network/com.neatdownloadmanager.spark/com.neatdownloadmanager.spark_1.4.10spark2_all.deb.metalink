@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.neatdownloadmanager.spark_1.4.10spark2_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">327c34d2f85eaefcac7fe1bd890d7e39</hash>
+				  
+				<hash type="sha1">d4eb3a50940644844f3c5c1b0e2de7835508c730</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/network/com.neatdownloadmanager.spark/com.neatdownloadmanager.spark_1.4.10spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/network/com.neatdownloadmanager.spark/com.neatdownloadmanager.spark_1.4.10spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/network/com.neatdownloadmanager.spark/com.neatdownloadmanager.spark_1.4.10spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/network/com.neatdownloadmanager.spark/com.neatdownloadmanager.spark_1.4.10spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/network/com.neatdownloadmanager.spark/com.neatdownloadmanager.spark_1.4.10spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/network/com.neatdownloadmanager.spark/com.neatdownloadmanager.spark_1.4.10spark2_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

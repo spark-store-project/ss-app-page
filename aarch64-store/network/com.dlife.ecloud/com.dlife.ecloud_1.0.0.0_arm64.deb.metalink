@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.dlife.ecloud_1.0.0.0_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">2c637acdfa55164d7601067d7b85763f</hash>
+				  
+				<hash type="sha1">df057c8545ee303a566d9c1c5225224e23cc5040</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.dlife.ecloud/com.dlife.ecloud_1.0.0.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/network/com.dlife.ecloud/com.dlife.ecloud_1.0.0.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/network/com.dlife.ecloud/com.dlife.ecloud_1.0.0.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/network/com.dlife.ecloud/com.dlife.ecloud_1.0.0.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/network/com.dlife.ecloud/com.dlife.ecloud_1.0.0.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/network/com.dlife.ecloud/com.dlife.ecloud_1.0.0.0_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

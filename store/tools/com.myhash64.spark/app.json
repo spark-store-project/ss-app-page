@@ -1,0 +1,16 @@
+{
+    "Name": "MyHash64(wine)",
+    "Version": "1.4.7.0",
+    "Filename": "com.myhash64.spark_1.4.7.0_i386.deb",
+    "Torrent_address": "com.myhash64.spark_1.4.7.0_i386.deb.torrent",
+    "Pkgname": "com.myhash64.spark",
+    "Author": "drag0n-app",
+    "Contributor": "EMPyou666",
+    "Website": "https://github.com/drag0n-app/MyHash",
+    "Update": "2023-01-11 17:40:56",
+    "Size": "9.94 MB",
+    "More": "一款采用并行计算，充分利用多核CPU性能，快速计算文件哈希值的工具。\n\n功能特点：\n1、只支持常用的CRC32、MD5、SHA1、SHA256、SHA512算法；\n2、支持多核CPU并行计算，大幅提高计算速度；\n3、支持多个文件或文件夹拖放操作；\n4、支持参数启动(参数为一个或多个文件或文件夹路径)；\n5、支持保存个人设置(默认保存在注册表，如果存在同名ini文件，则保存在ini文件)；\n6、支持哈希值比较(字符串查找功能)；\n7、支持停止、重新开始计算操作；\n8、支持Windows7任务栏进度条效果；",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/11/059d36d0-9194-11ed-8c56-d3b6f1bb07ce.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/11/05b6b240-9194-11ed-8c56-d3b6f1bb07ce.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/11/fefe4490-9193-11ed-8c56-d3b6f1bb07ce.png"
+}

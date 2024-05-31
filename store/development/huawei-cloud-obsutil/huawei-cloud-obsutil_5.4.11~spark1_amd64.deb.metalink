@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="huawei-cloud-obsutil_5.4.11~spark1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">021d0975346c714e1e91de340126c7bb</hash>
+				  
+				<hash type="sha1">c96a6e307b2fadf27f8a7facbc3ce9af226ee308</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/huawei-cloud-obsutil/huawei-cloud-obsutil_5.4.11~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/huawei-cloud-obsutil/huawei-cloud-obsutil_5.4.11~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/huawei-cloud-obsutil/huawei-cloud-obsutil_5.4.11~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/huawei-cloud-obsutil/huawei-cloud-obsutil_5.4.11~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/huawei-cloud-obsutil/huawei-cloud-obsutil_5.4.11~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/huawei-cloud-obsutil/huawei-cloud-obsutil_5.4.11~spark1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-wine9_9.1-spark-0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9ad0dd161f1b5c26ba1deea4a93d0bbd</hash>
+				  
+				<hash type="sha1">eb415dddc40b63f244008833d2c752cf837223ec</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/spark-wine/spark-wine9/spark-wine9_9.1-spark-0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/spark-wine/spark-wine9/spark-wine9_9.1-spark-0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/spark-wine/spark-wine9/spark-wine9_9.1-spark-0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/spark-wine/spark-wine9/spark-wine9_9.1-spark-0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/spark-wine/spark-wine9/spark-wine9_9.1-spark-0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/spark-wine/spark-wine9/spark-wine9_9.1-spark-0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="nahida.juediqiusheng_1.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c6e0dd4aab177d56c982cdb8a7f5f7a9</hash>
+				  
+				<hash type="sha1">cdd6f7648df26da4ad9a2b67234caefca474be80</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/nahida.juediqiusheng/nahida.juediqiusheng_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/nahida.juediqiusheng/nahida.juediqiusheng_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/nahida.juediqiusheng/nahida.juediqiusheng_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/nahida.juediqiusheng/nahida.juediqiusheng_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/nahida.juediqiusheng/nahida.juediqiusheng_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/nahida.juediqiusheng/nahida.juediqiusheng_1.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

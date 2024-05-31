@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.evernote.spark_7.2.6.8111spark4_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">91d219f14d500a4a9d63854c4f3484e4</hash>
+				  
+				<hash type="sha1">ca677ce5947051c2ae93d21a769f51551337b054</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/office/com.evernote.spark/com.evernote.spark_7.2.6.8111spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/office/com.evernote.spark/com.evernote.spark_7.2.6.8111spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/office/com.evernote.spark/com.evernote.spark_7.2.6.8111spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/office/com.evernote.spark/com.evernote.spark_7.2.6.8111spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/office/com.evernote.spark/com.evernote.spark_7.2.6.8111spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/office/com.evernote.spark/com.evernote.spark_7.2.6.8111spark4_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

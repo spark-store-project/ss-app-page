@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.xqwizard.spark_5.54spark1_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">8b37bca51b08679c582096c52f1ff062</hash>
+				  
+				<hash type="sha1">dc8fc07d1a09933c83bd4898ee9ce656dc393706</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.xqwizard.spark/com.xqwizard.spark_5.54spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.xqwizard.spark/com.xqwizard.spark_5.54spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.xqwizard.spark/com.xqwizard.spark_5.54spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.xqwizard.spark/com.xqwizard.spark_5.54spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.xqwizard.spark/com.xqwizard.spark_5.54spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.xqwizard.spark/com.xqwizard.spark_5.54spark1_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

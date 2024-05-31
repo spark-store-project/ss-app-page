@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.jd.jdreader.spark_1.12.2spark0_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9ad9e6028dafee7f3744dfcfa34b1770</hash>
+				  
+				<hash type="sha1">dcf180a8a2ff83f67435e9834c8479ab3f4988c3</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/reading/com.jd.jdreader.spark/com.jd.jdreader.spark_1.12.2spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/reading/com.jd.jdreader.spark/com.jd.jdreader.spark_1.12.2spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/reading/com.jd.jdreader.spark/com.jd.jdreader.spark_1.12.2spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/reading/com.jd.jdreader.spark/com.jd.jdreader.spark_1.12.2spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/reading/com.jd.jdreader.spark/com.jd.jdreader.spark_1.12.2spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/reading/com.jd.jdreader.spark/com.jd.jdreader.spark_1.12.2spark0_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

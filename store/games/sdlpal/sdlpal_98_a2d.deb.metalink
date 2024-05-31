@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="sdlpal_98_a2d.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">dcf93f16b2425c51a3e85a52532200b4</hash>
+				  
+				<hash type="sha1">04358556254a0c3bec5439dbf4ac10a588f25533</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/sdlpal/sdlpal_98_a2d.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/sdlpal/sdlpal_98_a2d.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/sdlpal/sdlpal_98_a2d.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/sdlpal/sdlpal_98_a2d.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/sdlpal/sdlpal_98_a2d.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/sdlpal/sdlpal_98_a2d.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

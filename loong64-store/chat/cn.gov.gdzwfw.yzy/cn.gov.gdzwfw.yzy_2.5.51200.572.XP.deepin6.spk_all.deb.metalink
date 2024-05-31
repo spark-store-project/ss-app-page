@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.gov.gdzwfw.yzy_2.5.51200.572.XP.deepin6.spk_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5abdfdf9493f3bfbf6edbe087f298483</hash>
+				  
+				<hash type="sha1">1283fa73e6b56fd04e275649256abb9bf61dbfa4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/chat/cn.gov.gdzwfw.yzy/cn.gov.gdzwfw.yzy_2.5.51200.572.XP.deepin6.spk_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/chat/cn.gov.gdzwfw.yzy/cn.gov.gdzwfw.yzy_2.5.51200.572.XP.deepin6.spk_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/chat/cn.gov.gdzwfw.yzy/cn.gov.gdzwfw.yzy_2.5.51200.572.XP.deepin6.spk_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/chat/cn.gov.gdzwfw.yzy/cn.gov.gdzwfw.yzy_2.5.51200.572.XP.deepin6.spk_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/chat/cn.gov.gdzwfw.yzy/cn.gov.gdzwfw.yzy_2.5.51200.572.XP.deepin6.spk_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/chat/cn.gov.gdzwfw.yzy/cn.gov.gdzwfw.yzy_2.5.51200.572.XP.deepin6.spk_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

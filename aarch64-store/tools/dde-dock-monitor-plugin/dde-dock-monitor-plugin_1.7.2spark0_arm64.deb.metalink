@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="dde-dock-monitor-plugin_1.7.2spark0_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ebe11cd183bc2c3de25d8bdba18edadd</hash>
+				  
+				<hash type="sha1">5164425fad1d2454330d0eb183bed1aed373eb3e</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/dde-dock-monitor-plugin/dde-dock-monitor-plugin_1.7.2spark0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/tools/dde-dock-monitor-plugin/dde-dock-monitor-plugin_1.7.2spark0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/tools/dde-dock-monitor-plugin/dde-dock-monitor-plugin_1.7.2spark0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/tools/dde-dock-monitor-plugin/dde-dock-monitor-plugin_1.7.2spark0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/tools/dde-dock-monitor-plugin/dde-dock-monitor-plugin_1.7.2spark0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/tools/dde-dock-monitor-plugin/dde-dock-monitor-plugin_1.7.2spark0_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="nautilus-nutstore-public_5.1.7_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">3fd16f52ab8943a84f70b98b7bc98deb</hash>
+				  
+				<hash type="sha1">885a4566e56eb3f0173f5bc50b692226c0417542</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/nautilus-nutstore-public/nautilus-nutstore-public_5.1.7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/nautilus-nutstore-public/nautilus-nutstore-public_5.1.7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/nautilus-nutstore-public/nautilus-nutstore-public_5.1.7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/nautilus-nutstore-public/nautilus-nutstore-public_5.1.7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/nautilus-nutstore-public/nautilus-nutstore-public_5.1.7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/nautilus-nutstore-public/nautilus-nutstore-public_5.1.7_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

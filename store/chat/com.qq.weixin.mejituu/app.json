@@ -1,0 +1,16 @@
+{
+    "Author": "懵仙兔兔",
+    "Contributor": "懵仙兔兔",
+    "Filename": "com.qq.weixin.mejituu_3.9.9.43_plus_Mejituu-2024022102_all.deb",
+    "More": "完美全功能微信，内置黑边隐藏启动程序（不会误杀），内置一键修复微信白屏、自动检测麒麟安全机制、dxgi 与显卡驱动兼容性导致微信奔溃等问题，支持设置全局快捷键\n首次启动，会部署微信小程序等支持，期间微信会自动重启一次，属正常现象（就是首次启动等一会儿就好了）\n\n如果运行在ACE兼容环境内，首次启动可能导致ACE内的Wine相关软件会被杀死（不影响微信，只首次启动影响其他用ACE Wine的软件）\n\n注：\n首次启动指的是：安装或更新微信（懵仙兔兔），然后第一次打开\n\n功能支持：\n- 1.支持绝大多数图片音乐视频文档压缩文件格式能在微信中直接打开（跳转到wine文件管理器的也能双击打开）\n- 2.支持 wine文件管理器-右键-“资源管理器” 调用当前系统自带的文件管理器打开目录\n- 3.支持 deepin 文件管理器调用\n- 4.支持一键修复 微信（懵仙兔兔）\n- 4.支持全局快捷键调用微信 /opt/apps/com.qq.weixin.mejituu/files/shortcut_key.sh \"Ctrl+Alt+W\"\n  \"Ctrl+Alt+W\" 可换成其他快捷键（比如截图快捷键 \"Alt+A\"）或者为空 （默认值\"Ctrl+Alt+W\"）\n  支持杀死（退出）微信 /opt/apps/com.qq.weixin.mejituu/files/kill.sh\n  这样就可以直接在自己的桌面系统里设置快捷键来调用微信的快捷键（非常推荐个别发行版桌面异常无法调用托盘的设置全局快捷键来打开微信，点名批评 \"kail gnome\"）\n- 5.支持微信（懵仙兔兔）监视器，以方便查看微信运行内存占用\n\n本次更新内容：\n- 1.微信运行内存占用优化（减少运行内存占用约1.4GB）\n- 2.强制合并窗口类（也就是任务栏）\n- 3.更新微信至最新 3.9.9.43 64位版本\n- 4.自动检测ACE兼容环境内时区是否正常、是否强制安装desktop到用户目录（一般Arch Linux和Fedora需要）\n- 5.优化微信运行速度，主要是小程序的速度\n- 6.解决微信（懵仙兔兔）监视器和部分脚本在ACE不能正常工作\n\n使用说明文档：\nhttps://docs.qq.com/doc/DQmZGVXVNaGlDeXlx\n\n兼容性测试：\ndebian testing：功能全部正常显示完美托盘正常\ndebian 12：功能全部正常显示完美托盘正常\nubuntu 22.04：功能全部正常显示完美托盘正常\ndeepin 23b2 23b3：功能全部正常显示完美托盘正常\ndeepin 20.9：功能全部正常显示完美托盘正常\nuos arm：功能全部正常显示不太完美托盘正常\nkylin arm：功能全部正常显示不太完美托盘正常\narch linux：功能全部正常显示完美托盘正常\nfedora：功能全部正常显示完美托盘正常\nlinux mint 21.3：功能全部正常显示完美托盘正常\nopensuse：功能全部正常显示完美托盘正常",
+    "Name": "微信（懵仙兔兔）",
+    "Pkgname": "com.qq.weixin.mejituu",
+    "Size": "312 Mb",
+    "Tags": "community;deepin;uos;ubuntu;dwine2;dwine5",
+    "Torrent_address": "com.qq.weixin.mejituu_3.9.9.43_plus_Mejituu-2024022102_all.deb.torrent",
+    "Update": "2024-02-27 17:33:42",
+    "Version": "3.9.9.43+Mejituu-2024022102",
+    "Website": "https://2dph.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.mejituu/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.mejituu/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.mejituu/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.mejituu/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.mejituu/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.mejituu/screen_5.png\"]"
+}

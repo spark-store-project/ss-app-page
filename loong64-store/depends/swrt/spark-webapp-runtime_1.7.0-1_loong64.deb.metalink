@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-webapp-runtime_1.7.0-1_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">182a7729d371a664feadb2852904011e</hash>
+				  
+				<hash type="sha1">30a0955652f0a563102e7baaa8fe4fb7cc1c2580</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/depends/swrt/spark-webapp-runtime_1.7.0-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/depends/swrt/spark-webapp-runtime_1.7.0-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/depends/swrt/spark-webapp-runtime_1.7.0-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/depends/swrt/spark-webapp-runtime_1.7.0-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/depends/swrt/spark-webapp-runtime_1.7.0-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/depends/swrt/spark-webapp-runtime_1.7.0-1_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

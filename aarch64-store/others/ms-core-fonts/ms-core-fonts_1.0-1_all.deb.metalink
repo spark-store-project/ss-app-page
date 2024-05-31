@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="ms-core-fonts_1.0-1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">924acbf31290f4defc5e77cb618103ac</hash>
+				  
+				<hash type="sha1">9c869b3940575ad73f70700b23a21af9bb192a98</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/others/ms-core-fonts/ms-core-fonts_1.0-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/others/ms-core-fonts/ms-core-fonts_1.0-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/others/ms-core-fonts/ms-core-fonts_1.0-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/others/ms-core-fonts/ms-core-fonts_1.0-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/others/ms-core-fonts/ms-core-fonts_1.0-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/others/ms-core-fonts/ms-core-fonts_1.0-1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

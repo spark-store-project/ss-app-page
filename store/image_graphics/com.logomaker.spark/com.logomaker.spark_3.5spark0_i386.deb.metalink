@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.logomaker.spark_3.5spark0_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">719116e871a734907ecb70f5f5ae3a54</hash>
+				  
+				<hash type="sha1">528b6950f1669328bff86db6d6f227c2fe6bd4e9</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.logomaker.spark/com.logomaker.spark_3.5spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/com.logomaker.spark/com.logomaker.spark_3.5spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/com.logomaker.spark/com.logomaker.spark_3.5spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/com.logomaker.spark/com.logomaker.spark_3.5spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/com.logomaker.spark/com.logomaker.spark_3.5spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/com.logomaker.spark/com.logomaker.spark_3.5spark0_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

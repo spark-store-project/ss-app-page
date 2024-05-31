@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="rstudio_2023.06.0_plus421_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a65d1cae0f8264a54ca5260abd36dec5</hash>
+				  
+				<hash type="sha1">4fa57bbd14fd3b230d2411b2cc4a5f5668b1c078</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/rstudio/rstudio_2023.06.0_plus421_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/rstudio/rstudio_2023.06.0_plus421_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/rstudio/rstudio_2023.06.0_plus421_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/rstudio/rstudio_2023.06.0_plus421_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/rstudio/rstudio_2023.06.0_plus421_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/rstudio/rstudio_2023.06.0_plus421_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

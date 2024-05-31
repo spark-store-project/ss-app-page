@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="simplenote_2.12.0-24095_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a5dbf3ff68e2eb057774f654d590cb9a</hash>
+				  
+				<hash type="sha1">adc05a3d30cc7a01463f94b0dd8c0e67524584a6</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/simplenote/simplenote_2.12.0-24095_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/simplenote/simplenote_2.12.0-24095_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/simplenote/simplenote_2.12.0-24095_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/simplenote/simplenote_2.12.0-24095_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/simplenote/simplenote_2.12.0-24095_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/simplenote/simplenote_2.12.0-24095_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

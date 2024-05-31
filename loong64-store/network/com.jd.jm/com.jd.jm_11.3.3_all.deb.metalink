@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.jd.jm_11.3.3_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ac1babe8272246795cb6f11ec884dbfc</hash>
+				  
+				<hash type="sha1">60947805644bc8ecbf2c651b163d80d0b63d67f9</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/network/com.jd.jm/com.jd.jm_11.3.3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/network/com.jd.jm/com.jd.jm_11.3.3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/network/com.jd.jm/com.jd.jm_11.3.3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/network/com.jd.jm/com.jd.jm_11.3.3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/network/com.jd.jm/com.jd.jm_11.3.3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/network/com.jd.jm/com.jd.jm_11.3.3_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

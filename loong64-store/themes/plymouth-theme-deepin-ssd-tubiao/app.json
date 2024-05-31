@@ -1,0 +1,15 @@
+{
+    "Name": "深度图标开机动画",
+    "Version": "0.0.1-1",
+    "Filename": "plymouth-theme-deepin-ssd-tubiao_0.0.1-1_all.deb",
+    "Pkgname": "plymouth-theme-deepin-ssd-tubiao",
+    "Author": "咸粽子",
+    "Contributor": "咸粽子",
+    "Website": "https://gitee.com/XianZongzi/plymouth-theme-deepin-ssd-tubiao",
+    "Update": "2020-10-09 21:15:57",
+    "Size": "27.45 KB",
+    "More": "一个深度图形图标呼吸渐变的开机动画。安装后在终端中使用 sudo plymouth-set-default-theme deepin-ssd-tubiao -R 更换开机动画。",
+    "Tags": "deepin;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/94366910-0a74-11eb-817c-892015e12177.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/09/92a3e230-0a74-11eb-817c-892015e12177.png"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.163.music.spark_3.0.1.202031spark12_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">74d9b68779d7544320ef065ad5e304b1</hash>
+				  
+				<hash type="sha1">aa02d05e1945012b0c3e72a189668717863e250c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/music/com.163.music.spark/com.163.music.spark_3.0.1.202031spark12_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/music/com.163.music.spark/com.163.music.spark_3.0.1.202031spark12_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/music/com.163.music.spark/com.163.music.spark_3.0.1.202031spark12_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/music/com.163.music.spark/com.163.music.spark_3.0.1.202031spark12_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/music/com.163.music.spark/com.163.music.spark_3.0.1.202031spark12_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/music/com.163.music.spark/com.163.music.spark_3.0.1.202031spark12_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

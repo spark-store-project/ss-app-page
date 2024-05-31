@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.zwsoft.zwcada2022_22.2.2.3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5122c06e166a3656dd1a6083b16fca9e</hash>
+				  
+				<hash type="sha1">25b4f46c70059a372aa0a4b959ea5d2b5f713fbb</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.zwsoft.zwcada2022/com.zwsoft.zwcada2022_22.2.2.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/com.zwsoft.zwcada2022/com.zwsoft.zwcada2022_22.2.2.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/com.zwsoft.zwcada2022/com.zwsoft.zwcada2022_22.2.2.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/com.zwsoft.zwcada2022/com.zwsoft.zwcada2022_22.2.2.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/com.zwsoft.zwcada2022/com.zwsoft.zwcada2022_22.2.2.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/com.zwsoft.zwcada2022/com.zwsoft.zwcada2022_22.2.2.3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

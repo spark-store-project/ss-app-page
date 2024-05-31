@@ -1,0 +1,15 @@
+{
+    "Name": "网速管家",
+    "Version": "1.6.1",
+    "Filename": "cn.speedtest.master_1.6.1_amd64.deb",
+    "Pkgname": "cn.speedtest.master",
+    "Author": "巨擎网络科技（济南）有限公司",
+    "Contributor": "dfc643",
+    "Website": "https://www.speedtest.cn",
+    "Update": "2020-12-25 10:03:55",
+    "Size": "61.68 MB",
+    "More": "SpeedTest.cn 官方客户端移植版\n\nv1.6.1 - 2020/12/25\n从官方 1.6.1 Windows 版本移植\n修复标题栏缺失导致 Linux 无法关闭程序\n修复 Linux 图标缺失\n修复 Linux 下布局轻微错乱\n去除升级提示\n\n也有 ARM 平台，看这里：https://bbs.deepin.org/post/208628",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/25/4bf956d0-4697-11eb-8102-b5a8e652a900.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/25/5cbd06b0-4697-11eb-8102-b5a8e652a900.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/25/75aab5a0-4697-11eb-8102-b5a8e652a900.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/25/99133170-4697-11eb-8102-b5a8e652a900.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/25/423e0960-4697-11eb-8102-b5a8e652a900.png"
+}

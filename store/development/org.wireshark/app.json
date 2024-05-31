@@ -1,0 +1,16 @@
+{
+    "Name": "WireShark",
+    "Version": "4.0.7",
+    "Filename": "org.wireshark_4.0.7_amd64.deb",
+    "Torrent_address": "org.wireshark_4.0.7_amd64.deb.torrent",
+    "Pkgname": "org.wireshark",
+    "Author": "Balint Reczey <rbalint@ubuntu.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.wireshark.org/",
+    "Update": "2023-08-02 17:37:43",
+    "Size": "80.74 MB",
+    "More": "Wireshark是一款功能强大的网络抓包分析器，它会通过捕获所有网络包并详细地展示该数据包的信息，为用户提供有关故障排除，保护，分析，维护等功能\n特征：\n1、对数百种协议进行深入检查，并且一直在添加更多协议\n2、实时捕获和离线分析\n3、标准三窗格数据包浏览器\n4、多平台：运行在Windows，Linux，OSX,FreeBSD，NetBSD和许多其他平台上\n5、捕获的网络数据可以通过GUI或通过TTY模式实用程序进行浏览\n6、业内最强大的显示过滤器\n7、丰富的网络语音分析\n8、读/写许多不同的捕获文件格式：tcpdump（libpcap），Pcap NG,Catapult DCT2000,Cisco Secure IDSiplog，Microsoft Network Monitor,Network\nGeneral Sniffer （压缩和末压缩)， Snifferee Pro和NetXraye, Network Instruments Observer, NetScreen snoop, Novell LANalyzer, RADCOM WAN/L\nAN ANALYZER Shomiti/Finisar测量器， TektronixK12x Visual Networks Visual UpTime, WildPackets EtherPeek/TokenPeek/AiroPeek等\n9、使用gzip压缩的捕获文件可以即时解压缩\n10、可以从以太网、IEEE802.11、PPP/HDLC、ATM、蓝牙、USB、令牌环、顿中继、FDDI等读取实时数据（取决于您的平台）\n11、支持许多协议的解密，包括IPsec，ISAKMP，Kerberos，SNMPv3，SSL/TLS，WEP和WPA/WPA2\n12、着色规则可应用于数据包列表，以便快速、直观地进行分析\n导输出可以与CSV或纯文本",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/c64acaa645944268a691c073f9147db5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/02/becc37dcd2f440c286dbf5f11b781faa.png"
+}

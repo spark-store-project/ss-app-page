@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="redpanda-cpp_2.25-1_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1a82b39704b6799e16b86e4575a9f1e9</hash>
+				  
+				<hash type="sha1">3fa00c84803e2d4eb2f1a39c764f64e8ea3e06b6</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/redpanda-cpp/redpanda-cpp_2.25-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/redpanda-cpp/redpanda-cpp_2.25-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/redpanda-cpp/redpanda-cpp_2.25-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/redpanda-cpp/redpanda-cpp_2.25-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/redpanda-cpp/redpanda-cpp_2.25-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/redpanda-cpp/redpanda-cpp_2.25-1_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

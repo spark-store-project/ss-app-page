@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.deekian.postman_9.11.0~spark1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c07f2981e951f06701b423542c6f3e25</hash>
+				  
+				<hash type="sha1">744ed465b69ec628d1e0285cbf8df4de7e278924</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/com.deekian.postman/com.deekian.postman_9.11.0~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/com.deekian.postman/com.deekian.postman_9.11.0~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/com.deekian.postman/com.deekian.postman_9.11.0~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/com.deekian.postman/com.deekian.postman_9.11.0~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/com.deekian.postman/com.deekian.postman_9.11.0~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/com.deekian.postman/com.deekian.postman_9.11.0~spark1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

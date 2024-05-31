@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="deepin-menu_5.0.1-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e1c01267ae12824cefbf5b10f0b0329b</hash>
+				  
+				<hash type="sha1">8a37f7bfc01a483828b8175492e379a353770a93</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/dtk/dtk-old/deepin-menu/deepin-menu_5.0.1-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/dtk/dtk-old/deepin-menu/deepin-menu_5.0.1-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/dtk/dtk-old/deepin-menu/deepin-menu_5.0.1-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/dtk/dtk-old/deepin-menu/deepin-menu_5.0.1-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/dtk/dtk-old/deepin-menu/deepin-menu_5.0.1-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/dtk/dtk-old/deepin-menu/deepin-menu_5.0.1-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

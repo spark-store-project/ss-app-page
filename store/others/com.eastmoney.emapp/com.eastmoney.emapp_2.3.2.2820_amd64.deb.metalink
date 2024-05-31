@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.eastmoney.emapp_2.3.2.2820_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a026ce696adb80b44533b7a7502243f0</hash>
+				  
+				<hash type="sha1">e0eefb28909d5ac3894899e4eb3fb593c2eb77e2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/com.eastmoney.emapp/com.eastmoney.emapp_2.3.2.2820_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/com.eastmoney.emapp/com.eastmoney.emapp_2.3.2.2820_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/com.eastmoney.emapp/com.eastmoney.emapp_2.3.2.2820_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/com.eastmoney.emapp/com.eastmoney.emapp_2.3.2.2820_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/com.eastmoney.emapp/com.eastmoney.emapp_2.3.2.2820_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/com.eastmoney.emapp/com.eastmoney.emapp_2.3.2.2820_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

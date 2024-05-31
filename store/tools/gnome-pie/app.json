@@ -1,0 +1,16 @@
+{
+    "Name": "gnome-pie应用启动器",
+    "Version": "0.7.3-1",
+    "Filename": "gnome-pie_0.7.3-1_amd64.deb",
+    "Torrent_address": "gnome-pie_0.7.3-1_amd64.deb.torrent",
+    "Pkgname": "gnome-pie",
+    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+    "Contributor": "WAYYYAW <way610@126.com>",
+    "Website": "https://github.com/Schneegans/Gnome-Pie",
+    "Update": "2023-01-12 18:00:51",
+    "Size": "322.4 KB",
+    "More": "一个炫酷的应用启动器\n-默认皮肤挺丑的\n可以自己DIY皮肤，或者百度\n-皮肤文件放在『～/.config/gnome-pie/themes』\n-从ubuntu里扣出来的，Deepin不保证\n-其实『sudo apt install gnome-pie 』就可以了\n-deepin用户可以考虑添加ppa 『sudo add-apt-repository ppa:simonschneegans/testing 』",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/c1863a361a7748f48416130267dc63f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/abe899971c2347c5972ed64b31e5ad49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/77ae9699ba9c492083e6d748930a2997.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/12/0f17e577c7bf4f59b8187b7a7924f6fc.png"
+}

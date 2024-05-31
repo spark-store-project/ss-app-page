@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.oray.sunlogin.client_11.0.0.38604_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">529453ab1f03bc14fb01460955571952</hash>
+				  
+				<hash type="sha1">1a8403157be3f87f16bd1c34ba2a02dfdf184dff</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/network/com.oray.sunlogin.client/com.oray.sunlogin.client_11.0.0.38604_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/network/com.oray.sunlogin.client/com.oray.sunlogin.client_11.0.0.38604_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/network/com.oray.sunlogin.client/com.oray.sunlogin.client_11.0.0.38604_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/network/com.oray.sunlogin.client/com.oray.sunlogin.client_11.0.0.38604_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/network/com.oray.sunlogin.client/com.oray.sunlogin.client_11.0.0.38604_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/network/com.oray.sunlogin.client/com.oray.sunlogin.client_11.0.0.38604_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

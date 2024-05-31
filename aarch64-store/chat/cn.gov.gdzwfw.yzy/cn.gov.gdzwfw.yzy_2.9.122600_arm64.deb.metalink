@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.gov.gdzwfw.yzy_2.9.122600_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">556ae1aec760244cf2a47067aa4bb852</hash>
+				  
+				<hash type="sha1">36eca949046f69da50425ac29071c1e098716b3c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/cn.gov.gdzwfw.yzy/cn.gov.gdzwfw.yzy_2.9.122600_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/chat/cn.gov.gdzwfw.yzy/cn.gov.gdzwfw.yzy_2.9.122600_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/chat/cn.gov.gdzwfw.yzy/cn.gov.gdzwfw.yzy_2.9.122600_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/chat/cn.gov.gdzwfw.yzy/cn.gov.gdzwfw.yzy_2.9.122600_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/chat/cn.gov.gdzwfw.yzy/cn.gov.gdzwfw.yzy_2.9.122600_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/chat/cn.gov.gdzwfw.yzy/cn.gov.gdzwfw.yzy_2.9.122600_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

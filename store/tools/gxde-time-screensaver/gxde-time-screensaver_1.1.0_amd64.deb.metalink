@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="gxde-time-screensaver_1.1.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ea1714e74dd1d20fada0f5f524e53316</hash>
+				  
+				<hash type="sha1">026f91af8a77a1eb80a350fb4061f13e36d2dab7</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/gxde-time-screensaver/gxde-time-screensaver_1.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/gxde-time-screensaver/gxde-time-screensaver_1.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/gxde-time-screensaver/gxde-time-screensaver_1.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/gxde-time-screensaver/gxde-time-screensaver_1.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/gxde-time-screensaver/gxde-time-screensaver_1.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/gxde-time-screensaver/gxde-time-screensaver_1.1.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

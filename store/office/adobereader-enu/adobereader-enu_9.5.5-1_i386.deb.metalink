@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="adobereader-enu_9.5.5-1_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">8716a0c5199874226dc0cffc82400bf8</hash>
+				  
+				<hash type="sha1">ea8a5c4f393d678214b3122562df42c9c7f2d5f5</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/adobereader-enu/adobereader-enu_9.5.5-1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/adobereader-enu/adobereader-enu_9.5.5-1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/adobereader-enu/adobereader-enu_9.5.5-1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/adobereader-enu/adobereader-enu_9.5.5-1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/adobereader-enu/adobereader-enu_9.5.5-1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/adobereader-enu/adobereader-enu_9.5.5-1_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

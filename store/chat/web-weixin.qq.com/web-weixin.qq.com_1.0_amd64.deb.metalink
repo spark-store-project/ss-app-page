@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="web-weixin.qq.com_1.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">af1c6ac7df6c1667e2319b298e034b93</hash>
+				  
+				<hash type="sha1">55076be7b00d75b5159b6950a9eec244188882fa</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/chat/web-weixin.qq.com/web-weixin.qq.com_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/chat/web-weixin.qq.com/web-weixin.qq.com_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/chat/web-weixin.qq.com/web-weixin.qq.com_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/chat/web-weixin.qq.com/web-weixin.qq.com_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/chat/web-weixin.qq.com/web-weixin.qq.com_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/chat/web-weixin.qq.com/web-weixin.qq.com_1.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

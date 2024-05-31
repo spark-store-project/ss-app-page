@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.net.pobo.spark_6.3.0.3spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5edc8790831e4fb0011198f3c1272509</hash>
+				  
+				<hash type="sha1">2b7a004fe5d6b95ca551104953454e9221155d87</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/cn.net.pobo.spark/cn.net.pobo.spark_6.3.0.3spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/cn.net.pobo.spark/cn.net.pobo.spark_6.3.0.3spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/cn.net.pobo.spark/cn.net.pobo.spark_6.3.0.3spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/cn.net.pobo.spark/cn.net.pobo.spark_6.3.0.3spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/cn.net.pobo.spark/cn.net.pobo.spark_6.3.0.3spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/cn.net.pobo.spark/cn.net.pobo.spark_6.3.0.3spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

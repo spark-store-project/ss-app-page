@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="ru.aimp.spark_5.30.2530spark4_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e2481845a297e2a4ad4ea4da3bcc07d7</hash>
+				  
+				<hash type="sha1">e584b46e3f3d04b276a642ac4b66884993d3ac82</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/music/ru.aimp.spark/ru.aimp.spark_5.30.2530spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/music/ru.aimp.spark/ru.aimp.spark_5.30.2530spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/music/ru.aimp.spark/ru.aimp.spark_5.30.2530spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/music/ru.aimp.spark/ru.aimp.spark_5.30.2530spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/music/ru.aimp.spark/ru.aimp.spark_5.30.2530spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/music/ru.aimp.spark/ru.aimp.spark_5.30.2530spark4_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

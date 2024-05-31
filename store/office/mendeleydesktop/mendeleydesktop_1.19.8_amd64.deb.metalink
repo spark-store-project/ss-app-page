@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="mendeleydesktop_1.19.8_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f406d9a343549535af59cac32def6a55</hash>
+				  
+				<hash type="sha1">dcf4c69b3bbf58edb827a1dacb908612f41ca83d</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/mendeleydesktop/mendeleydesktop_1.19.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/mendeleydesktop/mendeleydesktop_1.19.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/mendeleydesktop/mendeleydesktop_1.19.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/mendeleydesktop/mendeleydesktop_1.19.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/mendeleydesktop/mendeleydesktop_1.19.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/mendeleydesktop/mendeleydesktop_1.19.8_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

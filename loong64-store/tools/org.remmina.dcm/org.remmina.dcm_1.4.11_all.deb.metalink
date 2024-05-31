@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.remmina.dcm_1.4.11_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">0fb14cafd8bbed3397b1ab7f99637c93</hash>
+				  
+				<hash type="sha1">5fb53582376fa26c1d9c0b9371965a3032a127c4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/tools/org.remmina.dcm/org.remmina.dcm_1.4.11_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/tools/org.remmina.dcm/org.remmina.dcm_1.4.11_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/tools/org.remmina.dcm/org.remmina.dcm_1.4.11_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/tools/org.remmina.dcm/org.remmina.dcm_1.4.11_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/tools/org.remmina.dcm/org.remmina.dcm_1.4.11_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/tools/org.remmina.dcm/org.remmina.dcm_1.4.11_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

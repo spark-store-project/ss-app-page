@@ -1,0 +1,33 @@
+[   
+    {
+        "Name": "T 主题套组",
+        "Pkgname": "com.uniontech.theme.infinitecontrol",
+        "Category": "themes",
+        "More": "让你的deepin重获新生"
+    },
+    {
+        "Name": "ACE Bookworm兼容环境",
+        "Pkgname": "cn.flamescion.bookworm-compatibility-mode",
+        "Category": "tools",
+        "More": "ACE兼容环境，使用bwrap容器在deepin或UOS上使用Debian 12的应用，为你带来更好的使用体验！\n\n兼容环境内不允许提权，若要在容器内使用root，请使用 sudo bookworm-run"
+    },
+    {
+        "Name": "ACE Loongnix兼容环境",
+        "Pkgname": "amber-ce-loongnix",
+        "Category": "tools",
+        "More": "ACE兼容环境，Loongnix"
+    },
+    {
+        "Name": "ACE x86 Bookworm兼容环境",
+        "Pkgname": "ace-bookworm-x86",
+        "Category": "tools",
+        "More": "ACE兼容环境，x86"
+    },
+    {
+        "Name": "星火商店投稿器",
+        "Pkgname": "spark-store-submitter",
+        "Category": "tools",
+        "More": "目前仅可使用此投稿器进行投稿"
+    }
+
+]

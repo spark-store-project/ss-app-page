@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="sdnxbankclient_1.0.0.0-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5241a4a6f9fbceb852d74b6fc4dc09c7</hash>
+				  
+				<hash type="sha1">9f32071b232e2bcca978bf8874e9217989e0d4dc</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/sdnxbankclient/sdnxbankclient_1.0.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/sdnxbankclient/sdnxbankclient_1.0.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/sdnxbankclient/sdnxbankclient_1.0.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/sdnxbankclient/sdnxbankclient_1.0.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/sdnxbankclient/sdnxbankclient_1.0.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/sdnxbankclient/sdnxbankclient_1.0.0.0-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

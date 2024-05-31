@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.flowus.spark_1.1.7spark3_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">2eec3546c7b976385d69ec42dae46cc2</hash>
+				  
+				<hash type="sha1">f9ccd262fa2a6b85d58f60888b6e4ded43b5a394</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/office/cn.flowus.spark/cn.flowus.spark_1.1.7spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/office/cn.flowus.spark/cn.flowus.spark_1.1.7spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/office/cn.flowus.spark/cn.flowus.spark_1.1.7spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/office/cn.flowus.spark/cn.flowus.spark_1.1.7spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/office/cn.flowus.spark/cn.flowus.spark_1.1.7spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/office/cn.flowus.spark/cn.flowus.spark_1.1.7spark3_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

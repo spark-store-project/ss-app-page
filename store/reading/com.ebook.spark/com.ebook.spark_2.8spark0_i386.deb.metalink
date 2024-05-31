@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.ebook.spark_2.8spark0_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5398a93a0167c863e27a1594b61f7e9a</hash>
+				  
+				<hash type="sha1">17f549fb14d1948f1e6347d18a9ed3eb29e36aa4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/reading/com.ebook.spark/com.ebook.spark_2.8spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/reading/com.ebook.spark/com.ebook.spark_2.8spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/reading/com.ebook.spark/com.ebook.spark_2.8spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/reading/com.ebook.spark/com.ebook.spark_2.8spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/reading/com.ebook.spark/com.ebook.spark_2.8spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/reading/com.ebook.spark/com.ebook.spark_2.8spark0_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

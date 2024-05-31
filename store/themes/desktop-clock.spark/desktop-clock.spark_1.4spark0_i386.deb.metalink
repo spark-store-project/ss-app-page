@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="desktop-clock.spark_1.4spark0_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">3487fb475167af14c639da8901db72f9</hash>
+				  
+				<hash type="sha1">de351f1980fa444da1dd4b9961fdf762a06dc1a0</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/themes/desktop-clock.spark/desktop-clock.spark_1.4spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/themes/desktop-clock.spark/desktop-clock.spark_1.4spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/themes/desktop-clock.spark/desktop-clock.spark_1.4spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/themes/desktop-clock.spark/desktop-clock.spark_1.4spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/themes/desktop-clock.spark/desktop-clock.spark_1.4spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/themes/desktop-clock.spark/desktop-clock.spark_1.4spark0_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="deepin-wine-diag_1.0.8-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">3adb8ea1190f1e5bbc4a296ceba8d1ec</hash>
+				  
+				<hash type="sha1">c787d7dba76a3bbcf7fb361f83f80600163b665b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/deepin-wine-diag/deepin-wine-diag_1.0.8-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/deepin-wine-diag/deepin-wine-diag_1.0.8-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/deepin-wine-diag/deepin-wine-diag_1.0.8-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/deepin-wine-diag/deepin-wine-diag_1.0.8-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/deepin-wine-diag/deepin-wine-diag_1.0.8-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/deepin-wine-diag/deepin-wine-diag_1.0.8-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

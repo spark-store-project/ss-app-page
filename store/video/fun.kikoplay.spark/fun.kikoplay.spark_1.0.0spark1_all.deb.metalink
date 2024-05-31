@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="fun.kikoplay.spark_1.0.0spark1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">3be14e1cebef133e8e62333f65b2b538</hash>
+				  
+				<hash type="sha1">e4c4cd385cdd116e0946a2203b6fd3258292f004</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/video/fun.kikoplay.spark/fun.kikoplay.spark_1.0.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/video/fun.kikoplay.spark/fun.kikoplay.spark_1.0.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/video/fun.kikoplay.spark/fun.kikoplay.spark_1.0.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/video/fun.kikoplay.spark/fun.kikoplay.spark_1.0.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/video/fun.kikoplay.spark/fun.kikoplay.spark_1.0.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/video/fun.kikoplay.spark/fun.kikoplay.spark_1.0.0spark1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

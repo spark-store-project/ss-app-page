@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="mmex_1.6.3-Ubuntu.22.04.jammy_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">af01766093b58659824f97d4e69d619c</hash>
+				  
+				<hash type="sha1">265d263b5fcdd2329d8c31b7623a438355278809</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/mmex/mmex_1.6.3-Ubuntu.22.04.jammy_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/mmex/mmex_1.6.3-Ubuntu.22.04.jammy_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/mmex/mmex_1.6.3-Ubuntu.22.04.jammy_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/mmex/mmex_1.6.3-Ubuntu.22.04.jammy_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/mmex/mmex_1.6.3-Ubuntu.22.04.jammy_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/mmex/mmex_1.6.3-Ubuntu.22.04.jammy_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

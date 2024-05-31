@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="deepin-icon-theme_2024.04.16_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">fcf350413f0dc474e9b4d6311038269c</hash>
+				  
+				<hash type="sha1">7e82ff1b450a1775e3294e10521ae5d59f1b4c16</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/deepin-icon-theme/deepin-icon-theme_2024.04.16_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/deepin-icon-theme/deepin-icon-theme_2024.04.16_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/deepin-icon-theme/deepin-icon-theme_2024.04.16_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/deepin-icon-theme/deepin-icon-theme_2024.04.16_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/deepin-icon-theme/deepin-icon-theme_2024.04.16_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/deepin-icon-theme/deepin-icon-theme_2024.04.16_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

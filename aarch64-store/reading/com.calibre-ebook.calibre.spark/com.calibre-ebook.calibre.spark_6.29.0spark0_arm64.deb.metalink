@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.calibre-ebook.calibre.spark_6.29.0spark0_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c95fe6ce58e186550564fa0f0f0d0864</hash>
+				  
+				<hash type="sha1">734e8ddffa1cedf89dc540a702555fdc07e1e749</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/reading/com.calibre-ebook.calibre.spark/com.calibre-ebook.calibre.spark_6.29.0spark0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/reading/com.calibre-ebook.calibre.spark/com.calibre-ebook.calibre.spark_6.29.0spark0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/reading/com.calibre-ebook.calibre.spark/com.calibre-ebook.calibre.spark_6.29.0spark0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/reading/com.calibre-ebook.calibre.spark/com.calibre-ebook.calibre.spark_6.29.0spark0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/reading/com.calibre-ebook.calibre.spark/com.calibre-ebook.calibre.spark_6.29.0spark0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/reading/com.calibre-ebook.calibre.spark/com.calibre-ebook.calibre.spark_6.29.0spark0_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

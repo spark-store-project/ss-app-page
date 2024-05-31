@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libswscale5_4.4.2-1.lnd.2_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1ea6d6f8672b120761196c3277c3d7af</hash>
+				  
+				<hash type="sha1">fe2580708c7e823cdd1500571104e2272dc08ce6</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/depends/libmpv1/libswscale5_4.4.2-1.lnd.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/depends/libmpv1/libswscale5_4.4.2-1.lnd.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/depends/libmpv1/libswscale5_4.4.2-1.lnd.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/depends/libmpv1/libswscale5_4.4.2-1.lnd.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/depends/libmpv1/libswscale5_4.4.2-1.lnd.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/depends/libmpv1/libswscale5_4.4.2-1.lnd.2_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

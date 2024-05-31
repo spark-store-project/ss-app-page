@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.deepin.cajv_7.2.0spark4_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e66c26176506495185b0a92555db24af</hash>
+				  
+				<hash type="sha1">d9e961c7cd2dedd8f90d70d5cf3f1fec74edaee8</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/office/com.deepin.cajv/com.deepin.cajv_7.2.0spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/office/com.deepin.cajv/com.deepin.cajv_7.2.0spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/office/com.deepin.cajv/com.deepin.cajv_7.2.0spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/office/com.deepin.cajv/com.deepin.cajv_7.2.0spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/office/com.deepin.cajv/com.deepin.cajv_7.2.0spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/office/com.deepin.cajv/com.deepin.cajv_7.2.0spark4_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

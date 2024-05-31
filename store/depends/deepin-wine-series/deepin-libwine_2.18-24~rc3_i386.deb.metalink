@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="deepin-libwine_2.18-24~rc3_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">50027d89f463bd2bfc2c5d26be37ac68</hash>
+				  
+				<hash type="sha1">3b20fb20f495ab982de3ead2482d9fe89af5d674</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/deepin-wine-series/deepin-libwine_2.18-24~rc3_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/deepin-wine-series/deepin-libwine_2.18-24~rc3_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/deepin-wine-series/deepin-libwine_2.18-24~rc3_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/deepin-wine-series/deepin-libwine_2.18-24~rc3_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/deepin-wine-series/deepin-libwine_2.18-24~rc3_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/deepin-wine-series/deepin-libwine_2.18-24~rc3_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

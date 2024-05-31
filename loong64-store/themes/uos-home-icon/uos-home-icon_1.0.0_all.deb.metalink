@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="uos-home-icon_1.0.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">eb5300b597fc32aedb63ae281f516000</hash>
+				  
+				<hash type="sha1">1dc73534e57b56e445e7523dce933fe4e98ce01b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/themes/uos-home-icon/uos-home-icon_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/themes/uos-home-icon/uos-home-icon_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/themes/uos-home-icon/uos-home-icon_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/themes/uos-home-icon/uos-home-icon_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/themes/uos-home-icon/uos-home-icon_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/themes/uos-home-icon/uos-home-icon_1.0.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

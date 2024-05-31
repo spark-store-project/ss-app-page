@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="fcitx5-material-color_0.2.1-1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e5ca09071e11b04cb4fc5a1670231393</hash>
+				  
+				<hash type="sha1">888998ab519c977e9978ed18d0abd0ef565108a2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/themes/fcitx5-material-color/fcitx5-material-color_0.2.1-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/themes/fcitx5-material-color/fcitx5-material-color_0.2.1-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/themes/fcitx5-material-color/fcitx5-material-color_0.2.1-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/themes/fcitx5-material-color/fcitx5-material-color_0.2.1-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/themes/fcitx5-material-color/fcitx5-material-color_0.2.1-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/themes/fcitx5-material-color/fcitx5-material-color_0.2.1-1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

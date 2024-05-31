@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="chinamobyunos_1.0.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1fdbb9fd56a67dda21b7db7b19e7f479</hash>
+				  
+				<hash type="sha1">a1adefa4ea4141607fe90e2f61c0b621a3a3c70b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/chinamobyunos/chinamobyunos_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/chinamobyunos/chinamobyunos_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/chinamobyunos/chinamobyunos_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/chinamobyunos/chinamobyunos_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/chinamobyunos/chinamobyunos_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/chinamobyunos/chinamobyunos_1.0.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.debuggerx.dde-gesture-manager_1.0.3.3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">45184a6b1315d8ab52bde1a731d924dd</hash>
+				  
+				<hash type="sha1">431680cf2d10180660ce67ebce1e873005f94629</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.dde-gesture-manager/com.debuggerx.dde-gesture-manager_1.0.3.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/com.debuggerx.dde-gesture-manager/com.debuggerx.dde-gesture-manager_1.0.3.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/com.debuggerx.dde-gesture-manager/com.debuggerx.dde-gesture-manager_1.0.3.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/com.debuggerx.dde-gesture-manager/com.debuggerx.dde-gesture-manager_1.0.3.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/com.debuggerx.dde-gesture-manager/com.debuggerx.dde-gesture-manager_1.0.3.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/com.debuggerx.dde-gesture-manager/com.debuggerx.dde-gesture-manager_1.0.3.3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

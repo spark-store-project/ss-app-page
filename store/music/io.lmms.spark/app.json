@@ -1,0 +1,15 @@
+{
+    "Name": "LMMS",
+    "Version": "1.2.2",
+    "Filename": "io.lmms.spark_1.2.2_amd64.deb",
+    "Pkgname": "io.lmms.spark",
+    "Author": "LMMS",
+    "Contributor": "kite",
+    "Website": "https://lmms.io/",
+    "Update": "2021-07-22 14:46:10",
+    "Size": "91.27 MB",
+    "More": "(一款音乐制作软件）此版本为AppImage，为了稳定，且官网不提供deb下载，所以就选择AppImage版，要是想安装源版本，请输入(sudo apt install lmms)[注:你源里的lmms可能版本较低，比如deepin，请下载AppImage版。",
+    "Tags": "deepin;ubuntu;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/22/236aa070-eab6-11eb-b944-43844d458efd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/22/23503aa0-eab6-11eb-b944-43844d458efd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/22/24abbde0-eab4-11eb-b944-43844d458efd.png"
+}

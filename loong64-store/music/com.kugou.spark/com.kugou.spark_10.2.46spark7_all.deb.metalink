@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.kugou.spark_10.2.46spark7_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a3025d78f06acade2282e5c0785ccc70</hash>
+				  
+				<hash type="sha1">9aa35e908d8c3ed581df69a15e624d18287f8109</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/music/com.kugou.spark/com.kugou.spark_10.2.46spark7_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/music/com.kugou.spark/com.kugou.spark_10.2.46spark7_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/music/com.kugou.spark/com.kugou.spark_10.2.46spark7_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/music/com.kugou.spark/com.kugou.spark_10.2.46spark7_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/music/com.kugou.spark/com.kugou.spark_10.2.46spark7_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/music/com.kugou.spark/com.kugou.spark_10.2.46spark7_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

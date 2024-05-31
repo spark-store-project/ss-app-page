@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="htbrowser_5.0.0.20_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7e56fd88f638345204c032a4001bb43b</hash>
+				  
+				<hash type="sha1">5a0033b0fc48eb5b2d3edb6b9cfb2e1116e628b1</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/network/htbrowser/htbrowser_5.0.0.20_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/network/htbrowser/htbrowser_5.0.0.20_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/network/htbrowser/htbrowser_5.0.0.20_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/network/htbrowser/htbrowser_5.0.0.20_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/network/htbrowser/htbrowser_5.0.0.20_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/network/htbrowser/htbrowser_5.0.0.20_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,55 @@
+[
+{
+    "Author": "懵仙兔兔 <acgm@qq.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.github.clash-for-windows_0.20.39_arm64.deb",
+    "More": "Clash For Windows 中文版\n网络联机时刷新配置文件： 当网络恢复在线时刷新配置文件，以唤醒代理。\n    更新冲突文档： 更新了冲突文档中的链接和信息。\n    更新反馈视图的样式： 更新了反馈视图的样式。\n    修复 \"检查更新 \"不显示的问题： 修复了 \"检查更新 \"不显示的问题。\n    杂项： 处理并修复了各种小故障。",
+    "Name": "Clash For Windows（Linux中文版）",
+    "Pkgname": "com.github.clash-for-windows",
+    "Size": "79 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "com.github.clash-for-windows_0.20.39_arm64.deb.torrent",
+    "Update": "2023-10-21 20:50:13",
+    "Version": "0.20.39",
+    "Website": "https://github.com/Fndroid/clash_for_windows_pkg",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.github.clash-for-windows/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.github.clash-for-windows/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.github.clash-for-windows/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "Kingtous",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "cn.kingtous.fclash_1.4.4_arm64.deb",
+    "More": "更好的Clash客户端,支持Windows/MacOS/Linux的更好的Clash客户端 Clash fronted client by Flutter (Windows/MacOS/Linux supported). 支持自动设置系统代理,RULE-SET转换.",
+    "Name": "FClash",
+    "Pkgname": "cn.kingtous.fclash",
+    "Size": "31 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "cn.kingtous.fclash_1.4.4_arm64.deb.torrent",
+    "Update": "2024-01-04 15:09:37",
+    "Version": "1.4.4",
+    "Website": "https://github.com/fclash/fclash",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "v2rayA",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "v2raya_2.0.1_arm64.deb",
+    "More": "v2rayA 是一个支持全局透明代理的 V2Ray Linux 客户端，同时兼容SS、SSR、Trojan、PingTunnel协议。 \nv2rayA 致力于提供最简单的操作，满足绝大部分需求。\n得益于Web客户端的优势，你不仅可以将其用于本地计算机，还可以轻松地将它部署在路由器或NAS上。\n需要安装v2ray-core，详见https://github.com/v2rayA/v2rayA/wiki/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95",
+    "Name": "v2rayA",
+    "Pkgname": "v2raya",
+    "Size": "9127 Kb",
+    "Tags": "community;ubuntu",
+    "Torrent_address": "v2raya_2.0.1_arm64.deb.torrent",
+    "Update": "2023-03-05 18:46:22",
+    "Version": "2.0.1",
+    "Website": "https://github.com/v2rayA/v2raya",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/v2raya/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/v2raya/screen_1.png\"]"
+}
+
+]

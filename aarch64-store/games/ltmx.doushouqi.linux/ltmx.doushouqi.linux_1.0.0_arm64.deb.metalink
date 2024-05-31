@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="ltmx.doushouqi.linux_1.0.0_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">946328ccc151539b72419d6556529c2d</hash>
+				  
+				<hash type="sha1">8368ff41b3dce2d18f1fc753b64be8b58d84f332</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/games/ltmx.doushouqi.linux/ltmx.doushouqi.linux_1.0.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/games/ltmx.doushouqi.linux/ltmx.doushouqi.linux_1.0.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/games/ltmx.doushouqi.linux/ltmx.doushouqi.linux_1.0.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/games/ltmx.doushouqi.linux/ltmx.doushouqi.linux_1.0.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/games/ltmx.doushouqi.linux/ltmx.doushouqi.linux_1.0.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/games/ltmx.doushouqi.linux/ltmx.doushouqi.linux_1.0.0_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

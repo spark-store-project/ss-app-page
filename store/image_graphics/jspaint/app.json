@@ -1,0 +1,15 @@
+{
+    "Name": "jspaint",
+    "Version": "1.0.0-spark0",
+    "Filename": "jspaint_1.0.0-spark0_amd64.deb",
+    "Pkgname": "jspaint",
+    "Author": "1j01",
+    "Contributor": "zty199",
+    "Website": "https://github.com/1j01/jspaint",
+    "Update": "2021-05-09 00:25:33",
+    "Size": "2.02 MB",
+    "More": "一款基于 Electron 重制的经典 微软画图 工具，带你重回 XP 时代。\n\n【已知打包 BUG】\n1、语言默认为繁体中文，原因未知。\n2、应用原生菜单栏中退出按钮无效。\n3、点击 Github 会跳转到作者仓库，需要自己返回上一页。",
+    "Tags": "deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/09/e3fea700-b019-11eb-8858-bdd802c51c43.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/09/e5627cc0-b019-11eb-8858-bdd802c51c43.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/09/de7bfa30-b019-11eb-8858-bdd802c51c43.png"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="fynelanshare_1.0.0-deepin20.08_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">04630d05f0bc068d21b1f4fedd539ce2</hash>
+				  
+				<hash type="sha1">56bf85f4593237f3efa758a44f5e720a2a739488</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/fynelanshare/fynelanshare_1.0.0-deepin20.08_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/fynelanshare/fynelanshare_1.0.0-deepin20.08_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/fynelanshare/fynelanshare_1.0.0-deepin20.08_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/fynelanshare/fynelanshare_1.0.0-deepin20.08_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/fynelanshare/fynelanshare_1.0.0-deepin20.08_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/fynelanshare/fynelanshare_1.0.0-deepin20.08_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

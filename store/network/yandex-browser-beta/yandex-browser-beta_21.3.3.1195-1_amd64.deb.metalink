@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="yandex-browser-beta_21.3.3.1195-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">54a31bcd9f1e5d4eda2be65abf11d54b</hash>
+				  
+				<hash type="sha1">6d51bc2207e7b87eb9d1a653ff7013607cf8b25e</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/yandex-browser-beta/yandex-browser-beta_21.3.3.1195-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/yandex-browser-beta/yandex-browser-beta_21.3.3.1195-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/yandex-browser-beta/yandex-browser-beta_21.3.3.1195-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/yandex-browser-beta/yandex-browser-beta_21.3.3.1195-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/yandex-browser-beta/yandex-browser-beta_21.3.3.1195-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/yandex-browser-beta/yandex-browser-beta_21.3.3.1195-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="uengine-dc-com.dragon.read_6.0.3.32_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">8d3d8ccbf1a6a057d64adb9482d36c21</hash>
+				  
+				<hash type="sha1">2967682bd4bda64a0fc12736c4cd047bc0029269</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/reading/uengine-dc-com.dragon.read/uengine-dc-com.dragon.read_6.0.3.32_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/reading/uengine-dc-com.dragon.read/uengine-dc-com.dragon.read_6.0.3.32_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/reading/uengine-dc-com.dragon.read/uengine-dc-com.dragon.read_6.0.3.32_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/reading/uengine-dc-com.dragon.read/uengine-dc-com.dragon.read_6.0.3.32_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/reading/uengine-dc-com.dragon.read/uengine-dc-com.dragon.read_6.0.3.32_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/reading/uengine-dc-com.dragon.read/uengine-dc-com.dragon.read_6.0.3.32_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

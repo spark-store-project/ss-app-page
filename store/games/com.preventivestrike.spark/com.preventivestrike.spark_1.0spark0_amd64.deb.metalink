@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.preventivestrike.spark_1.0spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">154c5cda48078c3d3569eba898d48298</hash>
+				  
+				<hash type="sha1">975f2963b16859f7d64777a3b15b1ea9ddbc0af4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.preventivestrike.spark/com.preventivestrike.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.preventivestrike.spark/com.preventivestrike.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.preventivestrike.spark/com.preventivestrike.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.preventivestrike.spark/com.preventivestrike.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.preventivestrike.spark/com.preventivestrike.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.preventivestrike.spark/com.preventivestrike.spark_1.0spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

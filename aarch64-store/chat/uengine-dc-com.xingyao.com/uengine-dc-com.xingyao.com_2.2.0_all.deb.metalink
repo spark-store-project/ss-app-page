@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="uengine-dc-com.xingyao.com_2.2.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">d6fe2ad40661bfcdef74484d72ce982e</hash>
+				  
+				<hash type="sha1">6ea951caee7ce3ab389e3d2924e17982c478ec15</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/uengine-dc-com.xingyao.com/uengine-dc-com.xingyao.com_2.2.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/chat/uengine-dc-com.xingyao.com/uengine-dc-com.xingyao.com_2.2.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/chat/uengine-dc-com.xingyao.com/uengine-dc-com.xingyao.com_2.2.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/chat/uengine-dc-com.xingyao.com/uengine-dc-com.xingyao.com_2.2.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/chat/uengine-dc-com.xingyao.com/uengine-dc-com.xingyao.com_2.2.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/chat/uengine-dc-com.xingyao.com/uengine-dc-com.xingyao.com_2.2.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

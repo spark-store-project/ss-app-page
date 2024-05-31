@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.mt800series.hprt_1.2.0-2021.02.07_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">96633a9139878c8ddf295d94f3b1b5c1</hash>
+				  
+				<hash type="sha1">bb1ce325ade0a464cbdab91a21f9e25bdd64e491</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/com.mt800series.hprt/com.mt800series.hprt_1.2.0-2021.02.07_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/com.mt800series.hprt/com.mt800series.hprt_1.2.0-2021.02.07_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/com.mt800series.hprt/com.mt800series.hprt_1.2.0-2021.02.07_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/com.mt800series.hprt/com.mt800series.hprt_1.2.0-2021.02.07_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/com.mt800series.hprt/com.mt800series.hprt_1.2.0-2021.02.07_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/com.mt800series.hprt/com.mt800series.hprt_1.2.0-2021.02.07_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

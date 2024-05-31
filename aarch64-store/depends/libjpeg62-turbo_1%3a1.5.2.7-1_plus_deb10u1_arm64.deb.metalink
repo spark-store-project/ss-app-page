@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libjpeg62-turbo_1%3a1.5.2.7-1_plus_deb10u1_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">fc00cdc21b68ac7c126cde8a4b8c80dd</hash>
+				  
+				<hash type="sha1">5014caca1581abcc92931f3528d9f727e0fe56f2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/depends/libjpeg62-turbo_1%3a1.5.2.7-1_plus_deb10u1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/depends/libjpeg62-turbo_1%3a1.5.2.7-1_plus_deb10u1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/depends/libjpeg62-turbo_1%3a1.5.2.7-1_plus_deb10u1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/depends/libjpeg62-turbo_1%3a1.5.2.7-1_plus_deb10u1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/depends/libjpeg62-turbo_1%3a1.5.2.7-1_plus_deb10u1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/depends/libjpeg62-turbo_1%3a1.5.2.7-1_plus_deb10u1_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

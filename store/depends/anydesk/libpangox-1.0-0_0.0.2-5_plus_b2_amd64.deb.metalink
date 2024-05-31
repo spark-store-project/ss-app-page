@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libpangox-1.0-0_0.0.2-5_plus_b2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">819a0cfccdd499714058c7c8fde333a9</hash>
+				  
+				<hash type="sha1">f6c45d3bbbdeac4e44e2da022ef9823e6fc72354</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/anydesk/libpangox-1.0-0_0.0.2-5_plus_b2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/anydesk/libpangox-1.0-0_0.0.2-5_plus_b2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/anydesk/libpangox-1.0-0_0.0.2-5_plus_b2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/anydesk/libpangox-1.0-0_0.0.2-5_plus_b2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/anydesk/libpangox-1.0-0_0.0.2-5_plus_b2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/anydesk/libpangox-1.0-0_0.0.2-5_plus_b2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

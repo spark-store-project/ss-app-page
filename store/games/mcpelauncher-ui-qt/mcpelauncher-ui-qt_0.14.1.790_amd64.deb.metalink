@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="mcpelauncher-ui-qt_0.14.1.790_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b8f2c6ef126bdb569747a5f44572f96f</hash>
+				  
+				<hash type="sha1">fd9984796c57ce57323729804fb3ab5978e662e5</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/mcpelauncher-ui-qt/mcpelauncher-ui-qt_0.14.1.790_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/mcpelauncher-ui-qt/mcpelauncher-ui-qt_0.14.1.790_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/mcpelauncher-ui-qt/mcpelauncher-ui-qt_0.14.1.790_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/mcpelauncher-ui-qt/mcpelauncher-ui-qt_0.14.1.790_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/mcpelauncher-ui-qt/mcpelauncher-ui-qt_0.14.1.790_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/mcpelauncher-ui-qt/mcpelauncher-ui-qt_0.14.1.790_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

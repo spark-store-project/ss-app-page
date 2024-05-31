@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libavcodec58_4.4.2-1.lnd.2_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">db7e3ecbdbc4bfb2feed01d7cb2594f0</hash>
+				  
+				<hash type="sha1">ec6a5ca63b15f00c61a1d7db12ee7d689cb7703a</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/depends/libmpv1/libavcodec58_4.4.2-1.lnd.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/depends/libmpv1/libavcodec58_4.4.2-1.lnd.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/depends/libmpv1/libavcodec58_4.4.2-1.lnd.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/depends/libmpv1/libavcodec58_4.4.2-1.lnd.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/depends/libmpv1/libavcodec58_4.4.2-1.lnd.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/depends/libmpv1/libavcodec58_4.4.2-1.lnd.2_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

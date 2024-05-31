@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="glade2script-python3_3.2.4~ppa23_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1f1cc01d825f494052fce350363678d3</hash>
+				  
+				<hash type="sha1">e0e81038aece845699a7bbd1ec3e453f70080f16</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/boot-repair/glade2script-python3_3.2.4~ppa23_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/boot-repair/glade2script-python3_3.2.4~ppa23_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/boot-repair/glade2script-python3_3.2.4~ppa23_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/boot-repair/glade2script-python3_3.2.4~ppa23_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/boot-repair/glade2script-python3_3.2.4~ppa23_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/boot-repair/glade2script-python3_3.2.4~ppa23_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

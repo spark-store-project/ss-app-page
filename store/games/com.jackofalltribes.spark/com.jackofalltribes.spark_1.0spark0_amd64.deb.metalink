@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.jackofalltribes.spark_1.0spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">dfb499dbaa16ca0ab889de2b6c34b63f</hash>
+				  
+				<hash type="sha1">1e885d10099b775d8940f54d6a408aa465f5b7dd</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.jackofalltribes.spark/com.jackofalltribes.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.jackofalltribes.spark/com.jackofalltribes.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.jackofalltribes.spark/com.jackofalltribes.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.jackofalltribes.spark/com.jackofalltribes.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.jackofalltribes.spark/com.jackofalltribes.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.jackofalltribes.spark/com.jackofalltribes.spark_1.0spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

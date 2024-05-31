@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="yoyo-fantacy_1.3.7-2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">2711ab4d757294718dbb32b0f0614851</hash>
+				  
+				<hash type="sha1">bd0a4eb44c4a8d5bf0d87709ccc3affd2f717e40</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/themes/yoyo-fantacy/yoyo-fantacy_1.3.7-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/themes/yoyo-fantacy/yoyo-fantacy_1.3.7-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/themes/yoyo-fantacy/yoyo-fantacy_1.3.7-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/themes/yoyo-fantacy/yoyo-fantacy_1.3.7-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/themes/yoyo-fantacy/yoyo-fantacy_1.3.7-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/themes/yoyo-fantacy/yoyo-fantacy_1.3.7-2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

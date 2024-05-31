@@ -1,0 +1,16 @@
+{
+    "Name": "京东读书",
+    "Version": "1.12.2spark0",
+    "Filename": "com.jd.jdreader.spark_1.12.2spark0_i386.deb",
+    "Torrent_address": "com.jd.jdreader.spark_1.12.2spark0_i386.deb.torrent",
+    "Pkgname": "com.jd.jdreader.spark",
+    "Author": "京东",
+    "Contributor": "shenmo",
+    "Website": "https://e.jd.com/",
+    "Update": "2022-09-07 17:34:30",
+    "Size": "270.82 MB",
+    "More": "京东读书pc客户端--畅快阅读，凡有所学，皆成性格\n\n说明：\n1.基于spark-wine7-devel打包，现在可以操作托盘，降低了包体积\n2.在配置容器时，发现只有在winecfg里把“允许窗口管理器控制窗口”关闭，应用的相关设置菜单才可以正常显示，副作用就是应用窗口最小化不能显示在任务栏上，只能单独缩小窗口到屏幕左下方，双击后可恢复应用窗口\n3.应用的笔记功能异常，可显示光标，但无法输入文字内容，解决办法：可在笔记窗口通过右键随意粘贴内容保存，然后再次修改笔记就可以正常输入文字",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/07/0df790d0-2e90-11ed-8816-7b6ae142cee7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/07/0e0154d0-2e90-11ed-8816-7b6ae142cee7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/07/0e0350a0-2e90-11ed-8816-7b6ae142cee7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/07/013237b0-2e90-11ed-8816-7b6ae142cee7.png"
+}

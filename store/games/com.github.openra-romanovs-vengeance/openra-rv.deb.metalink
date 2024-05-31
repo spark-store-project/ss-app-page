@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="openra-rv.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">dca22b1dfb20d98a2e2c3423c619daed</hash>
+				  
+				<hash type="sha1">4827744c0b264feb7e3706a285b9692a1eeef9bc</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.github.openra-romanovs-vengeance/openra-rv.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.github.openra-romanovs-vengeance/openra-rv.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.github.openra-romanovs-vengeance/openra-rv.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.github.openra-romanovs-vengeance/openra-rv.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.github.openra-romanovs-vengeance/openra-rv.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.github.openra-romanovs-vengeance/openra-rv.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

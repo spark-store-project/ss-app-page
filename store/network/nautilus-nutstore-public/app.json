@@ -1,0 +1,16 @@
+{
+    "Name": "坚果云",
+    "Version": "5.1.7",
+    "Filename": "nautilus-nutstore-public_5.1.7_amd64.deb",
+    "Torrent_address": "nautilus-nutstore-public_5.1.7_amd64.deb.torrent",
+    "Pkgname": "nautilus-nutstore-public",
+    "Author": "Wang Fu <wangfu@nutstore.net>",
+    "Contributor": "Wang Fu <wangfu@nutstore.net>",
+    "Website": "http://www.jianguoyun.com",
+    "Update": "2023-12-23 18:06:41",
+    "Size": "55.86 KB",
+    "More": "目前版本官网还没上，是客服给的。官网上的linux版本坚果云无法安装的可以试试这个。\n下面是官方的介绍：\n补充gir1.2-notify-0.7依赖描述：\n原来的依赖描述中缺少gir1.2-notify-0.7导致uos/deepin用户无法启动。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/23/15fc21184b5849d6be2e348381129c2e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/23/0c2d85c530c44109b6444d2666261529.png"
+}

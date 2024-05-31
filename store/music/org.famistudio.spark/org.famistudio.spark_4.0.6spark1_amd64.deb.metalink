@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.famistudio.spark_4.0.6spark1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">eaecef6db81cb2bc00754cc86a1c873f</hash>
+				  
+				<hash type="sha1">587493da78aeef147368744355fc04a08644daba</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/music/org.famistudio.spark/org.famistudio.spark_4.0.6spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/music/org.famistudio.spark/org.famistudio.spark_4.0.6spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/music/org.famistudio.spark/org.famistudio.spark_4.0.6spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/music/org.famistudio.spark/org.famistudio.spark_4.0.6spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/music/org.famistudio.spark/org.famistudio.spark_4.0.6spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/music/org.famistudio.spark/org.famistudio.spark_4.0.6spark1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

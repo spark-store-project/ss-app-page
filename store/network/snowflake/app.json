@@ -1,0 +1,15 @@
+{
+    "Name": "SnowFlake 终端",
+    "Version": "1.0.4-fix1",
+    "Filename": "snowflake_1.0.4-fix1_amd64.deb",
+    "Pkgname": "snowflake",
+    "Author": "subhra74",
+    "Contributor": "dfc643",
+    "Website": "https://github.com/subhra74/snowflake",
+    "Update": "2020-12-17 06:25:57",
+    "Size": "193.45 MB",
+    "More": "一款集成了 SFTP 和 SSH 功能的远程终端管理程序。应该可以媲美 MobaXterm 了。\n我打包的时候修复了 Deepin 上启动不了和字体发虚的问题。\n\n顺带测试我写的 Appimage2Deb 生成的包能不能投稿（滑稽）",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/095937c0-402d-11eb-9901-b19676ce26f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/095c1df0-402d-11eb-9901-b19676ce26f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/0960b1d0-402d-11eb-9901-b19676ce26f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/0966cc50-402d-11eb-9901-b19676ce26f7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/17/066e4cd0-402d-11eb-9901-b19676ce26f7.png"
+}

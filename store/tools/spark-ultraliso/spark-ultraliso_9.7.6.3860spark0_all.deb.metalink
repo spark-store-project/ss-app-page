@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-ultraliso_9.7.6.3860spark0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c1aa5fd9d7643ca0190f525f26013ee9</hash>
+				  
+				<hash type="sha1">e999f6eae9144ddaba607fa78229bc7805e7b3d8</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/spark-ultraliso/spark-ultraliso_9.7.6.3860spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/spark-ultraliso/spark-ultraliso_9.7.6.3860spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/spark-ultraliso/spark-ultraliso_9.7.6.3860spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/spark-ultraliso/spark-ultraliso_9.7.6.3860spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/spark-ultraliso/spark-ultraliso_9.7.6.3860spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/spark-ultraliso/spark-ultraliso_9.7.6.3860spark0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="fonts-sarasa-fixed-sc_0.40.0-1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">04a4df7c321d13effe376a2c6bae23c8</hash>
+				  
+				<hash type="sha1">65c05c9fdb017c12a0a0d3d9314685ba4991e080</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/others/fonts-sarasa-fixed-sc/fonts-sarasa-fixed-sc_0.40.0-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/others/fonts-sarasa-fixed-sc/fonts-sarasa-fixed-sc_0.40.0-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/others/fonts-sarasa-fixed-sc/fonts-sarasa-fixed-sc_0.40.0-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/others/fonts-sarasa-fixed-sc/fonts-sarasa-fixed-sc_0.40.0-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/others/fonts-sarasa-fixed-sc/fonts-sarasa-fixed-sc_0.40.0-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/others/fonts-sarasa-fixed-sc/fonts-sarasa-fixed-sc_0.40.0-1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

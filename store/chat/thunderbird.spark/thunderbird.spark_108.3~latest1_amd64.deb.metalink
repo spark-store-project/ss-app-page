@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="thunderbird.spark_108.3~latest1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">31823220f7012c3b0c23f98b07ac658a</hash>
+				  
+				<hash type="sha1">4b199f419bddf601d1c67dda53e8c13c7480e594</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/chat/thunderbird.spark/thunderbird.spark_108.3~latest1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/chat/thunderbird.spark/thunderbird.spark_108.3~latest1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/chat/thunderbird.spark/thunderbird.spark_108.3~latest1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/chat/thunderbird.spark/thunderbird.spark_108.3~latest1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/chat/thunderbird.spark/thunderbird.spark_108.3~latest1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/chat/thunderbird.spark/thunderbird.spark_108.3~latest1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

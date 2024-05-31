@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.com.sangfor.atrust_2.2.16.10_plus_1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a200f24b16d8bdb2ef8065b81ea784d5</hash>
+				  
+				<hash type="sha1">e1b953aa90e2a6e540da245d736bf15f62994553</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/cn.com.sangfor.atrust/cn.com.sangfor.atrust_2.2.16.10_plus_1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/cn.com.sangfor.atrust/cn.com.sangfor.atrust_2.2.16.10_plus_1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/cn.com.sangfor.atrust/cn.com.sangfor.atrust_2.2.16.10_plus_1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/cn.com.sangfor.atrust/cn.com.sangfor.atrust_2.2.16.10_plus_1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/cn.com.sangfor.atrust/cn.com.sangfor.atrust_2.2.16.10_plus_1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/cn.com.sangfor.atrust/cn.com.sangfor.atrust_2.2.16.10_plus_1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

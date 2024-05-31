@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.thunderx.gleaf.deepin.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">77f4d67760f7d2e4d28e672bf1bb2826</hash>
+				  
+				<hash type="sha1">363cc346540129d7f9a064794068b2e8e1ed1fce</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/cn.thunderx.gleaf.deepin/cn.thunderx.gleaf.deepin.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/cn.thunderx.gleaf.deepin/cn.thunderx.gleaf.deepin.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/cn.thunderx.gleaf.deepin/cn.thunderx.gleaf.deepin.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/cn.thunderx.gleaf.deepin/cn.thunderx.gleaf.deepin.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/cn.thunderx.gleaf.deepin/cn.thunderx.gleaf.deepin.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/cn.thunderx.gleaf.deepin/cn.thunderx.gleaf.deepin.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

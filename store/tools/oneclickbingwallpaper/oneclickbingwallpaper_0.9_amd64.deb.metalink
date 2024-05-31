@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="oneclickbingwallpaper_0.9_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">d045d647f57b714fff81ee19dcc7feea</hash>
+				  
+				<hash type="sha1">bfd90f2f9e60f3b7543775b37d5926ca01f50ecf</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/oneclickbingwallpaper/oneclickbingwallpaper_0.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/oneclickbingwallpaper/oneclickbingwallpaper_0.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/oneclickbingwallpaper/oneclickbingwallpaper_0.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/oneclickbingwallpaper/oneclickbingwallpaper_0.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/oneclickbingwallpaper/oneclickbingwallpaper_0.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/oneclickbingwallpaper/oneclickbingwallpaper_0.9_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

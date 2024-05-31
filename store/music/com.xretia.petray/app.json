@@ -1,0 +1,15 @@
+{
+    "Name": "PulseEffects 音效切换器",
+    "Version": "1.0b20201224",
+    "Filename": "com.xretia.petray_1.0b20201224_all.deb",
+    "Pkgname": "com.xretia.petray",
+    "Author": "dfc643",
+    "Contributor": "dfc643",
+    "Website": "https://gitlab.com/dfc643/pulseeffectstray/",
+    "Update": "2020-12-24 06:42:58",
+    "Size": "290.22 KB",
+    "More": "兼容 PulseEffects 4.x ，不兼容深度商店的老版本，安装完成后在主菜单中右键图标选开机自动启动即可。\n\nPulseEffects 4.x 安装教程：https://bbs.deepin.org/post/208571\n\n1.0b20201224\n使用 PyQt 重写以适配 DTK\n添加左键点击图标快速禁用启动音效\n添加切换音效时显示通知\n添加打开 PulseEffects 入口\n添加简体中文、繁体中文、日语、英语支持\n优化图标大小",
+    "Tags": "community;deepin;uos;dtk5;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/22ce4ca0-45b3-11eb-9068-bf202cae3933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/27731c90-45b3-11eb-9068-bf202cae3933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/28ec4f10-45b3-11eb-9068-bf202cae3933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/2ab88390-45b3-11eb-9068-bf202cae3933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/2d419f70-45b3-11eb-9068-bf202cae3933.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/24/1dd73e00-45b3-11eb-9068-bf202cae3933.png"
+}

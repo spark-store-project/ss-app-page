@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="fonts-cjk-cn-smiley-sans_2.1.0-1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5799d35e6de9a3707fef1b13d690f9a3</hash>
+				  
+				<hash type="sha1">280c08f94ae59c8881223789ce9c6fb385acbb77</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/others/fonts-cjk-cn-smiley-sans/fonts-cjk-cn-smiley-sans_2.1.0-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/others/fonts-cjk-cn-smiley-sans/fonts-cjk-cn-smiley-sans_2.1.0-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/others/fonts-cjk-cn-smiley-sans/fonts-cjk-cn-smiley-sans_2.1.0-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/others/fonts-cjk-cn-smiley-sans/fonts-cjk-cn-smiley-sans_2.1.0-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/others/fonts-cjk-cn-smiley-sans/fonts-cjk-cn-smiley-sans_2.1.0-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/others/fonts-cjk-cn-smiley-sans/fonts-cjk-cn-smiley-sans_2.1.0-1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

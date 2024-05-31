@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.cctv.ysyy.spark_6.0.0.1spark10_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e88eb28cb7b8381c3e6a9cd7733b00ae</hash>
+				  
+				<hash type="sha1">145497f097011555e12f77acb942e6f6f2f2878f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/video/com.cctv.ysyy.spark/com.cctv.ysyy.spark_6.0.0.1spark10_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/video/com.cctv.ysyy.spark/com.cctv.ysyy.spark_6.0.0.1spark10_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/video/com.cctv.ysyy.spark/com.cctv.ysyy.spark_6.0.0.1spark10_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/video/com.cctv.ysyy.spark/com.cctv.ysyy.spark_6.0.0.1spark10_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/video/com.cctv.ysyy.spark/com.cctv.ysyy.spark_6.0.0.1spark10_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/video/com.cctv.ysyy.spark/com.cctv.ysyy.spark_6.0.0.1spark10_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

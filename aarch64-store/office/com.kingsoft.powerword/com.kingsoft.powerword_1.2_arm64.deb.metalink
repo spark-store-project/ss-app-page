@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.kingsoft.powerword_1.2_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">496e6ec5824a317afe1dc2c78a7c63d3</hash>
+				  
+				<hash type="sha1">d80e0f4b3ec4b52848eb7cf12bfc8823f2cd4c53</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/office/com.kingsoft.powerword/com.kingsoft.powerword_1.2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/office/com.kingsoft.powerword/com.kingsoft.powerword_1.2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/office/com.kingsoft.powerword/com.kingsoft.powerword_1.2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/office/com.kingsoft.powerword/com.kingsoft.powerword_1.2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/office/com.kingsoft.powerword/com.kingsoft.powerword_1.2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/office/com.kingsoft.powerword/com.kingsoft.powerword_1.2_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.farcry.spark_1.0spark1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1aac005dfad17fba1db9ca4257181eba</hash>
+				  
+				<hash type="sha1">d90418c1541592f9b805a4f5e6b160035a96a7d1</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.farcry.spark/com.farcry.spark_1.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.farcry.spark/com.farcry.spark_1.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.farcry.spark/com.farcry.spark_1.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.farcry.spark/com.farcry.spark_1.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.farcry.spark/com.farcry.spark_1.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.farcry.spark/com.farcry.spark_1.0spark1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

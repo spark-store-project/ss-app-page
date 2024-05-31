@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="xyz.liujiusheng.gisbrowser_0.3.0_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9bd1c2e667b55139dfaad9fcbb17a1f0</hash>
+				  
+				<hash type="sha1">102d6d6cf0f8af151a5979bd8f3a433786624691</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/xyz.liujiusheng.gisbrowser/xyz.liujiusheng.gisbrowser_0.3.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/image_graphics/xyz.liujiusheng.gisbrowser/xyz.liujiusheng.gisbrowser_0.3.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/image_graphics/xyz.liujiusheng.gisbrowser/xyz.liujiusheng.gisbrowser_0.3.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/image_graphics/xyz.liujiusheng.gisbrowser/xyz.liujiusheng.gisbrowser_0.3.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/image_graphics/xyz.liujiusheng.gisbrowser/xyz.liujiusheng.gisbrowser_0.3.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/image_graphics/xyz.liujiusheng.gisbrowser/xyz.liujiusheng.gisbrowser_0.3.0_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

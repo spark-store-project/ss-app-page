@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.qianxin.qaxsafe_8.0.5-5340_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">fdc9bef6e0a80e954fd51b0685e854df</hash>
+				  
+				<hash type="sha1">933e8e0af1844718df51c6c6c65ce11a5b595230</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.qianxin.qaxsafe/com.qianxin.qaxsafe_8.0.5-5340_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/tools/com.qianxin.qaxsafe/com.qianxin.qaxsafe_8.0.5-5340_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/tools/com.qianxin.qaxsafe/com.qianxin.qaxsafe_8.0.5-5340_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/tools/com.qianxin.qaxsafe/com.qianxin.qaxsafe_8.0.5-5340_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/tools/com.qianxin.qaxsafe/com.qianxin.qaxsafe_8.0.5-5340_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/tools/com.qianxin.qaxsafe/com.qianxin.qaxsafe_8.0.5-5340_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

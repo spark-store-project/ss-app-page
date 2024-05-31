@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.loongnix.lbrowser_3.3.1814.2-1.stable_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">33ba19fb979784e2f7aefa2c662d51c9</hash>
+				  
+				<hash type="sha1">a32529965c5556b871ae33def75b7600911e7d9a</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.loongnix.lbrowser/cn.loongnix.lbrowser_3.3.1814.2-1.stable_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/network/cn.loongnix.lbrowser/cn.loongnix.lbrowser_3.3.1814.2-1.stable_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/network/cn.loongnix.lbrowser/cn.loongnix.lbrowser_3.3.1814.2-1.stable_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/network/cn.loongnix.lbrowser/cn.loongnix.lbrowser_3.3.1814.2-1.stable_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/network/cn.loongnix.lbrowser/cn.loongnix.lbrowser_3.3.1814.2-1.stable_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/network/cn.loongnix.lbrowser/cn.loongnix.lbrowser_3.3.1814.2-1.stable_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

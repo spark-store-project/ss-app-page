@@ -1,0 +1,16 @@
+{
+    "Name": "infomation-tips",
+    "Version": "0.2.3-20240529",
+    "Filename": "infomation-tips_0.2.3-20240529_amd64.deb",
+    "Torrent_address": "infomation-tips_0.2.3-20240529_amd64.deb.torrent",
+    "Pkgname": "infomation-tips",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/infomation-tips",
+    "Update": "2024-05-29 11:15:45",
+    "Size": "40.84 KB",
+    "More": "在屏幕上显示系统状态信息，自动跟随显示在鼠标所处屏幕(多屏支持)\n\nv0.1.4: deepin 系统中切换工作区后依然可以显示屏幕提示器(3秒)\nv0.2.0: 添加任务栏图标与工作区显示状态的控制操作，使用 notify 组件显示切换提示\nv0.2.1: 鼠标位置判断如果悬浮在面板位置时移到屏幕下方\nv0.2.3: 改进多屏与鼠标的位置计算 - 添加 Uos 支持 - Qt 5.11.3 构建",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/29/94561cbf4ab54bd8ac96a52928dd4704.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/29/0e3a29ccb4204be0aa2cfc46169a56b0.png"
+}

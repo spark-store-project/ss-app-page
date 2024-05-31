@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-optical-drive-tray-control_1.0.2_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">828ef7fe4c738869365fb8db9f75acba</hash>
+				  
+				<hash type="sha1">63f296cc3204adbb691b5bf6054707daaf3412e4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/spark-optical-drive-tray-control/spark-optical-drive-tray-control_1.0.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/spark-optical-drive-tray-control/spark-optical-drive-tray-control_1.0.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/spark-optical-drive-tray-control/spark-optical-drive-tray-control_1.0.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/spark-optical-drive-tray-control/spark-optical-drive-tray-control_1.0.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/spark-optical-drive-tray-control/spark-optical-drive-tray-control_1.0.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/spark-optical-drive-tray-control/spark-optical-drive-tray-control_1.0.2_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

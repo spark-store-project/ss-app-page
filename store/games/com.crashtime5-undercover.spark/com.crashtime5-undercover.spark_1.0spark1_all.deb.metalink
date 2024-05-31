@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.crashtime5-undercover.spark_1.0spark1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">bac6a69fc5ac7ab19cff2d63be338cb6</hash>
+				  
+				<hash type="sha1">895e77cf9c4d1fb5cf4de4128b5687c5e33f3fd3</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.crashtime5-undercover.spark/com.crashtime5-undercover.spark_1.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.crashtime5-undercover.spark/com.crashtime5-undercover.spark_1.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.crashtime5-undercover.spark/com.crashtime5-undercover.spark_1.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.crashtime5-undercover.spark/com.crashtime5-undercover.spark_1.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.crashtime5-undercover.spark/com.crashtime5-undercover.spark_1.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.crashtime5-undercover.spark/com.crashtime5-undercover.spark_1.0spark1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

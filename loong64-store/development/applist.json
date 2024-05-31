@@ -1,0 +1,301 @@
+[
+{
+    "Author": "VSCodium Team https://github.com/VSCodium/vscodium/graphs/contributors",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "codium_1.73.1.22314_loong64.deb",
+    "More": "VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.",
+    "Name": "VSCodium",
+    "Pkgname": "codium",
+    "Size": "109 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "codium_1.73.1.22314_loong64.deb.torrent",
+    "Update": "2024-03-22 15:59:53",
+    "Version": "1.73.1.22314",
+    "Website": "https://vscodium.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/development/codium/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/codium/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/codium/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "Deepin Packages Builder <packages@linuxdeepin.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "deepin-unioncode_1.2.18_loong64.deb",
+    "More": "深度集成开发环境是由深度公司自主研发，具有多语言、跨平台兼容特性的轻量级集成开发环境。\n\n只支持deepin 20 23",
+    "Name": "deepin IDE (深度IDE)",
+    "Pkgname": "deepin-unioncode",
+    "Size": "71 Mb",
+    "Tags": "deepin;dtk5",
+    "Torrent_address": "deepin-unioncode_1.2.18_loong64.deb.torrent",
+    "Update": "2024-04-29 18:08:02",
+    "Version": "1.2.18",
+    "Website": "http://www.deepin.org",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/development/deepin-unioncode/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/development/deepin-unioncode/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/development/deepin-unioncode/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/development/deepin-unioncode/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "Microsoft",
+    "Contributor": "杀毒软件吧、shenmo",
+    "Filename": "vscode_1.67.2_loong64.deb",
+    "More": " vscodeIDE编程工具\n赶紧卸了换VSCodium\n或者Code-OSS吧，这玩意是真坑人，只能在x86下跑，走一道LATX。还是旧版本连不上扩展商店了……\n",
+    "Name": "Visual Studio Code（LATX）",
+    "Pkgname": "vscode",
+    "Size": "82 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "vscode_1.67.2_loong64.deb.torrent",
+    "Update": "2024-03-25 03:02:52",
+    "Version": "1.67.2",
+    "Website": "xxx@xx.chttps://code.visualstudio.com/om",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/development/vscode/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/vscode/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "Microsoft Corporation <vscode-linux@microsoft.com>",
+    "Contributor": "Microsoft Corporation <vscode-linux@microsoft.com>",
+    "Filename": "code-oss_1.73.1-1671519892_loong64.deb",
+    "More": " Visual Studio Code is a new choice of tool that combines the simplicity of\n a code editor with what developers need for the core edit-build-debug cycle.\n See https://code.visualstudio.com/docs/setup/linux for installation\n instructions and FAQ.\n",
+    "Name": "Code-OSS",
+    "Pkgname": "code-oss",
+    "Size": "109 Mb",
+    "Tags": "community;deepin;uos",
+    "Torrent_address": "code-oss_1.73.1-1671519892_loong64.deb.torrent",
+    "Update": "2024-03-25 03:06:44",
+    "Version": "1.73.1-1671519892",
+    "Website": "https://code.visualstudio.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/development/code-oss/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/code-oss/screen_1.png\"]"
+}
+
+,
+{
+    "Name": "Scratch 3（Wine）",
+    "Version": "3.29.1",
+    "Filename": "com.scratch3.spark_3.29.1_all.deb",
+    "Torrent_address": "com.scratch3.spark_3.29.1_all.deb.torrent",
+    "Pkgname": "com.scratch3.spark",
+    "Author": "gfdgd xi<3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://scratch.mit.edu",
+    "Update": "2023-05-20 20:46:25",
+    "Size": "405.51 MB",
+    "More": "scratch是目前全球最广泛使用的图形化编程语言，它的图形化的编程界面可以让零基础的用户快速轻松上手。目前官方正式发布了scratch3.0编程，通过它用户可以编写属于自己的互动媒体，像是故事、游戏、动画，然后你可以将你的创意分享给全世界，并且可以帮助年轻人更具创造力、逻辑力、协作力。全新的scratch3.0特别为8到16岁孩子设计，它扩展了Scratch的使用方式、功能和适用环境。其中包括了几十个新的角色、全新的声音编辑器和许多新的编程积木。除了支持桌面电脑和笔记本电脑外，你还可以在平板电脑上使用scratch3.0创作和观看作品。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/57b4a16937f942449bf9a877ffcad7a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/1e26957687544b52a99af0460e799493.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/131fcab7df494c08aaee9ba43290a78e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/00f83375a2624bf59bad0b2b92a91aa1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/142dbbb2ee3f46c18f1c9bed7f65b923.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/1aa87b74c1444e05977727db1257fd0a.png"
+}
+,
+{
+    "Author": "shenmo <jifengshenmo@outlook.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "shirodeb_0.1.2.1_all.deb",
+    "More": "ShiroDEB 是一个方便的脚本集，用于按照 UOS 规范将软件快速打包成 deb 包。",
+    "Name": "Shirodeb",
+    "Pkgname": "shirodeb",
+    "Size": "10 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "shirodeb_0.1.2.1_all.deb.torrent",
+    "Update": "2023-10-24 14:27:52",
+    "Version": "0.1.2.1",
+    "Website": "https://gitee.com/spark-community-works-collections/shirodeb",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/development/shirodeb/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/shirodeb/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "royqh1979@gmail.com",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "redpanda-cpp_2.26-1_loong64.deb",
+    "More": "小巧但功能强大的C/C++编辑器\n操作简便 \n小熊猫C++无需复杂的安装和配置，打开即可直接编辑程序文件；无需创建项目，点击工具栏上按钮即可编译、运行和调试程序。 \n轻量高效 \n小熊猫C++基于QT和C++语言开发，使用内置的轻量级代码分析器进行智能语法分析，运行时无需大量的内存和CPU资源，在低配置机器上也能获得流畅的运行体验。 \n多平台支持 \n小熊猫C++支持Windows 7/8/10、Linux等操作系统。在各种操作系统下都能获得相同的高质量编程体验。 \n生产力提升 \n通过集成自动缩进、智能代码补全、智能语法高亮和实时语法检查等功能，小熊猫C++提供了流畅的代码编辑体验，可以大幅度提升代码编写的效率。 \n调试 \n小熊猫C++提供完善的调试功能，包括控制程序执行、断点、监视变量和表达式、表达式求值、查看本地变量、查看和切换调用栈、查看和修改内存、查看CPU寄存器和反编译信息等。小熊猫C++甚至还可以重定向被调试程序的输入！ \n多屏幕 \n小熊猫C++提供了完善的高分辨率和多显示器支持，能够在多个不同DPI设置的显示器间自由切换，同时提供完善的显示效果，便于教学和展示。 \n试题集和OJ \n针对C/C++教学和竞赛需求，小熊猫C++专门提供了试题集和OJ功能：可以方便的组织管理、运行和测试C/C++练习程序；可以导入或者从OJ网站下载试题和配套的测试数据。 \nGit版本管理 \n小熊猫C++内置git支持，可以方便对项目或工作文件夹进行版本管理（需额外安装git程序） \n整合多种学习用库 \nWindows版小熊猫C++在自带gcc中整合了ege、海龟作图、raylib、freeglut、GLFW和GLEW等适合编程或者游戏开发入门者使用的库和项目模板，无需复杂的安装配置即可直接使用。",
+    "Name": "小熊猫 C++",
+    "Pkgname": "redpanda-cpp",
+    "Size": "2916 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "redpanda-cpp_2.26-1_loong64.deb.torrent",
+    "Update": "2024-03-24 22:17:44",
+    "Version": "2.26-1",
+    "Website": "https://github.com/royqh1979/RedPanda-CPP",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/development/redpanda-cpp/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/redpanda-cpp/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/redpanda-cpp/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/redpanda-cpp/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/redpanda-cpp/screen_4.png\"]"
+}
+
+,
+{
+    "Name": "Scratch 1.4",
+    "Version": "1.4.0.6~dfsg1-6",
+    "Filename": "scratch_1.4.0.6~dfsg1-6_all.deb",
+    "Torrent_address": "scratch_1.4.0.6~dfsg1-6_all.deb.torrent",
+    "Pkgname": "scratch",
+    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "http://scratch.mit.edu",
+    "Update": "2022-12-29 22:10:10",
+    "Size": "23.93 MB",
+    "More": "Scratch is an easy, interactive, collaborative programming\n environment designed for creation of interactive stories, animations,\n games, music, and art -- and sharing these on the web.\n Scratch is designed to help young people (ages 8 and up) develop 21st\n century learning skills. As they create Scratch projects, young people\n learn important mathematical and computational ideas, while also\n gaining a deeper understanding of the process of design.",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/29/b3bc243d63d44610baf2bfc5368cf58b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/29/d7385851ae624a64b172d29665f8890e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/29/f12da169cb654dd78dad72fda224fc12.png"
+}
+,
+{
+    "Author": "wanweiyang@uniontech.com",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "org.mixly_2.0_loong64.deb",
+    "More": "Mixly（米思齐）是在北京师范大学傅骞博士团队组织开发的一款国内自主研发，且免费开源的图形化编程工具。在国内外都掀起创客教育的浪潮中，傅骞老师认真分析了当前电子领域内的创客教育，并认为“如果不能给学生提供一个足够简单的、不能给教师提供一个容易上手的，不能给各大生产厂商提供一个足够自主的编程工具，所谓的“创”也只能是停留在表面的浮云，风一吹便散。”为了大力贯彻落实创客实验室“自主实践，分享快乐”的教育理念，傅骞老师带领其团队，开发出具有易用性、简单性、功能性、普适性、延续性及生态性等特点的Mixly。",
+    "Name": "Mixly",
+    "Pkgname": "org.mixly",
+    "Size": "993 Mb",
+    "Tags": "community;deepin;ubuntu",
+    "Torrent_address": "org.mixly_2.0_loong64.deb.torrent",
+    "Update": "2024-05-18 21:54:55",
+    "Version": "2.0",
+    "Website": "https://mixly.org/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/development/org.mixly/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/development/org.mixly/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/development/org.mixly/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/development/org.mixly/screen_3.png\"]"
+}
+
+,
+{
+    "Name": "ffdec",
+    "Version": "18.4.1-1",
+    "Filename": "ffdec_18.4.1-1_all.deb",
+    "Torrent_address": "ffdec_18.4.1-1_all.deb.torrent",
+    "Pkgname": "ffdec",
+    "Author": "JPEXS",
+    "Contributor": "sgb76",
+    "Website": "https://github.com/jindrapetrik/jpexs-decompiler",
+    "Update": "2023-04-18 17:40:42",
+    "Size": "13.51 MB",
+    "More": "一个免费开源的Flash反编译工具",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/18/95fe0605d22b4735bc2ed681ab7b2cdc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/18/65c3e15cc142428ab3666676411bb12e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/18/f81694b5d4a3493fb6c97413648bb4f5.png"
+}
+,
+{
+    "Author": "ThinkYoung",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.heidisql.spark_12.7.0.6850_all.deb",
+    "More": "HeidiSQL是一款面向Web开发人员的功能强大且可靠的工具，适用于流行数据库如MySQL、SQlite、Microsoft SQL和PostgreSQL。它允许用户轻松浏览和编辑数据，创建和编辑结构。该软件免费使用，旨在易于学习。",
+    "Name": "HeidiSQL(wine)",
+    "Pkgname": "com.heidisql.spark",
+    "Size": "36 Mb",
+    "Tags": "deepin;ubuntu;dwine5",
+    "Torrent_address": "com.heidisql.spark_12.7.0.6850_all.deb.torrent",
+    "Update": "2024-05-06 11:59:39",
+    "Version": "12.7.0.6850",
+    "Website": "https://www.heidisql.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/development/com.heidisql.spark/icon.png",
+    "img_urls": "[]"
+}
+
+,
+{
+    "Author": "spark-store",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "appimage2deb_2.5.1_all.deb",
+    "More": "1.添加AppImage后缀名支持\n2.增加高清图标支持\n3. 默认解包\n4. 支持直接投递UOS商店\n5. 使用xz而不是gzip\n6. 多线程支持\n7. 出包依赖ablrun方便适配打包\n8. 如果没有填写软件名，则用默认的desktop的",
+    "Name": "A2D 软件打包",
+    "Pkgname": "appimage2deb",
+    "Size": "258 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "appimage2deb_2.5.1_all.deb.torrent",
+    "Update": "2023-08-21 16:34:38",
+    "Version": "2.5.1",
+    "Website": "https://gitee.com/deepin-community-store/appimage2deb",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/development/appimage2deb/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/appimage2deb/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/appimage2deb/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/appimage2deb/screen_3.png\"]"
+}
+
+,
+{
+    "Name": "debreate汉化UOS版",
+    "Version": "1.0.0.3",
+    "Filename": "zhangyongwei11.com.gitee.debreateforuos_1.0.0.3_all.deb",
+    "Pkgname": "zhangyongwei11.com.gitee.debreateforuos",
+    "Author": "zhangyongwei11",
+    "Contributor": "zhangyongwei11",
+    "Website": "gitee.com/zhangyongwei11/debreateforuos/",
+    "Update": "2021-12-16 19:23:26",
+    "Size": "813.34 KB",
+    "More": "debreate汉化版UOS版本，符合UOS打包标准。\nUOS包在安装过3.0.3-6及以上版本星火商店的机器上也可直接安装",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/16/7d063ed0-5e62-11ec-ade9-5fc01838280a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/16/7d247530-5e62-11ec-ade9-5fc01838280a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/16/7d816240-5e62-11ec-ade9-5fc01838280a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/16/7d4124f0-5e62-11ec-ade9-5fc01838280a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/16/7d601ea0-5e62-11ec-ade9-5fc01838280a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/16/bf4ce8d0-5e61-11ec-ade9-5fc01838280a.svg"
+}
+,
+{
+    "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.360.electron360-api-demos_16.0.3_loong64.deb",
+    "More": "360易创 旨在提供一套跨平台的应用程序开发框架，以Chromium内核+Node.js引擎+Native API为标准运行体系，结合我国信创领域的实际业务场景和需求，面向应用厂商在安全防护、性能提升、跨平台支持等方面技术赋能，协助其提高软件开发质量、产品能力以及市场竞争力",
+    "Name": "360易创API示例",
+    "Pkgname": "com.360.electron360-api-demos",
+    "Size": "78 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "com.360.electron360-api-demos_16.0.3_loong64.deb.torrent",
+    "Update": "2024-03-24 14:26:36",
+    "Version": "16.0.3",
+    "Website": "https://www.360.cn/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/development/com.360.electron360-api-demos/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/com.360.electron360-api-demos/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/com.360.electron360-api-demos/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "Codemao <www.codemao.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "cn.codemao.wood_0.1.3_loong64.deb",
+    "More": "海龟编辑器，是编程猫面向Python初学者开发的图形化Python编辑器。",
+    "Name": "海龟编辑器",
+    "Pkgname": "cn.codemao.wood",
+    "Size": "61 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "cn.codemao.wood_0.1.3_loong64.deb.torrent",
+    "Update": "2024-03-23 12:30:52",
+    "Version": "0.1.3",
+    "Website": "https://python.codemao.cn/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/development/cn.codemao.wood/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/cn.codemao.wood/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/cn.codemao.wood/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "编程猫 <crc@codemao.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "cn.codemao.kitten3_3.7.14_loong64.deb",
+    "More": "支持离线编辑代码，让创作更简单。",
+    "Name": "编程猫源码编辑器",
+    "Pkgname": "cn.codemao.kitten3",
+    "Size": "210 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "cn.codemao.kitten3_3.7.14_loong64.deb.torrent",
+    "Update": "2024-03-23 12:29:31",
+    "Version": "3.7.14",
+    "Website": "https://codemao.cn",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/development/cn.codemao.kitten3/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/cn.codemao.kitten3/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/cn.codemao.kitten3/screen_2.png\"]"
+}
+
+,
+{
+    "Name": "netbeans",
+    "Version": "17-1",
+    "Filename": "apache-netbeans_17-1_all.deb",
+    "Torrent_address": "apache-netbeans_17-1_all.deb.torrent",
+    "Pkgname": "apache-netbeans",
+    "Author": "Apache Software Foundation",
+    "Contributor": "freeor",
+    "Website": "https://netbeans.apache.org/",
+    "Update": "2023-03-11 11:02:27",
+    "Size": "382.05 MB",
+    "More": "开发环境、工具平台和应用程序框架。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f647c620-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f66c8c30-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f65a15a0-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f67f29d0-bfb8-11ed-9b62-5f2349990689.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/11/bd7fcb30-bfb8-11ed-9b62-5f2349990689.png"
+}
+]

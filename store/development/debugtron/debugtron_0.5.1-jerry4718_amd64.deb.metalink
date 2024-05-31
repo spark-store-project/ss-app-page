@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="debugtron_0.5.1-jerry4718_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5928008fafd63f0ccf0ddac1a6aca3be</hash>
+				  
+				<hash type="sha1">3059b7c594502160e97353dede3acdf7a017d654</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/debugtron/debugtron_0.5.1-jerry4718_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/debugtron/debugtron_0.5.1-jerry4718_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/debugtron/debugtron_0.5.1-jerry4718_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/debugtron/debugtron_0.5.1-jerry4718_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/debugtron/debugtron_0.5.1-jerry4718_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/debugtron/debugtron_0.5.1-jerry4718_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

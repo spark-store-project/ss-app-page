@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="docker-desktop_4.29.0-145265_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f0cadf0af92b13e64a81e0b3fdc80fec</hash>
+				  
+				<hash type="sha1">6a6c3514f375e3f899de93b7e48f52a0b28f7645</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/docker-desktop/docker-desktop_4.29.0-145265_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/docker-desktop/docker-desktop_4.29.0-145265_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/docker-desktop/docker-desktop_4.29.0-145265_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/docker-desktop/docker-desktop_4.29.0-145265_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/docker-desktop/docker-desktop_4.29.0-145265_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/docker-desktop/docker-desktop_4.29.0-145265_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,16 @@
+{
+    "Name": "dde-dock 栏高效居中版本(限 v23 使用)",
+    "Version": "6.0.22",
+    "Filename": "spark.dde-dock_6.0.22_amd64.deb",
+    "Torrent_address": "spark.dde-dock_6.0.22_amd64.deb.torrent",
+    "Pkgname": "spark.dde-dock",
+    "Author": "Deepin Packages Builder <packages@deepin.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "http://www.deepin.org/",
+    "Update": "2023-11-22 00:17:08",
+    "Size": "1.4 MB",
+    "More": "适用于 v23 版本 dde-dock 的内容替换包，安装本包将替换 dde-dock v6.0.22 的内容。\n安装后注销再登录，或自行重启 dde-dock 即可查看高效居中的效果。\n\n替换规则：\n1. 由 Replaces 定义 dde-dock (= 6.0.22)\n2. 安装此包时将会对 dde-dock 进行文件替换\n\n还原操作：\n1. 卸载 spark.dde-dock 将会移除被替换的文件，此时本地 dde-dock 变成为虚空包\n2. 重新安装 dde-dock 即可还原被替换的文件\n\n还原命令：\nsudo apt remove spark.dde-dock\nsudo apt install dde-dock --reinstall",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/22/75c5faf411d948f7bf6dc5fb47e8be2c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/22/a2327c05a9e24b7c9419cbd0e49a2a7a.png"
+}

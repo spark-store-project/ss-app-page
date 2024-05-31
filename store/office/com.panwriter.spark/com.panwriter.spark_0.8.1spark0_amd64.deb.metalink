@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.panwriter.spark_0.8.1spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">37aa58f44461da26c50117199abb6e50</hash>
+				  
+				<hash type="sha1">92857e1771caa3295ac47f22bfdcab2eda22c5ad</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.panwriter.spark/com.panwriter.spark_0.8.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.panwriter.spark/com.panwriter.spark_0.8.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.panwriter.spark/com.panwriter.spark_0.8.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.panwriter.spark/com.panwriter.spark_0.8.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.panwriter.spark/com.panwriter.spark_0.8.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.panwriter.spark/com.panwriter.spark_0.8.1spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

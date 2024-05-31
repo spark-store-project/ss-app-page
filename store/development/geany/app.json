@@ -1,0 +1,16 @@
+{
+    "Name": "Geany",
+    "Version": "1.38-1",
+    "Filename": "geany_1.38-1_amd64.deb",
+    "Torrent_address": "geany_1.38-1_amd64.deb.torrent",
+    "Pkgname": "geany",
+    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+    "Contributor": "卢博轩",
+    "Website": "http://www.geany.org",
+    "Update": "2023-04-02 15:08:40",
+    "Size": "1.18 MB",
+    "More": "Geany is a small and lightweight integrated development environment.\n It was developed to provide a small and fast IDE, which has only a\n few dependencies from other packages. It is using only the GTK3 toolkit\n and therefore you need only the GTK3 runtime libraries to run Geany.\n .\n The basic features of Geany are:\n  - syntax highlighting\n  - code completion\n  - auto completion of constructs like if, for and while, XML and HTML\n  - call tips\n  - folding\n  - many supported filetypes like C, Java, PHP, HTML, Python, Perl, Pascal\n  - symbol lists\n  - embedded terminal emulation\n翻译：\nGeany 是一个小型轻量级的集成开发环境。\n 它被开发来提供一个小而快速的IDE，它只有一个\n 来自其他包的依赖项很少。它仅使用 GTK3 工具包\n 因此，您只需要 GTK3 运行时库即可运行 Geany。\n .\n Geany的基本功能是：\n  - 语法高亮\n  - 代码完成\n  - 自动完成构造，如if，for和while，XML和HTML\n  - 通话提示\n  -折叠\n  - 许多支持的文件类型，如C，Java，PHP，HTML，Python，Perl，Pascal\n  - 符号列表\n  - 嵌入式终端仿真\n总结：\nGTK+ 编写的轻快的 IDE",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/a1e826fedb904149b3fc4347b91fc2ce.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/916d6c5cb473401785f30ae2f5b64fd7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/ae730f7a7471434e88ff531e36117869.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/02/4fa116ab40ab49be89b782c2097b2b7c.png"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.jhelioviewer.jhelioviewer_4.4.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">816b84ec4b32a74903f7030b8742e835</hash>
+				  
+				<hash type="sha1">840370b6f41ae561887ad355d490956cce651959</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/org.jhelioviewer.jhelioviewer/org.jhelioviewer.jhelioviewer_4.4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/org.jhelioviewer.jhelioviewer/org.jhelioviewer.jhelioviewer_4.4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/org.jhelioviewer.jhelioviewer/org.jhelioviewer.jhelioviewer_4.4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/org.jhelioviewer.jhelioviewer/org.jhelioviewer.jhelioviewer_4.4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/org.jhelioviewer.jhelioviewer/org.jhelioviewer.jhelioviewer_4.4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/org.jhelioviewer.jhelioviewer/org.jhelioviewer.jhelioviewer_4.4.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

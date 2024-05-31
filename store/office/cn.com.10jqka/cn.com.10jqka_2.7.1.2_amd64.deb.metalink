@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.com.10jqka_2.7.1.2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f05a2f4be8ceda79a79634cf4b0cd906</hash>
+				  
+				<hash type="sha1">d1600b6078d5abe262dde1881dafed08b1653c4a</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/cn.com.10jqka/cn.com.10jqka_2.7.1.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/cn.com.10jqka/cn.com.10jqka_2.7.1.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/cn.com.10jqka/cn.com.10jqka_2.7.1.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/cn.com.10jqka/cn.com.10jqka_2.7.1.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/cn.com.10jqka/cn.com.10jqka_2.7.1.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/cn.com.10jqka/cn.com.10jqka_2.7.1.2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

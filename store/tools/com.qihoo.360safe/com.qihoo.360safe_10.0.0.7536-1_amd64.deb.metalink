@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.qihoo.360safe_10.0.0.7536-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b98b64d2a5452168ae4d69dc9ccec18c</hash>
+				  
+				<hash type="sha1">d8fcac4b0680ba4db4ff7e6c07ad03489a241ae2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/com.qihoo.360safe/com.qihoo.360safe_10.0.0.7536-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/com.qihoo.360safe/com.qihoo.360safe_10.0.0.7536-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/com.qihoo.360safe/com.qihoo.360safe_10.0.0.7536-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/com.qihoo.360safe/com.qihoo.360safe_10.0.0.7536-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/com.qihoo.360safe/com.qihoo.360safe_10.0.0.7536-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/com.qihoo.360safe/com.qihoo.360safe_10.0.0.7536-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

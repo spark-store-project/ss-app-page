@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="wwlocal_2.4.70101_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">3c09ea086ae148bb6ffd018756bc5ca7</hash>
+				  
+				<hash type="sha1">3268bc824b68f66ad505163c8a883f4153ef71d4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/chat/wwlocal/wwlocal_2.4.70101_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/chat/wwlocal/wwlocal_2.4.70101_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/chat/wwlocal/wwlocal_2.4.70101_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/chat/wwlocal/wwlocal_2.4.70101_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/chat/wwlocal/wwlocal_2.4.70101_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/chat/wwlocal/wwlocal_2.4.70101_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,163 @@
+[
+{
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.163.music.spark_3.0.1.202031spark12_all.deb",
+    "More": "网易云音乐pc客户端 \n\n更新说明： \n尝试修复Gnome和deepin 23下的启动问题",
+    "Name": "网易云音乐（wine）",
+    "Pkgname": "com.163.music.spark",
+    "Size": "172 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.163.music.spark_3.0.1.202031spark12_all.deb.torrent",
+    "Update": "2024-05-07 10:50:56",
+    "Version": "3.0.1.202031spark12",
+    "Website": "https://music.163.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/music/com.163.music.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/music/com.163.music.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/music/com.163.music.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/music/com.163.music.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "lyswhut <lyswhut@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "lx-music-desktop_2.1.2_arm64.deb",
+    "More": "一个基于electron的音乐软件，全网搜音乐",
+    "Name": "洛雪音乐助手",
+    "Pkgname": "lx-music-desktop",
+    "Size": "70 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "lx-music-desktop_2.1.2_arm64.deb.torrent",
+    "Update": "2023-04-29 07:38:20",
+    "Version": "2.1.2",
+    "Website": "https://github.com/lyswhut/lx-music-desktop#readme",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/music/lx-music-desktop/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/music/lx-music-desktop/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/music/lx-music-desktop/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/music/lx-music-desktop/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/music/lx-music-desktop/screen_4.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/music/lx-music-desktop/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "qier222 <qier222@outlook.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "yesplaymusic_0.4.7_arm64.deb",
+    "More": "高颜值的第三方网易云播放器",
+    "Name": "Yesplaymusic（第三方网易云音乐）",
+    "Pkgname": "yesplaymusic",
+    "Size": "65 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "yesplaymusic_0.4.7_arm64.deb.torrent",
+    "Update": "2023-03-05 20:58:54",
+    "Version": "0.4.7",
+    "Website": "https://github.com/qier222/YesPlayMusic",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/music/yesplaymusic/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/music/yesplaymusic/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/music/yesplaymusic/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/music/yesplaymusic/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/music/yesplaymusic/screen_4.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/music/yesplaymusic/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "sonichy",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.hty.kugou_2.0_arm64.deb",
+    "More": "酷狗海天鹰版，实现部分主要功能。",
+    "Name": "酷狗",
+    "Pkgname": "com.hty.kugou",
+    "Size": "61 Kb",
+    "Tags": "deepin",
+    "Torrent_address": "com.hty.kugou_2.0_arm64.deb.torrent",
+    "Update": "2023-03-05 19:24:56",
+    "Version": "2.0",
+    "Website": "https://github.com/sonichy/KuGou",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/music/com.hty.kugou/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/music/com.hty.kugou/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/music/com.hty.kugou/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/music/com.hty.kugou/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "zty199 <zty2864@gmail.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.qq.y.spark_19.35.0spark3_all.deb",
+    "More": "Tencent QQMusic Client on Deepin Wine 6.\\\\n原始容器来自 gorquan 大佬，后模仿官方商店版本打包\\\\n相比于官方商店版本去除了独立的 deepin-wine6-stable 运行环境。\n不载卡顿，不再当机",
+    "Name": "QQ音乐（wine）",
+    "Pkgname": "com.qq.y.spark",
+    "Size": "124 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.qq.y.spark_19.35.0spark3_all.deb.torrent",
+    "Update": "2023-12-11 22:35:09",
+    "Version": "19.35.0spark3",
+    "Website": "http://y.qq.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/music/com.qq.y.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/music/com.qq.y.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/com.qq.y.spark/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.kugou.spark_10.2.46spark7_all.deb",
+    "More": "就是歌多 大有不同 \n\n更新说明：\n1.基于deepin-wine6打包，已知问题：播放MV只有声音、无画面\n2.修复了应用窗口缩放后无法调整的问题",
+    "Name": "酷狗音乐（wine）",
+    "Pkgname": "com.kugou.spark",
+    "Size": "141 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.kugou.spark_10.2.46spark7_all.deb.torrent",
+    "Update": "2024-03-23 22:31:38",
+    "Version": "10.2.46spark7",
+    "Website": "https://www.kugou.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/music/com.kugou.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/music/com.kugou.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/com.kugou.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/com.kugou.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "spark-store",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "io.mstream_5.11.4_arm64.deb",
+    "More": "想要一个自己搭建的类似网易云音乐的音乐平台吗？用mStream就可以啦！",
+    "Name": "mStream 搭建你自己的音乐流媒体",
+    "Pkgname": "io.mstream",
+    "Size": "82 Mb",
+    "Tags": "community;deepin;uos;ubuntu;a2d",
+    "Torrent_address": "io.mstream_5.11.4_arm64.deb.torrent",
+    "Update": "2023-08-08 13:40:33",
+    "Version": "5.11.4",
+    "Website": "https://msream.io/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/music/io.mstream/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/music/io.mstream/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/music/io.mstream/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "ru.aimp.spark_5.30.2530spark4_all.deb",
+    "More": "一款来自俄罗斯的音乐播放软件，操作方式类似老牌MP3播放器 Winamp。但是它却有比 Winamp 更多以及更好用的功能，而且完全是免费软件\n\n说明：在deepin下窗口最大化后会出现闪屏现象，但不影响操作；Ubuntu下则正常",
+    "Name": "AIMP",
+    "Pkgname": "ru.aimp.spark",
+    "Size": "41 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "ru.aimp.spark_5.30.2530spark4_all.deb.torrent",
+    "Update": "2024-03-23 19:58:38",
+    "Version": "5.30.2530spark4",
+    "Website": "http://www.aimp.ru/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/music/ru.aimp.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/music/ru.aimp.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/ru.aimp.spark/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "-",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "utau-spark-wine_5_all.deb",
+    "More": "utau",
+    "Name": "UTAU(Wine)",
+    "Pkgname": "utau-spark-wine",
+    "Size": "101 Mb",
+    "Tags": "deepin;ubuntu;dwine5",
+    "Torrent_address": "utau-spark-wine_5_all.deb.torrent",
+    "Update": "2024-02-20 08:42:56",
+    "Version": "5",
+    "Website": "http://utau2008.xrea.jp/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/music/utau-spark-wine/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/music/utau-spark-wine/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/utau-spark-wine/screen_2.png\"]"
+}
+
+]

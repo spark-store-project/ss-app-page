@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.librepcb_0.1.6_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b0a97f1a2de6d84062200e6530f342ab</hash>
+				  
+				<hash type="sha1">417998ba85332bd5aba5aca7907259759da4479f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/org.librepcb/org.librepcb_0.1.6_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/org.librepcb/org.librepcb_0.1.6_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/org.librepcb/org.librepcb_0.1.6_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/org.librepcb/org.librepcb_0.1.6_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/org.librepcb/org.librepcb_0.1.6_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/org.librepcb/org.librepcb_0.1.6_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

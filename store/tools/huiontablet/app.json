@@ -1,0 +1,16 @@
+{
+    "Name": "HuionTablet（绘王数位板驱动，添加libm.so.6版）",
+    "Version": "15.0.0.131.1",
+    "Filename": "huiontablet_15.0.0.131.1_amd64.deb",
+    "Torrent_address": "huiontablet_15.0.0.131.1_amd64.deb.torrent",
+    "Pkgname": "huiontablet",
+    "Author": "Huion",
+    "Contributor": "nexfia",
+    "Website": "918934612@qq.com",
+    "Update": "2024-01-12 01:00:30",
+    "Size": "27.24 MB",
+    "More": "HuionTablet 是绘王官方推出的数位板驱动程序，支持设置数位屏的工作区域、快捷键功能、压感测试、校准等功能。\n改动： \nHuionTablet 15.0.0.131需要的glic版本为2.29 在/usr/lib/huiontablet/libs添加v23 bate中的高版本libm.so.6以便deepin 20.9正常运行\n包名规则：改包后版本号后面加了.1",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/b661b030-b0a2-11ee-9861-e903bb217cd5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/b79b1a90-b0a2-11ee-9861-e903bb217cd5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/b997fc00-b0a2-11ee-9861-e903bb217cd5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/12/b6602990-b0a2-11ee-9861-e903bb217cd5.png"
+}

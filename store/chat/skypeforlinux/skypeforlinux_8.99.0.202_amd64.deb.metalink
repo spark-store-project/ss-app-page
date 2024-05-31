@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="skypeforlinux_8.99.0.202_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e6a2e31d5a4be830b01a455668078c85</hash>
+				  
+				<hash type="sha1">874e8d45fa5d810db57c2e502119af8465f29ea5</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/chat/skypeforlinux/skypeforlinux_8.99.0.202_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/chat/skypeforlinux/skypeforlinux_8.99.0.202_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/chat/skypeforlinux/skypeforlinux_8.99.0.202_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/chat/skypeforlinux/skypeforlinux_8.99.0.202_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/chat/skypeforlinux/skypeforlinux_8.99.0.202_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/chat/skypeforlinux/skypeforlinux_8.99.0.202_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

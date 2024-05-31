@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.apowersoft.apowermanager_1.0.0-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1a48d7e86c094ecad07e677d380e5cef</hash>
+				  
+				<hash type="sha1">f10af1b3538a4115229de473b01ab0569477c1d2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/com.apowersoft.apowermanager/com.apowersoft.apowermanager_1.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/com.apowersoft.apowermanager/com.apowersoft.apowermanager_1.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/com.apowersoft.apowermanager/com.apowersoft.apowermanager_1.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/com.apowersoft.apowermanager/com.apowersoft.apowermanager_1.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/com.apowersoft.apowermanager/com.apowersoft.apowermanager_1.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/com.apowersoft.apowermanager/com.apowersoft.apowermanager_1.0.0-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

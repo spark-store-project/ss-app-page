@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="top.yzzi.wallpaper_0.3beta_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b232776db995c13ba2c9f86924e9b135</hash>
+				  
+				<hash type="sha1">13335ec2bffb2a20705c8837f5fed6371b06af9c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/themes/top.yzzi.wallpaper/top.yzzi.wallpaper_0.3beta_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/themes/top.yzzi.wallpaper/top.yzzi.wallpaper_0.3beta_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/themes/top.yzzi.wallpaper/top.yzzi.wallpaper_0.3beta_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/themes/top.yzzi.wallpaper/top.yzzi.wallpaper_0.3beta_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/themes/top.yzzi.wallpaper/top.yzzi.wallpaper_0.3beta_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/themes/top.yzzi.wallpaper/top.yzzi.wallpaper_0.3beta_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

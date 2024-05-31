@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.github.crypter.spark_4.0.0spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">494a6535f434a26b331fe9ca82bd6d42</hash>
+				  
+				<hash type="sha1">1020750efcc0d11f9abc1b945023ff60f10e51f4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/com.github.crypter.spark/com.github.crypter.spark_4.0.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/com.github.crypter.spark/com.github.crypter.spark_4.0.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/com.github.crypter.spark/com.github.crypter.spark_4.0.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/com.github.crypter.spark/com.github.crypter.spark_4.0.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/com.github.crypter.spark/com.github.crypter.spark_4.0.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/com.github.crypter.spark/com.github.crypter.spark_4.0.0spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

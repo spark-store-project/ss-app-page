@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="calmly-writer_2.0.36_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">879cf6697cb2483d7643231e31f9c89d</hash>
+				  
+				<hash type="sha1">5c22cb412d0c39109637a77149870bb7c01c6672</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/calmly-writer/calmly-writer_2.0.36_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/calmly-writer/calmly-writer_2.0.36_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/calmly-writer/calmly-writer_2.0.36_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/calmly-writer/calmly-writer_2.0.36_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/calmly-writer/calmly-writer_2.0.36_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/calmly-writer/calmly-writer_2.0.36_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

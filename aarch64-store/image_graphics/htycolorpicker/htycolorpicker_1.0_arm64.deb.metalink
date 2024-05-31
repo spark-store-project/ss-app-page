@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="htycolorpicker_1.0_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">115c63328a6d4460ab7a064ad8b395ca</hash>
+				  
+				<hash type="sha1">1760885eb4b272de4d8ece114969ae503a2aecc6</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/htycolorpicker/htycolorpicker_1.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/image_graphics/htycolorpicker/htycolorpicker_1.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/image_graphics/htycolorpicker/htycolorpicker_1.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/image_graphics/htycolorpicker/htycolorpicker_1.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/image_graphics/htycolorpicker/htycolorpicker_1.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/image_graphics/htycolorpicker/htycolorpicker_1.0_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

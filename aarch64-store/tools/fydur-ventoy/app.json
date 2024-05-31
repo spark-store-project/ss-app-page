@@ -1,0 +1,16 @@
+{
+    "Name": "Ventoy",
+    "Version": "1.0.88",
+    "Filename": "fydur-ventoy_1.0.88_all.deb",
+    "Torrent_address": "fydur-ventoy_1.0.88_all.deb.torrent",
+    "Pkgname": "fydur-ventoy",
+    "Author": "fyljp <fyljp@foxmail.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://github.com/ventoy/Ventoy/",
+    "Update": "2023-03-03 20:48:10",
+    "Size": "17.74 MB",
+    "More": "新一代多系统启动U盘解决方案\n Ventoy是一个制作可启动U盘的开源工具。有了Ventoy你就无需反复地格式化介质，你只需要把ISO档案COPY到介质里面就可以启动了，无需其他操作。 你可以一次性COPY很多个不同类型的ISO档案，在启动时Ventoy会显示一个菜单来选择(截图)。 无差异支持Legacy BIOS和UEFI模式。目前已经测试了各类超过200+ 个ISO文件(列表). 同时提出了\"Ventoy Compatible\"的概念，若被支持则理论上可以启动任何ISO档案.(暂不支持黑苹果)",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/5777a925f8e24a4ab912469fa73b346c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/503456c2a6674c70b5fe3b6bb3ae7952.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/03/285c584718424983b868633a7826d4e3.png"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="io.github.virejdasani.responsivize.spark_3.0.0spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a555253df026555e5c1c4325c523ea29</hash>
+				  
+				<hash type="sha1">face18b8817346385e2222d8da1c99534940fb3c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/io.github.virejdasani.responsivize.spark/io.github.virejdasani.responsivize.spark_3.0.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/io.github.virejdasani.responsivize.spark/io.github.virejdasani.responsivize.spark_3.0.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/io.github.virejdasani.responsivize.spark/io.github.virejdasani.responsivize.spark_3.0.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/io.github.virejdasani.responsivize.spark/io.github.virejdasani.responsivize.spark_3.0.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/io.github.virejdasani.responsivize.spark/io.github.virejdasani.responsivize.spark_3.0.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/io.github.virejdasani.responsivize.spark/io.github.virejdasani.responsivize.spark_3.0.0spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

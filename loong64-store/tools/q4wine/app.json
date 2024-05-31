@@ -1,0 +1,16 @@
+{
+    "Author": "Boris Pek <tehnick@debian.org>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "q4wine_1.3.11-1.1_loong64.deb",
+    "More": "Q4Wine will help you manage wine prefixes and installed applications.\n .\n General features:\n  - Can export Qt color theme into wine colors settings.\n  - Can easy work with different wine versions at same time.\n  - Easy creating, deleting and managing prefixes (WINEPREFIX).\n  - Easy controlling for wine process.\n  - Easy installer wizard for wine applications.\n  - Autostart icons support.\n  - Easy CD-image use.\n  - You can extract icons from PE files (.exe .dll).\n  - Easy backup and restore for managed prefixes.\n  - Winetricks support.\n  - And more...",
+    "Name": "Q4Wine",
+    "Pkgname": "q4wine",
+    "Size": "3040 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "q4wine_1.3.11-1.1_loong64.deb.torrent",
+    "Update": "2024-03-24 13:11:59",
+    "Version": "1.3.11-1.1",
+    "Website": "https://web.archive.org/web/http://q4wine.brezblock.org.ua/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/q4wine/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/q4wine/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/q4wine/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/q4wine/screen_3.png\"]"
+}

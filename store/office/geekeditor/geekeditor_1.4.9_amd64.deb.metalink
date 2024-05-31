@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="geekeditor_1.4.9_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">588285d9e1f6bacd2f0dbb22a944bcd7</hash>
+				  
+				<hash type="sha1">8585ddc8bb1565daa4be554bd25c2eed961e9913</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/geekeditor/geekeditor_1.4.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/geekeditor/geekeditor_1.4.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/geekeditor/geekeditor_1.4.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/geekeditor/geekeditor_1.4.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/geekeditor/geekeditor_1.4.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/geekeditor/geekeditor_1.4.9_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

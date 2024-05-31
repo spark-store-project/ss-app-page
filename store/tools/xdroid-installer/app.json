@@ -1,0 +1,16 @@
+{
+    "Name": "麟卓卓懿XDroid移动应用兼容运行环境",
+    "Version": "9.0.15",
+    "Filename": "xdroid-installer_9.0.15_amd64.deb",
+    "Torrent_address": "xdroid-installer_9.0.15_amd64.deb.torrent",
+    "Pkgname": "xdroid-installer",
+    "Author": "way<way610@126.com>",
+    "Contributor": "WAYYYAW <way610@126.com>",
+    "Website": "https://www.linzhuotech.com/Product/download",
+    "Update": "2022-11-30 06:20:53",
+    "Size": "75.65 KB",
+    "More": "linux怎么运行手机软件？商店里竟然没有一款这样的软件！这不可接受！\n索性将国产之光 XDroid （麟卓卓懿）打包放在商店。\n-本包为下载安装器，安装后将创建应用图标，点击图标即可下载并安装。（若图标出现问题，可手动运行/opt/xdroid-installer/install.sh)。(注意，本安装器提供wget安装包9.0安装）。\n-卸载（移除安装器）：运行 /opt/xdroid-installer/remove.sh 及 dpkg -r xdroid-installer 即可；\n-卸载（卸载XDroid）：运行 /opt/xdroid/uninstall 即可",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/30/cceec172-ea2a-4654-b43e-9d1c13b87a7c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/30/14925e3a-8a41-4740-aa33-adb158238495.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/30/666878da-47f0-4cdf-abc2-14268222e3f3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/30/244fc260-f198-41ab-b9e4-e871d834753a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/30/c0ada81d-2225-485c-910d-56c501546f2f.png"
+}

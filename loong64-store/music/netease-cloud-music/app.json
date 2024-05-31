@@ -1,0 +1,16 @@
+{
+    "Author": "懵仙兔兔 <acgm@qq.com>",
+    "Contributor": "懵仙兔兔 <acgm@qq.com>",
+    "Filename": "netease-cloud-music_1.2.1.1_loong64.deb",
+    "More": "懵仙兔兔修改版的网易云音乐官方客户端\n- 1.修复了无法在线播放sq音乐(flac格式音乐)的问题\n- 2.彻底修复了在 Debian、Ubuntu、Deepin等缺少动态库以至于不能正常运行\n- 3.修复 NSS 初始化失败的问题\n- 4.修复无法使用 fcitx 或 fcitx5 的问题\n- 5.修复 wayland 不能中文输入的问题\n- 5.删除 gtk 或 gdk 及其依赖项，使用系统内建\n- 6.修复 VLC RCE CVE-2019-13962，删除 VLC 及其插件和依赖项，使用系统内建\n- 7.删除不需要的动态库及其依赖项，以缩小体积\n\n注：2023年5月起，仅首页的个性化推荐api失效，其余功能都正常（不能直接密码登陆）\n\n兼容性测试：\ndebian testing：正常\ndebian 12：正常\nubuntu 22.04：正常\ndeepin 23b2：正常\ndeepin 20.9：正常",
+    "Name": "网易云音乐(ACE x86)",
+    "Pkgname": "netease-cloud-music",
+    "Size": "66 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "netease-cloud-music_1.2.1.1_loong64.deb.torrent",
+    "Update": "2024-04-03 01:10:50",
+    "Version": "1.2.1.1",
+    "Website": "https://gitee.com/amber-ce",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/music/netease-cloud-music/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/music/netease-cloud-music/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/netease-cloud-music/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/netease-cloud-music/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/netease-cloud-music/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/netease-cloud-music/screen_5.png\"]"
+}

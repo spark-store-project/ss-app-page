@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="exagear-integration_2870_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">db6be3070a291b41647d98c49c8690ca</hash>
+				  
+				<hash type="sha1">025577cc148bd0aa45c6f53d2cb6cb134f01a295</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/depends/deepin-wine6-stable/exagear-integration_2870_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/depends/deepin-wine6-stable/exagear-integration_2870_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/depends/deepin-wine6-stable/exagear-integration_2870_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/depends/deepin-wine6-stable/exagear-integration_2870_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/depends/deepin-wine6-stable/exagear-integration_2870_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/depends/deepin-wine6-stable/exagear-integration_2870_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

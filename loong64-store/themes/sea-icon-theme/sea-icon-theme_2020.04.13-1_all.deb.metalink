@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="sea-icon-theme_2020.04.13-1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">6779a22fc463aa90f3169c9ce98b7d2c</hash>
+				  
+				<hash type="sha1">fd45389fbf03e09f41040bd2d1e5a5e78aad9639</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/themes/sea-icon-theme/sea-icon-theme_2020.04.13-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/themes/sea-icon-theme/sea-icon-theme_2020.04.13-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/themes/sea-icon-theme/sea-icon-theme_2020.04.13-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/themes/sea-icon-theme/sea-icon-theme_2020.04.13-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/themes/sea-icon-theme/sea-icon-theme_2020.04.13-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/themes/sea-icon-theme/sea-icon-theme_2020.04.13-1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

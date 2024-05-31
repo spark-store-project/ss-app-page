@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="deepin-voice-recorder-spark_5.0.0-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">edff1bf85372326d0b1b8c2cbb33069d</hash>
+				  
+				<hash type="sha1">890a4c6e6a3e8cf1b3c55f95dbbdec8a42518de4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/music/deepin-voice-recorder-spark/deepin-voice-recorder-spark_5.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/music/deepin-voice-recorder-spark/deepin-voice-recorder-spark_5.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/music/deepin-voice-recorder-spark/deepin-voice-recorder-spark_5.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/music/deepin-voice-recorder-spark/deepin-voice-recorder-spark_5.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/music/deepin-voice-recorder-spark/deepin-voice-recorder-spark_5.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/music/deepin-voice-recorder-spark/deepin-voice-recorder-spark_5.0.0-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.videoproc-vlogger.spark_1.4spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">bf0063ebcaf5907d37247296c2e1ba14</hash>
+				  
+				<hash type="sha1">025b2fb14275f48ee9155a046d24dd357c1656d0</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/video/com.videoproc-vlogger.spark/com.videoproc-vlogger.spark_1.4spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/video/com.videoproc-vlogger.spark/com.videoproc-vlogger.spark_1.4spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/video/com.videoproc-vlogger.spark/com.videoproc-vlogger.spark_1.4spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/video/com.videoproc-vlogger.spark/com.videoproc-vlogger.spark_1.4spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/video/com.videoproc-vlogger.spark/com.videoproc-vlogger.spark_1.4spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/video/com.videoproc-vlogger.spark/com.videoproc-vlogger.spark_1.4spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

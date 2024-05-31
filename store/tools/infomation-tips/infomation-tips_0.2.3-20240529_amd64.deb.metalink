@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="infomation-tips_0.2.3-20240529_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1c465df29031dd1cba3bdd19a406c249</hash>
+				  
+				<hash type="sha1">8a7c6d88c2c0c3119905ba499bbb356b6091d61c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/infomation-tips/infomation-tips_0.2.3-20240529_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/infomation-tips/infomation-tips_0.2.3-20240529_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/infomation-tips/infomation-tips_0.2.3-20240529_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/infomation-tips/infomation-tips_0.2.3-20240529_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/infomation-tips/infomation-tips_0.2.3-20240529_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/infomation-tips/infomation-tips_0.2.3-20240529_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

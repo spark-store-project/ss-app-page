@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="jetbrains-pycharm-professional_2024.1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">79a874e92964c565eb9611ba448c35ec</hash>
+				  
+				<hash type="sha1">ada6bb5dbaf78dec2d17be49a6b939d2dd1fe0fb</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/jetbrains-pycharm-professional/jetbrains-pycharm-professional_2024.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/jetbrains-pycharm-professional/jetbrains-pycharm-professional_2024.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/jetbrains-pycharm-professional/jetbrains-pycharm-professional_2024.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/jetbrains-pycharm-professional/jetbrains-pycharm-professional_2024.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/jetbrains-pycharm-professional/jetbrains-pycharm-professional_2024.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/jetbrains-pycharm-professional/jetbrains-pycharm-professional_2024.1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

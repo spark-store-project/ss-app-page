@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="font-drop-preview_0.2-20231207_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">29cda92863b2b3dc5c0e07b29895839a</hash>
+				  
+				<hash type="sha1">7e08315b24727266696deb2b2599e85e0e96fd4a</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/font-drop-preview/font-drop-preview_0.2-20231207_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/font-drop-preview/font-drop-preview_0.2-20231207_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/font-drop-preview/font-drop-preview_0.2-20231207_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/font-drop-preview/font-drop-preview_0.2-20231207_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/font-drop-preview/font-drop-preview_0.2-20231207_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/font-drop-preview/font-drop-preview_0.2-20231207_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

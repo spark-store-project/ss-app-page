@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="tts-vue.spark_1.9.15_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">cf19b273c1e87bc5a5df013c491fe905</hash>
+				  
+				<hash type="sha1">85d01b6c737f81f5e5437cd4b1be7307abcff9f0</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/music/tts-vue.spark/tts-vue.spark_1.9.15_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/music/tts-vue.spark/tts-vue.spark_1.9.15_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/music/tts-vue.spark/tts-vue.spark_1.9.15_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/music/tts-vue.spark/tts-vue.spark_1.9.15_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/music/tts-vue.spark/tts-vue.spark_1.9.15_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/music/tts-vue.spark/tts-vue.spark_1.9.15_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

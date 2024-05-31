@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.sugarcane.cemu_1.26.2f_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">d013341dc2641cb081b7cbb4e1802938</hash>
+				  
+				<hash type="sha1">858faa11520a5d1b6336e05d8c2e098557784294</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.sugarcane.cemu/com.sugarcane.cemu_1.26.2f_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.sugarcane.cemu/com.sugarcane.cemu_1.26.2f_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.sugarcane.cemu/com.sugarcane.cemu_1.26.2f_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.sugarcane.cemu/com.sugarcane.cemu_1.26.2f_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.sugarcane.cemu/com.sugarcane.cemu_1.26.2f_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.sugarcane.cemu/com.sugarcane.cemu_1.26.2f_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

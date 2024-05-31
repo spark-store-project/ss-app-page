@@ -1,0 +1,15 @@
+{
+    "Name": "Debreate",
+    "Version": "0.7.13",
+    "Filename": "debreate_0.7.13_all.deb",
+    "Pkgname": "debreate",
+    "Author": "AntumDeluge ",
+    "Contributor": "chaodn",
+    "Website": "https://github.com/AntumDeluge/debreate",
+    "Update": "2021-07-09 11:25:42",
+    "Size": "588.49 KB",
+    "More": "Debreate是一种帮助创建可安装Debian软件包的实用工具。目前，它只支持“二进制”打包，允许打包任何不需要从源代码编译的东西，例如脚本化应用程序或介质。这些包可以用于个人分发。\n此包依赖问题可用gdebi安装器解决。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/459678a0-e065-11eb-bbf1-5d8a70981e77.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/09/20c40c90-e065-11eb-bbf1-5d8a70981e77.png"
+}

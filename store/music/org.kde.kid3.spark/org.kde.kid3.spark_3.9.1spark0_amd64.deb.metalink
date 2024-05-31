@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.kde.kid3.spark_3.9.1spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c6a08a8463e4f82a1c285af125c90706</hash>
+				  
+				<hash type="sha1">1e22719d28245c5bf601c92b1ebd97f93b9848c8</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/music/org.kde.kid3.spark/org.kde.kid3.spark_3.9.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/music/org.kde.kid3.spark/org.kde.kid3.spark_3.9.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/music/org.kde.kid3.spark/org.kde.kid3.spark_3.9.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/music/org.kde.kid3.spark/org.kde.kid3.spark_3.9.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/music/org.kde.kid3.spark/org.kde.kid3.spark_3.9.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/music/org.kde.kid3.spark/org.kde.kid3.spark_3.9.1spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

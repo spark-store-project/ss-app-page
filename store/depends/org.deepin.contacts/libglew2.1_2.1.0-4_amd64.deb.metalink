@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libglew2.1_2.1.0-4_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e72706809e55b7b716b1aca63e934a7d</hash>
+				  
+				<hash type="sha1">b6d690150157ba4bf741c966808ea8c3b6d40259</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/org.deepin.contacts/libglew2.1_2.1.0-4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/org.deepin.contacts/libglew2.1_2.1.0-4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/org.deepin.contacts/libglew2.1_2.1.0-4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/org.deepin.contacts/libglew2.1_2.1.0-4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/org.deepin.contacts/libglew2.1_2.1.0-4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/org.deepin.contacts/libglew2.1_2.1.0-4_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

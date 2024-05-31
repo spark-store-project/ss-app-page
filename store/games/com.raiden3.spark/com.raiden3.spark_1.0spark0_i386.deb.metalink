@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.raiden3.spark_1.0spark0_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">eea29b628b30dca48657e2366cc27cca</hash>
+				  
+				<hash type="sha1">6fc09fd396149f2444a4ca4a4496122ddd7ba290</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.raiden3.spark/com.raiden3.spark_1.0spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.raiden3.spark/com.raiden3.spark_1.0spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.raiden3.spark/com.raiden3.spark_1.0spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.raiden3.spark/com.raiden3.spark_1.0spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.raiden3.spark/com.raiden3.spark_1.0spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.raiden3.spark/com.raiden3.spark_1.0spark0_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

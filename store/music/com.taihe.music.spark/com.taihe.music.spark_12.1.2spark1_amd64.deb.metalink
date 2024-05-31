@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.taihe.music.spark_12.1.2spark1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e5ad668f11eddf02b8ccd119a8475a47</hash>
+				  
+				<hash type="sha1">ad26d5c20e2121a742639a7563f2305e97a18449</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/music/com.taihe.music.spark/com.taihe.music.spark_12.1.2spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/music/com.taihe.music.spark/com.taihe.music.spark_12.1.2spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/music/com.taihe.music.spark/com.taihe.music.spark_12.1.2spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/music/com.taihe.music.spark/com.taihe.music.spark_12.1.2spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/music/com.taihe.music.spark/com.taihe.music.spark_12.1.2spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/music/com.taihe.music.spark/com.taihe.music.spark_12.1.2spark1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

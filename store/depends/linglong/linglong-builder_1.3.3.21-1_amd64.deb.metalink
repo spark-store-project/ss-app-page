@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="linglong-builder_1.3.3.21-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">cfe53a31ad879540de7ffd8c996af8c6</hash>
+				  
+				<hash type="sha1">da2d02e1371c02b8ce996a40bce4b31a9a913a03</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/linglong/linglong-builder_1.3.3.21-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/linglong/linglong-builder_1.3.3.21-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/linglong/linglong-builder_1.3.3.21-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/linglong/linglong-builder_1.3.3.21-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/linglong/linglong-builder_1.3.3.21-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/linglong/linglong-builder_1.3.3.21-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

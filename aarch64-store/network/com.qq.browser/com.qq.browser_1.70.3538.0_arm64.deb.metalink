@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.qq.browser_1.70.3538.0_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e4748ba52ea0ba17a460129fce85c2f6</hash>
+				  
+				<hash type="sha1">7112996b6e3589bf0cc04f189b9d141232b0391f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.qq.browser/com.qq.browser_1.70.3538.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/network/com.qq.browser/com.qq.browser_1.70.3538.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/network/com.qq.browser/com.qq.browser_1.70.3538.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/network/com.qq.browser/com.qq.browser_1.70.3538.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/network/com.qq.browser/com.qq.browser_1.70.3538.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/network/com.qq.browser/com.qq.browser_1.70.3538.0_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

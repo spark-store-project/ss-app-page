@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libssl1.1_1.1.1q-1_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f3d731229c2d5468f80efe8a5d8c1083</hash>
+				  
+				<hash type="sha1">c94fbbf3b3f11fbe89ecf2484a4266f4da6002b3</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/depends/libssl1.1/libssl1.1_1.1.1q-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/depends/libssl1.1/libssl1.1_1.1.1q-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/depends/libssl1.1/libssl1.1_1.1.1q-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/depends/libssl1.1/libssl1.1_1.1.1q-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/depends/libssl1.1/libssl1.1_1.1.1q-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/depends/libssl1.1/libssl1.1_1.1.1q-1_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

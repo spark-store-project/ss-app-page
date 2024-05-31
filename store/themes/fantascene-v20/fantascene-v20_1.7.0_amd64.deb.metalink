@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="fantascene-v20_1.7.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ef0d86aeacd591e38fe20291c8c35f24</hash>
+				  
+				<hash type="sha1">6b2f16eb293411381e8ac1ab2c9f217ed752d2a4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/themes/fantascene-v20/fantascene-v20_1.7.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/themes/fantascene-v20/fantascene-v20_1.7.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/themes/fantascene-v20/fantascene-v20_1.7.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/themes/fantascene-v20/fantascene-v20_1.7.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/themes/fantascene-v20/fantascene-v20_1.7.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/themes/fantascene-v20/fantascene-v20_1.7.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

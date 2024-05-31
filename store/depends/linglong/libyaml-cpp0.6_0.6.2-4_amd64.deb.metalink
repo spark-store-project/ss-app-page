@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libyaml-cpp0.6_0.6.2-4_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f057a3dd2b39b3c7bb47123b66fb3366</hash>
+				  
+				<hash type="sha1">9c8413afb2d601a6f6fea869d860eae875b29c05</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/linglong/libyaml-cpp0.6_0.6.2-4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/linglong/libyaml-cpp0.6_0.6.2-4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/linglong/libyaml-cpp0.6_0.6.2-4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/linglong/libyaml-cpp0.6_0.6.2-4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/linglong/libyaml-cpp0.6_0.6.2-4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/linglong/libyaml-cpp0.6_0.6.2-4_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

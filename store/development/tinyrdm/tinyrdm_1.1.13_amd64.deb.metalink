@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="tinyrdm_1.1.13_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">39bb49fcdb103a8f64ba2dd1220cce14</hash>
+				  
+				<hash type="sha1">5a7cd0fdbcb0874b04ba9f40ceaf71828be2d268</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/tinyrdm/tinyrdm_1.1.13_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/tinyrdm/tinyrdm_1.1.13_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/tinyrdm/tinyrdm_1.1.13_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/tinyrdm/tinyrdm_1.1.13_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/tinyrdm/tinyrdm_1.1.13_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/tinyrdm/tinyrdm_1.1.13_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

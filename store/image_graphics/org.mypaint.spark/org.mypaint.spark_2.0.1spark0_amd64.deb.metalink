@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.mypaint.spark_2.0.1spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">2b2680592acd733945affc6f9142c2bd</hash>
+				  
+				<hash type="sha1">2d009926d32d6371b9c5a88169e17369fe66a05b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/org.mypaint.spark/org.mypaint.spark_2.0.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/org.mypaint.spark/org.mypaint.spark_2.0.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/org.mypaint.spark/org.mypaint.spark_2.0.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/org.mypaint.spark/org.mypaint.spark_2.0.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/org.mypaint.spark/org.mypaint.spark_2.0.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/org.mypaint.spark/org.mypaint.spark_2.0.1spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

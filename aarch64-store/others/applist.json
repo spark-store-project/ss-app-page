@@ -1,0 +1,506 @@
+[
+{
+    "Name": "微软核心字体",
+    "Version": "1.0-1",
+    "Filename": "ms-core-fonts_1.0-1_all.deb",
+    "Torrent_address": "ms-core-fonts_1.0-1_all.deb.torrent",
+    "Pkgname": "ms-core-fonts",
+    "Author": "shenmo <jifengshenmo@outlook.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.microsoft.com/zh-cn",
+    "Update": "2023-05-26 13:56:08",
+    "Size": "16.72 MB",
+    "More": "微软核心字体包，WPS官网版以及商店部分Wine应用需要使用。\n修复：修改架构为all",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/26/59c030715cce4e5abcb3d12f7f9e6bd2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/26/4072989327124b27aae6f5a12a49f3d4.png"
+}
+,
+{
+    "Name": "WPS Office缺失字体",
+    "Version": "1.0",
+    "Filename": "wps-office-fonts_1.0_all.deb",
+    "Torrent_address": "wps-office-fonts_1.0_all.deb.torrent",
+    "Pkgname": "wps-office-fonts",
+    "Author": "kingsoft",
+    "Contributor": "QQ482961502@gmail.com",
+    "Website": "https://linux.wps.cn/",
+    "Update": "2022-04-29 11:37:33",
+    "Size": "69.32 MB",
+    "More": "Ubuntu安装WPS可能会缺少系统字体，但是在WPS安装包的control文件里面并没有添加该依赖。导致部分bantu用户WPS中文显示不正常。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/29/aa3bc810-c76d-11ec-8c37-676455f05cc7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/29/b2fb7770-c76d-11ec-8c37-676455f05cc7.png"
+}
+,
+{
+    "Name": "Win字体",
+    "Version": "1.3",
+    "Filename": "winfonts_1.3_all.deb",
+    "Pkgname": "winfonts",
+    "Author": "雨恋凡尘",
+    "Contributor": "kite",
+    "Website": "https://bbs.deepin.org/zh/post/210103",
+    "Update": "2021-05-22 12:13:34",
+    "Size": "372.93 MB",
+    "More": "一名搬运工，作者是【雨恋凡尘】，在【https://bbs.deepin.org/zh/post/210103】",
+    "Tags": "deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/22/121a5f90-bab4-11eb-81be-5763c283e55b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/22/d02eb8c0-bab2-11eb-81be-5763c283e55b.png"
+}
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-dstore-patch_1.4_all.deb",
+    "More": "用于处理统信标准的软件，可以正确生成desktop文件\n更快，更好的tool!",
+    "Name": "星火深度商店补丁",
+    "Pkgname": "spark-dstore-patch",
+    "Size": "2 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "spark-dstore-patch_1.4_all.deb.torrent",
+    "Update": "2024-04-17 16:55:34",
+    "Version": "1.4",
+    "Website": "https://gitee.com/spark-community-works-collections/spark-dstore-patch",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/others/spark-dstore-patch/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/others/spark-dstore-patch/screen_1.png\"]"
+}
+
+,
+{
+    "Name": "HarmonyOS sans",
+    "Version": "1.0.0",
+    "Filename": "fonts-harmonyos-sans-cn_1.0.0_all.deb",
+    "Torrent_address": "fonts-harmonyos-sans-cn_1.0.0_all.deb.torrent",
+    "Pkgname": "fonts-harmonyos-sans-cn",
+    "Author": "uniartisan <lizhiyuan@uniartisan.com>",
+    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
+    "Website": "https://developer.harmonyos.com/cn/design/resource",
+    "Update": "2023-02-28 15:29:44",
+    "Size": "28.59 MB",
+    "More": "Harmony Sans Software (Copyright 2022 Huawei Device Co., Ltd.) is licensed under\n Harmony Sans Copyright License Agreement.",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/28/0531946bb4524750970cba2b6b9b96d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/28/096c401a16ae4201af7847615c9fde3a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/28/8e01dfee195a4451800dc6093d484aae.png"
+}
+,
+{
+    "Name": "荣耀字体 HONOR Sans CN 简体中文版",
+    "Version": "1.02-3",
+    "Filename": "fonts-honor-sans-cn_1.02-3_all.deb",
+    "Torrent_address": "fonts-honor-sans-cn_1.02-3_all.deb.torrent",
+    "Pkgname": "fonts-honor-sans-cn",
+    "Author": "Careone <emacslocale@126.com>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://developer.hihonor.com/cn/kitdoc?category=standard&kitId=11101&navigation=guides&docId=.%2F04.layout_adaptation.md",
+    "Update": "2023-01-21 22:39:41",
+    "Size": "15.15 MB",
+    "More": "deb 来源：https://bbs.deepin.org/post/247323\n HONOR Sans Software (Copyright 2022 Honor Device Co., Ltd.) is licensed under\n HONOR Sans Copyright License Agreement.\n .\n  * 字体 TTF 族名: HONOR Sans CN\n  * 收录字形：共28678个。\n  * 同时支持简体、繁体中文、生僻汉字，以及多种图形符号。\n  * ---\n  * 设计者: 北京北大方正电子有限公司\n  * 制造者: 北京北大方正电子有限公司\n  * 字体授权协议: HONOR Sans Copyright License Agreement\n  * Copyright 2022 荣耀终端有限公司 Honor Device Co., Ltd\n .\n 荣耀字体 (HONOR Sans) 目前提供了多个系列，包括: CN (简体中文)、\n TC (繁体中文)、Arabic (阿拉伯语)、英文 (HONOR Sans)，各支持9种字重。\n 说明：本软件包只收录“CN 简体中文版”的3款字重：\n Light (细体), Regular (常规), Bold (粗体) 。\n  * PostScript 字体名: HONORSansCN-Light, HONORSansCN-Regular, HONORSansCN-Bold\n 更多字重，请到荣耀官方渠道下载。",
+    "Tags": "deepin;uos;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/21/fa2182ccca2a464e89b9c5b7d1853f75.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/21/99f5b599edfb4e09b37bed689819420d.png"
+}
+,
+{
+    "Author": "Felix Rieseberg, felix@felixrieseberg.com",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "windows95_3.1.1_arm64.deb",
+    "More": "基于 Electron 运行的 Windows 95 操作系统。支持 macOS，Linux 以及 Windows 平台。",
+    "Name": "Windows 95",
+    "Pkgname": "windows95",
+    "Size": "250 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "windows95_3.1.1_arm64.deb.torrent",
+    "Update": "2023-03-06 20:27:30",
+    "Version": "3.1.1",
+    "Website": "https://github.com/felixrieseberg/windows95/releases",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/others/windows95/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/windows95/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "uos-recommend-fonts-part2_1.0_all.deb",
+    "More": "原 UOS 家庭版安装福利的字体，现打包成 deb",
+    "Name": "UOS 推荐字体集 2",
+    "Pkgname": "uos-recommend-fonts-part2",
+    "Size": "219 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "uos-recommend-fonts-part2_1.0_all.deb.torrent",
+    "Update": "2023-03-05 18:44:03",
+    "Version": "1.0",
+    "Website": "https://home.uniontech.com/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/others/uos-recommend-fonts-part2/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/uos-recommend-fonts-part2/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "uos-recommend-fonts-part1_1.0_all.deb",
+    "More": "原 UOS 家庭版安装福利的字体，现打包成 deb\n（包 1/共2）",
+    "Name": "UOS 推荐字体集 1",
+    "Pkgname": "uos-recommend-fonts-part1",
+    "Size": "776 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "uos-recommend-fonts-part1_1.0_all.deb.torrent",
+    "Update": "2023-03-06 19:39:34",
+    "Version": "1.0",
+    "Website": "https://home.uniontech.com/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/others/uos-recommend-fonts-part1/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/uos-recommend-fonts-part1/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "Debian Games Team <pkg-games-devel@lists.alioth.debian.org>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "playonlinux_4.3.4-1_all.deb",
+    "More": "It permits you to install Windows Games and softwares\n on Linux. It allows you to manage differents virtual hard drive,\n and several wine versions.\n Copyright 2011 PlayOnLinux team <contact@playonlinux.com>",
+    "Name": "PlayOnLinux",
+    "Pkgname": "playonlinux",
+    "Size": "955 Kb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "playonlinux_4.3.4-1_all.deb.torrent",
+    "Update": "2023-03-05 21:03:54",
+    "Version": "4.3.4-1",
+    "Website": "https://www.playonlinux.com/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/others/playonlinux/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/playonlinux/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/playonlinux/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/playonlinux/screen_3.png\"]"
+}
+
+,
+{
+    "Name": "字体阿里妈妈东方大楷",
+    "Version": "1.0-1",
+    "Filename": "fonts-alimama-dongfangdakai_1.0-1_all.deb",
+    "Torrent_address": "fonts-alimama-dongfangdakai_1.0-1_all.deb.torrent",
+    "Pkgname": "fonts-alimama-dongfangdakai",
+    "Author": "Careone <emacslocale@126.com>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://www.iconfont.cn/fonts/index",
+    "Update": "2023-01-21 22:31:45",
+    "Size": "3.04 MB",
+    "More": "deb 包来源：https://bbs.deepin.org/post/248908\n\n 阿里妈妈东方大楷 (Alimama DongFangDaKai)\n .\n 字体授权：阿里妈妈字体授权协议(企业、个人均可免费商用) \n .\n 字体来源 (官网): https://www.iconfont.cn/fonts/index\n .\n 阿里妈妈东方大楷是基于颜真卿的多宝塔碑算法生成并结合人力完成的一套字库，\n 机器学习到了颜体的丰腴厚重之感，在笔画的描摹上做到了传统书法的收放起伏，\n 规范了骨架、笔画，还原了书法中的落笔、转笔、藏锋、护尾等书写韵味，使整体\n 更饱满、圆融、浑厚。\n .\n 阿里妈妈东方大楷为中文简体字库，收纳的中文字符包括但不限于GB2312，共计\n 6763个汉字；英文大小写（含全角、半角、合体字等）共105个；常用标点符号共\n 175个，总计7043个字符。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/21/d3dcd1b8a184428088c0886f215d881a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/21/e1d4162b8629411a99e001611adfa63d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/21/b957d3d6376245a29958e9393189e7c1.png"
+}
+,
+{
+    "Name": "字体：标小智龙珠体(带圆点的卡通字体)",
+    "Version": "1.0-1",
+    "Filename": "fonts-cjk-cn-logosc-longzhu_1.0-1_all.deb",
+    "Torrent_address": "fonts-cjk-cn-logosc-longzhu_1.0-1_all.deb.torrent",
+    "Pkgname": "fonts-cjk-cn-logosc-longzhu",
+    "Author": "Careone <emacslocale@126.com>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://www.maoken.com/freefonts/17746.html",
+    "Update": "2023-02-06 22:00:01",
+    "Size": "2.18 MB",
+    "More": "deb 包来源：https://bbs.deepin.org/post/250691\n 标小智龙珠体 (LogoSC LongZhuTi) 是基于日本著名字体设计公司Fontworks免费开源\n 的摇滚乐 One (RocknRoll) 字体进行简体字补充的一款字体。\n .\n 字体来源:\n  * https://www.maoken.com/dragonball (猫啃网)\n  * https://www.logosc.cn/sheji/788 (“标小智”官网介绍)\n  * https://www.maoken.com/freefonts/17684.html (猫啃网)\n .\n License: SIL 1.1 Open Font License, used for commercial purposes allowed.\n .\n 字体授权协议：SIL 1.1 开源字体协议。企业、个人均可免费商用。\n .\n 关于标小智龙珠体\n .\n 原字体 RocknRoll One 开源项目地址：\n  * https://github.com/fontworks-fonts/RocknRoll\n .\n 这款字体的补简工作是由ZERO子、荆南字坊、刘鹏、时光羊、频凡、帆影Magmeta、\n 雨三、chaotawei、奈白不弍、little white dog、白日月球等(排名不分先后)一起\n 共同历经千辛万苦完成的。\n .\n 标小智龙珠体力度不同的笔触增加了动量，而圆点则营造出生动活泼的感觉。\n .\n 本字体由猫啃网与标小智联合发布！",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/f7aca295dd704cc29e8d206d97a9f086.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/06/3826a0393e4847dda284d1cfc63177e1.png"
+}
+,
+{
+    "Name": "荆南麦圆体",
+    "Version": "1.2-1",
+    "Filename": "fonts-cjk-zh-kingnam-maiyuan_1.2-1_all.deb",
+    "Torrent_address": "fonts-cjk-zh-kingnam-maiyuan_1.2-1_all.deb.torrent",
+    "Pkgname": "fonts-cjk-zh-kingnam-maiyuan",
+    "Author": "Careone <emacslocale@126.com>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://www.maoken.com/freefonts/12727.html",
+    "Update": "2023-01-21 22:47:55",
+    "Size": "4.2 MB",
+    "More": "deb 来源：https://bbs.deepin.org/post/235876\n 荆南麦圆体 (Kingnam Maiyuan)：荆南字坊出品的萌系可爱手写风格免费商用中文\n 字体 (同时支持简体/繁体中文)。\n .\n font license: SIL 1.1 Open Font License, used for commercial purposes allowed.\n  * 来源 (猫啃网): https://www.maoken.com/freefonts/12727.html\n  * 字体风格：萌系可爱手写风格\n  * 字体授权协议: SIL 1.1 开源字体许可证（注：允许免费商用）\n  * ---\n  * 字体名：荆南麦圆体 (Kingnam Maiyuan)\n  * 字体作者：荆南字坊 (中国大陆)\n  * 字体字重：1 个\n  * 收录字形：17230 个",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/21/612f2dab41c5462eaa1b65ec84f1a8a7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/21/8c3c362185374770b58b223ead851106.png"
+}
+,
+{
+    "Author": "gfdgd xi",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "spark-typeeasy_1.0_arm64.deb",
+    "More": "金山打字通，用于给刚入门 deepin 的新手有熟悉的打字练习软件，功能有残缺，没有广告",
+    "Name": "金山打字通 2008（wine）",
+    "Pkgname": "spark-typeeasy",
+    "Size": "103 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine2",
+    "Torrent_address": "spark-typeeasy_1.0_arm64.deb.torrent",
+    "Update": "2023-03-05 19:34:21",
+    "Version": "1.0",
+    "Website": "http://www.51dzt.com/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/others/spark-typeeasy/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/spark-typeeasy/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/spark-typeeasy/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/spark-typeeasy/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/spark-typeeasy/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "shenjianwei <shenjianwei@myhexin.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.51ifind_1.10.12.379.001_arm64.deb",
+    "More": "同花顺iFinD金融数据终端是同花顺公司于2010年隆重推出的在线实时金融信息终端，始终专注于整合与资本市场密切相关的信息资源，为政府、企业、中介、投资者等提供金融数据与情报服务。iFinD现已推出Lin\nuX版终端，覆盖股票、债券、基金、期货、指数、外汇等金融品种，支持行情、新闻、研报、深度资料、企业库等功能。\n为了让用户获得更好的体验！我们会持续的快速送代产品功能，增加更多特色数据和新功能，如有任何国产版终端的需求和建议，欢迎联系我们：f@myhexin.com，客服热线：952555转iFinD。",
+    "Name": "同花顺iFinD",
+    "Pkgname": "com.51ifind",
+    "Size": "149 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "com.51ifind_1.10.12.379.001_arm64.deb.torrent",
+    "Update": "2023-04-29 07:53:39",
+    "Version": "1.10.12.379.001",
+    "Website": "http://www.51ifind.com",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/others/com.51ifind/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/com.51ifind/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/com.51ifind/screen_2.png\"]"
+}
+
+,
+{
+    "Name": "NoBook 物理实验（web）",
+    "Version": "1.0",
+    "Filename": "web-wl.nobook.com_1.0_all.deb",
+    "Torrent_address": "web-wl.nobook.com_1.0_all.deb.torrent",
+    "Pkgname": "web-wl.nobook.com",
+    "Author": "NoBook",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://wl.nobook.com",
+    "Update": "2023-03-05 09:47:25",
+    "Size": "20.69 KB",
+    "More": "一款初高中物理实验模拟软件，包含了电学、力学、声学、光学等所有物理实验的仿真演示。中学物理仿真实验通过采用仿真技术，虚拟构建一个直观、可视化的实验环境，从而达到对实验现象和实验结果的虚拟仿真以及对现实实验的操作，为处于不同时间、空间的用户提供虚拟仿真的实验环境，使学习者仿佛置身其中，对仪器、设备、内容等实验项目进行互动操作和练习。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/161290c78b8145278f03d48e7ea5fce2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/05/135baa9ac9e04c7782f29d432ecd3097.png"
+}
+,
+{
+    "Author": "一只科技菌",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "top.yzzi.onecuter_1.1_arm64.deb",
+    "More": "一个可爱风格的二维码生成器",
+    "Name": "一只二维码",
+    "Pkgname": "top.yzzi.onecuter",
+    "Size": "287 Kb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "top.yzzi.onecuter_1.1_arm64.deb.torrent",
+    "Update": "2023-03-07 21:53:40",
+    "Version": "1.1",
+    "Website": "https://blog.yzzi.top",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/others/top.yzzi.onecuter/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/top.yzzi.onecuter/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/top.yzzi.onecuter/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/top.yzzi.onecuter/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/top.yzzi.onecuter/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "xiangzelong <xiangzelong@deepin.org>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "fastfetch_2.0.5-0deepin_arm64.deb",
+    "More": "fastfetch是由c语言实现的，更快的neofetch\n妈妈再也不用担心neofetch卡一下了！\n\n使用方法：终端输入fastfetch",
+    "Name": "fastfetch--更快的neofetch",
+    "Pkgname": "fastfetch",
+    "Size": "269 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "fastfetch_2.0.5-0deepin_arm64.deb.torrent",
+    "Update": "2023-09-16 12:10:36",
+    "Version": "2.0.5-0deepin",
+    "Website": "https://github.com/fastfetch-cli/fastfetch",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/others/fastfetch/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/others/fastfetch/screen_1.png\"]"
+}
+
+,
+{
+    "Name": "NoBook 化学实验（web）",
+    "Version": "1.0",
+    "Filename": "web-hx.nobook.com_1.0_all.deb",
+    "Torrent_address": "web-hx.nobook.com_1.0_all.deb.torrent",
+    "Pkgname": "web-hx.nobook.com",
+    "Author": "NoBook",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://hx.nobook.com",
+    "Update": "2023-03-05 09:52:22",
+    "Size": "16.56 KB",
+    "More": "NOBOOK虚拟实验是一款专为中小学教师与学生打造的简单实用的科学实验工具平台。\n通过多媒体手段，依托学科特色，打造富有科技感的物理、化学、生物学科虚拟仿真实验资源和应用，做到教学模式多样化，教学资源共享化，教育信息数字化。让繁琐的实验课变高效、简单。让理论知识可视化、生动化、形象化。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/abac737166244155b0126fe824cf0b64.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/05/f4c94069777d4ba4bd70ac845dd45633.png"
+}
+,
+{
+    "Name": "NoBook高中生物（web）",
+    "Version": "1.0",
+    "Filename": "web-gzsw.nobook.com_1.0_all.deb",
+    "Torrent_address": "web-gzsw.nobook.com_1.0_all.deb.torrent",
+    "Pkgname": "web-gzsw.nobook.com",
+    "Author": "NoBook",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://gzsw.nobook.com",
+    "Update": "2023-03-05 09:59:31",
+    "Size": "26.21 KB",
+    "More": "NOBOOK虚拟实验是一款专为中小学教师与学生打造的简单实用的科学实验工具平台。\n通过多媒体手段，依托学科特色，打造富有科技感的物理、化学、生物学科虚拟仿真实验资源和应用，做到教学模式多样化，教学资源共享化，教育信息数字化。让繁琐的实验课变高效、简单。让理论知识可视化、生动化、形象化。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/fdd17e5682c44888bfee39ec1ef9e459.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/05/b74711f1f34c4f4e9c3132f0f92c75d2.png"
+}
+,
+{
+    "Author": "codetokids-edu <39888411@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.codetokids.edu_1.3.1-1.1_arm64.deb",
+    "More": "编程教室构建于全球14万教师倾心打造的编程授课基础之上，累积200余个国家2千万用户的学习经验，融合全球领先的编程教学课程和计算资源，轻松实现教师教学和学生学习使用。免费向学校提供软件平台，包括Python语言课和游戏开发、网页开发等课程，多达150节课程，200个课件资源，300个实践练习和知识测评内容，实现从小学3年级到高中阶段系统性、连贯性的编程教学体系；每节课提供配套的教学课件、教案、教学视频等；每节课带有测评试题，每阶段提供综合测评，实现教学的过程性评价与综合性评价。在满足零基础编程教学开展的同时，对于进阶教学，提供在线代码练习本，实现Python基本库与Turtle库的功能；对于专业级教学及研究，为每个用户提供Anaconda科学计算环境，实现学生个性化教育学习的需求；对于需要远程教学支持的学校，提供在线双师直播教学服务，实现所有地区人工智能Python编程课程教学质量同一水平。",
+    "Name": "编程教室",
+    "Pkgname": "com.codetokids.edu",
+    "Size": "42 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "com.codetokids.edu_1.3.1-1.1_arm64.deb.torrent",
+    "Update": "2023-04-29 07:46:31",
+    "Version": "1.3.1-1.1",
+    "Website": "https://codetokids.com",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/others/com.codetokids.edu/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/com.codetokids.edu/screen_1.png\"]"
+}
+
+,
+{
+    "Name": "NoBook 小学科学（web）",
+    "Version": "1.0",
+    "Filename": "web-science.nobook.com_1.0_all.deb",
+    "Torrent_address": "web-science.nobook.com_1.0_all.deb.torrent",
+    "Pkgname": "web-science.nobook.com",
+    "Author": "NoBook",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://science.nobook.com",
+    "Update": "2023-03-05 09:54:41",
+    "Size": "43.17 KB",
+    "More": "NOBOOK虚拟实验是一款专为中小学教师与学生打造的简单实用的科学实验工具平台。\n通过多媒体手段，依托学科特色，打造富有科技感的物理、化学、生物学科虚拟仿真实验资源和应用，做到教学模式多样化，教学资源共享化，教育信息数字化。让繁琐的实验课变高效、简单。让理论知识可视化、生动化、形象化。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/305572798b904d5c8a16e958d901f11f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/05/bf50faeddb084ae8be1c2969fc7db29f.png"
+}
+,
+{
+    "Author": "Mathieu Comandon <strider@strycore.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "lutris_0.5.12_all.deb",
+    "More": "Lutris helps you install and play video games from all eras and from most\n gaming systems. By leveraging and combining existing emulators, engine\n re-implementations and compatibility layers, it gives you a central interface\n to launch all your games.",
+    "Name": "Lutris",
+    "Pkgname": "lutris",
+    "Size": "1038 Kb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "lutris_0.5.12_all.deb.torrent",
+    "Update": "2023-04-29 07:41:19",
+    "Version": "0.5.12",
+    "Website": "https://lutris.net",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/others/lutris/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/lutris/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/lutris/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/lutris/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "yanfeng.xiao <yanfeng.xiao@mythware.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.mythware.cms-student_2.7.3457-1.0.72_plus_10751uos_arm64.deb",
+    "More": "极域课堂管理系统软件最新版是一款界面精美，操作简单便捷的专业教学管理软件。极域课堂管理系统软件最新版可以实现教师机与学生机同步，通过极域课堂管理系统软件官方版可以帮助大家实时查看学生的学习情况，同时也可以帮助老师更好的与学生进行沟通。\n学生端和教师端不能同时安装",
+    "Name": "极域课堂（学生端）",
+    "Pkgname": "com.mythware.cms-student",
+    "Size": "35 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "com.mythware.cms-student_2.7.3457-1.0.72_plus_10751uos_arm64.deb.torrent",
+    "Update": "2023-03-05 19:27:39",
+    "Version": "2.7.3457-1.0.72+10751uos",
+    "Website": "www.mythware.net",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/others/com.mythware.cms-student/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/com.mythware.cms-student/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/com.mythware.cms-student/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/com.mythware.cms-student/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/com.mythware.cms-student/screen_4.png\"]"
+}
+
+,
+{
+    "Name": "CashWarden（web）",
+    "Version": "1.0spark0",
+    "Filename": "web-cashwarden_1.0spark0_all.deb",
+    "Pkgname": "web-cashwarden",
+    "Author": "CashWarden",
+    "Contributor": "sgb76",
+    "Website": "https://cashwarden.com/",
+    "Update": "2020-11-23 09:17:53",
+    "Size": "11.08 KB",
+    "More": "一款开源的资产管理系统，支持多账户资产管理、定时记账、Telegram机器人自动智能记账等功能。已知问题：打开应用后无法输入中文。临时解决办法：应用内出现输入框界面后，可以先随意打开一个别的应用（比如文件管理器）窗口再关闭，然后就可以正常输入中文了。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/a05b0690-2d6c-11eb-a61f-9724c965a25d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/a440f350-2d6c-11eb-a61f-9724c965a25d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/23/99e1ebd0-2d6c-11eb-a61f-9724c965a25d.png"
+}
+,
+{
+    "Name": "广州共享课堂（Web）",
+    "Version": "1.0",
+    "Filename": "web-gzclass.gztv.com_1.0_amd64.deb",
+    "Torrent_address": "web-gzclass.gztv.com_1.0_amd64.deb.torrent",
+    "Pkgname": "web-gzclass.gztv.com",
+    "Author": "广州共享课堂",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://gzclass.gztv.com/gksubjecpc/",
+    "Update": "2023-02-01 22:59:36",
+    "Size": "28.57 KB",
+    "More": "广州共享课堂，可以拿来进行小学/初中/高中知识的复习/预习（各地教材有差异）",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/351c24f0af7d45ea8b72c7f860a1d8ea.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/30a1f761d6b84f4298fbd6cc7698eed1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/01/97a0511aa2024e44bdbf83eb94673225.png"
+}
+,
+{
+    "Name": "NoBook初中生物（web）",
+    "Version": "1.0",
+    "Filename": "web-czsw.nobook.com_1.0_all.deb",
+    "Torrent_address": "web-czsw.nobook.com_1.0_all.deb.torrent",
+    "Pkgname": "web-czsw.nobook.com",
+    "Author": "NoBook",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://czsw.nobook.com",
+    "Update": "2023-03-05 09:57:26",
+    "Size": "26.46 KB",
+    "More": "NOBOOK虚拟实验是一款专为中小学教师与学生打造的简单实用的科学实验工具平台。\n通过多媒体手段，依托学科特色，打造富有科技感的物理、化学、生物学科虚拟仿真实验资源和应用，做到教学模式多样化，教学资源共享化，教育信息数字化。让繁琐的实验课变高效、简单。让理论知识可视化、生动化、形象化。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/4b752c3ba4654fa0a509be2bc49c4e52.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/05/b6fefefe1c7a4acf8f6ba568c7bc99ef.png"
+}
+,
+{
+    "Author": "yanfeng.xiao <yanfeng.xiao@mythware.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.mythware.cms-teacher_2.7.3457-1.0.72_plus_10751uos_arm64.deb",
+    "More": "极域课堂管理系统软件最新版是一款界面精美，操作简单便捷的专业教学管理软件。极域课堂管理系统软件最新版可以实现教师机与学生机同步，通过极域课堂管理系统软件官方版可以帮助大家实时查看学生的学习情况，同时也可以帮助老师更好的与学生进行沟通。\n学生端和教师端不能同时安装",
+    "Name": "极域课堂（教师端）",
+    "Pkgname": "com.mythware.cms-teacher",
+    "Size": "38 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "com.mythware.cms-teacher_2.7.3457-1.0.72_plus_10751uos_arm64.deb.torrent",
+    "Update": "2023-03-05 19:26:28",
+    "Version": "2.7.3457-1.0.72+10751uos",
+    "Website": "www.mythware.net",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/others/com.mythware.cms-teacher/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/com.mythware.cms-teacher/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/com.mythware.cms-teacher/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/com.mythware.cms-teacher/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/com.mythware.cms-teacher/screen_4.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/com.mythware.cms-teacher/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "service@wind.com.cn",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.wind.wft_24.1.7.05090_arm64.deb",
+    "More": "Wind金融终端是一款面向金融专业人士提供金融数据、信息资讯、分析工具、组合管理和协作交流于一体的一站式工作平台，目前在全球拥有数十万实名认证的金融机构从业用户使用。Wind金融终端于本世纪初面市，经过长达二十年的持续选代及打磨，数十亿软件研发投入，以其丰富的内容、强大的功能和卓越的服务，已经成为投资研究中国和全球资本市场的必备选择，获得各类用户的广泛费誉。\nWind金融终端数据内容涵盖股票、债券、商品、外汇、基金、指数、衍生品等数百万金融产品，数据历史最早追溯至1896年，提供千万级指标科目及PB级数据存储量的海量信息，几乎涵盖所有金融数据。Wind金融终端服务于资产管理、投资银行、财富管理、产业投资、市场监管、学术研究等各类型业务；客户包括商业银行、证券公司、保险保险、资产管理公司、上市公司、金融监管机构、各类政府机构、财经媒体等几乎所有参与或关注资本市场的机构或企业。Wind\n金融终端支持全周期服务，用户可以7×24×365获取到及时、准确、完整的财经数据、信息和各种分析结果，以及VIP级别的客户服务。Wind金融终端支持全平台通道，用户可以随时随地通过Windows、Mac、Linux、银河麒麟、统信UOS、手机端或Pad端获取最新的信息。\n获取试用账号或咨询请联系我们400-820-9463或service@wind.com.cn。",
+    "Name": "Wind万得金融终端",
+    "Pkgname": "com.wind.wft",
+    "Size": "263 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.wind.wft_24.1.7.05090_arm64.deb.torrent",
+    "Update": "2024-05-17 16:10:59",
+    "Version": "24.1.7.05090",
+    "Website": "http://www.wind.com.cn",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/others/com.wind.wft/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/others/com.wind.wft/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/others/com.wind.wft/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/others/com.wind.wft/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/others/com.wind.wft/screen_4.png\"]"
+}
+
+]

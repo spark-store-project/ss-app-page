@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="linuxqq-autoservice_0.0.1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">52ee5d31f86ef4145d3b4475d8c640b1</hash>
+				  
+				<hash type="sha1">1aebafe5544cb224567b3da76a0b15b28f9394c5</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/linuxqq-autoservice/linuxqq-autoservice_0.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/tools/linuxqq-autoservice/linuxqq-autoservice_0.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/tools/linuxqq-autoservice/linuxqq-autoservice_0.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/tools/linuxqq-autoservice/linuxqq-autoservice_0.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/tools/linuxqq-autoservice/linuxqq-autoservice_0.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/tools/linuxqq-autoservice/linuxqq-autoservice_0.0.1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

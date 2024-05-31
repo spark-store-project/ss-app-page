@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="youdao-dict_6.0.0-0~ubuntu_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b2e93cca89c99f2dd5b510928d04a98c</hash>
+				  
+				<hash type="sha1">975374a9bc2bf05b0458a37a92954bb2dbc57311</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/reading/youdao-dict/youdao-dict_6.0.0-0~ubuntu_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/reading/youdao-dict/youdao-dict_6.0.0-0~ubuntu_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/reading/youdao-dict/youdao-dict_6.0.0-0~ubuntu_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/reading/youdao-dict/youdao-dict_6.0.0-0~ubuntu_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/reading/youdao-dict/youdao-dict_6.0.0-0~ubuntu_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/reading/youdao-dict/youdao-dict_6.0.0-0~ubuntu_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

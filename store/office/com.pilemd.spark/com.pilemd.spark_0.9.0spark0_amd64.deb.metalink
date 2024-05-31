@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.pilemd.spark_0.9.0spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1237458446620fd647cb43f91d44f1b9</hash>
+				  
+				<hash type="sha1">d5dca8bf2aa4d48ed98767733bcd957164d8c962</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.pilemd.spark/com.pilemd.spark_0.9.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.pilemd.spark/com.pilemd.spark_0.9.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.pilemd.spark/com.pilemd.spark_0.9.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.pilemd.spark/com.pilemd.spark_0.9.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.pilemd.spark/com.pilemd.spark_0.9.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.pilemd.spark/com.pilemd.spark_0.9.0spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

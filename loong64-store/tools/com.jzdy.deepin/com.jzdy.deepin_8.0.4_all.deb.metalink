@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.jzdy.deepin_8.0.4_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9b2ddb2b536469c000ec8899481a8ddd</hash>
+				  
+				<hash type="sha1">d31f4a4aa8d3668f3b26310e695b99ad68a7a23d</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.jzdy.deepin/com.jzdy.deepin_8.0.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/tools/com.jzdy.deepin/com.jzdy.deepin_8.0.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/tools/com.jzdy.deepin/com.jzdy.deepin_8.0.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/tools/com.jzdy.deepin/com.jzdy.deepin_8.0.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/tools/com.jzdy.deepin/com.jzdy.deepin_8.0.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/tools/com.jzdy.deepin/com.jzdy.deepin_8.0.4_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

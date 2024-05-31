@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="indicator-stickynotes_0.5.9-7_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e7c8b1bb22ccc193a6cd129df2fd048f</hash>
+				  
+				<hash type="sha1">72111526392f2ef30d9933aa60360536467916d6</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/indicator-stickynotes/indicator-stickynotes_0.5.9-7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/indicator-stickynotes/indicator-stickynotes_0.5.9-7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/indicator-stickynotes/indicator-stickynotes_0.5.9-7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/indicator-stickynotes/indicator-stickynotes_0.5.9-7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/indicator-stickynotes/indicator-stickynotes_0.5.9-7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/indicator-stickynotes/indicator-stickynotes_0.5.9-7_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

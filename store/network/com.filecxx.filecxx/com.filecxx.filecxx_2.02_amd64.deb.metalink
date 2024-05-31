@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.filecxx.filecxx_2.02_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">912ba9d1f0ae15793bd9c5d20fb58478</hash>
+				  
+				<hash type="sha1">bba37b833322ce7a8bb2621befc5092ec6fabdb4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/com.filecxx.filecxx/com.filecxx.filecxx_2.02_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/com.filecxx.filecxx/com.filecxx.filecxx_2.02_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/com.filecxx.filecxx/com.filecxx.filecxx_2.02_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/com.filecxx.filecxx/com.filecxx.filecxx_2.02_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/com.filecxx.filecxx/com.filecxx.filecxx_2.02_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/com.filecxx.filecxx/com.filecxx.filecxx_2.02_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.tracker-software.pdfxedit.spark_9.3.361.0spark1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a60b44fa7d4b2e2aa61f8c6222b76c30</hash>
+				  
+				<hash type="sha1">fff8303c27a83820fa5876f1c58f8fdb2097e970</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.tracker-software.pdfxedit.spark/com.tracker-software.pdfxedit.spark_9.3.361.0spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.tracker-software.pdfxedit.spark/com.tracker-software.pdfxedit.spark_9.3.361.0spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.tracker-software.pdfxedit.spark/com.tracker-software.pdfxedit.spark_9.3.361.0spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.tracker-software.pdfxedit.spark/com.tracker-software.pdfxedit.spark_9.3.361.0spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.tracker-software.pdfxedit.spark/com.tracker-software.pdfxedit.spark_9.3.361.0spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.tracker-software.pdfxedit.spark/com.tracker-software.pdfxedit.spark_9.3.361.0spark1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

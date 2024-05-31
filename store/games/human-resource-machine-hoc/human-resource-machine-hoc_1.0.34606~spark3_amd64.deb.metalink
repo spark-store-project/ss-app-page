@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="human-resource-machine-hoc_1.0.34606~spark3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1269f1538b770dd53780395c8dcce932</hash>
+				  
+				<hash type="sha1">e873b3d2986b31f7a4cf5f01446dae0df937abdc</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/human-resource-machine-hoc/human-resource-machine-hoc_1.0.34606~spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/human-resource-machine-hoc/human-resource-machine-hoc_1.0.34606~spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/human-resource-machine-hoc/human-resource-machine-hoc_1.0.34606~spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/human-resource-machine-hoc/human-resource-machine-hoc_1.0.34606~spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/human-resource-machine-hoc/human-resource-machine-hoc_1.0.34606~spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/human-resource-machine-hoc/human-resource-machine-hoc_1.0.34606~spark3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

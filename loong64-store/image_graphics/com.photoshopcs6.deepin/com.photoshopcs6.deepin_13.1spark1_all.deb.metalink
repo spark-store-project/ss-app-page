@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.photoshopcs6.deepin_13.1spark1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5484ec60bcfb4939e62278bdae3a4d93</hash>
+				  
+				<hash type="sha1">33fb004c4f296dcb0892ac424a58cc64849baec1</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/com.photoshopcs6.deepin/com.photoshopcs6.deepin_13.1spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/image_graphics/com.photoshopcs6.deepin/com.photoshopcs6.deepin_13.1spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/image_graphics/com.photoshopcs6.deepin/com.photoshopcs6.deepin_13.1spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/image_graphics/com.photoshopcs6.deepin/com.photoshopcs6.deepin_13.1spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/image_graphics/com.photoshopcs6.deepin/com.photoshopcs6.deepin_13.1spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/image_graphics/com.photoshopcs6.deepin/com.photoshopcs6.deepin_13.1spark1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

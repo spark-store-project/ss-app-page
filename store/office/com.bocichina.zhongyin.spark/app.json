@@ -1,0 +1,16 @@
+{
+    "Name": "中银证券（wine）",
+    "Version": "8.14deepin5",
+    "Filename": "com.bocichina.zhongyin.spark_8.14deepin5_i386.deb",
+    "Torrent_address": "com.bocichina.zhongyin.spark_8.14deepin5_i386.deb.torrent",
+    "Pkgname": "com.bocichina.zhongyin.spark",
+    "Author": "中银国际证券股份有限公司",
+    "Contributor": "delsin",
+    "Website": "https://www.bocichina.com/",
+    "Update": "2022-06-07 23:29:42",
+    "Size": "338.68 MB",
+    "More": "中银证券通达信网上交易新一代系统V8.14 on Deepin Wine5\n提示：\n（1）对于高分辨率屏幕字体显示太小的问题，请自定义分辨率，在终端命令输入：WINEPREFIX=~/.deepinwine/Spark-Zhongyin ~/.deepinwine/deepin-wine5-stable/bin/winecfg 在弹出的界面选择：显示——屏幕分辨率。屏幕分辨率越高，dpi需设置越大（可多调整几次dpi，以期达到最佳显示效果）。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/07/65cf5a20-e676-11ec-89e9-6d13a4e046a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/07/674690d0-e676-11ec-89e9-6d13a4e046a5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/07/621c6440-e676-11ec-89e9-6d13a4e046a5.png"
+}

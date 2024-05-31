@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.krita.krita.spark_5.2.2spark4_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b1227a5bcaa832f932d6ad2a3e1678e9</hash>
+				  
+				<hash type="sha1">fded4cc45676efc18a2f372193db803f72b698f3</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/org.krita.krita.spark/org.krita.krita.spark_5.2.2spark4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/org.krita.krita.spark/org.krita.krita.spark_5.2.2spark4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/org.krita.krita.spark/org.krita.krita.spark_5.2.2spark4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/org.krita.krita.spark/org.krita.krita.spark_5.2.2spark4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/org.krita.krita.spark/org.krita.krita.spark_5.2.2spark4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/org.krita.krita.spark/org.krita.krita.spark_5.2.2spark4_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="tencent-transmart_0.8.11~20221207~alpha_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">290654eb843bd6d37683ef1bd839736d</hash>
+				  
+				<hash type="sha1">9b485e0326488a96598bf2964452f04db1db91d3</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/reading/tencent-transmart/tencent-transmart_0.8.11~20221207~alpha_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/reading/tencent-transmart/tencent-transmart_0.8.11~20221207~alpha_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/reading/tencent-transmart/tencent-transmart_0.8.11~20221207~alpha_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/reading/tencent-transmart/tencent-transmart_0.8.11~20221207~alpha_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/reading/tencent-transmart/tencent-transmart_0.8.11~20221207~alpha_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/reading/tencent-transmart/tencent-transmart_0.8.11~20221207~alpha_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

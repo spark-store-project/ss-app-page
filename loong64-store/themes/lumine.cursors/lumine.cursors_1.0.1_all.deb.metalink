@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="lumine.cursors_1.0.1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">4c2a97107b905dcd3cbbb069f9a67e9b</hash>
+				  
+				<hash type="sha1">79b9c771aab6c7a7bfd4f847e861dc9fee622697</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/themes/lumine.cursors/lumine.cursors_1.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/themes/lumine.cursors/lumine.cursors_1.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/themes/lumine.cursors/lumine.cursors_1.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/themes/lumine.cursors/lumine.cursors_1.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/themes/lumine.cursors/lumine.cursors_1.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/themes/lumine.cursors/lumine.cursors_1.0.1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

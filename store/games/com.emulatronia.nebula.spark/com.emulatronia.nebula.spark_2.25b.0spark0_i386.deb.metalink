@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.emulatronia.nebula.spark_2.25b.0spark0_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">03b60870a4d57c85e9d6b993b2c20032</hash>
+				  
+				<hash type="sha1">b1fe8254dec7f5bf01125ba002d20a8e0be481ec</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.emulatronia.nebula.spark/com.emulatronia.nebula.spark_2.25b.0spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.emulatronia.nebula.spark/com.emulatronia.nebula.spark_2.25b.0spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.emulatronia.nebula.spark/com.emulatronia.nebula.spark_2.25b.0spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.emulatronia.nebula.spark/com.emulatronia.nebula.spark_2.25b.0spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.emulatronia.nebula.spark/com.emulatronia.nebula.spark_2.25b.0spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.emulatronia.nebula.spark/com.emulatronia.nebula.spark_2.25b.0spark0_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

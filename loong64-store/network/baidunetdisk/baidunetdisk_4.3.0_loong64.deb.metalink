@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="baidunetdisk_4.3.0_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">10fbf2aee69a6f5b96d1cf8ebefd3627</hash>
+				  
+				<hash type="sha1">de43952c6ba7ef6620d6dc11a64ccdb3c6b228ea</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/network/baidunetdisk/baidunetdisk_4.3.0_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/network/baidunetdisk/baidunetdisk_4.3.0_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/network/baidunetdisk/baidunetdisk_4.3.0_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/network/baidunetdisk/baidunetdisk_4.3.0_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/network/baidunetdisk/baidunetdisk_4.3.0_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/network/baidunetdisk/baidunetdisk_4.3.0_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libpostproc55_4.4.2-1.lnd.2_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a7720ccd629c6b5f98e88fc8e775d62b</hash>
+				  
+				<hash type="sha1">54e8a89b974555143540703bed896f0aa2ec2a72</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/depends/libmpv1/libpostproc55_4.4.2-1.lnd.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/depends/libmpv1/libpostproc55_4.4.2-1.lnd.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/depends/libmpv1/libpostproc55_4.4.2-1.lnd.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/depends/libmpv1/libpostproc55_4.4.2-1.lnd.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/depends/libmpv1/libpostproc55_4.4.2-1.lnd.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/depends/libmpv1/libpostproc55_4.4.2-1.lnd.2_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

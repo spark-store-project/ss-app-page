@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="visual-family-tree_1.4.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a923cd78b071c37009c7d02f06536572</hash>
+				  
+				<hash type="sha1">d30e8acdc75660a330fcb06ec62f3b6809a0be2c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/visual-family-tree/visual-family-tree_1.4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/visual-family-tree/visual-family-tree_1.4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/visual-family-tree/visual-family-tree_1.4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/visual-family-tree/visual-family-tree_1.4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/visual-family-tree/visual-family-tree_1.4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/visual-family-tree/visual-family-tree_1.4.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.codemao.kitten3_3.7.13_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f1355ed21b7aa45d2b35c0a959153fee</hash>
+				  
+				<hash type="sha1">30073f82d30c420f7d6b8d9bd222beb7da222a32</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/development/cn.codemao.kitten3/cn.codemao.kitten3_3.7.13_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/development/cn.codemao.kitten3/cn.codemao.kitten3_3.7.13_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/development/cn.codemao.kitten3/cn.codemao.kitten3_3.7.13_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/development/cn.codemao.kitten3/cn.codemao.kitten3_3.7.13_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/development/cn.codemao.kitten3/cn.codemao.kitten3_3.7.13_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/development/cn.codemao.kitten3/cn.codemao.kitten3_3.7.13_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

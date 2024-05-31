@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="gimp-spark_2.10.34-2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">6c3a9bd51285a7f78216321333fafa71</hash>
+				  
+				<hash type="sha1">a7899f7dbfba7c11de8a52353213c4c2f544508c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/gimp-spark/gimp-spark_2.10.34-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/gimp-spark/gimp-spark_2.10.34-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/gimp-spark/gimp-spark_2.10.34-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/gimp-spark/gimp-spark_2.10.34-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/gimp-spark/gimp-spark_2.10.34-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/gimp-spark/gimp-spark_2.10.34-2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

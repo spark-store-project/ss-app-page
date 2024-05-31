@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.starcraft.spark_1.08.spark0_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">408a8ea4f7f4201fe2fadcd26814c3a5</hash>
+				  
+				<hash type="sha1">eeea9b35270f243654f021016c68db59139a7bf5</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.starcraft.spark/com.starcraft.spark_1.08.spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.starcraft.spark/com.starcraft.spark_1.08.spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.starcraft.spark/com.starcraft.spark_1.08.spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.starcraft.spark/com.starcraft.spark_1.08.spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.starcraft.spark/com.starcraft.spark_1.08.spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.starcraft.spark/com.starcraft.spark_1.08.spark0_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

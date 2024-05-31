@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.ugreen.client_4.9.0.9559_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">18f11f209c1d51ba007dc554345543c4</hash>
+				  
+				<hash type="sha1">9ff74247a6039aecf11e0346391c5ba69d890696</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.ugreen.client/com.ugreen.client_4.9.0.9559_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/network/com.ugreen.client/com.ugreen.client_4.9.0.9559_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/network/com.ugreen.client/com.ugreen.client_4.9.0.9559_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/network/com.ugreen.client/com.ugreen.client_4.9.0.9559_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/network/com.ugreen.client/com.ugreen.client_4.9.0.9559_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/network/com.ugreen.client/com.ugreen.client_4.9.0.9559_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

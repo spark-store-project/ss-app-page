@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="uengine-dc-cn.jj_5.14.01_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">2a8509343a84b51310e8cb4c6218635c</hash>
+				  
+				<hash type="sha1">248c9c5466b1c5c73e895ef4a67c3ef63a04632d</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/uengine-dc-cn.jj/uengine-dc-cn.jj_5.14.01_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/uengine-dc-cn.jj/uengine-dc-cn.jj_5.14.01_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/uengine-dc-cn.jj/uengine-dc-cn.jj_5.14.01_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/uengine-dc-cn.jj/uengine-dc-cn.jj_5.14.01_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/uengine-dc-cn.jj/uengine-dc-cn.jj_5.14.01_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/uengine-dc-cn.jj/uengine-dc-cn.jj_5.14.01_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

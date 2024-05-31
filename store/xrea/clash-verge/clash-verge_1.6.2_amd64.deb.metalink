@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="clash-verge_1.6.2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e70167ab0fb79b255bc12df79d6f339e</hash>
+				  
+				<hash type="sha1">713bd3080bbd0ad85bdde9a5893f481d6382bcda</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/xrea/clash-verge/clash-verge_1.6.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/xrea/clash-verge/clash-verge_1.6.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/xrea/clash-verge/clash-verge_1.6.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/xrea/clash-verge/clash-verge_1.6.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/xrea/clash-verge/clash-verge_1.6.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/xrea/clash-verge/clash-verge_1.6.2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

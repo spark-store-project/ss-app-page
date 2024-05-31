@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.shiguangxu.deepin_0.0.2_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">3ae401f49fcd8726c361e2e6cb39a206</hash>
+				  
+				<hash type="sha1">72cd557304e2a1e3806cbb16fd6d1aa4be6f87c4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.shiguangxu.deepin/com.shiguangxu.deepin_0.0.2_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.shiguangxu.deepin/com.shiguangxu.deepin_0.0.2_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.shiguangxu.deepin/com.shiguangxu.deepin_0.0.2_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.shiguangxu.deepin/com.shiguangxu.deepin_0.0.2_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.shiguangxu.deepin/com.shiguangxu.deepin_0.0.2_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.shiguangxu.deepin/com.shiguangxu.deepin_0.0.2_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

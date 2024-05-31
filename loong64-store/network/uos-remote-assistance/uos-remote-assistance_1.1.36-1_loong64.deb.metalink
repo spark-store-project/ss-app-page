@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="uos-remote-assistance_1.1.36-1_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">268c794ec5cd5c6fbe20b764ab980052</hash>
+				  
+				<hash type="sha1">cb8c6587c67380403f08812ef73e14d390e8c25c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/network/uos-remote-assistance/uos-remote-assistance_1.1.36-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/network/uos-remote-assistance/uos-remote-assistance_1.1.36-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/network/uos-remote-assistance/uos-remote-assistance_1.1.36-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/network/uos-remote-assistance/uos-remote-assistance_1.1.36-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/network/uos-remote-assistance/uos-remote-assistance_1.1.36-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/network/uos-remote-assistance/uos-remote-assistance_1.1.36-1_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

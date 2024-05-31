@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.wondershare.ofd_2.0.40_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b19f0a6d1cfa473136139d7cc992489f</hash>
+				  
+				<hash type="sha1">92fc8b24414a5ec43995fba85af478a6188c0b97</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/cn.wondershare.ofd/cn.wondershare.ofd_2.0.40_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/cn.wondershare.ofd/cn.wondershare.ofd_2.0.40_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/cn.wondershare.ofd/cn.wondershare.ofd_2.0.40_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/cn.wondershare.ofd/cn.wondershare.ofd_2.0.40_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/cn.wondershare.ofd/cn.wondershare.ofd_2.0.40_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/cn.wondershare.ofd/cn.wondershare.ofd_2.0.40_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="loongvideoeditor_1.0.0-1_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">33aebb953b33a753d05ec49469148cff</hash>
+				  
+				<hash type="sha1">f2639c6866e12b7a786f5e03a245919cfa8d7bed</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/video/loongvideoeditor/loongvideoeditor_1.0.0-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/video/loongvideoeditor/loongvideoeditor_1.0.0-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/video/loongvideoeditor/loongvideoeditor_1.0.0-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/video/loongvideoeditor/loongvideoeditor_1.0.0-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/video/loongvideoeditor/loongvideoeditor_1.0.0-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/video/loongvideoeditor/loongvideoeditor_1.0.0-1_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

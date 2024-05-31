@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.cctalk.spark_7.10.6.5spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a16cf94aa55d8bffd54806aeb06e7269</hash>
+				  
+				<hash type="sha1">cf9e0b82cb96434fdcfacb7fa67245ed258a1894</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.cctalk.spark/com.cctalk.spark_7.10.6.5spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.cctalk.spark/com.cctalk.spark_7.10.6.5spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.cctalk.spark/com.cctalk.spark_7.10.6.5spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.cctalk.spark/com.cctalk.spark_7.10.6.5spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.cctalk.spark/com.cctalk.spark_7.10.6.5spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.cctalk.spark/com.cctalk.spark_7.10.6.5spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.qianxin.browser-stable_1.0.45276.3-1_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c2bc5ba15f8b787c1c187c51bdb37bf4</hash>
+				  
+				<hash type="sha1">2bed1f07cb5e9ceb817645cb971ed2945cd80a00</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.qianxin.browser-stable/com.qianxin.browser-stable_1.0.45276.3-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/network/com.qianxin.browser-stable/com.qianxin.browser-stable_1.0.45276.3-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/network/com.qianxin.browser-stable/com.qianxin.browser-stable_1.0.45276.3-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/network/com.qianxin.browser-stable/com.qianxin.browser-stable_1.0.45276.3-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/network/com.qianxin.browser-stable/com.qianxin.browser-stable_1.0.45276.3-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/network/com.qianxin.browser-stable/com.qianxin.browser-stable_1.0.45276.3-1_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

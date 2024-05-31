@@ -1,0 +1,16 @@
+{
+    "Name": "rdp远程桌面连接工具",
+    "Version": "1.2.0-1",
+    "Filename": "spark-simple-remote-desktop-accessor_1.2.0-1_amd64.deb",
+    "Torrent_address": "spark-simple-remote-desktop-accessor_1.2.0-1_amd64.deb.torrent",
+    "Pkgname": "spark-simple-remote-desktop-accessor",
+    "Author": "gfdgd xi",
+    "Contributor": "gfdgd xi",
+    "Website": "https://github.com/gfdgd-xi/simple-remote-desktop-accessor",
+    "Update": "2022-05-29 07:51:29",
+    "Size": "474.61 KB",
+    "More": "这是一款使用 dtk写的一个简易远程连接工具，基于rdesktop，适用于连接Windows等 rdp 协议的远程计算机（xrdp也是可以的，测试过了），虽然和mstsc差的有点远 在我测试中，我发现系统默认版本的rdesktop（1.8.6） 是无法连接Windows XP（不知道是不是个例），而编译的 rdesktop 1.9.0是没有问题的，所以我也把编译好的应用放进deb 包并支持选择版本\n支持平台：deepin、UOS、Ubuntu\n更新内容：\n※1、添加了剪切板共享、目录共享、远程计算机声音播放的功能\n※2、修改为用QProcess运行命令以及获取返回值和输出内容\n※3、修复了在 UOS/Ubuntu 下运行因为编译的 Qt 版本过高而无法运行的问题\n※4、修复了不管连接成功还是失败都会弹出提示窗口显示日志的问题\n※5、优化了在 Ubuntu 下界面的显示，不会显示双标题栏  \n※6、补充了缺失依赖  \n7、修复了连接日志不超过 5000 个字符的问题\n8、修复了标题以及自定义参数不支持中文的问题\n9、优化了代码结构\n10、修复了如果能在 Ubuntu 下运行的情况下显示不良的问题\n",
+    "Tags": "community;ubuntu;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/29/0b9d2a60-dee1-11ec-9a20-d5abed6e3fbc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/29/0bb60990-dee1-11ec-9a20-d5abed6e3fbc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/29/0bbe1fe0-dee1-11ec-9a20-d5abed6e3fbc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/29/0bdaf6b0-dee1-11ec-9a20-d5abed6e3fbc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/29/0bcc77c0-dee1-11ec-9a20-d5abed6e3fbc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/29/026f01c0-dee1-11ec-9a20-d5abed6e3fbc.png"
+}

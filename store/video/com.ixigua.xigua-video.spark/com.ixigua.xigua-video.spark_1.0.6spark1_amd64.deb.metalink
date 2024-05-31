@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.ixigua.xigua-video.spark_1.0.6spark1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">22fb8d75e745075a86a8fa1b51210226</hash>
+				  
+				<hash type="sha1">2ffe67e749a4be811ccac6eef09c54b4f7679536</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/video/com.ixigua.xigua-video.spark/com.ixigua.xigua-video.spark_1.0.6spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/video/com.ixigua.xigua-video.spark/com.ixigua.xigua-video.spark_1.0.6spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/video/com.ixigua.xigua-video.spark/com.ixigua.xigua-video.spark_1.0.6spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/video/com.ixigua.xigua-video.spark/com.ixigua.xigua-video.spark_1.0.6spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/video/com.ixigua.xigua-video.spark/com.ixigua.xigua-video.spark_1.0.6spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/video/com.ixigua.xigua-video.spark/com.ixigua.xigua-video.spark_1.0.6spark1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

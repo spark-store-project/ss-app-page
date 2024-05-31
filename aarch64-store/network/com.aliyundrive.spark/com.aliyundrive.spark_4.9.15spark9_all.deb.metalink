@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.aliyundrive.spark_4.9.15spark9_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">4d24d9cf296699db5af74b3b77ad8920</hash>
+				  
+				<hash type="sha1">9f9d63371613d419f70fbe89b40f6ddf5f9a5beb</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.aliyundrive.spark/com.aliyundrive.spark_4.9.15spark9_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/network/com.aliyundrive.spark/com.aliyundrive.spark_4.9.15spark9_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/network/com.aliyundrive.spark/com.aliyundrive.spark_4.9.15spark9_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/network/com.aliyundrive.spark/com.aliyundrive.spark_4.9.15spark9_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/network/com.aliyundrive.spark/com.aliyundrive.spark_4.9.15spark9_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/network/com.aliyundrive.spark/com.aliyundrive.spark_4.9.15spark9_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

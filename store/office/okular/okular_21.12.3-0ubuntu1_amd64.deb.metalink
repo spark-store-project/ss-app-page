@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="okular_21.12.3-0ubuntu1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ad211fe15d36fb700e0558bff6b99844</hash>
+				  
+				<hash type="sha1">976fc7275e4bca7f104ba4af7d54969fc54ef22f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/okular/okular_21.12.3-0ubuntu1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/okular/okular_21.12.3-0ubuntu1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/okular/okular_21.12.3-0ubuntu1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/okular/okular_21.12.3-0ubuntu1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/okular/okular_21.12.3-0ubuntu1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/okular/okular_21.12.3-0ubuntu1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

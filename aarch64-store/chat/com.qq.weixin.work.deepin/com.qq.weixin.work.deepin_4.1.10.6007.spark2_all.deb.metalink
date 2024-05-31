@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.qq.weixin.work.deepin_4.1.10.6007.spark2_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">0f26ced8c43951d299ab4e579b751316</hash>
+				  
+				<hash type="sha1">b230a811e0631dabddbb3a8a63fb23bf2bf5330f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/com.qq.weixin.work.deepin/com.qq.weixin.work.deepin_4.1.10.6007.spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/chat/com.qq.weixin.work.deepin/com.qq.weixin.work.deepin_4.1.10.6007.spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/chat/com.qq.weixin.work.deepin/com.qq.weixin.work.deepin_4.1.10.6007.spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/chat/com.qq.weixin.work.deepin/com.qq.weixin.work.deepin_4.1.10.6007.spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/chat/com.qq.weixin.work.deepin/com.qq.weixin.work.deepin_4.1.10.6007.spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/chat/com.qq.weixin.work.deepin/com.qq.weixin.work.deepin_4.1.10.6007.spark2_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

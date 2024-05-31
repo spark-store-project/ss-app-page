@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="minecraft-launcher_1.1.26_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9ec53b60fba93b1adf05a3246055e7a4</hash>
+				  
+				<hash type="sha1">97ed4605784d6869ffe16c2677bcc42b093a536e</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/minecraft-launcher/minecraft-launcher_1.1.26_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/minecraft-launcher/minecraft-launcher_1.1.26_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/minecraft-launcher/minecraft-launcher_1.1.26_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/minecraft-launcher/minecraft-launcher_1.1.26_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/minecraft-launcher/minecraft-launcher_1.1.26_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/minecraft-launcher/minecraft-launcher_1.1.26_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

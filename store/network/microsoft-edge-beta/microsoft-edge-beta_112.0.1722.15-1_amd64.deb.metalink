@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="microsoft-edge-beta_112.0.1722.15-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">d660d1bab5eba1192264cde6dcc1a4b1</hash>
+				  
+				<hash type="sha1">060c4bcca15664dde1f2b3fe8606423bd5c531bc</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-beta/microsoft-edge-beta_112.0.1722.15-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/microsoft-edge-beta/microsoft-edge-beta_112.0.1722.15-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/microsoft-edge-beta/microsoft-edge-beta_112.0.1722.15-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/microsoft-edge-beta/microsoft-edge-beta_112.0.1722.15-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/microsoft-edge-beta/microsoft-edge-beta_112.0.1722.15-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/microsoft-edge-beta/microsoft-edge-beta_112.0.1722.15-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

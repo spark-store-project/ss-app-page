@@ -1,0 +1,16 @@
+{
+    "Name": "深度邮箱(ubuntu移植)",
+    "Version": "5.2.13-1",
+    "Filename": "deepin-mail_5.2.13-1_amd64.deb",
+    "Torrent_address": "deepin-mail_5.2.13-1_amd64.deb.torrent",
+    "Pkgname": "deepin-mail",
+    "Author": "Uniontech",
+    "Contributor": "shenmo",
+    "Website": "https://www.chinauos.com/",
+    "Update": "2022-04-23 19:34:20",
+    "Size": "8.4 MB",
+    "More": "较旧版本的深度邮箱\ndeepin用户请不用安装此版本，5.3版本相比这个有非常大的提升（为开发人员点赞）\n从UOS提取（deepin的qt版本太新了打不开）\n虽然版本比较老旧了，但界面还是不错的（相比于Thunderbird的那上个世纪风格）\n相比mailspring，不会出现后台启动之后打不开的情况\n---------------------shenmo补丁-------------------------\n调整了启动脚本以在ubuntu上较完美的使用\n更改了.desktop以正常被火狐唤起\n",
+    "Tags": "ubuntu;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/23/456b2de0-c2f9-11ec-880f-b31b6f9c6273.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/23/4573b960-c2f9-11ec-880f-b31b6f9c6273.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/23/0e018a70-c2f9-11ec-880f-b31b6f9c6273.png"
+}

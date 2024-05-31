@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.suwell.ofd-reader.spark_5.0.23.1117spark0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">971ff4d7a701035ef1dfbe2651a47568</hash>
+				  
+				<hash type="sha1">4c8b1cca308f086d7f0e607a8c7cb9937ec1d44c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/reading/cn.suwell.ofd-reader.spark/cn.suwell.ofd-reader.spark_5.0.23.1117spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/reading/cn.suwell.ofd-reader.spark/cn.suwell.ofd-reader.spark_5.0.23.1117spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/reading/cn.suwell.ofd-reader.spark/cn.suwell.ofd-reader.spark_5.0.23.1117spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/reading/cn.suwell.ofd-reader.spark/cn.suwell.ofd-reader.spark_5.0.23.1117spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/reading/cn.suwell.ofd-reader.spark/cn.suwell.ofd-reader.spark_5.0.23.1117spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/reading/cn.suwell.ofd-reader.spark/cn.suwell.ofd-reader.spark_5.0.23.1117spark0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

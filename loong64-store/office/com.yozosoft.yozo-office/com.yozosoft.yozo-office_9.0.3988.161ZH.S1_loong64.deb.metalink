@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.yozosoft.yozo-office_9.0.3988.161ZH.S1_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">100aecd7d1036efc65beee2badca1927</hash>
+				  
+				<hash type="sha1">e04c749c3cc9cd6d021bcb271674bec25aa2857e</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/office/com.yozosoft.yozo-office/com.yozosoft.yozo-office_9.0.3988.161ZH.S1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/office/com.yozosoft.yozo-office/com.yozosoft.yozo-office_9.0.3988.161ZH.S1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/office/com.yozosoft.yozo-office/com.yozosoft.yozo-office_9.0.3988.161ZH.S1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/office/com.yozosoft.yozo-office/com.yozosoft.yozo-office_9.0.3988.161ZH.S1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/office/com.yozosoft.yozo-office/com.yozosoft.yozo-office_9.0.3988.161ZH.S1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/office/com.yozosoft.yozo-office/com.yozosoft.yozo-office_9.0.3988.161ZH.S1_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

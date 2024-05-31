@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.papashotdoggeria.spark_2.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a72e4580ddae4eb3c2c09a55737e1a10</hash>
+				  
+				<hash type="sha1">3534517c32d885033e00351f892e592eb1daca80</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.papashotdoggeria.spark/com.papashotdoggeria.spark_2.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.papashotdoggeria.spark/com.papashotdoggeria.spark_2.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.papashotdoggeria.spark/com.papashotdoggeria.spark_2.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.papashotdoggeria.spark/com.papashotdoggeria.spark_2.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.papashotdoggeria.spark/com.papashotdoggeria.spark_2.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.papashotdoggeria.spark/com.papashotdoggeria.spark_2.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

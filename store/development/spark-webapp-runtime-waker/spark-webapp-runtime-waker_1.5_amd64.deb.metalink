@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-webapp-runtime-waker_1.5_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">67598c21a1c93229603a33cd5afa9d14</hash>
+				  
+				<hash type="sha1">a28ad807757be8b7f757257be3eb5031fa823ef7</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/spark-webapp-runtime-waker/spark-webapp-runtime-waker_1.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/spark-webapp-runtime-waker/spark-webapp-runtime-waker_1.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/spark-webapp-runtime-waker/spark-webapp-runtime-waker_1.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/spark-webapp-runtime-waker/spark-webapp-runtime-waker_1.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/spark-webapp-runtime-waker/spark-webapp-runtime-waker_1.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/spark-webapp-runtime-waker/spark-webapp-runtime-waker_1.5_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

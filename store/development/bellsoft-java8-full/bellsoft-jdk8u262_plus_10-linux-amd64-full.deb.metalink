@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="bellsoft-jdk8u262_plus_10-linux-amd64-full.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e79a285ed42c5dcc332d6657c1f4efb2</hash>
+				  
+				<hash type="sha1">b96accd03e42c4276172c10bd125f79015896854</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/bellsoft-java8-full/bellsoft-jdk8u262_plus_10-linux-amd64-full.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/bellsoft-java8-full/bellsoft-jdk8u262_plus_10-linux-amd64-full.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/bellsoft-java8-full/bellsoft-jdk8u262_plus_10-linux-amd64-full.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/bellsoft-java8-full/bellsoft-jdk8u262_plus_10-linux-amd64-full.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/bellsoft-java8-full/bellsoft-jdk8u262_plus_10-linux-amd64-full.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/bellsoft-java8-full/bellsoft-jdk8u262_plus_10-linux-amd64-full.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

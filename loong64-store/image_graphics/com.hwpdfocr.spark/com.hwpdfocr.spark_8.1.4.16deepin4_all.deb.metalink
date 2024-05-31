@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.hwpdfocr.spark_8.1.4.16deepin4_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">0d2186c1fa153dfdc86c1249e1ea6b72</hash>
+				  
+				<hash type="sha1">36b79b60c78bbfb512334f14f947f4e5e273a396</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/com.hwpdfocr.spark/com.hwpdfocr.spark_8.1.4.16deepin4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/image_graphics/com.hwpdfocr.spark/com.hwpdfocr.spark_8.1.4.16deepin4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/image_graphics/com.hwpdfocr.spark/com.hwpdfocr.spark_8.1.4.16deepin4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/image_graphics/com.hwpdfocr.spark/com.hwpdfocr.spark_8.1.4.16deepin4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/image_graphics/com.hwpdfocr.spark/com.hwpdfocr.spark_8.1.4.16deepin4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/image_graphics/com.hwpdfocr.spark/com.hwpdfocr.spark_8.1.4.16deepin4_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

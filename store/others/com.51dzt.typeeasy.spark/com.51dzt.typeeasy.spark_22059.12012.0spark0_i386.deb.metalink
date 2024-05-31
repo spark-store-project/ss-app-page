@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.51dzt.typeeasy.spark_22059.12012.0spark0_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">62c9ff3810b098af48df5676de9bdad4</hash>
+				  
+				<hash type="sha1">f868f710d150cdc1e57ab40bbd0e948d97727c5e</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/com.51dzt.typeeasy.spark/com.51dzt.typeeasy.spark_22059.12012.0spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/com.51dzt.typeeasy.spark/com.51dzt.typeeasy.spark_22059.12012.0spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/com.51dzt.typeeasy.spark/com.51dzt.typeeasy.spark_22059.12012.0spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/com.51dzt.typeeasy.spark/com.51dzt.typeeasy.spark_22059.12012.0spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/com.51dzt.typeeasy.spark/com.51dzt.typeeasy.spark_22059.12012.0spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/com.51dzt.typeeasy.spark/com.51dzt.typeeasy.spark_22059.12012.0spark0_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

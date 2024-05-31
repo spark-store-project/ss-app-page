@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="thorium-browser_122.0.6261.132-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5e02eb86b7657c1c592ff242f1a8cf12</hash>
+				  
+				<hash type="sha1">776a0eb3e656df21fd0121f7df3dc3b08d7d98bb</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/thorium-browser/thorium-browser_122.0.6261.132-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/thorium-browser/thorium-browser_122.0.6261.132-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/thorium-browser/thorium-browser_122.0.6261.132-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/thorium-browser/thorium-browser_122.0.6261.132-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/thorium-browser/thorium-browser_122.0.6261.132-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/thorium-browser/thorium-browser_122.0.6261.132-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

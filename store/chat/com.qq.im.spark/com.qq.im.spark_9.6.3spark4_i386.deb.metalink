@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.qq.im.spark_9.6.3spark4_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">590a2c700ad618005f6ad141d2f93e36</hash>
+				  
+				<hash type="sha1">8581fabec63a0b3f94414475b45ba91db6c79c00</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.im.spark/com.qq.im.spark_9.6.3spark4_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/chat/com.qq.im.spark/com.qq.im.spark_9.6.3spark4_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/chat/com.qq.im.spark/com.qq.im.spark_9.6.3spark4_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/chat/com.qq.im.spark/com.qq.im.spark_9.6.3spark4_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/chat/com.qq.im.spark/com.qq.im.spark_9.6.3spark4_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/chat/com.qq.im.spark/com.qq.im.spark_9.6.3spark4_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

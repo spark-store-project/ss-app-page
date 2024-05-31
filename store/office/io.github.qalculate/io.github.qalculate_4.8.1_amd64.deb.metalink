@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="io.github.qalculate_4.8.1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">92d201e0e05adaf5bb897edf7a026dce</hash>
+				  
+				<hash type="sha1">f2f02e1b1cc3f0a7e4fbec96f6cc970b8dba9d61</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/io.github.qalculate/io.github.qalculate_4.8.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/io.github.qalculate/io.github.qalculate_4.8.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/io.github.qalculate/io.github.qalculate_4.8.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/io.github.qalculate/io.github.qalculate_4.8.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/io.github.qalculate/io.github.qalculate_4.8.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/io.github.qalculate/io.github.qalculate_4.8.1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

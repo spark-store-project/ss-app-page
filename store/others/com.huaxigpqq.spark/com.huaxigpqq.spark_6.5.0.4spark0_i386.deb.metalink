@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.huaxigpqq.spark_6.5.0.4spark0_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">456d3f319ab5a7b457cd3daa70720d30</hash>
+				  
+				<hash type="sha1">38262d90240bef4c2e01a93bb9c4ca8b6cf4cb77</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/com.huaxigpqq.spark/com.huaxigpqq.spark_6.5.0.4spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/com.huaxigpqq.spark/com.huaxigpqq.spark_6.5.0.4spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/com.huaxigpqq.spark/com.huaxigpqq.spark_6.5.0.4spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/com.huaxigpqq.spark/com.huaxigpqq.spark_6.5.0.4spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/com.huaxigpqq.spark/com.huaxigpqq.spark_6.5.0.4spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/com.huaxigpqq.spark/com.huaxigpqq.spark_6.5.0.4spark0_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

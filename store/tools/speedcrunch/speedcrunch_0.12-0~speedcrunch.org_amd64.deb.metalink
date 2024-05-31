@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="speedcrunch_0.12-0~speedcrunch.org_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a85074c932dc23bd6ea853afebfef050</hash>
+				  
+				<hash type="sha1">6c61049bf8c41a2ab988e0e9c7a23c31a48ccb31</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/speedcrunch/speedcrunch_0.12-0~speedcrunch.org_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/speedcrunch/speedcrunch_0.12-0~speedcrunch.org_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/speedcrunch/speedcrunch_0.12-0~speedcrunch.org_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/speedcrunch/speedcrunch_0.12-0~speedcrunch.org_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/speedcrunch/speedcrunch_0.12-0~speedcrunch.org_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/speedcrunch/speedcrunch_0.12-0~speedcrunch.org_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

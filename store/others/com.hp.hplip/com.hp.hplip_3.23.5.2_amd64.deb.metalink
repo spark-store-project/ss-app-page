@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.hp.hplip_3.23.5.2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">65f72d0ad64a5168754e661a485d7028</hash>
+				  
+				<hash type="sha1">8754957eb094b8195d4c31873e9be70a8b48df1f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/com.hp.hplip/com.hp.hplip_3.23.5.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/com.hp.hplip/com.hp.hplip_3.23.5.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/com.hp.hplip/com.hp.hplip_3.23.5.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/com.hp.hplip/com.hp.hplip_3.23.5.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/com.hp.hplip/com.hp.hplip_3.23.5.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/com.hp.hplip/com.hp.hplip_3.23.5.2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

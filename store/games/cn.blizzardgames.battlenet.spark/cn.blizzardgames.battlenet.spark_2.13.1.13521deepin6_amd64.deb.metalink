@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.blizzardgames.battlenet.spark_2.13.1.13521deepin6_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">63b73be2119a23e5b3260e72e0981c85</hash>
+				  
+				<hash type="sha1">e046f28e79c50d0a46dfd5ed9f9ab1caa46bd0f4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/cn.blizzardgames.battlenet.spark/cn.blizzardgames.battlenet.spark_2.13.1.13521deepin6_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/cn.blizzardgames.battlenet.spark/cn.blizzardgames.battlenet.spark_2.13.1.13521deepin6_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/cn.blizzardgames.battlenet.spark/cn.blizzardgames.battlenet.spark_2.13.1.13521deepin6_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/cn.blizzardgames.battlenet.spark/cn.blizzardgames.battlenet.spark_2.13.1.13521deepin6_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/cn.blizzardgames.battlenet.spark/cn.blizzardgames.battlenet.spark_2.13.1.13521deepin6_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/cn.blizzardgames.battlenet.spark/cn.blizzardgames.battlenet.spark_2.13.1.13521deepin6_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

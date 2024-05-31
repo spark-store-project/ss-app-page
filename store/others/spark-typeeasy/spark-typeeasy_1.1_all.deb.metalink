@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-typeeasy_1.1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">3e2ef608814d3b54a9616cba3b855d69</hash>
+				  
+				<hash type="sha1">f7e108ef7fc334ec39f13e0490ab258239cae0eb</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/spark-typeeasy/spark-typeeasy_1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/spark-typeeasy/spark-typeeasy_1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/spark-typeeasy/spark-typeeasy_1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/spark-typeeasy/spark-typeeasy_1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/spark-typeeasy/spark-typeeasy_1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/spark-typeeasy/spark-typeeasy_1.1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

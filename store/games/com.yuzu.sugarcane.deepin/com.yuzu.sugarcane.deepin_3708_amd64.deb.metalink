@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.yuzu.sugarcane.deepin_3708_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a6f7f332c3667b91ee1eb541316295e4</hash>
+				  
+				<hash type="sha1">f0310180089e754a830d6efbc79c9f25535ceaf7</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.yuzu.sugarcane.deepin/com.yuzu.sugarcane.deepin_3708_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.yuzu.sugarcane.deepin/com.yuzu.sugarcane.deepin_3708_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.yuzu.sugarcane.deepin/com.yuzu.sugarcane.deepin_3708_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.yuzu.sugarcane.deepin/com.yuzu.sugarcane.deepin_3708_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.yuzu.sugarcane.deepin/com.yuzu.sugarcane.deepin_3708_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.yuzu.sugarcane.deepin/com.yuzu.sugarcane.deepin_3708_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

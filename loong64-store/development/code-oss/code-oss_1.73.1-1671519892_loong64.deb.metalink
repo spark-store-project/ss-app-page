@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="code-oss_1.73.1-1671519892_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7e09b8fb1991f516881a88b328d2f629</hash>
+				  
+				<hash type="sha1">9e60b1564b71f1ac9508986fd9c160a8044f8fa1</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/development/code-oss/code-oss_1.73.1-1671519892_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/development/code-oss/code-oss_1.73.1-1671519892_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/development/code-oss/code-oss_1.73.1-1671519892_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/development/code-oss/code-oss_1.73.1-1671519892_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/development/code-oss/code-oss_1.73.1-1671519892_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/development/code-oss/code-oss_1.73.1-1671519892_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="mkvtoolnix.spark_81.0spark4_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f700302768937abd057a6dcd427fbb00</hash>
+				  
+				<hash type="sha1">32e1cbc1acb5edcec54ba70897058e85967b5d8c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/video/mkvtoolnix.spark/mkvtoolnix.spark_81.0spark4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/video/mkvtoolnix.spark/mkvtoolnix.spark_81.0spark4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/video/mkvtoolnix.spark/mkvtoolnix.spark_81.0spark4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/video/mkvtoolnix.spark/mkvtoolnix.spark_81.0spark4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/video/mkvtoolnix.spark/mkvtoolnix.spark_81.0spark4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/video/mkvtoolnix.spark/mkvtoolnix.spark_81.0spark4_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

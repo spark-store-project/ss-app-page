@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.qq.weixin.work.uk.spark_3.1.6.3605spark1_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b3911950744c45232c062cd0c7502e47</hash>
+				  
+				<hash type="sha1">46cb325db156d325f3f2e3e43c57b377940e49c7</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.work.uk.spark/com.qq.weixin.work.uk.spark_3.1.6.3605spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/chat/com.qq.weixin.work.uk.spark/com.qq.weixin.work.uk.spark_3.1.6.3605spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/chat/com.qq.weixin.work.uk.spark/com.qq.weixin.work.uk.spark_3.1.6.3605spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/chat/com.qq.weixin.work.uk.spark/com.qq.weixin.work.uk.spark_3.1.6.3605spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/chat/com.qq.weixin.work.uk.spark/com.qq.weixin.work.uk.spark_3.1.6.3605spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/chat/com.qq.weixin.work.uk.spark/com.qq.weixin.work.uk.spark_3.1.6.3605spark1_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

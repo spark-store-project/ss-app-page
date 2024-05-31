@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.lanzou.spark_3.4.8spark2_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">05c246d78a28eec7896a637e92486d3d</hash>
+				  
+				<hash type="sha1">e67b872773167200af820d38a5142df8c696cd4e</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.lanzou.spark/com.lanzou.spark_3.4.8spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/network/com.lanzou.spark/com.lanzou.spark_3.4.8spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/network/com.lanzou.spark/com.lanzou.spark_3.4.8spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/network/com.lanzou.spark/com.lanzou.spark_3.4.8spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/network/com.lanzou.spark/com.lanzou.spark_3.4.8spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/network/com.lanzou.spark/com.lanzou.spark_3.4.8spark2_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

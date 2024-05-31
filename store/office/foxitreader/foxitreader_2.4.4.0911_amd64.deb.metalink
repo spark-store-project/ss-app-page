@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="foxitreader_2.4.4.0911_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">db14dd9334555205afef81086baaeaed</hash>
+				  
+				<hash type="sha1">9ac250c818df10d476c05a6fd077328912bee90f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/foxitreader/foxitreader_2.4.4.0911_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/foxitreader/foxitreader_2.4.4.0911_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/foxitreader/foxitreader_2.4.4.0911_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/foxitreader/foxitreader_2.4.4.0911_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/foxitreader/foxitreader_2.4.4.0911_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/foxitreader/foxitreader_2.4.4.0911_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

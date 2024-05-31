@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.specialcounterforceattack.spark_1.0spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b3d40c2ec598b1e5959c2ba9a4add124</hash>
+				  
+				<hash type="sha1">38a9c3b165e271ecd97cd3447dd4f7195ea186f4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.specialcounterforceattack.spark/com.specialcounterforceattack.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.specialcounterforceattack.spark/com.specialcounterforceattack.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.specialcounterforceattack.spark/com.specialcounterforceattack.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.specialcounterforceattack.spark/com.specialcounterforceattack.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.specialcounterforceattack.spark/com.specialcounterforceattack.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.specialcounterforceattack.spark/com.specialcounterforceattack.spark_1.0spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.suwell.reader.appstore_3.0.22.0916-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a328deee3cf341d3ed5e27ddb138764c</hash>
+				  
+				<hash type="sha1">10d583c05c0d33aa8cc31f5cfe4e137f83c3e973</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/cn.suwell.reader.appstore/cn.suwell.reader.appstore_3.0.22.0916-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/cn.suwell.reader.appstore/cn.suwell.reader.appstore_3.0.22.0916-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/cn.suwell.reader.appstore/cn.suwell.reader.appstore_3.0.22.0916-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/cn.suwell.reader.appstore/cn.suwell.reader.appstore_3.0.22.0916-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/cn.suwell.reader.appstore/cn.suwell.reader.appstore_3.0.22.0916-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/cn.suwell.reader.appstore/cn.suwell.reader.appstore_3.0.22.0916-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

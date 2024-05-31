@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="Steam_plus__plus__2.8.6_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f580b481f0459988f177366def13cf03</hash>
+				  
+				<hash type="sha1">ace6659cefeead800b3a3a1a016ecf1a7c20fea2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/games/steam%2B%2B/Steam_plus__plus__2.8.6_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/games/steam%2B%2B/Steam_plus__plus__2.8.6_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/games/steam%2B%2B/Steam_plus__plus__2.8.6_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/games/steam%2B%2B/Steam_plus__plus__2.8.6_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/games/steam%2B%2B/Steam_plus__plus__2.8.6_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/games/steam%2B%2B/Steam_plus__plus__2.8.6_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

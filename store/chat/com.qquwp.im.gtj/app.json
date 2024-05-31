@@ -1,0 +1,15 @@
+{
+    "Name": "QQ（UWP）",
+    "Version": "9.4.2UWP",
+    "Filename": "com.qquwp.im.gtj_9.4.2UWP_i386.deb",
+    "Pkgname": "com.qquwp.im.gtj",
+    "Author": "gtjmaster",
+    "Contributor": "kite",
+    "Website": "https://bbs.deepin.org/zh/post/185808",
+    "Update": "2021-07-12 14:53:51",
+    "Size": "150.81 MB",
+    "More": "2021年2月1日，微软 Windows 10 应用商店中出现了腾讯 QQ 桌面版  9.4.2 更新，该增加了消息记录的表情分类功能，可以帮助用户更便捷地查找会话表情。\n1. QQ源文件从Windows10中提取，未进行任何修改。\n2. wine容器使用深度官方QQ(wine)的wine容器包，因此这次使用deepin-wine5。本人不想太折腾，拿来用就好。\n3. 图标重新制作了下，处理下小细节，和之前的版本看不出什么差别。没办法，强迫症，小瑕疵不许有。\n4. 不会与深度官方的QQ(wine)冲突，可以共存。\n5. 依赖中，删除了一个什么“verify”的依赖，应该是UOS官方 特有的？其他的依赖和深度官方的QQ(wine)一样，懒得折腾了。\n6. 本人是在UOS个人版中打包的，但是不会签名，UOS个人版用户请开启开发者模式。\n7. 最近入手了MacBook Air M1，说实话，超级爽！而且腾讯QQ也适配了M1芯片，即arm版的桌面版QQ。关键一点，没有广告与弹窗！用得都有点不适应了，总觉得少点什么。\n8. 新版论坛不支持字体的颜色编辑吗？\n建议使用星火商店内置的安装器哦！",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/27c61eb0-e2dc-11eb-a638-37480505908c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/12/ea230190-e2db-11eb-a638-37480505908c.png"
+}

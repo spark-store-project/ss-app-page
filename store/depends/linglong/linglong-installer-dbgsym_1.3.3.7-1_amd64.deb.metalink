@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="linglong-installer-dbgsym_1.3.3.7-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">13e091dbc4213e67207d4ffa64f58a9f</hash>
+				  
+				<hash type="sha1">ccc1cf496ba0ff1f7cd0f67ae9afe3294d935461</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/linglong/linglong-installer-dbgsym_1.3.3.7-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/linglong/linglong-installer-dbgsym_1.3.3.7-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/linglong/linglong-installer-dbgsym_1.3.3.7-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/linglong/linglong-installer-dbgsym_1.3.3.7-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/linglong/linglong-installer-dbgsym_1.3.3.7-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/linglong/linglong-installer-dbgsym_1.3.3.7-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

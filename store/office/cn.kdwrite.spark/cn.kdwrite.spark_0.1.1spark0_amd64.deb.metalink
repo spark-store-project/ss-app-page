@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.kdwrite.spark_0.1.1spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">82d94333cc4e772e763e54363946bb47</hash>
+				  
+				<hash type="sha1">62d8595379693c490ccdac0019ef736775ccaa4f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/cn.kdwrite.spark/cn.kdwrite.spark_0.1.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/cn.kdwrite.spark/cn.kdwrite.spark_0.1.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/cn.kdwrite.spark/cn.kdwrite.spark_0.1.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/cn.kdwrite.spark/cn.kdwrite.spark_0.1.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/cn.kdwrite.spark/cn.kdwrite.spark_0.1.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/cn.kdwrite.spark/cn.kdwrite.spark_0.1.1spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

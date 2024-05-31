@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="xiuxiu.spark_6.4.2.0_plus_1_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">751226e39f5fb1dfd61afa422ba8ff06</hash>
+				  
+				<hash type="sha1">94fbb23013b3207b2091ff5c48be3f7b6fc94a35</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/xiuxiu.spark/xiuxiu.spark_6.4.2.0_plus_1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/xiuxiu.spark/xiuxiu.spark_6.4.2.0_plus_1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/xiuxiu.spark/xiuxiu.spark_6.4.2.0_plus_1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/xiuxiu.spark/xiuxiu.spark_6.4.2.0_plus_1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/xiuxiu.spark/xiuxiu.spark_6.4.2.0_plus_1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/xiuxiu.spark/xiuxiu.spark_6.4.2.0_plus_1_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.retroarch.retroarch.spark_1.16.0spark2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c2249f92f9b55bca9b6a7a2a63b1daf7</hash>
+				  
+				<hash type="sha1">7073e5fdf1e491bce117b7e55365bdd94704b52b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.retroarch.retroarch.spark/com.retroarch.retroarch.spark_1.16.0spark2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.retroarch.retroarch.spark/com.retroarch.retroarch.spark_1.16.0spark2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.retroarch.retroarch.spark/com.retroarch.retroarch.spark_1.16.0spark2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.retroarch.retroarch.spark/com.retroarch.retroarch.spark_1.16.0spark2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.retroarch.retroarch.spark/com.retroarch.retroarch.spark_1.16.0spark2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.retroarch.retroarch.spark/com.retroarch.retroarch.spark_1.16.0spark2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

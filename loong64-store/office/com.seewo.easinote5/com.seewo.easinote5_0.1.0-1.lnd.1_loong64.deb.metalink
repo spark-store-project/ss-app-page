@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.seewo.easinote5_0.1.0-1.lnd.1_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">aa2ef3725f7a36766630401eee523d2a</hash>
+				  
+				<hash type="sha1">3a37c6a785644f596369bcde6ea66b61cd5bb334</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/office/com.seewo.easinote5/com.seewo.easinote5_0.1.0-1.lnd.1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/office/com.seewo.easinote5/com.seewo.easinote5_0.1.0-1.lnd.1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/office/com.seewo.easinote5/com.seewo.easinote5_0.1.0-1.lnd.1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/office/com.seewo.easinote5/com.seewo.easinote5_0.1.0-1.lnd.1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/office/com.seewo.easinote5/com.seewo.easinote5_0.1.0-1.lnd.1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/office/com.seewo.easinote5/com.seewo.easinote5_0.1.0-1.lnd.1_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

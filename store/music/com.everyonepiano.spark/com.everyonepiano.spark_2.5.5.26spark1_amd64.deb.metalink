@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.everyonepiano.spark_2.5.5.26spark1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7b7e3203e9bddd6fc67fce76a01cca8b</hash>
+				  
+				<hash type="sha1">43b5893acdc15764bab6ba494ef9c6fb0842b220</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/music/com.everyonepiano.spark/com.everyonepiano.spark_2.5.5.26spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/music/com.everyonepiano.spark/com.everyonepiano.spark_2.5.5.26spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/music/com.everyonepiano.spark/com.everyonepiano.spark_2.5.5.26spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/music/com.everyonepiano.spark/com.everyonepiano.spark_2.5.5.26spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/music/com.everyonepiano.spark/com.everyonepiano.spark_2.5.5.26spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/music/com.everyonepiano.spark/com.everyonepiano.spark_2.5.5.26spark1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

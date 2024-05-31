@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.mozilla.firefox-esr.spark_1.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">48af6f35bd13ba47fe3a3aeb9e2eae92</hash>
+				  
+				<hash type="sha1">3ee2130b21c7a663b8a3ceabb754a3db173d4dfe</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/network/org.mozilla.firefox-esr.spark/org.mozilla.firefox-esr.spark_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/network/org.mozilla.firefox-esr.spark/org.mozilla.firefox-esr.spark_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/network/org.mozilla.firefox-esr.spark/org.mozilla.firefox-esr.spark_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/network/org.mozilla.firefox-esr.spark/org.mozilla.firefox-esr.spark_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/network/org.mozilla.firefox-esr.spark/org.mozilla.firefox-esr.spark_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/network/org.mozilla.firefox-esr.spark/org.mozilla.firefox-esr.spark_1.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

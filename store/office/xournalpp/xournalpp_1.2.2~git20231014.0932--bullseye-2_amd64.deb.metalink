@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="xournalpp_1.2.2~git20231014.0932--bullseye-2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">aeb10965a3024e0b00e4ddbf74fe2ac7</hash>
+				  
+				<hash type="sha1">907c0fe74e5126d2af99b4feb6a134649d5bef2e</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/xournalpp/xournalpp_1.2.2~git20231014.0932--bullseye-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/xournalpp/xournalpp_1.2.2~git20231014.0932--bullseye-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/xournalpp/xournalpp_1.2.2~git20231014.0932--bullseye-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/xournalpp/xournalpp_1.2.2~git20231014.0932--bullseye-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/xournalpp/xournalpp_1.2.2~git20231014.0932--bullseye-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/xournalpp/xournalpp_1.2.2~git20231014.0932--bullseye-2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

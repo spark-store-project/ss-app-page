@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="aliyun-cli_3.0.161~spark1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1e1429525817f16cc2d26aa541083af1</hash>
+				  
+				<hash type="sha1">4996845a91f2d63eee7404806aad37e092a187b2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/aliyun-cli/aliyun-cli_3.0.161~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/aliyun-cli/aliyun-cli_3.0.161~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/aliyun-cli/aliyun-cli_3.0.161~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/aliyun-cli/aliyun-cli_3.0.161~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/aliyun-cli/aliyun-cli_3.0.161~spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/aliyun-cli/aliyun-cli_3.0.161~spark1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

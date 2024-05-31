@@ -1,0 +1,16 @@
+{
+    "Name": "简繁转换",
+    "Version": "1.2.5",
+    "Filename": "mfra.jianfanzh_1.2.5_amd64.deb",
+    "Torrent_address": "mfra.jianfanzh_1.2.5_amd64.deb.torrent",
+    "Pkgname": "mfra.jianfanzh",
+    "Author": "校医软件室",
+    "Contributor": "校医软件室",
+    "Website": "t.me/otohime_soft_room/32",
+    "Update": "2024-02-02 22:02:53",
+    "Size": "6.68 MB",
+    "More": "简繁转换（此软件由AI生成py脚本，再由nuitka打包生成。）\n  本软件可以相互转换简体文本和繁体文本。\n  用法：\n 输入转换类型：(s2t简转繁，t2s繁转简)\n 模式：1或2\n 选1不用说，你懂的。\n 选2就是批量转换\n 文件夹路径：（输入待转换的文件夹的路径）\n 文本格式：（后缀，.xxx）\n 字符编码：（UTF-8,UTF-16,gbk等等）\n 注：转换后会直接覆盖原来的文件夹，操作前记得备份！",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/02/66cefae845404ea78366bc898a744fb7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/02/9b4046b1cdcc4358ba143b29c5afa16b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/02/87c1c488ef534b149f1a6f8e740e85b8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/02/d51f714ae3064aa89e09a94506c48912.png"
+}

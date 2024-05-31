@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="sunloginenterprise_3.8.1.60453_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">361a87df36e5799c99ffd3d35f3f691c</hash>
+				  
+				<hash type="sha1">e9173412c28a2f10a28692b61aaaef35c3747b6e</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/sunloginenterprise/sunloginenterprise_3.8.1.60453_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/sunloginenterprise/sunloginenterprise_3.8.1.60453_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/sunloginenterprise/sunloginenterprise_3.8.1.60453_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/sunloginenterprise/sunloginenterprise_3.8.1.60453_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/sunloginenterprise/sunloginenterprise_3.8.1.60453_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/sunloginenterprise/sunloginenterprise_3.8.1.60453_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="z-tools-adbmanager_0.1.1-20230817_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">76f7fde72a4ec472aed8503d4ff2392b</hash>
+				  
+				<hash type="sha1">67a7f96fe8d6563c28b6837293a1a10972f3e13d</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-adbmanager/z-tools-adbmanager_0.1.1-20230817_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/z-tools-adbmanager/z-tools-adbmanager_0.1.1-20230817_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/z-tools-adbmanager/z-tools-adbmanager_0.1.1-20230817_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/z-tools-adbmanager/z-tools-adbmanager_0.1.1-20230817_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/z-tools-adbmanager/z-tools-adbmanager_0.1.1-20230817_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/z-tools-adbmanager/z-tools-adbmanager_0.1.1-20230817_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="uengine-dc-com.netease.edu.ucmooc_4.24.12_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a1131d8eb2fd9be556d3663d3cce816b</hash>
+				  
+				<hash type="sha1">3ef06ae1a78dcdc9007f33f7c516c5991f1d2810</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/uengine-dc-com.netease.edu.ucmooc/uengine-dc-com.netease.edu.ucmooc_4.24.12_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/uengine-dc-com.netease.edu.ucmooc/uengine-dc-com.netease.edu.ucmooc_4.24.12_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/uengine-dc-com.netease.edu.ucmooc/uengine-dc-com.netease.edu.ucmooc_4.24.12_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/uengine-dc-com.netease.edu.ucmooc/uengine-dc-com.netease.edu.ucmooc_4.24.12_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/uengine-dc-com.netease.edu.ucmooc/uengine-dc-com.netease.edu.ucmooc_4.24.12_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/uengine-dc-com.netease.edu.ucmooc/uengine-dc-com.netease.edu.ucmooc_4.24.12_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

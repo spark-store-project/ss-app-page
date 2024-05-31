@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.mutangsuugame.spark_2021.3.0.13275_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">becb80b6ff22d2c7da1bc3509546e34d</hash>
+				  
+				<hash type="sha1">734463b2b2170a7082c46d78db72abc5e800012c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.mutangsuugame.spark/com.mutangsuugame.spark_2021.3.0.13275_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.mutangsuugame.spark/com.mutangsuugame.spark_2021.3.0.13275_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.mutangsuugame.spark/com.mutangsuugame.spark_2021.3.0.13275_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.mutangsuugame.spark/com.mutangsuugame.spark_2021.3.0.13275_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.mutangsuugame.spark/com.mutangsuugame.spark_2021.3.0.13275_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.mutangsuugame.spark/com.mutangsuugame.spark_2021.3.0.13275_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

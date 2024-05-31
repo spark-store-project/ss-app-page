@@ -1,0 +1,208 @@
+[
+{
+    "Author": "海天鹰 <sonichy@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.htypdf.spark_1.0_loong64.deb",
+    "More": "用于查看PDF文件的小巧工具",
+    "Name": "海天鹰PDF",
+    "Pkgname": "com.htypdf.spark",
+    "Size": "51 Kb",
+    "Tags": "community;deepin",
+    "Torrent_address": "com.htypdf.spark_1.0_loong64.deb.torrent",
+    "Update": "2024-03-24 22:33:15",
+    "Version": "1.0",
+    "Website": "https://github.com/sonichy/HTYPDF",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/reading/com.htypdf.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/reading/com.htypdf.spark/screen_1.png\"]"
+}
+
+,
+{
+    "Name": "Sumatra PDF",
+    "Version": "3.5.2spark3",
+    "Filename": "org.sumatrapdf.spark_3.5.2spark3_all.deb",
+    "Torrent_address": "org.sumatrapdf.spark_3.5.2spark3_all.deb.torrent",
+    "Pkgname": "org.sumatrapdf.spark",
+    "Author": "Krzysztof Kowalczyk",
+    "Contributor": "sgb76",
+    "Website": "https://www.sumatrapdfreader.org/free-pdf-reader",
+    "Update": "2023-12-30 18:44:38",
+    "Size": "19.2 MB",
+    "More": "一款功能强大、体积小、启动速度快，支持PDF、ePub、MOBI、CHM、XPS、DjVu、CBZ、CBR等格式的阅读器",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/581f1a2e9f1d42078d9193233cfa2d64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/376883e577894aa98bfe6b77bb9b5807.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/583385abc32e486c9aacee811641bad7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/67f53ab5752a43c9ab2330e5fa4796eb.png"
+}
+,
+{
+    "Name": "数科OFD阅读器",
+    "Version": "5.0.23.1117spark0",
+    "Filename": "cn.suwell.ofd-reader.spark_5.0.23.1117spark0_all.deb",
+    "Torrent_address": "cn.suwell.ofd-reader.spark_5.0.23.1117spark0_all.deb.torrent",
+    "Pkgname": "cn.suwell.ofd-reader.spark",
+    "Author": "北京数科网维技术有限责任公司",
+    "Contributor": "sgb76",
+    "Website": "http://www.suwell.cn/product/index.html",
+    "Update": "2023-12-09 21:26:31",
+    "Size": "83.34 MB",
+    "More": "一款基于我国自主 OFD 标准的版式阅读器产品，不仅支持 OFD/PDF 电子文件的阅读浏览、文档操作、图文注释等通用版式处理功能，还根据公务办公特点，提供原笔迹签批、电子印章、语义应用、修订标记等公务应用扩展功能",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/256ab40f92f34b369d9101093aa6991a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/2b100cef06cc40b8b09a92d5d5479080.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/fd58f95316df4def83ee9636f756c9f6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/09/3bd8b68b2ffe42df99549fc7ff175698.png"
+}
+,
+{
+    "Author": "shenmo",
+    "Contributor": "shenmo <jfile:///home/shenmo-ikun/Desktop/截图_spark-webapp-runtime_20231209161038.pngifengshenmo@outlook.com>",
+    "Filename": "web-weread_1.0_all.deb",
+    "More": "微信读书，照亮你的美",
+    "Name": "微信读书",
+    "Pkgname": "web-weread",
+    "Size": "5 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "web-weread_1.0_all.deb.torrent",
+    "Update": "2023-12-09 16:11:01",
+    "Version": "1.0",
+    "Website": "https://weread.qq.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/reading/web-weread/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/reading/web-weread/screen_1.png\"]"
+}
+
+,
+{
+    "Name": "Reader",
+    "Version": "2.0.0.4spark0",
+    "Filename": "com.github.reader.spark_2.0.0.4spark0_all.deb",
+    "Torrent_address": "com.github.reader.spark_2.0.0.4spark0_all.deb.torrent",
+    "Pkgname": "com.github.reader.spark",
+    "Author": "binbyu",
+    "Contributor": "sgb76",
+    "Website": "https://github.com/binbyu/Reader",
+    "Update": "2023-11-02 16:31:15",
+    "Size": "16.52 MB",
+    "More": "一款开源免费简洁的小说阅读小工具，支持自动翻页、更改字体、网络小说、快捷键丰富、老板键、修改背景、任意窗口调节等",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/fc11d4927de44ca9b2f056daf47cc5ac.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/a984a9ae7afe4ce0915178c62c8061f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/34dcc6d436014e8e881de25f4de9eca8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/866a6baa5b9c424dac9f1875c60fbaa4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/02/579971895b15405f90085acbd82319fa.png"
+}
+,
+{
+    "Name": "凤凰学业",
+    "Version": "1.0.0",
+    "Filename": "web-yfhxya_1.0.0_all.deb",
+    "Torrent_address": "web-yfhxya_1.0.0_all.deb.torrent",
+    "Pkgname": "web-yfhxya",
+    "Author": "菰城鸥鹭",
+    "Contributor": "菰城鸥鹭",
+    "Website": "https://gitee.com/YFHXYA_personal/web/",
+    "Update": "2023-11-13 21:57:02",
+    "Size": "56.56 KB",
+    "More": "使用火星网页打包工具打包，纯静态html，基于Gitee page服务，提供免费的学习资源，该项目会持续更新与优化。开源地址：https://gitee.com/YFHXYA_personal/web/",
+    "Tags": "uos;deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/13/3d343e70-822c-11ee-b421-87a7677c72a6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/13/3f0c0bb0-822c-11ee-b421-87a7677c72a6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/13/4082f440-822c-11ee-b421-87a7677c72a6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/13/35b880c0-822c-11ee-b421-87a7677c72a6.png"
+}
+,
+{
+    "Name": "浙江省音像教材网络下载",
+    "Version": "2.1.0",
+    "Filename": "spark-zjeav.com-runner_2.1.0_all.deb",
+    "Torrent_address": "spark-zjeav.com-runner_2.1.0_all.deb.torrent",
+    "Pkgname": "spark-zjeav.com-runner",
+    "Author": "浙江省音像教材网络下载",
+    "Contributor": "cxk",
+    "Website": "http://zjeav.com/#/",
+    "Update": "2023-10-11 19:46:07",
+    "Size": "493.74 MB",
+    "More": "浙江专用",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/11/c0bae3e0-682b-11ee-9aa7-d389c192aabe.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/11/aa595e10-682b-11ee-9aa7-d389c192aabe.png"
+}
+,
+{
+    "Name": "查询单词UI版",
+    "Version": "1.1.0",
+    "Filename": "look-up-words-ui-by-xiguang_1.1.0_all.deb",
+    "Torrent_address": "look-up-words-ui-by-xiguang_1.1.0_all.deb.torrent",
+    "Pkgname": "look-up-words-ui-by-xiguang",
+    "Author": "汐光 <3285778581@qq.com>",
+    "Contributor": "xi-guang1 <3285778581@qq.com>",
+    "Website": "http://xi-guang1.github.io",
+    "Update": "2022-12-06 08:40:37",
+    "Size": "47.43 KB",
+    "More": "一个中学生制作的查询单词软件",
+    "Tags": "community;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/06/684efdd22a2d4090bd72e1e7d88a1749.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/06/941304059e924917a2b06075b07897f6.png"
+}
+,
+{
+    "Name": "Foliate",
+    "Version": "2.6.4",
+    "Filename": "foliate_2.6.4_all.deb",
+    "Torrent_address": "foliate_2.6.4_all.deb.torrent",
+    "Pkgname": "foliate",
+    "Author": "John Factotum",
+    "Contributor": "sgb76",
+    "Website": "https://johnfactotum.github.io/foliate/",
+    "Update": "2023-02-10 23:40:27",
+    "Size": "892.96 KB",
+    "More": "Foliate是一个使用GJS和 Epub.js构建的开源GTK电子书阅读器，具有简单而现代的用户界面",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/839ff57a2be34a9f89848facd7a6ee3c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/9f8616cc40dd479a8af44c28f2776c4c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/6507da1988a0456996862fab7da76869.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/10/adee4c4eb9d44593bb72fe414d747b0c.png"
+}
+,
+{
+    "Name": "小绿鲸英文文献阅读器(Wine)",
+    "Version": "2.3.7",
+    "Filename": "com.xljsci.deepin_2.3.7_all.deb",
+    "Torrent_address": "com.xljsci.deepin_2.3.7_all.deb.torrent",
+    "Pkgname": "com.xljsci.deepin",
+    "Author": "见鲸科技（南京）有限公司",
+    "Contributor": "RichardYann",
+    "Website": "https://www.xljsci.com/",
+    "Update": "2024-03-08 09:10:02",
+    "Size": "103.86 MB",
+    "More": "集翻译、笔记、文献管理、写作功能于一体的云端英文文献阅读器",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/7c7babcb74474073a7a0c90bdf7b70b4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/39c1a8dcaa144955a4499a4a7cb0f094.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/08/393d227830cd4f13b02192b979e5926b.png"
+}
+,
+{
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.unicornviewer.spark_0.24.spark1_all.deb",
+    "More": "基于deepin-wine5打包。UnicornViewer是一个针对扫描版电子文档的浏览器，程序小巧、运行流畅，打开电子文档速度非常快，具有下列功能：支持PDF、PDG格式、多页TIFF格式。PDG格式仅支持图像版0xH、1xH、28H、AxH，不支持FFH、6xH和文本PDG。支持连续翻页、并排显示、多种缩放方式及打印。",
+    "Name": "Unicorn Viewer（wine）",
+    "Pkgname": "com.unicornviewer.spark",
+    "Size": "8508 Kb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.unicornviewer.spark_0.24.spark1_all.deb.torrent",
+    "Update": "2024-05-01 21:40:14",
+    "Version": "0.24.spark1",
+    "Website": "不详",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/reading/com.unicornviewer.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/reading/com.unicornviewer.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/reading/com.unicornviewer.spark/screen_2.png\"]"
+}
+
+,
+{
+    "Name": "Epubor Ultimate Converter",
+    "Version": "3.0.15.1205spark0",
+    "Filename": "com.epubor.epubor-ultimate-converter.spark_3.0.15.1205spark0_all.deb",
+    "Torrent_address": "com.epubor.epubor-ultimate-converter.spark_3.0.15.1205spark0_all.deb.torrent",
+    "Pkgname": "com.epubor.epubor-ultimate-converter.spark",
+    "Author": "www.epubor.com",
+    "Contributor": "sgb76",
+    "Website": "https://www.epubor.com/ultimate.html",
+    "Update": "2023-12-10 22:39:12",
+    "Size": "114.06 MB",
+    "More": "一款电子书格式转换工具，它可以很容易地将一堆书籍转换为 EPUB，PDF 或 Mobi，并且转换后的书籍完全按照它们的方式显示。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/b474458d68324ad091e32996a65d14eb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/7ae43b1e7a764f03b050b64aca30490f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/f3a4c5bd3ec74c52bbc7703c4e1a1662.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/10/1b9a3175b22843d0b1e355dcc5d28557.png"
+}
+]

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.apachedirectorystudio.spark_2.0.0.v20210717_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7eee14a467216606cab2a6b57d01f3cf</hash>
+				  
+				<hash type="sha1">d4460b3c571c6b5d12ac5f3b3155f755c83912c6</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/org.apachedirectorystudio.spark/org.apachedirectorystudio.spark_2.0.0.v20210717_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/org.apachedirectorystudio.spark/org.apachedirectorystudio.spark_2.0.0.v20210717_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/org.apachedirectorystudio.spark/org.apachedirectorystudio.spark_2.0.0.v20210717_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/org.apachedirectorystudio.spark/org.apachedirectorystudio.spark_2.0.0.v20210717_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/org.apachedirectorystudio.spark/org.apachedirectorystudio.spark_2.0.0.v20210717_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/org.apachedirectorystudio.spark/org.apachedirectorystudio.spark_2.0.0.v20210717_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

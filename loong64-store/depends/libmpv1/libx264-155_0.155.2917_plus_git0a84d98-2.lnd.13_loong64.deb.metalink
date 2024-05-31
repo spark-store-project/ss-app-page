@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libx264-155_0.155.2917_plus_git0a84d98-2.lnd.13_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">da95c2ab65624c3efc4ca4f9da9856d8</hash>
+				  
+				<hash type="sha1">967db3add6009d03d22b4fb877cc05eb6eed86c5</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/depends/libmpv1/libx264-155_0.155.2917_plus_git0a84d98-2.lnd.13_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/depends/libmpv1/libx264-155_0.155.2917_plus_git0a84d98-2.lnd.13_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/depends/libmpv1/libx264-155_0.155.2917_plus_git0a84d98-2.lnd.13_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/depends/libmpv1/libx264-155_0.155.2917_plus_git0a84d98-2.lnd.13_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/depends/libmpv1/libx264-155_0.155.2917_plus_git0a84d98-2.lnd.13_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/depends/libmpv1/libx264-155_0.155.2917_plus_git0a84d98-2.lnd.13_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

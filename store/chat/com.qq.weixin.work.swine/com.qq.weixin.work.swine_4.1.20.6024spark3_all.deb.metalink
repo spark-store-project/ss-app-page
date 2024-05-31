@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.qq.weixin.work.swine_4.1.20.6024spark3_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e27da13351da233b5565e30743855a7c</hash>
+				  
+				<hash type="sha1">202c9ef6f9c869b55c3987b8dc230a7fc56cd252</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.work.swine/com.qq.weixin.work.swine_4.1.20.6024spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/chat/com.qq.weixin.work.swine/com.qq.weixin.work.swine_4.1.20.6024spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/chat/com.qq.weixin.work.swine/com.qq.weixin.work.swine_4.1.20.6024spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/chat/com.qq.weixin.work.swine/com.qq.weixin.work.swine_4.1.20.6024spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/chat/com.qq.weixin.work.swine/com.qq.weixin.work.swine_4.1.20.6024spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/chat/com.qq.weixin.work.swine/com.qq.weixin.work.swine_4.1.20.6024spark3_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

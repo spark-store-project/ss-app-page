@@ -1,0 +1,16 @@
+{
+    "Name": "简单任务栏网速插件",
+    "Version": "0.0.5",
+    "Filename": "com.github.ccc-proc-info-plugin_0.0.5_amd64.deb",
+    "Torrent_address": "com.github.ccc-proc-info-plugin_0.0.5_amd64.deb.torrent",
+    "Pkgname": "com.github.ccc-proc-info-plugin",
+    "Author": "keke <243768648@qq.com>",
+    "Contributor": "keke <243768648@qq.com>",
+    "Website": "https://gitee.com/ct243768648/ccc-proc-info-plugin",
+    "Update": "2023-03-08 11:06:38",
+    "Size": "356.53 KB",
+    "More": "查看进程信息，包括网速、包名等；清理进程。\n（如果安装不成功，可能是由于安装了此工具的较老版本，请在终端执行“sudo apt remove com.github.proc-info-plugin”卸载之前版本后，再尝试安装本工具）\n\n\nV0.0.5更新说明：\n——————————————————\n添加功能： \n1、上下拖动应用项可以控制应用的关闭和锁定\n\nV0.0.4更新说明：\n——————————————————\n修复： \n1、当网易云音乐后台播放时不可被强制关闭；\n2、深度音乐不可被强制关闭\n\nV0.0.3更新说明：\n——————————————————\n更新： \n1、进程清理工具\n修复： \n1、启动器中点击进程信息图标，不能打开应用",
+    "Tags": "deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/f7a59f35cf8e4ad99e856fb8c7b23611.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/bf704e4b4e1e4323b7ff28df976a086f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/82574bdc9b4a4e3095029f3a04528459.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/504fe01d34594e92bad21719936b2d65.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/08/412e723da853488f8165db03f99381d2.png"
+}

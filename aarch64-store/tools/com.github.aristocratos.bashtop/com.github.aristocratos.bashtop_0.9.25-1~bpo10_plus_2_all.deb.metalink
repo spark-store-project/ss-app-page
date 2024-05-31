@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus_2_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">88bf325242d6a234c1c2d8f2d9c62914</hash>
+				  
+				<hash type="sha1">f44dacdf1e8eb945702c1bf71e3843c5d6d4b774</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/com.github.aristocratos.bashtop/com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus_2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/tools/com.github.aristocratos.bashtop/com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus_2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/tools/com.github.aristocratos.bashtop/com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus_2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/tools/com.github.aristocratos.bashtop/com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus_2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/tools/com.github.aristocratos.bashtop/com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus_2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/tools/com.github.aristocratos.bashtop/com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus_2_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,16 @@
+{
+    "Name": "UxPlay (AirPlay 服务器)",
+    "Version": "1.54d-1",
+    "Filename": "uxplay_1.54d-1_amd64.deb",
+    "Torrent_address": "uxplay_1.54d-1_amd64.deb.torrent",
+    "Pkgname": "uxplay",
+    "Author": "FDH2",
+    "Contributor": "秦以南",
+    "Website": "https://github.com/FDH2/UxPlay",
+    "Update": "2023-07-06 23:53:53",
+    "Size": "238.96 KB",
+    "More": "用于Linux的AirPlay服务器。\n依赖libssl3 >= 3.0.0~~beta1\n由于DeepinV20没有OpenSSL3.0。为了使其能在DeepinV20上面运行，请从下面的地址下载为DeepinV20编译的依赖包 libssl3_3.0.0~~beta1-1_amd64.deb ！Thanks♪(･ω･)ﾉ\nhttps://budgerigar.lanzoum.com/b0134u6gb\n密码:933v",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/06/363fb5e0-1c15-11ee-9c9b-532f5243768a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/06/260d97a0-1c15-11ee-9c9b-532f5243768a.png"
+}

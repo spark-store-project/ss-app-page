@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.amdox.board_2.0.0.2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">3f2f0040aa6ed5d9075c507f630fc476</hash>
+				  
+				<hash type="sha1">7565504707c7f51305a7772e0401a8deb4b6523c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.amdox.board/com.amdox.board_2.0.0.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.amdox.board/com.amdox.board_2.0.0.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.amdox.board/com.amdox.board_2.0.0.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.amdox.board/com.amdox.board_2.0.0.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.amdox.board/com.amdox.board_2.0.0.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.amdox.board/com.amdox.board_2.0.0.2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

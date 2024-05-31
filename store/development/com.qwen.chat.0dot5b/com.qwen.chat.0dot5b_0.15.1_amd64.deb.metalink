@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.qwen.chat.0dot5b_0.15.1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">2d7ae4aabd63af8774d8b01bf5d31db4</hash>
+				  
+				<hash type="sha1">c0f0724fcd61d7923e70b40440c7b87fabf9de42</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/com.qwen.chat.0dot5b/com.qwen.chat.0dot5b_0.15.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/com.qwen.chat.0dot5b/com.qwen.chat.0dot5b_0.15.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/com.qwen.chat.0dot5b/com.qwen.chat.0dot5b_0.15.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/com.qwen.chat.0dot5b/com.qwen.chat.0dot5b_0.15.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/com.qwen.chat.0dot5b/com.qwen.chat.0dot5b_0.15.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/com.qwen.chat.0dot5b/com.qwen.chat.0dot5b_0.15.1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

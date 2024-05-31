@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.nfs8underground2.spark_1.0spark1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a87c33b46810da2709fcbbddf2bbdb2b</hash>
+				  
+				<hash type="sha1">12250a8fee3ac68d40d2e9dc7ce3ec041fb9e20c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.nfs8underground2.spark/com.nfs8underground2.spark_1.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.nfs8underground2.spark/com.nfs8underground2.spark_1.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.nfs8underground2.spark/com.nfs8underground2.spark_1.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.nfs8underground2.spark/com.nfs8underground2.spark_1.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.nfs8underground2.spark/com.nfs8underground2.spark_1.0spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.nfs8underground2.spark/com.nfs8underground2.spark_1.0spark1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

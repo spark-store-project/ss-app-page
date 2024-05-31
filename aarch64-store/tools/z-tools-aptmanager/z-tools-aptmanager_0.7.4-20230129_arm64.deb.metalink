@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="z-tools-aptmanager_0.7.4-20230129_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">078db25ded3b8be0a9205563830ba391</hash>
+				  
+				<hash type="sha1">e02662e0f4afe3f474b391bbfa30c225703afda6</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/z-tools-aptmanager/z-tools-aptmanager_0.7.4-20230129_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/tools/z-tools-aptmanager/z-tools-aptmanager_0.7.4-20230129_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/tools/z-tools-aptmanager/z-tools-aptmanager_0.7.4-20230129_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/tools/z-tools-aptmanager/z-tools-aptmanager_0.7.4-20230129_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/tools/z-tools-aptmanager/z-tools-aptmanager_0.7.4-20230129_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/tools/z-tools-aptmanager/z-tools-aptmanager_0.7.4-20230129_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

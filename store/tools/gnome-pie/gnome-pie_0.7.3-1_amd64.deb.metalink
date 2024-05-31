@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="gnome-pie_0.7.3-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c3ac1007659334f4c306889893dbb8dd</hash>
+				  
+				<hash type="sha1">ce4180f80598cab9cd2c9b83b7bd7c31dd5c59c7</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/gnome-pie/gnome-pie_0.7.3-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/gnome-pie/gnome-pie_0.7.3-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/gnome-pie/gnome-pie_0.7.3-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/gnome-pie/gnome-pie_0.7.3-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/gnome-pie/gnome-pie_0.7.3-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/gnome-pie/gnome-pie_0.7.3-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

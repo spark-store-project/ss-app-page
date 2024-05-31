@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.library-baby-deepin20-8_1.04_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">98897fe1c58b3d9c34ea078415f56db5</hash>
+				  
+				<hash type="sha1">c9e45d654c7e2f3830868f75546d3c09463c70fd</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/com.library-baby-deepin20-8/com.library-baby-deepin20-8_1.04_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/com.library-baby-deepin20-8/com.library-baby-deepin20-8_1.04_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/com.library-baby-deepin20-8/com.library-baby-deepin20-8_1.04_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/com.library-baby-deepin20-8/com.library-baby-deepin20-8_1.04_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/com.library-baby-deepin20-8/com.library-baby-deepin20-8_1.04_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/com.library-baby-deepin20-8/com.library-baby-deepin20-8_1.04_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

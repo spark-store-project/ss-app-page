@@ -1,0 +1,16 @@
+{
+    "Author": "xretia <webmaster@xretia.labs>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "cn.speedtest.master_1.6.1_arm64.deb",
+    "More": "SpeedTest.cn 官方客户端移植版\n\nv1.6.1 - 2020/12/25\n从官方 1.6.1 Windows 版本移植\n修复标题栏缺失导致 Linux 无法关闭程序\n修复 Linux 图标缺失\n修复 Linux 下布局轻微错乱\n去除升级提示\n\n也有 ARM 平台，看这里：https://bbs.deepin.org/post/208628",
+    "Name": "网速管家",
+    "Pkgname": "cn.speedtest.master",
+    "Size": "66 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "cn.speedtest.master_1.6.1_arm64.deb.torrent",
+    "Update": "2023-03-05 19:23:50",
+    "Version": "1.6.1",
+    "Website": "https://gitlab.com/dfc643/speedtest-cn/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_3.png\"]"
+}

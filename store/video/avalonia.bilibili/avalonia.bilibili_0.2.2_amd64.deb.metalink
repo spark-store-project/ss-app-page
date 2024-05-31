@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="avalonia.bilibili_0.2.2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">0cbc595b8ec163dfba7763cee7b11bbe</hash>
+				  
+				<hash type="sha1">124f501404bc4be082466482a35c87bcccc5dc13</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/video/avalonia.bilibili/avalonia.bilibili_0.2.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/video/avalonia.bilibili/avalonia.bilibili_0.2.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/video/avalonia.bilibili/avalonia.bilibili_0.2.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/video/avalonia.bilibili/avalonia.bilibili_0.2.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/video/avalonia.bilibili/avalonia.bilibili_0.2.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/video/avalonia.bilibili/avalonia.bilibili_0.2.2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

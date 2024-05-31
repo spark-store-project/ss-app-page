@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.worldtothewest.spark_1.4_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">56fdd392ad496829a4a027a1f6fb73cb</hash>
+				  
+				<hash type="sha1">20e80ae636072ed1aee37a8bc0c7cb7f66687c49</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.worldtothewest.spark/com.worldtothewest.spark_1.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.worldtothewest.spark/com.worldtothewest.spark_1.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.worldtothewest.spark/com.worldtothewest.spark_1.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.worldtothewest.spark/com.worldtothewest.spark_1.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.worldtothewest.spark/com.worldtothewest.spark_1.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.worldtothewest.spark/com.worldtothewest.spark_1.4_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

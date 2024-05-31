@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="zybang.spark_0.02_plus_1_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">2624e3d0632b6cbe77821bb2fe1133e4</hash>
+				  
+				<hash type="sha1">ddfdd285e765f07e9fe5af4f90e74909d699ba15</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/zybang.spark/zybang.spark_0.02_plus_1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/zybang.spark/zybang.spark_0.02_plus_1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/zybang.spark/zybang.spark_0.02_plus_1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/zybang.spark/zybang.spark_0.02_plus_1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/zybang.spark/zybang.spark_0.02_plus_1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/zybang.spark/zybang.spark_0.02_plus_1_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

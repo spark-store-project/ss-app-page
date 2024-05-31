@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.uniontech.themetool_1.0.5_plusv23_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">4b34d05ee4e8dff80ade732fd998e116</hash>
+				  
+				<hash type="sha1">79e22f800a5fcc4f6d80ff3c1723c52ec7e68fb0</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.themetool/com.uniontech.themetool_1.0.5_plusv23_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/themes/com.uniontech.themetool/com.uniontech.themetool_1.0.5_plusv23_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/themes/com.uniontech.themetool/com.uniontech.themetool_1.0.5_plusv23_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/themes/com.uniontech.themetool/com.uniontech.themetool_1.0.5_plusv23_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/themes/com.uniontech.themetool/com.uniontech.themetool_1.0.5_plusv23_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/themes/com.uniontech.themetool/com.uniontech.themetool_1.0.5_plusv23_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

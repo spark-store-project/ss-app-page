@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="realvnc-vnc-viewer_7.11.0.18_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7599b71b7c989b94d959e18c9a0732cd</hash>
+				  
+				<hash type="sha1">8e2fee1d26661ca0ced3baf9d49bf20345a4ff44</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/realvnc-vnc-viewer/realvnc-vnc-viewer_7.11.0.18_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/realvnc-vnc-viewer/realvnc-vnc-viewer_7.11.0.18_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/realvnc-vnc-viewer/realvnc-vnc-viewer_7.11.0.18_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/realvnc-vnc-viewer/realvnc-vnc-viewer_7.11.0.18_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/realvnc-vnc-viewer/realvnc-vnc-viewer_7.11.0.18_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/realvnc-vnc-viewer/realvnc-vnc-viewer_7.11.0.18_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

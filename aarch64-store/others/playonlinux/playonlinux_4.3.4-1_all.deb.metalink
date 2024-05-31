@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="playonlinux_4.3.4-1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">99ed52c64b56f419c07a541ee290bc44</hash>
+				  
+				<hash type="sha1">6eca4147bd34456b640aedbd3fb2644fde7b2f45</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/others/playonlinux/playonlinux_4.3.4-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/others/playonlinux/playonlinux_4.3.4-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/others/playonlinux/playonlinux_4.3.4-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/others/playonlinux/playonlinux_4.3.4-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/others/playonlinux/playonlinux_4.3.4-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/others/playonlinux/playonlinux_4.3.4-1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

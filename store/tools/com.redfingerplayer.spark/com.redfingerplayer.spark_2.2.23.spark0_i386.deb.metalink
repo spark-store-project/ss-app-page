@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.redfingerplayer.spark_2.2.23.spark0_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">30e845ba4b88305682fd873988e05574</hash>
+				  
+				<hash type="sha1">9c63f697c1c7a4af4fe219a60a4a9173ad50c47c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/com.redfingerplayer.spark/com.redfingerplayer.spark_2.2.23.spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/com.redfingerplayer.spark/com.redfingerplayer.spark_2.2.23.spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/com.redfingerplayer.spark/com.redfingerplayer.spark_2.2.23.spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/com.redfingerplayer.spark/com.redfingerplayer.spark_2.2.23.spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/com.redfingerplayer.spark/com.redfingerplayer.spark_2.2.23.spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/com.redfingerplayer.spark/com.redfingerplayer.spark_2.2.23.spark0_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.deepin.cajv_7.2.0spark3_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">844b8e9b15c67c8059f46bc8d8ee6fcd</hash>
+				  
+				<hash type="sha1">c0a90385f503c42da130b979aab172c497f46edb</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.deepin.cajv/com.deepin.cajv_7.2.0spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.deepin.cajv/com.deepin.cajv_7.2.0spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.deepin.cajv/com.deepin.cajv_7.2.0spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.deepin.cajv/com.deepin.cajv_7.2.0spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.deepin.cajv/com.deepin.cajv_7.2.0spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.deepin.cajv/com.deepin.cajv_7.2.0spark3_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

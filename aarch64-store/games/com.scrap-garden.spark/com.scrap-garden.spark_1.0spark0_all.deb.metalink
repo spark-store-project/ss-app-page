@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.scrap-garden.spark_1.0spark0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">521aab40cf4d2e0c7a667c60fa9bd091</hash>
+				  
+				<hash type="sha1">a37fc47fd527233ddef309bbb3955c90c3875630</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/games/com.scrap-garden.spark/com.scrap-garden.spark_1.0spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/games/com.scrap-garden.spark/com.scrap-garden.spark_1.0spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/games/com.scrap-garden.spark/com.scrap-garden.spark_1.0spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/games/com.scrap-garden.spark/com.scrap-garden.spark_1.0spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/games/com.scrap-garden.spark/com.scrap-garden.spark_1.0spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/games/com.scrap-garden.spark/com.scrap-garden.spark_1.0spark0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

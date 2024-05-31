@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libdbusmenu-gtk4_18.10.20180917~bzr492_plus_repack1-2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">d762c3be1fdd895473265edef076cac7</hash>
+				  
+				<hash type="sha1">99c68bda30c9db023f3d549164498aa195327f95</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/ao/libdbusmenu-gtk4_18.10.20180917~bzr492_plus_repack1-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/ao/libdbusmenu-gtk4_18.10.20180917~bzr492_plus_repack1-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/ao/libdbusmenu-gtk4_18.10.20180917~bzr492_plus_repack1-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/ao/libdbusmenu-gtk4_18.10.20180917~bzr492_plus_repack1-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/ao/libdbusmenu-gtk4_18.10.20180917~bzr492_plus_repack1-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/ao/libdbusmenu-gtk4_18.10.20180917~bzr492_plus_repack1-2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-wine-epsxe_1.0_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">4253d53f9ce26a17c5030a85e1cf0bdb</hash>
+				  
+				<hash type="sha1">bc1d23b49556c60cc11b3ed06d2a318d69b48dc9</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/spark-wine-epsxe/spark-wine-epsxe_1.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/spark-wine-epsxe/spark-wine-epsxe_1.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/spark-wine-epsxe/spark-wine-epsxe_1.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/spark-wine-epsxe/spark-wine-epsxe_1.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/spark-wine-epsxe/spark-wine-epsxe_1.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/spark-wine-epsxe/spark-wine-epsxe_1.0_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

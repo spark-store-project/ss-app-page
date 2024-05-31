@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="net.cnki.cnkiexpress.spark_0.2.31spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">db377433ecb17c5b9945d3cff9cb0bbe</hash>
+				  
+				<hash type="sha1">f82c04c230b73300afeae13ac7f4362adbea346c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/net.cnki.cnkiexpress.spark/net.cnki.cnkiexpress.spark_0.2.31spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/net.cnki.cnkiexpress.spark/net.cnki.cnkiexpress.spark_0.2.31spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/net.cnki.cnkiexpress.spark/net.cnki.cnkiexpress.spark_0.2.31spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/net.cnki.cnkiexpress.spark/net.cnki.cnkiexpress.spark_0.2.31spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/net.cnki.cnkiexpress.spark/net.cnki.cnkiexpress.spark_0.2.31spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/net.cnki.cnkiexpress.spark/net.cnki.cnkiexpress.spark_0.2.31spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

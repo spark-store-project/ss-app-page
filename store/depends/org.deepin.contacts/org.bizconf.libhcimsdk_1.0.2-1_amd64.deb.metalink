@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.bizconf.libhcimsdk_1.0.2-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">056ad9c1a0ba91600be79b41b2b8481f</hash>
+				  
+				<hash type="sha1">a97afbe3bbd006b735060c674ed8b6ba9d5d5b2c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/org.deepin.contacts/org.bizconf.libhcimsdk_1.0.2-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/org.deepin.contacts/org.bizconf.libhcimsdk_1.0.2-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/org.deepin.contacts/org.bizconf.libhcimsdk_1.0.2-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/org.deepin.contacts/org.bizconf.libhcimsdk_1.0.2-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/org.deepin.contacts/org.bizconf.libhcimsdk_1.0.2-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/org.deepin.contacts/org.bizconf.libhcimsdk_1.0.2-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

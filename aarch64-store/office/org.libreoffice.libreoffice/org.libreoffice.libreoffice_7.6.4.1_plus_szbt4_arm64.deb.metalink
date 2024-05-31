@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.libreoffice.libreoffice_7.6.4.1_plus_szbt4_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">aab5509b1ce920bbfd964ae6290d0fb5</hash>
+				  
+				<hash type="sha1">96ecf23094abc39b879f7a5a14062dd866b4bd13</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/office/org.libreoffice.libreoffice/org.libreoffice.libreoffice_7.6.4.1_plus_szbt4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/office/org.libreoffice.libreoffice/org.libreoffice.libreoffice_7.6.4.1_plus_szbt4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/office/org.libreoffice.libreoffice/org.libreoffice.libreoffice_7.6.4.1_plus_szbt4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/office/org.libreoffice.libreoffice/org.libreoffice.libreoffice_7.6.4.1_plus_szbt4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/office/org.libreoffice.libreoffice/org.libreoffice.libreoffice_7.6.4.1_plus_szbt4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/office/org.libreoffice.libreoffice/org.libreoffice.libreoffice_7.6.4.1_plus_szbt4_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

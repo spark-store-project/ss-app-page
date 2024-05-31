@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.filegee.spark_11.7.4spark0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f018ca4343108386e3ebaa42d81bf4cf</hash>
+				  
+				<hash type="sha1">3f90de569b302a48131e55cf45408264141632a3</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/com.filegee.spark/com.filegee.spark_11.7.4spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/com.filegee.spark/com.filegee.spark_11.7.4spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/com.filegee.spark/com.filegee.spark_11.7.4spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/com.filegee.spark/com.filegee.spark_11.7.4spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/com.filegee.spark/com.filegee.spark_11.7.4spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/com.filegee.spark/com.filegee.spark_11.7.4spark0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

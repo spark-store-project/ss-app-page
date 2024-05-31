@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.story-writer.spark_8.13.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e7fd8c637630b8fdf8264cbe5af5fe2c</hash>
+				  
+				<hash type="sha1">e26c19912b032508eed00065f931589a540e22b1</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.story-writer.spark/com.story-writer.spark_8.13.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.story-writer.spark/com.story-writer.spark_8.13.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.story-writer.spark/com.story-writer.spark_8.13.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.story-writer.spark/com.story-writer.spark_8.13.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.story-writer.spark/com.story-writer.spark_8.13.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.story-writer.spark/com.story-writer.spark_8.13.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

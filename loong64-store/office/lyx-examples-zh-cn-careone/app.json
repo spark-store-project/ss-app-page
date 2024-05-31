@@ -1,0 +1,16 @@
+{
+    "Name": "LyX 排版软件编写的实用表格和文档样例(包含lyx,pdf)",
+    "Version": "2.2.2-6",
+    "Filename": "lyx-examples-zh-cn-careone_2.2.2-6_all.deb",
+    "Torrent_address": "lyx-examples-zh-cn-careone_2.2.2-6_all.deb.torrent",
+    "Pkgname": "lyx-examples-zh-cn-careone",
+    "Author": "Careone <emacslocale@126.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://sourceforge.net/projects/emacslocale/files/lyx-tex/",
+    "Update": "2023-06-03 07:41:35",
+    "Size": "137.29 KB",
+    "More": "本软件包包含 Lyx 文档处理程序的 4 个简体中文模板，以及一些其它的 LyX/pdf\n 样例文件。后续会继续更新、添加一些其它实用文档样例。敬请期待！\n  * 1 1001-xueXiao-学校/1001-keChengBiao-高一课程表-v02 (lyx, pdf)\n  * 2 2001-qiuZhi-求职登记表/2001-qiuZhi-求职登记表-073103v03 (lyx, pdf)\n  * 3 2001-qiuZhi-求职登记表/2002-qiuZhi-求职登记表-075503v03 (lyx, pdf)\n  * ------\n .\n 使用技巧: 在终端或者命令行模式下，\n  * 运行命令 lyx-careone-dir, 可以直接在文件管理器中，打开样例目录\n .\n /usr/share/lyx/examples/zh-中文实用表格和文档/careone/\n  * 也可以运行带选项的命令 lyx-careone-dir -list, 这样可以在终端中查看样例\n 文件列表 (包含 lyx, pdf 两种格式)\n  * ------\n  * 推荐安装的软件包：在 Debian, Ubuntu, Deepin, UOS 等 Linux 操作系统下，\n 强烈建议先安装软件包 texlive-base 或者 完整版的 texlive-full\n .\n (安装命令: sudo apt-get install texlive-base texlive-full )",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/0d4cfd8c8aaf438f821a7f440564019c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/c6b9d4f241d64c79b7e407420639625f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/93be605d5deb4969876ba6a5bb4c71b1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/6999c5758a604d588bfd5b43bee673c6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/03/49bba88f5686402d9e9890bc7d656960.png"
+}

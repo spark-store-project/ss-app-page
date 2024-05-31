@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="deepin-mail_5.2.13-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5bddcd5d3a1339545aa63d40a03c4d8d</hash>
+				  
+				<hash type="sha1">6a9a0a6fabae5b8c5745a1792c56255d648cca51</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/chat/deepin-mail/deepin-mail_5.2.13-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/chat/deepin-mail/deepin-mail_5.2.13-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/chat/deepin-mail/deepin-mail_5.2.13-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/chat/deepin-mail/deepin-mail_5.2.13-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/chat/deepin-mail/deepin-mail_5.2.13-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/chat/deepin-mail/deepin-mail_5.2.13-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

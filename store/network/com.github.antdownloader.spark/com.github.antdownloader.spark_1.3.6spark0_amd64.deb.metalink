@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.github.antdownloader.spark_1.3.6spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ecba5001512afdb959d45050c2bd607d</hash>
+				  
+				<hash type="sha1">31b1375c25514b4427447beedfaa14ae9e475783</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/com.github.antdownloader.spark/com.github.antdownloader.spark_1.3.6spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/com.github.antdownloader.spark/com.github.antdownloader.spark_1.3.6spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/com.github.antdownloader.spark/com.github.antdownloader.spark_1.3.6spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/com.github.antdownloader.spark/com.github.antdownloader.spark_1.3.6spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/com.github.antdownloader.spark/com.github.antdownloader.spark_1.3.6spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/com.github.antdownloader.spark/com.github.antdownloader.spark_1.3.6spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

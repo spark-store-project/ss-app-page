@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.xiwang.zaixian_9.33.04_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">bb2b3cad4266b1a8a471c8f1d0cb7e56</hash>
+				  
+				<hash type="sha1">6d7fc34301ab7a98ff0fd7f46244006cc856ecc8</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.xiwang.zaixian/com.xiwang.zaixian_9.33.04_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.xiwang.zaixian/com.xiwang.zaixian_9.33.04_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.xiwang.zaixian/com.xiwang.zaixian_9.33.04_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.xiwang.zaixian/com.xiwang.zaixian_9.33.04_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.xiwang.zaixian/com.xiwang.zaixian_9.33.04_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.xiwang.zaixian/com.xiwang.zaixian_9.33.04_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

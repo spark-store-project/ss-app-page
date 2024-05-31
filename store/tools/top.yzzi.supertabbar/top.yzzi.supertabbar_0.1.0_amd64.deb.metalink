@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="top.yzzi.supertabbar_0.1.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">0bffea45090a88cc87b2e4cab85ba96d</hash>
+				  
+				<hash type="sha1">ea4d912e3111a27e8407cc4f5f855616f009bd80</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/top.yzzi.supertabbar/top.yzzi.supertabbar_0.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/top.yzzi.supertabbar/top.yzzi.supertabbar_0.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/top.yzzi.supertabbar/top.yzzi.supertabbar_0.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/top.yzzi.supertabbar/top.yzzi.supertabbar_0.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/top.yzzi.supertabbar/top.yzzi.supertabbar_0.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/top.yzzi.supertabbar/top.yzzi.supertabbar_0.1.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="uengine-dc-com.sina.weibo_13.5.3_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c54951a0e2b507e2ef68b12ccbd1313d</hash>
+				  
+				<hash type="sha1">f8adf52dca34a8f6e14665de92ea0ce82bb33df6</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/uengine-dc-com.sina.weibo/uengine-dc-com.sina.weibo_13.5.3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/uengine-dc-com.sina.weibo/uengine-dc-com.sina.weibo_13.5.3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/uengine-dc-com.sina.weibo/uengine-dc-com.sina.weibo_13.5.3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/uengine-dc-com.sina.weibo/uengine-dc-com.sina.weibo_13.5.3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/uengine-dc-com.sina.weibo/uengine-dc-com.sina.weibo_13.5.3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/uengine-dc-com.sina.weibo/uengine-dc-com.sina.weibo_13.5.3_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

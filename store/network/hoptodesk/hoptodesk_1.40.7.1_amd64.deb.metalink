@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="hoptodesk_1.40.7.1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">338e980b4454c9dee49ca004f1ca8e83</hash>
+				  
+				<hash type="sha1">b408e57bda1c8e5655305ebea889ba84ad4598e5</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/hoptodesk/hoptodesk_1.40.7.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/hoptodesk/hoptodesk_1.40.7.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/hoptodesk/hoptodesk_1.40.7.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/hoptodesk/hoptodesk_1.40.7.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/hoptodesk/hoptodesk_1.40.7.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/hoptodesk/hoptodesk_1.40.7.1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="mars-mips_4.5~spark3_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">2bee2f35a2d8689e8b719831ea59335e</hash>
+				  
+				<hash type="sha1">c490446b6ae289465c526cef6089ba13f5c869de</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/mars-mips/mars-mips_4.5~spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/mars-mips/mars-mips_4.5~spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/mars-mips/mars-mips_4.5~spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/mars-mips/mars-mips_4.5~spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/mars-mips/mars-mips_4.5~spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/mars-mips/mars-mips_4.5~spark3_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libdframeworkdbus-dev_5.4.20_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b7f96abffd6f961e2b06ceb2e29ea8eb</hash>
+				  
+				<hash type="sha1">00cd3b2b19397a8f7eb2d573b5f00f71420e3826</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/dtk/libdframeworkdbus2/libdframeworkdbus-dev_5.4.20_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/dtk/libdframeworkdbus2/libdframeworkdbus-dev_5.4.20_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/dtk/libdframeworkdbus2/libdframeworkdbus-dev_5.4.20_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/dtk/libdframeworkdbus2/libdframeworkdbus-dev_5.4.20_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/dtk/libdframeworkdbus2/libdframeworkdbus-dev_5.4.20_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/dtk/libdframeworkdbus2/libdframeworkdbus-dev_5.4.20_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

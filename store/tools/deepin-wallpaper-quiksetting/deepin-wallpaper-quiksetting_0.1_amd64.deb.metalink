@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="deepin-wallpaper-quiksetting_0.1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">4fc4f6c83837c9340b15be3aeed3d2d0</hash>
+				  
+				<hash type="sha1">af84e369b71ca5180336b42022bb3c65620764d4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/deepin-wallpaper-quiksetting/deepin-wallpaper-quiksetting_0.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/deepin-wallpaper-quiksetting/deepin-wallpaper-quiksetting_0.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/deepin-wallpaper-quiksetting/deepin-wallpaper-quiksetting_0.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/deepin-wallpaper-quiksetting/deepin-wallpaper-quiksetting_0.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/deepin-wallpaper-quiksetting/deepin-wallpaper-quiksetting_0.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/deepin-wallpaper-quiksetting/deepin-wallpaper-quiksetting_0.1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

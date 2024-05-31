@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.nsa.ghidra_10.4.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7763e365be60aec47716d75c52788b56</hash>
+				  
+				<hash type="sha1">07deffa00b7c45dcdcd16467bdc9153878055144</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/com.nsa.ghidra/com.nsa.ghidra_10.4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/com.nsa.ghidra/com.nsa.ghidra_10.4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/com.nsa.ghidra/com.nsa.ghidra_10.4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/com.nsa.ghidra/com.nsa.ghidra_10.4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/com.nsa.ghidra/com.nsa.ghidra_10.4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/com.nsa.ghidra/com.nsa.ghidra_10.4.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

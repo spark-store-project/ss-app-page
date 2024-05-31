@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="uengine-dc-com.microsoft.todos_2.63.237_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">bdbdd44f44a96525700a1b02fae81a59</hash>
+				  
+				<hash type="sha1">aef6e17e641ff2b55cb785ce39761847b2c57430</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/uengine-dc-com.microsoft.todos/uengine-dc-com.microsoft.todos_2.63.237_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/uengine-dc-com.microsoft.todos/uengine-dc-com.microsoft.todos_2.63.237_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/uengine-dc-com.microsoft.todos/uengine-dc-com.microsoft.todos_2.63.237_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/uengine-dc-com.microsoft.todos/uengine-dc-com.microsoft.todos_2.63.237_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/uengine-dc-com.microsoft.todos/uengine-dc-com.microsoft.todos_2.63.237_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/uengine-dc-com.microsoft.todos/uengine-dc-com.microsoft.todos_2.63.237_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

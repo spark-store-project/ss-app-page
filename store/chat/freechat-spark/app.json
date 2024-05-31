@@ -1,0 +1,15 @@
+{
+    "Name": "Freechat版微信",
+    "Version": "1.0.0-8",
+    "Filename": "freechat-spark_1.0.0-8_amd64.deb",
+    "Pkgname": "freechat-spark",
+    "Author": "JoveYu",
+    "Contributor": "shenmo",
+    "Website": "https://aur.archlinux.org/packages/freechat-uos/",
+    "Update": "2021-10-28 21:08:25",
+    "Size": "51.85 MB",
+    "More": "根据freechat-uos魔改的deb包 \n不知什么原因，在某些机器上会提示版本过低 \n如果不行就试试官方的微信Linux \n这两个一般不会同时好用 \n\n另：这两者也不共存，安装一个之前需要先卸载另一个",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/28/fb8ac5d0-37ef-11ec-ab9c-c1d54f4fef81.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/28/0b44cde0-37f0-11ec-ab9c-c1d54f4fef81.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/28/e9df9c20-37ef-11ec-ab9c-c1d54f4fef81.png"
+}

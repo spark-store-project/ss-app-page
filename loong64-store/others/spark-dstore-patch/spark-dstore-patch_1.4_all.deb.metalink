@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-dstore-patch_1.4_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">4155fcdcca9acce59b721d563e59be96</hash>
+				  
+				<hash type="sha1">5ffe6bd2b75e939a871b45be04b4c907151b3f6a</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/others/spark-dstore-patch/spark-dstore-patch_1.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/others/spark-dstore-patch/spark-dstore-patch_1.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/others/spark-dstore-patch/spark-dstore-patch_1.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/others/spark-dstore-patch/spark-dstore-patch_1.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/others/spark-dstore-patch/spark-dstore-patch_1.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/others/spark-dstore-patch/spark-dstore-patch_1.4_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

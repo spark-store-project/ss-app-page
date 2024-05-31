@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.nightmaresfromthedeep2.spark_1.0spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c8422fdb589c8904d1c2103b3d239931</hash>
+				  
+				<hash type="sha1">4138a679df2fb50c78299f217fabb7918163d45d</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.nightmaresfromthedeep2.spark/com.nightmaresfromthedeep2.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.nightmaresfromthedeep2.spark/com.nightmaresfromthedeep2.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.nightmaresfromthedeep2.spark/com.nightmaresfromthedeep2.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.nightmaresfromthedeep2.spark/com.nightmaresfromthedeep2.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.nightmaresfromthedeep2.spark/com.nightmaresfromthedeep2.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.nightmaresfromthedeep2.spark/com.nightmaresfromthedeep2.spark_1.0spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

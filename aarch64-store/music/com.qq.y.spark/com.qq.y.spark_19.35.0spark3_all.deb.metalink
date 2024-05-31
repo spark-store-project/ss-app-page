@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.qq.y.spark_19.35.0spark3_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5db3cd2a1da85ccb96d0754994feaca1</hash>
+				  
+				<hash type="sha1">3f65bad093a0726ce3e9dcadec8b5048a717eac3</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/music/com.qq.y.spark/com.qq.y.spark_19.35.0spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/music/com.qq.y.spark/com.qq.y.spark_19.35.0spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/music/com.qq.y.spark/com.qq.y.spark_19.35.0spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/music/com.qq.y.spark/com.qq.y.spark_19.35.0spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/music/com.qq.y.spark/com.qq.y.spark_19.35.0spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/music/com.qq.y.spark/com.qq.y.spark_19.35.0spark3_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

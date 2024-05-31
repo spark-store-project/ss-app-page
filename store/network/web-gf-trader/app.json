@@ -1,0 +1,15 @@
+{
+    "Name": "广发操盘手",
+    "Version": "1.0spark0",
+    "Filename": "web-gf-trader_1.0spark0_amd64.deb",
+    "Pkgname": "web-gf-trader",
+    "Author": "广发证券股份有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://hippo.gf.com.cn/about/index.html",
+    "Update": "2020-11-20 10:13:44",
+    "Size": "3 MB",
+    "More": "基于星火spark-webapp-runtime打包的web应用。已知问题：打开应用后无法输入中文。临时解决办法：应用内出现输入框界面后，可以先随意打开一个别的应用（比如文件管理器）窗口再关闭，然后就可以正常输入中文了。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/20/f3a2bbf0-2b18-11eb-9f5b-4141f998f9df.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/20/f6196140-2b18-11eb-9f5b-4141f998f9df.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/20/ee4ee750-2b18-11eb-9f5b-4141f998f9df.png"
+}

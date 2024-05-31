@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="disbelief.papyrus.yzf_1.1.2_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">d0838969e7bb6d74b37ffb1cf622276d</hash>
+				  
+				<hash type="sha1">c029db868f07944cbd62bd871242e40561a9ec05</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/disbelief.papyrus.yzf/disbelief.papyrus.yzf_1.1.2_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/disbelief.papyrus.yzf/disbelief.papyrus.yzf_1.1.2_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/disbelief.papyrus.yzf/disbelief.papyrus.yzf_1.1.2_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/disbelief.papyrus.yzf/disbelief.papyrus.yzf_1.1.2_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/disbelief.papyrus.yzf/disbelief.papyrus.yzf_1.1.2_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/disbelief.papyrus.yzf/disbelief.papyrus.yzf_1.1.2_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

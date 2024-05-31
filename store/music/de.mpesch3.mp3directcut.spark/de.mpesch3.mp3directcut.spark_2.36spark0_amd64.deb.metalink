@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="de.mpesch3.mp3directcut.spark_2.36spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f26d410da5ec50576c20f03fa66b6a0b</hash>
+				  
+				<hash type="sha1">80516cd72e0a5a335b96b0084ae4a93e4438d4f2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/music/de.mpesch3.mp3directcut.spark/de.mpesch3.mp3directcut.spark_2.36spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/music/de.mpesch3.mp3directcut.spark/de.mpesch3.mp3directcut.spark_2.36spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/music/de.mpesch3.mp3directcut.spark/de.mpesch3.mp3directcut.spark_2.36spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/music/de.mpesch3.mp3directcut.spark/de.mpesch3.mp3directcut.spark_2.36spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/music/de.mpesch3.mp3directcut.spark/de.mpesch3.mp3directcut.spark_2.36spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/music/de.mpesch3.mp3directcut.spark/de.mpesch3.mp3directcut.spark_2.36spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

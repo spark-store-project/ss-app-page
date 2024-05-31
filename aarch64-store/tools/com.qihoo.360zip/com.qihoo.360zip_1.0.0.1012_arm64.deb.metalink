@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.qihoo.360zip_1.0.0.1012_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">54293d228940caeea6d428489e195b5e</hash>
+				  
+				<hash type="sha1">76b8e5279c2606f42dc5b0f32c226720fada70ef</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/com.qihoo.360zip/com.qihoo.360zip_1.0.0.1012_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/tools/com.qihoo.360zip/com.qihoo.360zip_1.0.0.1012_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/tools/com.qihoo.360zip/com.qihoo.360zip_1.0.0.1012_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/tools/com.qihoo.360zip/com.qihoo.360zip_1.0.0.1012_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/tools/com.qihoo.360zip/com.qihoo.360zip_1.0.0.1012_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/tools/com.qihoo.360zip/com.qihoo.360zip_1.0.0.1012_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

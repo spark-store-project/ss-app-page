@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="z-tools-scanport_0.1-20230129_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">aac7f80ef1de82ac2d744d8cddb984da</hash>
+				  
+				<hash type="sha1">98d49b7980d4a6866effed30a7ca6f6f7f0006e6</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/z-tools-scanport/z-tools-scanport_0.1-20230129_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/tools/z-tools-scanport/z-tools-scanport_0.1-20230129_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/tools/z-tools-scanport/z-tools-scanport_0.1-20230129_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/tools/z-tools-scanport/z-tools-scanport_0.1-20230129_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/tools/z-tools-scanport/z-tools-scanport_0.1-20230129_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/tools/z-tools-scanport/z-tools-scanport_0.1-20230129_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

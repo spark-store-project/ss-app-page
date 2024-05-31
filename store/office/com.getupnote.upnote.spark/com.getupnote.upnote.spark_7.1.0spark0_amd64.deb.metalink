@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.getupnote.upnote.spark_7.1.0spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">117ca998cba6561c1f9cbfc217ebf664</hash>
+				  
+				<hash type="sha1">435e08cc5310dafbc4f655fc022c479e528038c3</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.getupnote.upnote.spark/com.getupnote.upnote.spark_7.1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.getupnote.upnote.spark/com.getupnote.upnote.spark_7.1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.getupnote.upnote.spark/com.getupnote.upnote.spark_7.1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.getupnote.upnote.spark/com.getupnote.upnote.spark_7.1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.getupnote.upnote.spark/com.getupnote.upnote.spark_7.1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.getupnote.upnote.spark/com.getupnote.upnote.spark_7.1.0spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

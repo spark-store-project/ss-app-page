@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.joplin.spark_2.9.17_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5c911b1356fa71119aa77d40b53970f8</hash>
+				  
+				<hash type="sha1">a51b89b1d35ae5e2b51ef7fa8dc034e6e1686378</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/org.joplin.spark/org.joplin.spark_2.9.17_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/org.joplin.spark/org.joplin.spark_2.9.17_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/org.joplin.spark/org.joplin.spark_2.9.17_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/org.joplin.spark/org.joplin.spark_2.9.17_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/org.joplin.spark/org.joplin.spark_2.9.17_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/org.joplin.spark/org.joplin.spark_2.9.17_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

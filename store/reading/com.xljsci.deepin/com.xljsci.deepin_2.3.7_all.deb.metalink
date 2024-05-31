@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.xljsci.deepin_2.3.7_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1943468627c236a5620df0d0867c4fbe</hash>
+				  
+				<hash type="sha1">91ba933b6b4ba2f3c180570b76611167e4fd138b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/reading/com.xljsci.deepin/com.xljsci.deepin_2.3.7_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/reading/com.xljsci.deepin/com.xljsci.deepin_2.3.7_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/reading/com.xljsci.deepin/com.xljsci.deepin_2.3.7_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/reading/com.xljsci.deepin/com.xljsci.deepin_2.3.7_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/reading/com.xljsci.deepin/com.xljsci.deepin_2.3.7_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/reading/com.xljsci.deepin/com.xljsci.deepin_2.3.7_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

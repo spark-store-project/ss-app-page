@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="p7zip-legacy_16.02_plus_dfsg-8_plus_Mejituu-2024022216_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a06af63ab9a7d77490b657df4244d14a</hash>
+				  
+				<hash type="sha1">6f83259367036de2b0e18d86e46bc18f2b0ccd8f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/depends/p7zip-legacy/p7zip-legacy_16.02_plus_dfsg-8_plus_Mejituu-2024022216_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/depends/p7zip-legacy/p7zip-legacy_16.02_plus_dfsg-8_plus_Mejituu-2024022216_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/depends/p7zip-legacy/p7zip-legacy_16.02_plus_dfsg-8_plus_Mejituu-2024022216_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/depends/p7zip-legacy/p7zip-legacy_16.02_plus_dfsg-8_plus_Mejituu-2024022216_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/depends/p7zip-legacy/p7zip-legacy_16.02_plus_dfsg-8_plus_Mejituu-2024022216_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/depends/p7zip-legacy/p7zip-legacy_16.02_plus_dfsg-8_plus_Mejituu-2024022216_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

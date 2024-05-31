@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="github-desktop_3.3.3-linux2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">abb63bb36f66fb067eee8b3e5c326696</hash>
+				  
+				<hash type="sha1">d77560a4f11a71c6122fde05b699af679cd5ccce</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/github-desktop/github-desktop_3.3.3-linux2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/github-desktop/github-desktop_3.3.3-linux2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/github-desktop/github-desktop_3.3.3-linux2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/github-desktop/github-desktop_3.3.3-linux2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/github-desktop/github-desktop_3.3.3-linux2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/github-desktop/github-desktop_3.3.3-linux2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

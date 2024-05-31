@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.seedsnote.spark_1.7.2spark4_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1a8770486f5266155b18dccc6ec44853</hash>
+				  
+				<hash type="sha1">5eb1a6af5477a75e71af3d3605b4e12cd9531f8b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.seedsnote.spark/com.seedsnote.spark_1.7.2spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.seedsnote.spark/com.seedsnote.spark_1.7.2spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.seedsnote.spark/com.seedsnote.spark_1.7.2spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.seedsnote.spark/com.seedsnote.spark_1.7.2spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.seedsnote.spark/com.seedsnote.spark_1.7.2spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.seedsnote.spark/com.seedsnote.spark_1.7.2spark4_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

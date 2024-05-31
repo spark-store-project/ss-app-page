@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="oreo_teal_cursors_1.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">48119e46d2c0865d44c26fdd5cfe60e9</hash>
+				  
+				<hash type="sha1">04f9f16b0fd5ca09c2b18e429d44fde993259796</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/themes/oreo-teal-cursors/oreo_teal_cursors_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/themes/oreo-teal-cursors/oreo_teal_cursors_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/themes/oreo-teal-cursors/oreo_teal_cursors_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/themes/oreo-teal-cursors/oreo_teal_cursors_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/themes/oreo-teal-cursors/oreo_teal_cursors_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/themes/oreo-teal-cursors/oreo_teal_cursors_1.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,16 @@
+{
+    "Author": "shenmo <jifengshenmo@outlook.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "sm-refresh_1.1_all.deb",
+    "More": "深度右键刷新插件,请在星火商店的应用详情页面卸载或输入\nsudo apt purge sm-refresh -y\n更新内容：\n支持了非中文环境下显示为Refresh\n改预依赖为普通依赖以便处理\n\n修复了可能的失效问题",
+    "Name": "右键刷新插件",
+    "Pkgname": "sm-refresh",
+    "Size": "12 Kb",
+    "Tags": "community;deepin;uos",
+    "Torrent_address": "sm-refresh_1.1_all.deb.torrent",
+    "Update": "2023-04-27 21:26:37",
+    "Version": "1.1",
+    "Website": "http://blog.shenmo.tech",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/sm-refresh/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/sm-refresh/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/sm-refresh/screen_2.png\"]"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.baidu.wenku.spark_1.2.8spark2_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">69fe9b79a19d323741d1bc671956b9c8</hash>
+				  
+				<hash type="sha1">33b334ae8e204b0e7b94c2778cd5e9ad36c935ad</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.baidu.wenku.spark/com.baidu.wenku.spark_1.2.8spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.baidu.wenku.spark/com.baidu.wenku.spark_1.2.8spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.baidu.wenku.spark/com.baidu.wenku.spark_1.2.8spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.baidu.wenku.spark/com.baidu.wenku.spark_1.2.8spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.baidu.wenku.spark/com.baidu.wenku.spark_1.2.8spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.baidu.wenku.spark/com.baidu.wenku.spark_1.2.8spark2_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

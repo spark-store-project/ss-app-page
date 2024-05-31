@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="yesplaymusic_0.4.3_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c6d08b87ae889ff884315098438a08ca</hash>
+				  
+				<hash type="sha1">e77f0fe177b705c110edc286c4505f6b2f87704b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/music/yesplaymusic/yesplaymusic_0.4.3_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/music/yesplaymusic/yesplaymusic_0.4.3_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/music/yesplaymusic/yesplaymusic_0.4.3_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/music/yesplaymusic/yesplaymusic_0.4.3_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/music/yesplaymusic/yesplaymusic_0.4.3_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/music/yesplaymusic/yesplaymusic_0.4.3_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

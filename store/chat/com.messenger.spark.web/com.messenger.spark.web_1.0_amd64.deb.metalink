@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.messenger.spark.web_1.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a9c0447e9156756591b64b7e9fc7b972</hash>
+				  
+				<hash type="sha1">e9e18553c8c5568f28c396adc1183238c12d5092</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/chat/com.messenger.spark.web/com.messenger.spark.web_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/chat/com.messenger.spark.web/com.messenger.spark.web_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/chat/com.messenger.spark.web/com.messenger.spark.web_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/chat/com.messenger.spark.web/com.messenger.spark.web_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/chat/com.messenger.spark.web/com.messenger.spark.web_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/chat/com.messenger.spark.web/com.messenger.spark.web_1.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

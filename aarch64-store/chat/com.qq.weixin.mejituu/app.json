@@ -1,0 +1,16 @@
+{
+    "Author": "懵仙兔兔",
+    "Contributor": "懵仙兔兔",
+    "Filename": "com.qq.weixin.mejituu_3.9.6.32_plus_Mejituu-2023121722_all.deb",
+    "More": "全功能微信，内置黑边隐藏启动程序（不会误杀），内置一键修复微信白屏问题\n首次启动，会部署微信小程序等支持，期间微信会自动重启一次，属正常现象（就是首次启动等一会儿就好了）\n\n已知问题：\n如果运行在ACE兼容环境内，首次启动可能导致ACE内的Wine相关软件会被杀死（不影响微信，只首次启动影响其他用ACE Wine的软件）\n\n注：\n首次启动指的是：安装或更新微信（懵仙兔兔），然后第一次打开\n\n本次更新内容：\n- 1.支持绝大多数图片音乐视频文档压缩文件格式能在微信中直接打开（跳转到wine文件管理器的也能双击打开）\n- 2.支持 wine文件管理器-右键-“资源管理器” 调用当前系统自带的文件管理器打开目录\n- 3.修复 微信聊天-表情-表情文字描述 无法显示\n\n兼容性测试：\ndebian testing：功能全部正常\ndebian 12：功能全部正常\nubuntu 22.04：功能全部正常\ndeepin 23b2：功能全部正常（由于23b2的问题，托盘图标左右击无响应，关掉窗口后可通过启动图标打开）\ndeepin 20.9：功能全部正常\nuos arm：功能全部正常",
+    "Name": "微信（懵仙兔兔）",
+    "Pkgname": "com.qq.weixin.mejituu",
+    "Size": "425 Mb",
+    "Tags": "community;deepin;uos;ubuntu;dwine2;dwine5",
+    "Torrent_address": "com.qq.weixin.mejituu_3.9.6.32_plus_Mejituu-2023121722_all.deb.torrent",
+    "Update": "2023-12-27 14:49:13",
+    "Version": "3.9.6.32+Mejituu-2023121722",
+    "Website": "https://2dph.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.mejituu/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.mejituu/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.mejituu/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.mejituu/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.mejituu/screen_4.png\"]"
+}

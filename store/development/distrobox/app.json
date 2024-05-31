@@ -1,0 +1,16 @@
+{
+    "Name": "Distrobox",
+    "Version": "1.4.2.1~spark2",
+    "Filename": "distrobox_1.4.2.1~spark2_all.deb",
+    "Torrent_address": "distrobox_1.4.2.1~spark2_all.deb.torrent",
+    "Pkgname": "distrobox",
+    "Author": "Luca di Maio",
+    "Contributor": "Donald Sebastian Leung",
+    "Website": "https://github.com/89luca89/distrobox",
+    "Update": "2023-01-14 14:22:55",
+    "Size": "180.37 KB",
+    "More": "Distrobox 能让您在终端里使用您最熟悉喜爱的 Linux 发行版。有了 Distrobox，软件兼容的问题不复存在。Distrobox 能使用 Podman 或 Docker 创建您心仪的 Linux 发行版的容器，与宿主机高度融合，能分享 `$HOME` 目录、外置储存、U 盘、图形化 APP、声音等等。\n\n该软件包并非上游支持；如遇到任何问题，请发邮件到 donaldsebleung@qq.com 或于 https://gitee.com/donaldsebleung/distrobox-spark-store 建工单。\n\n使用 Distrobox 前，您需要安装 Podman 或 Docker，但不能同时安装两者，其中 Podman 由于能运行安全性更高的 rootless 容器而优先。只可惜，Podman 并不在 deepin 默认的仓库里。如要安装 Podman，请于安装 Distrobox 后执行 `install-podman` 命令，该命令将默认把 Podman 安装到 `$HOME/.local` 目录下，除非以 root 权限运行，那 Podman 会默认安装到 `/usr/local` 目录下。您也可以透过 `--prefix` 选项把 Podman 安装到指定的目录下。\n\n若您打算安装 Docker，请执行 `sudo apt update && sudo apt install -y docker.io` 命令，并把相关用户加到 `docker` 群组下： `sudo usermod -aG docker $USER`；只有在 `docker` 群组下的用户才能运行 Docker 容器，而 Docker 容器将以 root 权限运行；因此，容器里 root 执行的命令可能会影响宿主机，安全性不如 Podman 。",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd3ae380-93d3-11ed-9a43-41fc3215d261.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd4c48a0-93d3-11ed-9a43-41fc3215d261.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd5e7110-93d3-11ed-9a43-41fc3215d261.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd7e5520-93d3-11ed-9a43-41fc3215d261.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd6db350-93d3-11ed-9a43-41fc3215d261.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/14/db136fa0-93d3-11ed-9a43-41fc3215d261.png"
+}

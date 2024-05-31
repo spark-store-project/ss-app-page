@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="todeskclient_1.3.1.5_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b047727ae354460839ed3af814dd9523</hash>
+				  
+				<hash type="sha1">17b0ef31f928d4a344422466dad0f41ae43c0d5c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/todeskclient/todeskclient_1.3.1.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/todeskclient/todeskclient_1.3.1.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/todeskclient/todeskclient_1.3.1.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/todeskclient/todeskclient_1.3.1.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/todeskclient/todeskclient_1.3.1.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/todeskclient/todeskclient_1.3.1.5_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

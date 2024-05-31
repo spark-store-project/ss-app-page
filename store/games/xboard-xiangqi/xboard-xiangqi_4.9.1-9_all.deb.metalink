@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="xboard-xiangqi_4.9.1-9_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1a90a8afc4264845762aa2c19e1d21a6</hash>
+				  
+				<hash type="sha1">29d590051c82c78b0b3c756b60e358263e18586c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/xboard-xiangqi/xboard-xiangqi_4.9.1-9_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/xboard-xiangqi/xboard-xiangqi_4.9.1-9_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/xboard-xiangqi/xboard-xiangqi_4.9.1-9_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/xboard-xiangqi/xboard-xiangqi_4.9.1-9_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/xboard-xiangqi/xboard-xiangqi_4.9.1-9_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/xboard-xiangqi/xboard-xiangqi_4.9.1-9_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

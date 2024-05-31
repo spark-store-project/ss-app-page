@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="lx-music-desktop_2.7.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1b87509b7e2554acce89e5deb928e824</hash>
+				  
+				<hash type="sha1">b21e5069cd577087df0e8a944fb2308a063faffa</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/music/lx-music-desktop/lx-music-desktop_2.7.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/music/lx-music-desktop/lx-music-desktop_2.7.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/music/lx-music-desktop/lx-music-desktop_2.7.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/music/lx-music-desktop/lx-music-desktop_2.7.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/music/lx-music-desktop/lx-music-desktop_2.7.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/music/lx-music-desktop/lx-music-desktop_2.7.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,15 @@
+{
+    "Name": "emoji版扫雷（本地网页版）",
+    "Version": "1.0",
+    "Filename": "com.github.muan.emoji-minesweeper.web_1.0_amd64.deb",
+    "Pkgname": "com.github.muan.emoji-minesweeper.web",
+    "Author": "muan",
+    "Contributor": "shenmo",
+    "Website": "https://github.com/muan/emoji-minesweeper",
+    "Update": "2021-12-30 00:16:09",
+    "Size": "27.25 KB",
+    "More": "emoji版本的扫雷，本地网页版\n如果你使用非UOS/deepin且无法打开此应用，尝试以下解决办法：\n1. 升级dtk版本\n2. 执行sudo apt remove spark-webapp-runtime -y && sudo apt install swrt-lite -y",
+    "Tags": "community;ubuntu;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/30/9fa53030-68c2-11ec-9ace-e1474fb35f60.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/30/9a3017f0-68c2-11ec-9ace-e1474fb35f60.png"
+}

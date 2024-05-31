@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="freedownloadmanager_6.20.0.5510_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5be30821ccb115819d54c8d0642b6c70</hash>
+				  
+				<hash type="sha1">b3c799f767a22a46ef60195ef5699660f6fac20f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/freedownloadmanager/freedownloadmanager_6.20.0.5510_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/freedownloadmanager/freedownloadmanager_6.20.0.5510_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/freedownloadmanager/freedownloadmanager_6.20.0.5510_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/freedownloadmanager/freedownloadmanager_6.20.0.5510_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/freedownloadmanager/freedownloadmanager_6.20.0.5510_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/freedownloadmanager/freedownloadmanager_6.20.0.5510_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

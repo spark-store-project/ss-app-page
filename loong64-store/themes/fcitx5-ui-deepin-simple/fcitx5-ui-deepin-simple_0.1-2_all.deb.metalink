@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="fcitx5-ui-deepin-simple_0.1-2_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">440480639ed338d231c9ecabc71e86ee</hash>
+				  
+				<hash type="sha1">29b19048a7cb2c6836fc72f0d07060295ee754f4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/themes/fcitx5-ui-deepin-simple/fcitx5-ui-deepin-simple_0.1-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/themes/fcitx5-ui-deepin-simple/fcitx5-ui-deepin-simple_0.1-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/themes/fcitx5-ui-deepin-simple/fcitx5-ui-deepin-simple_0.1-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/themes/fcitx5-ui-deepin-simple/fcitx5-ui-deepin-simple_0.1-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/themes/fcitx5-ui-deepin-simple/fcitx5-ui-deepin-simple_0.1-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/themes/fcitx5-ui-deepin-simple/fcitx5-ui-deepin-simple_0.1-2_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

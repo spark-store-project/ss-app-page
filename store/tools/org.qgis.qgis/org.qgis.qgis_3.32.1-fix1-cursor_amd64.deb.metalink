@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">8af7f7f8b2233994e76d72d622bd8e66</hash>
+				  
+				<hash type="sha1">bd36e9879ef12c1530a110ba8b95d58ab010e67d</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/org.qgis.qgis/org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/org.qgis.qgis/org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/org.qgis.qgis/org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/org.qgis.qgis/org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/org.qgis.qgis/org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/org.qgis.qgis/org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

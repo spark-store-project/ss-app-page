@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.xdown.spark_2.0.8.6spark6_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">d266b5e5ef36fc832510cb9cd365ab11</hash>
+				  
+				<hash type="sha1">4f6a1f560173f22e99518451ca198937061e23dd</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/org.xdown.spark/org.xdown.spark_2.0.8.6spark6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/org.xdown.spark/org.xdown.spark_2.0.8.6spark6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/org.xdown.spark/org.xdown.spark_2.0.8.6spark6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/org.xdown.spark/org.xdown.spark_2.0.8.6spark6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/org.xdown.spark/org.xdown.spark_2.0.8.6spark6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/org.xdown.spark/org.xdown.spark_2.0.8.6spark6_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,16 @@
+{
+    "Name": "思记",
+    "Version": "1.7.2spark4",
+    "Filename": "com.seedsnote.spark_1.7.2spark4_all.deb",
+    "Torrent_address": "com.seedsnote.spark_1.7.2spark4_all.deb.torrent",
+    "Pkgname": "com.seedsnote.spark",
+    "Author": "上海犀知科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://seedsnote.com/",
+    "Update": "2023-10-23 21:44:28",
+    "Size": "96.61 MB",
+    "More": "思记由你，关联有AI\n--思考记录，由你：自由记录，不再纠结分类与排版；优雅双链，灵感既不跑丢，也不沉没；全平台覆盖，微信快速收集灵感；专属API，丰富第三方插件助力思考\n--整理关联，有AI：即时回顾，让你温故知新；自动整合，整理散落各处的待办、图片和链接；主动关联，发现信息关联，助你全局思考\n\n注：Ubuntu22.04下经测试通过启动器启动会弹出JavaScript错误窗口，但从终端输入命令：\"/opt/apps/com.seedsnote.spark/files/run.sh\" -u %u --no-sandbox可以正常启动；KDE桌面环境下应该可以通过启动器正常启动",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/23/8c016aeec9784c85b6a2cd11d095f3aa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/23/70bda6efc36c42bea56ceea81019d5e1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/23/a4342f230d874c439351cf0faa88b1b7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/23/c9dc121c91d944d496c4458c3e0d35aa.png"
+}

@@ -1,0 +1,1608 @@
+Package: libdbusmenu-gtk3-4
+Architecture: amd64
+Version: 18.10.20180917~bzr492+repack1-2
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: libdbusmenu
+Maintainer: The Ayatana Packagers <pkg-ayatana-devel@lists.alioth.debian.org>
+Installed-Size: 121
+Depends: libatk1.0-0 (>= 1.12.4), libc6 (>= 2.4), libdbusmenu-glib4 (>= 0.5.90), libgdk-pixbuf2.0-0 (>= 2.22.1-0ubuntu4), libglib2.0-0 (>= 2.37.3), libpango-1.0-0 (>= 1.14.0)
+Filename: ./deb-packages/plank/libdbusmenu-gtk3-4_18.10.20180917~bzr492_plus_repack1-2_amd64.deb
+Size: 46084
+MD5sum: 934b0de61620aacf8b5ca855c98bd783
+SHA1: a3048c55d53f973a9bdd0dba3d525ca4689f99a4
+SHA256: e3463a6246716ea615ad04fa11551bf18a6ea5aa3d9ed953883ac7762c18a8f0
+SHA512: c74956e8a28b2bb3e6e61192fbca9786c6bce66af48f6010797a4ae526a7ad0407dbd0761c46dc53aabb2737c07b06c00ea279d95bcf1b56983d358de9af1aa3
+Homepage: https://launchpad.net/dbusmenu
+Description: library for passing menus over DBus - GTK-3+ version
+ libdbusmenu passes a menu structure across DBus so that a program can
+ create a menu simply without worrying about how it is displayed on the
+ other side of the bus.
+ .
+ This package contains shared libraries to be used by GTK-3+ applications.
+
+Package: plank
+Architecture: amd64
+Version: 0.11.89-3
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: Rico Tzschichholz <ricotz@ubuntu.com>
+Installed-Size: 521
+Depends: libplank1 (= 0.11.89-3), libc6 (>= 2.7), libcairo2 (>= 1.13.0), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.40.0), libgnome-menu-3-0 (>= 3.2.0.1), libgtk-3-0 (>= 3.10.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libwnck-3-0 (>= 2.91.6)
+Suggests: libplank-doc
+Filename: ./deb-packages/plank/plank_0.11.89-3_amd64.deb
+Size: 149140
+MD5sum: 46d281504a9bc1112326f05fd2c44ba9
+SHA1: 68e85fc0d8647b911cfedc55cfd5a608b87dc193
+SHA256: 988eca24d6ee40d5b09739e128e372ec37a2fb40b455bb59c282e3f23df6bdad
+SHA512: 58caf452a185d9d5190abe9f60e61a49f190def306ebac694f1cc93c5e2ac697918169c2291db82a28b0ceef5db8a6770a342e18217d3f80970354aeb2adbfd5
+Homepage: https://launchpad.net/plank
+Description: Elegant, simple, clean dock
+ Plank is a dock enabling you to start applications and manage your windows.
+ .
+ Plank is meant to be the simplest dock on the planet. The goal is to
+ provide just what a dock needs and absolutely nothing more. It is,
+ however, a library which can be extended to create other dock programs
+ with more advanced features.
+
+Package: libplank-common
+Architecture: all
+Version: 0.11.89-3
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Source: plank
+Maintainer: Rico Tzschichholz <ricotz@ubuntu.com>
+Installed-Size: 444
+Depends: dconf-gsettings-backend | gsettings-backend
+Filename: ./deb-packages/plank/libplank-common_0.11.89-3_all.deb
+Size: 107760
+MD5sum: 88a1e39fff895a4d6d5198782e1da245
+SHA1: 5fd45bfa852e8998ff406e6f756f4a4210247a6e
+SHA256: 60ee8a1d8c8f053e9db4a1dae3226ce368ce4b27ec26514b675e62eb28a1248e
+SHA512: 321c7569295f453a83ee94bb927bf811277bdb24173b54ee3014e0b01b0c4e8be4f0e3a336655dea018ee7ddd561685fae460df0818154e3404dafd19e5e84fa
+Homepage: https://launchpad.net/plank
+Description: Library to build an elegant, simple, clean dock (shared files)
+ Plank is a dock enabling you to start applications and manage your windows.
+ .
+ Plank is meant to be the simplest dock on the planet. The goal is to
+ provide just what a dock needs and absolutely nothing more. It is,
+ however, a library which can be extended to create other dock programs
+ with more advanced features.
+ .
+ This package contains the architecture-independent files.
+
+Package: libdbusmenu-glib4
+Architecture: amd64
+Version: 18.10.20180917~bzr492+repack1-2
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: libdbusmenu
+Maintainer: The Ayatana Packagers <pkg-ayatana-devel@lists.alioth.debian.org>
+Installed-Size: 155
+Depends: libc6 (>= 2.4), libglib2.0-0 (>= 2.37.3)
+Filename: ./deb-packages/plank/libdbusmenu-glib4_18.10.20180917~bzr492_plus_repack1-2_amd64.deb
+Size: 58384
+MD5sum: 099239012d22b8c979adb3f028ea8e04
+SHA1: 1714beaf17f442edc2c336fe20ae1894d1d9fcc8
+SHA256: 3007965cbb62f1a39467f3fefaa9fadc1456cfef55689769f09b6bf5c3ca9e8b
+SHA512: 97e10b26b246b08f552ca2ef5a89a1c6ffa53ade27792e60a708e17245d9a8e60ca04209b18cafada77b6c7c2389357ce707abeb48b117babb6965ac07ca9453
+Homepage: https://launchpad.net/dbusmenu
+Description: library for passing menus over DBus
+ libdbusmenu passes a menu structure across DBus so that a program can
+ create a menu simply without worrying about how it is displayed on the
+ other side of the bus.
+ .
+ This package contains shared libraries to be used by applications.
+
+Package: libplank1
+Architecture: amd64
+Version: 0.11.89-3
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: plank
+Maintainer: Rico Tzschichholz <ricotz@ubuntu.com>
+Installed-Size: 850
+Depends: libbamf3-2 (>= 0.4.0), libc6 (>= 2.29), libcairo-gobject2 (>= 1.13.0), libcairo2 (>= 1.14.0), libdbusmenu-glib4 (>= 0.4.2), libdbusmenu-gtk3-4 (>= 0.6.2), libgdk-pixbuf-2.0-0 (>= 2.26.0), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.43.92), libgtk-3-0 (>= 3.19.12), libpango-1.0-0 (>= 1.18.0), libpangocairo-1.0-0 (>= 1.14.0), libwnck-3-0 (>= 2.91.6), libx11-6 (>= 2:1.2.99.901), libxfixes3 (>= 1:5.0), libxi6 (>= 2:1.6.99.1), libplank-common (= 0.11.89-3), bamfdaemon
+Filename: ./deb-packages/plank/libplank1_0.11.89-3_amd64.deb
+Size: 305652
+MD5sum: 6cb011bd6a78dec2df550074f76b50fe
+SHA1: c6461717185404189b4e486e8d4cd78c09ee8a87
+SHA256: 009b2d42ed3666e844e8dd52ea8fe1a00ae9e61f2afe9cbc9340e3a87ec80bd2
+SHA512: 3f97e6634fe9726e7a4f26bdf3d7fa89cc9da673bbc59ec6948b1271afdeb31d60fd3a233e42a279296fc737161ed5b3e7d3709ec8a7c6c536fc4a8e86aec65f
+Homepage: https://launchpad.net/plank
+Description: Library to build an elegant, simple, clean dock
+ Plank is a dock enabling you to start applications and manage your windows.
+ .
+ Plank is meant to be the simplest dock on the planet. The goal is to
+ provide just what a dock needs and absolutely nothing more. It is,
+ however, a library which can be extended to create other dock programs
+ with more advanced features.
+ .
+ This package contains the shared library used by docks based on Plank.
+
+Package: libgnome-menu-3-0
+Architecture: amd64
+Version: 3.36.0-1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: gnome-menus
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Installed-Size: 192
+Depends: libc6 (>= 2.4), libglib2.0-0 (>= 2.37.3)
+Filename: ./deb-packages/plank/libgnome-menu-3-0_3.36.0-1_amd64.deb
+Size: 106136
+MD5sum: 89eb87a271f3908bdf8627ce12d7e158
+SHA1: b9e87f3d06e68cd7ab4e77f41cfaf8fc2f004fa5
+SHA256: 641b76c5c9352e6039d44a0ae32d251f047e2e3fba18e181bc795853ff03a9aa
+SHA512: f45d02fa43d7abdca6c1fabb244fd6bb4f5ef62831be300193252514b69f0930f71b3ac274532a3a443fa7ca7d8d5d35b49c4ae116be7152e333d5184a8ee091
+Description: GNOME implementation of the freedesktop menu specification
+ The package contains an implementation of the draft
+ "Desktop Menu Specification" from freedesktop.org:
+ .
+ http://www.freedesktop.org/Standards/menu-spec
+ .
+ Also contained here are the GNOME menu layout configuration files, .directory
+ files and assorted menu related utility programs.
+ .
+ This package contains the shared library.
+
+Package: libgee-0.8-2
+Architecture: amd64
+Version: 0.20.4-1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: libgee-0.8
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Installed-Size: 888
+Depends: libc6 (>= 2.14), libglib2.0-0 (>= 2.43.92)
+Filename: ./deb-packages/plank/libgee-0.8-2_0.20.4-1_amd64.deb
+Size: 232768
+MD5sum: 413ea6f346cdf36597632e31e08b5507
+SHA1: a46965ef5577565ccd92bc90a71cb582ab7edb7c
+SHA256: 3c3036debced7dd340636a0b56922481f180b7f6f058528b7721342c52130a26
+SHA512: e01ce061e3fda6eceaeadab0966a415a1fe7b724588fe9d0d111fd20a19817c1e8739eb99273c25782d85c4176a242aaa94609a4e0e0b172ecebe1af32f4415f
+Homepage: https://wiki.gnome.org/Projects/Libgee
+Description: GObject based collection and utility library
+ libgee is a collection library providing GObject-based interfaces and
+ classes for commonly used data structures.
+ .
+ libgee provides the following interfaces:
+  * Traversable
+    - Iterable
+         + Collection
+           # List
+             * BidirList
+           # Set
+             * SortedSet
+               - BidirSortedSet
+           # MultiSet
+           # Queue
+             * Deque
+         + Map
+           # SortedMap
+             * BidirSortedMap
+    - Iterator
+         + BidirIterator
+           # BidirListIterator
+         + ListIterator
+           # BidirListIterator
+  * MultiMap
+  * Future
+ .
+ The ArrayList, ArrauQueue, ConcurrentLinkedList, ConcurrentSet, HashSet,
+ HashMap, HashMultiSet, HashMultiMap, LinkedList, PriorityQueue, Promise,
+ TreeSet, TreeMap, TreeMultiSet, and TreeMultiMap classes provide a
+ reasonable sample implementation of those interfaces. In addition, a set of
+ abstract classes are provided to ease the implementation of new collections.
+ .
+ Around that, the API provides means to retrieve read-only views, efficient
+ sort algorithms, simple, bi-directional or index-based mutable iterators
+ depending on the collection type.
+ .
+ libgee is written in Vala and can be used like any GObject-based C library.
+ It's planned to provide bindings for further languages.
+ .
+ This package contains the shared libraries.
+
+Package: suckless-tools
+Architecture: amd64
+Version: 46-1+u004
+Priority: optional
+Section: x11
+Maintainer: Ilias Tsitsimpis <iliastsi@debian.org>
+Installed-Size: 305
+Provides: dmenu, lsw, slock, sprop, sselp, ssid, swarp, tabbed, wmname, xssstate
+Depends: libc6 (>= 2.34), libfontconfig1 (>= 2.12.6), libpam0g (>= 0.99.7.1), libx11-6, libxft2 (>> 2.1.1), libxinerama1, libxrandr2, libxss1, libcap2-bin
+Suggests: dwm, stterm, surf
+Filename: ./deb-packages/sway/suckless-tools_46-1_plus_u004_amd64.deb
+Size: 48132
+MD5sum: f88d88f3e44100bf2d7eb1ef5718f623
+SHA1: 2a9b4a07309da99a80efd40e7a1eef95bce03e0e
+SHA256: fbed3219070942b20f407fe454934059c413f7b53007fc3269f12f0940864761
+SHA512: 74d525e768cca874bac8366048be66d1cb09d7eab8e5a04bc034484d1fc02d100d03bacecd9fff233400896182a1f2141ebd3d42a12519d28de5dfd83eaf4cae
+Homepage: https://www.suckless.org
+Description: simple commands for minimalistic window managers
+ This package provides simple commands designed to be used with a minimalistic
+ window manager like dwm but they can be useful in scripts regardless of the
+ window manager used.
+ .
+  * dmenu: Dynamic menu is a generic menu for X.
+  * lsw: Lists the titles of all running X windows to stdout, similar to ls(1).
+  * slock: Simple X display locker that locks the X session.
+  * sprop: Sets or gets X window properties.
+  * sselp: Simple X selection printer that prints the X selection to stdout.
+  * ssid: Simple setsid replacement.
+  * swarp: Simple X warping tool to warp the mouse pointer to a given position.
+  * tabbed: Simple generic tabbed fronted to xembed aware applications.
+  * wmname: Prints/sets the window manager name property of the root
+    window similar to how hostname(1) behaves.
+  * xssstate: Retrieves the state of X screensaver.
+
+Package: sway
+Architecture: amd64
+Version: 1.8.1-1+u001
+Priority: optional
+Section: x11
+Maintainer: Sway and related packages team <team+swaywm@tracker.debian.org>
+Installed-Size: 963
+Depends: libgl1-mesa-dri, swaybg, polkitd, libc6 (>= 2.34), libcairo2 (>= 1.10.0), libevdev2 (>= 0.9.1), libgdk-pixbuf-2.0-0 (>= 2.31.1), libgles2, libglib2.0-0 (>= 2.12.0), libinput10 (>= 1.21.0), libjson-c5 (>= 0.15), libpango-1.0-0 (>= 1.22.0), libpangocairo-1.0-0 (>= 1.22.0), libpcre2-8-0 (>= 10.22), libpixman-1-0 (>= 0.25.2), libsystemd0 (>= 243), libudev1 (>= 183), libwayland-client0 (>= 1.20.0), libwayland-cursor0 (>= 1.20.0), libwayland-server0 (>= 1.20.92), libwlroots11 (>= 0.16.0), libxcb-icccm4 (>= 0.4.1), libxcb1, libxkbcommon0 (>= 0.7.0)
+Recommends: suckless-tools, sway-backgrounds, foot
+Suggests: swayidle, swaylock, xdg-desktop-portal-wlr
+Filename: ./deb-packages/sway/sway_1.8.1-1_plus_u001_amd64.deb
+Size: 325900
+MD5sum: 90516d748b3b1679c53ccd72a3fb128d
+SHA1: cfe0e1a90027eecb5394e553628af301f0ca1b14
+SHA256: 40e92cb62731544570f07133a532961399c8b89f172eb90b01b70dcd3f683fbe
+SHA512: ed86d6a12aa8fbc8e0e5b828a569a84a08a061ed37fc6d4250bd276ddb00add06d739f7ab4c06ed52dd5fafa6a6a90652b98847450eb90f0b2cd38eae1f264d0
+Homepage: https://swaywm.org
+Description: i3-compatible Wayland compositor
+ sway (SirCmpwn's Wayland compositor) is a tiling Wayland compositor and a
+ drop-in replacement for the i3 window manager for X11. It works with your
+ existing i3 configuration and supports most of i3's features, plus a few
+ extras. This means it is a minimalist, tiling window manager.
+
+Package: libinput10
+Architecture: amd64
+Version: 1.22.1-1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: libinput
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 370
+Depends: libc6 (>= 2.35), libevdev2 (>= 1.10.0), libmtdev1 (>= 1.1.0), libudev1 (>= 183), libwacom2 (>= 1.1), libinput-bin (>= 1.22.1-1)
+Filename: ./deb-packages/sway/libinput10_1.22.1-1_amd64.deb
+Size: 124176
+MD5sum: 175281ada2c42d6570f8c041d0f09944
+SHA1: a8cf720c29a8a5dbf30816c6adcde82ed7f88561
+SHA256: 40d9123346fdf85199ce6e9c16e7a554b0e003406d0f814a8d7efc8ea9d55261
+SHA512: 7108015689a0603dbcef8699268cedbc7234fd1553f79f06da31b3cd6ae2b972d0de7b986ebcfa93dc2c5e500055fd3a22a8913bbd76cc4cbded458137c5cca2
+Homepage: https://www.freedesktop.org/wiki/Software/libinput/
+Description: input device management and event handling library - shared library
+ libinput is a library that handles input devices for display servers and
+ other applications that need to directly deal with input devices.
+ .
+ It provides device detection, device handling, input device event
+ processing and abstraction to minimize the amount of custom input
+ code the user of libinput needs to provide the common set of
+ functionality that users expect.
+ .
+ This package includes the shared library.
+
+Package: libseat1
+Architecture: amd64
+Version: 0.7.0-6+u005
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: seatd
+Maintainer: Mark Hindley <leepen@debian.org>
+Installed-Size: 59
+Depends: seatd | logind, libc6 (>= 2.33), libsystemd0 (>= 238)
+Filename: ./deb-packages/sway/libseat1_0.7.0-6_plus_u005_amd64.deb
+Size: 18128
+MD5sum: c02d650bf622b77321da9bc033535884
+SHA1: f7b26fc98b759f3fd54e1e6136c46513eb47425b
+SHA256: 800f2db70c25892ab2e6b4bb8ea7c5ccd6a488bf94b3650926623a02a58cbd32
+SHA512: d1f23067872968f5ded5257f497962e46b4978d9d7d8e5a996fe6c20b6755abb4a8b5a2412bd6e2941122c86c616e1048fbb65217405e0287af1cc3931377f97
+Homepage: https://git.sr.ht/~kennylevinsen/seatd
+Description: flexible user, seat and session management library
+ This library provides runtime access to user, seat and session management. The
+ backend server used is configurable at runtime. Currently implemented backends
+ are seatd, elogind or systemd-logind.
+
+Package: libinput-bin
+Architecture: amd64
+Version: 1.22.1-1
+Multi-Arch: foreign
+Priority: optional
+Section: libs
+Source: libinput
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 140
+Depends: libc6 (>= 2.34), libevdev2 (>= 1.10.0), libudev1 (>= 183), libwacom2 (>= 1.1)
+Filename: ./deb-packages/sway/libinput-bin_1.22.1-1_amd64.deb
+Size: 23080
+MD5sum: ed9be0a9d5009f4e90c6c018d38c37bd
+SHA1: 90620398a1731968f8816030939cda8e0c81178b
+SHA256: 8c0f57fa8c9192eb57fd47a0d3d8da6598b1a2766c54b7a2e75082a1dd668f82
+SHA512: 80abce48ee36021f56542f603d8c4a812a41091b24776d0be1ed64061202362300f0dc593041f1b129e6d68cfd47980dd3f5d22b0dda08896e8a1ad4bd935955
+Homepage: https://www.freedesktop.org/wiki/Software/libinput/
+Description: input device management and event handling library - udev quirks
+ libinput is a library that handles input devices for display servers and
+ other applications that need to directly deal with input devices.
+ .
+ It provides device detection, device handling, input device event
+ processing and abstraction to minimize the amount of custom input
+ code the user of libinput needs to provide the common set of
+ functionality that users expect.
+ .
+ This package includes the udev quirks database and helpers.
+
+Package: swaybg
+Architecture: amd64
+Version: 1.2.0-1
+Priority: optional
+Section: x11
+Maintainer: Sway and related packages team <team+swaywm@tracker.debian.org>
+Installed-Size: 57
+Depends: libc6 (>= 2.34), libcairo2 (>= 1.2.4), libgdk-pixbuf-2.0-0 (>= 2.31.1), libglib2.0-0 (>= 2.12.0), libwayland-client0 (>= 1.20.0)
+Breaks: sway (<< 1.1~rc1)
+Replaces: sway (<< 1.1~rc1)
+Filename: ./deb-packages/sway/swaybg_1.2.0-1_amd64.deb
+Size: 15064
+MD5sum: 99be8e3811172ee39aa81a364fbc05da
+SHA1: 7cc28bc5b88d1361e40ee9c94e516ea339ba4d0d
+SHA256: e6ecc33f0b1c5bed348a2e59524f33e546432c2a9af60df7f7d0eea31fd77276
+SHA512: 6b9008899c0dbc1750f31146857e9b4a145da208f90410ff34eee56620b5114b6e1debb6536c552f9ee77c8c912e189b2a5d5a3ad24ccd5574bfef2831c208b4
+Homepage: https://github.com/swaywm/swaybg
+Description: Wallpaper utility for Wayland compositors
+ swaybg is a wallpaper utility for Wayland compositors. It is compatible with
+ any Wayland compositor which implements the following Wayland protocols:
+ wlr-layer-shell, xdg-output, xdg-shell
+
+Package: sway-backgrounds
+Architecture: all
+Version: 1.8.1-1+u001
+Multi-Arch: foreign
+Priority: optional
+Section: x11
+Source: sway
+Maintainer: Sway and related packages team <team+swaywm@tracker.debian.org>
+Installed-Size: 4931
+Suggests: sway
+Filename: ./deb-packages/sway/sway-backgrounds_1.8.1-1_plus_u001_all.deb
+Size: 4821788
+MD5sum: d653e798fa1cfe365722524637ba7009
+SHA1: 75964bc0eee339fd58fa663f8ef687aa40d09714
+SHA256: 26f91ad62c5093ee5e142c0309bfe624c37f78e6baacb5bb0be81a556b096e95
+SHA512: ca08a2e7504aa0d8e1e3c97a75dd629ca83b59e281674a98ff0a09758b1eede7ebf258a9a9a36e615bffc5ebe243a2cec3c3e929e0dcfcc5b65a9f837108fde4
+Homepage: https://swaywm.org
+Description: Set of backgrounds packaged with the sway window manager
+ sway (SirCmpwn's Wayland compositor) is a tiling Wayland compositor and a
+ drop-in replacement for the i3 window manager for X11. It works with your
+ existing i3 configuration and supports most of i3's features, plus a few
+ extras. This means it is a minimalist, tiling window manager.
+ .
+ This package contains a set of desktop backgrounds that come with sway.
+
+Package: libwlroots11
+Architecture: amd64
+Version: 0.16.2-2deepin2
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: wlroots
+Maintainer: Sway and related packages team <team+swaywm@tracker.debian.org>
+Installed-Size: 1064
+Depends: libc6 (>= 2.34), libdrm2 (>= 2.4.113), libegl1, libgbm1 (>= 21.1.0), libgles2, libinput10 (>= 1.19.1), libpixman-1-0 (>= 0.27.4), libseat1 (>= 0.5.0), libudev1 (>= 183), libvulkan1 (>= 1.2.131.2), libwayland-client0 (>= 1.21), libwayland-server0 (>= 1.21), libxcb-composite0, libxcb-dri3-0 (>= 1.13), libxcb-icccm4 (>= 0.4.1), libxcb-present0, libxcb-render-util0, libxcb-render0, libxcb-res0 (>= 1.10), libxcb-shm0 (>= 1.10), libxcb-xfixes0 (>= 1.15), libxcb-xinput0 (>= 1.15), libxcb1, libxkbcommon0 (>= 0.5.0)
+Filename: ./deb-packages/sway/libwlroots11_0.16.2-2deepin2_amd64.deb
+Size: 324964
+MD5sum: 2c59f2abb946dc90efbbb63e47d79360
+SHA1: 8ea6c64975e298b84eabee2b9c7001e2cc141002
+SHA256: 1a479e34947ffddfd8a281551e1adfceb3b48c4369e5c6e346722be13596e550
+SHA512: f28977f30d7d2b5d6738a4d586c1babb8c2ed865c52664aade2346a23f3fd27b133246aec6875b49cc29ad0bfc732495d5b451a4aee833a49ef8359b3166fad2
+Homepage: https://gitlab.freedesktop.org/wlroots/wlroots/
+Description: Modular wayland compositor library - shared library
+ wlroots is a set of pluggable, composable modules to build a Wayland
+ composior.
+ .
+ This package contains the shared library.
+
+Package: conky-all
+Architecture: amd64
+Version: 1.11.6-2
+Priority: optional
+Section: utils
+Source: conky
+Maintainer: Vincent Cheng <vcheng@debian.org>
+Installed-Size: 1998
+Depends: libaudclient2 (>= 2.3), libc6 (>= 2.29), libcairo2 (>= 1.8.0), libcurl3-gnutls (>= 7.16.2), libdbus-glib-1-2 (>= 0.78), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.12.0), libical3 (>= 3.0.0), libimlib2 (>= 1.4.5), libircclient1 (>= 1.8), libiw30 (>= 30~pre1), liblua5.3-0, libncurses6 (>= 6), libpulse0 (>= 0.99.1), librsvg2-2 (>= 2.35.2), libstdc++6 (>= 6), libtinfo6 (>= 6), libx11-6, libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxft2 (>> 2.1.1), libxinerama1, libxml2 (>= 2.7.4), libxmmsclient6 (>= 0.7DrNo), libxnvctrl0
+Suggests: apcupsd, audacious, moc, mpd, xmms2
+Conflicts: conky-cli, conky-std
+Breaks: conky (<< 1.8.0-1)
+Replaces: conky (<< 1.8.0-1), conky-cli, conky-std
+Filename: ./deb-packages/conky-all/conky-all_1.11.6-2_amd64.deb
+Size: 707292
+MD5sum: 728e9233854cee993d6b9cb13005e324
+SHA1: 36ab4f4c006531555169a07302bc966baf2b2e59
+SHA256: 89c0ea31d3d44e99789f0d21c9b09a3d89fa8506f70d8c1834250148421d65f6
+SHA512: 903aa43d021176e7a15ecf7626c2db2844cf440bf2b186cc52a2e14c4036bc56c012fc39ee211b6c82514cdc0e7a3aa59ea85fc246c4a8750b77c6a8dbbff981
+Homepage: https://github.com/brndnmtthws/conky
+Description: highly configurable system monitor (all features enabled)
+ Conky is a system monitor that can display just about anything,
+ either on your root desktop or in its own window.
+ Conky has many built-in objects, as well as the ability to execute
+ external programs or scripts (either external or through built-in
+ Lua support).
+ .
+ This is a full conky with most compile options enabled:
+ .
+ X11, XDamage, XDBE, Xft, MPD, MOC, math, hddtemp, portmon, RSS,
+ Weather, wireless, IBM, nvidia, eve-online, Imlib2,
+ apcupsd, I/O stats, argb, Lua and the cairo and imlib2 Lua bindings,
+ Audacious, XMMS2, PulseAudio, iCal, iconv, IRC, and systemd journal.
+
+Package: open-infrastructure-system-boot
+Architecture: all
+Version: 20190301-lts1-3
+Priority: optional
+Section: admin
+Source: open-infrastructure-system-tools
+Maintainer: Daniel Baumann <daniel.baumann@progress-linux.org>
+Installed-Size: 175
+Provides: system-boot
+Depends: busybox | busybox-initramfs, initramfs-tools, udev
+Recommends: rsync, uuid-runtime
+Suggests: cryptsetup, curlftpfs, httpfs2, wget
+Conflicts: live-boot, live-boot-doc, live-boot-initramfs-tools
+Replaces: live-boot, live-boot-doc, live-boot-initramfs-tools
+Filename: ./deb-packages/open-infrastructure-system-boot/open-infrastructure-system-boot_20190301-lts1-3_all.deb
+Size: 67504
+MD5sum: 47365716f2c86bc19aff1de619ce6bc3
+SHA1: f69c736644ff362e28c35c725e2c10cec7dc376b
+SHA256: 9bcaa7d7547d38396a62224d9709980355aeaee8f2ea8a6b645a42bb897a2603
+SHA512: 3971b39ed7b3630e968ba32569e93fd978977f55e56b295555e6dde2c5561006605571f473c4f16155e69166367a256522d191f844428a7e36e15b6cf731a6fe
+Homepage: https://open-infrastructure.net/software/system-tools
+Description: Boot Debian-based system images
+ system-boot provides the system integration for booting from a read-only root
+ filesystem such as a live system.
+
+Package: linux-headers-6.4.12-dppve-fslong+
+Architecture: amd64
+Version: 6.4.12-ge2737848e01c-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: fslong <fslong@fslong-hasee>
+Installed-Size: 54905
+Filename: ./deb-packages/kernel/amd64/kernel-fslong/6.4.12/linux-headers-6.4.12-dppve-fslong_plus__6.4.12-ge2737848e01c-1_amd64.deb
+Size: 9282464
+MD5sum: bdd582b088d082f818a06486a007d8be
+SHA1: 8dfbe222a50fa992193700bc501b0b468c46f8fb
+SHA256: ca32a9127d71977cc1cb6495eb96c7c1784c5501fbadd03034b6946522eb1595
+SHA512: fd928f05bf88029a2d73de51fb3576adc23c01bc595a31457fc1ee6626c11120debae834a7031a921b207fc096e65f83edde9d2cc2fb0b15fea61f3f58539066
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.4.12-dppve-fslong+ on amd64
+ This package provides kernel header files for 6.4.12-dppve-fslong+ on amd64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-image-6.4.12-dppve-fslong+
+Architecture: amd64
+Version: 6.4.12-ge2737848e01c-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: fslong <fslong@fslong-hasee>
+Installed-Size: 487453
+Filename: ./deb-packages/kernel/amd64/kernel-fslong/6.4.12/linux-image-6.4.12-dppve-fslong_plus__6.4.12-ge2737848e01c-1_amd64.deb
+Size: 89514008
+MD5sum: 173959d7a586aa4cc7647e5c4cf4171d
+SHA1: 23bdb776e7a267f6a7af3f0af3826804e39080bc
+SHA256: 04569ae31219a4ffc8bcbe7360f6e08ed238b2150eb06903470a6149d1fb755b
+SHA512: dc3b212bdd239eb23569f77aeaf2238a943a1252122e8747d64b324f62d1a4962bac86192d37a2b01268ee272462038029aa9cf241b669dd4d951a92e6f91719
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.4.12-dppve-fslong+
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.4.12-dppve-fslong+.
+
+Package: linux-headers-6.7.9-dppve-fslong
+Architecture: amd64
+Version: 6.7.9-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: fslong <fslong@fslong-wooking>
+Installed-Size: 55995
+Filename: ./deb-packages/kernel/amd64/kernel-fslong/6.7.9-1/linux-headers-6.7.9-dppve-fslong_6.7.9-1_amd64.deb
+Size: 9476400
+MD5sum: 6d3103ee365c06e3ef92deda99d0faf8
+SHA1: c9c641565e605207c3487a0513f9908cfb90ae6d
+SHA256: 2f3e471cad4bcc690deb04a81892859134e79a6f14ecbe732c38483f984bab47
+SHA512: 16ce3854860c0c8023ee49751f40bc1752ae7a783ee91c136b4f6c897e9e60f12fb7f1453b1360a99d1f5e18c623c3118194245bb86ce4a92fb761ea20159d5e
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.7.9-dppve-fslong on amd64
+ This package provides kernel header files for 6.7.9-dppve-fslong on amd64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-image-6.7.9-dppve-fslong
+Architecture: amd64
+Version: 6.7.9-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: fslong <fslong@fslong-wooking>
+Installed-Size: 505144
+Filename: ./deb-packages/kernel/amd64/kernel-fslong/6.7.9-1/linux-image-6.7.9-dppve-fslong_6.7.9-1_amd64.deb
+Size: 89546732
+MD5sum: 51ea6e9ee93b9301f7bcf7e4c38c72a3
+SHA1: 9267e0877a6fc414edd0e030b7c9a637376f121a
+SHA256: d4131a5e044bc4fb1d13a4491048eccbe046f2fe18e9fc310973f71995d099c4
+SHA512: 1c3ab744d67b3f3393e9161c5fe15583d8776eb729907c6c3ffce17c3742f023961fbe799920d5ef1d13c2b2c01124ef41bfb552818db0e95fb765764ca802b7
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.7.9-dppve-fslong
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.7.9-dppve-fslong.
+
+Package: linux-image-6.6.21-shenmo23
+Architecture: arm64
+Version: 6.6.21-17
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@deepin23-ACE.lan>
+Installed-Size: 315042
+Filename: ./deb-packages/kernel/arm64/shenmo23/linux-image-6.6.21-shenmo23_6.6.21-17_arm64.deb
+Size: 54779872
+MD5sum: 5df9ccf3d78de8286e7133613cabcf90
+SHA1: 7d312bb48eb91f3faf3eb638cb721d6bbe39f3cc
+SHA256: 156c72b700f01f2b2ba4f30c51e18ea6fc04c235520f826df88032c92c7815c4
+SHA512: b48fb3d696b5a0df66e3c1d9c3772f7d9d7c39042b22cc1cb52daf1938f857522e6e4db8cd28784eb03ce31d229efb47571e30e1451210f8497111d7cc0448e8
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.6.21-shenmo23
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.6.21-shenmo23.
+
+Package: linux-image-6.6.21-shenmo23
+Architecture: arm64
+Version: 6.6.21-21
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@shenmo-23kun-PC.lan>
+Installed-Size: 315042
+Filename: ./deb-packages/kernel/arm64/shenmo23/linux-image-6.6.21-shenmo23_6.6.21-21_arm64.deb
+Size: 54791460
+MD5sum: 8fa4845bf3fd45657572ed1155707b31
+SHA1: 4169c27ce8e3e507070ed90f647bfbf274edd612
+SHA256: 3a924df8d8e412c399df571b766bd33dbcf7568e6cc1e424eb97b8d6f532bb5d
+SHA512: caf12cec469e1f0db3937f06d136eaa2bc8344d41f7e0567b42aa0c654329bd0414a3c25fc2299c6b456a63865f4484e3ae2ce74235513590ba7f9f75309b3cc
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.6.21-shenmo23
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.6.21-shenmo23.
+
+Package: linux-headers-6.6.21-shenmo23
+Architecture: arm64
+Version: 6.6.21-17
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@deepin23-ACE.lan>
+Installed-Size: 54017
+Filename: ./deb-packages/kernel/arm64/shenmo23/linux-headers-6.6.21-shenmo23_6.6.21-17_arm64.deb
+Size: 8878200
+MD5sum: c18fd31eadfb1fa075288138b2d07648
+SHA1: 4ee0459f05723d102a56202bd96a52d517ad9c1c
+SHA256: 784bfa2f698c5f182f2b251b676b6ef747cd69f9240d5cfd978feed6e99065b1
+SHA512: d479bbb8e977ca7c48bebe8bba84cf9c15c6044ecdd6eee6efa10e1922f7f163fe40b7be79db8bf5847d386a2693937703525a6b32d6a1d0462a6017a04658f7
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.6.21-shenmo23 on arm64
+ This package provides kernel header files for 6.6.21-shenmo23 on arm64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-6.6.21-shenmo23
+Architecture: arm64
+Version: 6.6.21-21
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@shenmo-23kun-PC.lan>
+Installed-Size: 54175
+Filename: ./deb-packages/kernel/arm64/shenmo23/linux-headers-6.6.21-shenmo23_6.6.21-21_arm64.deb
+Size: 8869272
+MD5sum: 047d93c34a4ab93cc0fe004a7c5fdf73
+SHA1: f228bbc67678b0c41b9f69bcfcde5b38e5d45065
+SHA256: 362d03e5500f592b7c9c9d9eb32e297ec4c4122c8a074efb17a5c37f643b131c
+SHA512: 1853d9d3bbe52a650f52ff80a4fa2de507f9aca7a69faa1f928cf72c537c95c77970a63b4dfb8979e29e6b1616d7d01241ffa0f8874cf4f1e5b8f5d5a5f3cb62
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.6.21-shenmo23 on arm64
+ This package provides kernel header files for 6.6.21-shenmo23 on arm64
+ .
+ This is useful for people who need to build external modules
+
+Package: libfsverity0
+Architecture: amd64
+Version: 1.5-1.1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: fsverity-utils
+Maintainer: Romain Perier <romain.perier@gmail.com>
+Installed-Size: 40
+Depends: libc6 (>= 2.14), libssl3 (>= 3.0.0)
+Filename: ./deb-packages/alien/libfsverity0_1.5-1.1_amd64.deb
+Size: 10460
+MD5sum: 29621ba46f0c338b83aa8ccb7927f73b
+SHA1: 71c3a78005881f7faed89efc58a865b8dafbc236
+SHA256: f1719e3b750747599cb4ec06cf17572ebdd067721b5b1b54ba7a8034f3e7fcf3
+SHA512: 80eee164bb3d62342be63f2c9c1e1881dce7dfca0f3cfef0464c939ba5a91c91149055b03071b9b2e665634070e4ac324a8e7eb2d076b0b97ae9759a121dc377
+Homepage: https://git.kernel.org/pub/scm/linux/kernel/git/ebiggers/fsverity-utils.git
+Description: Shared library for fs-verity
+ fs-verity is a Linux kernel feature that does transparent on-demand
+ integrity/authenticity verification of the contents of read-only files,
+ using a hidden Merkle tree (hash tree) associated with the file. The
+ mechanism is similar to dm-verity, but implemented at the file level
+ rather than at the block device level.
+ .
+ This package contains the libfsverity shared library.
+
+Package: librpmbuild9
+Architecture: amd64
+Version: 4.18.0+dfsg-1+b1
+Priority: optional
+Section: libs
+Source: rpm (4.18.0+dfsg-1)
+Maintainer: RPM packaging team <team+pkg-rpm@tracker.debian.org>
+Installed-Size: 1710
+Depends: libc6 (>= 2.33), libdw1 (>= 0.177), libelf1 (>= 0.142), libgomp1 (>= 4.9), liblua5.3-0, libmagic1 (>= 5.12), libpopt0 (>= 1.14), librpm9 (= 4.18.0+dfsg-1+b1), librpmio9 (= 4.18.0+dfsg-1+b1)
+Filename: ./deb-packages/alien/librpmbuild9_4.18.0_plus_dfsg-1_plus_b1_amd64.deb
+Size: 1613136
+MD5sum: d69a6786946cb3f728a994e17f8dd76b
+SHA1: b97403e1398e2d880fc3a04331ac356b4a55b2f8
+SHA256: 3f05c22c4e626995ed6ad29260c398c06c685f0a32fd1091eaace7789b4a3081
+SHA512: b647a919879e0ed6bce5ffd973c9284239d9738c93c5d4d1563200a970d0e69cf868722ac75d24f06bbd48423a5e02115f39489aed47a5a86e575493171baf4a
+Homepage: https://rpm.org/
+Description: RPM build shared library
+ The RPM Package Manager (RPM) is a command-line driven package
+ management system capable of installing, uninstalling, verifying,
+ querying, and updating computer software packages.
+ .
+ This library provides an interface for building RPM packages.
+
+Package: rpm2cpio
+Architecture: amd64
+Version: 4.18.0+dfsg-1+b1
+Multi-Arch: foreign
+Priority: optional
+Section: admin
+Source: rpm (4.18.0+dfsg-1)
+Maintainer: RPM packaging team <team+pkg-rpm@tracker.debian.org>
+Installed-Size: 1550
+Depends: libarchive13 (>= 3.0.4), libc6 (>= 2.34), libpopt0 (>= 1.14), librpm9 (>= 4.14.0+dfsg1), librpmio9 (>= 4.14.0+dfsg1), rpm-common (= 4.18.0+dfsg-1+b1)
+Suggests: rpm-i18n
+Filename: ./deb-packages/alien/rpm2cpio_4.18.0_plus_dfsg-1_plus_b1_amd64.deb
+Size: 1547452
+MD5sum: bd9aaf80a29a1d53a8164814c7d96e49
+SHA1: 66eebbd64eaa3d49b863777652c2d7027a857b37
+SHA256: 225e4785168cae1726b9297a435f7de83e31eb5ab653201e10ebbaf37371d32b
+SHA512: 73d130543e7997e7fb33da4b0206c74515a4be69ef23e6e195383a5acd7557d273b5da91d002848db6f2ddd61323537e9d63f78edab175b982db7b46f4d67743
+Homepage: https://rpm.org/
+Description: tool to convert RPM package to CPIO archive
+ The RPM Package Manager (RPM) is a command-line driven package
+ management system capable of installing, uninstalling, verifying,
+ querying, and updating computer software packages.
+ .
+ This package contains tool to convert RPM packages to standard CPIO
+ archive.
+
+Package: alien
+Architecture: all
+Version: 8.95.6
+Priority: optional
+Section: admin
+Maintainer: Debian QA Group <packages@qa.debian.org>
+Installed-Size: 163
+Depends: debhelper (>= 10), perl:any, rpm, dpkg-dev, make, cpio, rpm2cpio
+Suggests: patch, bzip2, lintian, lzma
+Filename: ./deb-packages/alien/alien_8.95.6_all.deb
+Size: 78028
+MD5sum: 1b8c5dc2da54213d1349d33b02d52abf
+SHA1: b9b6252b030e3a927f14ac7d02553c9e124a5f11
+SHA256: 03d23023e3efc4c5bcd29fc92151b6b18788e497877bfd97f11193fca9c63b61
+SHA512: 3f165f32f748f1bc8494db7100925ad82b28a3b8a3d7b9b263771feb9e89142e8c4ab3c33709696d05412a3f50ef98be46a21b71d6dc7584fc1ca8c2c6e8a78b
+Homepage: http://kitenet.net/~joey/code/alien/
+Description: convert and install rpm and other packages
+ Alien allows you to convert LSB, Red Hat, Stampede and Slackware Packages
+ into Debian packages, which can be installed with dpkg.
+ .
+ It can also generate packages of any of the other formats.
+ .
+ This is a tool only suitable for binary packages.
+
+Package: rpm
+Architecture: amd64
+Version: 4.18.0+dfsg-1+b1
+Priority: optional
+Section: admin
+Source: rpm (4.18.0+dfsg-1)
+Maintainer: RPM packaging team <team+pkg-rpm@tracker.debian.org>
+Installed-Size: 2009
+Depends: libc6 (>= 2.34), libelf1 (>= 0.131), libpopt0 (>= 1.14), libreadline8 (>= 6.0), librpm9 (>= 4.18.0+dfsg), librpmbuild9 (>= 4.17.0+dfsg1), librpmio9 (>= 4.14.0+dfsg1), librpmsign9 (>= 4.17.0+dfsg1), perl:any, rpm2cpio, debugedit (>= 1:5), rpm-common (= 4.18.0+dfsg-1+b1)
+Suggests: alien, python3, elfutils, rpmlint, rpm-i18n
+Filename: ./deb-packages/alien/rpm_4.18.0_plus_dfsg-1_plus_b1_amd64.deb
+Size: 1692892
+MD5sum: a88524a76d2ad17e36c6292a879804fa
+SHA1: 04de87046a3b415505b90da78ba4893f166a8392
+SHA256: 95b4f8d916ca2e1aa9263188d0443f39413b06cdb3e12b8faddf161c2d07537f
+SHA512: c29dc5144c44b9d48d9063c61bc9634f9f4cd228b71e19cd61b3d4093f9f7da306a3e50b24e49890e48af6f9a44599df7922e016e9d089ada2979fa48c0741a6
+Homepage: https://rpm.org/
+Description: package manager for RPM
+ The RPM Package Manager (RPM) is a command-line driven package
+ management system capable of installing, uninstalling, verifying,
+ querying, and updating computer software packages.
+ .
+ On Debian and derived systems it is recommended to use "alien" to
+ convert RPM packages into .deb format instead of bypassing the Debian
+ package management system by installing them directly with rpm.
+
+Package: rpm-common
+Architecture: amd64
+Version: 4.18.0+dfsg-1+b1
+Priority: optional
+Section: admin
+Source: rpm (4.18.0+dfsg-1)
+Maintainer: RPM packaging team <team+pkg-rpm@tracker.debian.org>
+Installed-Size: 2037
+Depends: libaudit1 (>= 1:2.2.1), libc6 (>= 2.33), libdbus-1-3 (>= 1.9.14), librpm9 (>= 4.17.0+dfsg1), librpmio9 (>= 4.18.0+dfsg), libselinux1 (>= 3.1~)
+Filename: ./deb-packages/alien/rpm-common_4.18.0_plus_dfsg-1_plus_b1_amd64.deb
+Size: 1570736
+MD5sum: e4985b4236659cbc76f1e9dd3b9f7aa7
+SHA1: 6dc3b387808d5c8e42f3c04544522017a21d554d
+SHA256: 058c5f94659ff37d2a5383977b0b62365a3da57edcb8c73a17f26b84df51ff90
+SHA512: 83667b0d0c8514749cb986d0682f495a403022f33ab810226e19b05515a8d01ce3cdd683741508e733b56d1265dea4addfef9c0a53a965f779df902f4c370446
+Homepage: https://rpm.org/
+Description: common files for RPM
+ The RPM Package Manager (RPM) is a command-line driven package
+ management system capable of installing, uninstalling, verifying,
+ querying, and updating computer software packages.
+ .
+ This package contains some scripts and default configuration which is
+ used by RPM libraries.
+
+Package: librpm9
+Architecture: amd64
+Version: 4.18.0+dfsg-1+b1
+Priority: optional
+Section: libs
+Source: rpm (4.18.0+dfsg-1)
+Maintainer: RPM packaging team <team+pkg-rpm@tracker.debian.org>
+Installed-Size: 2023
+Depends: libc6 (>= 2.34), libcap2 (>= 1:2.10), liblua5.3-0, libpopt0 (>= 1.14), librpmio9 (= 4.18.0+dfsg-1+b1), libsqlite3-0 (>= 3.7.15)
+Recommends: rpm-common (= 4.18.0+dfsg-1+b1)
+Filename: ./deb-packages/alien/librpm9_4.18.0_plus_dfsg-1_plus_b1_amd64.deb
+Size: 1717500
+MD5sum: 9210f74480fa2c441924a73934d3df08
+SHA1: 9b11241dda065b8f53b976fcc7171f12ee0d1914
+SHA256: 1dad332489b0d798fc59eaa2c764d7ac59898a5573ca8fa22ab8b2f358b5a200
+SHA512: c18155b0181e858a3c72580cb913015c1d0b93b51bd2deccfbfadd1703f75f11d314c7e1bf15c6ec0671ac4296360fcaf87aeda4ba54dd20fcfc43cb0bf5f489
+Homepage: https://rpm.org/
+Description: RPM shared library
+ The RPM Package Manager (RPM) is a command-line driven package
+ management system capable of installing, uninstalling, verifying,
+ querying, and updating computer software packages.
+ .
+ This library allows programs to make use of an RPM database or RPM packages
+ without going through the program rpm.
+
+Package: librpmsign9
+Architecture: amd64
+Version: 4.18.0+dfsg-1+b1
+Priority: optional
+Section: libs
+Source: rpm (4.18.0+dfsg-1)
+Maintainer: RPM packaging team <team+pkg-rpm@tracker.debian.org>
+Installed-Size: 1547
+Depends: libc6 (>= 2.33), libfsverity0 (>= 1.2), libpopt0 (>= 1.14), librpm9 (= 4.18.0+dfsg-1+b1), librpmio9 (= 4.18.0+dfsg-1+b1)
+Filename: ./deb-packages/alien/librpmsign9_4.18.0_plus_dfsg-1_plus_b1_amd64.deb
+Size: 1549008
+MD5sum: c294bac9699aae4b2e8c1705c08459f6
+SHA1: b70a472056e0643d21d4366bd7087b673013ca2f
+SHA256: 874b08cebd67a88a4b13def2a4ac0f8e980c3e42b5c60488a6ede8beed62f41c
+SHA512: 5b76aca8ce2032c1fc6748c3f921905d948881dc1eb5b761506d8cae0bd47f96900bd11b01f0a62180d835f2f6431a1286c74f16121de94019fca810a8f33490
+Homepage: https://rpm.org/
+Description: RPM signing shared library
+ The RPM Package Manager (RPM) is a command-line driven package
+ management system capable of installing, uninstalling, verifying,
+ querying, and updating computer software packages.
+ .
+ This library provides an interface for signing RPM packages.
+
+Package: librpmio9
+Architecture: amd64
+Version: 4.18.0+dfsg-1+b1
+Priority: optional
+Section: libs
+Source: rpm (4.18.0+dfsg-1)
+Maintainer: RPM packaging team <team+pkg-rpm@tracker.debian.org>
+Installed-Size: 1749
+Depends: libbz2-1.0, libc6 (>= 2.34), libgcrypt20 (>= 1.10.0), liblua5.3-0, liblzma5 (>= 5.2.2), libpopt0 (>= 1.14), libzstd1 (>= 1.5.2), zlib1g (>= 1:1.1.4)
+Filename: ./deb-packages/alien/librpmio9_4.18.0_plus_dfsg-1_plus_b1_amd64.deb
+Size: 1625112
+MD5sum: 8ade2daa8f04f6889421fa131d9cd199
+SHA1: 025df20a31ccfe54f81db62f5bb531b660aa3a7c
+SHA256: 5e19e6ee535ddc2961b1fc640e2c7e4df39f144d905df356cbba30dc30b48d87
+SHA512: 7f6b6feb7de2ced45694592ef5f1e0af555adaf087e1c86f49234873618ce01b18000da18a9141ef48739cbc2c22ff6940a20794d409ec06c586b19945dd1f53
+Homepage: https://rpm.org/
+Description: RPM IO shared library
+ The RPM Package Manager (RPM) is a command-line driven package
+ management system capable of installing, uninstalling, verifying,
+ querying, and updating computer software packages.
+ .
+ This library provides basic IO functionality which is used by librpm.
+
+Package: rime98wb
+Architecture: amd64
+Version: 1.0.0+2
+Priority: optional
+Maintainer: wubi98
+Depends: fcitx5,fcitx5-rime,librime-plugin-lua,fcitx5-frontend-qt6
+Filename: ./deb-packages/rime98wb/rime98wb_1.0.0_plus_2_amd64.deb
+Size: 71621292
+MD5sum: b8148d36a3408e7fadfce777322657c6
+SHA1: 035eb55637e48aeba11561d400e8d9a28c4b1bea
+SHA256: b0cd0a5bddd0910e6b87bb7cbad35cb33e115cb9fcd36aa1cdc5f5bd0e838c88
+SHA512: 08992eb85d5513193b8508e8bea7615b992fe4b39fa0612123bba9182147bd44c2c9362a87ccb33f2ca3b33ea38afbef7c3d85858fbc65b0bcee02649f43646e
+Description: _Wubi98_for_fcitx5-rime
+Secion: utils
+Installed_Size: 20
+
+Package: fcitx5-table-extra
+Architecture: all
+Version: 5.0.12-1
+Priority: optional
+Section: utils
+Maintainer: duckfly-tw <duckfly-tw@developer.com>
+Installed-Size: 83250
+Depends: fcitx5-chinese-addons
+Filename: ./deb-packages/fcitx5-table-extra/fcitx5-table-extra_5.0.12-1_all.deb
+Size: 26803032
+MD5sum: 6fcc5bbc75e1279884c07bca9031b4a2
+SHA1: eee5780d2fc303d9d1d3b8f3385b2a935bb468b5
+SHA256: c3c234ce9be83e7d717a1b03d6a37169322bc58a09c6a12ac181dcb8c658defe
+SHA512: 02a7d6d03e517747592a8bcca0ec7d1e6be58bd205c0ca4591d3bdff6a570e09bd05ae2598f116bcfbb99ec6e992267213496427aa2ff525cbf1508e07dc26af
+Homepage: https://github.com/fcitx/fcitx5-table-extra
+Description: Extra tables for Fcitx5
+
+Package: bisheng-filter
+Architecture: amd64
+Version: 2.0.8-1
+Priority: optional
+Section: text
+Maintainer: Guo Lv <lvguo@deepin.com>
+Installed-Size: 1145
+Depends: deepin-elf-verify (>= 0.0.16.7-1), libc6 (>= 2.14), libcups2 (>= 2.3~b6), libdbus-1-3 (>= 1.9.14), libsystemd0, bisheng-engine (>= 2.0.6)
+Replaces: deepin-rpfilter
+Filename: ./deb-packages/bisheng-engine-series/bisheng-filter_2.0.8-1_amd64.deb
+Size: 252254
+MD5sum: d8eaa8d4ff51bfd327d7ece216b3f33a
+SHA1: 23ec84926191950fdbfb9d0d9c01514027d816a0
+SHA256: d4a32cd9f948056ea154b4392624195b8330fccd9ecf6d034fe86d2e29d6a5fb
+SHA512: bbecd828e824c8ecd985ef042c57617c2bc9b338e658e14c388fe3645cd392025a117712726ffddc06474f1b1d9cb999d249f134fd27eec28c00509e643f2f84
+Description: deepin raw filter printer service
+
+Package: bisheng-engine-runtime
+Architecture: i386
+Version: 2.0.5-1
+Multi-Arch: foreign
+Priority: optional
+Section: otherosfs
+Source: bisheng-engine
+Maintainer: Deepin Peripheral Technology Group <lvguo@deepin.com>
+Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
+Installed-Size: 6
+Pre-Depends: dpkg (>= 1.14.12ubuntu3)
+Depends: deepin-elf-verify:amd64 (>= 0.0.16.7-1), deepin-wine-runtime
+Filename: ./deb-packages/bisheng-engine-series/bisheng-engine-runtime_2.0.5-1_i386.deb
+Size: 14620
+MD5sum: 172e34b84ef543d3c353326622661241
+SHA1: 50ee481c238162581d10e26a0349e103a3a61a29
+SHA256: e5d2abbace12e500714e7679398f92eec39fde72e4c882b1e6550d418cfff4f1
+SHA512: 45b6a7a887aa99fd9a88126389df76112a3e58e355202786dcdcabc8f2cb9f2a2f60d1e72f74bc4da751ad73f40ed674eec03f3991d37b7c0000b391d0269396
+Description: WINE Is Not An Emulator - runs MS Windows programs
+ Wine is a program which allows running Microsoft Windows programs
+ (including DOS, Windows 3.x and Win32 executables) on Unix.
+ .
+ This package contains the files needed to support 32-bit Windows
+ programs.
+
+Package: bisheng-engine-i386
+Architecture: i386
+Version: 2.0.8-1
+Multi-Arch: foreign
+Priority: optional
+Section: otherosfs
+Source: bisheng-engine
+Maintainer: Deepin Peripheral Technology Group <lvguo@deepin.com>
+Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
+Installed-Size: 236658
+Pre-Depends: dpkg (>= 1.14.12ubuntu3)
+Depends: deepin-elf-verify:amd64 (>= 0.0.16.7-1), bisheng-engine-runtime
+Filename: ./deb-packages/bisheng-engine-series/bisheng-engine-i386_2.0.8-1_i386.deb
+Size: 26408632
+MD5sum: 8ddeb03d1486be8b4547295a29b93f69
+SHA1: 6f95f4686e3d86c7258ecc44c7f33ff349ae7071
+SHA256: 28379cae54e9d72a25c8549fb6107fc5a328f3ad8c8bd725aa22cb67b7490319
+SHA512: 26b884c2e1a4b876718a584cad313b5bb8a7f9e0ac44c5c1f5570285166b0459a43e6099e22398ea8002c8d420cda7d4b8c68dccd4586f1a1abd43ef02bebb75
+Description: WINE Is Not An Emulator - runs MS Windows programs
+ Wine is a program which allows running Microsoft Windows programs
+ (including DOS, Windows 3.x and Win32 executables) on Unix.
+ .
+ This package contains the files needed to support 32-bit Windows
+ programs.
+
+Package: bisheng-engine
+Architecture: i386
+Version: 2.0.8-1
+Multi-Arch: foreign
+Priority: optional
+Section: otherosfs
+Maintainer: Deepin Peripheral Technology Group <lvguo@deepin.com>
+Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
+Installed-Size: 12366
+Pre-Depends: dpkg (>= 1.14.12ubuntu3)
+Depends: deepin-elf-verify:amd64 (>= 0.0.16.7-1), bisheng-engine-i386 (= 2.0.8-1)
+Filename: ./deb-packages/bisheng-engine-series/bisheng-engine_2.0.8-1_i386.deb
+Size: 2025878
+MD5sum: 5c7935fb66f450019ad0a68c08ef8d65
+SHA1: 69434ee5f23f7b9436cbf997293d4d7f3d612d99
+SHA256: 94c2abeb1352618ef977b195b1567c8d6ee5f47e5c8830c29d6622e885746ad6
+SHA512: 736137fbc914d76ee801b3cfb8283c66f4ea1027fe5551e9e2cb429b583a56bfd683bb6a662113722563979cd322ac5c767744c9e35ac5bd13950c6fb38dc4aa
+Description: WINE Is Not An Emulator - runs MS Windows programs
+ Wine is a program which allows running Microsoft Windows programs
+ (including DOS, Windows 3.x and Win32 executables) on Unix. It
+ consists of a program loader which loads and executes a Microsoft
+ Windows binary, and a library (called Winelib) that implements Windows
+ API calls using their Unix or X11 equivalents.  The library may also
+ be used for porting Win32 code into native Unix executables.
+
+Package: autotrash
+Architecture: all
+Version: 0.1.5-python3spark1
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.stpre>
+Installed-Size: 31
+Depends: python3
+Filename: ./deb-packages/autotrash/autotrash_0.1.5-python3spark1_all.deb
+Size: 9184
+MD5sum: e2ccf15bb50071e2e0c29e512975ea1d
+SHA1: 17f0cd36523a222c14734ba998aa5e3d876d610e
+SHA256: c2ff8881b9530d1e5924b9ad07b3607cb2823ce0412aa71f6ace9dd424336347
+SHA512: 60d4c8c88379c7f9dea21980844900e46273a0b4105c9f5891e7f40a72e4419e667d23588b613a4556f6601d883afadbc2d35a2197ac8f53357d3d77956d32b4
+Homepage: http://www.logfish.net/pr/autotrash/
+Description: purges files from your trash based on age and/or filename
+ A script useful to purge files from your trash based on their age.
+ It can also be used to purge the files based on the filename
+ using a regular expression.
+
+Package: conky
+Architecture: all
+Version: 1.19.2+1
+Maintainer: spark-store
+Depends: libfuse2
+Filename: ./deb-packages/conky/conky_1.19.2_plus_1_all.deb
+Size: 24884612
+MD5sum: 03294eb214251c38742992ca7f336b01
+SHA1: 221d3afae6047d5e3c4518def492809dd07dee4a
+SHA256: 6c00cdf95bace716650c7eede9764335276b5c21b78aa6c425190cd1cdc4fb2a
+SHA512: 2bc12fefbdc7caab5e0719f95054b98b1aa22ec143795f094f6989a2277b55a7c699c701c13d9803c580a275d5c55c898a193e88ca26089b43c60567894d3d6d
+Description: conky Software Package created by Appimage2Deb
+
+Package: synaptic
+Architecture: amd64
+Version: 0.90.2
+Priority: optional
+Section: admin
+Maintainer: Michael Vogt <mvo@debian.org>
+Installed-Size: 7873
+Depends: libapt-pkg6.0 (>= 1.9.0), libc6 (>= 2.14), libept1.6.0, libgcc-s1 (>= 3.0), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.14.0), libgtk-3-0 (>= 3.11.7), libpango-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libvte-2.91-0, libxapian30 (>= 1.4.14~), hicolor-icon-theme, policykit-1
+Recommends: libgtk3-perl, xdg-utils
+Suggests: dwww, menu, deborphan, apt-xapian-index, tasksel, software-properties-gtk
+Conflicts: menu (<< 2.1.11)
+Filename: ./deb-packages/synaptic/synaptic_0.90.2_amd64.deb
+Size: 2099904
+MD5sum: a78a3a9de4fcbf8ac28b706529a92e0d
+SHA1: 37d645031aade52f1f564feb33638b17a8a964a9
+SHA256: a1a473d2d29261fdec5bda9108826f12b8bae6e9fbf2f6f19d98086eef045db7
+SHA512: 610c6fb1a8d419038a17172bdd32288fc94ec88a2a2911b45a1eb8f9f498a736c65f86c0e50183b03bcba675b62f28e34b7605ede78381a328db194f22b93e3f
+Homepage: https://www.nongnu.org/synaptic/
+Description: Graphical package manager
+ Synaptic is a graphical package management tool based on GTK+ and APT.
+ Synaptic enables you to install, upgrade and remove software packages in
+ a user friendly way.
+ .
+ Besides these basic functions the following features are provided:
+  * Search and filter the list of available packages
+  * Perform smart system upgrades
+  * Fix broken package dependencies
+  * Edit the list of used repositories (sources.list)
+  * Download the latest changelog of a package
+  * Configure packages through the debconf system
+  * Browse all available documentation related to a package (dwww is required)
+
+Package: libraw20
+Architecture: amd64
+Version: 0.20.2-2.1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: libraw
+Maintainer: Debian PhotoTools Maintainers <pkg-phototools-devel@lists.alioth.debian.org>
+Installed-Size: 2278
+Depends: libc6 (>= 2.33), libgcc-s1 (>= 3.0), libgomp1 (>= 6), libjpeg62-turbo (>= 1.3.1), liblcms2-2 (>= 2.2+git20110628), libstdc++6 (>= 5.2)
+Filename: ./deb-packages/qt5-libs/libraw20_0.20.2-2.1_amd64.deb
+Size: 352032
+MD5sum: c22152ec91d014d63b21ebcc65fc1f21
+SHA1: 43a7296914c86ab2f77084e2312c36eacd06a18e
+SHA256: 02bedd7e52a4f342bb5ccd05df55f08c02f4a2990981fc9d7c5d848003192f12
+SHA512: b01264053c94f4d57a2b1049d4293b35754e62b07cacf8d6adbd7b2ac69a45bc8afbf6ff4786c847a56090dca159fec886ba75c1c57ab8964ec014c1ab185ee8
+Homepage: https://www.libraw.org
+Description: raw image decoder library
+ LibRaw is a library for reading RAW files obtained from digital photo cameras
+ (CRW/CR2, NEF, RAF, DNG, and others).
+ .
+ This package contains the shared library.
+
+Package: qt5-style-plugin-cleanlooks
+Architecture: amd64
+Version: 5.0.0+git23.g335dbec-4+b7
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: qtstyleplugins-src (5.0.0+git23.g335dbec-4)
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 174
+Depends: libc6 (>= 2.14), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5)
+Breaks: qt5-style-plugins (<< 5.0.0+git23.g335dbec-3~)
+Replaces: qt5-style-plugins (<< 5.0.0+git23.g335dbec-3~)
+Filename: ./deb-packages/qt5-libs/qt5-style-plugin-cleanlooks_5.0.0_plus_git23.g335dbec-4_plus_b7_amd64.deb
+Size: 57712
+MD5sum: e95323291b384acd7227bd18c28008e6
+SHA1: 2f1e21137e9524a8c805a3a0afcbdba614c31c96
+SHA256: 9d34bdaf3555b50af7e171b76f207bb7a0299b785ac9313f3ce25a2df66a3223
+SHA512: 670bc1ad01dc0e0dd10fb697c68f8f7c61cbbb1114130b81b6333f922cb6b810520808c36da78569f7844dba9af5c035c510511918f8b6230af2ab396261565b
+Homepage: https://www.qt.io/
+Description: Qt 5 extra widget styles - Cleanlooks
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ This package contains the Cleanlooks widget style.
+
+Package: qt5-style-plugin-motif
+Architecture: amd64
+Version: 5.0.0+git23.g335dbec-4+b7
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: qtstyleplugins-src (5.0.0+git23.g335dbec-4)
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 117
+Depends: libc6 (>= 2.14), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5)
+Breaks: qt5-style-plugins (<< 5.0.0+git23.g335dbec-3~)
+Replaces: qt5-style-plugins (<< 5.0.0+git23.g335dbec-3~)
+Filename: ./deb-packages/qt5-libs/qt5-style-plugin-motif_5.0.0_plus_git23.g335dbec-4_plus_b7_amd64.deb
+Size: 35424
+MD5sum: de255fb811b665698c90fb02d32f1bb4
+SHA1: 39251fce6b50bebcea7d2634342bbb2de3ce4cde
+SHA256: ee3ad3b10a3c635f1678a1839b9d1658803c2f7ccca2d3a957d575eba8dbc9cf
+SHA512: c00e439edead1d5510979dc3442a2a38ddc8f02f6330cf9a3645f75706752984ab69562e42a8c94ae84c29bb5b03b6e792855ebb2b03213ced4207433c178f9a
+Homepage: https://www.qt.io/
+Description: Qt 5 extra widget styles - Motif
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ This package contains the Motif widget style.
+
+Package: qt5-style-plugins
+Architecture: amd64
+Version: 5.0.0+git23.g335dbec-4+b7
+Multi-Arch: same
+Priority: optional
+Section: metapackages
+Source: qtstyleplugins-src (5.0.0+git23.g335dbec-4)
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 12
+Depends: qt5-gtk2-platformtheme (= 5.0.0+git23.g335dbec-4+b7), qt5-style-plugin-cleanlooks (= 5.0.0+git23.g335dbec-4+b7), qt5-style-plugin-motif (= 5.0.0+git23.g335dbec-4+b7), qt5-style-plugin-plastique (= 5.0.0+git23.g335dbec-4+b7)
+Filename: ./deb-packages/qt5-libs/qt5-style-plugins_5.0.0_plus_git23.g335dbec-4_plus_b7_amd64.deb
+Size: 3628
+MD5sum: 62b835235d0f380a48ff0c08ad645d69
+SHA1: 8cb379791ceb7ae326075cf67b358764a21eba62
+SHA256: d5f62e3934047e8d022585d0b6be44f5760b034ca935c220da35a9e1538a0710
+SHA512: 60d221ccab7b43b71ec2b87693e227966fbfa777719d68c6d8b4a2d6e19cd55b3a2dd990b5d611d0566bbcb8c29857a14f1e5d4b3593a80a8d63016fd0d8f233
+Homepage: https://www.qt.io/
+Description: Qt 5 extra widget styles
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ This is a metapackage which pulls in all available styles and the GTK+ 2
+ platform theme.
+
+Package: qt5-style-plugin-plastique
+Architecture: amd64
+Version: 5.0.0+git23.g335dbec-4+b7
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: qtstyleplugins-src (5.0.0+git23.g335dbec-4)
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 218
+Depends: libc6 (>= 2.14), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5), qtbase-abi-5-15-8
+Breaks: qt5-style-plugins (<< 5.0.0+git23.g335dbec-3~)
+Replaces: qt5-style-plugins (<< 5.0.0+git23.g335dbec-3~)
+Filename: ./deb-packages/qt5-libs/qt5-style-plugin-plastique_5.0.0_plus_git23.g335dbec-4_plus_b7_amd64.deb
+Size: 73208
+MD5sum: 77026270c150801dcbeb2329a5affefb
+SHA1: 4871c2c4216f3a7a4b265b04a55e821e03d1d311
+SHA256: 10128a818bf76c25e36d17307f44112cd0487aa715af8c72856c90cb70a05e2c
+SHA512: 57270d1709b3fc7cfc041da2820d507b990cc881539d6167525e8994aee30a125ba8f59d0ba635aa61b4962b003fefbd29cc3937f8a0d8dd6d52330e9ad85509
+Homepage: https://www.qt.io/
+Description: Qt 5 extra widget styles - Plastique
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ This package contains the Plastique widget style.
+
+Package: qt5-gtk2-platformtheme
+Architecture: amd64
+Version: 5.0.0+git23.g335dbec-4+b7
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: qtstyleplugins-src (5.0.0+git23.g335dbec-4)
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 532
+Depends: libc6 (>= 2.14), libgdk-pixbuf-2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.12.0), libgtk2.0-0 (>= 2.24.0), libpango-1.0-0 (>= 1.14.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5), libx11-6, qtbase-abi-5-15-8
+Breaks: libqt5libqgtk2 (<< 5.7), qt5-style-plugins (<< 5.0.0+git23.g335dbec-3~)
+Replaces: libqt5libqgtk2 (<< 5.7), qt5-style-plugins (<< 5.0.0+git23.g335dbec-3~)
+Filename: ./deb-packages/qt5-libs/qt5-gtk2-platformtheme_5.0.0_plus_git23.g335dbec-4_plus_b7_amd64.deb
+Size: 155308
+MD5sum: 844f8e490160cef9da5741044ffe1373
+SHA1: 2ac3e7d2bf6b9d839f08263cb861d5410e090a4f
+SHA256: 8b1adfaffb84ad2cc0bd7a13cbee79e70f57f690cca1144df84346da900826d6
+SHA512: 0198b74bd3e3cf6ee8c6e46f9a44b8065c70a4528e1de132ea2f623ea59736bd5c591e6be2a4e7b27656e6de55e130e9b3413f599c5e1560ff127448449ce4b8
+Homepage: https://www.qt.io/
+Description: Qt 5 extra widget styles - GTK+ 2 Platform theme
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ This package contains the GTK+ 2 style and platform theme. Export
+ QT_QPA_PLATFORMTHEME=gtk2 to enable it for all Qt applications.
+
+Package: libdeepin-ocr-plugin-manager-dev
+Architecture: amd64
+Version: 1.0.0
+Priority: optional
+Section: devel
+Source: deepin-ocr-plugin-manager
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 33
+Depends: libdeepin-ocr-plugin-manager
+Filename: ./deb-packages/linglong-package-replace/amd64/libdeepin-ocr-plugin-manager-dev_1.0.0_amd64.deb
+Size: 6464
+MD5sum: 11059115fa898dbe062de6c53d8dc595
+SHA1: f8c26a0278949e1e806520c7748074546dd43395
+SHA256: 248f0c6c7677b64f1757a17c17946e974019f79b887a9a636b96f2495ac629ab
+SHA512: e7485fd99f920020af119681ac7c061b2710d700be5c064f2861a846fca92895e4be73d82d8de3090534f8e5aef1e96c3cf50f2e6c31f7c4d1a21df194391cb1
+Homepage: http://www.deepin.org/
+Description: OCR plugin manager for UOS
+ OCR develop library and useful plugin management tool.
+
+Package: deepin-reader
+Architecture: amd64
+Version: 6.0.7
+Priority: optional
+Section: graphics
+Maintainer: deepin <packages@deepin.com>
+Installed-Size: 7967
+Depends: libc6 (>= 2.34), libchardet1, libdjvulibre21 (>= 3.5.28), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libfreetype6 (>= 2.3.5), libgcc-s1 (>= 3.0), liblcms2-2 (>= 2.2+git20110628), libopenjp2-7 (>= 2.2.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5printsupport5 (>= 5.0.2), libqt5sql5 (>= 5.0.2), libqt5webenginewidgets5 (>= 5.9.0), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 11), pandoc
+Filename: ./deb-packages/linglong-package-replace/amd64/deepin-reader_6.0.7_amd64.deb
+Size: 3108396
+MD5sum: 5aa00081193a56c2f99c52d2936a7558
+SHA1: a27ccd7e865f222018479797c68a907a7c04cac9
+SHA256: 221c3bd5d89209710db000c4b2d5023f1fcb1988937b2e3cbde6702a724b6a57
+SHA512: 5dc20082eefebf9659590cd4ef7e8a3b69ebdbfc501a1ebe3a0690346c6181a1c15134fc15147581e960b6f94cd96ad199186b589de8bbe62fa13e99ffd982d7
+Description: a tool for reading document files.
+ Document Viewer is a tool for reading document files,supporting PDF, DJVU, DOCX etc
+
+Package: dde-calendar
+Architecture: amd64
+Version: 5.12.0
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 10790
+Depends: dde-qt5integration, dde-api, libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libical3 (>= 3.0.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.0.2), libqt5sql5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 5.2)
+Filename: ./deb-packages/linglong-package-replace/amd64/dde-calendar_5.12.0_amd64.deb
+Size: 2493364
+MD5sum: f4f53b3d23e278c4751ddff4af7c28d3
+SHA1: dd3a76a2e7b3a90fd8fce78e426198ce4e297efd
+SHA256: 579477d0b69464e5ef5a7699c9ebd52981a523f8ad81ed3f6d390e9fa99d1220
+SHA512: dedc2686c61e9fa0456311db9227ecd174581bf59cee8d81f7c795db9e9c7df08bc8bcce01790e0958ba2d16bd55e15cd73d782c29a706abdf09c11738e6e219
+Homepage: http://www.deepin.org
+Description: Calendar is a smart daily planner to schedule all things in life.
+ Calendar is a small management tool for personal life that combines time
+ and events and integrates the function of memorizing and scheduling.
+
+Package: deepin-music
+Architecture: amd64
+Version: 7.0.3
+Priority: optional
+Section: admin
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 24212
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 4.0), libkf5codecs5 (>= 4.96.0), libmpris-qt5-1 (>= 1.0.3), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.6.1) | libqt5quick5-gles (>= 5.6.1), libqt5sql5 (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 11), libtag1v5 (>= 1.11), libudisks2-qt5-0 (>= 5.0.6), libvlc5, libdtkdeclarative5, qml-module-qt-labs-platform, gstreamer1.0-fluendo-mp3, gstreamer1.0-libav, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, gstreamer1.0-plugins-bad, gstreamer1.0-plugins-ugly, gstreamer1.0-pulseaudio, gvfs-bin, libqt5sql5-sqlite, libqt5multimedia5-plugins, vlc-plugin-base
+Filename: ./deb-packages/linglong-package-replace/amd64/deepin-music_7.0.3_amd64.deb
+Size: 19086036
+MD5sum: 9ee7032bac62556af1489285667773ee
+SHA1: b785f76b31f01348705c506c8624475fdceac8e3
+SHA256: 205fa9c7e2dd29868173189f3064f55671c68d61a5f2d55e7122e36c7f89bf12
+SHA512: d6b3d73f4ac7f59e4c44d978dc7f4ca057d3b0b6c816f87a8b9dcf19ae7275d858a9fbf54bf235076985cd6db34cae8c6d00a52bb51a5ab8350e0dd768707bd7
+Homepage: http://www.deepin.org
+Description: Music software for UOS
+ Music is a local music player with beautiful design and simple functions.
+
+Package: libdeepin-ocr-plugin-manager
+Architecture: amd64
+Version: 1.0.0
+Priority: optional
+Section: devel
+Source: deepin-ocr-plugin-manager
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 17192
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libgomp1 (>= 4.9), libncnn, libopencv-mobile, libstdc++6 (>= 11)
+Filename: ./deb-packages/linglong-package-replace/amd64/libdeepin-ocr-plugin-manager_1.0.0_amd64.deb
+Size: 15851520
+MD5sum: a8fdad3c264facd039a2c5307e0a0063
+SHA1: 51791fb4bb03cdf43a7da548795c2ae4348fe0ee
+SHA256: 9b30ce798208da552208c0a9a664e5a73addcf2b6be092f55514011d4a73cb42
+SHA512: 9507fa95c6834c59d6f55d337656166687bbb092269902ac0a3fd1b5c4cd2225241adb3d42824adb5cc3878f7bd5572ab8c0e1c998ff5ff720b6db5175248332
+Homepage: http://www.deepin.org/
+Description: OCR plugin manager for UOS
+ OCR develop library and useful plugin management tool.
+
+Package: libopencv-imgcodecs-dev
+Architecture: amd64
+Version: 4.5.4+dfsg.1-1+dde
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: opencv
+Maintainer: Debian Science Team <debian-science-maintainers@lists.alioth.debian.org>
+Installed-Size: 1326
+Depends: libgdcm-dev, libopencv-imgcodecs4.5 (= 4.5.4+dfsg.1-1+dde), libopencv-imgproc-dev (= 4.5.4+dfsg.1-1+dde)
+Filename: ./deb-packages/linglong-package-replace/amd64/libopencv-imgcodecs-dev_4.5.4_plus_dfsg.1-1_plus_dde_amd64.deb
+Size: 182076
+MD5sum: 9e311e2819732cd1ef8f879aa7a6e184
+SHA1: 97a2d858aeed4469a36e0ed28d366ef2fa284497
+SHA256: a1b4e70af64b82bdeb851326c494cfe04a0a0049450ae379816447a0b9c321e5
+SHA512: 9fc7952c10e6837ae7a8c47ff8d325ee80af20f277fa83944715973fdf2d864790e5fec637e59c759948a130ce7be31fd58eba8a8b978df901e569d5dbf43c79
+Homepage: https://opencv.org
+Description: development files for libopencv-imgcodecs4.5
+ This package contains the header files and static library needed to compile
+ applications that use OpenCV (Open Computer Vision) Image Codecs library.
+ .
+ The Open Computer Vision Library is a collection of algorithms and sample
+ code for various computer vision problems. The library is compatible with
+ IPL (Intel's Image Processing Library) and, if available, can use IPP
+ (Intel's Integrated Performance Primitives) for better performance.
+ .
+ OpenCV provides low level portable data types and operators, and a set
+ of high level functionalities for video acquisition, image processing and
+ analysis, structural analysis, motion analysis and object tracking, object
+ recognition, camera calibration and 3D reconstruction.
+
+Package: deepin-compressor
+Architecture: amd64
+Version: 6.0.0
+Priority: optional
+Section: devel
+Maintainer: packages <packages@deepin.com>
+Installed-Size: 4727
+Depends: libarchive13 (>= 3.2.1), libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.28.0), libkf5archive5 (>= 4.96.0), libkf5codecs5 (>= 4.96.0), libminizip1 (>= 1.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 5.2), libzip4 (>= 1.6.0), p7zip-full, deepin-shortcut-viewer, unar, rar, unrar, pigz
+Recommends: uos-reporter, deepin-event-log
+Filename: ./deb-packages/linglong-package-replace/amd64/deepin-compressor_6.0.0_amd64.deb
+Size: 1796408
+MD5sum: 414e6f622b092fe293bed9dff8c0aa9d
+SHA1: 6230436588b51dc45acfcc5bbfa68e2fe3c61c14
+SHA256: 37c9290ddb05c47cbb0429ab4da2b24361f4226a43a6734f96a7e49f349e8c9b
+SHA512: 2b0a205563b33f4b2e0295ad8988592de91830c42000a2babfe4861f50755ce1043818edb861f75b137a460d6aaff10e91d59a8a549070322a8acd3c4548fe11
+Description: Archive Manager is a fast and lightweight application for creating and extracting archives.
+ Archive Manager is a user-friendly and easy-to-use compressing and decompressing software, supporting multiple compressing formats such as 7z, jar, tar, tar.bz2, tar.gz, tar.lz, tar.lzm, tar.lzo, tar.Z, zip as well as encrypted compressing settings.
+
+Package: deepin-editor
+Architecture: amd64
+Version: 6.0.15
+Priority: optional
+Section: editors
+Maintainer: Debian Deepin Packaging Team <pkg-deepin-devel@lists.alioth.debian.org>
+Installed-Size: 19520
+Depends: dde-qt5integration, libc6 (>= 2.34), libchardet1, libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libicu71 (>= 71.1-1~), libkf5codecs5 (>= 4.96.0), libkf5syntaxhighlighting5 (>= 5.90.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5printsupport5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.6.0~beta), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5.2), libuchardet0 (>= 0.0.6), qtbase-abi-5-15-7
+Recommends: uos-reporter, deepin-event-log
+Filename: ./deb-packages/linglong-package-replace/amd64/deepin-editor_6.0.15_amd64.deb
+Size: 14034720
+MD5sum: 8aed94021653f863bf2df07030c9a030
+SHA1: 6c35946f8a03a0c6b73ea0cd6a437b39b51f4240
+SHA256: 9f422d13d93771ca70f6a94fba3fcdfd82c9546126bfa453e746f6c1e479e14d
+SHA512: 4f16ae84698739ef1a9d12332bd75ce9b4f67eb12c6db7042b03c49a006cb219cc023b2f585fcc3ad7d2c4f40a2d225719b2424e3e404cc6b9176371126a041f
+Homepage: https://github.com/linuxdeepin/deepin-editor
+Description: Text editor for DDE (Deepin Desktop Environment)
+ Advanced text editor based on dtk.
+ .
+ This package is part of DDE (Deepin Desktop Environment).
+
+Package: deepin-image-viewer
+Architecture: amd64
+Version: 6.0.3
+Priority: extra
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 7828
+Depends: libc6 (>= 2.34), libdeepin-ocr-plugin-manager (>= 1.0.0), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libfreeimage3 (>= 3.18.0+ds2), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5printsupport5 (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.6.0~beta) | libqt5quick5-gles (>= 5.6.0~beta), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.0.2), libraw20 (>= 0.16.0), libstdc++6 (>= 11), qml-module-qt-labs-settings, qml-module-qt-labs-folderlistmodel, libqt5sql5-sqlite, qt5-image-formats-plugins
+Recommends: libqt5libqgtk2, deepin-ocr
+Filename: ./deb-packages/linglong-package-replace/amd64/deepin-image-viewer_6.0.3_amd64.deb
+Size: 5213540
+MD5sum: 3b5b390765c8da88e5014773a0d0879d
+SHA1: 89dc6866a6ca7ac7a5d80fa2a6c46acfcc7df151
+SHA256: 9318911efe625852e8c2440aa10e792a81dfc82c3020106c64804b5da202cd51
+SHA512: b5e05ac622890e0904a0c8b6e72b16367a46010840c42afdc7ca57ce70603c89963226d581515c9d5a53761bd62becb30a31f811af8d72e6970cdd0b58b100a9
+Homepage: http://www.deepin.org
+Description: Image Viewer is an image viewing tool with fashion interface and smooth performance.
+ Deepin Image Viewer is an image viewing tool with fashion interface and smooth performance.
+
+Package: libopencv-imgcodecs4.5
+Architecture: amd64
+Version: 4.5.4+dfsg.1-1+dde
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: opencv
+Maintainer: Debian Science Team <debian-science-maintainers@lists.alioth.debian.org>
+Installed-Size: 387
+Depends: libc6 (>= 2.32), libgcc-s1 (>= 3.0), libgdal30 (>= 2.0.1), libgdcm3.0 (>= 3.0.13), libjpeg62-turbo (>= 1.3.1), libopencv-core4.5 (>= 4.5.4+dfsg.1), libopencv-imgproc4.5 (>= 4.5.4+dfsg.1), libopenexr25 (>= 2.5.7), libopenjp2-7 (>= 2.0.0), libpng16-16 (>= 1.6.2-1), libstdc++6 (>= 11), libtiff5 (>= 4.0.3), libwebp6 (>= 0.5.1)
+Filename: ./deb-packages/linglong-package-replace/amd64/libopencv-imgcodecs4.5_4.5.4_plus_dfsg.1-1_plus_dde_amd64.deb
+Size: 123568
+MD5sum: e03bbf330c13105389eaa272b54220a7
+SHA1: 4e504960d2561d69c030157b7c01fd3a37a9b102
+SHA256: 1ef0815fe46e752535a9e0bb095685fb31d37d920ab5656c2b5ac6426ac8b39f
+SHA512: 362c86fecdff3655ed5cad85d2a55575cc6a017f0a5c44db8ff0a65ce56d8b54ef9294f37b9021156edbfe24d2ae34c67c179dfcd00854248191cd5a9ea8e0e1
+Homepage: https://opencv.org
+Description: computer vision Image Codecs library
+ This package contains the OpenCV (Open Computer Vision) Image Codecs
+ runtime libraries.
+ .
+ The Open Computer Vision Library is a collection of algorithms and sample
+ code for various computer vision problems. The library is compatible with
+ IPL (Intel's Image Processing Library) and, if available, can use IPP
+ (Intel's Integrated Performance Primitives) for better performance.
+ .
+ OpenCV provides low level portable data types and operators, and a set
+ of high level functionalities for video acquisition, image processing and
+ analysis, structural analysis, motion analysis and object tracking, object
+ recognition, camera calibration and 3D reconstruction.
+
+Package: deepin-screen-recorder
+Architecture: amd64
+Version: 6.0.1
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 20050
+Depends: libc6 (>= 2.34), libdframeworkdbus2 (>= 6.0.0), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libopencv-core4.5 (>= 4.5.4+dfsg.1), libopencv-imgproc4.5 (>= 4.5.4+dfsg.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.10.0) | libqt5gui5-gles (>= 5.10.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5.2), libx11-6, libxext6, libxfixes3, libxtst6, dconf-gsettings-backend | gsettings-backend, ffmpeg, libportaudio2
+Recommends: dde-session-ui, deepin-ocr
+Conflicts: deepin-screenshot
+Replaces: deepin-screenshot
+Filename: ./deb-packages/linglong-package-replace/amd64/deepin-screen-recorder_6.0.1_amd64.deb
+Size: 10389624
+MD5sum: 7b3264bb60b2a33c27fbc4fa65f453f0
+SHA1: 55dd5fb6dd88049ac37624741d073ddf2eb3e205
+SHA256: ed2d134f447ffdb99d956916dfb3f0770c8927332f37e9f8e6eaf6fda7a396a9
+SHA512: 1fbde4fa681d5248dc31d4f4b57babcb7281dcfadb6f60f467ef7c1b8b310d041351302fe4c25b485e1c6c8e1dd5a6821fd095ef53ac587e6a2c5ca9d303450a
+Homepage: https://github.com/linuxdeepin/deepin-screen-recorder
+Description: Simple recorder tools for UOS
+ A simple screen shot and recorder tools for UOS
+
+Package: libdeepin-ocr-plugin-manager-dev
+Architecture: arm64
+Version: 1.0.0
+Priority: optional
+Section: devel
+Source: deepin-ocr-plugin-manager
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 33
+Depends: libdeepin-ocr-plugin-manager
+Filename: ./deb-packages/linglong-package-replace/arm64/libdeepin-ocr-plugin-manager-dev_1.0.0_arm64.deb
+Size: 6460
+MD5sum: c7aec2bd8ed00b1c8ba2f2a440dfa7d9
+SHA1: 0d338b49802c079043fb94e2d440c05cad72dc2f
+SHA256: 99c9abd71701a13b095fa8ee5d49f5cae74f022129bb429cca11d17605343f10
+SHA512: 02664097c6c14f2858d3160526aa3886d547574eb9fb3de8f27bb9e2abfa757dd53261a1691990b8e6f5becac0f80e0d4caf9b4c1612f5c7530a603f75891158
+Homepage: http://www.deepin.org/
+Description: OCR plugin manager for UOS
+ OCR develop library and useful plugin management tool.
+
+Package: libdeepin-ocr-plugin-manager
+Architecture: arm64
+Version: 1.0.0
+Priority: optional
+Section: devel
+Source: deepin-ocr-plugin-manager
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 17168
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libgomp1 (>= 4.9), libncnn, libopencv-mobile, libstdc++6 (>= 11)
+Filename: ./deb-packages/linglong-package-replace/arm64/libdeepin-ocr-plugin-manager_1.0.0_arm64.deb
+Size: 15835236
+MD5sum: ce6e50d629b88c5c413cda09cfc77567
+SHA1: 17a5e0e1ae71f0014571bec92c90eb2f186ef4ca
+SHA256: 8b032831c86b71ea31ce70d913b83c5c067f341839bfb2a2311b23c0ac484478
+SHA512: 561027ede6b12b417bb7c291325b2db4971b7ea7fd0d8d9f212e95a5a001378f542341efe0f6dd3569bab68653dcbb2e692bf7f5ee14e663e200267d4c69bd48
+Homepage: http://www.deepin.org/
+Description: OCR plugin manager for UOS
+ OCR develop library and useful plugin management tool.
+
+Package: deepin-editor
+Architecture: arm64
+Version: 6.0.15
+Priority: optional
+Section: editors
+Maintainer: Debian Deepin Packaging Team <pkg-deepin-devel@lists.alioth.debian.org>
+Installed-Size: 19482
+Depends: dde-qt5integration, libc6 (>= 2.34), libchardet1, libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libicu71 (>= 71.1-1~), libkf5codecs5 (>= 4.96.0), libkf5syntaxhighlighting5 (>= 5.90.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5printsupport5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.6.0~beta), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5.2), libuchardet0 (>= 0.0.6), qtbase-abi-5-15-7
+Recommends: uos-reporter, deepin-event-log
+Filename: ./deb-packages/linglong-package-replace/arm64/deepin-editor_6.0.15_arm64.deb
+Size: 13986288
+MD5sum: ffbb9645bb653d436dbfcb2b63d75f18
+SHA1: 11d5bcc23cea0e2c5caf66e26ab24efb5616f495
+SHA256: e41a4fa69df0308fc28c1b79940f00b884818345ca62ff22e709ac47298c93e5
+SHA512: cf6374f82a87061a45b71822c3da7a84b0ae18dff7f2e282be37a57403c5703c1a0ffe5dabab9368d2d45d1efe3a6ca343b09f26c7018ffe7974d43b0d13a4a3
+Homepage: https://github.com/linuxdeepin/deepin-editor
+Description: Text editor for DDE (Deepin Desktop Environment)
+ Advanced text editor based on dtk.
+ .
+ This package is part of DDE (Deepin Desktop Environment).
+
+Package: deepin-reader
+Architecture: arm64
+Version: 6.0.7
+Priority: optional
+Section: graphics
+Maintainer: deepin <packages@deepin.com>
+Installed-Size: 7861
+Depends: libc6 (>= 2.34), libchardet1, libdjvulibre21 (>= 3.5.28), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libfreetype6 (>= 2.3.5), libgcc-s1 (>= 3.0), liblcms2-2 (>= 2.2+git20110628), libopenjp2-7 (>= 2.2.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5printsupport5 (>= 5.0.2), libqt5sql5 (>= 5.0.2), libqt5webenginewidgets5 (>= 5.9.0), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 11), pandoc
+Filename: ./deb-packages/linglong-package-replace/arm64/deepin-reader_6.0.7_arm64.deb
+Size: 2959932
+MD5sum: 758fc98958b9d64aad29e6e63ae2ce3f
+SHA1: f09c9aaee73c50850a13aefbf5223fba77d320c7
+SHA256: 120ae66eb1e64bbfbb1a22ba2823f7bde0807018bf5e8d315130f018d93e5e73
+SHA512: 8e32cc6d0a687e317649fce6622ec3260a360748ce004a45775aa2723a70e029ea7c1718406ac5db26affa938821effdd85c9c3de1baa56d28df382ad867bd65
+Description: a tool for reading document files.
+ Document Viewer is a tool for reading document files,supporting PDF, DJVU, DOCX etc
+
+Package: deepin-music
+Architecture: arm64
+Version: 7.0.3
+Priority: optional
+Section: admin
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 24178
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 4.0), libkf5codecs5 (>= 4.96.0), libmpris-qt5-1 (>= 1.0.3), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.6.1) | libqt5quick5-gles (>= 5.6.1), libqt5sql5 (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 11), libtag1v5 (>= 1.9.1-2.2~), libudisks2-qt5-0 (>= 5.0.6), libvlc5, libdtkdeclarative5, qml-module-qt-labs-platform, gstreamer1.0-fluendo-mp3, gstreamer1.0-libav, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, gstreamer1.0-plugins-bad, gstreamer1.0-plugins-ugly, gstreamer1.0-pulseaudio, gvfs-bin, libqt5sql5-sqlite, libqt5multimedia5-plugins, vlc-plugin-base
+Filename: ./deb-packages/linglong-package-replace/arm64/deepin-music_7.0.3_arm64.deb
+Size: 19056108
+MD5sum: c8cb9905bdef8cb8c783b80c09c8bbf9
+SHA1: c96c7b5324f02e2a7695c1081a00665632c642d7
+SHA256: cf4328c089640452876490d200a652687b950be59b2fa7050cab6de731d6ab8c
+SHA512: 687a491d373d1ba6c7dd4687823684fecffc65375ddcd16bbbba12a0ca917c0b897e1f0540f4b310b5469251f267c1797fd4d4e8c9822ec23e09c0360ec18744
+Homepage: http://www.deepin.org
+Description: Music software for UOS
+ Music is a local music player with beautiful design and simple functions.
+
+Package: dde-calendar
+Architecture: arm64
+Version: 5.12.0
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 10742
+Depends: dde-qt5integration, dde-api, libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libical3 (>= 3.0.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.0.2), libqt5sql5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 5.2)
+Filename: ./deb-packages/linglong-package-replace/arm64/dde-calendar_5.12.0_arm64.deb
+Size: 2358916
+MD5sum: e8e341f914241468da2b9d70ca4d5737
+SHA1: 42ec6d76d22455b564b4c341eb5b4f113ebbacfe
+SHA256: f2ac675f631f67234e8d4d1600f7e501bbebcd73a6eb99006b33f660a93fc4bf
+SHA512: 3fa116902140df827fa6a786a701fab24b6313bf8b68e8980cb9213ebf6e2bf862bb8cec99b8146abd631ab89a5cd866adfd75ba81e15e5e68654e75d869da87
+Homepage: http://www.deepin.org
+Description: Calendar is a smart daily planner to schedule all things in life.
+ Calendar is a small management tool for personal life that combines time
+ and events and integrates the function of memorizing and scheduling.
+
+Package: deepin-image-viewer
+Architecture: arm64
+Version: 6.0.3
+Priority: extra
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 7825
+Depends: libc6 (>= 2.34), libdeepin-ocr-plugin-manager (>= 1.0.0), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libfreeimage3 (>= 3.18.0+ds2), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5printsupport5 (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.6.0~beta) | libqt5quick5-gles (>= 5.6.0~beta), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.0.2), libraw20 (>= 0.16.0), libstdc++6 (>= 11), qml-module-qt-labs-settings, qml-module-qt-labs-folderlistmodel, libqt5sql5-sqlite, qt5-image-formats-plugins
+Recommends: libqt5libqgtk2, deepin-ocr
+Filename: ./deb-packages/linglong-package-replace/arm64/deepin-image-viewer_6.0.3_arm64.deb
+Size: 5200416
+MD5sum: e7d79b41f14ea0df4c5f091f063681cb
+SHA1: 92a01b58b0db8acd07fa79af8de2263596a6972b
+SHA256: e6673428f5a79bb6aa4330113636fe972b618f02c9787011c0dad4b43cd2fb32
+SHA512: a181a2b3e7d4f58d8e46cbeb0526302e78ffc978c6592db9d469c086b7a64240cae83a919931917a777551e8468fcc88dda7e405cf1127a2ab45e0e5fcbfd3b0
+Homepage: http://www.deepin.org
+Description: Image Viewer is an image viewing tool with fashion interface and smooth performance.
+ Deepin Image Viewer is an image viewing tool with fashion interface and smooth performance.
+
+Package: autojump
+Architecture: all
+Version: 22.5.1-1.1
+Priority: optional
+Section: shells
+Maintainer: Tanguy Ortolo <tanguy+debian@ortolo.eu>
+Installed-Size: 156
+Depends: python3:any, python3 (>= 3.2)
+Enhances: bash (>= 4.0), fish, tcsh, zsh
+Filename: ./deb-packages/autojump/autojump_22.5.1-1.1_all.deb
+Size: 36880
+MD5sum: ca168a796acfaa57307aaf75b61a01f5
+SHA1: 31cc11c933c05656390baf6d02247125963a96a3
+SHA256: 90b767f7baceeaa386cef4b0d127a610db8993fb1a1cba69333aae2869e32d14
+SHA512: c5972732551dd9e871a0984ca2d4c290197a83d6124b9cceb016e902642044766cee3d02dd120a4f4756e73b0e126831a4a67b70abe289c4763f6b93d9b577be
+Homepage: https://github.com/wting/autojump
+Description: shell extension to jump to frequently used directories
+ autojump provides a faster way to navigate your filesystem, with a
+ "cd command that learns".
+ .
+ It works by maintaining a database of the directories you use the most from
+ the command line, and allows you to "jump" to frequently used directories by
+ typing only a small pattern.
+ .
+ To use autojump, you need to configure your shell to source
+ /usr/share/autojump/autojump.sh on startup.
+
+Package: xautomation
+Architecture: amd64
+Version: 1.09-4
+Priority: optional
+Section: x11
+Maintainer: Debian QA Group <packages@qa.debian.org>
+Installed-Size: 203
+Depends: libc6 (>= 2.11), libpng16-16 (>= 1.6.2-1), libx11-6, libxi6, libxtst6
+Filename: ./deb-packages/xautomation/xautomation_1.09-4_amd64.deb
+Size: 41776
+MD5sum: 29793e210933a2d617f5017dc2c15ad5
+SHA1: 735a930d01a71be0043a8620e3c6a1af0627d2a1
+SHA256: 0bde028fbb6c19c0cb29cffda734f00b3154f124c40abe4a10ad2de6cb5f1fdc
+SHA512: ed0ecac9b6239aadb3e0324d86de7ed881ad87eff64bd52f43cbe1d4ba7daca61d52f4004cfa228390e02f21cfe2a1ecf28e50b1f45db91bd454c71785af4367
+Homepage: https://hoopajoo.net/projects/xautomation.html
+Description: Control X from the command line, and find things on the screen
+ Control X from the command line for scripts, and do "visual scraping" to
+ find things on the screen. The control interface allows mouse movement,
+ clicking, button up/down, key up/down, etc, using the XTest extension.
+ The visgrep program find images inside of images and reports the
+ coordinates, allowing programs to find buttons, etc, on the screen to click
+ on.
+ .
+ If you just want to control X, you may find xdotool easier to use.
+

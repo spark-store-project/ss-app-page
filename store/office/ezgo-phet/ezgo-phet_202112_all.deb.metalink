@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="ezgo-phet_202112_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">bac172ebd2b5ca68995a520be50853cb</hash>
+				  
+				<hash type="sha1">728e11df50baddfe7427cac01d2a81043c591ee7</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/ezgo-phet/ezgo-phet_202112_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/ezgo-phet/ezgo-phet_202112_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/ezgo-phet/ezgo-phet_202112_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/ezgo-phet/ezgo-phet_202112_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/ezgo-phet/ezgo-phet_202112_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/ezgo-phet/ezgo-phet_202112_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

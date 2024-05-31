@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.bookxnote.spark_2.0.0.1023spark0_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">d249ad62e692e1753ce7e9134e535327</hash>
+				  
+				<hash type="sha1">60df145df4dcf555f75a0708f1e42ffc44d52b4e</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.bookxnote.spark/com.bookxnote.spark_2.0.0.1023spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.bookxnote.spark/com.bookxnote.spark_2.0.0.1023spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.bookxnote.spark/com.bookxnote.spark_2.0.0.1023spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.bookxnote.spark/com.bookxnote.spark_2.0.0.1023spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.bookxnote.spark/com.bookxnote.spark_2.0.0.1023spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.bookxnote.spark/com.bookxnote.spark_2.0.0.1023spark0_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

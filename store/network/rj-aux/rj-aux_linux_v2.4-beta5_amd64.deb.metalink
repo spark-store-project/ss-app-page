@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="rj-aux_linux_v2.4-beta5_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">32a982105f6789280292a82457e5f398</hash>
+				  
+				<hash type="sha1">7502a1688ad1f8c5fe3cfb051e250b6d1e963912</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/rj-aux/rj-aux_linux_v2.4-beta5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/rj-aux/rj-aux_linux_v2.4-beta5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/rj-aux/rj-aux_linux_v2.4-beta5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/rj-aux/rj-aux_linux_v2.4-beta5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/rj-aux/rj-aux_linux_v2.4-beta5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/rj-aux/rj-aux_linux_v2.4-beta5_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

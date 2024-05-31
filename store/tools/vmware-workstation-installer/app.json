@@ -1,0 +1,12 @@
+{
+   "Name":"VMware-Workstation",
+   "Version":"15.5.6-16341506",
+   "Filename":"VMware-Workstation-Full-15.5.6-16341506.x86_64.deb",
+   "Pkgname":"vmware-workstation-installer",
+   "Author":"VMware",
+   "Contributor":"Maicss",
+   "Website":"https://www.vmware.com",
+   "Update":"2020-08-03 22:30",
+   "Size":"504.6M",
+   "More":"VMware Workstation Pro 是将多个操作系统作为虚拟机 (VM) 在单台 Linux 或 Windows PC 上运行的行业标准。为任何设备、平台或云环境构建、测试或演示软件的 IT 专业人员、开发人员和企业都可以信赖 Workstation Pro。\n*这是一个安装器，安装完成之后需要在启动台中打开 VMware-Workstation-Installer 继续完成安装。\n*卸载 VMware 时请在终端中执行 sudo vmware-installer -u vmware-workstation 正确卸载程序。卸载完成后可以在启动台右键单机卸载来卸载安装器。"
+}

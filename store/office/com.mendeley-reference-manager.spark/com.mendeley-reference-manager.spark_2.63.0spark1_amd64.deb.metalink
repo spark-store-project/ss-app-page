@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.mendeley-reference-manager.spark_2.63.0spark1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e3a3d9eceedd304da314573c0be5b58c</hash>
+				  
+				<hash type="sha1">6f46293ddf939b2e8ac09638dd8c9fac43f4ffdf</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.mendeley-reference-manager.spark/com.mendeley-reference-manager.spark_2.63.0spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.mendeley-reference-manager.spark/com.mendeley-reference-manager.spark_2.63.0spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.mendeley-reference-manager.spark/com.mendeley-reference-manager.spark_2.63.0spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.mendeley-reference-manager.spark/com.mendeley-reference-manager.spark_2.63.0spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.mendeley-reference-manager.spark/com.mendeley-reference-manager.spark_2.63.0spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.mendeley-reference-manager.spark/com.mendeley-reference-manager.spark_2.63.0spark1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="go-musicfox-git_2024.05.27-2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">166f370e04bf1a971a9efeb5a8517c7b</hash>
+				  
+				<hash type="sha1">734da8716ca4d8cea0b391c50f24a7b0510a9ea9</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/music/go-musicfox-git/go-musicfox-git_2024.05.27-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/music/go-musicfox-git/go-musicfox-git_2024.05.27-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/music/go-musicfox-git/go-musicfox-git_2024.05.27-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/music/go-musicfox-git/go-musicfox-git_2024.05.27-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/music/go-musicfox-git/go-musicfox-git_2024.05.27-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/music/go-musicfox-git/go-musicfox-git_2024.05.27-2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

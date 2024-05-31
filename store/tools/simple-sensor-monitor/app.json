@@ -1,0 +1,16 @@
+{
+    "Name": "系统传感器显示工具",
+    "Version": "1.2-20240429",
+    "Filename": "simple-sensor-monitor_1.2-20240429_amd64.deb",
+    "Torrent_address": "simple-sensor-monitor_1.2-20240429_amd64.deb.torrent",
+    "Pkgname": "simple-sensor-monitor",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/qt.mini-sensor-icon",
+    "Update": "2024-04-29 10:10:13",
+    "Size": "584.35 KB",
+    "More": "在配置面板填写 sensors -u 提供的 adapter适配器与 sensor 即可显示数据。 \n\nv1.0: 可显示温度(°C) 电压(V) 电流(A) 功耗(W) 等类型\nv1.1: 可设置刷新间隔，完善线程化的工作流模式\nv1.2: 左侧支持风扇与电图标\n\n风扇在 1000 RPM 时最低，3000 RPM 以上时很暴躁，所以以这个区间为准",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/80baba1166574aeda4311851af8db563.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a8b3f2a04b1f4ba78ed78e174beea988.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a55a9b6db67f4dd0a2989787d3225506.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/caad566997094294bf3e840cc29eb129.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/3f3c5ec56f2d43698b1019ab4b59f26c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/29/4ac0b574bd524ef0bc1865df9346fd05.png"
+}

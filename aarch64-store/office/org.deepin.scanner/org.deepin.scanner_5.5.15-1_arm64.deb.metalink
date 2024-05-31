@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.deepin.scanner_5.5.15-1_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b018ca653b5168a870c5a0f3321fd534</hash>
+				  
+				<hash type="sha1">10a9a46740e95079cb4b88be41e4257672c3f3bb</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/office/org.deepin.scanner/org.deepin.scanner_5.5.15-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/office/org.deepin.scanner/org.deepin.scanner_5.5.15-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/office/org.deepin.scanner/org.deepin.scanner_5.5.15-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/office/org.deepin.scanner/org.deepin.scanner_5.5.15-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/office/org.deepin.scanner/org.deepin.scanner_5.5.15-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/office/org.deepin.scanner/org.deepin.scanner_5.5.15-1_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

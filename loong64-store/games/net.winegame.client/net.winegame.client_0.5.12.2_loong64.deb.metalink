@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="net.winegame.client_0.5.12.2_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5e3d3c232170989dd37623ee9b0fc56c</hash>
+				  
+				<hash type="sha1">32068660194cf28fb298b683ee628eec88d7487b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/games/net.winegame.client/net.winegame.client_0.5.12.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/games/net.winegame.client/net.winegame.client_0.5.12.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/games/net.winegame.client/net.winegame.client_0.5.12.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/games/net.winegame.client/net.winegame.client_0.5.12.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/games/net.winegame.client/net.winegame.client_0.5.12.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/games/net.winegame.client/net.winegame.client_0.5.12.2_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

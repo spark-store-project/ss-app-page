@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.write.spark_3.0.0spark_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ac41062c5af51f94eb62762975b70566</hash>
+				  
+				<hash type="sha1">ca72a5567e120e94bddd45d4d84a551e94e3d321</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.write.spark/com.write.spark_3.0.0spark_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.write.spark/com.write.spark_3.0.0spark_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.write.spark/com.write.spark_3.0.0spark_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.write.spark/com.write.spark_3.0.0spark_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.write.spark/com.write.spark_3.0.0spark_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.write.spark/com.write.spark_3.0.0spark_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

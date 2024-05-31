@@ -1,0 +1,16 @@
+{
+    "Author": "Deepin WINE Team and gtjdoctor@163.com",
+    "Contributor": "gfdgd-xi <3025613752@qq.com>",
+    "Filename": "com.microsoft.paint.deepin_1.0spark2_all.deb",
+    "More": "实在不习惯使用的深度的画板工具，所以打包这个Windows的画图工具。\n1. 使用Windows Vista的画图\nWindows vista，相较于windows XP的画图工具，图标进行了改进，图形缩放工具，增加了滑块儿。\n2. 默认自动调用UOS/deepin的文件管理器\n通信的打包脚本，depin-wine5默认使用系统的文件管理器。\n3. 重新绘制了高清矢量图标\n这个有点费时间，但谁让自己有强迫症呢？使用inkscap重新绘制了适量图标，svg格式。\n更新内容：\n1、使用 spark dwine helper\n2、使用 deepin wine6 stable\n3、添加自动清理脚本",
+    "Name": "Windows Vista 画图（Wine）",
+    "Pkgname": "com.microsoft.paint.deepin",
+    "Size": "21 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.microsoft.paint.deepin_1.0spark2_all.deb.torrent",
+    "Update": "2024-05-02 09:24:45",
+    "Version": "1.0spark2",
+    "Website": "https://bbs.deepin.org/post/218516",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/com.microsoft.paint.deepin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/com.microsoft.paint.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/com.microsoft.paint.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/com.microsoft.paint.deepin/screen_3.png\"]"
+}

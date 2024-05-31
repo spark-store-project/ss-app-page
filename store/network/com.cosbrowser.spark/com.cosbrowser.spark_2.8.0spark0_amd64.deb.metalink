@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.cosbrowser.spark_2.8.0spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">55ecfae203a9271bdf045cfdf90043e4</hash>
+				  
+				<hash type="sha1">38603e2bb330d325a561632b2f172eaebbffa882</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/com.cosbrowser.spark/com.cosbrowser.spark_2.8.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/com.cosbrowser.spark/com.cosbrowser.spark_2.8.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/com.cosbrowser.spark/com.cosbrowser.spark_2.8.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/com.cosbrowser.spark/com.cosbrowser.spark_2.8.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/com.cosbrowser.spark/com.cosbrowser.spark_2.8.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/com.cosbrowser.spark/com.cosbrowser.spark_2.8.0spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

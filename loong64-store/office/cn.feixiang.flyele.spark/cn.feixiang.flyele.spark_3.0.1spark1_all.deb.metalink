@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.feixiang.flyele.spark_3.0.1spark1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e23fb03c82c41d941887ecf620e65405</hash>
+				  
+				<hash type="sha1">6f1fa965c2b92cb99ecdaf8e09f0a336ea46e68a</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/office/cn.feixiang.flyele.spark/cn.feixiang.flyele.spark_3.0.1spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/office/cn.feixiang.flyele.spark/cn.feixiang.flyele.spark_3.0.1spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/office/cn.feixiang.flyele.spark/cn.feixiang.flyele.spark_3.0.1spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/office/cn.feixiang.flyele.spark/cn.feixiang.flyele.spark_3.0.1spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/office/cn.feixiang.flyele.spark/cn.feixiang.flyele.spark_3.0.1spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/office/cn.feixiang.flyele.spark/cn.feixiang.flyele.spark_3.0.1spark1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

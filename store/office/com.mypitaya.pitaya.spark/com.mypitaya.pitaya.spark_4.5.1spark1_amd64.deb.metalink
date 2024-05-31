@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.mypitaya.pitaya.spark_4.5.1spark1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">42fd6715e5e2a9174d9d068de64ff413</hash>
+				  
+				<hash type="sha1">357899ccaa98061215ab4f3eb5577378afbbf4c7</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.mypitaya.pitaya.spark/com.mypitaya.pitaya.spark_4.5.1spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.mypitaya.pitaya.spark/com.mypitaya.pitaya.spark_4.5.1spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.mypitaya.pitaya.spark/com.mypitaya.pitaya.spark_4.5.1spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.mypitaya.pitaya.spark/com.mypitaya.pitaya.spark_4.5.1spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.mypitaya.pitaya.spark/com.mypitaya.pitaya.spark_4.5.1spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.mypitaya.pitaya.spark/com.mypitaya.pitaya.spark_4.5.1spark1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

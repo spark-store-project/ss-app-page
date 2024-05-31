@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.sportssoundpro.deepin_0.0.1_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7d17474f7453170dc811c1593a0f9b6e</hash>
+				  
+				<hash type="sha1">778bcd33afdc69cd2d2a9e3087e26a3fee46dc63</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/music/com.sportssoundpro.deepin/com.sportssoundpro.deepin_0.0.1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/music/com.sportssoundpro.deepin/com.sportssoundpro.deepin_0.0.1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/music/com.sportssoundpro.deepin/com.sportssoundpro.deepin_0.0.1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/music/com.sportssoundpro.deepin/com.sportssoundpro.deepin_0.0.1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/music/com.sportssoundpro.deepin/com.sportssoundpro.deepin_0.0.1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/music/com.sportssoundpro.deepin/com.sportssoundpro.deepin_0.0.1_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

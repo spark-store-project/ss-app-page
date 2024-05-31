@@ -1,0 +1,16 @@
+{
+    "Name": "终极动员令：红色警戒2",
+    "Version": "2.1+6",
+    "Filename": "com.deepin.redalert2_2.1_plus_6_i386.deb",
+    "Torrent_address": "com.deepin.redalert2_2.1_plus_6_i386.deb.torrent",
+    "Pkgname": "com.deepin.redalert2",
+    "Author": "EA",
+    "Contributor": "Spark Wine TEAM",
+    "Website": "https://www.ea.com/",
+    "Update": "2024-02-11 16:55:02",
+    "Size": "1.38 GB",
+    "More": "注意事项：如果打开游戏后解析度不合适，请执行nano  /home/${USER}/.deepinwine/Wine-RedAlert2/drive_c/Program\\ Files/Command\\ and\\ Conquer\\ Red\\ Alert\\ 2/RA2.INI，将ScreenWidth=1600和ScreenHeight=900改成你萤幕的解析度。\n\n注意事项：如果打开游戏后解析度不合适，请执行nano  /home/${USER}/.deepinwine/Wine-RedAlert2/drive_c/Program\\ Files/Command\\ and\\ Conquer\\ Red\\ Alert\\ 2/RA2MD.INI，将ScreenWidth=1600和ScreenHeight=900改成你萤幕的解析度。",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/11/d4905f99ffdd4c7aa0d269d9f3206a1b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/11/b4f7813a71ac48cd9825642872471847.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/11/f389ed30d8de4adcac153424789cfb57.png"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.189.cloud.spark_6.6.0spark10_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a15588b7af077a3d38dce92e02c92988</hash>
+				  
+				<hash type="sha1">b813ff7ff30adfc335e3d2069834933508bb7dce</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/network/cn.189.cloud.spark/cn.189.cloud.spark_6.6.0spark10_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/network/cn.189.cloud.spark/cn.189.cloud.spark_6.6.0spark10_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/network/cn.189.cloud.spark/cn.189.cloud.spark_6.6.0spark10_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/network/cn.189.cloud.spark/cn.189.cloud.spark_6.6.0spark10_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/network/cn.189.cloud.spark/cn.189.cloud.spark_6.6.0spark10_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/network/cn.189.cloud.spark/cn.189.cloud.spark_6.6.0spark10_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

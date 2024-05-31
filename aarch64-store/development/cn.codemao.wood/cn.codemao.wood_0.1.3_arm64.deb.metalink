@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.codemao.wood_0.1.3_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">40bc825785fe30d19b7104219fe77fc2</hash>
+				  
+				<hash type="sha1">30d45b75239f959a1bdd7be93051fe6a95e1f847</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/development/cn.codemao.wood/cn.codemao.wood_0.1.3_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/development/cn.codemao.wood/cn.codemao.wood_0.1.3_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/development/cn.codemao.wood/cn.codemao.wood_0.1.3_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/development/cn.codemao.wood/cn.codemao.wood_0.1.3_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/development/cn.codemao.wood/cn.codemao.wood_0.1.3_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/development/cn.codemao.wood/cn.codemao.wood_0.1.3_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

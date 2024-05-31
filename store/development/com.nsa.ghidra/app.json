@@ -1,0 +1,16 @@
+{
+    "Name": "Ghidra",
+    "Version": "10.4.0",
+    "Filename": "com.nsa.ghidra_10.4.0_amd64.deb",
+    "Torrent_address": "com.nsa.ghidra_10.4.0_amd64.deb.torrent",
+    "Pkgname": "com.nsa.ghidra",
+    "Author": "NationalSecurityAgency",
+    "Contributor": "wingsummer <1326224942@qq.com>",
+    "Website": "https://www.nsa.gov/ghidra",
+    "Update": "2023-10-01 10:55:50",
+    "Size": "323.23 MB",
+    "More": "A software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate. \n由美国国家安全局研究局创建和维护的软件逆向工程（SRE）框架。\n\n【注】本包由寂静的羽夏打包，相对于之前的版本，我把运行时（ jre 17 ）打包进去了，也就是说不需要再安装其他依赖了。于此同时我修改了一下启动脚本，实现安装即可用。",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/93f04bc877e84f8ca81d8dd9fc2de917.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/c6b2ed2ba7d54ce0a343d1cb3e22b054.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/b5b29eca4e20422687ca01caf313ff40.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/01/84c38f7839b14eec939f5f9f23b2073d.png"
+}

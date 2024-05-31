@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="dbeaver-ce_24.0.3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e3a9989ed9f111f9f924c1ae9597df9e</hash>
+				  
+				<hash type="sha1">917f30f5ef1dfc607ca01a459c61858cbababb28</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/dbeaver-ce/dbeaver-ce_24.0.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/dbeaver-ce/dbeaver-ce_24.0.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/dbeaver-ce/dbeaver-ce_24.0.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/dbeaver-ce/dbeaver-ce_24.0.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/dbeaver-ce/dbeaver-ce_24.0.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/dbeaver-ce/dbeaver-ce_24.0.3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

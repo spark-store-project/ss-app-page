@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.inkscape.spark_1.3spark3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">3cb802056868e2ad2276c30d5a1bb37c</hash>
+				  
+				<hash type="sha1">746f89ed3d7faa2d88e50c6423fab34ad4696f33</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/org.inkscape.spark/org.inkscape.spark_1.3spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/org.inkscape.spark/org.inkscape.spark_1.3spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/org.inkscape.spark/org.inkscape.spark_1.3spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/org.inkscape.spark/org.inkscape.spark_1.3spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/org.inkscape.spark/org.inkscape.spark_1.3spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/org.inkscape.spark/org.inkscape.spark_1.3spark3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

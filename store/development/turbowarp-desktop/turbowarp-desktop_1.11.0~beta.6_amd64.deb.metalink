@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="turbowarp-desktop_1.11.0~beta.6_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">3724b7da98af0ac5d4f764d1e8387746</hash>
+				  
+				<hash type="sha1">90259e2d22505bd8c87f7e207592edadc0aa1c4f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/turbowarp-desktop/turbowarp-desktop_1.11.0~beta.6_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/turbowarp-desktop/turbowarp-desktop_1.11.0~beta.6_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/turbowarp-desktop/turbowarp-desktop_1.11.0~beta.6_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/turbowarp-desktop/turbowarp-desktop_1.11.0~beta.6_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/turbowarp-desktop/turbowarp-desktop_1.11.0~beta.6_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/turbowarp-desktop/turbowarp-desktop_1.11.0~beta.6_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

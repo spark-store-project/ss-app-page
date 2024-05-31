@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.google.chrome_117.0.5938.149_plus_szbt2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">14d880b131df5c738cb561303e100548</hash>
+				  
+				<hash type="sha1">b68898fbd56e983e43f4620900c9cc7f8f815272</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/cn.google.chrome/cn.google.chrome_117.0.5938.149_plus_szbt2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/cn.google.chrome/cn.google.chrome_117.0.5938.149_plus_szbt2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/cn.google.chrome/cn.google.chrome_117.0.5938.149_plus_szbt2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/cn.google.chrome/cn.google.chrome_117.0.5938.149_plus_szbt2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/cn.google.chrome/cn.google.chrome_117.0.5938.149_plus_szbt2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/cn.google.chrome/cn.google.chrome_117.0.5938.149_plus_szbt2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

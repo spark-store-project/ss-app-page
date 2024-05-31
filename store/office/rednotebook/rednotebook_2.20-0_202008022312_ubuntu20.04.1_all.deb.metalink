@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="rednotebook_2.20-0_202008022312_ubuntu20.04.1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">577d8bff187d3c56be71ed908fcbb0e2</hash>
+				  
+				<hash type="sha1">c7d6eca23d75e7170a4f41ab315b7e18c2111fb1</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/rednotebook/rednotebook_2.20-0_202008022312_ubuntu20.04.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/rednotebook/rednotebook_2.20-0_202008022312_ubuntu20.04.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/rednotebook/rednotebook_2.20-0_202008022312_ubuntu20.04.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/rednotebook/rednotebook_2.20-0_202008022312_ubuntu20.04.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/rednotebook/rednotebook_2.20-0_202008022312_ubuntu20.04.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/rednotebook/rednotebook_2.20-0_202008022312_ubuntu20.04.1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

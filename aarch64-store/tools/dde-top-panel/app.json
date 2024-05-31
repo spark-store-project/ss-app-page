@@ -1,0 +1,16 @@
+{
+    "Author": "SeptemberHX",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "dde-top-panel_0.6.8_arm64.deb",
+    "More": "如何使用？\ngithub访问有问题的请直接从网盘下载（太大了，超过了论坛附件大小限制：\n    前往 https://github.com/SeptemberHX/dde-top-panel/releases 下载最新 release 包，如果是 zip 解压后即可得到 deb，直接安装，并在启动器设置自启动\n    以下步骤为全局菜单开启步骤，不需要的不用做。 \n    前往 https://github.com/SeptemberHX/dde-globalmenu-service.git 下载最新 release 安装包\n    安装即可，在 启动器中右键设置成自启动\n    修改文件 ~/.gtkrc-2.0 ，添加 gtk-modules=appmenu-gtk-module\n    修改文件 ～/.config/gtk-3.0/settings.ini ，[Settings] 条目下 添加      gtk-modules=appmenu-gtk-module\n    注销或者重启\n网盘：https://wwi.lanzoup.com/b01bh6pfg\n密码：fih3\n\n因为顶栏高度问题，官方的时间插件显示会挤在一起，这个只能用其它插件：https://bbs.deepin.org/post/198163  （原贴找不到了，作者看见请联系我修改。。）\n卸载 panel 后如果出现窗口最大化后不显示三个按钮：看一下 ~/.config/.kwinrc 文件，里面有一个配置项就是最大化时隐藏按钮，删掉那一行，然后注销重新登录就行了；或者先把 dde-top-panel 装回来，然后 panel 设置里取消勾选最大化隐藏按钮，然后在卸载 panel，注销并重新登录\n多个显示器出现panel错位：很奇怪，一部分人遇到了，一部分人没有遇到。如果遇见了，先把多余屏幕拔下来，设置好缩放后，再插回来\n如果 panel 上托盘异常，请确保 dde-top-panel 插件目录下的 libtray.so 是系统的最新版本！系统升级时 panel 不会主动更新 libtray.so 文件。\n\n------ 2022-03-09\nBug 修复：\n某些时候切换窗口导致的随机崩溃 => 详情见 Issue #50 · SeptemberHX/dde-top-panel",
+    "Name": "DDE Top Panel 顶栏程序",
+    "Pkgname": "dde-top-panel",
+    "Size": "7119 Kb",
+    "Tags": "community;deepin;uos",
+    "Torrent_address": "dde-top-panel_0.6.8_arm64.deb.torrent",
+    "Update": "2023-03-05 18:52:16",
+    "Version": "0.6.8",
+    "Website": "https://github.com/SeptemberHX/dde-top-panel",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_3.png\"]"
+}

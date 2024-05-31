@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="lat-runtime-amd64_1.4.4-1_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">af6a5c1bdafecc1939611aa1440cc9db</hash>
+				  
+				<hash type="sha1">56344eae9c606e6ac2b4a9a14c1c0cd4e000feaf</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/depends/lat-runtime/lat-runtime-amd64_1.4.4-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/depends/lat-runtime/lat-runtime-amd64_1.4.4-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/depends/lat-runtime/lat-runtime-amd64_1.4.4-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/depends/lat-runtime/lat-runtime-amd64_1.4.4-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/depends/lat-runtime/lat-runtime-amd64_1.4.4-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/depends/lat-runtime/lat-runtime-amd64_1.4.4-1_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

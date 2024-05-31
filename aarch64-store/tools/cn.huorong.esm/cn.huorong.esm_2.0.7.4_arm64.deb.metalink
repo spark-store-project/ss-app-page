@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.huorong.esm_2.0.7.4_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">93a066604da6a1aaa768850872e5c1f5</hash>
+				  
+				<hash type="sha1">660f6c64894e34a2bf38ec68233e4983c1818714</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.huorong.esm/cn.huorong.esm_2.0.7.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/tools/cn.huorong.esm/cn.huorong.esm_2.0.7.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/tools/cn.huorong.esm/cn.huorong.esm_2.0.7.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/tools/cn.huorong.esm/cn.huorong.esm_2.0.7.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/tools/cn.huorong.esm/cn.huorong.esm_2.0.7.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/tools/cn.huorong.esm/cn.huorong.esm_2.0.7.4_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

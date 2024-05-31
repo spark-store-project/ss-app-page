@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="z-tools-base-apk-view_1.0-20230129_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c43401bf74bdd69a81b6fb514b2cf06a</hash>
+				  
+				<hash type="sha1">6abd0f735f2d5688643c3f19b6c9df048eece936</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/z-tools-base-apk-view/z-tools-base-apk-view_1.0-20230129_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/tools/z-tools-base-apk-view/z-tools-base-apk-view_1.0-20230129_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/tools/z-tools-base-apk-view/z-tools-base-apk-view_1.0-20230129_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/tools/z-tools-base-apk-view/z-tools-base-apk-view_1.0-20230129_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/tools/z-tools-base-apk-view/z-tools-base-apk-view_1.0-20230129_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/tools/z-tools-base-apk-view/z-tools-base-apk-view_1.0-20230129_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="luminance-hdr_2.5.1_plus_dfsg-3_plus_b4_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f38e9e26f9a10c0f2fd8fecb3b16877f</hash>
+				  
+				<hash type="sha1">e6f3172a5e751d14ccd4475a045a2a7f9b0c7369</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/luminance-hdr/luminance-hdr_2.5.1_plus_dfsg-3_plus_b4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/luminance-hdr/luminance-hdr_2.5.1_plus_dfsg-3_plus_b4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/luminance-hdr/luminance-hdr_2.5.1_plus_dfsg-3_plus_b4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/luminance-hdr/luminance-hdr_2.5.1_plus_dfsg-3_plus_b4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/luminance-hdr/luminance-hdr_2.5.1_plus_dfsg-3_plus_b4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/luminance-hdr/luminance-hdr_2.5.1_plus_dfsg-3_plus_b4_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

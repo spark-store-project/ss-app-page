@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="rars-riscv_1.6~spark1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9a8a9d67e06ef14f02d5e5b9567a12ff</hash>
+				  
+				<hash type="sha1">2ae594468afc4b100f70f2cfe3844d696ba336c2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/rars-riscv/rars-riscv_1.6~spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/rars-riscv/rars-riscv_1.6~spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/rars-riscv/rars-riscv_1.6~spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/rars-riscv/rars-riscv_1.6~spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/rars-riscv/rars-riscv_1.6~spark1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/rars-riscv/rars-riscv_1.6~spark1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

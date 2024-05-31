@@ -1,0 +1,58 @@
+[{
+        "name": "愿望墙",
+        "more": "想要什么应用？在墙上写下愿望吧！",
+        "imgUrl": "/home/links/Wishwall.png",
+        "type": "_blank",
+        "url": "https://www.deepinos.org/t/Wish-wall"
+    },
+    {
+        "name": "交流反馈",
+        "more": "前往论坛交流讨论",
+        "imgUrl": "/home/links/bbs.png",
+        "type": "_blank",
+        "url": "https://bbs.spark-app.store/"
+    },
+    {
+        "name": "节点监控",
+        "more": "这里是星火各个服务器的监控页哦！",
+        "imgUrl": "/home/links/Monitor.png",
+        "type": "_self",
+        "url": "https://status.deepinos.org.cn/speed/"
+    },
+    {
+        "name": "参与贡献",
+        "more": "点我参与我们的开发工作吧！",
+        "imgUrl": "/home/links/Contri.png",
+        "type": "_blank",
+        "url": "https://gitee.com/spark-store-project"
+    },
+    {
+        "name": "随喜捐赠",
+        "more": "星火商店需要你的支持～",
+        "imgUrl": "/home/links/Donate.png",
+        "type": "_self",
+        "url": "https://donate.deepinos.org.cn/donate/index.html"
+    },
+    {
+        "name": "加入QQ群",
+        "more": "星火的用户社群！",
+        "imgUrl": "/home/links/QQGroups.png",
+        "type": "_blank",
+        "url": "https://blog.shenmo.tech/post/%E6%95%85%E9%9A%9C%E5%85%AC%E5%91%8A/"
+    },
+    {
+        "name": "尊云——简单好用，价格厚道",
+        "more": "简单好用，价格厚道的云服务器、云主机",
+        "imgUrl": "/home/links/Ad-zun.com.png",
+        "type": "_blank",
+        "url": "https://www.zun.com/index.php?u=C78D6F"
+    },
+    {
+        "name": "龙架构适配中心——暂不支持的应用",
+        "more": "共助生态建设",
+        "imgUrl": "/home/links/deepin-23.png",
+        "type": "_blank",
+        "url": "https://gitee.com/spark-store-project/software_-issue/issues"
+    }
+
+]

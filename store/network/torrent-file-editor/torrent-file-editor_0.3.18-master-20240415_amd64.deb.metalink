@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="torrent-file-editor_0.3.18-master-20240415_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5f252ddaaf88b6218eb9fd411a911b14</hash>
+				  
+				<hash type="sha1">86bf428346e3efe8eb8b8a8895f031940f087638</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/torrent-file-editor/torrent-file-editor_0.3.18-master-20240415_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/torrent-file-editor/torrent-file-editor_0.3.18-master-20240415_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/torrent-file-editor/torrent-file-editor_0.3.18-master-20240415_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/torrent-file-editor/torrent-file-editor_0.3.18-master-20240415_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/torrent-file-editor/torrent-file-editor_0.3.18-master-20240415_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/torrent-file-editor/torrent-file-editor_0.3.18-master-20240415_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

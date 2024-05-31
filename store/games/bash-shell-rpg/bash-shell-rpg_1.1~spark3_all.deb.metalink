@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="bash-shell-rpg_1.1~spark3_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">38d68a0eeb1050e21ab37c0c74f4d41b</hash>
+				  
+				<hash type="sha1">37d22a8236b1e1a7e4dc3668361f91db90e7f346</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/bash-shell-rpg/bash-shell-rpg_1.1~spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/bash-shell-rpg/bash-shell-rpg_1.1~spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/bash-shell-rpg/bash-shell-rpg_1.1~spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/bash-shell-rpg/bash-shell-rpg_1.1~spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/bash-shell-rpg/bash-shell-rpg_1.1~spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/bash-shell-rpg/bash-shell-rpg_1.1~spark3_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

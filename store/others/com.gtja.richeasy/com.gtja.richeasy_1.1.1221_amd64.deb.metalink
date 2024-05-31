@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.gtja.richeasy_1.1.1221_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">cbdfa630f9df3d4e2f265204ed51268e</hash>
+				  
+				<hash type="sha1">d24cfa0c29b598d7b44186a43245b90ee0a44288</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/com.gtja.richeasy/com.gtja.richeasy_1.1.1221_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/com.gtja.richeasy/com.gtja.richeasy_1.1.1221_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/com.gtja.richeasy/com.gtja.richeasy_1.1.1221_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/com.gtja.richeasy/com.gtja.richeasy_1.1.1221_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/com.gtja.richeasy/com.gtja.richeasy_1.1.1221_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/com.gtja.richeasy/com.gtja.richeasy_1.1.1221_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

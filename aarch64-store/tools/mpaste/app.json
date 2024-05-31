@@ -1,0 +1,16 @@
+{
+    "Author": "SeptemberHX",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "mpaste_0.2.0_arm64.deb",
+    "More": "该应用为对 Paste，mac上的剪贴板工具 的复刻。原工具只支持 mac，现用 Qt 实现支持 Linux。\n \n不要用本工具存储重要内容！导致的信息丢失概不负责\n \n-----------------2021-08-03   v0.2.0----------------\n1. 托盘支持\n2. deb 包支持，安装后启动器可见及设置自启动\n3. 支持选中历史剪贴板数据后，自动粘贴到当前窗口\n4.增加配置文件，允许修改 最大历史数量（数据文件夹修改目前不可用）\n---------------------------------\n\n使用方法：\n1. 下载 deb 安装包，安装。\n3. 系统设置 -> 快捷键设置 -> 添加新快捷键，命令填写 /usr/bin/MPaste，快捷键自定义即可\n \n之后使用快捷键即可唤出。\n* 唤出后，任意字符键进行搜索\n* 按下 Alt 键不放，显示快捷键提示，Alt + 数字键快速选择\n \n默认设置：\n1. 数据存储文件夹：~/.MPaste/Clipboard\n2. 最大历史记录数量：500\n \n------\n \n特点：\n1. 剪贴板记录，支持对 图片、图片文件、链接、文本、颜色 的预览（见下图）\n2. 搜索功能",
+    "Name": "MPaste：剪贴板管理工具",
+    "Pkgname": "mpaste",
+    "Size": "2636 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "mpaste_0.2.0_arm64.deb.torrent",
+    "Update": "2023-03-05 18:58:09",
+    "Version": "0.2.0",
+    "Website": "https://github.com/SeptemberHX/MPaste/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/mpaste/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/mpaste/screen_1.png\"]"
+}

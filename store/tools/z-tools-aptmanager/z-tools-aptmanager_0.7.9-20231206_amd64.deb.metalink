@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="z-tools-aptmanager_0.7.9-20231206_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ae73866613731de3f814007d23be56d5</hash>
+				  
+				<hash type="sha1">b1a0b8d3443a204b656d99c3b9c28817dc45efe7</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/z-tools-aptmanager_0.7.9-20231206_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/z-tools-aptmanager/z-tools-aptmanager_0.7.9-20231206_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/z-tools-aptmanager/z-tools-aptmanager_0.7.9-20231206_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/z-tools-aptmanager/z-tools-aptmanager_0.7.9-20231206_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/z-tools-aptmanager/z-tools-aptmanager_0.7.9-20231206_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/z-tools-aptmanager/z-tools-aptmanager_0.7.9-20231206_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

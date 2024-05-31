@@ -1,0 +1,826 @@
+[
+{
+    "Name": "Firefox火狐浏览器(ACE)",
+    "Version": "125.0.3+build1-0ubuntu0.20.04.1~mt1",
+    "Filename": "firefox-spark-ace_125.0.3_plus_build1-0ubuntu0.20.04.1~mt1_all.deb",
+    "Torrent_address": "firefox-spark-ace_125.0.3_plus_build1-0ubuntu0.20.04.1~mt1_all.deb.torrent",
+    "Pkgname": "firefox-spark-ace",
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo<shenmo@spark-app.store>",
+    "Website": "https://gitee.com/spark-building-service/firefox-spark-ace",
+    "Update": "2024-05-01 06:01:12",
+    "Size": "4.0K",
+    "More": "Firefox最新版\n全都能用",
+    "Tags": "ubuntu;deepin;uos;community",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark-ace/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark-ace/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark-ace/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark-ace/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark-ace/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark-ace/icon.png"
+}
+
+,
+{
+    "Name": "Firefox火狐浏览器",
+    "Version": "125.0.3+build1-0ubuntu0.20.04.1~mt1",
+    "Filename": "firefox-spark_125.0.3_plus_build1-0ubuntu0.20.04.1~mt1_arm64.deb",
+    "Torrent_address": "firefox-spark_125.0.3_plus_build1-0ubuntu0.20.04.1~mt1_arm64.deb.torrent",
+    "Pkgname": "firefox-spark",
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo<shenmo@spark-app.store>",
+    "Website": "https://gitee.com/spark-building-service/firefox-spark-arm",
+    "Update": "2024-04-29 22:03:07",
+    "Size": "55M",
+    "More": "Firefox最新版。适用于Ubuntu 2204/Debian 12/deepin23. 其他用户请使用firefox-spark-ace.\n重复，请使用firefox-spark-ace\n重复，请使用firefox-spark-ace\n重复，请使用firefox-spark-ace\n\n请安装  spk://store/network/firefox-spark-ace\n复制上一行的spk到搜索栏回车以前往",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark/icon.png"
+}
+
+,
+{
+    "Author": "lidan06 <lidan06@baidu.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "baidunetdisk_4.17.7_arm64.deb",
+    "More": "百度网盘 Linux 客户端，支持上传下载，部分文件预览，在线解压缩和同步空间等。基于 electron 开发。",
+    "Name": "百度网盘",
+    "Pkgname": "baidunetdisk",
+    "Size": "100 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "baidunetdisk_4.17.7_arm64.deb.torrent",
+    "Update": "2023-08-02 13:20:56",
+    "Version": "4.17.7",
+    "Website": "https://pan.baidu.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/baidunetdisk/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/baidunetdisk/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/baidunetdisk/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "browser360-cn-stable_13.2.1031.25-1_arm64.deb",
+    "More": "360安全浏览器\n360安全浏览器结合最新的Chromium内核，领先的国密套件支持，完整的信创迁移方案，为政企客户提供最极速、最安全、最易用的浏览器。",
+    "Name": "360安全浏览器(Linux版)",
+    "Pkgname": "browser360-cn-stable",
+    "Size": "210 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "browser360-cn-stable_13.2.1031.25-1_arm64.deb.torrent",
+    "Update": "2023-06-11 12:10:16",
+    "Version": "13.2.1031.25-1",
+    "Website": "https://browser.360.cn/se/linux/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360-cn-stable/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360-cn-stable/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "酷安",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "uengine-dc-com.coolapk.market_13.1.1_all.deb",
+    "More": "酷安，真实有趣的数码社区。\n2000万科技爱好者与你畅聊，科技资讯，新鲜评测，真实体验，玩机宝典，你想要的这里全都有。\n玩数码，就上酷安。\n\n*安装前请确保已安装Uengine",
+    "Name": "酷安(uengine)",
+    "Pkgname": "uengine-dc-com.coolapk.market",
+    "Size": "80 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "uengine-dc-com.coolapk.market_13.1.1_all.deb.torrent",
+    "Update": "2023-04-29 09:32:06",
+    "Version": "13.1.1",
+    "Website": "https://www.coolapk.com",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/uengine-dc-com.coolapk.market/icon.png",
+    "img_urls": "[]"
+}
+
+,
+{
+    "Author": "shenmo <jifengshenmo@outlook.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "org.mozilla.firefox-esr.spark_1.0_all.deb",
+    "More": "firefox-esr的虚包，安装后会自动安装适合版本的firefox-esr",
+    "Name": "Firefox ESR",
+    "Pkgname": "org.mozilla.firefox-esr.spark",
+    "Size": "1 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "org.mozilla.firefox-esr.spark_1.0_all.deb.torrent",
+    "Update": "2023-05-02 20:20:09",
+    "Version": "1.0",
+    "Website": "https://shenmo7192.gitee.io/"
+}
+
+,
+{
+    "Author": "Deepin Browser <browser@deepin.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "org.deepin.browser_6.3.16-1_arm64.deb",
+    "More": "一款长的有点像Dtk应用的浏览器",
+    "Name": "深度浏览器",
+    "Pkgname": "org.deepin.browser",
+    "Size": "154 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "org.deepin.browser_6.3.16-1_arm64.deb.torrent",
+    "Update": "2024-05-16 22:57:35",
+    "Version": "6.3.16-1",
+    "Website": "https://www.deepin.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/org.deepin.browser/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/org.deepin.browser/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "xllinux <xllinux@xunlei.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.xunlei.download_1.0.0.5_arm64.deb",
+    "More": "迅雷\n修复因缺失依赖问题导致软件无法打开\n迅雷官方推出的linux版下载工具，不知为何不在官网上架\n修复Ubuntu 23软件无法打开\",",
+    "Name": "迅雷",
+    "Pkgname": "com.xunlei.download",
+    "Size": "45 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.xunlei.download_1.0.0.5_arm64.deb.torrent",
+    "Update": "2024-03-24 13:40:44",
+    "Version": "1.0.0.5",
+    "Website": "https://www.xunlei.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.xunlei.download/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.xunlei.download/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.xunlei.download/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "Oray <dev@oray.com>",
+    "Contributor": "Oray <dev@oray.com>",
+    "Filename": "com.oray.sunlogin.client_11.0.1.44968_arm64.deb",
+    "More": "向日葵远程控制，deepin商店版本",
+    "Name": "向日葵远程控制",
+    "Pkgname": "com.oray.sunlogin.client",
+    "Size": "18 Mb",
+    "Tags": "deepin;uos;ubuntu;dtk5",
+    "Torrent_address": "com.oray.sunlogin.client_11.0.1.44968_arm64.deb.torrent",
+    "Update": "2023-08-30 21:39:49",
+    "Version": "11.0.1.44968",
+    "Website": "https://sunlogin.oray.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.oray.sunlogin.client/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.oray.sunlogin.client/screen_1.png\"]"
+}
+
+,
+{
+    "Name": "阿里云盘（小白羊修复版）",
+    "Version": "3.13.5",
+    "Filename": "xbyyunpan_3.13.5_arm64.deb",
+    "Torrent_address": "xbyyunpan_3.13.5_arm64.deb.torrent",
+    "Pkgname": "xbyyunpan",
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo<shenmo@spark-app.store>",
+    "Website": "https://github.com/gaozhangmin/aliyunpan",
+    "Update": "2024-05-29 22:02:10",
+    "Size": "75M",
+    "More": "修复版小白羊云盘\n基于阿里云盘网页版开发的第三方Linux客户端(超好用)。\n***关于安装后应用没有图标问题：\n0.打开终端，依次输入以下命令：\n1.sudo gedit /usr/share/applications/xbyyunpan.desktop\n(deepin和uos需要将gedit换为vim，vim用法请自行百度\n2.将“Icon=xbyyunpan”一行改为\n“Icon=/opt/小白羊云盘/resources/images/icon_256x256.png”\n3.保存退出",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/icon.png"
+}
+
+,
+{
+    "Author": "Tencent",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.qq.browser_1.70.3538.0_arm64.deb",
+    "More": "A fast, safe web browser from Tencent.",
+    "Name": "QQ 浏览器",
+    "Pkgname": "com.qq.browser",
+    "Size": "76 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.qq.browser_1.70.3538.0_arm64.deb.torrent",
+    "Update": "2023-03-06 20:50:58",
+    "Version": "1.70.3538.0",
+    "Website": "https://browser.qq.com/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qq.browser/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qq.browser/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qq.browser/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qq.browser/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qq.browser/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "Lbrowser Team <browser@loongson.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "cn.loongnix.lbrowser_3.3.1814.2-1.stable_arm64.deb",
+    "More": "龙芯浏览器是基于chromium内核开发的一款安全高效的浏览器，提供常见的管理功能：浏览器历史记录管理，书签管理，下载管理，集成web开发者工具功能，支持npapi插件功能，支持国家商用密码算法模块和国产安全协议模块，深度优化多媒体、图形库等模块，增加DoH、本地数据加密等安全特性，鼠标手势\n、划词翻译等功能特性。龙芯浏览器已经兼容龙芯、\n鲲鹏 兆芯以及飞腾等国产处理器架构，以及UOS、银河麒麟等操作系统，高效满足信创平台办公需求。",
+    "Name": "龙芯浏览器",
+    "Pkgname": "cn.loongnix.lbrowser",
+    "Size": "92 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "cn.loongnix.lbrowser_3.3.1814.2-1.stable_arm64.deb.torrent",
+    "Update": "2024-05-01 08:23:04",
+    "Version": "3.3.1814.2-1.stable",
+    "Website": "http://www.loongnix.cn/zh/api/lbrowser/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.loongnix.lbrowser/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.loongnix.lbrowser/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.loongnix.lbrowser/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.loongnix.lbrowser/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.aliyundrive.spark_4.9.15spark9_all.deb",
+    "More": "阿里云盘是一款速度快、不打扰、够安全、易于分享的网盘，你可以在这里存储、管理和探索内容，尽情打造丰富的数字世界。\n----\n修复：v23上无法启动",
+    "Name": "阿里云盘",
+    "Pkgname": "com.aliyundrive.spark",
+    "Size": "107 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.aliyundrive.spark_4.9.15spark9_all.deb.torrent",
+    "Update": "2023-11-26 13:26:57",
+    "Version": "4.9.15spark9",
+    "Website": "https://www.aliyundrive.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.aliyundrive.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.aliyundrive.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.aliyundrive.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.aliyundrive.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "gfdgd xi<3025613752@qq.com>, 为什么您不喜欢熊出没和阿布呢",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "spark-simple-remote-desktop-accessor_1.2.1_arm64.deb",
+    "More": "这是一款使用 dtk写的一个简易远程连接工具，基于rdesktop，适用于连接Windows等 rdp 协议的远程计算机（xrdp也是可以的，测试过了），虽然和mstsc差的有点远 在我测试中，我发现系统默认版本的rdesktop（1.8.6） 是无法连接Windows XP（不知道是不是个例），而编译的 rdesktop 1.9.0是没有问题的，所以我也把编译好的应用放进deb 包并支持选择版本\n支持平台：deepin、UOS、Ubuntu\n更新内容：\n※1、添加了剪切板共享、目录共享、远程计算机声音播放的功能\n※2、修改为用QProcess运行命令以及获取返回值和输出内容\n※3、修复了在 UOS/Ubuntu 下运行因为编译的 Qt 版本过高而无法运行的问题\n※4、修复了不管连接成功还是失败都会弹出提示窗口显示日志的问题\n※5、优化了在 Ubuntu 下界面的显示，不会显示双标题栏  \n※6、补充了缺失依赖  \n7、修复了连接日志不超过 5000 个字符的问题\n8、修复了标题以及自定义参数不支持中文的问题\n9、优化了代码结构\n10、修复了如果能在 Ubuntu 下运行的情况下显示不良的问题\n",
+    "Name": "rdp远程桌面连接工具",
+    "Pkgname": "spark-simple-remote-desktop-accessor",
+    "Size": "527 Kb",
+    "Tags": "community;deepin;uos;ubuntu;dtk5",
+    "Torrent_address": "spark-simple-remote-desktop-accessor_1.2.1_arm64.deb.torrent",
+    "Update": "2023-04-29 08:01:10",
+    "Version": "1.2.1",
+    "Website": "https://github.com/gfdgd-xi/simple-remote-desktop-accessor",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/spark-simple-remote-desktop-accessor/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/spark-simple-remote-desktop-accessor/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/spark-simple-remote-desktop-accessor/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/spark-simple-remote-desktop-accessor/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/spark-simple-remote-desktop-accessor/screen_4.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/spark-simple-remote-desktop-accessor/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.163.dashi.mailmaster.spark_4.18.1.1006-1_all.deb",
+    "More": "专业的全平台邮箱客户端\n\n----\n更新：支持被设置为默认邮件客户端,改用swine7启动",
+    "Name": "网易邮箱大师",
+    "Pkgname": "com.163.dashi.mailmaster.spark",
+    "Size": "89 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.163.dashi.mailmaster.spark_4.18.1.1006-1_all.deb.torrent",
+    "Update": "2023-04-18 14:36:41",
+    "Version": "4.18.1.1006-1",
+    "Website": "https://dashi.163.com/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.163.dashi.mailmaster.spark/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.163.dashi.mailmaster.spark/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.163.dashi.mailmaster.spark/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.163.dashi.mailmaster.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Name": "Internet Explorer 8 (wine)",
+    "Version": "1.0.1deepin3",
+    "Filename": "deepin.com.ie8_1.0.1deepin3_all.deb",
+    "Torrent_address": "deepin.com.ie8_1.0.1deepin3_all.deb.torrent",
+    "Pkgname": "deepin.com.ie8",
+    "Author": "Person By Deepin WINE",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://bbs.deepin.org/post/168562",
+    "Update": "2023-09-20 13:14:55",
+    "Size": "353.18 MB",
+    "More": "个人基于Deepin Wine打包的IE8，仅供交流学习使用。\n------\n更新说明：支持deepin v23\n----\n注意：首次启动可能会出现闪退，再次启动即可\n如果点击关闭之后仍有残留窗口，请强制结束进程",
+    "Tags": "ubuntu;deepin;uos;dwine2",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/20/6b487a7d5d994d249a7d7800efae9573.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/20/0af4e1be6dee4284a9e718daf4760c62.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/20/2443432b0b1f4da2980fa08afdcc33f6.png"
+}
+,
+{
+    "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "browser360-cn-beta_13.108.1000.22-1_arm64.deb",
+    "More": "360安全浏览器结合最新的Chromium内核，领先的国密套件支持，完整的信创迁移方案，为政企客户提供最极速、最安全、最易用的浏览器。",
+    "Name": "360安全浏览器Beta版",
+    "Pkgname": "browser360-cn-beta",
+    "Size": "115 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "browser360-cn-beta_13.108.1000.22-1_arm64.deb.torrent",
+    "Update": "2023-06-11 12:09:25",
+    "Version": "13.108.1000.22-1",
+    "Website": "https://browser.360.net/gc/index.html",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360-cn-beta/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360-cn-beta/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360-cn-beta/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360-cn-beta/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360-cn-beta/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "Dominik George <natureshadow@debian.org>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "midori_7.0-2_arm64.deb",
+    "More": "Midori是一款开源的网络浏览器，它更注重轻量级而不是提供大量功能。\n使用 Vala 编写，使用 GTK+3 和 WebKit 渲染引擎。 * 标签、窗口和会话管理。 * 快速拨号。 * 默认保存下一个会话的选项卡。 * 使用 DuckDuckGo 作为默认搜索引擎。可以更改为 Google 或 Yahoo。 * 书签管理。 * 可定制和可扩展的界面。 * 扩展模块可以用 C 和 Vala 编写。 * 支持 HTML5。 * 少量的扩展程序包括广告拦截器、彩色标签等。没有第三方扩展程序。 * 表单历史。 * 隐私浏览。 * 可用于 Linux 和 Windows。\n\n Midori is a lightweight web browser based on WebKit.\n .\n Its features include:\n .\n  * Full integration with GTK+2.\n  * Fast rendering with WebKit.\n  * Tabs, windows and session management.\n  * Flexibly configurable Web Search.\n  * User scripts and user styles support.\n  * Straightforward bookmark management.\n  * Customizable and extensible interface.\n  * Support for extensions (written in C).\n  * Custom context menu actions.",
+    "Name": "Midori 浏览器（一个轻量级的 Web 浏览器）",
+    "Pkgname": "midori",
+    "Size": "718 Kb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "midori_7.0-2_arm64.deb.torrent",
+    "Update": "2023-04-29 09:25:30",
+    "Version": "7.0-2",
+    "Website": "https://www.midori-browser.org/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/midori/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/midori/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/midori/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "RealVNC <noreply@realvnc.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "realvnc-vnc-viewer_7.11.0.18_arm64.deb",
+    "More": "VNC Viewer, from RealVNC, the original inventor of VNC technology, is remote access\n software that enables you to securely connect to and control a remote\n computer.\n RealVNC recommends the realvnc-vnc-server package (VNC Server) for the\n remote computer, for seamless, secure and reliable connections. A free trial\n is available.",
+    "Name": "VNC Viewer",
+    "Pkgname": "realvnc-vnc-viewer",
+    "Size": "3766 Kb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "realvnc-vnc-viewer_7.11.0.18_arm64.deb.torrent",
+    "Update": "2024-05-09 16:31:33",
+    "Version": "7.11.0.18",
+    "Website": "https://www.realvnc.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-viewer/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-viewer/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-viewer/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "RealVNC <noreply@realvnc.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "realvnc-vnc-server_7.11.0.18_arm64.deb",
+    "More": "VNC Server, from RealVNC, the original inventor of VNC technology, is remote access\n software that enables you to securely share one or more desktops on this\n computer with any number of other computers or devices.\n RealVNC recommends the realvnc-vnc-viewer package (VNC Viewer) for these other\n computers and devices, for seamless, secure and reliable connections.",
+    "Name": "VNC Server",
+    "Pkgname": "realvnc-vnc-server",
+    "Size": "9302 Kb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "realvnc-vnc-server_7.11.0.18_arm64.deb.torrent",
+    "Update": "2024-05-09 16:33:39",
+    "Version": "7.11.0.18",
+    "Website": "https://www.realvnc.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-server/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-server/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-server/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <shenmo@spark-app.store>",
+    "Filename": "org.qbittorrent.qbittorrent_4.5.2-3_plus_fix2_arm64.deb",
+    "More": "一款使用 Qt 做界面的 BT 传输软件。",
+    "Name": "qBittorrent",
+    "Pkgname": "org.qbittorrent.qbittorrent",
+    "Size": "188 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "org.qbittorrent.qbittorrent_4.5.2-3_plus_fix2_arm64.deb.torrent",
+    "Update": "2023-08-30 10:22:09",
+    "Version": "4.5.2-3+fix2",
+    "Website": "http://www.qbittorrent.org/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "shenmo",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "deepin-wine-thunders_20200711.s3.1_all.deb",
+    "More": "迅雷融合版\n经过修改，现已在所有支持的平台测试通过",
+    "Name": "迅雷S",
+    "Pkgname": "deepin-wine-thunders",
+    "Size": "17 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "deepin-wine-thunders_20200711.s3.1_all.deb.torrent",
+    "Update": "2023-08-05 21:22:21",
+    "Version": "20200711.s3.1",
+    "Website": " https://www.xunlei.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "browser360ent-cn-stable_10.5.2002.132-1_arm64.deb",
+    "More": "360安全浏览器结合最新的Chromium内核，领先的国密套件支持，完整的信创迁移方案，为政企客户提供最极速、最安全、最易用的浏览器。",
+    "Name": "360企业安全浏览器",
+    "Pkgname": "browser360ent-cn-stable",
+    "Size": "189 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "browser360ent-cn-stable_10.5.2002.132-1_arm64.deb.torrent",
+    "Update": "2023-06-11 12:08:11",
+    "Version": "10.5.2002.132-1",
+    "Website": "https://browser.360.net",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360ent-cn-stable/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360ent-cn-stable/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360ent-cn-stable/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "gfdgd xi<3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "spark-thundermini_1.0_arm64.deb",
+    "More": "一个简简单单的迅雷精简版",
+    "Name": "迅雷精简版",
+    "Pkgname": "spark-thundermini",
+    "Size": "9262 Kb",
+    "Tags": "uos;dwine5",
+    "Torrent_address": "spark-thundermini_1.0_arm64.deb.torrent",
+    "Update": "2023-03-05 19:36:38",
+    "Version": "1.0",
+    "Website": "https://www.xunlei.com/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "Dr_rOot <agalwood.net@gmail.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "motrix_1.8.12_arm64.deb",
+    "More": "Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源。",
+    "Name": "Motrix",
+    "Pkgname": "motrix",
+    "Size": "66 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "motrix_1.8.12_arm64.deb.torrent",
+    "Update": "2023-04-27 16:25:10",
+    "Version": "1.8.12",
+    "Website": "https://motrix.app",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "vip.zhouql.bilidown.spark_1.0.5spark0_all.deb",
+    "More": "一款简洁好用的B站视频下载工具。支持由UP主上传的单集，多集及相关封面，弹幕，字幕，音乐，刮削等等。支持任意粒度批量组合，登录后支持到1080P，大会员可获取所有音质及画质。",
+    "Name": "bilidown",
+    "Pkgname": "vip.zhouql.bilidown.spark",
+    "Size": "102 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "vip.zhouql.bilidown.spark_1.0.5spark0_all.deb.torrent",
+    "Update": "2023-10-15 02:36:06",
+    "Version": "1.0.5spark0",
+    "Website": "http://zhouql.vip/bilibili/pc/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "Qaxbrowser Team <qaxbrowser@qianxin.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.qianxin.browser-stable_1.0.45276.3-1_arm64.deb",
+    "More": "奇安信可信浏览器\n 奇安信可信浏览器是基于Blink内核，专为政企定制的安全浏览器产品。简便快捷、兼容性高，满足政企互联网安全接入需求，是政企上网办公首选。\n（如果需要有 Flash 版本请安装1.0.1365.3-1 ）",
+    "Name": "奇安信浏览器基础版",
+    "Pkgname": "com.qianxin.browser-stable",
+    "Size": "81 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.qianxin.browser-stable_1.0.45276.3-1_arm64.deb.torrent",
+    "Update": "2023-07-05 11:27:42",
+    "Version": "1.0.45276.3-1",
+    "Website": "https://www.qianxin.com/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qianxin.browser-stable/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qianxin.browser-stable/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qianxin.browser-stable/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qianxin.browser-stable/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "Sangfor Technologies Inc <support@sangfor.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "cn.com.sangfor.atrust_2.2.10.3_arm64.deb",
+    "More": "从北邮获取的aTrust VPN客户端，可用于对应系统的登录\n此客户端将对访问应用的请求进行全生命周期的保护，帮助用户安全快速的访问应用",
+    "Name": "aTrust VPN",
+    "Pkgname": "cn.com.sangfor.atrust",
+    "Size": "92 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "cn.com.sangfor.atrust_2.2.10.3_arm64.deb.torrent",
+    "Update": "2023-04-11 14:29:07",
+    "Version": "2.2.10.3",
+    "Website": "http://www.sangfor.com.cn",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.com.sangfor.atrust/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.com.sangfor.atrust/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.com.sangfor.atrust/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "xretia <webmaster@xretia.labs>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "cn.speedtest.master_1.6.1_arm64.deb",
+    "More": "SpeedTest.cn 官方客户端移植版\n\nv1.6.1 - 2020/12/25\n从官方 1.6.1 Windows 版本移植\n修复标题栏缺失导致 Linux 无法关闭程序\n修复 Linux 图标缺失\n修复 Linux 下布局轻微错乱\n去除升级提示\n\n也有 ARM 平台，看这里：https://bbs.deepin.org/post/208628",
+    "Name": "网速管家",
+    "Pkgname": "cn.speedtest.master",
+    "Size": "66 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "cn.speedtest.master_1.6.1_arm64.deb.torrent",
+    "Update": "2023-03-05 19:23:50",
+    "Version": "1.6.1",
+    "Website": "https://gitlab.com/dfc643/speedtest-cn/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "chenky177@chinatelecom.cn",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.dlife.ecloud_1.0.0.0_arm64.deb",
+    "More": "天翼云盘的linux原生版本",
+    "Name": "天翼云盘",
+    "Pkgname": "com.dlife.ecloud",
+    "Size": "14 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.dlife.ecloud_1.0.0.0_arm64.deb.torrent",
+    "Update": "2023-11-05 13:16:32",
+    "Version": "1.0.0.0",
+    "Website": "https://cloud.189.cn/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.dlife.ecloud/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.dlife.ecloud/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.115_2.0.6.6-1_arm64.deb",
+    "More": "1.“近期传输”功能新增显示上传的文件夹，不拆分文件夹的内容，上传任务查看更直观；\n2.优化账号登录逻辑，软件使用更安全；\n3.修复若干已知问题，软件性能更稳定。",
+    "Name": "115网盘",
+    "Pkgname": "com.115",
+    "Size": "112 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.115_2.0.6.6-1_arm64.deb.torrent",
+    "Update": "2023-11-12 18:01:03",
+    "Version": "2.0.6.6-1",
+    "Website": "https://pc.115.com/index.html#linux",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.115/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.115/screen_1.png\"]"
+}
+
+,
+{
+    "Name": "Tailscale",
+    "Version": "1.66.4",
+    "Filename": "tailscale_1.66.4_arm64.deb",
+    "Torrent_address": "tailscale_1.66.4_arm64.deb.torrent",
+    "Pkgname": "tailscale",
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo<shenmo@spark-app.store>",
+    "Website": "https://tailscale.com/",
+    "Update": "2024-05-21 22:00:45",
+    "Size": "25M",
+    "More": "一款非常强大的异地组网软件，全平台多架构。\n此软件没有gui,所以需要命令行启动。\nsudo tailscale up",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store//tailscale/icon.png"
+}
+
+,
+{
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.bitcomet.spark_2.03.1_all.deb",
+    "More": "比特彗星是一款很好用的BT下载工具\n支持ipv6",
+    "Name": "比特彗星 BitComet",
+    "Pkgname": "com.bitcomet.spark",
+    "Size": "41 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.bitcomet.spark_2.03.1_all.deb.torrent",
+    "Update": "2023-12-11 09:27:24",
+    "Version": "2.03.1",
+    "Website": "https://www.bitcomet.com/en/downloads",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "Qaxbrowser Team <qaxbrowser@qianxin.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "qaxbrowser-safe-stable_1.0.42030.7-1_arm64.deb",
+    "More": "奇安信可信浏览器是基于Blink内核，专为政企定制的安全浏览器产品。简便快捷、兼容性高，满足政企互联网安全接入需求，是政企上网办公首选。",
+    "Name": "奇安信可信浏览器国密开发者专版",
+    "Pkgname": "qaxbrowser-safe-stable",
+    "Size": "74 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "qaxbrowser-safe-stable_1.0.42030.7-1_arm64.deb.torrent",
+    "Update": "2023-03-07 21:43:03",
+    "Version": "1.0.42030.7-1",
+    "Website": "https://www.qianxin.com/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/qaxbrowser-safe-stable/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/qaxbrowser-safe-stable/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/qaxbrowser-safe-stable/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "HopToDesk",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "hoptodesk_1.32.1_all.deb",
+    "More": "HopToDesk是一个免费的远程桌面工具，允许用户分享他们的屏幕并允许远程控制访问他们的电脑和设备。与TeamViewer或AnyDesk等其他类似工具不同，HopToDesk对个人和企业使用都是免费的，为所有同行通信提供真正的端到端加密，并且是开源的。\n\n说明：该应用适用于Ubuntu，deepin20.08下运行缺依赖",
+    "Name": "HopToDesk",
+    "Pkgname": "hoptodesk",
+    "Size": "6703 Kb",
+    "Tags": "ubuntu",
+    "Torrent_address": "hoptodesk_1.32.1_all.deb.torrent",
+    "Update": "2023-03-06 21:56:56",
+    "Version": "1.32.1",
+    "Website": "https://www.hoptodesk.com",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/hoptodesk/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/hoptodesk/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "haitai",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "htbrowser_5.0.0.20_arm64.deb",
+    "More": "红莲花安全浏览器是一款安全、专业、可靠、省心的浏览器",
+    "Name": "红莲花安全浏览器",
+    "Pkgname": "htbrowser",
+    "Size": "75 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "htbrowser_5.0.0.20_arm64.deb.torrent",
+    "Update": "2023-03-05 18:53:57",
+    "Version": "5.0.0.20",
+    "Website": "http://www.haitaibrowser.net/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "Deepin Sysdev <sysdev@deepin.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "uos-remote-assistance_1.1.34-1_arm64.deb",
+    "More": "UOS 家庭版自带的远程协助工具，官方应用商店似乎下架了这个工具",
+    "Name": "UOS 远程协助",
+    "Pkgname": "uos-remote-assistance",
+    "Size": "11 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "uos-remote-assistance_1.1.34-1_arm64.deb.torrent",
+    "Update": "2023-03-05 18:42:56",
+    "Version": "1.1.34-1",
+    "Website": "https://www.deepin.org",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uos-remote-assistance/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uos-remote-assistance/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uos-remote-assistance/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "Mark Greaves (PCNeSpec) <mark@pcnetspec.co.uk>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "ice_6.0.8_all.deb",
+    "More": "Front end for building single site browsers using\n Chromium, Chrome, Vivaldi, or Firefox as a backend,\n allowing custom menu integration.",
+    "Name": "ICE---WebAPP创建器",
+    "Pkgname": "ice",
+    "Size": "34 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "ice_6.0.8_all.deb.torrent",
+    "Update": "2023-04-02 13:51:53",
+    "Version": "6.0.8",
+    "Website": "https://github.com/peppermintos/ice",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/ice/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/ice/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/ice/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "shenmo",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.ugreen.client_4.9.0.9559_all.deb",
+    "More": "绿联私有云",
+    "Name": "绿联私有云",
+    "Pkgname": "com.ugreen.client",
+    "Size": "306 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.ugreen.client_4.9.0.9559_all.deb.torrent",
+    "Update": "2024-01-09 11:00:42",
+    "Version": "4.9.0.9559",
+    "Website": "",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "lon <lon83129@126.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "gwakeonlan_0.8.5-3lon_all.deb",
+    "More": "一个远程计算机唤醒小工具，基于  WakeOnLan 的 GTK+ 前端。\n\n测试通过的平台：\n\nUOS 家庭版\nDeepin \nUbuntu 22.04.3 LTS",
+    "Name": "gwakeonlan",
+    "Pkgname": "gwakeonlan",
+    "Size": "134 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "gwakeonlan_0.8.5-3lon_all.deb.torrent",
+    "Update": "2023-12-02 11:34:12",
+    "Version": "0.8.5-3lon",
+    "Website": "https://www.muflone.com/gwakeonlan/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/gwakeonlan/icon.png",
+    "img_urls": "[]"
+}
+
+,
+{
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.lanzou.spark_3.4.8spark2_all.deb",
+    "More": "一款蓝奏云盘的第三方客户端，实现了蓝奏云大部分功能并添加了许多增强型功能，可作为网盘的日常管理工具使用。\n\n--说明--\nUbuntu22.04在KDE桌面环境下测试运行正常",
+    "Name": "蓝奏云盘",
+    "Pkgname": "com.lanzou.spark",
+    "Size": "78 Mb",
+    "Tags": "deepin;ubuntu;dwine5",
+    "Torrent_address": "com.lanzou.spark_3.4.8spark2_all.deb.torrent",
+    "Update": "2024-03-24 23:06:08",
+    "Version": "3.4.8spark2",
+    "Website": "https://github.com/chenhb23/lanzouyun-disk",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.xunlei.spark_11.4.8.2122spark3_all.deb",
+    "More": "更快！但不止于快！",
+    "Name": "迅雷（wine）",
+    "Pkgname": "com.xunlei.spark",
+    "Size": "534 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.xunlei.spark_11.4.8.2122spark3_all.deb.torrent",
+    "Update": "2024-05-18 21:58:44",
+    "Version": "11.4.8.2122spark3",
+    "Website": "https://www.xunlei.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "torrent-file-editor_1.0.0_arm64.deb",
+    "More": "好用的bt种子编辑器，可以编辑bt种子",
+    "Name": "BT种子编辑器",
+    "Pkgname": "torrent-file-editor",
+    "Size": "287 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "torrent-file-editor_1.0.0_arm64.deb.torrent",
+    "Update": "2024-04-15 10:40:16",
+    "Version": "1.0.0",
+    "Website": "https://github.com/torrent-file-editor/torrent-file-editor",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/torrent-file-editor/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/torrent-file-editor/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "wang",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "net.51.aorland.deepin_1.98i_all.deb",
+    "More": "拖把更名器是一款功能强大的文件名称修改工具。结合资源管理器右键菜单，支持MP3/RM/RMVB/WMA/等标签更名，文件名、标签内码转换、繁简转换、汉字转拼音。支持序号、调用外部文本文件更名、正则表达式、元变量、自动预览、撤消等。",
+    "Name": "拖把更名器",
+    "Pkgname": "net.51.aorland.deepin",
+    "Size": "146 Mb",
+    "Tags": "community;deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "net.51.aorland.deepin_1.98i_all.deb.torrent",
+    "Update": "2024-05-29 16:28:44",
+    "Version": "1.98i",
+    "Website": "aorland.51.net",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/net.51.aorland.deepin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/net.51.aorland.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/net.51.aorland.deepin/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "wang",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.pdftodocx.deepin_1.1_all.deb",
+    "More": "PDF to DOCX 转换器是个PDF转成Word的转换器，这是吾爱大佬开发的，有非常多的人使用，软件界面非常简单。软件转换过程没有进度显示，只有转换完了才会有提示，它不支持纯图片的PDF，对表格等格式的转换效果非常好。",
+    "Name": "PDF to DOCX 转换器",
+    "Pkgname": "com.pdftodocx.deepin",
+    "Size": "146 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.pdftodocx.deepin_1.1_all.deb.torrent",
+    "Update": "2024-05-29 16:29:11",
+    "Version": "1.1",
+    "Website": "https://www.52pojie.cn/thread-1799014-1-1.html",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.jd.jm_11.3.3_all.deb",
+    "More": "京麦工作台",
+    "Name": "京麦工作台",
+    "Pkgname": "com.jd.jm",
+    "Size": "608 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.jd.jm_11.3.3_all.deb.torrent",
+    "Update": "2024-05-13 19:21:10",
+    "Version": "11.3.3",
+    "Website": "",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.jd.jm/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.jd.jm/screen_1.png\"]"
+}
+
+]

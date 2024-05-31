@@ -1,0 +1,16 @@
+{
+    "Name": "Real-ESRGAN GUI",
+    "Version": "0.2.5.0spark0",
+    "Filename": "com.github.realesrgan-gui.spark_0.2.5.0spark0_amd64.deb",
+    "Torrent_address": "com.github.realesrgan-gui.spark_0.2.5.0spark0_amd64.deb.torrent",
+    "Pkgname": "com.github.realesrgan-gui.spark",
+    "Author": "TransparentLC",
+    "Contributor": "sgb76",
+    "Website": "https://github.com/TransparentLC/realesrgan-gui/",
+    "Update": "2024-05-21 01:13:39",
+    "Size": "65.35 MB",
+    "More": "一款免费开源的图片放大工具，来自AI 图像修复算法 Real-ESRGAN 的开源图形界面（以动画为主）。采用 Python 和 tkinter 开发，同时支持 Windows、macOS 和Ubuntu平台。\n\n软件特性：\n1.任意尺寸放大：根据设定的放大尺寸，多次调用 Real-ESRGAN 再进行降采样。\n2. GIF的处理：将 GIF 逐帧放大后合并，保留动画效果。\n3. 拖拽支持：将图片文件或目录拖拽到窗口上，即可自动设定输入和输出路径。\n4. 批处理：批量放大指定目录内的所有图片。\n5.自动深色模式：根据系统设定自动切换。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/1baeea2a47b04e3ca9140a7307c5e116.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/d829cc87e2e14e6090942442fb5d25c6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/51027ba3af564f6dbc96eac59d93faaa.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/21/268068c8417e4c099395f521bd5d4f8c.png"
+}

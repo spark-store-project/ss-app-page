@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="fonts-cjk-cn-hongleibanshu_2.0-3_plus20201104_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">2438d576f9cf03534527d0275972f5db</hash>
+				  
+				<hash type="sha1">0cfbfcd3d86a1ce878b2ed525050eb3d8a295b0e</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/others/fonts-cjk-cn-hongleibanshu/fonts-cjk-cn-hongleibanshu_2.0-3_plus20201104_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/others/fonts-cjk-cn-hongleibanshu/fonts-cjk-cn-hongleibanshu_2.0-3_plus20201104_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/others/fonts-cjk-cn-hongleibanshu/fonts-cjk-cn-hongleibanshu_2.0-3_plus20201104_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/others/fonts-cjk-cn-hongleibanshu/fonts-cjk-cn-hongleibanshu_2.0-3_plus20201104_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/others/fonts-cjk-cn-hongleibanshu/fonts-cjk-cn-hongleibanshu_2.0-3_plus20201104_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/others/fonts-cjk-cn-hongleibanshu/fonts-cjk-cn-hongleibanshu_2.0-3_plus20201104_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

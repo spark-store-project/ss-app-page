@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-store-submitter_1.5.6.4-20240410_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">11d98039b0878dc56629a6eec9058fd7</hash>
+				  
+				<hash type="sha1">b77516424c29a1b412443684c831c33f9882bafb</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store-submitter/spark-store-submitter_1.5.6.4-20240410_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/tools/spark-store-submitter/spark-store-submitter_1.5.6.4-20240410_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/tools/spark-store-submitter/spark-store-submitter_1.5.6.4-20240410_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/tools/spark-store-submitter/spark-store-submitter_1.5.6.4-20240410_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/tools/spark-store-submitter/spark-store-submitter_1.5.6.4-20240410_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/tools/spark-store-submitter/spark-store-submitter_1.5.6.4-20240410_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,16 @@
+{
+    "Name": "种子编辑器 BT Tracker Editor",
+    "Version": "1.33.0.beta.6",
+    "Filename": "com.github.gerryfredinandus.bittorrent-tracker-editor_1.33.0.beta.6_amd64.deb",
+    "Torrent_address": "com.github.gerryfredinandus.bittorrent-tracker-editor_1.33.0.beta.6_amd64.deb.torrent",
+    "Pkgname": "com.github.gerryfredinandus.bittorrent-tracker-editor",
+    "Author": "shenmo <ouyangyunrui@uniontech.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://github.com/GerryFerdinandus/bittorrent-tracker-editor",
+    "Update": "2023-08-01 17:23:10",
+    "Size": "935.7 KB",
+    "More": "种子编辑器是一款好用的BT种子编辑器\n选择一个种子文件或包含种子文件的文件夹。\n同时添加一个或多个追踪器。\n同时移除一个或多个追踪器。\n移除所有追踪器以创建无追踪器的种子。DHT种子\n改变公共/私有标记。注意：这将改变种子信息的哈希值。\n当与可执行文件位于同一文件夹中时，通过add_trackers.txt和remove_trackers.txt文件预设添加/移除追踪器。（对于Linux snap版本，请使用：home/snap/bittorrent-tracker-editor/common/）\n可选以控制台程序形式启动。（请参阅下载文件中的readme.txt）\n显示种子文件内容。\n从newTrackon或ngosang下载稳定的追踪器。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/01/c40eb44e59ea49bd9a8e56ed92ea055a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/01/8161313695c84dd882ae62e905fac293.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/01/e96c5f4de3ad48a2b754449cce112c08.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/01/abc41be7aad047e8a48e965cb183de27.png"
+}

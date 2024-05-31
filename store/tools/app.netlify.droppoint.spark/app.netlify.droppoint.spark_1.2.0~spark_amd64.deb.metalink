@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="app.netlify.droppoint.spark_1.2.0~spark_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">aea4353539bd0c1781bc50ff0a538758</hash>
+				  
+				<hash type="sha1">fe8799e7ee3800a999cf64750ebbd79b1a5b1d1c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/app.netlify.droppoint.spark/app.netlify.droppoint.spark_1.2.0~spark_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/app.netlify.droppoint.spark/app.netlify.droppoint.spark_1.2.0~spark_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/app.netlify.droppoint.spark/app.netlify.droppoint.spark_1.2.0~spark_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/app.netlify.droppoint.spark/app.netlify.droppoint.spark_1.2.0~spark_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/app.netlify.droppoint.spark/app.netlify.droppoint.spark_1.2.0~spark_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/app.netlify.droppoint.spark/app.netlify.droppoint.spark_1.2.0~spark_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

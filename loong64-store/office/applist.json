@@ -1,0 +1,943 @@
+[
+{
+    "Author": "懵仙兔兔 <acgm@qq.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "wps-office_11.1.0.11719_plus_Mejituu-2024022119_loong64.deb",
+    "More": "WPS Office\n\n懵仙兔兔补丁版的WPS Office\n- 1.修复了pdf相关功能失效的问题\n- 2.修复了字体显示异常粗壮的问题\n\n注：\n补丁是根据你本地系统依赖环境全自动处理是否需要补丁介入\n\n兼容性测试：\ndebian testing：功能全部正常\ndebian 12：功能全部正常\nubuntu 22.04：功能全部正常\ndeepin 23b3：功能全部正常\ndeepin 20.9：功能全部正常",
+    "Name": "WPS Office",
+    "Pkgname": "wps-office",
+    "Size": "377 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "wps-office_11.1.0.11719_plus_Mejituu-2024022119_loong64.deb.torrent",
+    "Update": "2024-03-29 18:09:22",
+    "Version": "11.1.0.11719+Mejituu-2024022119",
+    "Website": "http://wps-community.org",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/wps-office/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/wps-office/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/wps-office/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/wps-office/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/wps-office/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "liushaojie <liushaojie@cvte.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.seewo.easinote5_0.1.0-1.lnd.1_loong64.deb",
+    "More": "希沃白板是一款由希沃（seewo）自主研发，专为老师打造的互动教学平台。针对信息化教学场景，提供课件制作、互动授课、在线课堂、微课录制、课件资源库等多项功能，满足线上、线下教学的多个场景，让老师能一站式完成教学环节的主要流程。",
+    "Name": "希沃白板",
+    "Pkgname": "com.seewo.easinote5",
+    "Size": "95 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.seewo.easinote5_0.1.0-1.lnd.1_loong64.deb.torrent",
+    "Update": "2024-03-22 01:08:39",
+    "Version": "0.1.0-1.lnd.1",
+    "Website": "https://gitlab.gz.cvte.cn/enow/enow-electron",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/com.seewo.easinote5/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.seewo.easinote5/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.seewo.easinote5/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.seewo.easinote5/screen_3.png\"]"
+}
+
+,
+{
+    "Name": "office2013",
+    "Version": "15.0.0",
+    "Filename": "spark-office_15.0.0_all.deb",
+    "Torrent_address": "spark-office_15.0.0_all.deb.torrent",
+    "Pkgname": "spark-office",
+    "Author": "Microsoft",
+    "Contributor": "纳西妲的狗",
+    "Website": "https://www.microsoft.com/zh-cn",
+    "Update": "2024-02-07 10:41:08",
+    "Size": "1.32 GB",
+    "More": "三件套，自行激活\n启动稍慢，任务栏无图标，其余正常",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/351d3430-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3528a5e0-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3534dae0-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/353cca20-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3a7b6910-c561-11ee-9bdf-11b9ca480f15.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/07/41a201e0-c561-11ee-9bdf-11b9ca480f15.png"
+}
+,
+{
+    "Name": "金山PDF（wine）",
+    "Version": "11.6.0.8806deepin6",
+    "Filename": "com.wpspdf.spark_11.6.0.8806deepin6_all.deb",
+    "Torrent_address": "com.wpspdf.spark_11.6.0.8806deepin6_all.deb.torrent",
+    "Pkgname": "com.wpspdf.spark",
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.wpspdf.cn/",
+    "Update": "2023-05-17 15:24:36",
+    "Size": "371.85 MB",
+    "More": "金山PDF（wine）v11.6.0.8806 on Deepin-wine\n金山PDF是一款功能强大、操作简单的PDF编辑器。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/17/ef88b7969fab4cafa33f27ff4ef03d42.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/17/772a085b85054652b92247e2453f9b1e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/17/0ec4374c88684f25b9e9d2824c45e06f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/17/cfb99851b75d453ab260bf1d94cdee83.png"
+}
+,
+{
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.evernote.spark_7.2.6.8111spark4_all.deb",
+    "More": "随时随地获取、整理、分享笔记，让灵感时刻与你同行",
+    "Name": "印象笔记（wine）",
+    "Pkgname": "com.evernote.spark",
+    "Size": "201 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.evernote.spark_7.2.6.8111spark4_all.deb.torrent",
+    "Update": "2024-03-24 16:57:04",
+    "Version": "7.2.6.8111spark4",
+    "Website": "https://www.yinxiang.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/com.evernote.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.evernote.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.evernote.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.evernote.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "cn.wps.wps-office-pro_11.8.2.1132.AK.preload.sw.withsn_loong64.deb",
+    "More": "WPS Office 专业版\n支持宏，要激活、可以试用 180 天\n与普通版本的 WPS Office 不能同时安装",
+    "Name": "WPS Office 专业版",
+    "Pkgname": "cn.wps.wps-office-pro",
+    "Size": "543 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "cn.wps.wps-office-pro_11.8.2.1132.AK.preload.sw.withsn_loong64.deb.torrent",
+    "Update": "2024-05-01 09:32:45",
+    "Version": "11.8.2.1132.AK.preload.sw.withsn",
+    "Website": "http://wps-community.org",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/office/cn.wps.wps-office-pro/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/cn.wps.wps-office-pro/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/cn.wps.wps-office-pro/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/cn.wps.wps-office-pro/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/cn.wps.wps-office-pro/screen_4.png\"]"
+}
+
+,
+{
+    "Name": "千牛 (Wine)",
+    "Version": "9",
+    "Filename": "spark-alqn-wine_9_all.deb",
+    "Torrent_address": "spark-alqn-wine_9_all.deb.torrent",
+    "Pkgname": "spark-alqn-wine",
+    "Author": "阿里",
+    "Contributor": "1074536311",
+    "Website": "https://work.taobao.com/portal.html",
+    "Update": "2023-10-29 11:26:48",
+    "Size": "384.31 MB",
+    "More": "千牛",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/29/8e3543b0-760a-11ee-b2c1-47e2c45d7924.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/29/918b4c80-760a-11ee-b2c1-47e2c45d7924.png"
+}
+,
+{
+    "Name": "FlowUs",
+    "Version": "1.1.7spark3",
+    "Filename": "cn.flowus.spark_1.1.7spark3_all.deb",
+    "Torrent_address": "cn.flowus.spark_1.1.7spark3_all.deb.torrent",
+    "Pkgname": "cn.flowus.spark",
+    "Author": "云上绿洲（北京）科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://flowus.cn/product",
+    "Update": "2024-01-11 00:18:54",
+    "Size": "81.25 MB",
+    "More": "新一代知识管理与协作平台。\n\n--说明--\nUbuntu22.04下KDE桌面环境测试正常；Gnome桌面环境下可通过终端输入：\"/opt/apps/cn.flowus.spark/files/run.sh\" -u %u --no-sandbox 命令来启动",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/11/64af2a6354c947b0ac1143450c01a463.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/11/32947d39a4b34816ae28f33bf1cb1103.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/11/262916dd544f45389321b108aea1dc7e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/11/26edfbd9ad9c423381760c1157da6301.png"
+}
+,
+{
+    "Name": "浙政钉（wine）",
+    "Version": "2.15.0-Release.4spark1",
+    "Filename": "com.dingtalkzjgov.deepin_2.15.0-Release.4spark1_all.deb",
+    "Torrent_address": "com.dingtalkzjgov.deepin_2.15.0-Release.4spark1_all.deb.torrent",
+    "Pkgname": "com.dingtalkzjgov.deepin",
+    "Author": "shenmo",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://pjep.cn/kaifa/188.html",
+    "Update": "2023-08-16 14:13:47",
+    "Size": "267.42 MB",
+    "More": "基于deepin-wine6的浙政钉PC端安装包，按照deepin的官方打包方式完成，deepinV20社区版测试通过。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/16/c77837b3f7de4b99b691efccfc2fbe50.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/16/dd3a0afacdc94331b02994a9e5723245.png"
+}
+,
+{
+    "Author": "Zhang Bin <zhangbin@gmail.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "cajviewer_1.1.0-7_loong64.deb",
+    "More": "中国知网",
+    "Name": "cajviewer",
+    "Pkgname": "cajviewer",
+    "Size": "63 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "cajviewer_1.1.0-7_loong64.deb.torrent",
+    "Update": "2024-03-24 16:05:23",
+    "Version": "1.1.0-7",
+    "Website": "https://cajviewer.cnki.net",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/cajviewer/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/cajviewer/screen_1.png\"]"
+}
+
+,
+{
+    "Name": "Joplin",
+    "Version": "2.9.17",
+    "Filename": "org.joplin.spark_2.9.17_all.deb",
+    "Torrent_address": "org.joplin.spark_2.9.17_all.deb.torrent",
+    "Pkgname": "org.joplin.spark",
+    "Author": "spark-store",
+    "Contributor": "fyljp <fyljpeng@gmail.com>",
+    "Website": "https://joplinapp.org/",
+    "Update": "2023-02-02 01:18:16",
+    "Size": "219.83 MB",
+    "More": "一个具有同步能力的开源笔记和待办事项应用程序，兼容 Windows、macOS、Linux、Android 和 iOS。",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/74abfbf3bd2f486fbba03c2183fc4d51.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/8807954e5f81442082b53356ac03a5f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/01819b12067b434391ed237a2261a189.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/0d95a0d2bfb141afa38778f4376fffc3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/02/18c553a6414243fcb0c8015002f8752b.png"
+}
+,
+{
+    "Name": "幕布（wine）",
+    "Version": "3.7.3spark3",
+    "Filename": "com.mubu.spark_3.7.3spark3_all.deb",
+    "Torrent_address": "com.mubu.spark_3.7.3spark3_all.deb.torrent",
+    "Pkgname": "com.mubu.spark",
+    "Author": "北京坤豆科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://mubu.com/",
+    "Update": "2024-01-10 23:39:15",
+    "Size": "83.75 MB",
+    "More": "幕布，不只是大纲笔记，更是一种思考方式\n\n说明：\n修复了GNOME环境下无法启动的问题",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/10/a9ffb19f98074dc8b4568d6148ecf298.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/10/fe983387849a4d938b9d802bb4b18fac.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/10/504685f399f445deb35e56525b8e65ba.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/10/e10af2e355d045b5b7658548d8f7e761.png"
+}
+,
+{
+    "Author": "quantum6 <liukp@ts-it.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "cn.ts-it.suite_5.1.0.487_loong64.deb",
+    "More": "（推荐用 WPS Office）\n泰山办公2022是一款由泰山信息科技自主开发、拥有自主知识产权的办公软件。整个软件产品包括五个应用，分别为文字、表格、放映、PDF、OFD。产品针对市场对办公软件新的需求，使用了Java作为开发语言，采用了全新的数据结构，彻底解决了无障碍跨平台的技术难题，能够在Windows、Linux等不同的平台上运行，尤其对国产主流的Linux系统的适配尤为出色。\n泰山Suite 不仅提供了一些常用功能，如形状、剪贴画、图表等，还扩展了同类Ofice的功能应用，开发了很多实用的功能。其中表格应用在金融方面的使用尤其突出，包括财务函数，强大的图表功能，甚至是专业的数据处理功能，包括模拟运算表，分类汇总，数据分析等。泰山办公2022功能完备，适用性强，不仅可以满足一般用户的办公需求，还提供了丰富的二次开发接口和插件机制，完全可以满足不同行业的专业级用户需求。",
+    "Name": "泰山办公2022专业版",
+    "Pkgname": "cn.ts-it.suite",
+    "Size": "417 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "cn.ts-it.suite_5.1.0.487_loong64.deb.torrent",
+    "Update": "2024-03-23 12:37:41",
+    "Version": "5.1.0.487",
+    "Website": "www.ts-it.cn",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/cn.ts-it.suite/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/cn.ts-it.suite/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd xi <3025613752@qq.com>",
+    "Filename": "spark.microsoft.excel_1.2_all.deb",
+    "More": "使用deepin-wine6打包的Microsoft Office Excel 2007 Professional",
+    "Name": "Microsoft Office Excel 2007 Professional（wine）",
+    "Pkgname": "spark.microsoft.excel",
+    "Size": "929 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "spark.microsoft.excel_1.2_all.deb.torrent",
+    "Update": "2024-05-01 21:48:14",
+    "Version": "1.2",
+    "Website": "https://www.microsoft.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/office/spark.microsoft.excel/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/spark.microsoft.excel/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/spark.microsoft.excel/screen_2.png\"]"
+}
+
+,
+{
+    "Name": "PDFsam Basic",
+    "Version": "5.2.0-1",
+    "Filename": "pdfsam-basic_5.2.0-1_all.deb",
+    "Torrent_address": "pdfsam-basic_5.2.0-1_all.deb.torrent",
+    "Pkgname": "pdfsam-basic",
+    "Author": "Andrea Vacondio",
+    "Contributor": "sgb76",
+    "Website": "https://pdfsam.org",
+    "Update": "2023-11-07 11:37:13",
+    "Size": "82.58 MB",
+    "More": "PDFsam Basic是一款用来分割、合并、旋转、混合以及从PDF文件中提取页面的pdf工具软件，免费而且开源",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/4d116650b3a34d50a2f7a33e8dd41479.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/a327e6c7c7b549328f1e0da8e713aef0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/39b2e53f7e5d431c95ef4c95a92a38c0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/59ea48faaae04c7a9ad37d977d395a1c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/07/631f465473f1472fbb934eb7ed709f8c.png"
+}
+,
+{
+    "Name": "NoteExpress",
+    "Version": "3.9.0.9640spark2",
+    "Filename": "com.noteexpress.spark_3.9.0.9640spark2_all.deb",
+    "Torrent_address": "com.noteexpress.spark_3.9.0.9640spark2_all.deb.torrent",
+    "Pkgname": "com.noteexpress.spark",
+    "Author": "北京爱琴海乐之技术有限公司",
+    "Contributor": "sgb76",
+    "Website": "http://www.inoteexpress.com/aegean/",
+    "Update": "2023-11-12 01:00:19",
+    "Size": "327.9 MB",
+    "More": "一款优秀的国产参考文献管理工具。由于是wine版本，虽然测试过程中尚未发现明显的问题，但不保证所有功能都能正常使用，仅供尝鲜试用。\n\n提示：软件在deepin下点击运行，初始过程稍长，请耐心等待。初次启动会重新配置容器，可能出现无法正常启动的问题，再次启动就正常了。Ubuntu22.04下启动过程较快；应用内某些功能模块点击后加载时间较长，如新建笔记、选项等，请耐心等待，加载后使用还是比较流畅的。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/12/dbd1fb1d763949f1bb0f9560859863a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/12/627abbb30b754e6e91836edd443ad688.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/12/26e6c49b2ee04ed092477d95a8fea798.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/12/7e6018c5f5d84a998f178e86608fc4ee.png"
+}
+,
+{
+    "Author": "QSLS",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.deepin.cajv_7.2.0spark4_all.deb",
+    "More": "可阅读中国知网的文献",
+    "Name": "CAJViewer(wine)",
+    "Pkgname": "com.deepin.cajv",
+    "Size": "68 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.deepin.cajv_7.2.0spark4_all.deb.torrent",
+    "Update": "2024-03-23 22:23:15",
+    "Version": "7.2.0spark4",
+    "Website": "https://www.cnki.net/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/com.deepin.cajv/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.deepin.cajv/screen_1.png\"]"
+}
+
+,
+{
+    "Name": "橙瓜码字",
+    "Version": "3.0.8spark3",
+    "Filename": "com.chenggua.mz.spark_3.0.8spark3_all.deb",
+    "Torrent_address": "com.chenggua.mz.spark_3.0.8spark3_all.deb.torrent",
+    "Pkgname": "com.chenggua.mz.spark",
+    "Author": "杭州富文网络科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://mz.chenggua.com/",
+    "Update": "2024-01-11 23:48:54",
+    "Size": "99.56 MB",
+    "More": "橙瓜码字是一款颜值与功能并存的码字软件，支持 Windows / Mac OS / iOS / Android 系统，电脑、手机多端同步,支持多端覆盖存储、数据统计、实时计算码字速度和每天码字记录、设定稿费标准进行稿费计算等功能；取名助手可以帮助随机生成人名、地名、武器、功法等名字；小黑屋功能以及敏感词检测功能；时光机功能，每章有十个云端备份以及一个本地备份，不担心丢稿。设计界面上支持自定义背景皮肤，护眼模式让人码字眼睛不再疲劳，极具人性化体验。导入导出功能支持多种文本的导入和导出，方便用户对文件进行转换存储。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/11/45ba89b960294ea4b7e937dd024ac0d1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/11/7c8ed0c805af4ea988ae29e599b2fe95.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/11/54f835cf0c65493d957fbda180d5d7b7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/11/47c72461f7074fe7a7f12a3329629b6e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/11/86fddc1b31514571826094ee7f33d907.png"
+}
+,
+{
+    "Name": "dedit链接",
+    "Version": "1.0",
+    "Filename": "tech.shenmo.dedit_1.0_all.deb",
+    "Torrent_address": "tech.shenmo.dedit_1.0_all.deb.torrent",
+    "Pkgname": "tech.shenmo.dedit",
+    "Author": "spark-store",
+    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
+    "Website": "https://shenmo7192.gitee.io/",
+    "Update": "2022-10-11 23:31:42",
+    "Size": "1.96 MB",
+    "More": "嗯，新版的deepin-editor无法通过dedit启动\n\n直接创建dedit的链接又会出现国际化失效\n\n于是制作了这个dedit包，单纯是可以在启动dedit时启动deepin-editor",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/11/6fd24e77-04df-4a70-a0a0-51c1c9de063e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/11/33638492-81d1-49b6-b115-4cef5f99536e.png"
+}
+,
+{
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd-xi <3025613752@qq.com>",
+    "Filename": "spark-microsoft-word_1.2_all.deb",
+    "More": "一个使用 deepin-wine6 stable 打包的 Microsoft Office Word 2007程序\n更新内容：\n1、添加 AxMath\n2、使用 deepin wine6 stable\n3、使用星火 wine helper",
+    "Name": "Microsoft Office Word 2007（wine）",
+    "Pkgname": "spark-microsoft-word",
+    "Size": "744 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "spark-microsoft-word_1.2_all.deb.torrent",
+    "Update": "2024-05-02 09:21:47",
+    "Version": "1.2",
+    "Website": "http://www.microsoft.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/office/spark-microsoft-word/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/spark-microsoft-word/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/spark-microsoft-word/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/spark-microsoft-word/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/spark-microsoft-word/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/spark-microsoft-word/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd-xi <3025613752@qq.com>",
+    "Filename": "spark-microsoft-visio_1.2_all.deb",
+    "More": "一个使用 deepin-wine6 打包的 Microsoft Office Visio\n更新内容：\n1、更换为 deepin wine 6 stable 和 spark dwine helper\n2、支持卸载后自动删除容器\n3、修复输入激活码不会正常激活的问题",
+    "Name": "Microsoft Office Visio 2007",
+    "Pkgname": "spark-microsoft-visio",
+    "Size": "611 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "spark-microsoft-visio_1.2_all.deb.torrent",
+    "Update": "2024-05-02 09:16:14",
+    "Version": "1.2",
+    "Website": "https://www.microsoft.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/office/spark-microsoft-visio/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/spark-microsoft-visio/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/spark-microsoft-visio/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "gfdgd xi<3025613752@qq.com>",
+    "Contributor": "gfdgd xi<3025613752@qq.com>",
+    "Filename": "spark-microsoft-powerpoint_1.2_all.deb",
+    "More": "使用 deepin-wine6 打包的 Microsoft Office PowerPoint 2007\n更新内容：\n1、更换为 deepin wine 6、spark dwine helper\n2、支持卸载后自动删除容器\n3、更规范的打包",
+    "Name": "Microsoft Office PowerPoint 2007(wine)",
+    "Pkgname": "spark-microsoft-powerpoint",
+    "Size": "1006 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "spark-microsoft-powerpoint_1.2_all.deb.torrent",
+    "Update": "2024-05-01 21:33:10",
+    "Version": "1.2",
+    "Website": "https://www.microsoft.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/office/spark-microsoft-powerpoint/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/spark-microsoft-powerpoint/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/spark-microsoft-powerpoint/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd-xi <3025613752@qq.com>",
+    "Filename": "com.microsoft.access.deepin_2007spark3_all.deb",
+    "More": "MIcrosoft Office Access 2007 Professional（Wine）",
+    "Name": "MIcrosoft Office Access 2007 Professional Plus（Wine）",
+    "Pkgname": "com.microsoft.access.deepin",
+    "Size": "882 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.microsoft.access.deepin_2007spark3_all.deb.torrent",
+    "Update": "2024-05-02 09:23:17",
+    "Version": "2007spark3",
+    "Website": "www.microsoft.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/office/com.microsoft.access.deepin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/com.microsoft.access.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/com.microsoft.access.deepin/screen_2.png\"]"
+}
+
+,
+{
+    "Name": "GitMind",
+    "Version": "23.12.14spark0",
+    "Filename": "cn.gitmind.spark_23.12.14spark0_all.deb",
+    "Torrent_address": "cn.gitmind.spark_23.12.14spark0_all.deb.torrent",
+    "Pkgname": "cn.gitmind.spark",
+    "Author": "GitMind",
+    "Contributor": "sgb76",
+    "Website": "https://gitmind.cn/",
+    "Update": "2023-12-26 18:14:48",
+    "Size": "68.77 MB",
+    "More": "新一代思维导图协作软件，灵感流淌、思想共创，激发思想流动，让智慧自然涌现",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/26/601c39880c544d199decec2fa686dc8a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/26/514f18599b3d41c489f70ddeecb8a068.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/26/61bd7e60b2f5484d9b2cb238719e7ab0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/26/1e32c86926f342dd8308affddca99198.png"
+}
+,
+{
+    "Name": "Todo清单",
+    "Version": "3.6.1spark2",
+    "Filename": "cn.evestudio.todo.spark_3.6.1spark2_all.deb",
+    "Torrent_address": "cn.evestudio.todo.spark_3.6.1spark2_all.deb.torrent",
+    "Pkgname": "cn.evestudio.todo.spark",
+    "Author": "乾夕科技",
+    "Contributor": "sgb76",
+    "Website": "https://todo.evestudio.cn/",
+    "Update": "2024-01-11 00:47:38",
+    "Size": "90.13 MB",
+    "More": "一款跨平台待办事项与时间管理应用，成为时间掌控者。\n基于Ivy Lee时间管理法量身打造，完美融入全球知名的Pomodoro番茄工作法，搭配强大的数据复盘系统，为学习、工作和生活，带来翻天覆地的全新改变。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/11/bd5ee448d8bf432d8e74a391e54735f8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/11/4931c6e00dc34217830b23a1bf2c96ce.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/11/fd8bdf820e8d4836b432e57dfd7f03cf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/11/893d5edfb2af40a085d9935e83d58c9c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/11/1b58be02ae6a428c8c6f97729fa1b129.png"
+}
+,
+{
+    "Name": "白杉树背单词训练软件",
+    "Version": "2.1.1",
+    "Filename": "bssenglish_2.1.1_all.deb",
+    "Torrent_address": "bssenglish_2.1.1_all.deb.torrent",
+    "Pkgname": "bssenglish",
+    "Author": "Bail <2915289604@qq.com>",
+    "Contributor": "Bail <2915289604@qq.com>",
+    "Website": "https://BailPlus.github.io/bssenglish.pages/",
+    "Update": "2023-08-16 22:55:07",
+    "Size": "25.18 KB",
+    "More": "帮助你更快速、更牢固地记忆单词",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/16/c4936220-3c44-11ee-a552-55bad39b105e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/16/c5eb5100-3c44-11ee-a552-55bad39b105e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/16/c71a0d00-3c44-11ee-a552-55bad39b105e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/16/c8781660-3c44-11ee-a552-55bad39b105e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/16/c38351b0-3c44-11ee-a552-55bad39b105e.png"
+}
+,
+{
+    "Name": "Zim 桌面维基",
+    "Version": "0.74.3",
+    "Filename": "zim_0.74.3_all.deb",
+    "Pkgname": "zim",
+    "Author": "zim-wiki 团队",
+    "Contributor": "sgb76",
+    "Website": "https://zim-wiki.org/",
+    "Update": "2022-01-14 15:37:50",
+    "Size": "1.14 MB",
+    "More": "Zim是一款用于维护Wiki页面集合的图形文本编辑器。",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/14/cb409f30-750c-11ec-a057-132876d57f17.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/14/cd735db0-750c-11ec-a057-132876d57f17.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/01/14/bcc75480-750c-11ec-a057-132876d57f17.png"
+}
+,
+{
+    "Name": "WizNote Lite",
+    "Version": "2.1.1",
+    "Filename": "wiznotelite.spark_2.1.1_all.deb",
+    "Pkgname": "wiznotelite.spark",
+    "Author": "WizTeam",
+    "Contributor": "jerrywang; OkayPJ",
+    "Website": "https://www.wiz.cn/zh-cn/wiznote-lite",
+    "Update": "2021-06-07 17:07:48",
+    "Size": "111.53 MB",
+    "More": "实时预览 Markdown 编辑器\n\n聚焦于输入，让写作与思考不受干扰",
+    "Tags": "community;ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/876dcf30-c76f-11eb-a635-71e04c3946d8.svg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/895c7fd0-c76f-11eb-a635-71e04c3946d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/8b5e1c30-c76f-11eb-a635-71e04c3946d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/8e383e40-c76f-11eb-a635-71e04c3946d8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/07/81a58de0-c76f-11eb-a635-71e04c3946d8.png"
+}
+,
+{
+    "Name": "ULauncher",
+    "Version": "5.15.4",
+    "Filename": "ulauncher_5.15.4_all.deb",
+    "Torrent_address": "ulauncher_5.15.4_all.deb.torrent",
+    "Pkgname": "ulauncher",
+    "Author": "Aleksandr Gornostal <ulauncher.app@gmail.com>",
+    "Contributor": "gfdgd-xi <3025613752@qq.com>",
+    "Website": "https://ulauncher.io/",
+    "Update": "2023-10-17 22:06:37",
+    "Size": "1.77 MB",
+    "More": "ULauncher是一个快速搜索软件，支持应用和文件搜索，支持添加搜索引擎在线搜索，支持快捷键呼出。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/17/bdb6f6ea97c849558018b5e455e428e5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/17/62cd490ae6cf4edda437cca3ba97081d.png"
+}
+,
+{
+    "Name": "文华财经软件通用版(wine)",
+    "Version": "6.0.0",
+    "Filename": "spark.mytrader.wine_6.0.0_all.deb",
+    "Torrent_address": "spark.mytrader.wine_6.0.0_all.deb.torrent",
+    "Pkgname": "spark.mytrader.wine",
+    "Author": "LFRon",
+    "Contributor": "LFRon",
+    "Website": "https://wh6.wenhua.com.cn/",
+    "Update": "2023-11-17 19:54:05",
+    "Size": "343.02 MB",
+    "More": "文华财经分析软件,使用spark-wine8运行\n\n已知问题:1.部分地方UI错位\n2.部分地方字体比较奇怪\n3.Deepin-v23无法直接安装,需要使用wine运行器解压deb包里的wine容器到其他目录,然后手动下载spark-wine8最新版运行本程序",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/17/8c6cc67b2c2443e4b28d30b83afe264e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/17/3b007ee4806b40bbac5e71bb8d9b3d7b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/17/d3da564ed7c747d18bd919505310f5d5.png"
+}
+,
+{
+    "Name": "office 2010",
+    "Version": "14.0.0",
+    "Filename": "spark-deepin-office14_14.0.0_all.deb",
+    "Torrent_address": "spark-deepin-office14_14.0.0_all.deb.torrent",
+    "Pkgname": "spark-deepin-office14",
+    "Author": "Microsoft",
+    "Contributor": "cxk",
+    "Website": "https://www.microsoft.com/zh-cn",
+    "Update": "2023-10-05 18:35:24",
+    "Size": "1.16 GB",
+    "More": "包含word、excel、powerpoint三套件",
+    "Tags": "deepin;uos;dwine5;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/d927c710-636a-11ee-b2e5-dfc8faebc0c5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/dd179ee0-636a-11ee-b2e5-dfc8faebc0c5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/dd1b2150-636a-11ee-b2e5-dfc8faebc0c5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/dd1f8e20-636a-11ee-b2e5-dfc8faebc0c5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/05/d2b0f640-636a-11ee-b2e5-dfc8faebc0c5.png"
+}
+,
+{
+   "Name":"RedNotebook",
+   "Version":"2.20",
+   "Filename":"rednotebook_2.20-0_202008022312_ubuntu20.04.1_all.deb",
+   "Pkgname":"rednotebook",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://rednotebook.sourceforge.io/index.html",
+   "Update":"2020-08-08 22:04",
+   "Size":"384.11KB",
+   "More":"RedNotebookj是一款桌面日记和日志软件，它支持Linux、Windows、Mac OS X等平台，它允许你格式化、标记和搜索条目。还可以添加图片、链接和自定义的模板，拼写检查笔记，以及导出为纯文本、HTML、Latex或PDF。"
+}
+
+,
+{
+   "Name":"OneDrive Client for Linux",
+   "Version":"2.4.3",
+   "Filename":"onedrive_2.4.3_all.deb",
+   "Pkgname":"onedrive",
+   "Author":"abraunegg",
+   "Contributor":"jalawov",
+   "Website":"https://github.com/abraunegg/onedrive",
+   "Update":"2020-07-07 17:58",
+   "Size":"4.54MB",
+   "More":"onedrive 的命令行客户端 支持business版和office365版，支持世纪互联（zg特色）版"
+}
+
+,
+{
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "ofdview_1.0_all.deb",
+    "More": "好用的本地网页版OFD预览器",
+    "Name": "OFDView预览器(本地网页版)",
+    "Pkgname": "ofdview",
+    "Size": "22 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "ofdview_1.0_all.deb.torrent",
+    "Update": "2024-04-07 22:09:38",
+    "Version": "1.0",
+    "Website": "http://www.cnofd.cn/home.html",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/ofdview/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/ofdview/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/ofdview/screen_2.png\"]"
+}
+
+,
+{
+    "Name": "金舟PDF编辑器",
+    "Version": "4.0.3spark0",
+    "Filename": "net.jinzhousoft.jzpdfeditor.spark_4.0.3spark0_all.deb",
+    "Torrent_address": "net.jinzhousoft.jzpdfeditor.spark_4.0.3spark0_all.deb.torrent",
+    "Pkgname": "net.jinzhousoft.jzpdfeditor.spark",
+    "Author": "江下信息科技（惠州）有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.callmysoft.com/pdfbianji",
+    "Update": "2023-10-03 22:52:02",
+    "Size": "61.78 MB",
+    "More": "一款全能PDF编辑器，轻松编辑PDF中的任意内容，支持PDF编辑、添加或去除水印、拆分合并、加批注等功能，给你带来全新的工作体验！",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/03/75403de9aea640a6ba090918055b3111.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/03/30bd0bdcddbc4371aaa9b2624c6cb9c7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/03/80fd4161cac74bcea4cfa5acb19994ba.png"
+}
+,
+{
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "net.haoxg.ediary.spark_4.2.4spark4_all.deb",
+    "More": "eDiary的作用不仅仅在于写日记，您也可以用它来记流水帐、写工作日志， 记录学习心得，或者用它来管理你的日常文档。eDiary以时间为主线，以文 字为载体，记录你的心路历程。\n\n软件特点:\n界面简单清新，支持皮肤切换；\n严格的数据加密机制，充分保护用户隐私；\n强大的编辑功能，编辑器体验和 Word 一致；\n支持日记模板功能，并预置常用模板；\n简单合理的文档管理功能，为您梳理日常信息；\n每个日记本对应一个单独的数据文件，干净简单；\n支持 Markdown、双链、代码块；\n支持多端数据云同步。",
+    "Name": "eDiary",
+    "Pkgname": "net.haoxg.ediary.spark",
+    "Size": "23 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "net.haoxg.ediary.spark_4.2.4spark4_all.deb.torrent",
+    "Update": "2023-12-14 14:37:35",
+    "Version": "4.2.4spark4",
+    "Website": "http://www.haoxg.net/index.html",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/net.haoxg.ediary.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/net.haoxg.ediary.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/net.haoxg.ediary.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/net.haoxg.ediary.spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/net.haoxg.ediary.spark/screen_4.png\"]"
+}
+
+,
+{
+    "Name": "Mind Flash",
+    "Version": "1.0.5",
+    "Filename": "mind-flash_1.0.5_all.deb",
+    "Pkgname": "mind-flash",
+    "Author": "iamhyc",
+    "Contributor": "iamhyc",
+    "Website": "https://github.com/iamhyc/mind-flash",
+    "Update": "2020-11-18 07:04:26",
+    "Size": "98.54 KB",
+    "More": "Mind Flash，一个使用PyQt5开发的个人信息管理工具，按照时间流记录和展示您收集的 文本/截图/链接/文件 内容 （支持基础Markdown语法）。",
+    "Tags": "community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/18/f884bbe0-296b-11eb-a091-bb9e5e9193fc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/18/e3f33b20-296b-11eb-a091-bb9e5e9193fc.png"
+}
+,
+{
+    "Name": "LyX 排版软件编写的实用表格和文档样例(包含lyx,pdf)",
+    "Version": "2.2.2-6",
+    "Filename": "lyx-examples-zh-cn-careone_2.2.2-6_all.deb",
+    "Torrent_address": "lyx-examples-zh-cn-careone_2.2.2-6_all.deb.torrent",
+    "Pkgname": "lyx-examples-zh-cn-careone",
+    "Author": "Careone <emacslocale@126.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://sourceforge.net/projects/emacslocale/files/lyx-tex/",
+    "Update": "2023-06-03 07:41:35",
+    "Size": "137.29 KB",
+    "More": "本软件包包含 Lyx 文档处理程序的 4 个简体中文模板，以及一些其它的 LyX/pdf\n 样例文件。后续会继续更新、添加一些其它实用文档样例。敬请期待！\n  * 1 1001-xueXiao-学校/1001-keChengBiao-高一课程表-v02 (lyx, pdf)\n  * 2 2001-qiuZhi-求职登记表/2001-qiuZhi-求职登记表-073103v03 (lyx, pdf)\n  * 3 2001-qiuZhi-求职登记表/2002-qiuZhi-求职登记表-075503v03 (lyx, pdf)\n  * ------\n .\n 使用技巧: 在终端或者命令行模式下，\n  * 运行命令 lyx-careone-dir, 可以直接在文件管理器中，打开样例目录\n .\n /usr/share/lyx/examples/zh-中文实用表格和文档/careone/\n  * 也可以运行带选项的命令 lyx-careone-dir -list, 这样可以在终端中查看样例\n 文件列表 (包含 lyx, pdf 两种格式)\n  * ------\n  * 推荐安装的软件包：在 Debian, Ubuntu, Deepin, UOS 等 Linux 操作系统下，\n 强烈建议先安装软件包 texlive-base 或者 完整版的 texlive-full\n .\n (安装命令: sudo apt-get install texlive-base texlive-full )",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/0d4cfd8c8aaf438f821a7f440564019c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/c6b9d4f241d64c79b7e407420639625f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/93be605d5deb4969876ba6a5bb4c71b1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/6999c5758a604d588bfd5b43bee673c6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/03/49bba88f5686402d9e9890bc7d656960.png"
+}
+,
+{
+    "Name": "Freeplane",
+    "Version": "1.11.11~upstream-1",
+    "Filename": "freeplane_1.11.11~upstream-1_all.deb",
+    "Torrent_address": "freeplane_1.11.11~upstream-1_all.deb.torrent",
+    "Pkgname": "freeplane",
+    "Author": "Freeplane",
+    "Contributor": "OkayPJ",
+    "Website": "https://www.freeplane.org/",
+    "Update": "2024-03-10 10:17:09",
+    "Size": "60.25 MB",
+    "More": "Freeplane is a free and open source software application that supports thinking, sharing information, getting things done at work, in school and at home. It provides you a set of tools for mind mapping (also known as concept mapping or information mapping) and navigating the mapped information. Freeplane is also a more robust and superuser alternative to Xmind, Mindmeister, and similar mind mapping software.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/e1674e70-de83-11ee-9ef9-db09acd1df95.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/e1711270-de83-11ee-9ef9-db09acd1df95.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/e16dde20-de83-11ee-9ef9-db09acd1df95.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/e172e730-de83-11ee-9ef9-db09acd1df95.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/10/de160090-de83-11ee-9ef9-db09acd1df95.png"
+}
+,
+{
+    "Name": "動畫模擬教學_PhET",
+    "Version": "202112",
+    "Filename": "ezgo-phet_202112_all.deb",
+    "Torrent_address": "ezgo-phet_202112_all.deb.torrent",
+    "Pkgname": "ezgo-phet",
+    "Author": "Franklin Weng",
+    "Contributor": "QQ482961502@gmail.com",
+    "Website": "http://ezgo.westart.tw/",
+    "Update": "2022-06-30 19:16:40",
+    "Size": "135.3 MB",
+    "More": "PhET動畫模擬教學集成了大量java和html5动画，让你在计算机上也能体验实验室的感觉\n\ndeepin需要手动打开jar文件。方法如下图",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/30/0e014680-f866-11ec-b2f0-21c04091535e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/30/0ff09360-f866-11ec-b2f0-21c04091535e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/30/1216cec0-f866-11ec-b2f0-21c04091535e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/30/13e35160-f866-11ec-b2f0-21c04091535e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/30/d50cbd50-f865-11ec-b2f0-21c04091535e.png"
+}
+,
+{
+    "Name": "语雀",
+    "Version": "3.2.2.1107spark14",
+    "Filename": "com.yuque.spark_3.2.2.1107spark14_all.deb",
+    "Torrent_address": "com.yuque.spark_3.2.2.1107spark14_all.deb.torrent",
+    "Pkgname": "com.yuque.spark",
+    "Author": "阿里巴巴",
+    "Contributor": "sgb76",
+    "Website": "https://www.yuque.com/",
+    "Update": "2023-10-25 00:58:41",
+    "Size": "94.46 MB",
+    "More": "新一代云端知识库，用于个人笔记与知识创作，团队协同与知识沉淀\n\n--已知问题--\n导出为其他格式文档的功能似乎无效",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/25/e04c6990807f4260b7994728d288e4c4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/25/71b2dd1531444c76a26e83380f3efd07.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/25/6d6fc952f2584e3aa15b1e60941cda24.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/25/e24546ce46a34c69aa31cca345212adf.png"
+}
+,
+{
+    "Author": "User Support Services <support@yozosoft.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.yozosoft.yozo-office_9.0.3988.161ZH.S1_loong64.deb",
+    "More": "一个 Linux 上的办公软件",
+    "Name": "永中 Office(Linux)",
+    "Pkgname": "com.yozosoft.yozo-office",
+    "Size": "423 Mb",
+    "Tags": "deepin;ubuntu",
+    "Torrent_address": "com.yozosoft.yozo-office_9.0.3988.161ZH.S1_loong64.deb.torrent",
+    "Update": "2024-05-18 20:43:17",
+    "Version": "9.0.3988.161ZH.S1",
+    "Website": "http://www.yozosoft.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/office/com.yozosoft.yozo-office/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/com.yozosoft.yozo-office/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/com.yozosoft.yozo-office/screen_2.png\"]"
+}
+
+,
+{
+   "Name":"TickTick",
+   "Version":"1.0",
+   "Filename":"com.ticktick.nonofficial_1.0_all.deb",
+   "Pkgname":"com.ticktick.nonofficial",
+   "Author":" ",
+   "Contributor":"一只科技菌",
+   "Website":" ",
+   "Update":"2020-08-08 10:04",
+   "Size":"44.30MB",
+   "More":"TickTick（滴答清单国际版）"
+}
+
+,
+{
+    "Name": "思记",
+    "Version": "1.7.2spark4",
+    "Filename": "com.seedsnote.spark_1.7.2spark4_all.deb",
+    "Torrent_address": "com.seedsnote.spark_1.7.2spark4_all.deb.torrent",
+    "Pkgname": "com.seedsnote.spark",
+    "Author": "上海犀知科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://seedsnote.com/",
+    "Update": "2023-10-23 21:44:28",
+    "Size": "96.61 MB",
+    "More": "思记由你，关联有AI\n--思考记录，由你：自由记录，不再纠结分类与排版；优雅双链，灵感既不跑丢，也不沉没；全平台覆盖，微信快速收集灵感；专属API，丰富第三方插件助力思考\n--整理关联，有AI：即时回顾，让你温故知新；自动整合，整理散落各处的待办、图片和链接；主动关联，发现信息关联，助你全局思考\n\n注：Ubuntu22.04下经测试通过启动器启动会弹出JavaScript错误窗口，但从终端输入命令：\"/opt/apps/com.seedsnote.spark/files/run.sh\" -u %u --no-sandbox可以正常启动；KDE桌面环境下应该可以通过启动器正常启动",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/23/8c016aeec9784c85b6a2cd11d095f3aa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/23/70bda6efc36c42bea56ceea81019d5e1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/23/a4342f230d874c439351cf0faa88b1b7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/23/c9dc121c91d944d496c4458c3e0d35aa.png"
+}
+,
+{
+    "Author": "shenmo",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.sbfglkhd.spark_1.0.091_all.deb",
+    "More": "社保费管理客户端(金税三期)",
+    "Name": "社保费管理客户端(金税三期)",
+    "Pkgname": "com.sbfglkhd.spark",
+    "Size": "239 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.sbfglkhd.spark_1.0.091_all.deb.torrent",
+    "Update": "2023-12-28 20:03:43",
+    "Version": "1.0.091",
+    "Website": "",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/com.sbfglkhd.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.sbfglkhd.spark/screen_1.png\"]"
+}
+
+,
+{
+    "Name": "Microsoft Office 2003（Wine）",
+    "Version": "2003spark0",
+    "Filename": "com.microsoft2003.installer.spark_2003spark0_all.deb",
+    "Torrent_address": "com.microsoft2003.installer.spark_2003spark0_all.deb.torrent",
+    "Pkgname": "com.microsoft2003.installer.spark",
+    "Author": "gfdgd xi<3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http;//www.microsoft.com",
+    "Update": "2023-05-21 15:40:55",
+    "Size": "732.8 MB",
+    "More": "Wine 的 Microsof Office 2003\n因为不能提供激活的 Wine 版本（安装程序强制规定要输入秘钥了），所以这个 deb 包只提供了 Office 2003 的安装程序和对应组件的 .desktop 启动方式，安装该 deb 后需要在启动器里找到 Office 2003 安装程序/修复程序来安装 Office 2003\n安装后即可正常调用其它的 .desktop 启动 Office 2003",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/531fdf2f039a4b84bba7df0b34329dc9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/9df63a12fb9b4e45b062a0c7a7d37cd9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/58ca178bcd0a4d2e8382bec362ecc33d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/ac2ba1f13a1f42dfa1cf75265750393d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/8e06166ca7c04577bc03884ada78f224.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/21/12abe95a7e4e40c2b0e1a0fabaf5cc4a.png"
+}
+,
+{
+    "Name": "抖店工作站(wine)",
+    "Version": "0.11.6",
+    "Filename": "com.doudian.workstation.spark_0.11.6_all.deb",
+    "Torrent_address": "com.doudian.workstation.spark_0.11.6_all.deb.torrent",
+    "Pkgname": "com.doudian.workstation.spark",
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "http://im.jinritemai.com/",
+    "Update": "2023-04-27 22:10:05",
+    "Size": "474.58 MB",
+    "More": "抖电工作站 wine8",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/96d42e95370f474fbd1ea35a2760a565.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/27/695781b1030448779e3a3ce1e1e51929.png"
+}
+,
+{
+    "Name": "稻壳阅读器（Wine）",
+    "Version": "2.2.21spark0",
+    "Filename": "com.docbox.spark_2.2.21spark0_all.deb",
+    "Torrent_address": "com.docbox.spark_2.2.21spark0_all.deb.torrent",
+    "Pkgname": "com.docbox.spark",
+    "Author": "稻壳阅读器",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://www.daokeyuedu.com/",
+    "Update": "2024-01-21 15:34:44",
+    "Size": "24.44 MB",
+    "More": "稻壳阅读是一款可访问海量文档资源的极速云阅读器\n它界面简洁、办公高效，让您阅读更加专注 \n暂不支持网页浏览功能（不然太大了）",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/5c2f33d74069430c91f2fa89b8aacc64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/48a877bb6bfa486aa4ca01aaea41916a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/e89c98d38e6f464d8b1bb33fd04b1501.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/21/cf30b76596e745aaafbf3f347a413e12.png"
+}
+,
+{
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.classin_5.0.5.2_all.deb",
+    "More": "ClassIn是全球首款从教育场景出发构建的在线教室产品,由翼鸥教育研发,还原线下面对面互动式教学。教育机构可以依托ClassIn开展一对一、班课、大直播课等多种形式的教学",
+    "Name": "Classin在线教室",
+    "Pkgname": "com.classin",
+    "Size": "0 Kb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.classin_5.0.5.2_all.deb.torrent",
+    "Update": "2023-08-04 18:20:05",
+    "Version": "5.0.5.2",
+    "Website": "https://www.classin.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/com.classin.deepin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.classin.deepin/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "shenmo",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.ccnew.client.spark_2.292deepin6_all.deb",
+    "More": "中原证券集成版v2.29，由Deepin-wine5运行。\nZhongYuanZhengQuan Client v2.29 on Deepin-Wine6.\n提示：\n（1）本版本更改了注册表以优化字体显示。\n（2）本版本更新时会覆盖原有版本的安装目录，请在更新前手动备份T0002、vipdoc文件夹，以免日线数据、用户自定义数据被抹除。\n（3）对于高分辨率屏幕字体显示太小的问题，请在终端安装并自定义winetricks。安装命令：sudo apt install winetricks。自定义分辨率的终端命令：WINEPREFIX=\"/home/你的用户名/.deepinwine/Deepin-ZYZQclient\" winetricks 请在弹出的界面中选择默认的wine容器——运行winecfg——显示——屏幕分辨率。屏幕分辨率越高，dpi需设置越大（可多调整几次dpi，以期达到最佳显示效果）。另外，在通达信运行后在系统设置——外观——报价字号——大型/超大型，大号菜单，也可一定程度解决显示字体太小的问题；\n（4）卸载该应用后会在~/.deepinwine/Deepin-ZYZQclient留下残留，需自行删除Deepin-ZYZQclient文件夹。",
+    "Name": "中原证券集成版（wine）",
+    "Pkgname": "com.ccnew.client.spark",
+    "Size": "463 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.ccnew.client.spark_2.292deepin6_all.deb.torrent",
+    "Update": "2023-07-04 22:58:38",
+    "Version": "2.292deepin6",
+    "Website": "https://www.ccnew.com/main/home/softwaredownload/index.shtml",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.ccnew.client.spark/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.ccnew.client.spark/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.ccnew.client.spark/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.ccnew.client.spark/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.ccnew.client.spark/screen_4.png\"]"
+}
+
+,
+{
+    "Name": "百度文库",
+    "Version": "1.2.8spark2",
+    "Filename": "com.baidu.wenku.spark_1.2.8spark2_all.deb",
+    "Torrent_address": "com.baidu.wenku.spark_1.2.8spark2_all.deb.torrent",
+    "Pkgname": "com.baidu.wenku.spark",
+    "Author": "百度",
+    "Contributor": "sgb76",
+    "Website": "https://wenku.baidu.com/",
+    "Update": "2023-10-24 12:28:08",
+    "Size": "76.89 MB",
+    "More": "由百度开发的一款在线互动式文档分享平台，在这里，您可以和千万网友分享自己手中的文档，全文阅读其他用户的文档，同时，也可以利用分享文档获取的积分下载文档...",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/24/e90bfb427fa94e34be316feb982051fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/24/b9c7c68aa0a846ce9425eae0713b4bf7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/24/382ede4247644694b26ee776adf209db.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/24/d3f0fad20ca34e6dac33e04e1d0be4f1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/24/9e486eadf495450fb2a8138f591386b8.png"
+}
+,
+{
+    "Name": "Effie",
+    "Version": "3.5.1spark12",
+    "Filename": "co.effie.spark_3.5.1spark12_all.deb",
+    "Torrent_address": "co.effie.spark_3.5.1spark12_all.deb.torrent",
+    "Pkgname": "co.effie.spark",
+    "Author": "上海七加二科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.effie.co/",
+    "Update": "2024-02-26 23:21:21",
+    "Size": "83.94 MB",
+    "More": "一款思想家专用的写作软件。无论是严肃写作,随手记录,亦或是把逻辑完善成思维导图,Effie都是您明智的选择\n\n更新说明：\n1.通过spark-dwine-helper脚本自适应高分屏，根据用户设置的屏幕缩放倍数自动调整应用界面的缩放\n2.deepin下默认调用系统文管，Ubuntu下默认调用wine文管\n已知问题：\n当导出文档为PDF时程序报错，导出图片、Word和MD文档则正常",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/7107cd207f144847b573a28242215315.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/f8dc1af5bc8f45dfbbd5b77c6db15456.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/70b32595695348a3a82d548fd5a4f303.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/26/970bd814b5674635a01321eb97cc6bb5.png"
+}
+,
+{
+    "Name": "飞项",
+    "Version": "3.0.1spark1",
+    "Filename": "cn.feixiang.flyele.spark_3.0.1spark1_all.deb",
+    "Torrent_address": "cn.feixiang.flyele.spark_3.0.1spark1_all.deb.torrent",
+    "Pkgname": "cn.feixiang.flyele.spark",
+    "Author": "飞项科技（广州）有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.feixiang.cn/",
+    "Update": "2024-01-10 22:36:58",
+    "Size": "162.67 MB",
+    "More": "飞项,事项协作专家,以解决泛职场人的每一件“事”为基点做好项目计划管理、日程待办安排;以“事项集”的形式构成职场人每天的工作待办,有效提高团队的办事效率和质量。\n\n说明：经测试，Ubuntu22.04下安装后通过启动器点击图标无法启动应用，但是可通过终端直接输入：\"/opt/apps/cn.feixiang.flyele.spark/files/run.sh\" -u %u --no-sandbox来启动应用",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/10/8689e29156c3468b900327e7d2bd6a03.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/10/2d7d2f2488d74a9bba07b073d029b223.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/10/a9cd796643c14640ab9133af9d043acf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/10/90b3f7b5728f4a92a4621df308a7db5f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/10/957a553c05b5477c9b7cac00cc85132e.png"
+}
+,
+{
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "cn.com.tdx.spark_7.642_all.deb",
+    "More": "通达信金融终端V7.612，由deepin-wine6运行。（拥有内嵌闪电交易功能，可登录各大券商账号）\n提示：\n（1）登录界面在不同分辨率的电脑上显示可能会错位，但不影响使用；\n（2）字体问题，可下载星火应用商店里的wine字体；\n（3）若你此前在星火应用商店安装过老版本，请自行备份~/.deepinwine/Deepin-TdxSpark/drive_c/new_tdx文件夹下T0001、T0002、vipdoc文件夹，以免个人数据被抹除。",
+    "Name": "通达信金融终端（wine）",
+    "Pkgname": "cn.com.tdx.spark",
+    "Size": "223 Mb",
+    "Tags": "community;deepin",
+    "Torrent_address": "cn.com.tdx.spark_7.642_all.deb.torrent",
+    "Update": "2024-04-24 18:12:51",
+    "Version": "7.642",
+    "Website": "https://www.tdx.com.cn/soft.html",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_5.png\"]"
+}
+
+,
+{
+    "Name": "中国移动云电脑（wine）",
+    "Version": "1.0.0",
+    "Filename": "chinamobyunos_1.0.0_all.deb",
+    "Torrent_address": "chinamobyunos_1.0.0_all.deb.torrent",
+    "Pkgname": "chinamobyunos",
+    "Author": "huawei0086@126.com",
+    "Contributor": "rc3583z",
+    "Website": "1212123",
+    "Update": "2024-03-15 15:33:11",
+    "Size": "264.34 MB",
+    "More": "中国移动云电脑",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/add19340-e29d-11ee-893c-3b7985d6d301.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/ee872080-e29d-11ee-893c-3b7985d6d301.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/15/a5e33da0-e29d-11ee-893c-3b7985d6d301.png"
+}
+]

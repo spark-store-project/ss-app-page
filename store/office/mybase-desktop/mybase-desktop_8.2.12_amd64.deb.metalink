@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="mybase-desktop_8.2.12_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">61f5865848ae96524981af84846ed518</hash>
+				  
+				<hash type="sha1">152ede15b906b95d6c03a43e90b58dc9f1adb57b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/mybase-desktop/mybase-desktop_8.2.12_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/mybase-desktop/mybase-desktop_8.2.12_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/mybase-desktop/mybase-desktop_8.2.12_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/mybase-desktop/mybase-desktop_8.2.12_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/mybase-desktop/mybase-desktop_8.2.12_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/mybase-desktop/mybase-desktop_8.2.12_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

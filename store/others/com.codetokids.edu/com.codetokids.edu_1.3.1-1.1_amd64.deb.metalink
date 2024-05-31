@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.codetokids.edu_1.3.1-1.1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">31a74b95e5d41b0b6b7ddde0d46a0502</hash>
+				  
+				<hash type="sha1">8db3af23f59d189ade6a95d65397094fc6e1a676</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/com.codetokids.edu/com.codetokids.edu_1.3.1-1.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/com.codetokids.edu/com.codetokids.edu_1.3.1-1.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/com.codetokids.edu/com.codetokids.edu_1.3.1-1.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/com.codetokids.edu/com.codetokids.edu_1.3.1-1.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/com.codetokids.edu/com.codetokids.edu_1.3.1-1.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/com.codetokids.edu/com.codetokids.edu_1.3.1-1.1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

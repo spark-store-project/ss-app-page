@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="uengine-dc-com.kugou.android.lite_3.2.3_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">59f7eb21f3dc5eee82b07508404b9eb4</hash>
+				  
+				<hash type="sha1">b74d54be5dcb4ed1df2c559a6717a8031b3fb801</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/music/uengine-dc-com.kugou.android.lite/uengine-dc-com.kugou.android.lite_3.2.3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/music/uengine-dc-com.kugou.android.lite/uengine-dc-com.kugou.android.lite_3.2.3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/music/uengine-dc-com.kugou.android.lite/uengine-dc-com.kugou.android.lite_3.2.3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/music/uengine-dc-com.kugou.android.lite/uengine-dc-com.kugou.android.lite_3.2.3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/music/uengine-dc-com.kugou.android.lite/uengine-dc-com.kugou.android.lite_3.2.3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/music/uengine-dc-com.kugou.android.lite/uengine-dc-com.kugou.android.lite_3.2.3_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

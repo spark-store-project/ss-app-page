@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="bellsoft-java21-full_21.0.3_plus10_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b491c2661a88968ed4808beb14b88217</hash>
+				  
+				<hash type="sha1">9c588742c49baa41fde286d8545a5f163e9e93bb</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/bellsoft-java21-full/bellsoft-java21-full_21.0.3_plus10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/bellsoft-java21-full/bellsoft-java21-full_21.0.3_plus10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/bellsoft-java21-full/bellsoft-java21-full_21.0.3_plus10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/bellsoft-java21-full/bellsoft-java21-full_21.0.3_plus10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/bellsoft-java21-full/bellsoft-java21-full_21.0.3_plus10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/bellsoft-java21-full/bellsoft-java21-full_21.0.3_plus10_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

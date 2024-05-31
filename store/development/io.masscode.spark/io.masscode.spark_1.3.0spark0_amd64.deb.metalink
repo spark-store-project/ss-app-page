@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="io.masscode.spark_1.3.0spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">34fc3424752bafc14ba42222b4e3e481</hash>
+				  
+				<hash type="sha1">1f0a8ddd970b844945adc94f3c4cb813eb251895</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/io.masscode.spark/io.masscode.spark_1.3.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/io.masscode.spark/io.masscode.spark_1.3.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/io.masscode.spark/io.masscode.spark_1.3.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/io.masscode.spark/io.masscode.spark_1.3.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/io.masscode.spark/io.masscode.spark_1.3.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/io.masscode.spark/io.masscode.spark_1.3.0spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

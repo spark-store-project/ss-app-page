@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="chmsee_1.3.0-3_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e614c4ae0a72968c1fef72c900de2b79</hash>
+				  
+				<hash type="sha1">0ef90e2271e554ab601a9cad0b5cc682981b1b3b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/reading/chmsee/chmsee_1.3.0-3_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/reading/chmsee/chmsee_1.3.0-3_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/reading/chmsee/chmsee_1.3.0-3_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/reading/chmsee/chmsee_1.3.0-3_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/reading/chmsee/chmsee_1.3.0-3_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/reading/chmsee/chmsee_1.3.0-3_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

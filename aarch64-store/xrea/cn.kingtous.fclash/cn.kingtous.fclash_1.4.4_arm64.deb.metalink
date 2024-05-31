@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.kingtous.fclash_1.4.4_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ab287d56f2b4b0a5a7300b84f788ca45</hash>
+				  
+				<hash type="sha1">9b64d3d05688e8167396a9c0b62fcdf340efab99</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/xrea/cn.kingtous.fclash/cn.kingtous.fclash_1.4.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/xrea/cn.kingtous.fclash/cn.kingtous.fclash_1.4.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/xrea/cn.kingtous.fclash/cn.kingtous.fclash_1.4.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/xrea/cn.kingtous.fclash/cn.kingtous.fclash_1.4.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/xrea/cn.kingtous.fclash/cn.kingtous.fclash_1.4.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/xrea/cn.kingtous.fclash/cn.kingtous.fclash_1.4.4_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

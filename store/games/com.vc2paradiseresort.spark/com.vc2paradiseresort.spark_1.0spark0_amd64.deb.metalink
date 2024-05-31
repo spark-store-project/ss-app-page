@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.vc2paradiseresort.spark_1.0spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">154384dbbd853d9c401b95b9d03f4db9</hash>
+				  
+				<hash type="sha1">ee424c50d56212d8ee63a5a3e0e1d42c3a295d24</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.vc2paradiseresort.spark/com.vc2paradiseresort.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.vc2paradiseresort.spark/com.vc2paradiseresort.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.vc2paradiseresort.spark/com.vc2paradiseresort.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.vc2paradiseresort.spark/com.vc2paradiseresort.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.vc2paradiseresort.spark/com.vc2paradiseresort.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.vc2paradiseresort.spark/com.vc2paradiseresort.spark_1.0spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

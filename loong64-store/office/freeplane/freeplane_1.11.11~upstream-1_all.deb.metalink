@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="freeplane_1.11.11~upstream-1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">4e7849a9c21f14bfefd877b86d8f5a70</hash>
+				  
+				<hash type="sha1">93494a806cc15207825a76f288b6a56323500cb5</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/office/freeplane/freeplane_1.11.11~upstream-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/office/freeplane/freeplane_1.11.11~upstream-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/office/freeplane/freeplane_1.11.11~upstream-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/office/freeplane/freeplane_1.11.11~upstream-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/office/freeplane/freeplane_1.11.11~upstream-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/office/freeplane/freeplane_1.11.11~upstream-1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

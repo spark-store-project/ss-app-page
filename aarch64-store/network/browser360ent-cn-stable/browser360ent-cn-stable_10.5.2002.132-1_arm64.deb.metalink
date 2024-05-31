@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="browser360ent-cn-stable_10.5.2002.132-1_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ad85b8dde5ab09cb868a928d81a85c1b</hash>
+				  
+				<hash type="sha1">cbc75131a2564fa83ae44f9dd5e848642773d953</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/network/browser360ent-cn-stable/browser360ent-cn-stable_10.5.2002.132-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/network/browser360ent-cn-stable/browser360ent-cn-stable_10.5.2002.132-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/network/browser360ent-cn-stable/browser360ent-cn-stable_10.5.2002.132-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/network/browser360ent-cn-stable/browser360ent-cn-stable_10.5.2002.132-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/network/browser360ent-cn-stable/browser360ent-cn-stable_10.5.2002.132-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/network/browser360ent-cn-stable/browser360ent-cn-stable_10.5.2002.132-1_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

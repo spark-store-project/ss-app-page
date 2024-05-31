@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.163.office.lingxi.spark_1.38.3spark2_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">07617a9993c671fba8226d4b97612281</hash>
+				  
+				<hash type="sha1">3afc97b77913f6326d1ef2b22a06adee555e16c2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/sirius-desktop/com.163.office.lingxi.spark_1.38.3spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/sirius-desktop/com.163.office.lingxi.spark_1.38.3spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/sirius-desktop/com.163.office.lingxi.spark_1.38.3spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/sirius-desktop/com.163.office.lingxi.spark_1.38.3spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/sirius-desktop/com.163.office.lingxi.spark_1.38.3spark2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/sirius-desktop/com.163.office.lingxi.spark_1.38.3spark2_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

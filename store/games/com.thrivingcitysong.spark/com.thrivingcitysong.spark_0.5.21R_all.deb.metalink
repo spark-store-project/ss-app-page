@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.thrivingcitysong.spark_0.5.21R_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a7586c93526ed34954f6a4b32a18fe02</hash>
+				  
+				<hash type="sha1">acc7bc5ee60d289f5f34c5cbcb56914360273f46</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.thrivingcitysong.spark/com.thrivingcitysong.spark_0.5.21R_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.thrivingcitysong.spark/com.thrivingcitysong.spark_0.5.21R_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.thrivingcitysong.spark/com.thrivingcitysong.spark_0.5.21R_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.thrivingcitysong.spark/com.thrivingcitysong.spark_0.5.21R_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.thrivingcitysong.spark/com.thrivingcitysong.spark_0.5.21R_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.thrivingcitysong.spark/com.thrivingcitysong.spark_0.5.21R_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

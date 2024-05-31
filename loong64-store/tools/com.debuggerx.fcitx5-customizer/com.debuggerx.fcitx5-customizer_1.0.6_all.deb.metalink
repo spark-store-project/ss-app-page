@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.debuggerx.fcitx5-customizer_1.0.6_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">117ac78618369e9c1afa0395c9e84c4f</hash>
+				  
+				<hash type="sha1">6b3684da524791402963d59a09003210aa7df7fe</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.debuggerx.fcitx5-customizer/com.debuggerx.fcitx5-customizer_1.0.6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/tools/com.debuggerx.fcitx5-customizer/com.debuggerx.fcitx5-customizer_1.0.6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/tools/com.debuggerx.fcitx5-customizer/com.debuggerx.fcitx5-customizer_1.0.6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/tools/com.debuggerx.fcitx5-customizer/com.debuggerx.fcitx5-customizer_1.0.6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/tools/com.debuggerx.fcitx5-customizer/com.debuggerx.fcitx5-customizer_1.0.6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/tools/com.debuggerx.fcitx5-customizer/com.debuggerx.fcitx5-customizer_1.0.6_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

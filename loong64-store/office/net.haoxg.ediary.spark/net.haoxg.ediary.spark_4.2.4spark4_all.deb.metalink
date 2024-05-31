@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="net.haoxg.ediary.spark_4.2.4spark4_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">4442e49ed7b6a79440c3c24ac8cdcc24</hash>
+				  
+				<hash type="sha1">46f06ef5f03150667425a47632d9a3655c68be27</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/office/net.haoxg.ediary.spark/net.haoxg.ediary.spark_4.2.4spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/office/net.haoxg.ediary.spark/net.haoxg.ediary.spark_4.2.4spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/office/net.haoxg.ediary.spark/net.haoxg.ediary.spark_4.2.4spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/office/net.haoxg.ediary.spark/net.haoxg.ediary.spark_4.2.4spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/office/net.haoxg.ediary.spark/net.haoxg.ediary.spark_4.2.4spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/office/net.haoxg.ediary.spark/net.haoxg.ediary.spark_4.2.4spark4_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

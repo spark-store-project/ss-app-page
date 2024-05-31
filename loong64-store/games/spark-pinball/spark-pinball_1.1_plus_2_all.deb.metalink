@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-pinball_1.1_plus_2_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c86e2ee1264073f7198890db30bc4af0</hash>
+				  
+				<hash type="sha1">ebf75c57b55f5afe8c8536e2ad4cb697a44665f4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/games/spark-pinball/spark-pinball_1.1_plus_2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/games/spark-pinball/spark-pinball_1.1_plus_2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/games/spark-pinball/spark-pinball_1.1_plus_2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/games/spark-pinball/spark-pinball_1.1_plus_2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/games/spark-pinball/spark-pinball_1.1_plus_2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/games/spark-pinball/spark-pinball_1.1_plus_2_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

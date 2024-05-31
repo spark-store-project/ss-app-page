@@ -1,0 +1,16 @@
+{
+    "Name": "东吴证券秀财客户端（wine）",
+    "Version": "8.70.50.0832deepin5",
+    "Filename": "cn.com.dwzq.spark_8.70.50.0832deepin5_i386.deb",
+    "Torrent_address": "cn.com.dwzq.spark_8.70.50.0832deepin5_i386.deb.torrent",
+    "Pkgname": "cn.com.dwzq.spark",
+    "Author": "东吴证券股份有限公司",
+    "Contributor": "delsin",
+    "Website": "http://www.dwzq.com.cn/download",
+    "Update": "2022-05-02 15:25:31",
+    "Size": "491.97 MB",
+    "More": "东吴证券秀财金融终端2.0版v8.70，由Deepin-wine5运行。\nDongWuZhengQuan XiuCai Client v8.70 on Deepin Wine5.\n提示：\n（1）本版本更改了注册表以优化字体显示.\n（2）对于高分辨率屏幕字体显示太小的问题，请在终端安装并自定义winetricks。安装命令：sudo apt install winetricks。自定义分辨率的终端命令：WINEPREFIX=\"/home/你的用户名/.deepinwine/Deepin-DWZQclient\" winetricks 请在弹出的界面中选择默认的wine容器——运行winecfg——显示——屏幕分辨率。屏幕分辨率越高，dpi需设置越大（可多调整几次dpi，以期达到最佳显示效果）；\n（3）卸载该应用后会在~/.deepinwine/Deepin-DWZQclient留下残留，需自行删除Deepin-DWZQclient文件夹。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/02/d45eeff0-c9e8-11ec-828b-b13e135b351f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/02/d6c4f370-c9e8-11ec-828b-b13e135b351f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/02/cef1ee00-c9e8-11ec-828b-b13e135b351f.png"
+}

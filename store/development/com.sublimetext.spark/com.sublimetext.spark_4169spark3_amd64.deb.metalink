@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.sublimetext.spark_4169spark3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">75527e63defc5a0cc4ec64cdf60092b4</hash>
+				  
+				<hash type="sha1">1132d823fdbfbbe28e0d1f352a9f3bb972aa59d8</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/com.sublimetext.spark/com.sublimetext.spark_4169spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/com.sublimetext.spark/com.sublimetext.spark_4169spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/com.sublimetext.spark/com.sublimetext.spark_4169spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/com.sublimetext.spark/com.sublimetext.spark_4169spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/com.sublimetext.spark/com.sublimetext.spark_4169spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/com.sublimetext.spark/com.sublimetext.spark_4169spark3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

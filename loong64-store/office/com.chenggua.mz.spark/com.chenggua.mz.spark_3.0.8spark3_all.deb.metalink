@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.chenggua.mz.spark_3.0.8spark3_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">0da96d9cf788ae0720880e73a4ad32d9</hash>
+				  
+				<hash type="sha1">583e8238911ee84e31a2448ef34ed3c627258806</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/office/com.chenggua.mz.spark/com.chenggua.mz.spark_3.0.8spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/office/com.chenggua.mz.spark/com.chenggua.mz.spark_3.0.8spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/office/com.chenggua.mz.spark/com.chenggua.mz.spark_3.0.8spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/office/com.chenggua.mz.spark/com.chenggua.mz.spark_3.0.8spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/office/com.chenggua.mz.spark/com.chenggua.mz.spark_3.0.8spark3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/office/com.chenggua.mz.spark/com.chenggua.mz.spark_3.0.8spark3_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

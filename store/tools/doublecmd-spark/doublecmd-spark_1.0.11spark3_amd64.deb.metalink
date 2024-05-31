@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="doublecmd-spark_1.0.11spark3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a0fbf346b0cd5d48c3bc04768746ffac</hash>
+				  
+				<hash type="sha1">7cff3c1127af5ddf72641d5fcf86928ab1032081</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/doublecmd-spark/doublecmd-spark_1.0.11spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/doublecmd-spark/doublecmd-spark_1.0.11spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/doublecmd-spark/doublecmd-spark_1.0.11spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/doublecmd-spark/doublecmd-spark_1.0.11spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/doublecmd-spark/doublecmd-spark_1.0.11spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/doublecmd-spark/doublecmd-spark_1.0.11spark3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

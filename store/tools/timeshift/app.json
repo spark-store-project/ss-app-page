@@ -1,0 +1,16 @@
+{
+    "Name": "Timeshift",
+    "Version": "22.06.1",
+    "Filename": "timeshift_22.06.1_amd64.deb",
+    "Torrent_address": "timeshift_22.06.1_amd64.deb.torrent",
+    "Pkgname": "timeshift",
+    "Author": "Tony George <teejeetech@gmail.com>",
+    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
+    "Website": "https://teejeetech.in/",
+    "Update": "2022-10-15 10:53:18",
+    "Size": "651 KB",
+    "More": "Timeshift是一款Linux系统备份恢复工具。通过使用 rsync + 硬链接方式或 BTRFS 快照创建系统备份。支持定时备份，多重备份等级以及过滤文件。备份可以在系统运行时恢复，或者通过Live环境（CD/USB等介质）恢复。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/c95594c2-56e3-4a54-bef9-0bd53c2a5178.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/70f06e52-5158-4575-8a25-3f8c0bf8c1fe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/55ad1706-0b24-45b6-aaa2-7c2c2646a954.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/15/1c119540-cda2-4687-9f2a-7582897cb712.png"
+}

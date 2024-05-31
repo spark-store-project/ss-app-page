@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.hmja.notepad_2.16.0.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">da0e8491e518aa625fc337ec1da953e6</hash>
+				  
+				<hash type="sha1">aad614af0f51192c5599698b8c67b3b779cf5d5e</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/com.hmja.notepad/com.hmja.notepad_2.16.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/com.hmja.notepad/com.hmja.notepad_2.16.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/com.hmja.notepad/com.hmja.notepad_2.16.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/com.hmja.notepad/com.hmja.notepad_2.16.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/com.hmja.notepad/com.hmja.notepad_2.16.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/com.hmja.notepad/com.hmja.notepad_2.16.0.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

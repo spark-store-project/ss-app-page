@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="deepin-wine-thunders_20200711.s3.1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ab87fee73f2523dbc3a4c45230ac4c13</hash>
+				  
+				<hash type="sha1">d0f200cfa1042647838e9b89f819bfe8a831b3e4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/network/deepin-wine-thunders/deepin-wine-thunders_20200711.s3.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/network/deepin-wine-thunders/deepin-wine-thunders_20200711.s3.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/network/deepin-wine-thunders/deepin-wine-thunders_20200711.s3.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/network/deepin-wine-thunders/deepin-wine-thunders_20200711.s3.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/network/deepin-wine-thunders/deepin-wine-thunders_20200711.s3.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/network/deepin-wine-thunders/deepin-wine-thunders_20200711.s3.1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

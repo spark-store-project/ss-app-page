@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.meitu.mtxx_2.0.4_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">6c7bcfa10a53e39d6cfd5f5d5da5ea4f</hash>
+				  
+				<hash type="sha1">3faac5fd9b5dc57c23b7fbd0f83a549531b010dc</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.meitu.mtxx/com.meitu.mtxx_2.0.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/com.meitu.mtxx/com.meitu.mtxx_2.0.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/com.meitu.mtxx/com.meitu.mtxx_2.0.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/com.meitu.mtxx/com.meitu.mtxx_2.0.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/com.meitu.mtxx/com.meitu.mtxx_2.0.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/com.meitu.mtxx/com.meitu.mtxx_2.0.4_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

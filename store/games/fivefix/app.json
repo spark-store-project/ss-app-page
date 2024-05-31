@@ -1,0 +1,15 @@
+{
+    "Name": "五子棋",
+    "Version": "1.0.1",
+    "Filename": "fivefix_1.0.1_amd64.deb",
+    "Pkgname": "fivefix",
+    "Author": "zhangyongwei11",
+    "Contributor": "zhangyongwei11",
+    "Website": "gitee.com/zhangyongwei11/fivefix",
+    "Update": "2021-12-12 10:15:28",
+    "Size": "55.75 MB",
+    "More": "实现局域网五子棋对战，客户端自动搜索服务器和开始游戏后切换棋盘颜色，显示赢棋动画和提示落子动画。较1.0.0修复了缩放窗口棋盘背景色变为默认绿色等问题，并更换了svg图标。",
+    "Tags": "deepin;uos;ubuntu;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/12/3cb1eda0-5aef-11ec-9684-2b5962be5150.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/12/3c85ad80-5aef-11ec-9684-2b5962be5150.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/12/3c9d7b40-5aef-11ec-9684-2b5962be5150.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/12/3cc6d530-5aef-11ec-9684-2b5962be5150.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/12/3cdd9180-5aef-11ec-9684-2b5962be5150.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/12/275ea380-5aef-11ec-9684-2b5962be5150.svg"
+}

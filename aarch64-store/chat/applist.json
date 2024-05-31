@@ -1,0 +1,375 @@
+[
+{
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.qq.weixin.spark_3.9.5.80deepin12_all.deb",
+    "More": "微信PC客户端 \n\n更新说明：\n1.deepin23可用\n2.arm可用\n3. 使用deepin-wine6",
+    "Name": "微信（wine）",
+    "Pkgname": "com.qq.weixin.spark",
+    "Size": "284 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.qq.weixin.spark_3.9.5.80deepin12_all.deb.torrent",
+    "Update": "2024-02-23 17:37:47",
+    "Version": "3.9.5.80deepin12",
+    "Website": "https://weixin.qq.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "store.spark-app.wechat-linux-spark_2.2.1-real-1.0.0.241_arm64.deb",
+    "More": "新特性\n修复dock图标不一致\n全新升级",
+    "Name": "微信(Universal)",
+    "Pkgname": "store.spark-app.wechat-linux-spark",
+    "Size": "107 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "store.spark-app.wechat-linux-spark_2.2.1-real-1.0.0.241_arm64.deb.torrent",
+    "Update": "2024-04-24 11:38:09",
+    "Version": "2.2.1-real-1.0.0.241",
+    "Website": "https://wx.qq.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/store.spark-app.wechat-linux-spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/store.spark-app.wechat-linux-spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/store.spark-app.wechat-linux-spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/store.spark-app.wechat-linux-spark/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "Tencent <QQ-Team@tencent.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "linuxqq_3.2.8-23873_arm64.deb",
+    "More": "腾讯QQ linux版本\n\n[体验]\n- 优化 搜索状态下，点击 Esc 仅退出搜索态\n- 新增 侧边栏新增微云入口\n- 新增 侧边栏新增腾讯新闻入口\n\n[问题修复]\n- 修复 QQ 群、截图、图片查看、屏幕分享黑框等多处已知 Bug",
+    "Name": "QQ NT(Linux)",
+    "Pkgname": "linuxqq",
+    "Size": "132 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "linuxqq_3.2.8-23873_arm64.deb.torrent",
+    "Update": "2024-05-17 21:33:31",
+    "Version": "3.2.8-23873",
+    "Website": "https://im.qq.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/linuxqq/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/linuxqq/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/linuxqq/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/linuxqq/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "懵仙兔兔",
+    "Contributor": "懵仙兔兔",
+    "Filename": "com.qq.weixin.mejituu_3.9.6.32_plus_Mejituu-2023121722_all.deb",
+    "More": "全功能微信，内置黑边隐藏启动程序（不会误杀），内置一键修复微信白屏问题\n首次启动，会部署微信小程序等支持，期间微信会自动重启一次，属正常现象（就是首次启动等一会儿就好了）\n\n已知问题：\n如果运行在ACE兼容环境内，首次启动可能导致ACE内的Wine相关软件会被杀死（不影响微信，只首次启动影响其他用ACE Wine的软件）\n\n注：\n首次启动指的是：安装或更新微信（懵仙兔兔），然后第一次打开\n\n本次更新内容：\n- 1.支持绝大多数图片音乐视频文档压缩文件格式能在微信中直接打开（跳转到wine文件管理器的也能双击打开）\n- 2.支持 wine文件管理器-右键-“资源管理器” 调用当前系统自带的文件管理器打开目录\n- 3.修复 微信聊天-表情-表情文字描述 无法显示\n\n兼容性测试：\ndebian testing：功能全部正常\ndebian 12：功能全部正常\nubuntu 22.04：功能全部正常\ndeepin 23b2：功能全部正常（由于23b2的问题，托盘图标左右击无响应，关掉窗口后可通过启动图标打开）\ndeepin 20.9：功能全部正常\nuos arm：功能全部正常",
+    "Name": "微信（懵仙兔兔）",
+    "Pkgname": "com.qq.weixin.mejituu",
+    "Size": "425 Mb",
+    "Tags": "community;deepin;uos;ubuntu;dwine2;dwine5",
+    "Torrent_address": "com.qq.weixin.mejituu_3.9.6.32_plus_Mejituu-2023121722_all.deb.torrent",
+    "Update": "2023-12-27 14:49:13",
+    "Version": "3.9.6.32+Mejituu-2023121722",
+    "Website": "https://2dph.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.mejituu/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.mejituu/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.mejituu/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.mejituu/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.mejituu/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.qq.weixin.spark.ace_3.8.0.41spark23.1_arm64.deb",
+    "More": "使用ACE容器构建的微信 Wine，理论上可在几乎所有的Arm设备上启动（Termux除外）\n\n请注意：只推荐在普通的微信(wine)无法安装时才尝试微信ACE，因为安装包很大，下载和安装都会很慢。\n※※※※※首次启动可能会报错网络问题，彻底退出后重启可以解决※※※※※\n\n若有问题请联系投递者",
+    "Name": "微信-ACE(wine) 万能安装版",
+    "Pkgname": "com.qq.weixin.spark.ace",
+    "Size": "901 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.qq.weixin.spark.ace_3.8.0.41spark23.1_arm64.deb.torrent",
+    "Update": "2023-09-08 08:01:49",
+    "Version": "3.8.0.41spark23.1",
+    "Website": "https://gitee.com/deepin-community-store/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.spark.ace/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.spark.ace/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "dingtalk alibaba-inc",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.alibabainc.dingtalk_7.5.10.404071_arm64.deb",
+    "More": "多端同步，无缝切换\n钉钉客户端同时支持 Android，iOS，iPadOS，macOS，Windows，Linux 版本确保您的钉钉客户端为最新版本，以获取最新功能",
+    "Name": "钉钉（Linux官方版）",
+    "Pkgname": "com.alibabainc.dingtalk",
+    "Size": "320 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.alibabainc.dingtalk_7.5.10.404071_arm64.deb.torrent",
+    "Update": "2024-04-18 13:47:51",
+    "Version": "7.5.10.404071",
+    "Website": "https://gov.dingtalk.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/com.alibabainc.dingtalk/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/com.alibabainc.dingtalk/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/com.alibabainc.dingtalk/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/com.alibabainc.dingtalk/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/com.alibabainc.dingtalk/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "Deepin WINE Team",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.qq.weixin.work.deepin_4.1.10.6007.spark2_all.deb",
+    "More": "从deepin应用商店拉取的wine企业微信，使用星火kit重新打包",
+    "Name": "企业微信（Wine）",
+    "Pkgname": "com.qq.weixin.work.deepin",
+    "Size": "602 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.qq.weixin.work.deepin_4.1.10.6007.spark2_all.deb.torrent",
+    "Update": "2023-11-16 23:01:01",
+    "Version": "4.1.10.6007.spark2",
+    "Website": "https://work.weixin.qq.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.work.deepin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.work.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.work.deepin/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "Wemeet team <robertylu@tencent.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "wemeet_3.19.1.401_arm64.deb",
+    "More": "Wemeet - Tencent Video Conferencing\nGlobal cross-border video conferencing just got better! Wemeet breaks down borders, providing smooth, secure, and reliable cloud-based video conferencing  across over 100 countries around the world. Easily schedule or join meetings with crystal clear audio and HD video quality. And effectively collaborate across global teams through instant messaging, screen and document sharing, and much more!\n翻译：\n微汇 - 腾讯视频会议\n全球跨境视频会议变得更好！Wemeet打破国界，在全球100多个国家/地区提供流畅，安全和可靠的基于云的视频会议。轻松安排或加入具有清晰音频和高清视频质量的会议。通过即时消息、屏幕和文档共享等方式，在全球团队之间有效协作！",
+    "Name": "腾讯会议",
+    "Pkgname": "wemeet",
+    "Size": "144 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "wemeet_3.19.1.401_arm64.deb.torrent",
+    "Update": "2024-05-01 09:03:08",
+    "Version": "3.19.1.401",
+    "Website": "https://wemeet.qq.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/wemeet/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/wemeet/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/wemeet/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "store.spark-app.feedback_1.3.2_all.deb",
+    "More": "星火应用商店反馈和交流平台\n",
+    "Name": "星火论坛",
+    "Pkgname": "store.spark-app.feedback",
+    "Size": "12 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "store.spark-app.feedback_1.3.2_all.deb.torrent",
+    "Update": "2023-12-13 16:22:13",
+    "Version": "1.3.2",
+    "Website": "https://www.deepinos.org/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/chat/store.spark-app.feedback/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/chat/store.spark-app.feedback/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "星耀U社",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "uengine-dc-com.xingyao.com_2.2.0_all.deb",
+    "More": "《星耀U社最新版》让你随时可以找到想要的资源。在这里有很多有趣的内容为你呈现，呈现各种资源、技术、教程，为你提供更加优质的阅读体验，赶紧来下载寻找感兴趣的内容吧。",
+    "Name": "星耀U社（UEngine）",
+    "Pkgname": "uengine-dc-com.xingyao.com",
+    "Size": "29 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "uengine-dc-com.xingyao.com_2.2.0_all.deb.torrent",
+    "Update": "2023-04-29 09:26:22",
+    "Version": "2.2.0",
+    "Website": "https://app.xumclt.com/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/uengine-dc-com.xingyao.com/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/uengine-dc-com.xingyao.com/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "Spark WINE Team",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.qq.im.deepin.spark_9.6.7.28815_plus_spark4_all.deb",
+    "More": "更新QQ版本至9.6.7\n转而使用了deepin-wine6-stable\nws2_32.dll.so 删除",
+    "Name": "QQ(Spark)",
+    "Pkgname": "com.qq.im.deepin.spark",
+    "Size": "355 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.qq.im.deepin.spark_9.6.7.28815_plus_spark4_all.deb.torrent",
+    "Update": "2023-12-05 13:24:11",
+    "Version": "9.6.7.28815+spark4",
+    "Website": "https://im.qq.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.im.deepin.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.im.deepin.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.im.deepin.spark/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "Feishu Linux Team <contact@feishu.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "bytedance-feishu-stable_6.5.11-0_arm64.deb",
+    "More": "飞书Linux版本\n飞书整合即时消息、日历、音视频会议、云文档、工作台等功能于一体，成就团队和个人，更高效、更愉悦。",
+    "Name": "飞书(Linux版)",
+    "Pkgname": "bytedance-feishu-stable",
+    "Size": "279 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "bytedance-feishu-stable_6.5.11-0_arm64.deb.torrent",
+    "Update": "2023-07-05 11:20:54",
+    "Version": "6.5.11-0",
+    "Website": "https://www.feishu.cn",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/bytedance-feishu-stable/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/bytedance-feishu-stable/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/bytedance-feishu-stable/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/bytedance-feishu-stable/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.qq.weixin.work.uk.spark_3.1.6.3605spark2_arm64.deb",
+    "More": "从优麒麟转制的旧版企业微信，旧不旧的，你就说他能不能用吧。。。 千万别点更新",
+    "Name": "企业微信3.1.6(swine8)",
+    "Pkgname": "com.qq.weixin.work.uk.spark",
+    "Size": "382 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.qq.weixin.work.uk.spark_3.1.6.3605spark2_arm64.deb.torrent",
+    "Update": "2023-04-13 00:47:58",
+    "Version": "3.1.6.3605spark2",
+    "Website": "https://www.ubuntukylin.com/applications/108-cn.html",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/com.qq.weixin.work.uk.spark/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/com.qq.weixin.work.uk.spark/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "work_weixin <work_weixin@tencent.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "wwlocal_2.6.114000_arm64.deb",
+    "More": "  政务微信 原生版本\n",
+    "Name": "政务微信",
+    "Pkgname": "wwlocal",
+    "Size": "133 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "wwlocal_2.6.114000_arm64.deb.torrent",
+    "Update": "2023-07-01 01:32:45",
+    "Version": "2.6.114000",
+    "Website": "http://git.code.oa.com/wwlocal/wechat_work.git",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/wwlocal/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/wwlocal/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "Qingdao Intwork Network Tec. co. <admin@umnet.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "feige_2022.06.30-1_arm64.deb",
+    "More": "飞鸽传书 \n局域网即时通讯 \n· 高速传大文件 · 文件夹传输 · 文件共享 \n· 断点续传        · 断网续传    · 跨网段传输 \n· 飞鸽投屏        · 多网卡切换 · 群发",
+    "Name": "飞鸽传书",
+    "Pkgname": "feige",
+    "Size": "1740 Kb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "feige_2022.06.30-1_arm64.deb.torrent",
+    "Update": "2023-03-05 18:57:13",
+    "Version": "2022.06.30-1",
+    "Website": "https://open.umnet.cn",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/feige/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/feige/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/feige/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "The Icalingua++ Authors <Icalinguaplusplus@protonmail.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "icalingua_2.11.6_arm64.deb",
+    "More": "Icalingua++ 是 Icalingua 的分支，為已經刪除的 Icalingua 提供有限的更新，同時歡迎社區提交PR。\nIcalingua 这个名字是日语中「光」和拉丁语中「语言」的组合。\n本项目希望为 Linux 打造一个会话前端框架，通过实现 Adapter 后端接口来适配各种聊天平台。目前已经拥有基于 oicq 以及 Icalingua 自有协议的后端。\n\n----------------------------------------\n此应用存在已知的不稳定问题， 如出现会自动崩溃现象，可使用 'Icalingua++ 用户服务'",
+    "Name": "Icalingua++（第三方QQ）",
+    "Pkgname": "icalingua",
+    "Size": "100 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "icalingua_2.11.6_arm64.deb.torrent",
+    "Update": "2024-04-25 22:00:23",
+    "Version": "2.11.6",
+    "Website": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/icalingua/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/icalingua/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/icalingua/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "com.alibaba.taurus.jiangxi",
+    "Contributor": "com.alibaba.taurus.jiangxi",
+    "Filename": "com.alibaba.taurus.jiangxi_1.7.2.1_arm64.deb",
+    "More": "赣政通的原生版本",
+    "Name": "赣政通（Linux）",
+    "Pkgname": "com.alibaba.taurus.jiangxi",
+    "Size": "360 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.alibaba.taurus.jiangxi_1.7.2.1_arm64.deb.torrent",
+    "Update": "2023-08-30 21:45:09",
+    "Version": "1.7.2.1",
+    "Website": "https://com.alibaba.taurus.jiangxi.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/chat/com.alibaba.taurus.jiangxi/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/chat/com.alibaba.taurus.jiangxi/screen_1.png\"]"
+}
+
+,
+{
+    "Name": "赣政通(wine)",
+    "Version": "2.8.0.8",
+    "Filename": "cn.gov.jiangxi.drc.gzt.spark_2.8.0.8_all.deb",
+    "Torrent_address": "cn.gov.jiangxi.drc.gzt.spark_2.8.0.8_all.deb.torrent",
+    "Pkgname": "cn.gov.jiangxi.drc.gzt.spark",
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://download.gzt.drc.jiangxi.gov.cn/pc/index.html#/",
+    "Update": "2023-04-18 14:00:43",
+    "Size": "404.51 MB",
+    "More": "赣政通 wine",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/18/93990a738af94a92b9b10cf8ffee7b68.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/18/ba237cd9d6b44896b6826f0f6df930ec.png"
+}
+,
+{
+    "Author": "som@baidu.com",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "infoflow_1.1.1_arm64.deb",
+    "More": "百度的新一代智能化办公平台",
+    "Name": "百度如流InfoFlow",
+    "Pkgname": "infoflow",
+    "Size": "269 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "infoflow_1.1.1_arm64.deb.torrent",
+    "Update": "2024-04-01 23:24:08",
+    "Version": "1.1.1",
+    "Website": "",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/chat/infoflow/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/chat/infoflow/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "work_weixin <work_weixin@tencent.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "cn.gov.gdzwfw.yzy_2.9.122600_arm64.deb",
+    "More": "粤政易",
+    "Name": "粤政易",
+    "Pkgname": "cn.gov.gdzwfw.yzy",
+    "Size": "221 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "cn.gov.gdzwfw.yzy_2.9.122600_arm64.deb.torrent",
+    "Update": "2024-03-24 13:36:19",
+    "Version": "2.9.122600",
+    "Website": "http://git.code.oa.com/wwlocal/wechat_work.git",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/chat/cn.gov.gdzwfw.yzy/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/chat/cn.gov.gdzwfw.yzy/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "mygzb.com <pc@mygzb.com>",
+    "Contributor": "shenmo <shenmo@spark-app.store>",
+    "Filename": "gzb_8.1.21_arm64.deb",
+    "More": "工作宝",
+    "Name": "工作宝",
+    "Pkgname": "gzb",
+    "Size": "102Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Update": "2023-04-20 18:41:53",
+    "Version": "8.1.21",
+    "Website": "https://www.mygzb.com/download.html"
+}
+
+]

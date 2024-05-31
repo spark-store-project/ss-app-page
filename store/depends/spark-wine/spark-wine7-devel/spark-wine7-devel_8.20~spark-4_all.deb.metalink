@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-wine7-devel_8.20~spark-4_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">26fc1ee9d2135c1bf2c5903fcda3abe8</hash>
+				  
+				<hash type="sha1">843e0fdf1205736e019a3751e71af671e261f954</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/spark-wine/spark-wine7-devel/spark-wine7-devel_8.20~spark-4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/spark-wine/spark-wine7-devel/spark-wine7-devel_8.20~spark-4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/spark-wine/spark-wine7-devel/spark-wine7-devel_8.20~spark-4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/spark-wine/spark-wine7-devel/spark-wine7-devel_8.20~spark-4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/spark-wine/spark-wine7-devel/spark-wine7-devel_8.20~spark-4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/spark-wine/spark-wine7-devel/spark-wine7-devel_8.20~spark-4_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

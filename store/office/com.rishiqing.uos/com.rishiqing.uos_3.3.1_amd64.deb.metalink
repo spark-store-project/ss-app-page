@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.rishiqing.uos_3.3.1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7815f4f1245fb3de4af3633cff34d025</hash>
+				  
+				<hash type="sha1">52f1d609c32dfa3251b71aa9c90b77f378cfa314</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.rishiqing.uos/com.rishiqing.uos_3.3.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.rishiqing.uos/com.rishiqing.uos_3.3.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.rishiqing.uos/com.rishiqing.uos_3.3.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.rishiqing.uos/com.rishiqing.uos_3.3.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.rishiqing.uos/com.rishiqing.uos_3.3.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.rishiqing.uos/com.rishiqing.uos_3.3.1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

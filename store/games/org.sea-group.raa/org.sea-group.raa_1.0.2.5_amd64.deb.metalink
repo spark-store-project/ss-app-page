@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.sea-group.raa_1.0.2.5_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">d843f946aa8cbcd76c006656dc43fa90</hash>
+				  
+				<hash type="sha1">c4061439626e6c1b3b778b0cee28bcabc314826f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/org.sea-group.raa/org.sea-group.raa_1.0.2.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/org.sea-group.raa/org.sea-group.raa_1.0.2.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/org.sea-group.raa/org.sea-group.raa_1.0.2.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/org.sea-group.raa/org.sea-group.raa_1.0.2.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/org.sea-group.raa/org.sea-group.raa_1.0.2.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/org.sea-group.raa/org.sea-group.raa_1.0.2.5_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

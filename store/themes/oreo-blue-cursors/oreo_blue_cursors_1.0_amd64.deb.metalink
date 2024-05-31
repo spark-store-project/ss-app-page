@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="oreo_blue_cursors_1.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">833e7563596f2ecc94c27f0b5b3ab94f</hash>
+				  
+				<hash type="sha1">2d92dceeb56ad5eabbd09f33a099ac2091bb7b29</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/themes/oreo-blue-cursors/oreo_blue_cursors_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/themes/oreo-blue-cursors/oreo_blue_cursors_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/themes/oreo-blue-cursors/oreo_blue_cursors_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/themes/oreo-blue-cursors/oreo_blue_cursors_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/themes/oreo-blue-cursors/oreo_blue_cursors_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/themes/oreo-blue-cursors/oreo_blue_cursors_1.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

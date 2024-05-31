@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="one-key-shut-screen_1.0.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7e318d2bdf51693d76db0b2a4da9c4c9</hash>
+				  
+				<hash type="sha1">7514abf8332046935640391f7d39262059c29f62</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/one-key-shut-screen/one-key-shut-screen_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/one-key-shut-screen/one-key-shut-screen_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/one-key-shut-screen/one-key-shut-screen_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/one-key-shut-screen/one-key-shut-screen_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/one-key-shut-screen/one-key-shut-screen_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/one-key-shut-screen/one-key-shut-screen_1.0.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

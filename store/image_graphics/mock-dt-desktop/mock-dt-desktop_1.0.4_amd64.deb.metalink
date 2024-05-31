@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="mock-dt-desktop_1.0.4_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">298a4ff5f0dfde57b94dbc6c69beb30e</hash>
+				  
+				<hash type="sha1">3dfaf5d1e83ad5ec991679741fc98b4f51997397</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/mock-dt-desktop/mock-dt-desktop_1.0.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/mock-dt-desktop/mock-dt-desktop_1.0.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/mock-dt-desktop/mock-dt-desktop_1.0.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/mock-dt-desktop/mock-dt-desktop_1.0.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/mock-dt-desktop/mock-dt-desktop_1.0.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/mock-dt-desktop/mock-dt-desktop_1.0.4_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

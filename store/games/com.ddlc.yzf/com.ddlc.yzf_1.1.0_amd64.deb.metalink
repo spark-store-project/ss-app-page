@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.ddlc.yzf_1.1.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">4124027efe5f9682925731fd2db14bf0</hash>
+				  
+				<hash type="sha1">2946e43cf89d0c463f7fb704fc7ec797dca54190</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.ddlc.yzf/com.ddlc.yzf_1.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.ddlc.yzf/com.ddlc.yzf_1.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.ddlc.yzf/com.ddlc.yzf_1.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.ddlc.yzf/com.ddlc.yzf_1.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.ddlc.yzf/com.ddlc.yzf_1.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.ddlc.yzf/com.ddlc.yzf_1.1.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

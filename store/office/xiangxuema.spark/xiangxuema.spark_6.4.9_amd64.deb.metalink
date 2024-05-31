@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="xiangxuema.spark_6.4.9_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f44e02a5773d56ab8b653bdd154a3c72</hash>
+				  
+				<hash type="sha1">3ed8186bf03436ab17dba1749a44118e33530dd8</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/xiangxuema.spark/xiangxuema.spark_6.4.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/xiangxuema.spark/xiangxuema.spark_6.4.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/xiangxuema.spark/xiangxuema.spark_6.4.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/xiangxuema.spark/xiangxuema.spark_6.4.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/xiangxuema.spark/xiangxuema.spark_6.4.9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/xiangxuema.spark/xiangxuema.spark_6.4.9_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

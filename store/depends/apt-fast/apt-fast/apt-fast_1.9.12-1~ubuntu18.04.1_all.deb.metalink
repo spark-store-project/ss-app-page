@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="apt-fast_1.9.12-1~ubuntu18.04.1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1a2db7eeba0318b4fa9513f9e6539ef8</hash>
+				  
+				<hash type="sha1">115e6cd16569bf7931bfb3e33b83d68e4d33f96f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/apt-fast/apt-fast/apt-fast_1.9.12-1~ubuntu18.04.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/apt-fast/apt-fast/apt-fast_1.9.12-1~ubuntu18.04.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/apt-fast/apt-fast/apt-fast_1.9.12-1~ubuntu18.04.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/apt-fast/apt-fast/apt-fast_1.9.12-1~ubuntu18.04.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/apt-fast/apt-fast/apt-fast_1.9.12-1~ubuntu18.04.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/apt-fast/apt-fast/apt-fast_1.9.12-1~ubuntu18.04.1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

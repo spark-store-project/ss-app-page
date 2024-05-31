@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="python3-pyqt5.qtopengl_5.15.10_plus_dfsg-1_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">78bdd066fef4ef45e3b4bffe4cd8aac3</hash>
+				  
+				<hash type="sha1">6c87f3b99d458ad029ae6903d47ae89ee8f17cc2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/depends/pyqt5/deep-wine-runner-deepin23-loong64-depends/python3-pyqt5.qtopengl_5.15.10_plus_dfsg-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/depends/pyqt5/deep-wine-runner-deepin23-loong64-depends/python3-pyqt5.qtopengl_5.15.10_plus_dfsg-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/depends/pyqt5/deep-wine-runner-deepin23-loong64-depends/python3-pyqt5.qtopengl_5.15.10_plus_dfsg-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/depends/pyqt5/deep-wine-runner-deepin23-loong64-depends/python3-pyqt5.qtopengl_5.15.10_plus_dfsg-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/depends/pyqt5/deep-wine-runner-deepin23-loong64-depends/python3-pyqt5.qtopengl_5.15.10_plus_dfsg-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/depends/pyqt5/deep-wine-runner-deepin23-loong64-depends/python3-pyqt5.qtopengl_5.15.10_plus_dfsg-1_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

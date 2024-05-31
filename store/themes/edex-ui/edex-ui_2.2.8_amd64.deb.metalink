@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="edex-ui_2.2.8_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ad51164ca2d4683db583b2a579dadb2e</hash>
+				  
+				<hash type="sha1">f230d9b07b7ebaf8bf0f4cf073fc1d30cfd58072</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/themes/edex-ui/edex-ui_2.2.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/themes/edex-ui/edex-ui_2.2.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/themes/edex-ui/edex-ui_2.2.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/themes/edex-ui/edex-ui_2.2.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/themes/edex-ui/edex-ui_2.2.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/themes/edex-ui/edex-ui_2.2.8_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

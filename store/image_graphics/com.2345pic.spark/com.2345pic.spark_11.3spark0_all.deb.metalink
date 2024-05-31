@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.2345pic.spark_11.3spark0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ea98251971a7aa8d1ff94b2df3c50dc3</hash>
+				  
+				<hash type="sha1">f9d3ca32de929c03e989b8cf0c21dccb630aeb9e</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.2345pic.spark/com.2345pic.spark_11.3spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/com.2345pic.spark/com.2345pic.spark_11.3spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/com.2345pic.spark/com.2345pic.spark_11.3spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/com.2345pic.spark/com.2345pic.spark_11.3spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/com.2345pic.spark/com.2345pic.spark_11.3spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/com.2345pic.spark/com.2345pic.spark_11.3spark0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

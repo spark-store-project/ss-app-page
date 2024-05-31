@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="co.jianpian8.player_4.2.3.48_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">759621125827c479d2ca1d1bd8a95b72</hash>
+				  
+				<hash type="sha1">8ef473a888a0ccaef8fa728d6aa2c5b8140a59e0</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/video/co.jianpian8.player/co.jianpian8.player_4.2.3.48_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/video/co.jianpian8.player/co.jianpian8.player_4.2.3.48_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/video/co.jianpian8.player/co.jianpian8.player_4.2.3.48_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/video/co.jianpian8.player/co.jianpian8.player_4.2.3.48_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/video/co.jianpian8.player/co.jianpian8.player_4.2.3.48_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/video/co.jianpian8.player/co.jianpian8.player_4.2.3.48_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

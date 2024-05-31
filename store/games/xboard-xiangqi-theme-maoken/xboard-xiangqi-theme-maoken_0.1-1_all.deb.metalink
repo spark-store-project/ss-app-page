@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="xboard-xiangqi-theme-maoken_0.1-1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a60597d4fe68aa1779b096d1029ecb65</hash>
+				  
+				<hash type="sha1">bc1db2a2fa885a9a03e5e17332b1ec8e97b93209</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/xboard-xiangqi-theme-maoken/xboard-xiangqi-theme-maoken_0.1-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/xboard-xiangqi-theme-maoken/xboard-xiangqi-theme-maoken_0.1-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/xboard-xiangqi-theme-maoken/xboard-xiangqi-theme-maoken_0.1-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/xboard-xiangqi-theme-maoken/xboard-xiangqi-theme-maoken_0.1-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/xboard-xiangqi-theme-maoken/xboard-xiangqi-theme-maoken_0.1-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/xboard-xiangqi-theme-maoken/xboard-xiangqi-theme-maoken_0.1-1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

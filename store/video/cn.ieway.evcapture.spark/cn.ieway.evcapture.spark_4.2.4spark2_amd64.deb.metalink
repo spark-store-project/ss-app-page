@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.ieway.evcapture.spark_4.2.4spark2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">8ec8cfe50980ea73008af42227f15fe7</hash>
+				  
+				<hash type="sha1">dd56a9ce9d4ccfa2bea22447e9a0d79dd2bdf481</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/video/cn.ieway.evcapture.spark/cn.ieway.evcapture.spark_4.2.4spark2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/video/cn.ieway.evcapture.spark/cn.ieway.evcapture.spark_4.2.4spark2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/video/cn.ieway.evcapture.spark/cn.ieway.evcapture.spark_4.2.4spark2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/video/cn.ieway.evcapture.spark/cn.ieway.evcapture.spark_4.2.4spark2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/video/cn.ieway.evcapture.spark/cn.ieway.evcapture.spark_4.2.4spark2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/video/cn.ieway.evcapture.spark/cn.ieway.evcapture.spark_4.2.4spark2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,16 @@
+{
+    "Name": "Effie",
+    "Version": "3.5.1spark12",
+    "Filename": "co.effie.spark_3.5.1spark12_all.deb",
+    "Torrent_address": "co.effie.spark_3.5.1spark12_all.deb.torrent",
+    "Pkgname": "co.effie.spark",
+    "Author": "上海七加二科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.effie.co/",
+    "Update": "2024-02-26 23:21:21",
+    "Size": "83.94 MB",
+    "More": "一款思想家专用的写作软件。无论是严肃写作,随手记录,亦或是把逻辑完善成思维导图,Effie都是您明智的选择\n\n更新说明：\n1.通过spark-dwine-helper脚本自适应高分屏，根据用户设置的屏幕缩放倍数自动调整应用界面的缩放\n2.deepin下默认调用系统文管，Ubuntu下默认调用wine文管\n已知问题：\n当导出文档为PDF时程序报错，导出图片、Word和MD文档则正常",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/7107cd207f144847b573a28242215315.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/f8dc1af5bc8f45dfbbd5b77c6db15456.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/70b32595695348a3a82d548fd5a4f303.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/26/970bd814b5674635a01321eb97cc6bb5.png"
+}

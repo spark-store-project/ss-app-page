@@ -1,0 +1,16 @@
+{
+    "Name": "闹钟宝贝",
+    "Version": "2.03",
+    "Filename": "com.alarm-clock-baby.spark_2.03_amd64.deb",
+    "Torrent_address": "com.alarm-clock-baby.spark_2.03_amd64.deb.torrent",
+    "Pkgname": "com.alarm-clock-baby.spark",
+    "Author": "fax928 <264214467@qq.com>",
+    "Contributor": "fax928",
+    "Website": "https://gitee.com/wu-wanjia/alarm-clock-baby",
+    "Update": "2023-12-30 22:53:41",
+    "Size": "2.57 MB",
+    "More": "一款闹钟/计时器程序，程序的存储文件保存在<文档>目录下。支持自定义音乐和背景图片。还支持响铃时运行文件。\n安装完后若启动器里找不到重启一下即恢复正常。\n\nV2.01(2023-08-02)   1-新增支持运行.sh文件。(没sudo的话直接输入命令即可，例如   reboot。有sudo的话例如   echo mypassword | sudo -S reboot，mypassword换成密码，reboot换成要执行的命令。)   2-托盘菜单新增退出程序按钮。  3-优化了帮助窗口的滚动条设置以及禁止了帮助窗口调节大小。\n\n\nV2.02(2023-12-18)   1-新增程序最小化时闹铃强制显示提醒，点击上方工具栏按钮切换。\n\n\nV2.03(2023-12-27)   1-修复不反复闹铃且有每周重复日的情况下闹铃不会停止。   2-新建/编辑窗口里的重复闹铃按钮名称改为反复闹铃（反复闹铃是闹铃时反复播放音乐。每周重复日是会每周重复闹铃。）   3-修复一些bug。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/f8185ce6cd33414d8d31ea53757705fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/b6dad26682dc4b3a8f94ff85b6d089be.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/6a7036bd49c642999375ac246a62d499.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/d71bf0ee01d44dac91111b5cd7995d49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/da36126c6b244483ae43c78acc872b95.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/e7f3fd866c0e48239d41214717dd3c70.png"
+}

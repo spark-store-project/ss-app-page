@@ -1,0 +1,69 @@
+[
+
+    {
+        "Name": "ACE Bookworm兼容环境",
+        "Pkgname": "cn.flamescion.bookworm-compatibility-mode",
+        "Category": "tools",
+        "More": "ACE兼容环境，使用bwrap容器在deepin或UOS上使用Debian 12的应用，为你带来更好的使用体验！\n\n兼容环境内不允许提权，若要在容器内使用root，请使用 sudo bookworm-run"
+    },
+    {
+        "Name": "微信（wine）",
+        "Pkgname": "com.qq.weixin.spark",
+        "Category": "chat",
+        "More": "微信PC客户端 \n\n更新说明：\n1.deepin下运行效果较好，各项功能（包括朋友圈、小程序、视频通话、截图等）均可正常使用；\n2.修复了Ubuntu22.04下不显示图片的问题，但摄像头、小程序、截图等仍然存在问题。"
+    },
+    {
+        "Name": "微信(Universal)",
+        "Pkgname": "store.spark-app.wechat-linux-spark",
+        "Category": "chat",
+        "More": "新特性\n\n全新升级 "
+    },
+    {
+        "Name": "火狐浏览器国际版",
+        "Pkgname": "firefox-spark",
+        "Category": "network",
+        "More": "Firefox是一个自由和开放源代码的网页浏览器 "
+    },
+    {
+        "Name": "星火应用管理器",
+        "Pkgname": "com.github.ccc-app-manager",
+        "Category": "tools",
+        "More": "应用管理器，可查看应用包信息，可卸载和打开应用，可在线或离线提取安装包\n-------------------------------------\n0.0.7-1更新内容：\n修复：\n1、启动器中应用不能识别在/usr/share/applications/下存在多个desktop文件的软件包（如vscode）；\n2、将保持版本类应用列表中应用全部移除后崩溃\n\n添加功能：\n1、调整软件图标；\n2、完善离线打包debian目录文件，支持shlibs文件和symbols文件；\n3、识别dpkg/info/目录下包含架构名的文件；\n4、优化离线打包流程，离线打包开始前增加确认对话框；\n5、软件包大小显示随字节大小阶梯展示；\n6、增加文本内容查找功能"
+    },
+    {
+        "Name": "QQ NT(Linux)",
+        "Pkgname": "linuxqq",
+        "Category": "chat",
+        "More": "腾讯QQ linux版本\n似乎现在开放了，任何人都可以登陆\n公测群号：664124315"
+    },
+    {
+        "Name": "WPS Office",
+        "Pkgname": "wps-office",
+        "Category": "office",
+        "More": "WPS Office"
+    },
+    {
+        "Name": "百度翻译（Linux）",
+        "Pkgname": "com.baidu.translateclient",
+        "Category": "reading",
+        "More": "从UOS提取的百度翻译"
+    },
+     {
+        "Name": "Adobe Photoshop CS6",
+        "Pkgname": "com.photoshopcs6.deepin",
+        "Category": "image_graphics",
+        "More": "Adobe PhotoShop CS6是一款强大的图片编辑软件。可对已有的位图图像进行编辑加工处理以及运用一些特殊效果，其重点在于对图像的处理加工；可按照自己的构思创意，使用矢量图形等来设计图形。"
+    },
+     {
+        "Name": "Steam",
+        "Pkgname": "steam-launcher",
+        "Category": "games",
+        "More": "Steam平台是目前全球最大的综合性数字发行平台之一。玩家可以在该平台购买、下载、讨论、上传和分享游戏和软件。"
+    },
+    {
+        "Name": "Win字体",
+        "Pkgname": "winfonts",
+        "Category": "others",
+        "More": "一名搬运工，作者是【雨恋凡尘】，在【https://bbs.deepin.org/zh/post/210103】"
+    }
+]

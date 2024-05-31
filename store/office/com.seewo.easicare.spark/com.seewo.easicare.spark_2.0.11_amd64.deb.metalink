@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.seewo.easicare.spark_2.0.11_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">916a0f6b1cab7d2175fb2ab345661430</hash>
+				  
+				<hash type="sha1">3c9614166776d826bd140323894c21d31ba9b1b0</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.seewo.easicare.spark/com.seewo.easicare.spark_2.0.11_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.seewo.easicare.spark/com.seewo.easicare.spark_2.0.11_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.seewo.easicare.spark/com.seewo.easicare.spark_2.0.11_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.seewo.easicare.spark/com.seewo.easicare.spark_2.0.11_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.seewo.easicare.spark/com.seewo.easicare.spark_2.0.11_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.seewo.easicare.spark/com.seewo.easicare.spark_2.0.11_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

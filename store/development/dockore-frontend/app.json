@@ -1,0 +1,15 @@
+{
+    "Name": "Dockore",
+    "Version": "0.2.3",
+    "Filename": "dockore-frontend_0.2.3_amd64.deb",
+    "Pkgname": "dockore-frontend",
+    "Author": "HsOjo",
+    "Contributor": "HsOjo",
+    "Website": "https://github.com/HsOjo/Dockore",
+    "Update": "2021-08-28 18:21:20",
+    "Size": "79.7 MB",
+    "More": "一个简单、便捷、开箱即用的Docker GUI客户端。\n用户数据存放于：~/.config/dockore-frontend，如需重置，删除即可。\n如使用Unix Socket方式连接，需要确保当前用户拥有 docker.sock 的操作权限。\n当前版本为开发版，请勿修改数据库设置，否则需要手动编辑用户数据文件（或重置）。",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/28/71f5a0a0-07e9-11ec-b7bb-edb42d6e3e89.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/28/7bfceb30-07e9-11ec-b7bb-edb42d6e3e89.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/28/833bee00-07e9-11ec-b7bb-edb42d6e3e89.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/28/8a7c2950-07e9-11ec-b7bb-edb42d6e3e89.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/28/8c99d930-07e9-11ec-b7bb-edb42d6e3e89.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/28/82b2b640-07e8-11ec-b7bb-edb42d6e3e89.png"
+}

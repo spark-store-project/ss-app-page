@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="podman-desktop-companion_4.1.0-rc.28_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e89028a672d208cd4a26da135e087df8</hash>
+				  
+				<hash type="sha1">94ab143cdb739ca46c4f3bb0d51d5baba233e59b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/podman-desktop-companion/podman-desktop-companion_4.1.0-rc.28_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/podman-desktop-companion/podman-desktop-companion_4.1.0-rc.28_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/podman-desktop-companion/podman-desktop-companion_4.1.0-rc.28_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/podman-desktop-companion/podman-desktop-companion_4.1.0-rc.28_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/podman-desktop-companion/podman-desktop-companion_4.1.0-rc.28_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/podman-desktop-companion/podman-desktop-companion_4.1.0-rc.28_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

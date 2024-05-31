@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="app.netlify.flbmusic.spark_1.1.9spark1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c13a574ba3cbf8c4517fe19d9fb9acf2</hash>
+				  
+				<hash type="sha1">daa2d4eae1cbcb87c10cd3f72ba74c359b03a45c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/music/app.netlify.flbmusic.spark/app.netlify.flbmusic.spark_1.1.9spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/music/app.netlify.flbmusic.spark/app.netlify.flbmusic.spark_1.1.9spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/music/app.netlify.flbmusic.spark/app.netlify.flbmusic.spark_1.1.9spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/music/app.netlify.flbmusic.spark/app.netlify.flbmusic.spark_1.1.9spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/music/app.netlify.flbmusic.spark/app.netlify.flbmusic.spark_1.1.9spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/music/app.netlify.flbmusic.spark/app.netlify.flbmusic.spark_1.1.9spark1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

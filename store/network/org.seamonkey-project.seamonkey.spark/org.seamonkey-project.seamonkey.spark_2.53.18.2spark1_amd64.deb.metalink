@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.seamonkey-project.seamonkey.spark_2.53.18.2spark1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c73b738696bfbc6292d687d9e308606a</hash>
+				  
+				<hash type="sha1">c38debb348e1b543aa931877afbc4a039a3ca82b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/org.seamonkey-project.seamonkey.spark/org.seamonkey-project.seamonkey.spark_2.53.18.2spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/org.seamonkey-project.seamonkey.spark/org.seamonkey-project.seamonkey.spark_2.53.18.2spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/org.seamonkey-project.seamonkey.spark/org.seamonkey-project.seamonkey.spark_2.53.18.2spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/org.seamonkey-project.seamonkey.spark/org.seamonkey-project.seamonkey.spark_2.53.18.2spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/org.seamonkey-project.seamonkey.spark/org.seamonkey-project.seamonkey.spark_2.53.18.2spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/org.seamonkey-project.seamonkey.spark/org.seamonkey-project.seamonkey.spark_2.53.18.2spark1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

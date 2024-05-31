@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.thunisoft.input.spark_2.3.1.21_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7689a531606b284a313d2138e89c6de0</hash>
+				  
+				<hash type="sha1">113aba1d4d5a63b25e00e0824509b8e9f9c5f040</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.thunisoft.input/com.thunisoft.input.spark_2.3.1.21_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.thunisoft.input/com.thunisoft.input.spark_2.3.1.21_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.thunisoft.input/com.thunisoft.input.spark_2.3.1.21_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.thunisoft.input/com.thunisoft.input.spark_2.3.1.21_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.thunisoft.input/com.thunisoft.input.spark_2.3.1.21_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.thunisoft.input/com.thunisoft.input.spark_2.3.1.21_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

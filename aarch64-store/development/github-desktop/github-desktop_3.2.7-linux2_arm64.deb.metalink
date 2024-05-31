@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="github-desktop_3.2.7-linux2_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">15d3adc7f0609e442a4a83355a16e498</hash>
+				  
+				<hash type="sha1">8621c593289ea0f612e8bf52e04b2aa682a7ad8d</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/development/github-desktop/github-desktop_3.2.7-linux2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/development/github-desktop/github-desktop_3.2.7-linux2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/development/github-desktop/github-desktop_3.2.7-linux2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/development/github-desktop/github-desktop_3.2.7-linux2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/development/github-desktop/github-desktop_3.2.7-linux2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/development/github-desktop/github-desktop_3.2.7-linux2_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

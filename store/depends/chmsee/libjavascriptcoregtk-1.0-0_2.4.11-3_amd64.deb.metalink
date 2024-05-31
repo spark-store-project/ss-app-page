@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libjavascriptcoregtk-1.0-0_2.4.11-3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">97a70a757f6d113b8820c7dc791a6126</hash>
+				  
+				<hash type="sha1">245498fe7f1985690239ffc42cda3ec8e5623397</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/chmsee/libjavascriptcoregtk-1.0-0_2.4.11-3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/chmsee/libjavascriptcoregtk-1.0-0_2.4.11-3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/chmsee/libjavascriptcoregtk-1.0-0_2.4.11-3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/chmsee/libjavascriptcoregtk-1.0-0_2.4.11-3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/chmsee/libjavascriptcoregtk-1.0-0_2.4.11-3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/chmsee/libjavascriptcoregtk-1.0-0_2.4.11-3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

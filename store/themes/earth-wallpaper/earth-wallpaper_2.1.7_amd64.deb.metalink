@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="earth-wallpaper_2.1.7_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9292e494d8bf67cc1213977b77fb4023</hash>
+				  
+				<hash type="sha1">583474893e430616c41d9cf4881e7446056e6939</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/themes/earth-wallpaper/earth-wallpaper_2.1.7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/themes/earth-wallpaper/earth-wallpaper_2.1.7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/themes/earth-wallpaper/earth-wallpaper_2.1.7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/themes/earth-wallpaper/earth-wallpaper_2.1.7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/themes/earth-wallpaper/earth-wallpaper_2.1.7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/themes/earth-wallpaper/earth-wallpaper_2.1.7_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

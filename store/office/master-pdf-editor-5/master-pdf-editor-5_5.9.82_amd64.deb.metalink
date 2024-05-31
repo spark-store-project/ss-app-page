@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="master-pdf-editor-5_5.9.82_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5db18917f2856a4c386686f1c6b215d4</hash>
+				  
+				<hash type="sha1">6b53ebe46a95f84699be4011c53f0b76f8d34699</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/master-pdf-editor-5/master-pdf-editor-5_5.9.82_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/master-pdf-editor-5/master-pdf-editor-5_5.9.82_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/master-pdf-editor-5/master-pdf-editor-5_5.9.82_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/master-pdf-editor-5/master-pdf-editor-5_5.9.82_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/master-pdf-editor-5/master-pdf-editor-5_5.9.82_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/master-pdf-editor-5/master-pdf-editor-5_5.9.82_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

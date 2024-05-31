@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.360.electron360-api-demos_16.0.3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">242b51dd2d3e304c5910dc485e66b615</hash>
+				  
+				<hash type="sha1">6eba4d718be05a2290016467195a8a2deeb75f07</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/com.360.electron360-api-demos/com.360.electron360-api-demos_16.0.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/com.360.electron360-api-demos/com.360.electron360-api-demos_16.0.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/com.360.electron360-api-demos/com.360.electron360-api-demos_16.0.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/com.360.electron360-api-demos/com.360.electron360-api-demos_16.0.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/com.360.electron360-api-demos/com.360.electron360-api-demos_16.0.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/com.360.electron360-api-demos/com.360.electron360-api-demos_16.0.3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

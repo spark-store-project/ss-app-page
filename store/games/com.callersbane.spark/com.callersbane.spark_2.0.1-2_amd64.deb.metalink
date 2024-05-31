@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.callersbane.spark_2.0.1-2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">845590d132b86a03626785ab0c7f0772</hash>
+				  
+				<hash type="sha1">1bc2e3e942512487f9b5d65651bacd621fed96c0</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.callersbane.spark/com.callersbane.spark_2.0.1-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.callersbane.spark/com.callersbane.spark_2.0.1-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.callersbane.spark/com.callersbane.spark_2.0.1-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.callersbane.spark/com.callersbane.spark_2.0.1-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.callersbane.spark/com.callersbane.spark_2.0.1-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.callersbane.spark/com.callersbane.spark_2.0.1-2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

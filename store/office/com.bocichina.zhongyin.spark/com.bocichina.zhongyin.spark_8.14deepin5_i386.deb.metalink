@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.bocichina.zhongyin.spark_8.14deepin5_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">88ede2abbdf24d12535054115fdfb080</hash>
+				  
+				<hash type="sha1">3e39e4428a2216d7f87b14ba5de8052bc0fb48ba</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.bocichina.zhongyin.spark/com.bocichina.zhongyin.spark_8.14deepin5_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.bocichina.zhongyin.spark/com.bocichina.zhongyin.spark_8.14deepin5_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.bocichina.zhongyin.spark/com.bocichina.zhongyin.spark_8.14deepin5_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.bocichina.zhongyin.spark/com.bocichina.zhongyin.spark_8.14deepin5_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.bocichina.zhongyin.spark/com.bocichina.zhongyin.spark_8.14deepin5_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.bocichina.zhongyin.spark/com.bocichina.zhongyin.spark_8.14deepin5_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

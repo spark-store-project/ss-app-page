@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.github.ccc-app-manager_0.0.11_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">85cc76884c998f4419d0ad52f717f502</hash>
+				  
+				<hash type="sha1">53e832f33e5f893be9e2bfee55e7fab6f4a3a47b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.github.ccc-app-manager/com.github.ccc-app-manager_0.0.11_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/tools/com.github.ccc-app-manager/com.github.ccc-app-manager_0.0.11_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/tools/com.github.ccc-app-manager/com.github.ccc-app-manager_0.0.11_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/tools/com.github.ccc-app-manager/com.github.ccc-app-manager_0.0.11_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/tools/com.github.ccc-app-manager/com.github.ccc-app-manager_0.0.11_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/tools/com.github.ccc-app-manager/com.github.ccc-app-manager_0.0.11_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

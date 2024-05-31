@@ -1,0 +1,437 @@
+[
+{
+    "Author": "deepin-wine team",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.photoshopcs6.deepin_13.1spark1_all.deb",
+    "More": "photoshopcs6 on Wine\n根据之前留存在本地的容器打包，深度应用商店的PS CS6被下架了\n\n神秘链接：https://bbs.deepin.org/post/235013",
+    "Name": "Adobe Photoshop CS6",
+    "Pkgname": "com.photoshopcs6.deepin",
+    "Size": "560 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.photoshopcs6.deepin_13.1spark1_all.deb.torrent",
+    "Update": "2023-08-04 15:21:44",
+    "Version": "13.1spark1",
+    "Website": "https://www.adobe.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.photoshopcs6.deepin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.photoshopcs6.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.photoshopcs6.deepin/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>",
+    "Contributor": "Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>",
+    "Filename": "gimp-spark_2.10.8-2.1_all.deb",
+    "More": "这是一个基于ACE-loongnix容器的应用\n\nGIMP 是一款强大的图像处理软件。\n\nupdate info:\n更新打包的平台兼容性\n\n有更新请在星火用户群@uni\nGIMP官网：https://www.gimp.org/。",
+    "Name": "GIMP(ACE)",
+    "Pkgname": "gimp-spark",
+    "Size": "1 Kb",
+    "Tags": "community;deepin;uos;ubuntu;a2d",
+    "Torrent_address": "gimp-spark_2.10.8-2.1_all.deb.torrent",
+    "Update": "2024-03-23 11:31:23",
+    "Version": "2.10.8-2.1",
+    "Website": "https://gitee.com/spark-building-service/ace-host-package-creator",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/gimp-spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/gimp-spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/gimp-spark/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "weizuxing <weizuxing@photosir.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "cn.photosir.himirage_2.0.7.31228_loong64.deb",
+    "More": "悟空图像是一款强大的图像处理软件，照片裁剪、图像编辑、特效蒙版、图形设计、炫彩文字随心创作，让设计触手可得。",
+    "Name": "悟空图像",
+    "Pkgname": "cn.photosir.himirage",
+    "Size": "196 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "cn.photosir.himirage_2.0.7.31228_loong64.deb.torrent",
+    "Update": "2024-03-23 12:34:04",
+    "Version": "2.0.7.31228",
+    "Website": "https://www.photosir.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.photosir.himirage/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.photosir.himirage/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.sugarcane.adobe.photoshop_19.0spark5_all.deb",
+    "More": "Adobe PhotoShop CC是一款强大的图片编辑软件。可对已有的位图图像进行编辑加工处理以及运用一些特殊效果，其重点在于对图像的处理加工；可按照自己的构思创意，使用矢量图形等来设计图形。",
+    "Name": "Adobe Photoshop CC 2018",
+    "Pkgname": "com.sugarcane.adobe.photoshop",
+    "Size": "675 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.sugarcane.adobe.photoshop_19.0spark5_all.deb.torrent",
+    "Update": "2024-04-04 19:04:16",
+    "Version": "19.0spark5",
+    "Website": "https://www.adobe.com/cn/products/photoshop.html",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.sugarcane.adobe.photoshop/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.sugarcane.adobe.photoshop/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.sugarcane.adobe.photoshop/screen_2.png\"]"
+}
+
+,
+{
+    "Name": "美图秀秀7.0",
+    "Version": "7.0",
+    "Filename": "com.mtxx.wine_7.0_all.deb",
+    "Torrent_address": "com.mtxx.wine_7.0_all.deb.torrent",
+    "Pkgname": "com.mtxx.wine",
+    "Author": "LFRon",
+    "Contributor": "LFRon",
+    "Website": "https://pc.meitu.com/",
+    "Update": "2024-02-15 21:34:33",
+    "Size": "284.7 MB",
+    "More": "Deepin-wine8运行的美图秀秀7.0-AI版本(64位)\n\n目前除了批处理会一直加载无法进入以外,没有其它问题,若发现其它问题欢迎反馈~",
+    "Tags": "ubuntu;deepin;uos;dwine2;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/666a8eddba6e4fdd84772e3fd1146aed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/f7329e7568ff46a3b6dcdba54920bba8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/e8957517f0704012b3a5479b805a217d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/c85b0409a52b461fa0fd777d171d6293.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/15/aa929c369b724442b9969f8bb7fa63fb.png"
+}
+,
+{
+    "Author": "Deepin Packages Builder <packages@deepin.com>",
+    "Contributor": "Deepin Packages Builder <packages@deepin.com>",
+    "Filename": "deepin-screen-recorder_6.0.1_loong64.deb",
+    "More": " 这是deepin官方的龙芯新世界的工具，部分没有预装的V23测试版用户可以选择安装\nA simple screen shot and recorder tools for UOS\n",
+    "Name": "截图录屏",
+    "Pkgname": "deepin-screen-recorder",
+    "Size": "10 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "deepin-screen-recorder_6.0.1_loong64.deb.torrent",
+    "Update": "2024-03-23 23:58:40",
+    "Version": "6.0.1",
+    "Website": "https://github.com/linuxdeepin/deepin-screen-recorder",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/deepin-screen-recorder/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/deepin-screen-recorder/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "leijie <leijie@zwcad.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.zwsoft.zwcad2024_24.1.3.4_loong64.deb",
+    "More": "ZWCAD2024 Linux是ZWSOFT研发的计算机辅助设计软件。",
+    "Name": "中望 CAD 2024",
+    "Pkgname": "com.zwsoft.zwcad2024",
+    "Size": "175 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.zwsoft.zwcad2024_24.1.3.4_loong64.deb.torrent",
+    "Update": "2024-03-24 14:39:05",
+    "Version": "24.1.3.4",
+    "Website": "https://www.zwsoft.cn",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.zwsoft.zwcad2024/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.zwsoft.zwcad2024/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.zwsoft.zwcad2024/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.zwsoft.zwcad2024/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.zwsoft.zwcad2024/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "support <support@gstarcad.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.gstarcad.cad_24.1_loong64.deb",
+    "More": "本产品是浩辰公司基于Linux系统开发的可视化计算机辅助绘图软件，可以完美兼容R14-2018各版本DWG/DXF图纸及字体、线型和填充等相关数据文件，可进行常规的图形绘制和编辑操作，支持文字和尺寸标注，可插入图块和外部参照，让用户可以脱离WINDOWS系统也能完成机械、建筑、规划、交通、勘察、石化等各种图纸的查看、绘制、归档和输出。当您安装使用本产品时必须遵循本产品的《最终用户许可协议》。",
+    "Name": "浩辰CAD For Linux",
+    "Pkgname": "com.gstarcad.cad",
+    "Size": "276 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.gstarcad.cad_24.1_loong64.deb.torrent",
+    "Update": "2024-03-24 14:20:52",
+    "Version": "24.1",
+    "Website": "https://www.gstarcad.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.gstarcad.cad/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.gstarcad.cad/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "嘉立创 <lichuang>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "cn.lceda.pro_2.1.42_loong64.deb",
+    "More": "专业、强大的国产PCB设计工具，永久免费 \n全新的交互式布线引擎，流畅，不卡顿 \n完全的独立自主知识产权，让您放心专注于设计 \n下一代工程师的首选EDA工具",
+    "Name": "嘉立创EDA专业版",
+    "Pkgname": "cn.lceda.pro",
+    "Size": "169 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "cn.lceda.pro_2.1.42_loong64.deb.torrent",
+    "Update": "2024-03-23 12:17:16",
+    "Version": "2.1.42",
+    "Website": "https://pro.lceda.cn/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.lceda.pro/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.lceda.pro/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.lceda.pro/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.lceda.pro/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "support <support@gstarcad.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.gstarcad2023.cad_23.0.2_loong64.deb",
+    "More": "本产品是浩辰公司基于Linux系统开发的可视化计算机辅助绘图软件，可以完美兼容R14-2018各版本DWG/DXF图纸及字体、线型和填充等相关数据文件，可进行常规的图形绘制和编辑操作，支持文字和尺寸标注，可插入图块和外部参照，让用户可以脱离WINDOWS系统也能完成机械、建筑、规划、交通、勘察、石化等各种图纸的查看、绘制、归档和输出。当您安装使用本产品时必须遵循本产品的《最终用户许可协议》。",
+    "Name": "浩辰CAD 2023 For Linux",
+    "Pkgname": "com.gstarcad2023.cad",
+    "Size": "100 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.gstarcad2023.cad_23.0.2_loong64.deb.torrent",
+    "Update": "2024-03-24 14:28:29",
+    "Version": "23.0.2",
+    "Website": "https://www.gstarcad.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.gstarcad2023.cad/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.gstarcad2023.cad/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.gstarcad2023.cad/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.gstarcad2023.cad/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "Liuminghang",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "durian-ocr_1.0_loong64.deb",
+    "More": "deepin-ocr的无dtk版本，可以在ubuntu20.04和debian10以上系统使用，增加了一个小界面和切换识别语言，使用方法:命令行使用:durian-ocr +路径  ，界面使用",
+    "Name": "榴莲-OCR",
+    "Pkgname": "durian-ocr",
+    "Size": "17 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "durian-ocr_1.0_loong64.deb.torrent",
+    "Update": "2024-03-24 22:13:49",
+    "Version": "1.0",
+    "Website": "http://www.deepin.org/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/durian-ocr/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/durian-ocr/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/durian-ocr/screen_2.png\"]"
+}
+
+,
+{
+    "Name": "中望3D 2023 For Linux",
+    "Version": "2023.0.3.1",
+    "Filename": "com.zwsoft.zw3dprofessional_2023.0.3.1_all.deb",
+    "Torrent_address": "com.zwsoft.zw3dprofessional_2023.0.3.1_all.deb.torrent",
+    "Pkgname": "com.zwsoft.zw3dprofessional",
+    "Author": "Yongzhuo Wei <weiyongzhuo@zwcad.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.zwsoft.cn",
+    "Update": "2023-02-27 13:36:04",
+    "Size": "478.76 MB",
+    "More": "ZW3D Linux Professional is a Demo of ZW3D Linux. ZW3D Linux Professional is an integrated CAD solution designed for Reviewing and Inspecting 3D models and 2D Drawings.  ZW3D Linux Professional also includes basic functions for 3D Modeling, 2D Sketching and 2D Drawing.",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/27/8aa9f42e15bd41d3a228017f88deb7e7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/27/cb901d634d0e4ab199310ee2976a2f30.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/27/5e8adad04a6a438ba20f8671a0801994.png"
+}
+,
+{
+    "Name": "豹图",
+    "Version": "7.1spark2",
+    "Filename": "com.bootgraph.leopardcad.spark_7.1spark2_all.deb",
+    "Torrent_address": "com.bootgraph.leopardcad.spark_7.1spark2_all.deb.torrent",
+    "Pkgname": "com.bootgraph.leopardcad.spark",
+    "Author": "佛山小图科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "http://www.bootgraph.com/#/home",
+    "Update": "2024-02-24 23:51:03",
+    "Size": "63.62 MB",
+    "More": "一款免费 CAD 快速看图工具",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/aa93dce644cb47e4bc89f06ef25e4f9b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/dfba8f3d0e69442bb4935e23ded35b34.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/e73424e8cfba400cb46a8e1e81736664.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/24/1c0bff9004144804a8b705b6056d05ed.png"
+}
+,
+{
+    "Author": "XMuli <xmulitech@gmail.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "sunny_1.6.2_loong64.deb",
+    "More": "wSunny是一款简洁且漂亮的\"截图 & 钉图\"软件，支持Windows、MacOS和Linux系统，亦支持 OCR 和图片翻译功能。官网: https://sunny.xmuli.tech",
+    "Name": "Sunny 截图",
+    "Pkgname": "sunny",
+    "Size": "604 Kb",
+    "Tags": "deepin;ubuntu",
+    "Torrent_address": "sunny_1.6.2_loong64.deb.torrent",
+    "Update": "2024-05-22 14:55:01",
+    "Version": "1.6.2",
+    "Website": "https://sunny.xmuli.tech/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/sunny/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/sunny/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/sunny/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/sunny/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/sunny/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/sunny/screen_5.png\"]"
+}
+
+,
+{
+   "Name":"Pinta",
+   "Version":"1.7",
+   "Filename":"pinta_1.7-0ppa1_bionic1_all.deb",
+   "Pkgname":"pinta",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://www.pinta-project.com/",
+   "Update":"2020-08-10 18:37",
+   "Size":"763.28KB",
+   "More":"Pinta是一个免费的开源程序，用于绘图和图像编辑。"
+}
+
+,
+{
+    "Name": "Curtail图片压缩工具（汉化版）",
+    "Version": "1.3.1-0.1~mx19+1",
+    "Filename": "curtail_1.3.1-0.1~mx19_plus1_all.deb",
+    "Torrent_address": "curtail_1.3.1-0.1~mx19_plus1_all.deb.torrent",
+    "Pkgname": "curtail",
+    "Author": "OpenSource Community",
+    "Contributor": "delsin",
+    "Website": "https://github.com/Huluti/Curtail",
+    "Update": "2022-11-08 11:47:16",
+    "Size": "55.19 KB",
+    "More": "感谢deepin论坛@doodo做的汉化包，本版本为汉化版",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/08/04afd740-5f18-11ed-89e1-5799b8905b05.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/08/fe4cdc90-5f17-11ed-89e1-5799b8905b05.png"
+}
+,
+{
+    "Name": "零泉",
+    "Version": "0.7.4spark0",
+    "Filename": "cool.lingquan.spark_0.7.4spark0_all.deb",
+    "Torrent_address": "cool.lingquan.spark_0.7.4spark0_all.deb.torrent",
+    "Pkgname": "cool.lingquan.spark",
+    "Author": "广州马斯克摄影设计有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://lingquan.cool/home",
+    "Update": "2024-01-19 01:23:01",
+    "Size": "148.47 MB",
+    "More": "一款素材管理软件，可以轻松管理“图片、视频、音频、字体、3D以及设计类源文件” 等各种文件，让创意工作更加简单、高效。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/19/f7fe0929d8854556aad660f8fb712125.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/19/c4f7ff9822b14da6847c2f0c7531455f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/19/26697197d9394cb1be488141876eee5c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/19/51dd8ef914f84dada8b2ad050c7cabcf.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/19/257f58c6fea845898a5d60d9aa53ce4a.png"
+}
+,
+{
+    "Name": "汉王 PDF OCR（Wine）",
+    "Version": "8.1.4.16deepin4",
+    "Filename": "com.hwpdfocr.spark_8.1.4.16deepin4_all.deb",
+    "Torrent_address": "com.hwpdfocr.spark_8.1.4.16deepin4_all.deb.torrent",
+    "Pkgname": "com.hwpdfocr.spark",
+    "Author": "gfdgd xi<3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.hw99.com/",
+    "Update": "2023-07-12 07:59:13",
+    "Size": "26.73 MB",
+    "More": "识别正确率高，速度快带有PDF文件处理功能的OCR软件。有批量处理功能，避免了单页处理的麻烦；支持处理灰度、彩色、黑白三种色彩的BMP、TIF、JPG、PDF多种格式的图像文件；可识别简体、繁体和英文三种语言；具有简单易用的表格识别功能；具有TXT、RTF、HTM和XLS多种输出格式，并有所见即所得的版面还原功能。新增打开与识别PDF文件功能，支持文字型PDF的直接转换和图像型PDF的OCR识别，既可以采用OCR的方式将PDF文件转换为可编辑文档，也可以采用格式转换的方式直接转换文字型PDF文件为RTF文件或文本文件。本软件对个人用户免费，无需注册，无功能限制。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/12/710677c2488b490d8b3d63ab3007bdd0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/12/88e1c391b8f546eaa800f60e1e495c58.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/12/51b3008f9a364fdcb0f050e0ac278d16.png"
+}
+,
+{
+    "Author": "support <support@gstarcad.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.gstarcad2022.cad_22sp1_loong64.deb",
+    "More": "本产品是浩辰公司基于Linux系统开发的可视化计算机辅助绘图软件，可以完美兼容R14-2018各版本DWG/DXF图纸及字体、线型和填充等相关数据文件，可进行常规的图形绘制和编辑操作，支持文字和尺寸标注，可插入图块和外部参照，让用户可以脱离WINDOWS系统也能完成机械、建筑、规划、交通、勘察、石化等各种图纸的查看、绘制、归档和输出。当您安装使用本产品时必须遵循本产品的《最终用户许可协议》。",
+    "Name": "浩辰CAD 2022 For Linux",
+    "Pkgname": "com.gstarcad2022.cad",
+    "Size": "85 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.gstarcad2022.cad_22sp1_loong64.deb.torrent",
+    "Update": "2024-03-24 14:27:48",
+    "Version": "22sp1",
+    "Website": "https://www.gstarcad.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.gstarcad2022.cad/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.gstarcad2022.cad/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.gstarcad2022.cad/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "gfdgd xi",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.wpspicture.spark_6.0.0spark2_all.deb",
+    "More": "WPS图片是一款永久无广告的图片处理软件，强劲图片引擎加持，流畅查看大图；完美兼容超过17种图片格式。内含30余种图片工具，智能抠图、表情包DIY、拼图等功能助你一秒变身p图大师；更有批量处理、高级图片打印、无损压缩等功能让你的职场工作效率加倍",
+    "Name": "WPS 看图（Wine）",
+    "Pkgname": "com.wpspicture.spark",
+    "Size": "51 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.wpspicture.spark_6.0.0spark2_all.deb.torrent",
+    "Update": "2024-05-18 21:53:54",
+    "Version": "6.0.0spark2",
+    "Website": "https://photoplus.wps.cn/home",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.wpspicture.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.wpspicture.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.wpspicture.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.wpspicture.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Name": "极速图片压缩器",
+    "Version": "3.1.0spark0",
+    "Filename": "com.ticompressor.ticompressor.spark_3.1.0spark0_all.deb",
+    "Torrent_address": "com.ticompressor.ticompressor.spark_3.1.0spark0_all.deb.torrent",
+    "Pkgname": "com.ticompressor.ticompressor.spark",
+    "Author": "present ZG",
+    "Contributor": "sgb76",
+    "Website": "https://www.ticompressor.com/online/",
+    "Update": "2023-12-09 22:57:38",
+    "Size": "98.82 MB",
+    "More": "一款压缩速度极快的桌面端图片压缩软件",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/9cc6a08fcb1a48db8bb2a0be10c237de.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/b7e90c1ba59744f5982c44156443134e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/0c87c59fb8214853aebad1b59b3c9eec.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/09/8fda4657a92841b9a17fd931be956e49.png"
+}
+,
+{
+    "Author": "Deepin WINE Team and gtjdoctor@163.com",
+    "Contributor": "gfdgd-xi <3025613752@qq.com>",
+    "Filename": "com.microsoft.paint.deepin_1.0spark2_all.deb",
+    "More": "实在不习惯使用的深度的画板工具，所以打包这个Windows的画图工具。\n1. 使用Windows Vista的画图\nWindows vista，相较于windows XP的画图工具，图标进行了改进，图形缩放工具，增加了滑块儿。\n2. 默认自动调用UOS/deepin的文件管理器\n通信的打包脚本，depin-wine5默认使用系统的文件管理器。\n3. 重新绘制了高清矢量图标\n这个有点费时间，但谁让自己有强迫症呢？使用inkscap重新绘制了适量图标，svg格式。\n更新内容：\n1、使用 spark dwine helper\n2、使用 deepin wine6 stable\n3、添加自动清理脚本",
+    "Name": "Windows Vista 画图（Wine）",
+    "Pkgname": "com.microsoft.paint.deepin",
+    "Size": "21 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.microsoft.paint.deepin_1.0spark2_all.deb.torrent",
+    "Update": "2024-05-02 09:24:45",
+    "Version": "1.0spark2",
+    "Website": "https://bbs.deepin.org/post/218516",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/com.microsoft.paint.deepin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/com.microsoft.paint.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/com.microsoft.paint.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/com.microsoft.paint.deepin/screen_3.png\"]"
+}
+
+,
+{
+    "Name": "Chasys Draw IES",
+    "Version": "5.29.01spark3",
+    "Filename": "com.jpchacha.chasysdraw.spark_5.29.01spark3_all.deb",
+    "Torrent_address": "com.jpchacha.chasysdraw.spark_5.29.01spark3_all.deb.torrent",
+    "Pkgname": "com.jpchacha.chasysdraw.spark",
+    "Author": "John Paul Chacha's Lab",
+    "Contributor": "sgb76",
+    "Website": "https://www.jpchacha.com/chasysdraw/index.php",
+    "Update": "2023-12-14 16:53:20",
+    "Size": "59.42 MB",
+    "More": "一款开源免费的图像处理软件",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/14/c95bc476660a43c3876be79c366ecc0c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/14/01dee942b39a4949baa747270830f048.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/14/792855ff6f344959b000ea1bbd884dd5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/14/0ed4bfd8eec941f7898c5794c86a3000.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/14/b8fb19aa02bb4d0f8f1fc925fd8f5412.png"
+}
+,
+{
+    "Name": "2345看图王（Wine）",
+    "Version": "10.6spark0",
+    "Filename": "com.2345pic.spark_10.6spark0_all.deb",
+    "Torrent_address": "com.2345pic.spark_10.6spark0_all.deb.torrent",
+    "Pkgname": "com.2345pic.spark",
+    "Author": "gfdgd xi<3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://pic.2345.cc/",
+    "Update": "2023-05-21 10:40:04",
+    "Size": "143.94 MB",
+    "More": "2345看图王是一款拥有4000万用户的新一代、极速看图软件。完美支持包含PSD在内的67种图片格式！独创GIF等多帧图片的逐帧保存，极简无干扰看图模式，拥有丰富的幻灯片演示效果，并可以自定义播放速度。完美满足您图片收藏、图片管理和多图浏览的需求。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/ba038a25b59841b9b13d1af2fd6688a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/40eae44e87b94d76be9819a1e3186683.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/4ff127c70fef4e49b4e1696d0228604d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/d0666df4edb24f9081946a835f042ebc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/25c6bde7f2e54269b641cb1ff544ca51.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/21/a1556035c0f2490bac632aed29f17363.png"
+}
+,
+{
+    "Name": "光影魔术手",
+    "Version": "4.5.1.50spark1",
+    "Filename": "cn.neoimaging.spark_4.5.1.50spark1_all.deb",
+    "Torrent_address": "cn.neoimaging.spark_4.5.1.50spark1_all.deb.torrent",
+    "Pkgname": "cn.neoimaging.spark",
+    "Author": "深圳市迅雷网文化有限公司",
+    "Contributor": "sgb76",
+    "Website": "http://www.neoimaging.cn/",
+    "Update": "2024-01-27 22:59:27",
+    "Size": "34.61 MB",
+    "More": "一款简单、易用、功能丰富的经典图片处理工具\n\n时隔近10年，光影魔术手官方竟然更新了！",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/27/c9b6c857b089493e9b8979be4ea1b148.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/27/7b0ac3a04f8c4c0486f4e7320849f4b7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/27/0b118747a1e34b9885f1c2f6701621f3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/27/2572ad090ad14424b80f39740fe049e5.png"
+}
+]

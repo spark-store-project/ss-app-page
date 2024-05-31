@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="zhumuintl_5.5.188.0612_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">eec0b05051e4210f7ca84c75ab272144</hash>
+				  
+				<hash type="sha1">e29d644c14502f7a1bb49b9251846deae88d2138</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/zhumuintl/zhumuintl_5.5.188.0612_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/zhumuintl/zhumuintl_5.5.188.0612_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/zhumuintl/zhumuintl_5.5.188.0612_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/zhumuintl/zhumuintl_5.5.188.0612_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/zhumuintl/zhumuintl_5.5.188.0612_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/zhumuintl/zhumuintl_5.5.188.0612_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.bookxnote.pro_2.0.0.1112_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">81992fe181975cc0e9b7cd9ca45ece6e</hash>
+				  
+				<hash type="sha1">2f958b3c92de12cda14e55de0f916516ef866637</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/reading/com.bookxnote.pro/com.bookxnote.pro_2.0.0.1112_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/reading/com.bookxnote.pro/com.bookxnote.pro_2.0.0.1112_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/reading/com.bookxnote.pro/com.bookxnote.pro_2.0.0.1112_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/reading/com.bookxnote.pro/com.bookxnote.pro_2.0.0.1112_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/reading/com.bookxnote.pro/com.bookxnote.pro_2.0.0.1112_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/reading/com.bookxnote.pro/com.bookxnote.pro_2.0.0.1112_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

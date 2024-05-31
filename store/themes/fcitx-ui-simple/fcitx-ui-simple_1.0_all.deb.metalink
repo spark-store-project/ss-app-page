@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="fcitx-ui-simple_1.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c7627e6cec3304e36d1124eeecd28ea3</hash>
+				  
+				<hash type="sha1">65063064110a67cbe5191adbfd8f63654599249c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/themes/fcitx-ui-simple/fcitx-ui-simple_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/themes/fcitx-ui-simple/fcitx-ui-simple_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/themes/fcitx-ui-simple/fcitx-ui-simple_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/themes/fcitx-ui-simple/fcitx-ui-simple_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/themes/fcitx-ui-simple/fcitx-ui-simple_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/themes/fcitx-ui-simple/fcitx-ui-simple_1.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.gitee.flyplane_1.0.0.1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f0db36e1af6c01774b05a4f087d83ac5</hash>
+				  
+				<hash type="sha1">c7e0af66b85e351d93f4a2e2345c6fecdf54b3ec</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.gitee.flyplane/com.gitee.flyplane_1.0.0.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.gitee.flyplane/com.gitee.flyplane_1.0.0.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.gitee.flyplane/com.gitee.flyplane_1.0.0.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.gitee.flyplane/com.gitee.flyplane_1.0.0.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.gitee.flyplane/com.gitee.flyplane_1.0.0.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.gitee.flyplane/com.gitee.flyplane_1.0.0.1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

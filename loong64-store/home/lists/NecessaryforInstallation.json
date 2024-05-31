@@ -1,0 +1,40 @@
+[
+
+
+    {
+        "Name": "微信(Universal)",
+        "Pkgname": "store.spark-app.wechat-linux-spark",
+        "Category": "chat",
+        "More": "新特性\n\n全新升级 "
+    },
+    {
+        "Name": "Wine运行器",
+        "Pkgname": "spark-deepin-wine-runner",
+        "Category": "tools",
+        "More": "Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序，内置了对Wine图形化的支持、各种Wine工具、自制的Wine程序打包器和运行库安装工具等。"
+    },
+    {
+        "Name": "星火应用管理器",
+        "Pkgname": "com.github.ccc-app-manager",
+        "Category": "tools",
+        "More": "应用管理器，可查看应用包信息，可卸载和打开应用，可在线或离线提取安装包\n-------------------------------------\n0.0.7-1更新内容：\n修复：\n1、启动器中应用不能识别在/usr/share/applications/下存在多个desktop文件的软件包（如vscode）；\n2、将保持版本类应用列表中应用全部移除后崩溃\n\n添加功能：\n1、调整软件图标；\n2、完善离线打包debian目录文件，支持shlibs文件和symbols文件；\n3、识别dpkg/info/目录下包含架构名的文件；\n4、优化离线打包流程，离线打包开始前增加确认对话框；\n5、软件包大小显示随字节大小阶梯展示；\n6、增加文本内容查找功能"
+    },
+    {
+        "Name": "QQ NT(Linux)",
+        "Pkgname": "linuxqq",
+        "Category": "chat",
+        "More": "腾讯QQ linux版本\n似乎现在开放了，任何人都可以登陆\n公测群号：664124315"
+    },
+    {
+        "Name": "WPS Office",
+        "Pkgname": "wps-office",
+        "Category": "office",
+        "More": "WPS Office"
+    },
+    {
+        "Name": "Win字体",
+        "Pkgname": "winfonts",
+        "Category": "others",
+        "More": "一名搬运工，作者是【雨恋凡尘】，在【https://bbs.deepin.org/zh/post/210103】"
+    }
+]

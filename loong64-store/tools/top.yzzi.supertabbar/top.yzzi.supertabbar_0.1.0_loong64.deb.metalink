@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="top.yzzi.supertabbar_0.1.0_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a96ef7dbdb8f5caeca5ca9345615f54d</hash>
+				  
+				<hash type="sha1">d6ba54d191cd4203742b93a1122d48a2b33a46f3</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/tools/top.yzzi.supertabbar/top.yzzi.supertabbar_0.1.0_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/tools/top.yzzi.supertabbar/top.yzzi.supertabbar_0.1.0_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/tools/top.yzzi.supertabbar/top.yzzi.supertabbar_0.1.0_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/tools/top.yzzi.supertabbar/top.yzzi.supertabbar_0.1.0_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/tools/top.yzzi.supertabbar/top.yzzi.supertabbar_0.1.0_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/tools/top.yzzi.supertabbar/top.yzzi.supertabbar_0.1.0_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

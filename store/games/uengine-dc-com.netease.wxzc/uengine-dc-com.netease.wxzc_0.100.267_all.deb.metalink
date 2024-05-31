@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="uengine-dc-com.netease.wxzc_0.100.267_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">913d9888dff65abbb41edc4cc38b9830</hash>
+				  
+				<hash type="sha1">3e6dbdf34a0eb5e685f904f95ea83820a19490d4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/uengine-dc-com.netease.wxzc/uengine-dc-com.netease.wxzc_0.100.267_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/uengine-dc-com.netease.wxzc/uengine-dc-com.netease.wxzc_0.100.267_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/uengine-dc-com.netease.wxzc/uengine-dc-com.netease.wxzc_0.100.267_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/uengine-dc-com.netease.wxzc/uengine-dc-com.netease.wxzc_0.100.267_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/uengine-dc-com.netease.wxzc/uengine-dc-com.netease.wxzc_0.100.267_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/uengine-dc-com.netease.wxzc/uengine-dc-com.netease.wxzc_0.100.267_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

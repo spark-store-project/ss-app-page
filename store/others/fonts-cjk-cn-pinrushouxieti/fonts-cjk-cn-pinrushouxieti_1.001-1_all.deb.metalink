@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="fonts-cjk-cn-pinrushouxieti_1.001-1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ff4d05f46aeb6fc1a3ff65492de58f76</hash>
+				  
+				<hash type="sha1">657931d91d561eabcdb7b89992a12903af3cf00c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/fonts-cjk-cn-pinrushouxieti/fonts-cjk-cn-pinrushouxieti_1.001-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/fonts-cjk-cn-pinrushouxieti/fonts-cjk-cn-pinrushouxieti_1.001-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/fonts-cjk-cn-pinrushouxieti/fonts-cjk-cn-pinrushouxieti_1.001-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/fonts-cjk-cn-pinrushouxieti/fonts-cjk-cn-pinrushouxieti_1.001-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/fonts-cjk-cn-pinrushouxieti/fonts-cjk-cn-pinrushouxieti_1.001-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/fonts-cjk-cn-pinrushouxieti/fonts-cjk-cn-pinrushouxieti_1.001-1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

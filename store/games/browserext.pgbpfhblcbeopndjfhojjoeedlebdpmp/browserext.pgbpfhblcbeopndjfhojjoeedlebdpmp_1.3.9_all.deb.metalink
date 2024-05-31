@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp_1.3.9_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ca83c2bb4ae2df10c713ff56c16efd88</hash>
+				  
+				<hash type="sha1">6ade2d325c4d7057f41b43bb3057fae9bbe4b652</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp/browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp_1.3.9_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp/browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp_1.3.9_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp/browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp_1.3.9_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp/browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp_1.3.9_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp/browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp_1.3.9_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp/browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp_1.3.9_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

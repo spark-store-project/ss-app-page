@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="uengine-dc-com.ss.android.ugc.aweme_24.9.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">d208b29c0663fcc830479e7c8398751e</hash>
+				  
+				<hash type="sha1">8b047041d1cf25b65fdfba162e3c8533335b0324</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/video/uengine-dc-com.ss.android.ugc.aweme/uengine-dc-com.ss.android.ugc.aweme_24.9.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/video/uengine-dc-com.ss.android.ugc.aweme/uengine-dc-com.ss.android.ugc.aweme_24.9.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/video/uengine-dc-com.ss.android.ugc.aweme/uengine-dc-com.ss.android.ugc.aweme_24.9.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/video/uengine-dc-com.ss.android.ugc.aweme/uengine-dc-com.ss.android.ugc.aweme_24.9.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/video/uengine-dc-com.ss.android.ugc.aweme/uengine-dc-com.ss.android.ugc.aweme_24.9.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/video/uengine-dc-com.ss.android.ugc.aweme/uengine-dc-com.ss.android.ugc.aweme_24.9.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

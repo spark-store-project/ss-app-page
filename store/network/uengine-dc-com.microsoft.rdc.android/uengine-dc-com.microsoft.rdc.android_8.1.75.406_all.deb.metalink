@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c26b6f8feb64c3e41245f2e572771803</hash>
+				  
+				<hash type="sha1">ad02fc3a3980b7239f0db7b655b9edd6272dbf93</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/uengine-dc-com.microsoft.rdc.android/uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/uengine-dc-com.microsoft.rdc.android/uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/uengine-dc-com.microsoft.rdc.android/uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/uengine-dc-com.microsoft.rdc.android/uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/uengine-dc-com.microsoft.rdc.android/uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/uengine-dc-com.microsoft.rdc.android/uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

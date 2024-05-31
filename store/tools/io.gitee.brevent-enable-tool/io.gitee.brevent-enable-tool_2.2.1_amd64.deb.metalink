@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="io.gitee.brevent-enable-tool_2.2.1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f263699e6f4a5571dc1a2c31cdb28620</hash>
+				  
+				<hash type="sha1">2159aa16eb64c222cf2fc5374ded69ed840ee978</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/io.gitee.brevent-enable-tool/io.gitee.brevent-enable-tool_2.2.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/io.gitee.brevent-enable-tool/io.gitee.brevent-enable-tool_2.2.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/io.gitee.brevent-enable-tool/io.gitee.brevent-enable-tool_2.2.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/io.gitee.brevent-enable-tool/io.gitee.brevent-enable-tool_2.2.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/io.gitee.brevent-enable-tool/io.gitee.brevent-enable-tool_2.2.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/io.gitee.brevent-enable-tool/io.gitee.brevent-enable-tool_2.2.1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

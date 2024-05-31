@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="jellyfin-ffmpeg5_5.1.2-6-buster_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9b1ddd3aebb84c9ed26c2730628ccb8c</hash>
+				  
+				<hash type="sha1">82d843a8fad754d9ea82d9bfc676845129f373ca</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/jellyfin/jellyfin-ffmpeg5_5.1.2-6-buster_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/jellyfin/jellyfin-ffmpeg5_5.1.2-6-buster_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/jellyfin/jellyfin-ffmpeg5_5.1.2-6-buster_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/jellyfin/jellyfin-ffmpeg5_5.1.2-6-buster_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/jellyfin/jellyfin-ffmpeg5_5.1.2-6-buster_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/jellyfin/jellyfin-ffmpeg5_5.1.2-6-buster_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

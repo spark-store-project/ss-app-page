@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.yuque.spark_3.2.2.1107spark14_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">8eb7b18670d23a430116a4354fd99ca6</hash>
+				  
+				<hash type="sha1">426e85c3c995d04dd6ee9226fa10195fb9ba1b84</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/office/com.yuque.spark/com.yuque.spark_3.2.2.1107spark14_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/office/com.yuque.spark/com.yuque.spark_3.2.2.1107spark14_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/office/com.yuque.spark/com.yuque.spark_3.2.2.1107spark14_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/office/com.yuque.spark/com.yuque.spark_3.2.2.1107spark14_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/office/com.yuque.spark/com.yuque.spark_3.2.2.1107spark14_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/office/com.yuque.spark/com.yuque.spark_3.2.2.1107spark14_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

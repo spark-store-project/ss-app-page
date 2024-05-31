@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="github-fast-access_0.0.1-20240206_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f37bee792472cf4b0d5e9897e38cfa64</hash>
+				  
+				<hash type="sha1">9c3e98a13585ac874e482a02e44fd5142c63e873</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/github-fast-access/github-fast-access_0.0.1-20240206_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/github-fast-access/github-fast-access_0.0.1-20240206_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/github-fast-access/github-fast-access_0.0.1-20240206_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/github-fast-access/github-fast-access_0.0.1-20240206_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/github-fast-access/github-fast-access_0.0.1-20240206_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/github-fast-access/github-fast-access_0.0.1-20240206_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

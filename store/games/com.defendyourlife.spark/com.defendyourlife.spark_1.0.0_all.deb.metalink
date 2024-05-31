@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.defendyourlife.spark_1.0.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">99ad926bed11c994162f819d29c2701c</hash>
+				  
+				<hash type="sha1">92d79bf8fd97b3a142896a90ad8ea86642ac88b0</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.defendyourlife.spark/com.defendyourlife.spark_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.defendyourlife.spark/com.defendyourlife.spark_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.defendyourlife.spark/com.defendyourlife.spark_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.defendyourlife.spark/com.defendyourlife.spark_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.defendyourlife.spark/com.defendyourlife.spark_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.defendyourlife.spark/com.defendyourlife.spark_1.0.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

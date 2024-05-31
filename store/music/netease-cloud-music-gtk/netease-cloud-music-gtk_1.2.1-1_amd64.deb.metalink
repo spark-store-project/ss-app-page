@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="netease-cloud-music-gtk_1.2.1-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">0ff90d20e15c6e66e6eefa3be5989a1c</hash>
+				  
+				<hash type="sha1">1d83cd9fc0a5c02b40a84f70915348c6060441cb</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/music/netease-cloud-music-gtk/netease-cloud-music-gtk_1.2.1-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/music/netease-cloud-music-gtk/netease-cloud-music-gtk_1.2.1-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/music/netease-cloud-music-gtk/netease-cloud-music-gtk_1.2.1-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/music/netease-cloud-music-gtk/netease-cloud-music-gtk_1.2.1-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/music/netease-cloud-music-gtk/netease-cloud-music-gtk_1.2.1-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/music/netease-cloud-music-gtk/netease-cloud-music-gtk_1.2.1-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

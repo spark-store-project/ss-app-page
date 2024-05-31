@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="esearch_1.12.0~beta.8_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c321d5541a57900c20a8bf3bfb88f360</hash>
+				  
+				<hash type="sha1">5f7eaedc5cbbb3724807e7968d35ae9612ae87d7</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/reading/esearch/esearch_1.12.0~beta.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/reading/esearch/esearch_1.12.0~beta.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/reading/esearch/esearch_1.12.0~beta.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/reading/esearch/esearch_1.12.0~beta.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/reading/esearch/esearch_1.12.0~beta.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/reading/esearch/esearch_1.12.0~beta.8_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="deepin-wine5_5.0.35-1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a6ba50960106a96730c2ca40c6cd642a</hash>
+				  
+				<hash type="sha1">09263a4f029ae008a5e7e9df0bdaef12c02df7d2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/deepin-wine-series/deepin-wine5_5.0.35-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/deepin-wine-series/deepin-wine5_5.0.35-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/deepin-wine-series/deepin-wine5_5.0.35-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/deepin-wine-series/deepin-wine5_5.0.35-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/deepin-wine-series/deepin-wine5_5.0.35-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/deepin-wine-series/deepin-wine5_5.0.35-1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

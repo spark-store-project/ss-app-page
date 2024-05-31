@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.bigemap.spark_30.0.0.0spark1_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9e3ddcb5cf650a641771f4f8603f0c7b</hash>
+				  
+				<hash type="sha1">df6625e8664377e64b8c447bab35729e88fb9bea</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.bigemap.spark/com.bigemap.spark_30.0.0.0spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.bigemap.spark/com.bigemap.spark_30.0.0.0spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.bigemap.spark/com.bigemap.spark_30.0.0.0spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.bigemap.spark/com.bigemap.spark_30.0.0.0spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.bigemap.spark/com.bigemap.spark_30.0.0.0spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.bigemap.spark/com.bigemap.spark_30.0.0.0spark1_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="qaxbrowser-safe-stable_1.0.45398.7-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9bb0e97e0f06612c9d466e776b9beb73</hash>
+				  
+				<hash type="sha1">fed233542b15be8f7c0ae0db17097c0616e912eb</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/qaxbrowser-safe-stable/qaxbrowser-safe-stable_1.0.45398.7-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/qaxbrowser-safe-stable/qaxbrowser-safe-stable_1.0.45398.7-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/qaxbrowser-safe-stable/qaxbrowser-safe-stable_1.0.45398.7-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/qaxbrowser-safe-stable/qaxbrowser-safe-stable_1.0.45398.7-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/qaxbrowser-safe-stable/qaxbrowser-safe-stable_1.0.45398.7-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/qaxbrowser-safe-stable/qaxbrowser-safe-stable_1.0.45398.7-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

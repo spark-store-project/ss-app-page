@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-webapp-runtime_1.7.0-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">8c0075b1ad382d27a3587d18701a8d1f</hash>
+				  
+				<hash type="sha1">ed0de3d16af829146496f7873c492a43bbebf142</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/spark-webapp-runtime/spark-webapp-runtime_1.7.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/spark-webapp-runtime/spark-webapp-runtime_1.7.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/spark-webapp-runtime/spark-webapp-runtime_1.7.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/spark-webapp-runtime/spark-webapp-runtime_1.7.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/spark-webapp-runtime/spark-webapp-runtime_1.7.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/spark-webapp-runtime/spark-webapp-runtime_1.7.0-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

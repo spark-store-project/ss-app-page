@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.gstarcad2022.cad_22sp1_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">160ab81b0943b2f04004a8405bbd094a</hash>
+				  
+				<hash type="sha1">725d1c48cd5a029aba3848ac4ec48144708af017</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/com.gstarcad2022.cad/com.gstarcad2022.cad_22sp1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/image_graphics/com.gstarcad2022.cad/com.gstarcad2022.cad_22sp1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/image_graphics/com.gstarcad2022.cad/com.gstarcad2022.cad_22sp1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/image_graphics/com.gstarcad2022.cad/com.gstarcad2022.cad_22sp1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/image_graphics/com.gstarcad2022.cad/com.gstarcad2022.cad_22sp1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/image_graphics/com.gstarcad2022.cad/com.gstarcad2022.cad_22sp1_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

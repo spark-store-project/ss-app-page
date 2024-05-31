@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.github.b23downloader.spark_0.9.5.4spark1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">2cc9b21d8821cb93b8c60e2c60d4e827</hash>
+				  
+				<hash type="sha1">60e68284634415adb4e2c2ce6944b6210c906e02</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/com.github.b23downloader.spark/com.github.b23downloader.spark_0.9.5.4spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/com.github.b23downloader.spark/com.github.b23downloader.spark_0.9.5.4spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/com.github.b23downloader.spark/com.github.b23downloader.spark_0.9.5.4spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/com.github.b23downloader.spark/com.github.b23downloader.spark_0.9.5.4spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/com.github.b23downloader.spark/com.github.b23downloader.spark_0.9.5.4spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/com.github.b23downloader.spark/com.github.b23downloader.spark_0.9.5.4spark1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,16 @@
+{
+    "Name": "ksnip",
+    "Version": "1.10.1spark0",
+    "Filename": "com.github.ksnip.spark_1.10.1spark0_amd64.deb",
+    "Torrent_address": "com.github.ksnip.spark_1.10.1spark0_amd64.deb.torrent",
+    "Pkgname": "com.github.ksnip.spark",
+    "Author": "ksnip",
+    "Contributor": "sgb76",
+    "Website": "http://ksnip.org",
+    "Update": "2023-03-16 16:12:01",
+    "Size": "20.94 MB",
+    "More": "一款小巧实用的跨平台截图工具\n\n说明：\n1.官方deb包在deepin下运行缺少依赖，因此将官方AppImage包拆包后重新打包为deb包，可以在deepin下正常运行了\n2.Ubuntu的官方源里有此软件的官方包，因此Ubuntu下直接apt安装即可",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/1fca0b2bed8f4fbe860d01a183c70bdb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/f02ebb8ea3894927b58e9f3b7dbcfa4f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/59c4cfe9b6af4ede84447f635e69e79f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/16/f616f49b4e1a427ebf6210c401250593.png"
+}

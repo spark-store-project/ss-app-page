@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="jetbrains-dataspell_2024.1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">8cb042bd05c9e68d0668dcc1b886d782</hash>
+				  
+				<hash type="sha1">7c1382499eac02e955eb22f9011aa047889da5a5</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/jetbrains-dataspell/jetbrains-dataspell_2024.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/jetbrains-dataspell/jetbrains-dataspell_2024.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/jetbrains-dataspell/jetbrains-dataspell_2024.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/jetbrains-dataspell/jetbrains-dataspell_2024.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/jetbrains-dataspell/jetbrains-dataspell_2024.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/jetbrains-dataspell/jetbrains-dataspell_2024.1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

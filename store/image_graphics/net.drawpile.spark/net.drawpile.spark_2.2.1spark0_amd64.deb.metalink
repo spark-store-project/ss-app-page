@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="net.drawpile.spark_2.2.1spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5b1c3b70366f4760c93de3e6a75b4230</hash>
+				  
+				<hash type="sha1">732b0e90dcd1a901e856e9beb2c044049315414f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/net.drawpile.spark/net.drawpile.spark_2.2.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/net.drawpile.spark/net.drawpile.spark_2.2.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/net.drawpile.spark/net.drawpile.spark_2.2.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/net.drawpile.spark/net.drawpile.spark_2.2.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/net.drawpile.spark/net.drawpile.spark_2.2.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/net.drawpile.spark/net.drawpile.spark_2.2.1spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

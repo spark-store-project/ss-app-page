@@ -1,0 +1,16 @@
+{
+    "Author": "Tippy <2506230260@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "plymouth-theme-deepin-ssd-tubiao-dark_0.0.1_all.deb",
+    "More": "黑底的深度图标开机呼吸渐变动画\n商店中之前的是白底动画，对引导界面是黑色的机型不友好，故制作此包\n使用方法：sudo plymouth-set-default-theme deepin-ssd-tubiao-dark -R\n还原方法：sudo plymouth-set-default-theme deepin-ssd-logo -R\n本版以deepin-ssd-logo为底包制作，以商店中原有的\"深度图标开机动画\"为动画素材",
+    "Name": "深度图标开机动画（深色）",
+    "Pkgname": "plymouth-theme-deepin-ssd-tubiao-dark",
+    "Size": "25 Kb",
+    "Tags": "deepin",
+    "Torrent_address": "plymouth-theme-deepin-ssd-tubiao-dark_0.0.1_all.deb.torrent",
+    "Update": "2023-03-07 22:08:49",
+    "Version": "0.0.1",
+    "Website": "https://space.bilibili.com/524703552",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/plymouth-theme-deepin-ssd-tubiao-dark/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/plymouth-theme-deepin-ssd-tubiao-dark/screen_1.png\"]"
+}

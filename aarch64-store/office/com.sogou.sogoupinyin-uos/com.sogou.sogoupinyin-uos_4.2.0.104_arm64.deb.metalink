@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.sogou.sogoupinyin-uos_4.2.0.104_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">3ceb07c5ebf4978fea807fb17f5baa24</hash>
+				  
+				<hash type="sha1">af7acef8931cfaab2a1e3e3a352c66ea71b791d1</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/office/com.sogou.sogoupinyin-uos/com.sogou.sogoupinyin-uos_4.2.0.104_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/office/com.sogou.sogoupinyin-uos/com.sogou.sogoupinyin-uos_4.2.0.104_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/office/com.sogou.sogoupinyin-uos/com.sogou.sogoupinyin-uos_4.2.0.104_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/office/com.sogou.sogoupinyin-uos/com.sogou.sogoupinyin-uos_4.2.0.104_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/office/com.sogou.sogoupinyin-uos/com.sogou.sogoupinyin-uos_4.2.0.104_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/office/com.sogou.sogoupinyin-uos/com.sogou.sogoupinyin-uos_4.2.0.104_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

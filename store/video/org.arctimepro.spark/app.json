@@ -1,0 +1,15 @@
+{
+    "Name": "ArctimePro",
+    "Version": "3.1spark1",
+    "Filename": "org.arctimepro.spark_3.1spark1_amd64.deb",
+    "Pkgname": "org.arctimepro.spark",
+    "Author": "Arctime团队",
+    "Contributor": "sgb76",
+    "Website": "https://arctime.org/",
+    "Update": "2021-09-12 11:22:55",
+    "Size": "188.07 MB",
+    "More": "一个全新理念的可视化字幕创作软件。借助精准的音频波形图，Arctime可以快速创建和编辑时间轴，还可以高效的进行文本编辑、翻译。支持SRT、ASS外挂字幕格式，并可以通过交换工程文件或与伙伴协同工作。\n\n软件依赖java和Vlc，打包时已将java环境打入包内，无需配置；软件安装时会自动安装vlc",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/12/6c0f5470-1378-11ec-b817-91e932b1a3d4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/12/6efbc600-1378-11ec-b817-91e932b1a3d4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/12/71d88020-1378-11ec-b817-91e932b1a3d4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/09/12/66d7e170-1378-11ec-b817-91e932b1a3d4.png"
+}

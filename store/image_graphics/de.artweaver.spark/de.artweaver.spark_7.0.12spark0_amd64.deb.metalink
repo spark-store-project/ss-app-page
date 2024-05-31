@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="de.artweaver.spark_7.0.12spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">55e51cced3433a6da85c66a49ef43191</hash>
+				  
+				<hash type="sha1">7ca0748f4c137605c43d80d280737a007e289a00</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/de.artweaver.spark/de.artweaver.spark_7.0.12spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/de.artweaver.spark/de.artweaver.spark_7.0.12spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/de.artweaver.spark/de.artweaver.spark_7.0.12spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/de.artweaver.spark/de.artweaver.spark_7.0.12spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/de.artweaver.spark/de.artweaver.spark_7.0.12spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/de.artweaver.spark/de.artweaver.spark_7.0.12spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

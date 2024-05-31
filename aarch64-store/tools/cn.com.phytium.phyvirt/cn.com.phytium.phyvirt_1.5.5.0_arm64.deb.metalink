@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.com.phytium.phyvirt_1.5.5.0_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">dbbe94ae249410177ae8a64e64e5036c</hash>
+				  
+				<hash type="sha1">531431a55a51efc8bc3e40a28581a24726d2d710</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/cn.com.phytium.phyvirt_1.5.5.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/cn.com.phytium.phyvirt_1.5.5.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/cn.com.phytium.phyvirt_1.5.5.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/tools/cn.com.phytium.phyvirt/cn.com.phytium.phyvirt_1.5.5.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/tools/cn.com.phytium.phyvirt/cn.com.phytium.phyvirt_1.5.5.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/tools/cn.com.phytium.phyvirt/cn.com.phytium.phyvirt_1.5.5.0_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.scratch3.spark_3.29.1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">985c63eda1c481e35369f2dac617f058</hash>
+				  
+				<hash type="sha1">d071bfb2b0bf54597d8a2c5d54829bd20d38420e</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/development/com.scratch3.spark/com.scratch3.spark_3.29.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/development/com.scratch3.spark/com.scratch3.spark_3.29.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/development/com.scratch3.spark/com.scratch3.spark_3.29.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/development/com.scratch3.spark/com.scratch3.spark_3.29.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/development/com.scratch3.spark/com.scratch3.spark_3.29.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/development/com.scratch3.spark/com.scratch3.spark_3.29.1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

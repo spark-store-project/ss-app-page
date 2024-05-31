@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="torrent-file-editor_0.3.18-master-20240415_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">607baf568d444c16c73bda41cae40edc</hash>
+				  
+				<hash type="sha1">3875ff9d53a2069c661de04b90fed510ac569777</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/network/torrent-file-editor/torrent-file-editor_0.3.18-master-20240415_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/network/torrent-file-editor/torrent-file-editor_0.3.18-master-20240415_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/network/torrent-file-editor/torrent-file-editor_0.3.18-master-20240415_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/network/torrent-file-editor/torrent-file-editor_0.3.18-master-20240415_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/network/torrent-file-editor/torrent-file-editor_0.3.18-master-20240415_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/network/torrent-file-editor/torrent-file-editor_0.3.18-master-20240415_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="xmind-vana_24.7.3011-beta-202404010001_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">393137a878dcd857126c2e45ba283ddd</hash>
+				  
+				<hash type="sha1">fad238cb3ae292770d97d4658e089cb7c631bc93</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/xmind-vana/xmind-vana_24.7.3011-beta-202404010001_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/xmind-vana/xmind-vana_24.7.3011-beta-202404010001_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/xmind-vana/xmind-vana_24.7.3011-beta-202404010001_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/xmind-vana/xmind-vana_24.7.3011-beta-202404010001_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/xmind-vana/xmind-vana_24.7.3011-beta-202404010001_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/xmind-vana/xmind-vana_24.7.3011-beta-202404010001_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

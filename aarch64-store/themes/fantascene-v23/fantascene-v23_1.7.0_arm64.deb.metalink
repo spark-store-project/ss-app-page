@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="fantascene-v23_1.7.0_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">4bec01f3e0e34e236c285d38a71885d4</hash>
+				  
+				<hash type="sha1">6dfefa34454c8a5adbdc125dd7dca7b6e9099d74</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/themes/fantascene-v23/fantascene-v23_1.7.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/themes/fantascene-v23/fantascene-v23_1.7.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/themes/fantascene-v23/fantascene-v23_1.7.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/themes/fantascene-v23/fantascene-v23_1.7.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/themes/fantascene-v23/fantascene-v23_1.7.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/themes/fantascene-v23/fantascene-v23_1.7.0_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

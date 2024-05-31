@@ -1,0 +1,16 @@
+{
+    "Name": "TIny RDM",
+    "Version": "1.1.13",
+    "Filename": "tinyrdm_1.1.13_amd64.deb",
+    "Torrent_address": "tinyrdm_1.1.13_amd64.deb.torrent",
+    "Pkgname": "tinyrdm",
+    "Author": "tiny-craft <lykinhuang@outlook.com>",
+    "Contributor": "tiny-craft <lykinhuang@outlook.com>",
+    "Website": "https://redis.tinycraft.cc/",
+    "Update": "2024-05-27 16:11:29",
+    "Size": "5.81 MB",
+    "More": "有颜也有料，多彩更出彩\n一个更现代化的Redis桌面管理客户端\n\n1.1.13 更新日志\n功能优化\n    移除LIST/HASH/SET/ZSET的格式自动识别，降低条目量大时导致卡死的情况\n    键列表视图增加快捷键支持（方向键进行导航和开关折叠，F5或Cmd+R刷新所选，Ctrl/Cmd+C复制键名，Del删除所选）\n    标签页窗口支持快捷键关闭（Ctrl/Cmd+W）\n    支持非标准的JSON格式化显示(FastJSON等)\n    HASH支持刷新单字段\n问题修复\n    为非当前数据库添加新键时列表错误显示\n    低版本Webview下样式兼容",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/8141a97d28ff442bacd9099fa83f6c9b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/228c715049324f079fb002c5ad03e692.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/0b42601d1db3429e951ee1387ca8b916.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/99e9088f8b034ef5baf9d39148003d2f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/3d335aef49144bc8813d681025dfc083.png"
+}

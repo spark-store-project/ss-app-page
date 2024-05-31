@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="net.toughcookies.spark_0.45.0spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">eb01f3427a1519cbcb2b43d6804131dd</hash>
+				  
+				<hash type="sha1">ce4ebd32a96fa33b983440ec83262c2558dcaf32</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/net.toughcookies.spark/net.toughcookies.spark_0.45.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/net.toughcookies.spark/net.toughcookies.spark_0.45.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/net.toughcookies.spark/net.toughcookies.spark_0.45.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/net.toughcookies.spark/net.toughcookies.spark_0.45.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/net.toughcookies.spark/net.toughcookies.spark_0.45.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/net.toughcookies.spark/net.toughcookies.spark_0.45.0spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

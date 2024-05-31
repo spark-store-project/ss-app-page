@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.github.dust3d.spark_1.0.0-rc.7spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ba8459d6f52a0ed2a74eff44e6adaeed</hash>
+				  
+				<hash type="sha1">be2192711589ea55cf0905c6cb9eaa48c5b74b71</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.github.dust3d.spark/com.github.dust3d.spark_1.0.0-rc.7spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/com.github.dust3d.spark/com.github.dust3d.spark_1.0.0-rc.7spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/com.github.dust3d.spark/com.github.dust3d.spark_1.0.0-rc.7spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/com.github.dust3d.spark/com.github.dust3d.spark_1.0.0-rc.7spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/com.github.dust3d.spark/com.github.dust3d.spark_1.0.0-rc.7spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/com.github.dust3d.spark/com.github.dust3d.spark_1.0.0-rc.7spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

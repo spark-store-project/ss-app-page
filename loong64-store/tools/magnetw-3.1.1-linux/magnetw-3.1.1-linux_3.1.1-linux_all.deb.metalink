@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="magnetw-3.1.1-linux_3.1.1-linux_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">608ffe7ef3be85b2729e23036ab3f73e</hash>
+				  
+				<hash type="sha1">2d7a144c32532e3bcafe6902e1257badfaccf3dc</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/tools/magnetw-3.1.1-linux/magnetw-3.1.1-linux_3.1.1-linux_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/tools/magnetw-3.1.1-linux/magnetw-3.1.1-linux_3.1.1-linux_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/tools/magnetw-3.1.1-linux/magnetw-3.1.1-linux_3.1.1-linux_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/tools/magnetw-3.1.1-linux/magnetw-3.1.1-linux_3.1.1-linux_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/tools/magnetw-3.1.1-linux/magnetw-3.1.1-linux_3.1.1-linux_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/tools/magnetw-3.1.1-linux/magnetw-3.1.1-linux_3.1.1-linux_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

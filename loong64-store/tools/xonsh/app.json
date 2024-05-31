@@ -1,0 +1,16 @@
+{
+    "Name": "xonsh --在终端里运行python命令",
+    "Version": "0.14.0+dfsg-1",
+    "Filename": "xonsh_0.14.0_plusdfsg-1_all.deb",
+    "Torrent_address": "xonsh_0.14.0_plusdfsg-1_all.deb.torrent",
+    "Pkgname": "xonsh",
+    "Author": "shyawa",
+    "Contributor": "shyawa",
+    "Website": "https://xon.sh/",
+    "Update": "2023-08-02 19:56:57",
+    "Size": "433.74 KB",
+    "More": "一言以蔽之，你可以在这个shell运行python语句和bash语句，当然两者结合也是一种好主意\n你可以终端输入xonsh运行，也可以到终端设置为默认shell\n \nXonsh is a Python-ish shell language and command prompt. Unlike other shells,\n xonsh is based on Python, with additional syntax added that makes calling\n subprocess commands, manipulating the environment, and dealing with the file\n system easy. Xonsh supports all normal Python constructs and a subset of\n those available in bash.",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/5d25264480384fceb442069978790c4d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/177cd1984cf447dc8c2e024af4fc56a8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/49c26b0265914737806403d66a2651de.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/02/824b9570e7ae49b295f42507945b51cf.png"
+}

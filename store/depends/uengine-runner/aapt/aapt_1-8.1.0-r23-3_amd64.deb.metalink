@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="aapt_1-8.1.0-r23-3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7ab519fabfb11cfd8de90d12e78f3bfa</hash>
+				  
+				<hash type="sha1">780419c30d0263359f16cf5b44fec0b5a17a3409</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/uengine-runner/aapt/aapt_1-8.1.0-r23-3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/uengine-runner/aapt/aapt_1-8.1.0-r23-3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/uengine-runner/aapt/aapt_1-8.1.0-r23-3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/uengine-runner/aapt/aapt_1-8.1.0-r23-3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/uengine-runner/aapt/aapt_1-8.1.0-r23-3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/uengine-runner/aapt/aapt_1-8.1.0-r23-3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.teslagrad2.spark_1.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">95b408fa1e3fa92e41dce58a4e6c4dae</hash>
+				  
+				<hash type="sha1">0b3add297664e46802b7f5cb1a4d3c0a4c485ab7</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.teslagrad2.spark/com.teslagrad2.spark_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.teslagrad2.spark/com.teslagrad2.spark_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.teslagrad2.spark/com.teslagrad2.spark_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.teslagrad2.spark/com.teslagrad2.spark_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.teslagrad2.spark/com.teslagrad2.spark_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.teslagrad2.spark/com.teslagrad2.spark_1.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.thunisoft.input_2.4.8.198_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ca9a2052011108054f6ae39170cc3db0</hash>
+				  
+				<hash type="sha1">5c5bfb86b40c54c3d381c7d70343e64576f0d078</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/office/com.thunisoft.input/com.thunisoft.input_2.4.8.198_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/office/com.thunisoft.input/com.thunisoft.input_2.4.8.198_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/office/com.thunisoft.input/com.thunisoft.input_2.4.8.198_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/office/com.thunisoft.input/com.thunisoft.input_2.4.8.198_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/office/com.thunisoft.input/com.thunisoft.input_2.4.8.198_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/office/com.thunisoft.input/com.thunisoft.input_2.4.8.198_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

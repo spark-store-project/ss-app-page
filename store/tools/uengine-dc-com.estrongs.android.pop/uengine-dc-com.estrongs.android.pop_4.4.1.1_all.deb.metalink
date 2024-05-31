@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="uengine-dc-com.estrongs.android.pop_4.4.1.1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">0defad905a9320eaf556c682afb913ff</hash>
+				  
+				<hash type="sha1">019691ab67040d3ece70d002b785e3014adf70ce</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/uengine-dc-com.estrongs.android.pop/uengine-dc-com.estrongs.android.pop_4.4.1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/uengine-dc-com.estrongs.android.pop/uengine-dc-com.estrongs.android.pop_4.4.1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/uengine-dc-com.estrongs.android.pop/uengine-dc-com.estrongs.android.pop_4.4.1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/uengine-dc-com.estrongs.android.pop/uengine-dc-com.estrongs.android.pop_4.4.1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/uengine-dc-com.estrongs.android.pop/uengine-dc-com.estrongs.android.pop_4.4.1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/uengine-dc-com.estrongs.android.pop/uengine-dc-com.estrongs.android.pop_4.4.1.1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

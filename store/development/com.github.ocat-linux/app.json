@@ -1,0 +1,16 @@
+{
+    "Name": "OpenCore Auxiliary Tools",
+    "Version": "20220230",
+    "Filename": "com.github.ocat-linux_20220230_amd64.deb",
+    "Torrent_address": "com.github.ocat-linux_20220230_amd64.deb.torrent",
+    "Pkgname": "com.github.ocat-linux",
+    "Author": "ic005k",
+    "Contributor": "QQ482961502@gmail.com",
+    "Website": "https://github.com/ic005k/OCAuxiliaryTools",
+    "Update": "2022-08-03 12:18:33",
+    "Size": "27.12 MB",
+    "More": "關於\nOpenCore Auxiliary Tools 是一個基於 GUI 的配置器，用於編輯 Acidanthera 的 OpenCore 引導管理器的 config.plist 文件。\n\n與其他配置器應用程序不同，如果 OpenCore 的開發人員將新功能/鍵添加到配置文件結構中，OCAT 不會弄亂配置。相反，它會自動適應並將它們集成到界面中。\n\n特徵\n除了作為 plist Configurator 之外，它還可以做更多事情：\n\n掛載 EFI 分區並自動打開 config.plist\n只需單擊“保存”按鈕即可將配置更新並遷移到最新規格。不再需要復制密鑰和手動驗證配置（節省大量時間）。\n自動執行配置驗證並指出可能的衝突/配置問題。\n同步功能：點擊幾下即可檢查並應用 OpenCore、Resources 和 Kext 的更新\n在 OpenCore 的官方/開發版本和調試版本之間進行選擇\n帶有針對 Intel 和 AMD CPU 的建議 Quirks 的下拉菜單\nACPI、內核和其他列表的預設菜單。\n帶有 Kext 存儲庫 URL 的可編輯列表\n集成 ASCII < > HEX 轉換器\n基於 Dortania 的 OpenCore 安裝指南，具有完整的 Intel 和 AMD CPU 基本配置的數據庫\n能夠通過單擊從配置中生成 EFI 文件夾\n能夠創建 EFI 文件夾備份\n指南\n使用 OCAT 更新 OpenCore 和 Kexts (by 5T33Z0)\nIntel CPU Quirks 的預選插件內容由 5T33Z0 提供和維護。細節\nIntel CPU BaseConfigs 插件包由 5T33Z0 提供和維護。細節\nAMD CPU BaseConfigs 插件包，AMD CPU Quirks 預選，AMD 內核補丁包，意大利文說明文檔，由 fabiosun 提供和維護。\nOpenCore 輔助工具用戶指南（作者：chriswayg）",
+    "Tags": "community;ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/03/d74f1530-12dd-11ed-abd7-e50de85e8c4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/03/d8857250-12dd-11ed-abd7-e50de85e8c4e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/03/d63a22c0-12dd-11ed-abd7-e50de85e8c4e.png"
+}

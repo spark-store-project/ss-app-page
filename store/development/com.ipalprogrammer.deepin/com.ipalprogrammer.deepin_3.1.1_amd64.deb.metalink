@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.ipalprogrammer.deepin_3.1.1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">80f2277ae9c918bf39a4999d48146767</hash>
+				  
+				<hash type="sha1">d3226d73c78761b5eaaddda4a47bccb59b1b211b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/com.ipalprogrammer.deepin/com.ipalprogrammer.deepin_3.1.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/com.ipalprogrammer.deepin/com.ipalprogrammer.deepin_3.1.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/com.ipalprogrammer.deepin/com.ipalprogrammer.deepin_3.1.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/com.ipalprogrammer.deepin/com.ipalprogrammer.deepin_3.1.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/com.ipalprogrammer.deepin/com.ipalprogrammer.deepin_3.1.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/com.ipalprogrammer.deepin/com.ipalprogrammer.deepin_3.1.1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="qv2ray_2.7.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a04cae12fc42a49a72901cf1af75369e</hash>
+				  
+				<hash type="sha1">55a7e122fc53dd7dedd720d83f7db1ccdf16cc41</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/xrea/qv2ray/qv2ray_2.7.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/xrea/qv2ray/qv2ray_2.7.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/xrea/qv2ray/qv2ray_2.7.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/xrea/qv2ray/qv2ray_2.7.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/xrea/qv2ray/qv2ray_2.7.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/xrea/qv2ray/qv2ray_2.7.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

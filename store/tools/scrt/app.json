@@ -1,0 +1,16 @@
+{
+    "Name": "SecureCRT",
+    "Version": "9.0.2-2496",
+    "Filename": "scrt_9.0.2-2496_amd64.deb",
+    "Torrent_address": "scrt_9.0.2-2496_amd64.deb.torrent",
+    "Pkgname": "scrt",
+    "Author": "VanDyke",
+    "Contributor": "错失一亿",
+    "Website": "https://www.vandyke.com/",
+    "Update": "2023-11-15 23:00:24",
+    "Size": "22 MB",
+    "More": "官方未适配deepin,缺少依赖，加入依赖再打包，可以直接在V23上安装。商业软件，涉及授权，license就需要自行想办法了",
+    "Tags": "deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/d3f44b70-83c6-11ee-b5cb-27e705cc1ba9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/15/2cb739c0-83c7-11ee-b5cb-27e705cc1ba9.png"
+}

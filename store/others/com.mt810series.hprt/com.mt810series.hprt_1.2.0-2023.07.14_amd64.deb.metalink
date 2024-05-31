@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.mt810series.hprt_1.2.0-2023.07.14_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">622fa549cc475d15337ff4ad634e508e</hash>
+				  
+				<hash type="sha1">8c225c282a1e896d330df4a5c8f99ecb56cfd3c0</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/com.mt810series.hprt/com.mt810series.hprt_1.2.0-2023.07.14_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/com.mt810series.hprt/com.mt810series.hprt_1.2.0-2023.07.14_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/com.mt810series.hprt/com.mt810series.hprt_1.2.0-2023.07.14_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/com.mt810series.hprt/com.mt810series.hprt_1.2.0-2023.07.14_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/com.mt810series.hprt/com.mt810series.hprt_1.2.0-2023.07.14_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/com.mt810series.hprt/com.mt810series.hprt_1.2.0-2023.07.14_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

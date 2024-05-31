@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.deepin.chineseime_2.1.26_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5ee2779e3a5c2afddfca72eb36f86f60</hash>
+				  
+				<hash type="sha1">2af4e3cbdface28fe2d428e93291cecd7eee6758</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/org.deepin.chineseime/org.deepin.chineseime_2.1.26_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/org.deepin.chineseime/org.deepin.chineseime_2.1.26_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/org.deepin.chineseime/org.deepin.chineseime_2.1.26_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/org.deepin.chineseime/org.deepin.chineseime_2.1.26_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/org.deepin.chineseime/org.deepin.chineseime_2.1.26_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/org.deepin.chineseime/org.deepin.chineseime_2.1.26_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

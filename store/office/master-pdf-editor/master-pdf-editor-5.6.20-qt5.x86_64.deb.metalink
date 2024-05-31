@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="master-pdf-editor-5.6.20-qt5.x86_64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">46e1a23c5fff35f8a47068ae39748c52</hash>
+				  
+				<hash type="sha1">e3a5686a585066488c6933f82e2f651a6b379d41</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/master-pdf-editor/master-pdf-editor-5.6.20-qt5.x86_64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/master-pdf-editor/master-pdf-editor-5.6.20-qt5.x86_64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/master-pdf-editor/master-pdf-editor-5.6.20-qt5.x86_64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/master-pdf-editor/master-pdf-editor-5.6.20-qt5.x86_64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/master-pdf-editor/master-pdf-editor-5.6.20-qt5.x86_64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/master-pdf-editor/master-pdf-editor-5.6.20-qt5.x86_64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

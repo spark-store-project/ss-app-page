@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.furmark.deepin_2.2.0.1spark0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1edb031deceecb10b13701927de532bd</hash>
+				  
+				<hash type="sha1">34ccef192e583b82252a5e1732fca6c2f576a508</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/com.furmark.deepin/com.furmark.deepin_2.2.0.1spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/com.furmark.deepin/com.furmark.deepin_2.2.0.1spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/com.furmark.deepin/com.furmark.deepin_2.2.0.1spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/com.furmark.deepin/com.furmark.deepin_2.2.0.1spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/com.furmark.deepin/com.furmark.deepin_2.2.0.1spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/com.furmark.deepin/com.furmark.deepin_2.2.0.1spark0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

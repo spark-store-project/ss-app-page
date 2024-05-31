@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.ivosight.soundop.spark_1.8.20.1spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5c8350da725aa8b4548b588f726bf9e2</hash>
+				  
+				<hash type="sha1">05472c0894777b344000ddc75ffbf2c7a8c8cf88</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/music/com.ivosight.soundop.spark/com.ivosight.soundop.spark_1.8.20.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/music/com.ivosight.soundop.spark/com.ivosight.soundop.spark_1.8.20.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/music/com.ivosight.soundop.spark/com.ivosight.soundop.spark_1.8.20.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/music/com.ivosight.soundop.spark/com.ivosight.soundop.spark_1.8.20.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/music/com.ivosight.soundop.spark/com.ivosight.soundop.spark_1.8.20.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/music/com.ivosight.soundop.spark/com.ivosight.soundop.spark_1.8.20.1spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

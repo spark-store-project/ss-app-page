@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="uos-recommend-fonts-part2_1.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">be889fdf929918b18b0f39b457ae157f</hash>
+				  
+				<hash type="sha1">f2009a110cf6a861cc4a85ed8171ecf428902968</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/others/uos-recommend-fonts-part2/uos-recommend-fonts-part2_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/others/uos-recommend-fonts-part2/uos-recommend-fonts-part2_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/others/uos-recommend-fonts-part2/uos-recommend-fonts-part2_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/others/uos-recommend-fonts-part2/uos-recommend-fonts-part2_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/others/uos-recommend-fonts-part2/uos-recommend-fonts-part2_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/others/uos-recommend-fonts-part2/uos-recommend-fonts-part2_1.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

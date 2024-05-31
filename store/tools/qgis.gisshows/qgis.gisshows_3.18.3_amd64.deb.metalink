@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="qgis.gisshows_3.18.3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c743c42a411ec1684ff4eddf5708a49b</hash>
+				  
+				<hash type="sha1">6c038f455de8810c697cec395e3d17ea09e1668a</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/qgis.gisshows/qgis.gisshows_3.18.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/qgis.gisshows/qgis.gisshows_3.18.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/qgis.gisshows/qgis.gisshows_3.18.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/qgis.gisshows/qgis.gisshows_3.18.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/qgis.gisshows/qgis.gisshows_3.18.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/qgis.gisshows/qgis.gisshows_3.18.3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

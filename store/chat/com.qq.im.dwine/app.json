@@ -1,0 +1,16 @@
+{
+    "Name": "腾讯QQ『Ubuntu』",
+    "Version": "9.7.1spark13",
+    "Filename": "com.qq.im.dwine_9.7.1spark13_i386.deb",
+    "Torrent_address": "com.qq.im.dwine_9.7.1spark13_i386.deb.torrent",
+    "Pkgname": "com.qq.im.dwine",
+    "Author": "Spark WINE Team <QQ482961502@gmail.com>",
+    "Contributor": "Spark WINE Team <QQ482961502@gmail.com>",
+    "Website": "https://im.qq.com/pcqq",
+    "Update": "2022-12-30 14:30:11",
+    "Size": "174.42 MB",
+    "More": "更新QQ版本至9.7.1\nUbuntu安装前请确保启动了i386架构包支持，否则wine环境会配置失败，请执行 sudo dpkg --add-architecture i386 \n最新版解决了闪退问题，同时添加flash32外挂，把全是广告的地方特供版flash34外挂干掉了。\n如果内容不显示的话，看下图解决\nDeepin用户请造访:spk://store/chat/com.qq.im.spark",
+    "Tags": "ubuntu;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/5a6730dca70a44648df3f7419981cde6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/8a722783996441d782820c1848c7232c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/30/57ecee17746b41a0ab9ac71f77fb5b34.png"
+}

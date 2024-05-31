@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.tastyplanet2.wine_1.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b2026c1227bc2458286860668f0c559c</hash>
+				  
+				<hash type="sha1">36dd13b18780f406bffe61a78d780d730daca7d2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.tastyplanet2.wine/com.tastyplanet2.wine_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.tastyplanet2.wine/com.tastyplanet2.wine_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.tastyplanet2.wine/com.tastyplanet2.wine_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.tastyplanet2.wine/com.tastyplanet2.wine_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.tastyplanet2.wine/com.tastyplanet2.wine_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.tastyplanet2.wine/com.tastyplanet2.wine_1.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

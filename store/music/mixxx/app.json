@@ -1,0 +1,16 @@
+{
+    "Name": "Mixxx",
+    "Version": "2.4.0-1~jammy",
+    "Filename": "mixxx_2.4.0-1~jammy_amd64.deb",
+    "Torrent_address": "mixxx_2.4.0-1~jammy_amd64.deb.torrent",
+    "Pkgname": "mixxx",
+    "Author": "RJ Skerry-Ryan",
+    "Contributor": "sgb76",
+    "Website": "https://www.mixxx.org/",
+    "Update": "2024-02-24 00:09:18",
+    "Size": "46.46 MB",
+    "More": "Mixxx is a digital DJ system, where Wave, Ogg, FLAC and MP3 files can be\n mixed on a computer for use in live performances. Filters, crossfader, and\n speed control are provided. Mixxx can sync the 4 decks automatically, using\n an algorithm to detect the beat.\n .\n Mixxx works with ALSA or Jack, can be controlled from the GUI or from external\n controllers, including MIDI devices and joysticks, and supports skins.\n\n说明：该应用在Ubuntu22.04下运行正常，deepin下缺少依赖",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/470bf25aecac479d8b39790ce4d6e8a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/5837041f4da54e719b01864f90c12eb8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/24/4cd9ba08a7404e98b3fbd17ee799912d.png"
+}

@@ -1,0 +1,16 @@
+{
+    "Name": "斗兽棋",
+    "Version": "1.0.0",
+    "Filename": "ltmx.doushouqi.linux_1.0.0_all.deb",
+    "Torrent_address": "ltmx.doushouqi.linux_1.0.0_all.deb.torrent",
+    "Pkgname": "ltmx.doushouqi.linux",
+    "Author": "赵臻裕",
+    "Contributor": "蓝天萌想",
+    "Website": "https://blueskymengxiang.rth1.link/doushouqi.html",
+    "Update": "2023-11-26 08:38:31",
+    "Size": "64.49 MB",
+    "More": "本应用是一款双人小游戏，使用kitten编译，玩法简单，按照小动物的体型和战斗力强弱来排队，排序为：象＞狮＞虎＞豹＞狼＞狗＞猫＞鼠＞象，同类可以互吃，比自己等级低的小动物都可以吃。斗兽棋双方都有三个陷阱，陷阱主要是限制对方小动物的战斗力，自己的小动物不受影响，如果对方的小动物走入陷阱，自己的任何一个小动物都可以吃掉对方的小动物。走棋方法是：双方轮流走棋，每次只能走一只小动物，而且每个小动物只能走一格。在斗兽棋中，狮子和老虎有特殊的走法，当狮子和老虎在河边时，可以横向和纵向跳跃河流，直接到达河对岸，并且可以把河对岸的比自己弱的小动物吃掉。但是有一种情况，狮子和老虎不能跳跃过河，就是当对方的小老鼠在河里时，狮子和老虎不能跳跃。在斗兽棋中老鼠也比较特殊，它是唯一可以下河的动物，在河里行走时跟陆地时一样的，一次只能走一格，陆地上的动物不能捕食河里的老鼠，只有在陆地上可以捕食，同样，河里的老鼠也不能捕食陆地上的大象和同类，只有在陆地上才可以捕食。当一方的小动物走入对方的兽穴时就算胜利了，或者时一方已经将对方的小动物全部吃掉也算胜利，还有就是一方把对方的小动物全部困住不能动也算胜利。",
+    "Tags": "a2d;uos;deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/26/f588c880-8bf3-11ee-a2df-1f6e4f156e75.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/26/fbd5ca30-8bf3-11ee-a2df-1f6e4f156e75.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/26/0ac33370-8bf4-11ee-a2df-1f6e4f156e75.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/26/0ac99c10-8bf4-11ee-a2df-1f6e4f156e75.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/26/3cc8f220-8bf3-11ee-a2df-1f6e4f156e75.png"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="io.webcatalog.translatium.spark_21.1.0spark1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">2915b6f501787d40b8656629576788da</hash>
+				  
+				<hash type="sha1">ac7aa8c75c055aefe18189e425bfce2e4998d8c6</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/reading/io.webcatalog.translatium.spark/io.webcatalog.translatium.spark_21.1.0spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/reading/io.webcatalog.translatium.spark/io.webcatalog.translatium.spark_21.1.0spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/reading/io.webcatalog.translatium.spark/io.webcatalog.translatium.spark_21.1.0spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/reading/io.webcatalog.translatium.spark/io.webcatalog.translatium.spark_21.1.0spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/reading/io.webcatalog.translatium.spark/io.webcatalog.translatium.spark_21.1.0spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/reading/io.webcatalog.translatium.spark/io.webcatalog.translatium.spark_21.1.0spark1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

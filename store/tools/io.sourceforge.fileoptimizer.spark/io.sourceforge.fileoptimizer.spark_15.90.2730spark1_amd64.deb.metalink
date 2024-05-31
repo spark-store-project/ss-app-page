@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="io.sourceforge.fileoptimizer.spark_15.90.2730spark1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b1a610b237c132620e136d507aef6b53</hash>
+				  
+				<hash type="sha1">520affde2dc69aed7084ea6c41890fa88f434d18</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/io.sourceforge.fileoptimizer.spark/io.sourceforge.fileoptimizer.spark_15.90.2730spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/io.sourceforge.fileoptimizer.spark/io.sourceforge.fileoptimizer.spark_15.90.2730spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/io.sourceforge.fileoptimizer.spark/io.sourceforge.fileoptimizer.spark_15.90.2730spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/io.sourceforge.fileoptimizer.spark/io.sourceforge.fileoptimizer.spark_15.90.2730spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/io.sourceforge.fileoptimizer.spark/io.sourceforge.fileoptimizer.spark_15.90.2730spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/io.sourceforge.fileoptimizer.spark/io.sourceforge.fileoptimizer.spark_15.90.2730spark1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

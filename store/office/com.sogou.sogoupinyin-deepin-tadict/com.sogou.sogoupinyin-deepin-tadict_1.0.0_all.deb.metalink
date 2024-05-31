@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.sogou.sogoupinyin-deepin-tadict_1.0.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">8e41e2576f2f19c05499704ef0d6a762</hash>
+				  
+				<hash type="sha1">fd6cd668e11697c787b49102b32df01ea77425ba</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.sogou.sogoupinyin-deepin-tadict/com.sogou.sogoupinyin-deepin-tadict_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.sogou.sogoupinyin-deepin-tadict/com.sogou.sogoupinyin-deepin-tadict_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.sogou.sogoupinyin-deepin-tadict/com.sogou.sogoupinyin-deepin-tadict_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.sogou.sogoupinyin-deepin-tadict/com.sogou.sogoupinyin-deepin-tadict_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.sogou.sogoupinyin-deepin-tadict/com.sogou.sogoupinyin-deepin-tadict_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.sogou.sogoupinyin-deepin-tadict/com.sogou.sogoupinyin-deepin-tadict_1.0.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

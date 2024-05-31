@@ -1,0 +1,16 @@
+{
+    "Name": "WPS Office缺失字体",
+    "Version": "1.0",
+    "Filename": "wps-office-fonts_1.0_all.deb",
+    "Torrent_address": "wps-office-fonts_1.0_all.deb.torrent",
+    "Pkgname": "wps-office-fonts",
+    "Author": "kingsoft",
+    "Contributor": "QQ482961502@gmail.com",
+    "Website": "https://linux.wps.cn/",
+    "Update": "2022-04-29 11:37:33",
+    "Size": "69.32 MB",
+    "More": "Ubuntu安装WPS可能会缺少系统字体，但是在WPS安装包的control文件里面并没有添加该依赖。导致部分bantu用户WPS中文显示不正常。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/29/aa3bc810-c76d-11ec-8c37-676455f05cc7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/29/b2fb7770-c76d-11ec-8c37-676455f05cc7.png"
+}

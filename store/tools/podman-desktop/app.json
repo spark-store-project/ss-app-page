@@ -1,0 +1,16 @@
+{
+    "Name": "Podman Desktop",
+    "Version": "1.2.0",
+    "Filename": "podman-desktop_1.2.0_amd64.deb",
+    "Torrent_address": "podman-desktop_1.2.0_amd64.deb.torrent",
+    "Pkgname": "podman-desktop",
+    "Author": "懵仙兔兔 <acgm@qq.com>",
+    "Contributor": "rainoffallingstar <15860147513@163.com>",
+    "Website": "https://github.com/containers/podman-desktop",
+    "Update": "2023-07-15 16:21:04",
+    "Size": "80.93 MB",
+    "More": "Podman Desktop 是一个图形界面工具，使应用程序开发人员能够无缝地使用容器和 Kubernetes。\n\nPodman Desktop 在您的本地环境中安装、配置 Podman 并使 Podman 保持最新。它提供了一个系统托盘，用于检查状态并与您的容器引擎交互，而不会失去对其他任务的关注。桌面应用程序提供了一个仪表板来与容器、图像、pod 和卷进行交互，还可以使用 OCI 注册表和网络设置来配置您的环境。Podman Desktop 还提供将 pod 连接和部署到 Kubernetes 环境的功能。\n\nPodman Desktop 还支持多种容器引擎，选择你最喜欢的并使用该工具！",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/ef47a4cb336141df8eb993963fa2df63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/2be514f2364a45f195cb6181f57d205f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/9cad5d8694c74e1888a3f91faf7d7319.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/2faabf82fca341068dfce93d83e0e824.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/7ca47916afe545e592e32cf8c14b2b72.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/15/4602ae8e6a33439a988e9a2cda17ccfa.png"
+}

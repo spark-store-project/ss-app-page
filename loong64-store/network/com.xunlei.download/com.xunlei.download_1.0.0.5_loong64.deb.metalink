@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.xunlei.download_1.0.0.5_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b654af0b1bc12b72e9c31fc58657380e</hash>
+				  
+				<hash type="sha1">0799b47e7def2f25dd0417efc950d6ff57d924f3</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/network/com.xunlei.download/com.xunlei.download_1.0.0.5_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/network/com.xunlei.download/com.xunlei.download_1.0.0.5_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/network/com.xunlei.download/com.xunlei.download_1.0.0.5_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/network/com.xunlei.download/com.xunlei.download_1.0.0.5_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/network/com.xunlei.download/com.xunlei.download_1.0.0.5_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/network/com.xunlei.download/com.xunlei.download_1.0.0.5_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

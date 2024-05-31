@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="browserext.dhdgffkkebhmkfjojejmpbldmpobfkfo_4.13_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">0665b188ca3f6be270120b069517b50c</hash>
+				  
+				<hash type="sha1">78db4a297bc3aba620e78c1ab5d8736a1e596176</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/browserext.dhdgffkkebhmkfjojejmpbldmpobfkfo/browserext.dhdgffkkebhmkfjojejmpbldmpobfkfo_4.13_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/browserext.dhdgffkkebhmkfjojejmpbldmpobfkfo/browserext.dhdgffkkebhmkfjojejmpbldmpobfkfo_4.13_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/browserext.dhdgffkkebhmkfjojejmpbldmpobfkfo/browserext.dhdgffkkebhmkfjojejmpbldmpobfkfo_4.13_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/browserext.dhdgffkkebhmkfjojejmpbldmpobfkfo/browserext.dhdgffkkebhmkfjojejmpbldmpobfkfo_4.13_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/browserext.dhdgffkkebhmkfjojejmpbldmpobfkfo/browserext.dhdgffkkebhmkfjojejmpbldmpobfkfo_4.13_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/browserext.dhdgffkkebhmkfjojejmpbldmpobfkfo/browserext.dhdgffkkebhmkfjojejmpbldmpobfkfo_4.13_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

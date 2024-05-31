@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.tombraider2-remastered.spark_1.0spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">441b4a2f0bff730f0e6cf21627dd9aa4</hash>
+				  
+				<hash type="sha1">f09d6d1c432c0b571aec391a2c9c1c84f7f17415</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.tombraider2-remastered.spark/com.tombraider2-remastered.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.tombraider2-remastered.spark/com.tombraider2-remastered.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.tombraider2-remastered.spark/com.tombraider2-remastered.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.tombraider2-remastered.spark/com.tombraider2-remastered.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.tombraider2-remastered.spark/com.tombraider2-remastered.spark_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.tombraider2-remastered.spark/com.tombraider2-remastered.spark_1.0spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

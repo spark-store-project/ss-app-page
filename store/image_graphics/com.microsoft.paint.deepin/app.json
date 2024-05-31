@@ -1,0 +1,16 @@
+{
+    "Name": "Windows Vista 画图（Wine）",
+    "Version": "1.0deepin1",
+    "Filename": "com.microsoft.paint.deepin_1.0deepin1_i386.deb",
+    "Torrent_address": "com.microsoft.paint.deepin_1.0deepin1_i386.deb.torrent",
+    "Pkgname": "com.microsoft.paint.deepin",
+    "Author": "Deepin WINE Team and gtjdoctor@163.com",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://bbs.deepin.org/post/218516",
+    "Update": "2022-11-03 10:48:43",
+    "Size": "20.96 MB",
+    "More": "实在不习惯使用的深度的画板工具，所以打包这个Windows的画图工具。\n1. 使用Windows Vista的画图\nWindows vista，相较于windows XP的画图工具，图标进行了改进，图形缩放工具，增加了滑块儿。\n2. 默认自动调用UOS/deepin的文件管理器\n通信的打包脚本，depin-wine5默认使用系统的文件管理器。\n3. 重新绘制了高清矢量图标\n这个有点费时间，但谁让自己有强迫症呢？使用inkscap重新绘制了适量图标，svg格式。\n更新内容：\n1、使用 spark dwine helper\n2、使用 deepin wine6 stable\n3、添加自动清理脚本",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/03/ede3a247-f0dd-48ac-be11-099790870a06.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/03/11e1f5f3-bf7d-430a-a2ef-8057de07b2b5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/03/1166e1a3-a27e-4258-a2e4-1a32a6829e7f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/03/5200f515-67f3-4c92-91e7-95385fbafb4e.png"
+}

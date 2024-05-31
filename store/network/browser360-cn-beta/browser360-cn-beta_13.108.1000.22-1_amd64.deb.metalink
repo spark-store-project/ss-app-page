@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="browser360-cn-beta_13.108.1000.22-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">6aab16af2b3089c18680f3fa2cb7ca21</hash>
+				  
+				<hash type="sha1">879576d89dc164742c4c9eab21fd79fd41b3a4f1</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/browser360-cn-beta/browser360-cn-beta_13.108.1000.22-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/browser360-cn-beta/browser360-cn-beta_13.108.1000.22-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/browser360-cn-beta/browser360-cn-beta_13.108.1000.22-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/browser360-cn-beta/browser360-cn-beta_13.108.1000.22-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/browser360-cn-beta/browser360-cn-beta_13.108.1000.22-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/browser360-cn-beta/browser360-cn-beta_13.108.1000.22-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

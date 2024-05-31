@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.360.cloud_1.0.0.1013_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">4893438e39fa9be854a8bdf2722f82b8</hash>
+				  
+				<hash type="sha1">924fed54acc475cad6fc8212d29215b8c42333f8</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/cn.360.cloud/cn.360.cloud_1.0.0.1013_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/cn.360.cloud/cn.360.cloud_1.0.0.1013_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/cn.360.cloud/cn.360.cloud_1.0.0.1013_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/cn.360.cloud/cn.360.cloud_1.0.0.1013_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/cn.360.cloud/cn.360.cloud_1.0.0.1013_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/cn.360.cloud/cn.360.cloud_1.0.0.1013_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

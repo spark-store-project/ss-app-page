@@ -1,0 +1,15 @@
+{
+    "Name": "radeontop",
+    "Version": "1.3-1",
+    "Filename": "radeontop_1.3-1_amd64.deb",
+    "Pkgname": "radeontop",
+    "Author": "clbr",
+    "Contributor": "RubbishZhYic",
+    "Website": "https://github.com/clbr/radeontop",
+    "Update": "2020-12-19 03:48:51",
+    "Size": "19.63 KB",
+    "More": "用于查看amd Radeon GPU占用情况的shell工具，类似于nvidia-smi。\n不同于默认源中1.2版本，此版本由最新1.3版在deepin 20(1005)下编译，完美支持最新ryzen 4000系renoir核显",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/19/96985c80-41ac-11eb-a62b-59c00f47350f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/19/c533d1a0-41ac-11eb-a62b-59c00f47350f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/19/8c22bfc0-41ac-11eb-a62b-59c00f47350f.png"
+}

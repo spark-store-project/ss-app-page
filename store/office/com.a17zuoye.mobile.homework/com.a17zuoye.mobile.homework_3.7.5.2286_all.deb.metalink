@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.a17zuoye.mobile.homework_3.7.5.2286_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">bb44686a85e6d48aef40e692b370d03d</hash>
+				  
+				<hash type="sha1">9206b5108f369cb7221a081c1fdd865b16c4783b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.a17zuoye.mobile.homework/com.a17zuoye.mobile.homework_3.7.5.2286_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.a17zuoye.mobile.homework/com.a17zuoye.mobile.homework_3.7.5.2286_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.a17zuoye.mobile.homework/com.a17zuoye.mobile.homework_3.7.5.2286_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.a17zuoye.mobile.homework/com.a17zuoye.mobile.homework_3.7.5.2286_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.a17zuoye.mobile.homework/com.a17zuoye.mobile.homework_3.7.5.2286_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.a17zuoye.mobile.homework/com.a17zuoye.mobile.homework_3.7.5.2286_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

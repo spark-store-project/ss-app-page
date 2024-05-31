@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.antutu.benchmark_1.0.0.610_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1750712c510c0fc8685993da0897b4f8</hash>
+				  
+				<hash type="sha1">2a459390b478a0efc67a0dfb01edf995beea01d0</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/com.antutu.benchmark/com.antutu.benchmark_1.0.0.610_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/tools/com.antutu.benchmark/com.antutu.benchmark_1.0.0.610_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/tools/com.antutu.benchmark/com.antutu.benchmark_1.0.0.610_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/tools/com.antutu.benchmark/com.antutu.benchmark_1.0.0.610_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/tools/com.antutu.benchmark/com.antutu.benchmark_1.0.0.610_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/tools/com.antutu.benchmark/com.antutu.benchmark_1.0.0.610_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

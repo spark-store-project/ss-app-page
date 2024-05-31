@@ -1,0 +1,16 @@
+{
+    "Name": "Bambu Studio",
+    "Version": "1.9.0-pubbeta-3",
+    "Filename": "com.bambulab.bambu-studio_1.9.0-pubbeta-3_amd64.deb",
+    "Torrent_address": "com.bambulab.bambu-studio_1.9.0-pubbeta-3_amd64.deb.torrent",
+    "Pkgname": "com.bambulab.bambu-studio",
+    "Author": "spark-store",
+    "Contributor": "Sheng Fan <fredtools999@gmail.com>",
+    "Website": "https://bambulab.cn/zh-cn/download/studio",
+    "Update": "2024-04-21 19:28:53",
+    "Size": "75.11 MB",
+    "More": "Bambu Studio 是一款开源的、尖端的、功能丰富的切片软件。它包含了基于项目的工作流，系统化的切片算法，以及易于使用的图形界面，为用户带来令人难以置信的流畅打印体验。\n\n（如打开摄像头时闪退，请尝试使用apt手动安装gstreamer* libgstreamer*，此为原版AppImage存在问题，尚未修复）",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/21/19ec7954fa2a4d749df35282c8047904.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/21/c4d14f84c7fd481bae0f43b82ec48c10.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/21/ebe594505b924860b7dc9ec6198059a5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/21/ed6c29205c2442dca631e73c29dd3251.png"
+}

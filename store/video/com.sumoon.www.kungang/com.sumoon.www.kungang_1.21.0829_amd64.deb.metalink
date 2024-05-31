@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.sumoon.www.kungang_1.21.0829_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">345d1aeb61e2c11e9eb8dcd043580459</hash>
+				  
+				<hash type="sha1">b1896a3b32d38d187297dbf4588a869d65617ee9</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/video/com.sumoon.www.kungang/com.sumoon.www.kungang_1.21.0829_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/video/com.sumoon.www.kungang/com.sumoon.www.kungang_1.21.0829_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/video/com.sumoon.www.kungang/com.sumoon.www.kungang_1.21.0829_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/video/com.sumoon.www.kungang/com.sumoon.www.kungang_1.21.0829_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/video/com.sumoon.www.kungang/com.sumoon.www.kungang_1.21.0829_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/video/com.sumoon.www.kungang/com.sumoon.www.kungang_1.21.0829_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

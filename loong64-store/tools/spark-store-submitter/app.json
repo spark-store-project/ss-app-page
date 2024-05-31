@@ -1,0 +1,16 @@
+{
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-store-submitter_1.5.6.4-20240410_loong64.deb",
+    "More": "社区商店投稿器 \n1. 优雅的点线效果的背景\n2. 优雅的自由角度的通知与问候\n3. 优雅的可应用信息显示对话框\n4. 优雅的将可应用信息自动填充\n5. 优雅的可多选的下拉列表\n6. 优雅的微型加载控件效果\n7. 优雅的添加默认的空图标\n---\n旨为高效投稿而设计的软件\n\n2023/07/06: 在主面板右上角 + 部分增加右击添加默认空图标功能\n2023/08/31: 前端面板加入长文本编辑器实现，双击应用介绍框可弹出\n2023/09/12: 使用 Cdn 扫描方式实现根据包名查询应用信息(原接口过时)\n2023/11/06: 正式开始支持 DDE/KDE 桌面环境 dart 主题模式兼容\n2023/11/07: 采用 dpkg 版本号比较功能精确处理 v100 > v99 的情况\n2023/11/16: 禁用 Gnome 的 dark 主题适配(原因不详)\n2024/01/08: 前端面板全面提升为动态控件",
+    "Name": "星火商店投稿器",
+    "Pkgname": "spark-store-submitter",
+    "Size": "2882 Kb",
+    "Tags": "community;deepin;ubuntu",
+    "Torrent_address": "spark-store-submitter_1.5.6.4-20240410_loong64.deb.torrent",
+    "Update": "2024-04-10 18:48:59",
+    "Version": "1.5.6.4-20240410",
+    "Website": "https://gitee.com/deepin-community-store/dcs-submitter",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store-submitter/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store-submitter/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store-submitter/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store-submitter/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store-submitter/screen_4.png\"]"
+}

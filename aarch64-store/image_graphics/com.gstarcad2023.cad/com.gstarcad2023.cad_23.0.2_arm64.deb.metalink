@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.gstarcad2023.cad_23.0.2_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">61ffd2f48410eb060dca4c711df890b9</hash>
+				  
+				<hash type="sha1">83a0e309bc7ac693410950d9d82495b59be16a8f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.gstarcad2023.cad/com.gstarcad2023.cad_23.0.2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/image_graphics/com.gstarcad2023.cad/com.gstarcad2023.cad_23.0.2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/image_graphics/com.gstarcad2023.cad/com.gstarcad2023.cad_23.0.2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/image_graphics/com.gstarcad2023.cad/com.gstarcad2023.cad_23.0.2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/image_graphics/com.gstarcad2023.cad/com.gstarcad2023.cad_23.0.2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/image_graphics/com.gstarcad2023.cad/com.gstarcad2023.cad_23.0.2_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

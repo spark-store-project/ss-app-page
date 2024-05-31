@@ -1,0 +1,15 @@
+{
+    "Name": "光驱托盘控制",
+    "Version": "1.0.2",
+    "Filename": "spark-optical-drive-tray-control_1.0.2_all.deb",
+    "Pkgname": "spark-optical-drive-tray-control",
+    "Author": "gfdgd xi",
+    "Contributor": "gfdgd xi",
+    "Website": "https://gitee.com/gfdgd-xi/optical-drive-tray-control",
+    "Update": "2021-08-07 12:24:34",
+    "Size": "62.31 MB",
+    "More": "一款基于 Python3 的 PyQt 制作成的光驱托盘控制软件。 如果出现类似 \nqt.qpa.plugin: Could not load the Qt platform plugin \"xcb\" in \"\" even though it was found. \n的错误，可以输入 sudo apt install -qq libglu1-mesa-dev libx11-xcb-dev '^libxcb*'",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/07/5c9961f0-f737-11eb-8738-31b965866860.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/07/5c9e1ce0-f737-11eb-8738-31b965866860.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/07/4c475fa0-f737-11eb-8738-31b965866860.png"
+}

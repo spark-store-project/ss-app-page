@@ -1,0 +1,15 @@
+{
+    "Name": "桌面快捷方式编辑器",
+    "Version": "1.4.5+1",
+    "Filename": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.5_plus_1_amd64.deb",
+    "Pkgname": "com.gitee.deepin-opensource.desktop-entry-editor",
+    "Author": "linuxdeepin / zty199",
+    "Contributor": "zty199",
+    "Website": "https://gitee.com/deepin-opensource/desktop-entry-editor",
+    "Update": "2021-04-19 03:26:08",
+    "Size": "71.16 KB",
+    "More": "桌面快捷方式编辑器，帮助你快速创建桌面快捷方式，支持修改、另存为等基本文件操作。\n\n【更新日志】\nv1.4.5\n1. 重构部分代码，使用信号槽函数取代直接操作私有成员；\n2. 重新在 UOS 个人版 1030 系统中使用 Qt 5.11.3 进行编译，修复兼容性。",
+    "Tags": "community;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a3938df0-a07b-11eb-82a7-f56bde74eca0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a5aeccd0-a07b-11eb-82a7-f56bde74eca0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a79a7030-a07b-11eb-82a7-f56bde74eca0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/19/9f9229f0-a07b-11eb-82a7-f56bde74eca0.png"
+}

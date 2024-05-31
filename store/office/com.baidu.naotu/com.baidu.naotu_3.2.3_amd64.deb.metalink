@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.baidu.naotu_3.2.3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">21f0993e09a2d3d8b27802a1c99f3bf1</hash>
+				  
+				<hash type="sha1">5d399f53352d892e2bbc5abc2121836f82467c72</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.baidu.naotu/com.baidu.naotu_3.2.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.baidu.naotu/com.baidu.naotu_3.2.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.baidu.naotu/com.baidu.naotu_3.2.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.baidu.naotu/com.baidu.naotu_3.2.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.baidu.naotu/com.baidu.naotu_3.2.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.baidu.naotu/com.baidu.naotu_3.2.3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

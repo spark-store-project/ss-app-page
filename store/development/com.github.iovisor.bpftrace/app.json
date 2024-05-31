@@ -1,0 +1,16 @@
+{
+    "Name": "bpftrace",
+    "Version": "0.18.0",
+    "Filename": "com.github.iovisor.bpftrace_0.18.0_amd64.deb",
+    "Torrent_address": "com.github.iovisor.bpftrace_0.18.0_amd64.deb.torrent",
+    "Pkgname": "com.github.iovisor.bpftrace",
+    "Author": "shenmo <ouyangyunrui@uniontech.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://github.com/iovisor/bpftrace",
+    "Update": "2023-08-02 17:57:31",
+    "Size": "12.75 MB",
+    "More": "bpftrace是一个高级跟踪语言，用于Linux增强型Berkeley数据包过滤器（eBPF），可在最新的Linux内核（4.x）中使用。bpftrace使用LLVM作为后端，将脚本编译为BPF字节码，并利用BCC与Linux BPF系统进行交互，同时还利用现有的Linux跟踪功能：内核动态跟踪（kprobes），用户级动态跟踪（uprobes）和跟踪点。bpftrace语言的灵感来自awk和C，以及先前的跟踪工具，如DTrace和SystemTap。bpftrace由Alastair Robertson创建。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/08f9c899d5ab4b08a5be10d3ac070d41.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/f2c0a42bb64b4885b9b351dd609a4e55.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/c76ad04ad2d04d2eb5d297e2703d2e63.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/02/0803e0857a804a81a5e40fad2c7b12d6.png"
+}

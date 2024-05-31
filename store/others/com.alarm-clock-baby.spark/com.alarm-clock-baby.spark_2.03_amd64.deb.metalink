@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.alarm-clock-baby.spark_2.03_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1a771afadfdafd0ed012fd47bc43f226</hash>
+				  
+				<hash type="sha1">1722ca80b57c27e5e0594217d2e9f93778d01387</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/com.alarm-clock-baby.spark/com.alarm-clock-baby.spark_2.03_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/com.alarm-clock-baby.spark/com.alarm-clock-baby.spark_2.03_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/com.alarm-clock-baby.spark/com.alarm-clock-baby.spark_2.03_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/com.alarm-clock-baby.spark/com.alarm-clock-baby.spark_2.03_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/com.alarm-clock-baby.spark/com.alarm-clock-baby.spark_2.03_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/com.alarm-clock-baby.spark/com.alarm-clock-baby.spark_2.03_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

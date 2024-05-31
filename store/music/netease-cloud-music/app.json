@@ -1,0 +1,16 @@
+{
+    "Name": "网易云音乐",
+    "Version": "1.2.1.1+Mejituu-2023120712",
+    "Filename": "netease-cloud-music_1.2.1.1_plusMejituu-2023120712_amd64.deb",
+    "Torrent_address": "netease-cloud-music_1.2.1.1_plusMejituu-2023120712_amd64.deb.torrent",
+    "Pkgname": "netease-cloud-music",
+    "Author": "懵仙兔兔",
+    "Contributor": "懵仙兔兔",
+    "Website": "https://2dph.com",
+    "Update": "2024-05-18 20:40:21",
+    "Size": "63.08 MB",
+    "More": "懵仙兔兔修改版的网易云音乐官方客户端\n- 1.修复了无法在线播放sq音乐(flac格式音乐)的问题\n- 2.彻底修复了在 Debian、Ubuntu、Deepin等缺少动态库以至于不能正常运行\n- 3.修复 NSS 初始化失败的问题\n- 4.修复无法使用 fcitx 或 fcitx5 的问题\n- 5.修复 wayland 不能中文输入的问题\n- 5.删除 gtk 或 gdk 及其依赖项，使用系统内建\n- 6.修复 VLC RCE CVE-2019-13962，删除 VLC 及其插件和依赖项，使用系统内建\n- 7.删除不需要的动态库及其依赖项，以缩小体积\n\n注：2023年5月起，仅首页的个性化推荐api失效，其余功能都正常（不能直接密码登陆）\n  请不要随意顶包！！！\n\n兼容性测试：\ndebian testing：正常\ndebian 12：正常\nubuntu 24.04：正常\nubuntu 22.04：正常\ndeepin 23：正常\ndeepin 20.9：正常",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/18/5f7291fd01274e09951b0dbc3bd709ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/18/7a96da517399422299d2c8eb76445726.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/18/75287f2d5893453aacf4c4417aee20fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/18/5e06e1149d2e4ebf96a3a6e1b38af4ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/18/5777ec8141334145b00b415c1605f406.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/18/d63bc056b3504d708c90463d1d692e6f.png"
+}

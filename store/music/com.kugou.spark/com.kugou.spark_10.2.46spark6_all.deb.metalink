@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.kugou.spark_10.2.46spark6_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a47d2c3ce9a40604ec4c62a8d81c4a0b</hash>
+				  
+				<hash type="sha1">e4f729c8f22ac8b174d2031bcf6f19d889b3ab72</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/music/com.kugou.spark/com.kugou.spark_10.2.46spark6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/music/com.kugou.spark/com.kugou.spark_10.2.46spark6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/music/com.kugou.spark/com.kugou.spark_10.2.46spark6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/music/com.kugou.spark/com.kugou.spark_10.2.46spark6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/music/com.kugou.spark/com.kugou.spark_10.2.46spark6_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/music/com.kugou.spark/com.kugou.spark_10.2.46spark6_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

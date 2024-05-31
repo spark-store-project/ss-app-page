@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="bellsoft-jdk14.0.2_plus_13-linux-amd64-full.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">4c00c9273f53df414f20ec758c322165</hash>
+				  
+				<hash type="sha1">411041afc0a3139b0076fa55e27d44858bbcdc67</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/bellsoft-java14-full/bellsoft-jdk14.0.2_plus_13-linux-amd64-full.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/bellsoft-java14-full/bellsoft-jdk14.0.2_plus_13-linux-amd64-full.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/bellsoft-java14-full/bellsoft-jdk14.0.2_plus_13-linux-amd64-full.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/bellsoft-java14-full/bellsoft-jdk14.0.2_plus_13-linux-amd64-full.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/bellsoft-java14-full/bellsoft-jdk14.0.2_plus_13-linux-amd64-full.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/bellsoft-java14-full/bellsoft-jdk14.0.2_plus_13-linux-amd64-full.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

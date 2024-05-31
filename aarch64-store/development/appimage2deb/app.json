@@ -1,0 +1,16 @@
+{
+    "Author": "spark-store",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "appimage2deb_2.5.1_all.deb",
+    "More": "1.添加AppImage后缀名支持\n2.增加高清图标支持\n3. 默认解包\n4. 支持直接投递UOS商店\n5. 使用xz而不是gzip\n6. 多线程支持\n7. 出包依赖ablrun方便适配打包\n8. 如果没有填写软件名，则用默认的desktop的",
+    "Name": "A2D 软件打包",
+    "Pkgname": "appimage2deb",
+    "Size": "258 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "appimage2deb_2.5.1_all.deb.torrent",
+    "Update": "2023-08-21 16:34:38",
+    "Version": "2.5.1",
+    "Website": "https://gitee.com/deepin-community-store/appimage2deb",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/development/appimage2deb/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/appimage2deb/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/appimage2deb/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/appimage2deb/screen_3.png\"]"
+}

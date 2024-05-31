@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.ace-studio.timedomain.acestudio_1.6.1_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">85df9cafff5f25e46df348f5d6c4ef17</hash>
+				  
+				<hash type="sha1">ca11154c04990e2cb73c0c58e69059bcfcb10082</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/music/cn.ace-studio.timedomain.acestudio/cn.ace-studio.timedomain.acestudio_1.6.1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/music/cn.ace-studio.timedomain.acestudio/cn.ace-studio.timedomain.acestudio_1.6.1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/music/cn.ace-studio.timedomain.acestudio/cn.ace-studio.timedomain.acestudio_1.6.1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/music/cn.ace-studio.timedomain.acestudio/cn.ace-studio.timedomain.acestudio_1.6.1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/music/cn.ace-studio.timedomain.acestudio/cn.ace-studio.timedomain.acestudio_1.6.1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/music/cn.ace-studio.timedomain.acestudio/cn.ace-studio.timedomain.acestudio_1.6.1_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

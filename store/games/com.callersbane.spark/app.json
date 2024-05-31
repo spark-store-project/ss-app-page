@@ -1,0 +1,15 @@
+{
+    "Name": "Caller's Bane（wine）",
+    "Version": "2.0.1-2",
+    "Filename": "com.callersbane.spark_2.0.1-2_amd64.deb",
+    "Pkgname": "com.callersbane.spark",
+    "Author": "Mojang",
+    "Contributor": "OkayPJ",
+    "Website": "https://callersbane.com/",
+    "Update": "2021-07-12 09:27:31",
+    "Size": "174.3 MB",
+    "More": "Mojang 开发的卡牌对战游戏。\n\n2021.07.10 更新：\n更改了依赖，将 wine 改成 wine32。当前依赖：\ndeepin-wine | deepin-wine5 | wine32 | winehq-stable | winehq-devel | winehq-staging\n\n2021.07.12 更新：\n更改的运行脚本，避免 .deepinwine 文件夹未创建时无法运行的错误。",
+    "Tags": "ubuntu;deepin;uos;dwine2;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/12f80390-e2af-11eb-8d07-db1ed01073a6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/158ae370-e2af-11eb-8d07-db1ed01073a6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/12/102ab2c0-e2af-11eb-8d07-db1ed01073a6.svg"
+}

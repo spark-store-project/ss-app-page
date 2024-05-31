@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="komorebi-2.1-64-bit.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">71c46f7e5e5b46aa05f95b6678f63068</hash>
+				  
+				<hash type="sha1">27bfd18a2e1d4dd10d0363fcacefdb0fa6f1e43f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/komorebi/komorebi-2.1-64-bit.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/komorebi/komorebi-2.1-64-bit.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/komorebi/komorebi-2.1-64-bit.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/komorebi/komorebi-2.1-64-bit.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/komorebi/komorebi-2.1-64-bit.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/komorebi/komorebi-2.1-64-bit.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

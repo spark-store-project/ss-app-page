@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="c2o-desktop_1.0.8_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">dcf16b0df4e1084f3073c5968a581328</hash>
+				  
+				<hash type="sha1">7961a613519872dd81a74b915c674170feccf9f8</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/c2o-desktop/c2o-desktop_1.0.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/c2o-desktop/c2o-desktop_1.0.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/c2o-desktop/c2o-desktop_1.0.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/c2o-desktop/c2o-desktop_1.0.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/c2o-desktop/c2o-desktop_1.0.8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/c2o-desktop/c2o-desktop_1.0.8_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

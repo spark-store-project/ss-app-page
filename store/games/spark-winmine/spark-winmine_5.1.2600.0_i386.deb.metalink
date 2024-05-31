@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-winmine_5.1.2600.0_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f636caf892828afde86b7a6b0e887ae0</hash>
+				  
+				<hash type="sha1">835b6ee7c3c296e04dc131b1b67a5dbf92292acb</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/spark-winmine/spark-winmine_5.1.2600.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/spark-winmine/spark-winmine_5.1.2600.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/spark-winmine/spark-winmine_5.1.2600.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/spark-winmine/spark-winmine_5.1.2600.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/spark-winmine/spark-winmine_5.1.2600.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/spark-winmine/spark-winmine_5.1.2600.0_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

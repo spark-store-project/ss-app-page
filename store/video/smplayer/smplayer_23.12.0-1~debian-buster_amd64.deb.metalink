@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="smplayer_23.12.0-1~debian-buster_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c3d0a4f0e7da8721c23b5a2cc28c5ce8</hash>
+				  
+				<hash type="sha1">bebfd13cf22754989b2090044cc86f0a2dbe26bf</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/video/smplayer/smplayer_23.12.0-1~debian-buster_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/video/smplayer/smplayer_23.12.0-1~debian-buster_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/video/smplayer/smplayer_23.12.0-1~debian-buster_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/video/smplayer/smplayer_23.12.0-1~debian-buster_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/video/smplayer/smplayer_23.12.0-1~debian-buster_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/video/smplayer/smplayer_23.12.0-1~debian-buster_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.pixelorama.spark_0.11.2.0spark1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ad14bdd8fd7fbb3b0a98689bafeec1f2</hash>
+				  
+				<hash type="sha1">358db2518a16631077b4c4470529b51d6e84264c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.pixelorama.spark/com.pixelorama.spark_0.11.2.0spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/com.pixelorama.spark/com.pixelorama.spark_0.11.2.0spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/com.pixelorama.spark/com.pixelorama.spark_0.11.2.0spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/com.pixelorama.spark/com.pixelorama.spark_0.11.2.0spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/com.pixelorama.spark/com.pixelorama.spark_0.11.2.0spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/com.pixelorama.spark/com.pixelorama.spark_0.11.2.0spark1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

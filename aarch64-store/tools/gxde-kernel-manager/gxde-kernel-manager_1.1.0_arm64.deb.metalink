@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="gxde-kernel-manager_1.1.0_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c5b37d4aaed193446994019a5d850ff0</hash>
+				  
+				<hash type="sha1">2339fbed6f8eb7761b9642d2d93d82a0c75b853a</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/gxde-kernel-manager/gxde-kernel-manager_1.1.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/tools/gxde-kernel-manager/gxde-kernel-manager_1.1.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/tools/gxde-kernel-manager/gxde-kernel-manager_1.1.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/tools/gxde-kernel-manager/gxde-kernel-manager_1.1.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/tools/gxde-kernel-manager/gxde-kernel-manager_1.1.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/tools/gxde-kernel-manager/gxde-kernel-manager_1.1.0_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="net.hmcl.huangyuhui_3.5.6.243_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">868cd0f9bcc1394420897e07f63e7ff9</hash>
+				  
+				<hash type="sha1">f0130511b9b1f730e451becca2123901228c3041</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/net.hmcl.huangyuhui/net.hmcl.huangyuhui_3.5.6.243_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/net.hmcl.huangyuhui/net.hmcl.huangyuhui_3.5.6.243_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/net.hmcl.huangyuhui/net.hmcl.huangyuhui_3.5.6.243_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/net.hmcl.huangyuhui/net.hmcl.huangyuhui_3.5.6.243_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/net.hmcl.huangyuhui/net.hmcl.huangyuhui_3.5.6.243_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/net.hmcl.huangyuhui/net.hmcl.huangyuhui_3.5.6.243_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

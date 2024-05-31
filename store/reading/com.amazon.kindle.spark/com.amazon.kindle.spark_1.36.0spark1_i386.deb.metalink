@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.amazon.kindle.spark_1.36.0spark1_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ce3753d54ce455844971f28f1a84d23e</hash>
+				  
+				<hash type="sha1">e6f3c43f47865e86e5a2095f4dbfe7fa541d9b4e</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/reading/com.amazon.kindle.spark/com.amazon.kindle.spark_1.36.0spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/reading/com.amazon.kindle.spark/com.amazon.kindle.spark_1.36.0spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/reading/com.amazon.kindle.spark/com.amazon.kindle.spark_1.36.0spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/reading/com.amazon.kindle.spark/com.amazon.kindle.spark_1.36.0spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/reading/com.amazon.kindle.spark/com.amazon.kindle.spark_1.36.0spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/reading/com.amazon.kindle.spark/com.amazon.kindle.spark_1.36.0spark1_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

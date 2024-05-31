@@ -1,0 +1,16 @@
+{
+    "Name": "图标转换工具",
+    "Version": "1.0.0",
+    "Filename": "icon-convertor_1.0.0_amd64.deb",
+    "Torrent_address": "icon-convertor_1.0.0_amd64.deb.torrent",
+    "Pkgname": "icon-convertor",
+    "Author": "cass",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://github.com/MarsSwimmer/icon-convertor",
+    "Update": "2024-05-07 10:25:10",
+    "Size": "80.21 MB",
+    "More": "支持svg、png图像转Icns，支持全规格icns（ic7，ic8，ic9，ic10，ic11，ic12，ic13，ic14），mac应用打包时不再担心图标不生效问题；\n支持svg、png图像转Ico，可选多种尺寸的图像；\n支持非标svg图像，现有的svg图像库在处理非标svg图像时可能导致颜色丢失（全黑）和颜色不正常（偏紫色）的情况，本软件采用浏览器渲染的方式完美绕过了颜色丢失的问题；\n完全免费。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/0df883e524e04beea57d8787bfae8bfb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/2eaccc58b1364fa59ce28a836710a0c9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/c3d34722192d479bab7909d89bc54010.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/07/6a8c95190842439794b0c078be641b3f.png"
+}

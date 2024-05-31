@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="web-xiaohuazhuo_1.0spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">6ce6d93fafd6e80e111349c4a4f514ec</hash>
+				  
+				<hash type="sha1">7f60e91097df467b8b206697ccfb7619cbc8e195</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/web-xiaohuazhuo/web-xiaohuazhuo_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/web-xiaohuazhuo/web-xiaohuazhuo_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/web-xiaohuazhuo/web-xiaohuazhuo_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/web-xiaohuazhuo/web-xiaohuazhuo_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/web-xiaohuazhuo/web-xiaohuazhuo_1.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/web-xiaohuazhuo/web-xiaohuazhuo_1.0spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

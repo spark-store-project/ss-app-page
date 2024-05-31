@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.cpuz.spark_2.09spark0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">2e9ee115893cc29094677b5915633edc</hash>
+				  
+				<hash type="sha1">dc06206bf37ae3c4bad36bfe14114637e5d520da</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/com.cpuz.spark/com.cpuz.spark_2.09spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/com.cpuz.spark/com.cpuz.spark_2.09spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/com.cpuz.spark/com.cpuz.spark_2.09spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/com.cpuz.spark/com.cpuz.spark_2.09spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/com.cpuz.spark/com.cpuz.spark_2.09spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/com.cpuz.spark/com.cpuz.spark_2.09spark0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

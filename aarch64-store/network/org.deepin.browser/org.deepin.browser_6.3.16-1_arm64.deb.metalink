@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.deepin.browser_6.3.16-1_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f1d0ef87f0cc5d7671ee09d0db6c1983</hash>
+				  
+				<hash type="sha1">3fdddd960ffb3c074aec73fcf3ed3fba51953bd2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/network/org.deepin.browser/org.deepin.browser_6.3.16-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/network/org.deepin.browser/org.deepin.browser_6.3.16-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/network/org.deepin.browser/org.deepin.browser_6.3.16-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/network/org.deepin.browser/org.deepin.browser_6.3.16-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/network/org.deepin.browser/org.deepin.browser_6.3.16-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/network/org.deepin.browser/org.deepin.browser_6.3.16-1_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

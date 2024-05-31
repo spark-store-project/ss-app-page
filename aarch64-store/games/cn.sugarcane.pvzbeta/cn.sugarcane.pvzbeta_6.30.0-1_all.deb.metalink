@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.sugarcane.pvzbeta_6.30.0-1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c07eb0822626f3aac9fe1faa9dfa5f15</hash>
+				  
+				<hash type="sha1">1c1333dd3e26cfea7e9a5bcfa15d8fd3f3f309ba</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/games/cn.sugarcane.pvzbeta/cn.sugarcane.pvzbeta_6.30.0-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/games/cn.sugarcane.pvzbeta/cn.sugarcane.pvzbeta_6.30.0-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/games/cn.sugarcane.pvzbeta/cn.sugarcane.pvzbeta_6.30.0-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/games/cn.sugarcane.pvzbeta/cn.sugarcane.pvzbeta_6.30.0-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/games/cn.sugarcane.pvzbeta/cn.sugarcane.pvzbeta_6.30.0-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/games/cn.sugarcane.pvzbeta/cn.sugarcane.pvzbeta_6.30.0-1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

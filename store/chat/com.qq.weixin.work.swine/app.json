@@ -1,0 +1,16 @@
+{
+    "Name": "企业微信（Spark）",
+    "Version": "4.1.20.6024spark3",
+    "Filename": "com.qq.weixin.work.swine_4.1.20.6024spark3_all.deb",
+    "Torrent_address": "com.qq.weixin.work.swine_4.1.20.6024spark3_all.deb.torrent",
+    "Pkgname": "com.qq.weixin.work.swine",
+    "Author": "Spark WINE Team <jifengshenmo@outlook.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://work.weixin.qq.com/",
+    "Update": "2024-03-04 23:47:26",
+    "Size": "658.93 MB",
+    "More": "安装完成以后首次执行软体，请在设定中停用WeCom更新，原因是新版本无法在wine中执行。同时预载的腾讯会议不推荐使用，因为wine版腾讯会议视讯功能异常。\n由于采用xdotool辅助，结束视窗需通过启动台。\n\n故障：微盘，信件等部份功能不正常",
+    "Tags": "ubuntu;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/04/872bbe2251f648908689d44f38bae664.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/04/cc84bcb6cbb744ae90491ee1ad9e6b0a.png"
+}

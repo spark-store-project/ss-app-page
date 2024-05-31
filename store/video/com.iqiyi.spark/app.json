@@ -1,0 +1,16 @@
+{
+    "Name": "爱奇艺",
+    "Version": "10.4.0.6846spark3",
+    "Filename": "com.iqiyi.spark_10.4.0.6846spark3_all.deb",
+    "Torrent_address": "com.iqiyi.spark_10.4.0.6846spark3_all.deb.torrent",
+    "Pkgname": "com.iqiyi.spark",
+    "Author": "爱奇艺",
+    "Contributor": "sgb76",
+    "Website": "https://www.iqiyi.com/",
+    "Update": "2024-03-31 00:29:27",
+    "Size": "83.37 MB",
+    "More": "拥有海量、优质、高清的影视剧集等视频内容\n\n—更新说明—\n1.优化了打包，体积大幅减少\n2.在deepin下运行，托盘图标在主窗口打开的情况下无法点开，当主窗口关闭时可正常点开托盘图标。嫌麻烦可以在设置里将点击关闭按钮时设置为直接退出。\n2.Ubuntu22.04下测试托盘图标正常。\n3.首次启动因容器初始化尚未全部完成，点开视频播放会出现字体无法显示的问题，关闭程序后再次启动运行就正常了。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/31/f92b93f572c84f38bc05453e4b567926.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/31/44378560d9dd4df78cf9c54ec3b32bdb.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/31/fce6283b7a094d6db8f8e1f36fab4521.png"
+}

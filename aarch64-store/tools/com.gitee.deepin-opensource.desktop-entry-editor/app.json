@@ -1,0 +1,16 @@
+{
+    "Author": "zty199 <zty2864@gmail.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.5~uos_arm64.deb",
+    "More": "桌面快捷方式编辑器，帮助你快速创建桌面快捷方式，支持修改、另存为等基本文件操作。\n\n【更新日志】\nv1.4.5\n1. 重构部分代码，使用信号槽函数取代直接操作私有成员；\n2. 重新在 UOS 个人版 1030 系统中使用 Qt 5.11.3 进行编译，修复兼容性。",
+    "Name": "桌面快捷方式编辑器",
+    "Pkgname": "com.gitee.deepin-opensource.desktop-entry-editor",
+    "Size": "70 Kb",
+    "Tags": "community;deepin;uos;dtk5",
+    "Torrent_address": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.5~uos_arm64.deb.torrent",
+    "Update": "2023-03-06 21:01:25",
+    "Version": "1.4.5~uos",
+    "Website": "https://gitee.com/deepin-opensource/desktop-entry-editor",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_3.png\"]"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="deepin-wine-runtime_0.1.9_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c7e7c14e845e90f28f298b539ec5e65e</hash>
+				  
+				<hash type="sha1">659d873a349d4ec01165abcc88532d439eec9be3</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/depends/deepin-wine6-stable/deepin-wine-runtime_0.1.9_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/depends/deepin-wine6-stable/deepin-wine-runtime_0.1.9_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/depends/deepin-wine6-stable/deepin-wine-runtime_0.1.9_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/depends/deepin-wine6-stable/deepin-wine-runtime_0.1.9_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/depends/deepin-wine6-stable/deepin-wine-runtime_0.1.9_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/depends/deepin-wine6-stable/deepin-wine-runtime_0.1.9_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

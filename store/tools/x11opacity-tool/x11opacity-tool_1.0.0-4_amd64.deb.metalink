@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="x11opacity-tool_1.0.0-4_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">8f827d36ae00ed57c5c1ab5c04f608c6</hash>
+				  
+				<hash type="sha1">ff8a90a90de9fd0b6686100dfa0de8fe4c576bec</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/x11opacity-tool/x11opacity-tool_1.0.0-4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/x11opacity-tool/x11opacity-tool_1.0.0-4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/x11opacity-tool/x11opacity-tool_1.0.0-4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/x11opacity-tool/x11opacity-tool_1.0.0-4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/x11opacity-tool/x11opacity-tool_1.0.0-4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/x11opacity-tool/x11opacity-tool_1.0.0-4_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="wps-office-fonts_1.1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">6fc768f7e94282865a6dd9ac974cdbe6</hash>
+				  
+				<hash type="sha1">7b8a4b985ec26bf053d1cef0e0433f74fddcccd1</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/wps-office-fonts/wps-office-fonts_1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/wps-office-fonts/wps-office-fonts_1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/wps-office-fonts/wps-office-fonts_1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/wps-office-fonts/wps-office-fonts_1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/wps-office-fonts/wps-office-fonts_1.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/wps-office-fonts/wps-office-fonts_1.1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="uengine-dc-com.mihoyo.enterprise.nghsod_6.5.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">d16ad694c5bc5266bf8d583cc26dea71</hash>
+				  
+				<hash type="sha1">ace616b065897b3a3351114b175d0ba6dfe0d489</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/uengine-dc-com.mihoyo.enterprise.nghsod/uengine-dc-com.mihoyo.enterprise.nghsod_6.5.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/uengine-dc-com.mihoyo.enterprise.nghsod/uengine-dc-com.mihoyo.enterprise.nghsod_6.5.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/uengine-dc-com.mihoyo.enterprise.nghsod/uengine-dc-com.mihoyo.enterprise.nghsod_6.5.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/uengine-dc-com.mihoyo.enterprise.nghsod/uengine-dc-com.mihoyo.enterprise.nghsod_6.5.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/uengine-dc-com.mihoyo.enterprise.nghsod/uengine-dc-com.mihoyo.enterprise.nghsod_6.5.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/uengine-dc-com.mihoyo.enterprise.nghsod/uengine-dc-com.mihoyo.enterprise.nghsod_6.5.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

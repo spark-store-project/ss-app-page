@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="chiner.spark_3.5.4spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">eb0a5548fe70022eef5679caf6846494</hash>
+				  
+				<hash type="sha1">e54285b908e51e578677a159778a8cb82389a8bc</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/chiner.spark/chiner.spark_3.5.4spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/chiner.spark/chiner.spark_3.5.4spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/chiner.spark/chiner.spark_3.5.4spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/chiner.spark/chiner.spark_3.5.4spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/chiner.spark/chiner.spark_3.5.4spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/chiner.spark/chiner.spark_3.5.4spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

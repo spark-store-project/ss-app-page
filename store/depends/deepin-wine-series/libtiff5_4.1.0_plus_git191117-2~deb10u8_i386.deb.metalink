@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libtiff5_4.1.0_plus_git191117-2~deb10u8_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">6bb6a0d888f028d068392081b08e23e4</hash>
+				  
+				<hash type="sha1">d5b657add1ee611f4887d51ef6c575dc68fb6d62</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/deepin-wine-series/libtiff5_4.1.0_plus_git191117-2~deb10u8_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/deepin-wine-series/libtiff5_4.1.0_plus_git191117-2~deb10u8_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/deepin-wine-series/libtiff5_4.1.0_plus_git191117-2~deb10u8_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/deepin-wine-series/libtiff5_4.1.0_plus_git191117-2~deb10u8_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/deepin-wine-series/libtiff5_4.1.0_plus_git191117-2~deb10u8_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/deepin-wine-series/libtiff5_4.1.0_plus_git191117-2~deb10u8_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="io.itch.marquiskurt.bug-bounty_1.2.1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9b8071ef16c9e8512b38ac33e03748c9</hash>
+				  
+				<hash type="sha1">61f12c895537e621a4d7280beb79f5620a58a697</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/io.itch.marquiskurt.bug-bounty/io.itch.marquiskurt.bug-bounty_1.2.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/io.itch.marquiskurt.bug-bounty/io.itch.marquiskurt.bug-bounty_1.2.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/io.itch.marquiskurt.bug-bounty/io.itch.marquiskurt.bug-bounty_1.2.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/io.itch.marquiskurt.bug-bounty/io.itch.marquiskurt.bug-bounty_1.2.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/io.itch.marquiskurt.bug-bounty/io.itch.marquiskurt.bug-bounty_1.2.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/io.itch.marquiskurt.bug-bounty/io.itch.marquiskurt.bug-bounty_1.2.1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="deepin.com.ie8_1.0.1deepin3_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a287c997b2fbeea3c545f770e37caeb1</hash>
+				  
+				<hash type="sha1">d4155f7aff9b54c9ce7bad8785d8c4705327d0f0</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/network/deepin.com.ie8/deepin.com.ie8_1.0.1deepin3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/network/deepin.com.ie8/deepin.com.ie8_1.0.1deepin3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/network/deepin.com.ie8/deepin.com.ie8_1.0.1deepin3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/network/deepin.com.ie8/deepin.com.ie8_1.0.1deepin3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/network/deepin.com.ie8/deepin.com.ie8_1.0.1deepin3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/network/deepin.com.ie8/deepin.com.ie8_1.0.1deepin3_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="ar.com.tuxguitar.spark_1.5.6spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e17c8bcf5a180cc4178cfc36299bde4d</hash>
+				  
+				<hash type="sha1">e06aa5adaf2046c5d2fb1c29f0a67691856e545a</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/music/ar.com.tuxguitar.spark/ar.com.tuxguitar.spark_1.5.6spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/music/ar.com.tuxguitar.spark/ar.com.tuxguitar.spark_1.5.6spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/music/ar.com.tuxguitar.spark/ar.com.tuxguitar.spark_1.5.6spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/music/ar.com.tuxguitar.spark/ar.com.tuxguitar.spark_1.5.6spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/music/ar.com.tuxguitar.spark/ar.com.tuxguitar.spark_1.5.6spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/music/ar.com.tuxguitar.spark/ar.com.tuxguitar.spark_1.5.6spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

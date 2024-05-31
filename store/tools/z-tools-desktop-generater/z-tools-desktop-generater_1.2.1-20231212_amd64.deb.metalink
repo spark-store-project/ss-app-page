@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="z-tools-desktop-generater_1.2.1-20231212_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">40ff43b0db4a39d5979373390f564aa6</hash>
+				  
+				<hash type="sha1">544c99a1d6fdabe34d1167b5f59afb818937c296</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-desktop-generater/z-tools-desktop-generater_1.2.1-20231212_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/z-tools-desktop-generater/z-tools-desktop-generater_1.2.1-20231212_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/z-tools-desktop-generater/z-tools-desktop-generater_1.2.1-20231212_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/z-tools-desktop-generater/z-tools-desktop-generater_1.2.1-20231212_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/z-tools-desktop-generater/z-tools-desktop-generater_1.2.1-20231212_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/z-tools-desktop-generater/z-tools-desktop-generater_1.2.1-20231212_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

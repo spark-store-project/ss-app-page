@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.app.vivlio.spark_2.2.1spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9fed2e4c9751e446bafb5860e8568e01</hash>
+				  
+				<hash type="sha1">f6b452d2773f08eee3b2e24ca0154b5f11845eb2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/reading/com.app.vivlio.spark/com.app.vivlio.spark_2.2.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/reading/com.app.vivlio.spark/com.app.vivlio.spark_2.2.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/reading/com.app.vivlio.spark/com.app.vivlio.spark_2.2.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/reading/com.app.vivlio.spark/com.app.vivlio.spark_2.2.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/reading/com.app.vivlio.spark/com.app.vivlio.spark_2.2.1spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/reading/com.app.vivlio.spark/com.app.vivlio.spark_2.2.1spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,16 @@
+{
+    "Name": "desktop 图标生成器",
+    "Version": "1.2.1-20231212",
+    "Filename": "z-tools-desktop-generater_1.2.1-20231212_amd64.deb",
+    "Torrent_address": "z-tools-desktop-generater_1.2.1-20231212_amd64.deb.torrent",
+    "Pkgname": "z-tools-desktop-generater",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "http://gitee.com/zinface/z-tools",
+    "Update": "2023-12-12 14:14:01",
+    "Size": "55.87 KB",
+    "More": "Linux toolbox under development\n .\n Build for Uos20 through spark-deb-build.\n\nv1.2.1: 支持 desktop 文件拖入解析(仅获取基本的键值)",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/12/57fedafeb46041c3ba4ce942f1f01fd3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/12/9d7d30aa350849d6aabe197c8adbeb47.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/12/132604db6d7f48db86bbec13e5111a21.png"
+}

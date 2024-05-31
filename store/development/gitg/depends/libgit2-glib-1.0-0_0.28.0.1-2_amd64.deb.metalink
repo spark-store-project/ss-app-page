@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libgit2-glib-1.0-0_0.28.0.1-2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">8be5010b3beeaf467a9dd4688795746d</hash>
+				  
+				<hash type="sha1">8482a99dd3004aa0f872286bbe243ce9653c2323</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/development/gitg/depends/libgit2-glib-1.0-0_0.28.0.1-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/gitg/depends/libgit2-glib-1.0-0_0.28.0.1-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/development/gitg/depends/libgit2-glib-1.0-0_0.28.0.1-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/gitg/depends/libgit2-glib-1.0-0_0.28.0.1-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/development/gitg/depends/libgit2-glib-1.0-0_0.28.0.1-2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/development/gitg/depends/libgit2-glib-1.0-0_0.28.0.1-2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

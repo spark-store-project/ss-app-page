@@ -1,0 +1,16 @@
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.qq.weixin.spark.ace_3.8.0.41spark23.1_arm64.deb",
+    "More": "使用ACE容器构建的微信 Wine，理论上可在几乎所有的Arm设备上启动（Termux除外）\n\n请注意：只推荐在普通的微信(wine)无法安装时才尝试微信ACE，因为安装包很大，下载和安装都会很慢。\n※※※※※首次启动可能会报错网络问题，彻底退出后重启可以解决※※※※※\n\n若有问题请联系投递者",
+    "Name": "微信-ACE(wine) 万能安装版",
+    "Pkgname": "com.qq.weixin.spark.ace",
+    "Size": "901 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.qq.weixin.spark.ace_3.8.0.41spark23.1_arm64.deb.torrent",
+    "Update": "2023-09-08 08:01:49",
+    "Version": "3.8.0.41spark23.1",
+    "Website": "https://gitee.com/deepin-community-store/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.spark.ace/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.spark.ace/screen_1.png\"]"
+}

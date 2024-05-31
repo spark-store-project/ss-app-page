@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="store.spark-app.feedback_1.3.2_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">70b1235b7b07ab83a5128862f9eefa00</hash>
+				  
+				<hash type="sha1">1dde3e226d864be10434e0d2f0f41097d7ef1784</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/chat/store.spark-app.feedback/store.spark-app.feedback_1.3.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/chat/store.spark-app.feedback/store.spark-app.feedback_1.3.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/chat/store.spark-app.feedback/store.spark-app.feedback_1.3.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/chat/store.spark-app.feedback/store.spark-app.feedback_1.3.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/chat/store.spark-app.feedback/store.spark-app.feedback_1.3.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/chat/store.spark-app.feedback/store.spark-app.feedback_1.3.2_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

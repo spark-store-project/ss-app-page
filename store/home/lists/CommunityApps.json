@@ -1,0 +1,45 @@
+[
+    {
+        "Name": "T 主题套组",
+        "Pkgname": "com.uniontech.theme.infinitecontrol",
+        "Category": "themes",
+        "More": "让你的deepin重获新生"
+    },
+    {
+        "Name": "Wine运行器",
+        "Pkgname": "spark-deepin-wine-runner",
+        "Category": "tools",
+        "More": "Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序"
+    },
+    {
+        "Name": "Pot-跨平台翻译软件",
+        "Pkgname": "pot",
+        "Category": "tools",
+        "More": "一个跨平台划词翻译软件"
+    },
+    {
+        "Name": "榴莲-OCR",
+        "Category": "image_graphics",
+        "Pkgname": "durian-ocr",
+        "More": "deepin-ocr的无dtk版本，可以在ubuntu20.04和debian10以上系统使用，增加了一个小界面和切换识别语言，使用方法:命令行使用:durian-ocr +路径  ，界面使用"
+    },
+    {
+        "Name": "羽云十六进制编辑器",
+        "Category": "tools",
+        "Pkgname": "com.wingsummer.winghexexplorer",
+        "More": "一个基于 QT 和 DTK 开发的强大的开源免费的十六进制编辑器。"
+    },
+    {
+        "Name": "羽云 GIF 编辑器",
+        "Category": "image_graphics",
+        "Pkgname": "com.wingsummer.winggifeditor",
+        "More": "一个运行在 Deepin 上的简单易用强大的 GIF 图像编辑器。"
+    },
+    {
+        "Name": "樱花助手",
+        "Category": "tools",
+        "Pkgname": "sakura-assistant",
+        "More": "一个运行在 Deepin 上可以保存密码和todo清单的快捷助手"
+    }
+
+]

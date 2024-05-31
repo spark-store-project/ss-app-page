@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.youku.spark_9.2.17.1001spark2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">d2e0caf0adad344c5725d4b2d6e6b2bd</hash>
+				  
+				<hash type="sha1">3522ad3f7fbe31cd6b9df99becb1dd2e3e2ddb11</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/video/com.youku.spark/com.youku.spark_9.2.17.1001spark2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/video/com.youku.spark/com.youku.spark_9.2.17.1001spark2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/video/com.youku.spark/com.youku.spark_9.2.17.1001spark2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/video/com.youku.spark/com.youku.spark_9.2.17.1001spark2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/video/com.youku.spark/com.youku.spark_9.2.17.1001spark2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/video/com.youku.spark/com.youku.spark_9.2.17.1001spark2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

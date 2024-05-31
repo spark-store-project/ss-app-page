@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="muse-hub_1.0.1.451_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">af4ce3206abbe88497688cfbdce66307</hash>
+				  
+				<hash type="sha1">38f486f614c1c6936b9069c47dc473c475b3d628</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/music/muse-hub/muse-hub_1.0.1.451_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/music/muse-hub/muse-hub_1.0.1.451_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/music/muse-hub/muse-hub_1.0.1.451_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/music/muse-hub/muse-hub_1.0.1.451_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/music/muse-hub/muse-hub_1.0.1.451_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/music/muse-hub/muse-hub_1.0.1.451_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.wind.wft_24.1.7.05090_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9dc222396cd9a9a5dde3ad0de861e911</hash>
+				  
+				<hash type="sha1">31e30dfdc01d89023b4ab80badaa770fa3e8f0d2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/others/com.wind.wft/com.wind.wft_24.1.7.05090_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/others/com.wind.wft/com.wind.wft_24.1.7.05090_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/others/com.wind.wft/com.wind.wft_24.1.7.05090_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/others/com.wind.wft/com.wind.wft_24.1.7.05090_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/others/com.wind.wft/com.wind.wft_24.1.7.05090_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/others/com.wind.wft/com.wind.wft_24.1.7.05090_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

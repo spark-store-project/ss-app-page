@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="squoosh-desktop-app_1.0.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f7b9cb2d93e0548daef000bbe817d630</hash>
+				  
+				<hash type="sha1">a3a55691734949c9c7781593ba96379321ee0ec2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/squoosh-desktop-app/squoosh-desktop-app_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/squoosh-desktop-app/squoosh-desktop-app_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/squoosh-desktop-app/squoosh-desktop-app_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/squoosh-desktop-app/squoosh-desktop-app_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/squoosh-desktop-app/squoosh-desktop-app_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/squoosh-desktop-app/squoosh-desktop-app_1.0.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

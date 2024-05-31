@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="wemeet_3.19.1.401_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7abbfec0b9dc9efc9ed4b24d5f772b04</hash>
+				  
+				<hash type="sha1">9df8b61cda98fd55a686cd5c7ca50193ab1a99d8</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/chat/wemeet/wemeet_3.19.1.401_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/chat/wemeet/wemeet_3.19.1.401_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/chat/wemeet/wemeet_3.19.1.401_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/chat/wemeet/wemeet_3.19.1.401_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/chat/wemeet/wemeet_3.19.1.401_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/chat/wemeet/wemeet_3.19.1.401_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.qq.im.deepin.spark_9.6.7.28815_plus_spark4_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">db604bce401b838a54876ff7eca7d7d3</hash>
+				  
+				<hash type="sha1">e05f70c0d1b888bba7ddb6da69d4b30d853935f4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/chat/com.qq.im.deepin.spark/com.qq.im.deepin.spark_9.6.7.28815_plus_spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/chat/com.qq.im.deepin.spark/com.qq.im.deepin.spark_9.6.7.28815_plus_spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/chat/com.qq.im.deepin.spark/com.qq.im.deepin.spark_9.6.7.28815_plus_spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/chat/com.qq.im.deepin.spark/com.qq.im.deepin.spark_9.6.7.28815_plus_spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/chat/com.qq.im.deepin.spark/com.qq.im.deepin.spark_9.6.7.28815_plus_spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/chat/com.qq.im.deepin.spark/com.qq.im.deepin.spark_9.6.7.28815_plus_spark4_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

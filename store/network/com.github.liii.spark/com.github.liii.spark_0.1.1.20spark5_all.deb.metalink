@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.github.liii.spark_0.1.1.20spark5_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">3b62ab2a14fa729907a2fb81ab7c5327</hash>
+				  
+				<hash type="sha1">571449906c83739c944efb3bd3fe80a6776f844c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/com.github.liii.spark/com.github.liii.spark_0.1.1.20spark5_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/com.github.liii.spark/com.github.liii.spark_0.1.1.20spark5_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/com.github.liii.spark/com.github.liii.spark_0.1.1.20spark5_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/com.github.liii.spark/com.github.liii.spark_0.1.1.20spark5_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/com.github.liii.spark/com.github.liii.spark_0.1.1.20spark5_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/com.github.liii.spark/com.github.liii.spark_0.1.1.20spark5_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

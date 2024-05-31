@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.alibabainc.dingtalk_7.5.10.404071_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9106f29d934906bd69f4a4802764d9dd</hash>
+				  
+				<hash type="sha1">b38e6c87a48acb2b917e8005fd556773cd05fcc7</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/chat/com.alibabainc.dingtalk/com.alibabainc.dingtalk_7.5.10.404071_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/chat/com.alibabainc.dingtalk/com.alibabainc.dingtalk_7.5.10.404071_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/chat/com.alibabainc.dingtalk/com.alibabainc.dingtalk_7.5.10.404071_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/chat/com.alibabainc.dingtalk/com.alibabainc.dingtalk_7.5.10.404071_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/chat/com.alibabainc.dingtalk/com.alibabainc.dingtalk_7.5.10.404071_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/chat/com.alibabainc.dingtalk/com.alibabainc.dingtalk_7.5.10.404071_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

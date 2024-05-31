@@ -1,0 +1,16 @@
+{
+    "Name": "Muse-Hub",
+    "Version": "1.0.1.451",
+    "Filename": "muse-hub_1.0.1.451_amd64.deb",
+    "Torrent_address": "muse-hub_1.0.1.451_amd64.deb.torrent",
+    "Pkgname": "muse-hub",
+    "Author": "Muse Group <contact@mu.se>",
+    "Contributor": "Muse Group <contact@mu.se>",
+    "Website": "https://www.musehub.com/",
+    "Update": "2023-09-13 19:31:14",
+    "Size": "35.05 MB",
+    "More": "用于给musescore下载音源，需要配合musescore使用\n\n***安装后打不开的解决办法（二选一即可）：\n1.每次打开muse-hub之前在终端输入    export_LC=ALL（（LC和 ALL之间有个下划线）,再输入muse-hub（推荐）\n2.打开/usr/share/applications，找到muse-hub.desktop，用管理员权限打开，用文本编辑器打开，将Exec那行改成Exec=env   LC _ALL=C muse-hub   （LC和 ALL之间有个下划线），保存（不推荐）",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/13/1ab8564b94f642ef9e5de6942e98e82c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/13/7a901cd010324786965988d09c6a67c9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/13/c599e42584c54bdf8ff241a4d6c1bed3.png"
+}

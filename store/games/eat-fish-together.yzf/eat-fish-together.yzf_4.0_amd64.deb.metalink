@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="eat-fish-together.yzf_4.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9c13edc8cefb45005e2c99fad5ce0a2a</hash>
+				  
+				<hash type="sha1">7a771969b1be6e88eb1ebbbf95b4de8c315eff09</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/eat-fish-together.yzf/eat-fish-together.yzf_4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/eat-fish-together.yzf/eat-fish-together.yzf_4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/eat-fish-together.yzf/eat-fish-together.yzf_4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/eat-fish-together.yzf/eat-fish-together.yzf_4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/eat-fish-together.yzf/eat-fish-together.yzf_4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/eat-fish-together.yzf/eat-fish-together.yzf_4.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

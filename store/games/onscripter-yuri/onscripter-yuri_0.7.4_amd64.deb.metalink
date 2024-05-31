@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="onscripter-yuri_0.7.4_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">496974b06d547eb762d55c335cb6c68e</hash>
+				  
+				<hash type="sha1">a43a9ec63e986d7b79441f25f8893e44fc2a6627</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/onscripter-yuri/onscripter-yuri_0.7.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/onscripter-yuri/onscripter-yuri_0.7.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/onscripter-yuri/onscripter-yuri_0.7.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/onscripter-yuri/onscripter-yuri_0.7.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/onscripter-yuri/onscripter-yuri_0.7.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/onscripter-yuri/onscripter-yuri_0.7.4_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

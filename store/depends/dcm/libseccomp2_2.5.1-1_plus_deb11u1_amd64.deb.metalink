@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libseccomp2_2.5.1-1_plus_deb11u1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">905c0689cbc5dd14d62c19cb22ac7ba3</hash>
+				  
+				<hash type="sha1">f31e9ff4add7703d5b0ab144a313cd871012cfe3</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/dcm/libseccomp2_2.5.1-1_plus_deb11u1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/dcm/libseccomp2_2.5.1-1_plus_deb11u1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/dcm/libseccomp2_2.5.1-1_plus_deb11u1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/dcm/libseccomp2_2.5.1-1_plus_deb11u1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/dcm/libseccomp2_2.5.1-1_plus_deb11u1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/dcm/libseccomp2_2.5.1-1_plus_deb11u1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

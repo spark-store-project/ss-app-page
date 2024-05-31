@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="exagear-core-x64a64_2870.1_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b80d58cf1072d1d5e2df370d3822d5c3</hash>
+				  
+				<hash type="sha1">7536208d95b2a2369641c65c2b2f799a841fa3f4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/depends/deepin-wine6-stable/exagear-core-x64a64_2870.1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/depends/deepin-wine6-stable/exagear-core-x64a64_2870.1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/depends/deepin-wine6-stable/exagear-core-x64a64_2870.1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/depends/deepin-wine6-stable/exagear-core-x64a64_2870.1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/depends/deepin-wine6-stable/exagear-core-x64a64_2870.1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/depends/deepin-wine6-stable/exagear-core-x64a64_2870.1_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

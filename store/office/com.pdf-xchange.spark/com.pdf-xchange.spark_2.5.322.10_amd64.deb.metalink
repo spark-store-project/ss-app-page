@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.pdf-xchange.spark_2.5.322.10_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">76c2961c9c6e1f8687347c53840e8203</hash>
+				  
+				<hash type="sha1">3bc8bdb7f66c6b783f0a9d5f4bbc4d1eda191431</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.pdf-xchange.spark/com.pdf-xchange.spark_2.5.322.10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.pdf-xchange.spark/com.pdf-xchange.spark_2.5.322.10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.pdf-xchange.spark/com.pdf-xchange.spark_2.5.322.10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.pdf-xchange.spark/com.pdf-xchange.spark_2.5.322.10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.pdf-xchange.spark/com.pdf-xchange.spark_2.5.322.10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.pdf-xchange.spark/com.pdf-xchange.spark_2.5.322.10_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

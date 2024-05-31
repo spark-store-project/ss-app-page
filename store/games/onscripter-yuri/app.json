@@ -1,0 +1,16 @@
+{
+    "Name": "Onscripter-Yuri",
+    "Version": "0.7.4",
+    "Filename": "onscripter-yuri_0.7.4_amd64.deb",
+    "Torrent_address": "onscripter-yuri_0.7.4_amd64.deb.torrent",
+    "Pkgname": "onscripter-yuri",
+    "Author": "YuriSizuku",
+    "Contributor": "rina",
+    "Website": "https://github.com/YuriSizuku/OnscripterYuri",
+    "Update": "2024-01-04 17:19:44",
+    "Size": "1.39 MB",
+    "More": "Onscripter的Yuri修改版，可运行ons游戏。相比原版，新增了许多功能。\n运行：在游戏根目录下打开终端，先给予权限 chmod 777 /usr/bin/onsyuri，再输入 onsyuri 即可运行。\n游戏后，删除stdout.txt和stderr.txt",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/04/c4aa34bcbd004de8841e9a6cfdc6ba61.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/04/250166db4b84486bbde1eb0e134663a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/04/c9d3684dd4fc4add916bd196ad64a6f0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/04/90fbf62a71eb45dc82938f58c38beba3.png"
+}

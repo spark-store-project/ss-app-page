@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="remmina-plugin-vnc_1.3.3_plus_dfsg-2_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">120697d13b195dc678d1b4f4b8e81650</hash>
+				  
+				<hash type="sha1">c7b92f52c390f87ecc93b3a6e43058f67cf8386c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/org.remmina.spark/remmina-plugin-vnc_1.3.3_plus_dfsg-2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/tools/org.remmina.spark/remmina-plugin-vnc_1.3.3_plus_dfsg-2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/tools/org.remmina.spark/remmina-plugin-vnc_1.3.3_plus_dfsg-2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/tools/org.remmina.spark/remmina-plugin-vnc_1.3.3_plus_dfsg-2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/tools/org.remmina.spark/remmina-plugin-vnc_1.3.3_plus_dfsg-2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/tools/org.remmina.spark/remmina-plugin-vnc_1.3.3_plus_dfsg-2_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

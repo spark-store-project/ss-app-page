@@ -1,0 +1,15 @@
+{
+    "Name": "STM32Cube 编程器",
+    "Version": "2.5.0",
+    "Filename": "stm32cubeprogrammer_2.5.0_amd64.deb",
+    "Pkgname": "stm32cubeprogrammer",
+    "Author": "STMicroelectronics",
+    "Contributor": "lidanger",
+    "Website": "https://www.st.com",
+    "Update": "2020-10-31 06:19:40",
+    "Size": "26.09 MB",
+    "More": "STM32CubeProgrammer（STM32CubeProg）是一个用于 STM32 产品编程的多合一多操作系统软件工具。\\n它提供了一个易于使用和高效的环境，可通过调试接口（JTAG和SWD）和引导加载程序接口（UART、USB DFU、I2C、SPI和CAN）读取、写入和验证设备内存。\\n它提供多种特性对 STM32 内部存储器（如 Flash、RAM 和 OTP）以及外部存储器进行编程，还支持选项编程和上载、编程内容验证和通过脚本编程实现编程自动化。\\nSTM32CubeProgrammer 包含两种版本：GUI（图形用户界面）和 CLI（命令行界面）。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/ec3e60e0-1b40-11eb-b385-c37fbc249468.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/ec49d290-1b40-11eb-b385-c37fbc249468.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/ec4e1850-1b40-11eb-b385-c37fbc249468.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/d4abfc30-1b40-11eb-b385-c37fbc249468.png"
+}

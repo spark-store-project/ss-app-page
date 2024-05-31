@@ -1,0 +1,16 @@
+{
+    "Name": "x11vnc 用户服务",
+    "Version": "0.0.1",
+    "Filename": "x11vnc-autoservice_0.0.1_all.deb",
+    "Torrent_address": "x11vnc-autoservice_0.0.1_all.deb.torrent",
+    "Pkgname": "x11vnc-autoservice",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/x11vnc-autoservice",
+    "Update": "2023-05-27 22:40:50",
+    "Size": "1.29 KB",
+    "More": "x11vnc 的用户服务，在 x11vnc 崩溃时会自动重启 x11vnc.\n 开启用户登录时自动启动该服务 systemctl --user enable x11vnc.service",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/bf896362f00741ae963311b3f18c96b8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/27/8490b5b8aff34978a158b8cd2afb288f.png"
+}

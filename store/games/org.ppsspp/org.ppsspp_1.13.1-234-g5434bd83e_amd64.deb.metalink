@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.ppsspp_1.13.1-234-g5434bd83e_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">2868b596dade35391f40936d4bdf8cd8</hash>
+				  
+				<hash type="sha1">2411e2c6ad2dbfcb3faf61c6ef055a0b4e23c5b2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/org.ppsspp/org.ppsspp_1.13.1-234-g5434bd83e_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/org.ppsspp/org.ppsspp_1.13.1-234-g5434bd83e_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/org.ppsspp/org.ppsspp_1.13.1-234-g5434bd83e_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/org.ppsspp/org.ppsspp_1.13.1-234-g5434bd83e_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/org.ppsspp/org.ppsspp_1.13.1-234-g5434bd83e_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/org.ppsspp/org.ppsspp_1.13.1-234-g5434bd83e_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

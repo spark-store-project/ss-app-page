@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.ideal.browser_2020.3.22_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">6f1f68fcb50baa478f1c0928f78e4689</hash>
+				  
+				<hash type="sha1">90655e3db51aad41e207ff5a24ccee1c2d46e2a9</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/org.ideal.browser/org.ideal.browser_2020.3.22_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/org.ideal.browser/org.ideal.browser_2020.3.22_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/org.ideal.browser/org.ideal.browser_2020.3.22_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/org.ideal.browser/org.ideal.browser_2020.3.22_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/org.ideal.browser/org.ideal.browser_2020.3.22_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/org.ideal.browser/org.ideal.browser_2020.3.22_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

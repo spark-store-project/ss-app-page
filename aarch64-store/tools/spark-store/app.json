@@ -1,0 +1,16 @@
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-store_4.2.12_arm64.deb",
+    "More": "  * 修复：飞腾部分设备上白屏的问题\n  * 修复：下载开始时长时等待（降低链接超时时长）\n  * 修复：spark-dstore-patch运行时报错",
+    "Name": "星火应用商店",
+    "Pkgname": "spark-store",
+    "Size": "697 Kb",
+    "Tags": "community;deepin;uos;ubuntu;dtk5",
+    "Torrent_address": "spark-store_4.2.12_arm64.deb.torrent",
+    "Update": "2024-04-27 19:23:12",
+    "Version": "4.2.12",
+    "Website": "https://www.spark-app.store/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store/screen_4.png\"]"
+}

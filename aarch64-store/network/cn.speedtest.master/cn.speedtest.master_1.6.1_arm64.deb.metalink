@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.speedtest.master_1.6.1_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c068332f47e9c028b6e7bcf6c3dcf12c</hash>
+				  
+				<hash type="sha1">372d25e0f7fe59d017de2ef01b6b1e32e4994773</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.speedtest.master/cn.speedtest.master_1.6.1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/network/cn.speedtest.master/cn.speedtest.master_1.6.1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/network/cn.speedtest.master/cn.speedtest.master_1.6.1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/network/cn.speedtest.master/cn.speedtest.master_1.6.1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/network/cn.speedtest.master/cn.speedtest.master_1.6.1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/network/cn.speedtest.master/cn.speedtest.master_1.6.1_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

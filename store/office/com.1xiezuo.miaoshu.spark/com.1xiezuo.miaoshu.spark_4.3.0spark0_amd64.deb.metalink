@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.1xiezuo.miaoshu.spark_4.3.0spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">85d03ac2811392f4c92d2dd70746d7b5</hash>
+				  
+				<hash type="sha1">0491154c4cefdb07c0b05315baf5c43e01ad4f45</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.1xiezuo.miaoshu.spark/com.1xiezuo.miaoshu.spark_4.3.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.1xiezuo.miaoshu.spark/com.1xiezuo.miaoshu.spark_4.3.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.1xiezuo.miaoshu.spark/com.1xiezuo.miaoshu.spark_4.3.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.1xiezuo.miaoshu.spark/com.1xiezuo.miaoshu.spark_4.3.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.1xiezuo.miaoshu.spark/com.1xiezuo.miaoshu.spark_4.3.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.1xiezuo.miaoshu.spark/com.1xiezuo.miaoshu.spark_4.3.0spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

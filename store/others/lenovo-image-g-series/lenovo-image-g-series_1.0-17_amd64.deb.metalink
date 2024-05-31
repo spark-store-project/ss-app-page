@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="lenovo-image-g-series_1.0-17_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">80fdcada5c96b66f3427750b7b139d50</hash>
+				  
+				<hash type="sha1">a9c28326edde30bbb6033d09c037cfa63144814e</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/lenovo-image-g-series/lenovo-image-g-series_1.0-17_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/lenovo-image-g-series/lenovo-image-g-series_1.0-17_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/lenovo-image-g-series/lenovo-image-g-series_1.0-17_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/lenovo-image-g-series/lenovo-image-g-series_1.0-17_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/lenovo-image-g-series/lenovo-image-g-series_1.0-17_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/lenovo-image-g-series/lenovo-image-g-series_1.0-17_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

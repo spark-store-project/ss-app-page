@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.officebox.spark_3.1.2spark3_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7b6147b1cb5755fb1500c3d5fcac8614</hash>
+				  
+				<hash type="sha1">ec8a99f0f4927bb5847e9eb4d2fb715ede36d4cd</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.officebox.spark/com.officebox.spark_3.1.2spark3_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.officebox.spark/com.officebox.spark_3.1.2spark3_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.officebox.spark/com.officebox.spark_3.1.2spark3_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.officebox.spark/com.officebox.spark_3.1.2spark3_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.officebox.spark/com.officebox.spark_3.1.2spark3_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.officebox.spark/com.officebox.spark_3.1.2spark3_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

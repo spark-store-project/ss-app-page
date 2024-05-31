@@ -1,0 +1,16 @@
+{
+    "Name": "RISC-V 汇编器和运行时模拟器 (RARS)",
+    "Version": "1.6~spark1",
+    "Filename": "rars-riscv_1.6~spark1_all.deb",
+    "Torrent_address": "rars-riscv_1.6~spark1_all.deb.torrent",
+    "Pkgname": "rars-riscv",
+    "Author": "Benjamin Landers",
+    "Contributor": "Donald Sebastian Leung",
+    "Website": "https://github.com/TheThirdOne/rars",
+    "Update": "2023-02-27 21:25:24",
+    "Size": "1.68 MB",
+    "More": "RISC-V 汇编器和运行时模拟器 (RARS) 是改造自密苏里州立大学知名的 MIPS 汇编器和运行时模拟器 (MARS) 计算机科学教学软件。RARS 的功能与 MARS 大致相同，但相对于后者，前者支持更为现代化的 32 及 64 位 RISC-V 组合语言。RARS 提供的系统呼叫与 MARS 向后兼容，但也提供与常用 Linux 工具如 GCC 兼容的系统呼叫。",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/27/2d07da80-b6a2-11ed-b005-29980317f711.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/27/2d18a360-b6a2-11ed-b005-29980317f711.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/27/2d27be90-b6a2-11ed-b005-29980317f711.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/27/2d32e220-b6a2-11ed-b005-29980317f711.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/27/2d4531a0-b6a2-11ed-b005-29980317f711.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/27/2ab8e170-b6a2-11ed-b005-29980317f711.png"
+}

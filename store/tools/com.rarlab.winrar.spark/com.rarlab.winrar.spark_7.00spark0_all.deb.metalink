@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.rarlab.winrar.spark_7.00spark0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7d34e9367c6eb74ecf8ca8ccae268e3a</hash>
+				  
+				<hash type="sha1">42ae7ac53c42ef26b4dde5e5783733a74c3b61d6</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/com.rarlab.winrar.spark/com.rarlab.winrar.spark_7.00spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/com.rarlab.winrar.spark/com.rarlab.winrar.spark_7.00spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/com.rarlab.winrar.spark/com.rarlab.winrar.spark_7.00spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/com.rarlab.winrar.spark/com.rarlab.winrar.spark_7.00spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/com.rarlab.winrar.spark/com.rarlab.winrar.spark_7.00spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/com.rarlab.winrar.spark/com.rarlab.winrar.spark_7.00spark0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

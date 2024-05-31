@@ -1,0 +1,15 @@
+{
+    "Name": "俄罗斯方块（本地网页版）",
+    "Version": "1.1",
+    "Filename": "com.github.chvin.react-tetris.web_1.1_amd64.deb",
+    "Pkgname": "com.github.chvin.react-tetris.web",
+    "Author": "chvin",
+    "Contributor": "shenmo",
+    "Website": "https://github.com/chvin/react-tetris",
+    "Update": "2021-12-29 23:50:37",
+    "Size": "537.88 KB",
+    "More": "复古风格的俄罗斯方块，使用swrt打包，使用时本地38327端口将会被占用\n非uos/deepin用户如果发现无法打开请\n1.升级dtk版本\n或者\n2.sudo apt remove spark-webapp-runtime -y && sudo apt install swrt-lite -y",
+    "Tags": "community;ubuntu;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/29/0d432830-68bf-11ec-a398-05f929ed58ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/29/0d454b10-68bf-11ec-a398-05f929ed58ec.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/29/f9a444d0-68be-11ec-a398-05f929ed58ec.png"
+}

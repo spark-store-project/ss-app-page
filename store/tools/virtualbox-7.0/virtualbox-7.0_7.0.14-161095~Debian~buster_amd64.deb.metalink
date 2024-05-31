@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="virtualbox-7.0_7.0.14-161095~Debian~buster_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b1c05091355056f0b6cec1e0e8d2779e</hash>
+				  
+				<hash type="sha1">d2404baa29c63469c0344140c634f4fc6f4093db</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/virtualbox-7.0/virtualbox-7.0_7.0.14-161095~Debian~buster_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/virtualbox-7.0/virtualbox-7.0_7.0.14-161095~Debian~buster_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/virtualbox-7.0/virtualbox-7.0_7.0.14-161095~Debian~buster_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/virtualbox-7.0/virtualbox-7.0_7.0.14-161095~Debian~buster_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/virtualbox-7.0/virtualbox-7.0_7.0.14-161095~Debian~buster_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/virtualbox-7.0/virtualbox-7.0_7.0.14-161095~Debian~buster_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

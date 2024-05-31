@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.wingsummer.screenlight_1.0.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">dc5d7b00e8a01329b335706aeea2df32</hash>
+				  
+				<hash type="sha1">733aa6c9890602843a48c245be5a3569a02db028</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/com.wingsummer.screenlight/com.wingsummer.screenlight_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/com.wingsummer.screenlight/com.wingsummer.screenlight_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/com.wingsummer.screenlight/com.wingsummer.screenlight_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/com.wingsummer.screenlight/com.wingsummer.screenlight_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/com.wingsummer.screenlight/com.wingsummer.screenlight_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/com.wingsummer.screenlight/com.wingsummer.screenlight_1.0.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

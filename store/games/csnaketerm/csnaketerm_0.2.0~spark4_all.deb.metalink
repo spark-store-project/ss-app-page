@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="csnaketerm_0.2.0~spark4_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ad5970bbf24b252a7c6c9850505ef70c</hash>
+				  
+				<hash type="sha1">0712c35f8842360da7a85c32e5a17a2485cb3fe4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/csnaketerm/csnaketerm_0.2.0~spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/csnaketerm/csnaketerm_0.2.0~spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/csnaketerm/csnaketerm_0.2.0~spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/csnaketerm/csnaketerm_0.2.0~spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/csnaketerm/csnaketerm_0.2.0~spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/csnaketerm/csnaketerm_0.2.0~spark4_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

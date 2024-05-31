@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="utau-spark-wine_5_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">340ebf9f3e6c44fbcf7828f03a7f106c</hash>
+				  
+				<hash type="sha1">173c5c0cae8ad2e221741debdb1fcbd8695de086</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/music/utau-spark-wine/utau-spark-wine_5_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/music/utau-spark-wine/utau-spark-wine_5_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/music/utau-spark-wine/utau-spark-wine_5_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/music/utau-spark-wine/utau-spark-wine_5_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/music/utau-spark-wine/utau-spark-wine_5_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/music/utau-spark-wine/utau-spark-wine_5_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

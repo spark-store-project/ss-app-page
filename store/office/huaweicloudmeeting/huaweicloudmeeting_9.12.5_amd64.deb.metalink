@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="huaweicloudmeeting_9.12.5_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c9e7baf5286c962f05dd9225c20bfd5c</hash>
+				  
+				<hash type="sha1">0713aef69767f6cf29013aeb3574224eb0d03579</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/huaweicloudmeeting/huaweicloudmeeting_9.12.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/huaweicloudmeeting/huaweicloudmeeting_9.12.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/huaweicloudmeeting/huaweicloudmeeting_9.12.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/huaweicloudmeeting/huaweicloudmeeting_9.12.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/huaweicloudmeeting/huaweicloudmeeting_9.12.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/huaweicloudmeeting/huaweicloudmeeting_9.12.5_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

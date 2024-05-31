@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="keeweb-desktop_1.17.6-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">eb62fad8d219f166e6c7f65d031da01b</hash>
+				  
+				<hash type="sha1">3d2c7bb4878e4838c51f8464af3c5f17a2da0a28</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/keeweb-desktop/keeweb-desktop_1.17.6-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/keeweb-desktop/keeweb-desktop_1.17.6-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/keeweb-desktop/keeweb-desktop_1.17.6-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/keeweb-desktop/keeweb-desktop_1.17.6-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/keeweb-desktop/keeweb-desktop_1.17.6-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/keeweb-desktop/keeweb-desktop_1.17.6-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

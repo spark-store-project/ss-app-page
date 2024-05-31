@@ -1,0 +1,1182 @@
+[
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "amber-ce-loongnix_10.4.12.1_loong64.deb",
+    "More": "ACE兼容环境，使用bwrap容器在deepin上使用Loongnix的应用，为你带来更好的使用体验！\n\nfix: can no use sudo. Need to reinstall to fix\n请使用loongnix-run启动，其余与教程一致\n使用教程： https://bbs.deepin.org/post/261794 \n更新内容：\n* adjust: 废弃了bookworm-run-root，重制了bookworm-run以提升代码质量\n* fix: 部分应用卸载失败的问题\n* fix: 光标主题失效的问题\n* fix: 时区失效\n* 修复v23下无法切换主题的问题",
+    "Name": "ACE Loongnix兼容环境",
+    "Pkgname": "amber-ce-loongnix",
+    "Size": "218 Mb",
+    "Tags": "community;deepin;ubuntu",
+    "Torrent_address": "amber-ce-loongnix_10.4.12.1_loong64.deb.torrent",
+    "Update": "2024-04-18 23:30:16",
+    "Version": "10.4.12.1",
+    "Website": "https://gitee.com/amber-compatability-environment/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/amber-ce-loongnix/icon.png",
+    "img_urls": "[]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "cn.flamescion.bookworm-compatibility-mode_12.4.12.2_loong64.deb",
+    "More": "ACE兼容环境，使用bwrap容器在deepin或UOS上使用Debian 12的应用，为你带来更好的使用体验！\n此版本容器内为Debian sid而不是debian bookworm! 可使用bookworm-run启动\n使用教程： https://bbs.deepin.org/post/261794 \n更新内容：\n* adjust: 废弃了bookworm-run-root，重制了bookworm-run以提升代码质量\n* fix: 部分应用卸载失败的问题\n* fix: 光标主题失效的问题\n* fix: 时区失效\n* fix: unity,dde,kde上内存泄漏的问题\n* 修复v23下无法切换主题的问题",
+    "Name": "ACE Bookworm兼容环境",
+    "Pkgname": "cn.flamescion.bookworm-compatibility-mode",
+    "Size": "220 Mb",
+    "Tags": "community;deepin;ubuntu",
+    "Torrent_address": "cn.flamescion.bookworm-compatibility-mode_12.4.12.2_loong64.deb.torrent",
+    "Update": "2024-04-27 14:46:04",
+    "Version": "12.4.12.2",
+    "Website": "https://gitee.com/deepin-community-store/bookworm-compatibility-mode/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.flamescion.bookworm-compatibility-mode/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.flamescion.bookworm-compatibility-mode/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.flamescion.bookworm-compatibility-mode/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.flamescion.bookworm-compatibility-mode/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "keke <243768648@qq.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.github.ccc-app-manager_0.0.11_loong64.deb",
+    "More": "应用管理器，可查看应用包信息，可卸载和打开应用，可在线或离线提取安装包\n-------------------------------------\n新功能：\n1、连同依赖一起打包功能；\n2、应用列表排序功能",
+    "Name": "应用管理器",
+    "Pkgname": "com.github.ccc-app-manager",
+    "Size": "183 Kb",
+    "Tags": "community;deepin;uos;ubuntu;dtk5",
+    "Torrent_address": "com.github.ccc-app-manager_0.0.11_loong64.deb.torrent",
+    "Update": "2024-03-23 10:46:58",
+    "Version": "0.0.11",
+    "Website": "https://gitee.com/ct243768648/ccc-app-manager",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.github.ccc-app-manager/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.ccc-app-manager/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.ccc-app-manager/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.ccc-app-manager/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.ccc-app-manager/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.ccc-app-manager/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd-xi <3025613752@qq.com>",
+    "Filename": "spark-deepin-wine-runner_3.8.0_all.deb",
+    "More": "Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序，内置了对Wine图形化的支持、各种Wine工具、自制的Wine程序打包器和运行库安装工具等。\n它同时还内置了基于VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作。\n\n一个图形化了如下命令的程序（最简单格式）\nenv WINEPREFIX=容器路径 wine（wine的路径） 可执行文件路径\n让你可以简易方便的使用 wine\n\nWine 运行器 QQ 交流群：762985460",
+    "Name": "Wine运行器 3.8.0",
+    "Pkgname": "spark-deepin-wine-runner",
+    "Size": "25 Mb",
+    "Tags": "community;deepin;uos;ubuntu;dtk5;dwine2;dwine5",
+    "Torrent_address": "spark-deepin-wine-runner_3.8.0_all.deb.torrent",
+    "Update": "2024-05-02 11:14:08",
+    "Version": "3.8.0",
+    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "ace-bookworm-x86_12.4.12.1_loong64.deb",
+    "More": "使用bookworm-run-x86进入x86环境，可安装x86包\n\n修复无法使用sudo的问题，需全新安装\n\n首次安装后请重启或注销以显示已安装的程序\n\n* 修复v23下无法切换主题的问题",
+    "Name": "ACE Bookworm x86兼容环境",
+    "Pkgname": "ace-bookworm-x86",
+    "Size": "160 Mb",
+    "Tags": "community;deepin",
+    "Torrent_address": "ace-bookworm-x86_12.4.12.1_loong64.deb.torrent",
+    "Update": "2024-04-18 23:29:04",
+    "Version": "12.4.12.1",
+    "Website": "https://gitee.com/amber-compatability-environment/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/ace-bookworm-x86/icon.png",
+    "img_urls": "[]"
+}
+
+,
+{
+    "Author": "Boris Pek <tehnick@debian.org>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "q4wine_1.3.11-1.1_loong64.deb",
+    "More": "Q4Wine will help you manage wine prefixes and installed applications.\n .\n General features:\n  - Can export Qt color theme into wine colors settings.\n  - Can easy work with different wine versions at same time.\n  - Easy creating, deleting and managing prefixes (WINEPREFIX).\n  - Easy controlling for wine process.\n  - Easy installer wizard for wine applications.\n  - Autostart icons support.\n  - Easy CD-image use.\n  - You can extract icons from PE files (.exe .dll).\n  - Easy backup and restore for managed prefixes.\n  - Winetricks support.\n  - And more...",
+    "Name": "Q4Wine",
+    "Pkgname": "q4wine",
+    "Size": "3040 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "q4wine_1.3.11-1.1_loong64.deb.torrent",
+    "Update": "2024-03-24 13:11:59",
+    "Version": "1.3.11-1.1",
+    "Website": "https://web.archive.org/web/http://q4wine.brezblock.org.ua/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/q4wine/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/q4wine/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/q4wine/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/q4wine/screen_3.png\"]"
+}
+
+,
+{
+    "Name": "360压缩(wine)",
+    "Version": "4.0.0.1490spark0",
+    "Filename": "com.360.ya.suo.spark_4.0.0.1490spark0_all.deb",
+    "Torrent_address": "com.360.ya.suo.spark_4.0.0.1490spark0_all.deb.torrent",
+    "Pkgname": "com.360.ya.suo.spark",
+    "Author": "gfdgd xi<3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://yasuo.360.cn/",
+    "Update": "2023-11-04 15:30:12",
+    "Size": "120.57 MB",
+    "More": "360压缩，wine版，支持压缩包连续看图等功能\n\n支持arm\n使用 spark wine8",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/46b28263ee3c4ad692cd7cfe6f1fb2f1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/04/f154f48ee46e4877ba548b1a9f4eb18a.png"
+}
+,
+{
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "uos-packaging-tools_1.2.1_all.deb",
+    "More": "uos-packaging-tools 一共包含了五个工具\n可在deepin/UOS上使用\n详情见截图",
+    "Name": "维护打包工具箱",
+    "Pkgname": "uos-packaging-tools",
+    "Size": "64 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "uos-packaging-tools_1.2.1_all.deb.torrent",
+    "Update": "2024-05-27 01:06:09",
+    "Version": "1.2.1",
+    "Website": "https://gitee.com/deepin-community-store/uos-packaging-tools",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "DebuggerX <dx8913712@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.debuggerx.fcitx5-customizer_1.0.6_all.deb",
+    "More": "一个针对 Fcitx5 的优化脚本，力求更符合简中用户的使用习惯～\n\nFcitx (Flexible Input Method Framework) ──即小企鹅输入法，它是一个以 GPL 方式发布的输入法平台,是在 Linux 操作系统中常用的中文输入法。它的优点是，短小精悍、跟程序的兼容性比较好。而 Fcitx5 则是 Fcitx 的接替版本，其 slogen 是 maybe a new fcitx. 但是初始状态下的 Fcitx5 由于词库的缺失以及默认配置与很多人的习惯不同，所以需要进行一些修改和配置才能获得比较好的体验，于是我创建了一个专门用于优化 Fcitx5 的脚本——fcitx5_customizer",
+    "Name": "Fcitx5 优化工具箱",
+    "Pkgname": "com.debuggerx.fcitx5-customizer",
+    "Size": "90 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "com.debuggerx.fcitx5-customizer_1.0.6_all.deb.torrent",
+    "Update": "2024-03-21 23:51:38",
+    "Version": "1.0.6",
+    "Website": "https://github.com/debuggerx01/fcitx5_customizer",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "open-in-terminal-tool_1.0.1_all.deb",
+    "More": "简单的一个用于排查错误的工具，右键点击desktop以在终端中打开",
+    "Name": "在终端中打开工具",
+    "Pkgname": "open-in-terminal-tool",
+    "Size": "80 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "open-in-terminal-tool_1.0.1_all.deb.torrent",
+    "Update": "2024-03-21 23:47:29",
+    "Version": "1.0.1",
+    "Website": "https://gitee.com/deepin-community-store/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_2.png\"]"
+}
+
+,
+{
+    "Name": "格式工厂（Wine）",
+    "Version": "5.11.0",
+    "Filename": "com.sugarcane.formatfactory_5.11.0_all.deb",
+    "Torrent_address": "com.sugarcane.formatfactory_5.11.0_all.deb.torrent",
+    "Pkgname": "com.sugarcane.formatfactory",
+    "Author": "Team FormatFactory",
+    "Contributor": "zkqgxlbjx",
+    "Website": "http://www.pcgeshi.com/",
+    "Update": "2023-08-08 02:18:08",
+    "Size": "103.57 MB",
+    "More": "格式工厂是一款免费多功能的多媒体格式转换软件。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/65fdb0f0-354e-11ee-a987-4f47b34b2038.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/08/6787fa70-354e-11ee-a987-4f47b34b2038.png"
+}
+,
+{
+    "Name": "WinRAR",
+    "Version": "7.00spark0",
+    "Filename": "com.rarlab.winrar.spark_7.00spark0_all.deb",
+    "Torrent_address": "com.rarlab.winrar.spark_7.00spark0_all.deb.torrent",
+    "Pkgname": "com.rarlab.winrar.spark",
+    "Author": "Alexander Roshal",
+    "Contributor": "sgb76",
+    "Website": "https://www.rarlab.com/",
+    "Update": "2023-12-09 20:42:47",
+    "Size": "16.34 MB",
+    "More": "一款功能强大的压缩包管理器，可以解开 CAB、ARJ、LZH、TAR、GZ、ACE、UUE、BZ2、JAR、ISO、Z 和 7Z 等多种类型的档案文件、镜像文件和TAR 组合型文件\n \n--说明--\ndeepin下可以通过右键菜单选择WinRAR打开支持的压缩文件",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/4aa9b8c1520244c6887da7417380f2d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/2f79116ffa7a49429dc9130fa42fd19b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/2f048e1bb3a1431ab99152b2d0b6023d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/09/a015fc0e07f84f00aefd5ee775f78d04.png"
+}
+,
+{
+    "Name": "GitHub 访问加速包",
+    "Version": "0.0.1-20240206",
+    "Filename": "github-fast-access_0.0.1-20240206_all.deb",
+    "Torrent_address": "github-fast-access_0.0.1-20240206_all.deb.torrent",
+    "Pkgname": "github-fast-access",
+    "Author": "麻本法 <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface",
+    "Update": "2024-02-06 11:12:21",
+    "Size": "1.14 KB",
+    "More": "通过使用 iptables 进行 DNAT 操作将 ;即将要访问错误ip的流量导向正确的ip;\n .\n 安装时:\n iptables -t nat -A OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n 卸载时:\n iptables -t nat -D OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n Build for Deepin20.9 through spark-deb-build.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/7cb23da7c5c84dd3a56fe99527159868.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/b08881f8c2ea4c859fb42422748a8370.png"
+}
+,
+{
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-store-submitter_1.5.6.4-20240410_loong64.deb",
+    "More": "社区商店投稿器 \n1. 优雅的点线效果的背景\n2. 优雅的自由角度的通知与问候\n3. 优雅的可应用信息显示对话框\n4. 优雅的将可应用信息自动填充\n5. 优雅的可多选的下拉列表\n6. 优雅的微型加载控件效果\n7. 优雅的添加默认的空图标\n---\n旨为高效投稿而设计的软件\n\n2023/07/06: 在主面板右上角 + 部分增加右击添加默认空图标功能\n2023/08/31: 前端面板加入长文本编辑器实现，双击应用介绍框可弹出\n2023/09/12: 使用 Cdn 扫描方式实现根据包名查询应用信息(原接口过时)\n2023/11/06: 正式开始支持 DDE/KDE 桌面环境 dart 主题模式兼容\n2023/11/07: 采用 dpkg 版本号比较功能精确处理 v100 > v99 的情况\n2023/11/16: 禁用 Gnome 的 dark 主题适配(原因不详)\n2024/01/08: 前端面板全面提升为动态控件",
+    "Name": "星火商店投稿器",
+    "Pkgname": "spark-store-submitter",
+    "Size": "2882 Kb",
+    "Tags": "community;deepin;ubuntu",
+    "Torrent_address": "spark-store-submitter_1.5.6.4-20240410_loong64.deb.torrent",
+    "Update": "2024-04-10 18:48:59",
+    "Version": "1.5.6.4-20240410",
+    "Website": "https://gitee.com/deepin-community-store/dcs-submitter",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store-submitter/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store-submitter/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store-submitter/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store-submitter/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store-submitter/screen_4.png\"]"
+}
+
+,
+{
+   "Name":"以管理员身份打开文件（夹）",
+   "Version":"1.1.1",
+   "Filename":"admin-xdg-open_1.1.1_all.deb",
+   "Pkgname":"admin-xdg-open",
+   "Author":"zty199",
+   "Contributor":"zty199",
+   "Website":"https://gitee.com/zty199/",
+   "Update":"2020-09-15 01:40",
+   "Size":"1.64KB",
+   "More":"利用 xdg-open 以管理员身份直接打开文件（夹），避免文件管理器假死。",
+   "Tags":"community;deepin;uos"
+}
+
+,
+{
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "z-tools-aptmanager_0.7.9-20240324_loong64.deb",
+    "More": "一个简单的软件包管理工具",
+    "Name": "软件包管理器(apt)",
+    "Pkgname": "z-tools-aptmanager",
+    "Size": "56 Kb",
+    "Tags": "community;deepin;ubuntu",
+    "Torrent_address": "z-tools-aptmanager_0.7.9-20240324_loong64.deb.torrent",
+    "Update": "2024-03-24 22:05:17",
+    "Version": "0.7.9-20240324",
+    "Website": "https://gitee.com/zinface/z-tools",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-store_4.2.12.1_loong64.deb",
+    "More": "  * 修复：龙芯自动--no-sandbox\n  * 修复：飞腾部分设备上白屏的问题\n  * 修复：下载开始时长时等待（降低链接超时时长）\n",
+    "Name": "星火应用商店",
+    "Pkgname": "spark-store",
+    "Size": "705 Kb",
+    "Tags": "community;deepin;ubuntu;dtk5",
+    "Torrent_address": "spark-store_4.2.12.1_loong64.deb.torrent",
+    "Update": "2024-04-29 18:00:12",
+    "Version": "4.2.12.1",
+    "Website": "https://www.spark-app.store/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "ziggy <luzijie@uniontech.com>",
+    "Contributor": "shenmo <shenmo@spark-app.store>",
+    "Filename": "org.remmina.dcm_1.4.11_all.deb",
+    "More": "Remmina远程桌面，使用DCM兼容环境的兼容版，可在deepin 23上安装",
+    "Name": "Remmina远程桌面(DCM版)",
+    "Pkgname": "org.remmina.dcm",
+    "Size": "1115 Kb",
+    "Tags": "community;deepin",
+    "Torrent_address": "org.remmina.dcm_1.4.11_all.deb.torrent",
+    "Update": "2023-05-26 14:18:17",
+    "Version": "1.4.11",
+    "Website": "https://remmina.org/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/org.remmina/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/org.remmina/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-store-console_4.2.12_all.deb",
+    "More": "现在并入主线\n支持龙架构\n感谢支持",
+    "Name": "星火应用商店终端版",
+    "Pkgname": "spark-store-console",
+    "Size": "58 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "spark-store-console_4.2.12_all.deb.torrent",
+    "Update": "2024-04-27 19:20:45",
+    "Version": "4.2.12",
+    "Website": "https://www.spark-app.store/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-store-console/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store-console/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store-console/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store-console/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "simple-sensor-monitor_1.1-20240324_loong64.deb",
+    "More": "在配置面板填写 sensors -u 提供的 adapter适配器与 sensor 即可显示数据。 \n\nv1.0: 可显示温度(°C) 电压(V) 电流(A) 功耗(W) 等类型\nv1.1: 可设置刷新间隔，完善线程化的工作流模式\n\n左侧图标尚未支持除温度之外的图标",
+    "Name": "系统传感器显示工具",
+    "Pkgname": "simple-sensor-monitor",
+    "Size": "475 Kb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "simple-sensor-monitor_1.1-20240324_loong64.deb.torrent",
+    "Update": "2024-03-24 22:33:30",
+    "Version": "1.1-20240324",
+    "Website": "https://gitee.com/zinface/qt.mini-sensor-icon",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "Beijing Rising Inc.",
+    "Contributor": "Beijing Rising Inc.",
+    "Filename": "com.rising.antivirus.single_3.0.0.50_loong64.deb",
+    "More": "需要序列号请电话联系瑞星客服：400-660-8866",
+    "Name": "瑞星ESM防病毒系统（国产单机版）",
+    "Pkgname": "com.rising.antivirus.single",
+    "Size": "152 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.rising.antivirus.single_3.0.0.50_loong64.deb.torrent",
+    "Update": "2024-04-02 22:19:29",
+    "Version": "3.0.0.50",
+    "Website": "http://www.rising.com.cn/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.rising.antivirus.single/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.rising.antivirus.single/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "help@todesk.com",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "todesk_4.7.2.0_loong64.deb",
+    "More": "todesk 是一个远程桌面控制的软件，并且支持全平台。",
+    "Name": "Todesk 远程控制(LATX)",
+    "Pkgname": "todesk",
+    "Size": "63 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "todesk_4.7.2.0_loong64.deb.torrent",
+    "Update": "2024-03-29 18:04:12",
+    "Version": "4.7.2.0",
+    "Website": "https://www.todesk.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/todesk/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/todesk/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/todesk/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/todesk/screen_3.png\"]"
+}
+
+,
+{
+    "Name": "Waydroid 运行器 1.2.0.1",
+    "Version": "1.2.0.1",
+    "Filename": "spark-waydroid-runner_1.2.0.1_all.deb",
+    "Torrent_address": "spark-waydroid-runner_1.2.0.1_all.deb.torrent",
+    "Pkgname": "spark-waydroid-runner",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gitee.com/gfdgd-xi/waydroid-runner",
+    "Update": "2023-09-29 15:06:08",
+    "Size": "1.17 MB",
+    "More": "介绍\nWaydroid运行器是可以通过GUI形式半自动配置Waydroid的工具，使用户使用Waydroid更为方便。Waydroid本身存在很多因AOSP未考虑PC用户而产生的问题(如没有自带Houdini,默认英语,默认非小窗模式)而使用户使用起来非常难受,本运行器支持以GUI形式自动化安装以及配置Waydroid，并会创建快捷控制的快捷方式，可以用于玩游戏/刷视频/Android开发等。\n\n配置要求\n仅限启用 Wayland 的 x86-64 的 Linux，ARM64的在安装Magisk时需要重新制作data.img(教程有时间放出来) 显卡仅限Intel & AMD(独立显卡需要启动桌面环境时使用独立显卡,否则无法使用),只有英伟达显卡(连Intel核心显卡都没有的)当前无法使用本项目，建议使用xDroid/UEngine作为替代。\n\nWaydroid运行器 QQ 交流群：872491938 \n推荐在 Deepin23 Wayland 环境下使用，X11 下会自动调用 Sway/Weston 运行 \n如果在 Deepin20/UOS家庭版使用，程序会自动升级系统的 lxc 版本，可能会导致系统崩溃，且 UOS 用户需要开启开发者模式才能正常安装 \nUOS 专业版/教育版暂不支持",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/56f32f53400e48959cc1fed1824cb210.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/85865e520c76454fbe734c9fb7550fbc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/fc446b266ef04482877ac7679f0c351b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/29/b734b0164def46fe9cbe7077a88cc399.png"
+}
+,
+{
+    "Author": "Zhuhai Pantum Electronics Co., Ltd <support@pantum.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.pantum.pantum_7.4.176-1_plus_uos_loong64.deb",
+    "More": "奔图打印机驱动适用于奔图P2505、P3305DN、P5000DN、P5515DN、M7105DN、CM7115DN、CM7000FDN(智享版）、CP2500DN、CP2505DN、CP2510DN、CP2515DN、CP2250DN、CM2270ADN、M9005DN、CM8505DN、CM9505DN、DS-230、P2585、P3385DN、BP5155DN、P2516、P3365DN、BP5150DN、CP5050DN、CP5055DN、CP1155DN、CP1150DN、CP5165DN、CP5155DN、M7185DN、BM5155ADN、M7165DN、BM5150ADN、CM5050DN、CM1155ADN、CM5055DN、CM1150ADN、BM265ADN、BM315ADN、BM415ADN、M9105DN、M9705DN、CM265ADN、CM315ADN、CM415ADN、CM9105DN、CM9705DN",
+    "Name": "奔图打印机驱动",
+    "Pkgname": "com.pantum.pantum",
+    "Size": "96 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "com.pantum.pantum_7.4.176-1_plus_uos_loong64.deb.torrent",
+    "Update": "2024-03-24 14:29:21",
+    "Version": "7.4.176-1+uos",
+    "Website": "https://www.pantum.cn/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.pantum.pantum/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.pantum.pantum/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.pantum.pantum/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.pantum.pantum/screen_3.png\"]"
+}
+
+,
+{
+    "Name": "pacapt--Arch用户的福音",
+    "Version": "3.0.7.2",
+    "Filename": "pacapt_3.0.7.2_all.deb",
+    "Torrent_address": "pacapt_3.0.7.2_all.deb.torrent",
+    "Pkgname": "pacapt",
+    "Author": "shy <1658347525@qq.com>",
+    "Contributor": "shy <1658347525@qq.com>",
+    "Website": "https://github.com/icy/pacapt",
+    "Update": "2023-01-01 13:16:19",
+    "Size": "13.67 KB",
+    "More": "pacapt是对apt等非pacman包管理器的简单封装\n安装了pacapt后，你就可以快乐地在非Arch系Linux上sudo pacman -Syu啦！\n\nto星火商店运营：上一版打包套娃了。。",
+    "Tags": "community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/2e68be4f2a884cfa8c653429dc4e7c64.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/a3346935dd1c47a28003f06cc28089f3.png"
+}
+,
+{
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd-xi <3025613752@qq.com>",
+    "Filename": "spark-ultraliso_9.7.6.3860spark0_all.deb",
+    "More": "一个 ISO 镜像工具（deepin-wine6）——ultraiso",
+    "Name": "UltraISO",
+    "Pkgname": "spark-ultraliso",
+    "Size": "23 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "spark-ultraliso_9.7.6.3860spark0_all.deb.torrent",
+    "Update": "2024-05-02 07:42:51",
+    "Version": "9.7.6.3860spark0",
+    "Website": "https://cn.ultraiso.net/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-ultraliso/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-ultraliso/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-ultraliso/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-ultraliso/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-ultraliso/screen_4.png\"]"
+}
+
+,
+{
+    "Name": "ResourceHacker (Wine)",
+    "Version": "5.1.8",
+    "Filename": "spark-resourcehacker_5.1.8_all.deb",
+    "Torrent_address": "spark-resourcehacker_5.1.8_all.deb.torrent",
+    "Pkgname": "spark-resourcehacker",
+    "Author": "winepacker",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.52pojie.cn/thread-1305537-1-1.html http://angusj.com/resourcehacker/",
+    "Update": "2023-10-01 12:06:52",
+    "Size": "6.54 MB",
+    "More": "Resource Hacker，资源查看器，反编译和重编译器，免费小巧，资源编辑工具和反编译器、可执行程序资源替换修改工具。Resource Hacker(TM) 是一款资源编辑器，它既是资源编译器 (对于 *.rc 文件), 又是反编译器 – 可用于查看和编辑可执行文件(*.exe; *.dll; *.scr; )等文件类型的资源文件，以及编译资源库 (*.res, *.mui)，创建和编译资源脚本文件 (*.rc)，支持命令行编译和反编译资源的选项。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/ec092e53e2714bf7829a54ff12f84ff9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/28da0c0ac94844e89110f1554818aa1c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/01/22cc435ca2c3450eaa8da3aca7d861fe.png"
+}
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-dwine-helper_5.6.4.1-5.3.14_all.deb",
+    "More": "添加：应用启动提示",
+    "Name": "星火Wine应用启动器",
+    "Pkgname": "spark-dwine-helper",
+    "Size": "277 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "spark-dwine-helper_5.6.4.1-5.3.14_all.deb.torrent",
+    "Update": "2024-05-28 22:00:24",
+    "Version": "5.6.4.1-5.3.14",
+    "Website": "https://gitee.com/deepin-community-store/spark-wine",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "htyfloatball_1.0.1_loong64.deb",
+    "More": "一个通过桌面浮球、托盘图标显示网速、内存使用情况的小工具\n\n通过xwayland支持了wayland",
+    "Name": "海天鹰浮球",
+    "Pkgname": "htyfloatball",
+    "Size": "33 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "htyfloatball_1.0.1_loong64.deb.torrent",
+    "Update": "2024-03-21 23:47:05",
+    "Version": "1.0.1",
+    "Website": "https://github.com/sonichy/HTYFloatBall",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/htyfloatball/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/htyfloatball/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/htyfloatball/screen_2.png\"]"
+}
+
+,
+{
+    "Name": "设备网络搜索（密码重置）",
+    "Version": "1.0",
+    "Filename": "com.sadptool.spark_1.0_all.deb",
+    "Torrent_address": "com.sadptool.spark_1.0_all.deb.torrent",
+    "Pkgname": "com.sadptool.spark",
+    "Author": "zs8855858",
+    "Contributor": "zs8855858",
+    "Website": "https://www.hikvision.com/cn/support/tools/hitools/?type=ID",
+    "Update": "2023-08-08 10:12:31",
+    "Size": "893.16 MB",
+    "More": "通过SADP软件搜索局域网内所在网段的在线设备。同时支持查看设备信息、激活设备、修改设备的网络参数、重置设备密码等功能",
+    "Tags": "uos;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/bd89b5baf28046beb88b69b9c594cf89.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/19fc190679384ca384141096be86513e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/3fa525465aab482aa74a96e651016077.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/08/0aa48cdde37746a38b1f179502d8891b.png"
+}
+,
+{
+    "Author": "qihoo360 company <support@360.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.qihoo.360safe_10.0.0.7536_loong64.deb",
+    "More": "360 安全卫士 For Linux\n\n修23无法启动",
+    "Name": "360 安全卫士（Linux）",
+    "Pkgname": "com.qihoo.360safe",
+    "Size": "154 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.qihoo.360safe_10.0.0.7536_loong64.deb.torrent",
+    "Update": "2024-03-24 14:23:36",
+    "Version": "10.0.0.7536",
+    "Website": "http://www.360.cn/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.qihoo.360safe/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.qihoo.360safe/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "Dylan Aïssi <daissi@debian.org>",
+    "Contributor": "Dylan Aïssi <daissi@debian.org>",
+    "Filename": "com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus_1_all.deb",
+    "More": "Resource monitor是一个显示处理器、内存、磁盘、网络和进程使用情况和统计信息的工具。\n\n它易于使用，采用游戏启发式的菜单系统。\n具有快速且“大部分时候”响应灵敏的用户界面，可使用上下箭头键选择进程。\n提供显示选定进程详细统计信息的功能。\n能够对进程进行筛选。\n轻松切换排序选项。\n发送SIGTERM、SIGKILL、SIGINT到选定的进程。\n提供UI菜单以更改所有配置文件选项。\n具有自动缩放的网络使用图表。\n如果有新版本可用，菜单中显示消息。\n显示磁盘的当前读取和写入速度。\n支持多种数据收集方法，在Linux上可以进行切换。",
+    "Name": "Bashtop",
+    "Pkgname": "com.github.aristocratos.bashtop",
+    "Size": "64 Kb",
+    "Tags": "community;deepin;ubuntu",
+    "Torrent_address": "com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus_1_all.deb.torrent",
+    "Update": "2024-04-03 02:08:43",
+    "Version": "0.9.25-1~bpo10+1",
+    "Website": "https://github.com/aristocratos/bashtop",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.github.aristocratos.bashtop/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.aristocratos.bashtop/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.aristocratos.bashtop/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.aristocratos.bashtop/screen_3.png\"]"
+}
+
+,
+{
+    "Name": "WPS Office 版本信息及字体检测小工具",
+    "Version": "0.3-1",
+    "Filename": "wps-check_0.3-1_all.deb",
+    "Torrent_address": "wps-check_0.3-1_all.deb.torrent",
+    "Pkgname": "wps-check",
+    "Author": "Careone <emacslocale@126.com>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://bbs.deepin.org/post/248386",
+    "Update": "2023-02-10 21:32:42",
+    "Size": "123.8 KB",
+    "More": "License: MulanPSL2 (Mulan Permissive Software License，Version 2)\n .\n 许可证：MulanPSL2 (木兰宽松许可证, 第2版)\n .\n WPS Office 版本信息检测报告工具。可以自动自动填写当前Linux系统版本号、\n 硬件平台；内核版本；WPS Office 版本号；以及其它相关信息。\n .\n 主要用途：方便用户反馈和上报 WPS Office 异常、缺陷; 缺失的常用中文/英文\n /符号字体，以及其它建议。\n .\n 测试环境:\n  * WPS Office 11.1.0.11664 (2022-6-08 发布)\n  * Debian 11.6 amd64\n .\n SourceForge: https://sourceforge.net/projects/emacslocale/files/wps-check/\n\n用法：\n以普通用户运行命令\nwps-check\n或者 带 -a 参数（可检测并记录 Windows 相关字体信息）\nwps-check -a",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/c9d64dc5317e415dbf51e0d935bd79ca.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/10/a77559bee8c94d93ac29d8e226971db7.png"
+}
+,
+{
+    "Author": "”yzzi” <”admin@yzzi.icu”>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "top.yzzi.youjian_1.0.3_loong64.deb",
+    "More": "一键优化深度桌面环境;\n更新：此版可在uos家庭版上运行",
+    "Name": "DDE配置助手(oh my dde)",
+    "Pkgname": "top.yzzi.youjian",
+    "Size": "72 Kb",
+    "Tags": "community;deepin;uos;dtk5",
+    "Torrent_address": "top.yzzi.youjian_1.0.3_loong64.deb.torrent",
+    "Update": "2024-03-24 22:13:26",
+    "Version": "1.0.3",
+    "Website": "https://www.yzzi.icu",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/top.yzzi.youjian/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/top.yzzi.youjian/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/top.yzzi.youjian/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/top.yzzi.youjian/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/top.yzzi.youjian/screen_4.png\"]"
+}
+
+,
+{
+    "Name": "星火构建服务 SBS",
+    "Version": "0.3",
+    "Filename": "spark-building-service_0.3_all.deb",
+    "Torrent_address": "spark-building-service_0.3_all.deb.torrent",
+    "Pkgname": "spark-building-service",
+    "Author": "shenmo@spark-app.store",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://gitee.com/spark-building-service/spark-buiding-service",
+    "Update": "2023-11-25 10:09:35",
+    "Size": "3.42 KB",
+    "More": "星火构建服务 SBS\n前往官网查看",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/25/e8944bcd32c34be38143578061db1692.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/25/500795ae88e04dcf8e771c43e08642ba.png"
+}
+,
+{
+    "Author": "udom<uostools.com>",
+    "Contributor": "udom<uostools.com>",
+    "Filename": "com.uostools.udom_1.2.9_all.deb",
+    "More": "udom工具箱提供一系列灵活可配置的小程序，用于解决系统中的常见问题，运维人员能在后台自定义小程序供客户使用，可大幅提升常见问题的处理效率，减轻日常运维的负担。",
+    "Name": "udom 工具箱",
+    "Pkgname": "com.uostools.udom",
+    "Size": "21 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "com.uostools.udom_1.2.9_all.deb.torrent",
+    "Update": "2024-05-17 17:33:12",
+    "Version": "1.2.9",
+    "Website": "www.uostools.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/com.uostools.udom/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/com.uostools.udom/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/com.uostools.udom/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/com.uostools.udom/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.filegee.spark_11.7.4spark1_all.deb",
+    "More": "FileGee文件同步备份系统，强大高效的文件备份与文件同步解决方案，它在功能、效率、容错、稳定等方面具有非常优异的表现",
+    "Name": "FileGee",
+    "Pkgname": "com.filegee.spark",
+    "Size": "24 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.filegee.spark_11.7.4spark1_all.deb.torrent",
+    "Update": "2024-03-24 22:28:31",
+    "Version": "11.7.4spark1",
+    "Website": "https://cn.filegee.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.filegee.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.filegee.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.filegee.spark/screen_2.png\"]"
+}
+
+,
+{
+    "Name": "Bandizip",
+    "Version": "7.32spark0",
+    "Filename": "com.bandisoft.bandizip.spark_7.32spark0_all.deb",
+    "Torrent_address": "com.bandisoft.bandizip.spark_7.32spark0_all.deb.torrent",
+    "Pkgname": "com.bandisoft.bandizip.spark",
+    "Author": "Bandisoft International Inc.",
+    "Contributor": "sgb76",
+    "Website": "http://www.bandisoft.com/bandizip/",
+    "Update": "2023-12-02 19:34:55",
+    "Size": "24.01 MB",
+    "More": "一个强大的多功能压缩文件管理工具，可提供很快的解压缩速度和其他各种实用功能。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/9dff3e503b3a44a0bb9ec82c4e4d7584.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/6a857f372489469fbc32403a8a1eab3a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/8ff96b2f8ee0411ea7b5adec5ef06024.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/02/f232b3707a404dfeb7bd03ade2834732.png"
+}
+,
+{
+    "Author": "antutu <support@antutu.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.antutu.benchmark_1.0.0.610_loong64.deb",
+    "More": "安兔兔评测 For Linux",
+    "Name": "安兔兔评测",
+    "Pkgname": "com.antutu.benchmark",
+    "Size": "158 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.antutu.benchmark_1.0.0.610_loong64.deb.torrent",
+    "Update": "2024-05-18 21:52:48",
+    "Version": "1.0.0.610",
+    "Website": "https://www.antutu.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.antutu.benchmark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.antutu.benchmark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.antutu.benchmark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.antutu.benchmark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.antutu.benchmark/screen_4.png\"]"
+}
+
+,
+{
+    "Name": "2345好压（Wine）",
+    "Version": "6.4spark0",
+    "Filename": "com.2345haoya.spark_6.4spark0_all.deb",
+    "Torrent_address": "com.2345haoya.spark_6.4spark0_all.deb.torrent",
+    "Pkgname": "com.2345haoya.spark",
+    "Author": "gfdgd xi<3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://haozip.2345.cc/",
+    "Update": "2023-05-21 11:15:21",
+    "Size": "222.64 MB",
+    "More": "2345好压是国内自主研发的免费压缩软件，拥有3.5亿用户，运用了多线程技术，压缩率比同类软件高出10%~30%。完美兼容包括Win8在内的所有WINDOWS系统，完美支持RAR5、ZIPX、ALZ格式解压，支持格式多达51种的新一代压缩软件。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/52c122215788412db4e7d19c7f968024.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/9b10f4a025d0416696859e7bcfe4ef17.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/59a26424738949ad952bfe289cd310c5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/3e312b1340b640e886d0de21ae3776d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/929c40b764a34ce9b8caa3be6d84d7c1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/21/6676aad26f7549f68007e1a069650b9a.png"
+}
+,
+{
+    "Name": "xonsh --在终端里运行python命令",
+    "Version": "0.14.0+dfsg-1",
+    "Filename": "xonsh_0.14.0_plusdfsg-1_all.deb",
+    "Torrent_address": "xonsh_0.14.0_plusdfsg-1_all.deb.torrent",
+    "Pkgname": "xonsh",
+    "Author": "shyawa",
+    "Contributor": "shyawa",
+    "Website": "https://xon.sh/",
+    "Update": "2023-08-02 19:56:57",
+    "Size": "433.74 KB",
+    "More": "一言以蔽之，你可以在这个shell运行python语句和bash语句，当然两者结合也是一种好主意\n你可以终端输入xonsh运行，也可以到终端设置为默认shell\n \nXonsh is a Python-ish shell language and command prompt. Unlike other shells,\n xonsh is based on Python, with additional syntax added that makes calling\n subprocess commands, manipulating the environment, and dealing with the file\n system easy. Xonsh supports all normal Python constructs and a subset of\n those available in bash.",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/5d25264480384fceb442069978790c4d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/177cd1984cf447dc8c2e024af4fc56a8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/49c26b0265914737806403d66a2651de.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/02/824b9570e7ae49b295f42507945b51cf.png"
+}
+,
+{
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "xcursor-viewer_1.1.1-20240324_loong64.deb",
+    "More": "XCursor Viewer(光标查看器)\n1. 提供查看 MimeType 为 image/x-xcursor 文件类型的工具\n2. 常规光标目录 /usr/share/icons/oreo_teal_cursors/cursors \n3. 可查看自己制作的光标\n\n v1.1: \n1. 增加窗口内鼠标指针预览\n2. 增加光标动画预览功能",
+    "Name": "XCursor Viewer(光标查看器)",
+    "Pkgname": "xcursor-viewer",
+    "Size": "65 Kb",
+    "Tags": "deepin;ubuntu",
+    "Torrent_address": "xcursor-viewer_1.1.1-20240324_loong64.deb.torrent",
+    "Update": "2024-03-24 22:24:20",
+    "Version": "1.1.1-20240324",
+    "Website": "https://www.gitlink.org.cn/zinface/xcursor-viewer",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/xcursor-viewer/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/xcursor-viewer/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/xcursor-viewer/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/xcursor-viewer/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/xcursor-viewer/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "”daya” <”admin@yzzi.top”>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "top.yzzi.supertabbar_0.1.0_loong64.deb",
+    "More": "可以把任意多个窗口整合到一个窗口，通过标签页切换！！！\n视频介绍：\nhttps://streamja.com/akb9W",
+    "Name": "超级标签栏",
+    "Pkgname": "top.yzzi.supertabbar",
+    "Size": "17 Kb",
+    "Tags": "community;deepin;uos",
+    "Torrent_address": "top.yzzi.supertabbar_0.1.0_loong64.deb.torrent",
+    "Update": "2024-03-24 22:12:52",
+    "Version": "0.1.0",
+    "Website": "https://www.yuque.com/mvip9k",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/top.yzzi.supertabbar/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/top.yzzi.supertabbar/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/top.yzzi.supertabbar/screen_2.png\"]"
+}
+
+,
+{
+    "Name": "朗读女 (Wine)",
+    "Version": "9.22",
+    "Filename": "spark-wine-lln_9.22_all.deb",
+    "Torrent_address": "spark-wine-lln_9.22_all.deb.torrent",
+    "Pkgname": "spark-wine-lln",
+    "Author": "www.443w.com/tts/",
+    "Contributor": "1074536311",
+    "Website": "http://www.443w.com/tts/",
+    "Update": "2023-10-29 12:53:10",
+    "Size": "97.11 MB",
+    "More": "朗读女",
+    "Tags": "deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/29/0ba80470-7617-11ee-b02a-ffa67c89e541.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/29/e0070aa0-7616-11ee-b02a-ffa67c89e541.png"
+}
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-web-packer_0.1.3_all.deb",
+    "More": "0.1-可以快速创建web app咯！\n",
+    "Name": "星火网页打包工具",
+    "Pkgname": "spark-web-packer",
+    "Size": "6 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "spark-web-packer_0.1.3_all.deb.torrent",
+    "Update": "2023-12-09 16:08:13",
+    "Version": "0.1.3",
+    "Website": "ttps://gitee.com/deepin-community-store/web-packer",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-web-packer/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-web-packer/screen_1.png\"]"
+}
+
+,
+{
+    "Name": "spark-webapp-runtime 运行器",
+    "Version": "1.1.0",
+    "Filename": "spark-webapp-runtime-runner_1.1.0_all.deb",
+    "Torrent_address": "spark-webapp-runtime-runner_1.1.0_all.deb.torrent",
+    "Pkgname": "spark-webapp-runtime-runner",
+    "Author": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Contributor": "gfdgd xi",
+    "Website": "https://gitee.com/gfdgd-xi/spark-webapp-runtime-runner",
+    "Update": "2022-08-09 09:38:08",
+    "Size": "41.07 KB",
+    "More": "一个 spark-webapp-runtime（星火网页应用运行环境）图形化运行器，可以让你更加方便的使用星火网页应用运行环境\n\n更新内容：\n※1、程序全部重构，语言从 Python 转 C++、GUI 从 Tkinter 转 DTK、布局大改，参考了 sgb76 大佬的 Wine 运行器设计图、zty79的桌面快捷方式编辑器的参考布局\n※2、程序新增打包功能",
+    "Tags": "community;deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/09/e44eaf70-1783-11ed-b704-136e1b5b46da.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/09/dfa2daa0-1783-11ed-b704-136e1b5b46da.png"
+}
+,
+{
+    "Name": "光驱托盘控制",
+    "Version": "1.0.2",
+    "Filename": "spark-optical-drive-tray-control_1.0.2_all.deb",
+    "Pkgname": "spark-optical-drive-tray-control",
+    "Author": "gfdgd xi",
+    "Contributor": "gfdgd xi",
+    "Website": "https://gitee.com/gfdgd-xi/optical-drive-tray-control",
+    "Update": "2021-08-07 12:24:34",
+    "Size": "62.31 MB",
+    "More": "一款基于 Python3 的 PyQt 制作成的光驱托盘控制软件。 如果出现类似 \nqt.qpa.plugin: Could not load the Qt platform plugin \"xcb\" in \"\" even though it was found. \n的错误，可以输入 sudo apt install -qq libglu1-mesa-dev libx11-xcb-dev '^libxcb*'",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/07/5c9961f0-f737-11eb-8738-31b965866860.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/07/5c9e1ce0-f737-11eb-8738-31b965866860.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/07/4c475fa0-f737-11eb-8738-31b965866860.png"
+}
+,
+{
+    "Name": "Slimbook Battery",
+    "Version": "3.97beta",
+    "Filename": "slimbookbattery_3.97beta_all.deb",
+    "Pkgname": "slimbookbattery",
+    "Author": "Slimbook team",
+    "Contributor": "FunnyAWM",
+    "Website": "http://slimbook.es",
+    "Update": "2021-02-24 22:19:22",
+    "Size": "357.84 KB",
+    "More": "Slimbook Battery是一个电源管理工具，带有三个预设，支持自行调整设置。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/24/3aa74ce0-76ab-11eb-b043-1321b17d460b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/24/4482f390-76ab-11eb-b043-1321b17d460b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/24/fe6f5880-76aa-11eb-b043-1321b17d460b.png"
+}
+,
+{
+    "Name": "quicktile",
+    "Version": "0.4.1-3lon",
+    "Filename": "quicktile_0.4.1-3lon_all.deb",
+    "Torrent_address": "quicktile_0.4.1-3lon_all.deb.torrent",
+    "Pkgname": "quicktile",
+    "Author": "Stephan Sokolow",
+    "Contributor": "lon",
+    "Website": "https://ssokolow.com/quicktile/",
+    "Update": "2023-12-19 05:23:03",
+    "Size": "41.62 KB",
+    "More": "Keyboard-driven Window Tiling for your existing X11 window manager\n QuickTile is a simple utility, inspired by WinSplit Revolution for\n Windows, which adds window-tiling keybindings to your existing X11\n window manager.\n .\n You can also think of it as a standalone alternative to the keyboard-\n related features of the Compiz Grid plugin.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/19/4ac1f35d8476465ab261b1ae074a7e01.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/19/9f863f2a73d94f5b8366e54f3012db46.png"
+}
+,
+{
+    "Name": "TLP 设置",
+    "Version": "1.3.1-1",
+    "Filename": "python3-tlpui_1.3.1-1_all.deb",
+    "Pkgname": "python3-tlpui",
+    "Author": "Daniel Christophis",
+    "Contributor": "lidanger",
+    "Website": "https://github.com/d4nj1/TLPUI",
+    "Update": "2020-10-24 01:58:02",
+    "Size": "56.46 KB",
+    "More": "GTK UI for tlp (Python 3)",
+    "Tags": "deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a94af90-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a996a80-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a9f0fd0-159c-11eb-b57a-2596064cdd9a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/24/06e192a0-159c-11eb-b57a-2596064cdd9a.png"
+}
+,
+{
+    "Author": "SeptemberHX",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "mpaste_0.2.0_loong64.deb",
+    "More": "该应用为对 Paste，mac上的剪贴板工具 的复刻。原工具只支持 mac，现用 Qt 实现支持 Linux。\n \n不要用本工具存储重要内容！导致的信息丢失概不负责\n \n-----------------2021-08-03   v0.2.0----------------\n1. 托盘支持\n2. deb 包支持，安装后启动器可见及设置自启动\n3. 支持选中历史剪贴板数据后，自动粘贴到当前窗口\n4.增加配置文件，允许修改 最大历史数量（数据文件夹修改目前不可用）\n---------------------------------\n\n使用方法：\n1. 下载 deb 安装包，安装。\n3. 系统设置 -> 快捷键设置 -> 添加新快捷键，命令填写 /usr/bin/MPaste，快捷键自定义即可\n \n之后使用快捷键即可唤出。\n* 唤出后，任意字符键进行搜索\n* 按下 Alt 键不放，显示快捷键提示，Alt + 数字键快速选择\n \n默认设置：\n1. 数据存储文件夹：~/.MPaste/Clipboard\n2. 最大历史记录数量：500\n \n------\n \n特点：\n1. 剪贴板记录，支持对 图片、图片文件、链接、文本、颜色 的预览（见下图）\n2. 搜索功能",
+    "Name": "MPaste：剪贴板管理工具",
+    "Pkgname": "mpaste",
+    "Size": "3063 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "mpaste_0.2.0_loong64.deb.torrent",
+    "Update": "2024-03-24 22:11:08",
+    "Version": "0.2.0",
+    "Website": "https://github.com/SeptemberHX/MPaste/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/mpaste/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/mpaste/screen_1.png\"]"
+}
+
+,
+{
+   "Name":"Moo工具集",
+   "Version":"1.3.0",
+   "Filename":"mootool_1.3.0_all.deb",
+   "Pkgname":"mootool",
+   "Author":" ",
+   "Contributor":"jalawov",
+   "Website":"https://gitee.com/zhoubochina/MooTool",
+   "Update":"2020-07-07 23:08",
+   "Size":"18.59MB",
+   "More":"支持的功能Host切换（支持系统托盘快速切换）时间转换（时间戳和高可读性本地时间的相互转换，对网上常见的转换页重新设计，支持快速复制，简单高效）Json格式化发送HTTP请求（支持GET、POST、PUT、DELETE等常用请求方式，支持参数、header、cookie、body等）编码转换二维码生成/二维码识别（支持自定义尺寸、纠错级别、logo图片）加解密/随机随手记（可以用来快速记录一些：代码片段、常用的SQL、常用的接口、常用的数据、暂存一些临时log等）计算（四则运算/进制转换/最大公约数/最小公倍数/排列组合数）网络/IP（ip地址转换/本机ip信息/根据域名获取ip）调色板（取色器/颜色管理）"
+}
+
+,
+{
+    "Name": "magnetw",
+    "Version": "3.1.1-linux",
+    "Filename": "magnetw-3.1.1-linux_3.1.1-linux_all.deb",
+    "Torrent_address": "magnetw-3.1.1-linux_3.1.1-linux_all.deb.torrent",
+    "Pkgname": "magnetw-3.1.1-linux",
+    "Author": "youusername",
+    "Contributor": "youusername",
+    "Website": "https://github.com/youusername/magnetX",
+    "Update": "2022-11-04 16:24:01",
+    "Size": "73.4 MB",
+    "More": "资源搜索型软件",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png"
+}
+,
+{
+    "Name": "Mac Superdrive 规则",
+    "Version": "20220407~spark1",
+    "Filename": "mac-superdrive_20220407~spark1_all.deb",
+    "Torrent_address": "mac-superdrive_20220407~spark1_all.deb.torrent",
+    "Pkgname": "mac-superdrive",
+    "Author": "Koala Yeung",
+    "Contributor": "Donald Sebastian Leung",
+    "Website": "https://gist.github.com/yookoala/818c1ff057e3d965980b7fd3bf8f77a6",
+    "Update": "2022-12-30 22:00:10",
+    "Size": "2.28 KB",
+    "More": "此软件包解决了苹果 Superdrive 超级光盘机在 Linux 下不可用的问题。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/40d34b20-884a-11ed-96cb-3d8750470e30.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/30/3eff9c90-884a-11ed-96cb-3d8750470e30.png"
+}
+,
+{
+    "Name": "QQ 用户服务",
+    "Version": "0.0.1",
+    "Filename": "linuxqq-autoservice_0.0.1_all.deb",
+    "Torrent_address": "linuxqq-autoservice_0.0.1_all.deb.torrent",
+    "Pkgname": "linuxqq-autoservice",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/linuxqq-autoservice",
+    "Update": "2023-03-02 18:51:46",
+    "Size": "1.24 KB",
+    "More": "linuxqq 的用户服务，在 linuxqq 崩溃时会自动重启 linuxqq",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/02/659595329e7542c0bca551a3f5c9815f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/02/7083578985b94a4d87afef6eb5f38837.png"
+}
+,
+{
+    "Name": "icalingua++ 用户服务",
+    "Version": "0.0.1",
+    "Filename": "icalingua-autoservice_0.0.1_all.deb",
+    "Torrent_address": "icalingua-autoservice_0.0.1_all.deb.torrent",
+    "Pkgname": "icalingua-autoservice",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/icalingua-autoservice",
+    "Update": "2022-10-03 11:31:14",
+    "Size": "1.21 KB",
+    "More": "icalingua++ 的用户服务，在 icalingua++ 崩溃时会自动重启 icalingua++",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/03/9ad86483-b606-4fe6-a0b2-943f139f9323.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/03/e6c02952-90ab-4eb5-8f50-8c530a0483bc.png"
+}
+,
+{
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd-xi <3025613752@qq.com>",
+    "Filename": "gxde-time-screensaver_1.1.0_loong64.deb",
+    "More": "GXDE 一言屏保，可以显示时间和句子（句子来自一言）\n支持 GXDE（推荐）、deepin、UOS",
+    "Name": "GXDE 一言屏保",
+    "Pkgname": "gxde-time-screensaver",
+    "Size": "233 Kb",
+    "Tags": "community;deepin;uos",
+    "Torrent_address": "gxde-time-screensaver_1.1.0_loong64.deb.torrent",
+    "Update": "2024-05-02 07:48:50",
+    "Version": "1.1.0",
+    "Website": "https://gitee.com/GXDE-OS/gxde-time-screensaver",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-time-screensaver/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-time-screensaver/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-time-screensaver/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "gxde-kernel-manager_1.1.0_loong64.deb",
+    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \n\nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！\n\n",
+    "Name": "GXDE 内核管理器 1.1.0",
+    "Pkgname": "gxde-kernel-manager",
+    "Size": "850 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "gxde-kernel-manager_1.1.0_loong64.deb.torrent",
+    "Update": "2024-05-12 17:24:48",
+    "Version": "1.1.0",
+    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-kernel-manager/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-kernel-manager/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-kernel-manager/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-kernel-manager/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-kernel-manager/screen_4.png\"]"
+}
+
+,
+{
+    "Name": "钉钉视频会议日志清理",
+    "Version": "1.2.3-0.1",
+    "Filename": "dinglivelogclean_1.2.3-0.1_all.deb",
+    "Torrent_address": "dinglivelogclean_1.2.3-0.1_all.deb.torrent",
+    "Pkgname": "dinglivelogclean",
+    "Author": "NurIwL<way610@126.com>",
+    "Contributor": "WAYYYAW <way610@126.com>",
+    "Website": "...",
+    "Update": "2022-12-27 12:09:47",
+    "Size": "24.88 KB",
+    "More": "钉钉linux视频会议产生超大日志文件，还不能直接rm。写了个一键清理工具。可以在会议进行的情况下清理日志。\n-可以选择清理今天的日志\n-也可以清理以前的日志\n-想要定期执行可以写入crontab\n-安装后会生成两个图标，自行选择",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/b8d5e5277edb4ad4ac489574b29fc6e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/3c4331cfedb14772a13effb96493c749.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/27/6e7950ee141c41c3a8a32f9ed6dc3a30.png"
+}
+,
+{
+    "Name": "Debreate",
+    "Version": "0.7.13",
+    "Filename": "debreate_0.7.13_all.deb",
+    "Pkgname": "debreate",
+    "Author": "AntumDeluge ",
+    "Contributor": "chaodn",
+    "Website": "https://github.com/AntumDeluge/debreate",
+    "Update": "2021-07-09 11:25:42",
+    "Size": "588.49 KB",
+    "More": "Debreate是一种帮助创建可安装Debian软件包的实用工具。目前，它只支持“二进制”打包，允许打包任何不需要从源代码编译的东西，例如脚本化应用程序或介质。这些包可以用于个人分发。\n此包依赖问题可用gdebi安装器解决。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/459678a0-e065-11eb-bbf1-5d8a70981e77.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/09/20c40c90-e065-11eb-bbf1-5d8a70981e77.png"
+}
+,
+{
+    "Author": "Qi An Xin Technology Group Inc.",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.qianxin.qaxsafe_8.0.5-5340_loong64.deb",
+    "More": "奇安信网神终端安全管理系统是一款专业的国产系统主机安全防护产品，为解决国产系统终端安全防护难题推出了终端一体化安全解决方案。产品运用本地多引擎查杀结合云查鉴定技术，提供病毒防护、主机审计、合规准入、安全登录、桌面管控、多网切换等功能，有效遏制内外部威胁的传播与扩散途径，全方位提升国产系统自身安全特性，确保终端主机的安全。",
+    "Name": "奇安信网神终端安全管理系统",
+    "Pkgname": "com.qianxin.qaxsafe",
+    "Size": "130 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "com.qianxin.qaxsafe_8.0.5-5340_loong64.deb.torrent",
+    "Update": "2024-03-24 14:30:57",
+    "Version": "8.0.5-5340",
+    "Website": "https://www.qianxin.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.qianxin.qaxsafe/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.qianxin.qaxsafe/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.qianxin.qaxsafe/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.qianxin.qaxsafe/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.qianxin.qaxsafe/screen_4.png\"]"
+}
+
+,
+{
+    "Name": "经传多赢股票",
+    "Version": "8.0.4",
+    "Filename": "com.jzdy.deepin_8.0.4_all.deb",
+    "Torrent_address": "com.jzdy.deepin_8.0.4_all.deb.torrent",
+    "Pkgname": "com.jzdy.deepin",
+    "Author": "Guangzhou JingZhuanDuoYing Investment Consulting . Ltd.",
+    "Contributor": "Guangzhou JingZhuanDuoYing Investment Consulting . Ltd.",
+    "Website": "https://www.jingzhuan.cn/",
+    "Update": "2024-01-16 10:45:41",
+    "Size": "165.38 MB",
+    "More": "[现在下载经传多赢股票，体验新人炒股权益，领取价值千元大礼！] [经传多赢股票] 提供沪深Level-1行情、Level-2行情、股市热点资讯等。20年深耕证券信息领域，沉淀100+盈利模型，股票投资，就选经传多赢股票！ [三板斧战法+出击信号] 结合三大自研指标，个股出击信号实时推送！系统性衍生战法实战运用，把握趋势机会，锁住波段收益！ [经选内参] 投研团队倾力制作，爆品策略解读文+行业热门专题剖析，紧紧抓住股市大小机遇！",
+    "Tags": "uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/2fad901da12b4d8a9a9e90793129db27.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/1fad636144ba4f5595bcf5dfb41ec014.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/ed1de7c620274c4d977526cbecec49a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/3065f6cd0e064662adfb497dc54649be.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/adfa3e43626d46a185f0766d446e8b7c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/16/2d549608e3814883815a54522f000dbc.png"
+}
+,
+{
+    "Author": "qihoo360 company <support@360.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.360.epp_10.0.0.6278_loong64.deb",
+    "More": "360终端安全防护系统是在360安全大脑极智赋能下，面向政府、公检法、电信、能源、金融等各行业企事业单位推出的以安全防御为核心、以安全策略管控为重点、以自动化运维管理为支撑的专业化国产主机防护产品。",
+    "Name": "360终端安全防护系统",
+    "Pkgname": "com.360.epp",
+    "Size": "104 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.360.epp_10.0.0.6278_loong64.deb.torrent",
+    "Update": "2024-03-24 14:20:11",
+    "Version": "10.0.0.6278",
+    "Website": "http://www.360.cn/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "Huorong Unix Team <unix-dev@huorong.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "cn.huorong.esm_2.0.7.4_loong64.deb",
+    "More": "涵盖桌面版与服务器版两大版本，均搭载火绒自主研发的反病毒引擎，不仅支持主要Linux系统发行版，且深度兼容主流国产操作系统和CPU。核心功能包含病毒查杀、风险隔离、添加信任、日志记录等。通过连接「火绒终端安全管理系统」的控制中心，满足企业级用户对终端的检测、查杀、管控等需求，如资产登记、多级管理、下发定制策略等。",
+    "Name": "火绒安全",
+    "Pkgname": "cn.huorong.esm",
+    "Size": "29 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "cn.huorong.esm_2.0.7.4_loong64.deb.torrent",
+    "Update": "2024-05-01 08:37:43",
+    "Version": "2.0.7.4",
+    "Website": "https://huorong.cn",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/screen_3.png\"]"
+}
+
+,
+{
+    "Name": "引导修复 Boot-Repair",
+    "Version": "4ppa203",
+    "Filename": "boot-repair_4ppa203_all.deb",
+    "Torrent_address": "boot-repair_4ppa203_all.deb.torrent",
+    "Pkgname": "boot-repair",
+    "Author": "Yann Mrn <yannubuntu@protonmail.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://launchpad.net/boot-repair",
+    "Update": "2023-03-03 23:16:33",
+    "Size": "15.31 KB",
+    "More": "In some situation, you might loose access to one or several of\n your operating systems, because of a buggy update, a bootloader\n problem, or after installing a new OS (e.g. installing\n Windows breaks Linux bootloader).\n .\n Boot-Repair is a graphical tool that will repair these problems,\n generally by reinstalling GRUB, which then restores access to the\n operating systems you had installed before the issue.\n .\n Boot-Repair also has advanced options to reinstall GRUB, add\n kernel options, or restore a generic MBR.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/f8c5955496724364892c9aeb48814314.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/0bc66a7cfc8c49f2aad86b41f840a1c9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/03/9a360c13ca32441489dc8344e7bb6799.png"
+}
+,
+{
+    "Name": "Bleachbit",
+    "Version": "4.4.2-0",
+    "Filename": "bleachbit_4.4.2-0_all.deb",
+    "Torrent_address": "bleachbit_4.4.2-0_all.deb.torrent",
+    "Pkgname": "bleachbit",
+    "Author": "Andrew Ziem",
+    "Contributor": "sgb76",
+    "Website": "https://www.bleachbit.org/",
+    "Update": "2022-04-20 00:03:55",
+    "Size": "436.99 KB",
+    "More": "BleachBit是一款开源的系统清理工具，它可以释放磁盘空间，保护您的隐私，清除缓存，删除cookies、internet历史、临时文件、日志和丢弃的垃圾文件等，支持清除应用的残留数据，切碎文件防止恢复、隐藏被删除文件的痕迹等功能。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/20/325ede10-bffa-11ec-a680-878a6ae343fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/20/359047e0-bffa-11ec-a680-878a6ae343fa.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/20/2d051600-bffa-11ec-a680-878a6ae343fa.png"
+}
+,
+{
+   "Name":"必应好壁纸",
+   "Version":"5.0-1",
+   "Filename":"bingnicewallpapers_5.0-1_all.deb",
+   "Pkgname":"bingnicewallpapers",
+   "Author":"iMath",
+   "Contributor":"lenke",
+   "Website":"https://www.cnblogs.com/iMath/p/BingNiceWallpapers.html",
+   "Update":"2020-07-19 18:05",
+   "Size":"1.94MB",
+   "More":"将为你的桌面注入新的活力，它每天都会为你更新来自微软必应搜索的高品质壁纸！"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.stpre>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "autotrash-bash_1.1.1_all.deb",
+    "More": "一个脚本，可以删除在回收站中长期滞留的文件，实现自动清理回收站",
+    "Name": "autotrash(自动删除回收站文件)",
+    "Pkgname": "autotrash-bash",
+    "Size": "2 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "autotrash-bash_1.1.1_all.deb.torrent",
+    "Update": "2023-07-05 11:41:48",
+    "Version": "1.1.1",
+    "Website": "https://gitee.com/spark-community-works-collections/transhell",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/autotrash-bash/icon.png",
+    "img_urls": "[]"
+}
+
+]

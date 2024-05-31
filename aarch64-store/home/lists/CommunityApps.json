@@ -1,0 +1,33 @@
+[
+    {
+        "Name": "T 主题套组",
+        "Pkgname": "com.uniontech.theme.infinitecontrol",
+        "Category": "themes",
+        "More": "让你的deepin重获新生"
+    },
+    {
+        "Name": "Wine运行器",
+        "Pkgname": "spark-deepin-wine-runner",
+        "Category": "tools",
+        "More": "Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序"
+    },
+    {
+        "Name": "Pot-跨平台翻译软件",
+        "Pkgname": "pot",
+        "Category": "tools",
+        "More": "一个跨平台划词翻译软件"
+    },
+    {
+        "Name": "FClash",
+        "Category": "network",
+        "Pkgname": "cn.kingtous.fclash",
+        "More": "更好的Clash客户端,支持Windows/MacOS/Linux的更好的Clash客户端 Clash fronted client by Flutter (Windows/MacOS/Linux supported)."
+    },
+    {
+        "Name": "榴莲-OCR",
+        "Category": "image_graphics",
+        "Pkgname": "durian-ocr",
+        "More": "deepin-ocr的无dtk版本，可以在ubuntu20.04和debian10以上系统使用，增加了一个小界面和切换识别语言，使用方法:命令行使用:durian-ocr +路径  ，界面使用"
+    }
+
+]

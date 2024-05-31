@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.sbfglkhd.spark_1.0.091_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">517ac895c0bd8ceae6b1fcfd6659976c</hash>
+				  
+				<hash type="sha1">448b690f0fd563da20ab639919fd340c71e9659e</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/loong64-store/office/com.sbfglkhd.spark/com.sbfglkhd.spark_1.0.091_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/office/com.sbfglkhd.spark/com.sbfglkhd.spark_1.0.091_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/office/com.sbfglkhd.spark/com.sbfglkhd.spark_1.0.091_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/office/com.sbfglkhd.spark/com.sbfglkhd.spark_1.0.091_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/office/com.sbfglkhd.spark/com.sbfglkhd.spark_1.0.091_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/office/com.sbfglkhd.spark/com.sbfglkhd.spark_1.0.091_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

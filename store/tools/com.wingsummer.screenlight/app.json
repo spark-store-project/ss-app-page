@@ -1,0 +1,16 @@
+{
+    "Name": "屏亮小灯",
+    "Version": "1.0.0",
+    "Filename": "com.wingsummer.screenlight_1.0.0_amd64.deb",
+    "Torrent_address": "com.wingsummer.screenlight_1.0.0_amd64.deb.torrent",
+    "Pkgname": "com.wingsummer.screenlight",
+    "Author": "寂静的羽夏(wingsummer)",
+    "Contributor": "wingsummer <1326224942@qq.com>",
+    "Website": "https://www.cnblogs.com/wingsummer/",
+    "Update": "2022-12-02 18:36:46",
+    "Size": "69.42 KB",
+    "More": "本软件是基于 QT 编写的屏幕亮度调节工具，采用 C++ 进行开发。如果你在使用 Deepin 无法使用设置中心或者调控屏幕亮度的热键调控亮度，你可以尝试一下使用该程序是否能够解决问题。 本程序可能会和系统设置的屏幕亮度会有冲突，除非你只想用该程序设置屏幕亮度。程序退出之后，亮度的设置应用仍旧有效。\n帮助文档：https://code.gitlink.org.cn/wingsummer/ScreenLight/wiki/%E6%96%87%E6%A1%A3",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/02/c9cd975959b14de8915cf13463475162.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/02/e6c8e979077a4bfebb9205162013f246.png"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="deepin-icons-2022_1.8.4_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">eb3127c3623e0d9cdc81798b8f7a7e97</hash>
+				  
+				<hash type="sha1">e501b8b50fe38a3998cdbe1dd38763a26ca0f476</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/themes/deepin-icons-2022/deepin-icons-2022_1.8.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/themes/deepin-icons-2022/deepin-icons-2022_1.8.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/themes/deepin-icons-2022/deepin-icons-2022_1.8.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/themes/deepin-icons-2022/deepin-icons-2022_1.8.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/themes/deepin-icons-2022/deepin-icons-2022_1.8.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/themes/deepin-icons-2022/deepin-icons-2022_1.8.4_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

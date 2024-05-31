@@ -1,0 +1,16 @@
+{
+    "Name": "局域网文件分享服务器",
+    "Version": "1.0.0-deepin20.08",
+    "Filename": "fynelanshare_1.0.0-deepin20.08_amd64.deb",
+    "Torrent_address": "fynelanshare_1.0.0-deepin20.08_amd64.deb.torrent",
+    "Pkgname": "fynelanshare",
+    "Author": "fu huizhong <fuhuizn@163.com>",
+    "Contributor": "rocket049 <fuhuizn@163.com>",
+    "Website": "https://gitee.com/rocket049/fyne-lan-share",
+    "Update": "2023-04-26 14:49:48",
+    "Size": "11.76 MB",
+    "More": "这个程序用于解决局域网中的几台电脑、手机之间互相传送文件问题。这是 fileserver 程序的 fyne GUI 版本。运行后会显示访问 URL ，输入浏览器就可以下载上传。同时也会显示一个二维码，可以用手机扫描二维码访问电脑。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/26/d4cc8e583cf34849914dbc8fd03fc025.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/26/391c20e0e11f4ecf906b512e859dba44.png"
+}

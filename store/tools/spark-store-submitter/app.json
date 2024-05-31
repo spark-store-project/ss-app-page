@@ -1,0 +1,16 @@
+{
+    "Name": "星火商店投稿器",
+    "Version": "1.5.6.4-20240407",
+    "Filename": "spark-store-submitter_1.5.6.4-20240407_amd64.deb",
+    "Torrent_address": "spark-store-submitter_1.5.6.4-20240407_amd64.deb.torrent",
+    "Pkgname": "spark-store-submitter",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/deepin-community-store/dcs-submitter",
+    "Update": "2024-04-07 11:00:20",
+    "Size": "3.26 MB",
+    "More": "社区商店投稿器 \n1. 优雅的点线效果的背景\n2. 优雅的自由角度的通知与问候\n3. 优雅的可应用信息显示对话框\n4. 优雅的将可应用信息自动填充\n5. 优雅的可多选的下拉列表\n6. 优雅的微型加载控件效果\n7. 优雅的添加默认的空图标\n---\n旨为高效投稿而设计的软件\n\n2023/07/06: 在主面板右上角 + 部分增加右击添加默认空图标功能\n2023/08/31: 前端面板加入长文本编辑器实现，双击应用介绍框可弹出\n2023/09/12: 使用 Cdn 扫描方式实现根据包名查询应用信息(原接口过时)\n2023/11/06: 正式开始支持 DDE/KDE 桌面环境 dart 主题模式兼容\n2023/11/07: 采用 dpkg 版本号比较功能精确处理 v100 > v99 的情况\n2023/11/16: 禁用 Gnome 的 dark 主题适配(原因不详)\n2024/01/08: 前端面板全面提升为动态控件\n2024/04/07: 解决系统暗夜主题下文字颜色问题(全面禁用主题适配)",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/07/fcc4fd4872144fbcaa99640e5f720c73.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/07/1572316714a548418677f71776d85386.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/07/2d983e030f604302a926dbf3f8e82316.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/07/79336b7a150449578cf238a6b6eccca9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/07/507c1b3eb13b4c5e8bbfa41b8b6320b0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/07/60a2289cf0244847b7e00d5c22cf651b.png"
+}

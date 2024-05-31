@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.github.lorien.spark_0.6.0spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">d612929d2b3bee3aac42bae3dc43b4a7</hash>
+				  
+				<hash type="sha1">62d775b2fedb2124395d0189993acae4e98cdb98</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.github.lorien.spark/com.github.lorien.spark_0.6.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/com.github.lorien.spark/com.github.lorien.spark_0.6.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/com.github.lorien.spark/com.github.lorien.spark_0.6.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/com.github.lorien.spark/com.github.lorien.spark_0.6.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/com.github.lorien.spark/com.github.lorien.spark_0.6.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/com.github.lorien.spark/com.github.lorien.spark_0.6.0spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

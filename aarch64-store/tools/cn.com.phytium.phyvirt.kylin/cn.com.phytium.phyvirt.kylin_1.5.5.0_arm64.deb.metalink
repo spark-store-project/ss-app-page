@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">05a8fcdc35c15a50f0327ae8d5977383</hash>
+				  
+				<hash type="sha1">b5aba271bb4c81f899429b0a672f3548ae79ffb2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

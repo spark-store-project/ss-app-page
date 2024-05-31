@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.eastmoney.emdesk.spark_10.7spark0_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a5f3082dac75278794f760dfb3744b49</hash>
+				  
+				<hash type="sha1">5b88667d3fec5310c74170456d0ef443192931ce</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.eastmoney.emdesk.spark/com.eastmoney.emdesk.spark_10.7spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.eastmoney.emdesk.spark/com.eastmoney.emdesk.spark_10.7spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.eastmoney.emdesk.spark/com.eastmoney.emdesk.spark_10.7spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.eastmoney.emdesk.spark/com.eastmoney.emdesk.spark_10.7spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.eastmoney.emdesk.spark/com.eastmoney.emdesk.spark_10.7spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.eastmoney.emdesk.spark/com.eastmoney.emdesk.spark_10.7spark0_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

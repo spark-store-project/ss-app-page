@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libdtkwidget-dev_5.4.20_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c98fc7320aa617fc75ae2a9b4548c9fc</hash>
+				  
+				<hash type="sha1">e9ec165e3ec7af44f4da6a1c36e4d146363c8b96</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/dtk/dtkwidget/libdtkwidget-dev_5.4.20_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/dtk/dtkwidget/libdtkwidget-dev_5.4.20_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/dtk/dtkwidget/libdtkwidget-dev_5.4.20_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/dtk/dtkwidget/libdtkwidget-dev_5.4.20_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/dtk/dtkwidget/libdtkwidget-dev_5.4.20_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/dtk/dtkwidget/libdtkwidget-dev_5.4.20_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

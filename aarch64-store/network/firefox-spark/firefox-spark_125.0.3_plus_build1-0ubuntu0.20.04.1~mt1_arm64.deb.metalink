@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="firefox-spark_125.0.3_plus_build1-0ubuntu0.20.04.1~mt1_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">70f884f7dbb8c64bfda79a74fec6c79f</hash>
+				  
+				<hash type="sha1">8b72fd44aa1f669eaf584966d7018ac1bf90f872</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/network/firefox-spark/firefox-spark_125.0.3_plus_build1-0ubuntu0.20.04.1~mt1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/network/firefox-spark/firefox-spark_125.0.3_plus_build1-0ubuntu0.20.04.1~mt1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/network/firefox-spark/firefox-spark_125.0.3_plus_build1-0ubuntu0.20.04.1~mt1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/network/firefox-spark/firefox-spark_125.0.3_plus_build1-0ubuntu0.20.04.1~mt1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/network/firefox-spark/firefox-spark_125.0.3_plus_build1-0ubuntu0.20.04.1~mt1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/network/firefox-spark/firefox-spark_125.0.3_plus_build1-0ubuntu0.20.04.1~mt1_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

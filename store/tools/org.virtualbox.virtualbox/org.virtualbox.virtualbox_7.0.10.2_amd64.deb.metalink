@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.virtualbox.virtualbox_7.0.10.2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">6af8be5871ccc6e860e4a72751a70d70</hash>
+				  
+				<hash type="sha1">568ebb48348abf7db91be18e90a24128c494fef5</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/tools/org.virtualbox.virtualbox/org.virtualbox.virtualbox_7.0.10.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/org.virtualbox.virtualbox/org.virtualbox.virtualbox_7.0.10.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/org.virtualbox.virtualbox/org.virtualbox.virtualbox_7.0.10.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/org.virtualbox.virtualbox/org.virtualbox.virtualbox_7.0.10.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/org.virtualbox.virtualbox/org.virtualbox.virtualbox_7.0.10.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/org.virtualbox.virtualbox/org.virtualbox.virtualbox_7.0.10.2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

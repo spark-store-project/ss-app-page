@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="redict-dtk5-dtk2_0.8.1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5f4b6bfc5456469649c3bc76ac3b3999</hash>
+				  
+				<hash type="sha1">d0a501d5a0a153bfbbb8e8f81ce3a3cc9262a5e6</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/reading/redict-dtk5/redict-dtk5-dtk2_0.8.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/reading/redict-dtk5/redict-dtk5-dtk2_0.8.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/reading/redict-dtk5/redict-dtk5-dtk2_0.8.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/reading/redict-dtk5/redict-dtk5-dtk2_0.8.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/reading/redict-dtk5/redict-dtk5-dtk2_0.8.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/reading/redict-dtk5/redict-dtk5-dtk2_0.8.1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

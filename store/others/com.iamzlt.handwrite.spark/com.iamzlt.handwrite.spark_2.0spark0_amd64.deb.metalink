@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.iamzlt.handwrite.spark_2.0spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">11b0bd6cdc79ff82b0bc42e650da1015</hash>
+				  
+				<hash type="sha1">28036b26e9e982705b32f6a3cd21faed2d084c12</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/others/com.iamzlt.handwrite.spark/com.iamzlt.handwrite.spark_2.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/others/com.iamzlt.handwrite.spark/com.iamzlt.handwrite.spark_2.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/others/com.iamzlt.handwrite.spark/com.iamzlt.handwrite.spark_2.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/others/com.iamzlt.handwrite.spark/com.iamzlt.handwrite.spark_2.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/others/com.iamzlt.handwrite.spark/com.iamzlt.handwrite.spark_2.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/others/com.iamzlt.handwrite.spark/com.iamzlt.handwrite.spark_2.0spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

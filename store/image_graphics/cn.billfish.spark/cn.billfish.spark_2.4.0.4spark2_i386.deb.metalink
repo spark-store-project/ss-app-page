@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.billfish.spark_2.4.0.4spark2_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">af4fa95c49f1a1c6f86c79736a08ecec</hash>
+				  
+				<hash type="sha1">9f239d0076a81ab675feae2844d85bdaef68b3e6</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.billfish.spark/cn.billfish.spark_2.4.0.4spark2_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/cn.billfish.spark/cn.billfish.spark_2.4.0.4spark2_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/cn.billfish.spark/cn.billfish.spark_2.4.0.4spark2_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/cn.billfish.spark/cn.billfish.spark_2.4.0.4spark2_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/cn.billfish.spark/cn.billfish.spark_2.4.0.4spark2_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/cn.billfish.spark/cn.billfish.spark_2.4.0.4spark2_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

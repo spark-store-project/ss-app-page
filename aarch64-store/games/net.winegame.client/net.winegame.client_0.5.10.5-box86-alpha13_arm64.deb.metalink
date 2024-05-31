@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="net.winegame.client_0.5.10.5-box86-alpha13_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">2b7f036f3a3b8e71ed3a05fa1e7f8892</hash>
+				  
+				<hash type="sha1">efb06eb879ff21e31eb93ce9c4eebcc0fa5b8800</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/games/net.winegame.client/net.winegame.client_0.5.10.5-box86-alpha13_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/games/net.winegame.client/net.winegame.client_0.5.10.5-box86-alpha13_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/games/net.winegame.client/net.winegame.client_0.5.10.5-box86-alpha13_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/games/net.winegame.client/net.winegame.client_0.5.10.5-box86-alpha13_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/games/net.winegame.client/net.winegame.client_0.5.10.5-box86-alpha13_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/games/net.winegame.client/net.winegame.client_0.5.10.5-box86-alpha13_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

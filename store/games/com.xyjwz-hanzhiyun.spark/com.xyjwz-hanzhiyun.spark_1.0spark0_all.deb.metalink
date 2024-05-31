@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.xyjwz-hanzhiyun.spark_1.0spark0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">72e630d6401c9b3733139bbf44f7663c</hash>
+				  
+				<hash type="sha1">54b6f00f66627d4a7079dcf288767caf2d00a7c1</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.xyjwz-hanzhiyun.spark/com.xyjwz-hanzhiyun.spark_1.0spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.xyjwz-hanzhiyun.spark/com.xyjwz-hanzhiyun.spark_1.0spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.xyjwz-hanzhiyun.spark/com.xyjwz-hanzhiyun.spark_1.0spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.xyjwz-hanzhiyun.spark/com.xyjwz-hanzhiyun.spark_1.0spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.xyjwz-hanzhiyun.spark/com.xyjwz-hanzhiyun.spark_1.0spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.xyjwz-hanzhiyun.spark/com.xyjwz-hanzhiyun.spark_1.0spark0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

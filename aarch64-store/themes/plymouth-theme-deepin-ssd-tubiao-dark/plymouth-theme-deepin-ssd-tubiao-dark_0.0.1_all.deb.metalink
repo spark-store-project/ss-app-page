@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="plymouth-theme-deepin-ssd-tubiao-dark_0.0.1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">392a55b8e9d995ff42dfc8e89b355eab</hash>
+				  
+				<hash type="sha1">9cad9058e36bd6dfa17eaf4f00a145a83444681d</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/themes/plymouth-theme-deepin-ssd-tubiao-dark/plymouth-theme-deepin-ssd-tubiao-dark_0.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/themes/plymouth-theme-deepin-ssd-tubiao-dark/plymouth-theme-deepin-ssd-tubiao-dark_0.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/themes/plymouth-theme-deepin-ssd-tubiao-dark/plymouth-theme-deepin-ssd-tubiao-dark_0.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/themes/plymouth-theme-deepin-ssd-tubiao-dark/plymouth-theme-deepin-ssd-tubiao-dark_0.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/themes/plymouth-theme-deepin-ssd-tubiao-dark/plymouth-theme-deepin-ssd-tubiao-dark_0.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/themes/plymouth-theme-deepin-ssd-tubiao-dark/plymouth-theme-deepin-ssd-tubiao-dark_0.0.1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

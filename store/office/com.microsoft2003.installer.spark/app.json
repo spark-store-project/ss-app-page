@@ -1,0 +1,16 @@
+{
+    "Name": "Microsoft Office 2003（Wine）",
+    "Version": "2003spark0",
+    "Filename": "com.microsoft2003.installer.spark_2003spark0_all.deb",
+    "Torrent_address": "com.microsoft2003.installer.spark_2003spark0_all.deb.torrent",
+    "Pkgname": "com.microsoft2003.installer.spark",
+    "Author": "gfdgd xi<3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http;//www.microsoft.com",
+    "Update": "2023-05-21 15:40:55",
+    "Size": "732.8 MB",
+    "More": "Wine 的 Microsof Office 2003\n因为不能提供激活的 Wine 版本（安装程序强制规定要输入秘钥了），所以这个 deb 包只提供了 Office 2003 的安装程序和对应组件的 .desktop 启动方式，安装该 deb 后需要在启动器里找到 Office 2003 安装程序/修复程序来安装 Office 2003\n安装后即可正常调用其它的 .desktop 启动 Office 2003",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/531fdf2f039a4b84bba7df0b34329dc9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/9df63a12fb9b4e45b062a0c7a7d37cd9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/58ca178bcd0a4d2e8382bec362ecc33d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/ac2ba1f13a1f42dfa1cf75265750393d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/8e06166ca7c04577bc03884ada78f224.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/21/12abe95a7e4e40c2b0e1a0fabaf5cc4a.png"
+}

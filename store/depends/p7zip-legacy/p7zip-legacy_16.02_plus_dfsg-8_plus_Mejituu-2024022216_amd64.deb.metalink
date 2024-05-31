@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="p7zip-legacy_16.02_plus_dfsg-8_plus_Mejituu-2024022216_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f71b37ed54387f8ff26db41392cb03b1</hash>
+				  
+				<hash type="sha1">2d6d0bda7fed5c31ba0b8076f039d0fcaa2ac202</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/p7zip-legacy/p7zip-legacy_16.02_plus_dfsg-8_plus_Mejituu-2024022216_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/p7zip-legacy/p7zip-legacy_16.02_plus_dfsg-8_plus_Mejituu-2024022216_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/p7zip-legacy/p7zip-legacy_16.02_plus_dfsg-8_plus_Mejituu-2024022216_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/p7zip-legacy/p7zip-legacy_16.02_plus_dfsg-8_plus_Mejituu-2024022216_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/p7zip-legacy/p7zip-legacy_16.02_plus_dfsg-8_plus_Mejituu-2024022216_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/p7zip-legacy/p7zip-legacy_16.02_plus_dfsg-8_plus_Mejituu-2024022216_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

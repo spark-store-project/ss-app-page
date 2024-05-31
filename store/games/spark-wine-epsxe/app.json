@@ -1,0 +1,16 @@
+{
+    "Name": "ePSXe模拟器(wine)",
+    "Version": "1.0",
+    "Filename": "spark-wine-epsxe_1.0_i386.deb",
+    "Torrent_address": "spark-wine-epsxe_1.0_i386.deb.torrent",
+    "Pkgname": "spark-wine-epsxe",
+    "Author": "calb ，Galtor，_Demo",
+    "Contributor": "辉哥",
+    "Website": "http://www.epsxe.com/",
+    "Update": "2023-04-23 13:52:25",
+    "Size": "534.5 MB",
+    "More": "基于ePSXe1.6.0版，用spark-wine7-devel打包，含完整插件的中文版，已配置完善无需再自行配置，安装即可使用，打开主页面点选文件-运行ISO文件-选择镜像确定即可，软件附带了一个游戏镜像（恶魔城-月下夜想曲完美中文版，位置在容器内ISO文件夹下），经测试可完美支持4CD的《最终幻想VIII中文版》，支持有线USB手柄，选择页面配置-控制器-控制器I或II进行按键配置，默认窗口分辨率1600*900，可根据需要自行调整。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/23/303166d7f60d4be0af43d70d1d62aca7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/23/b4560e46776448ccab7c0b60ac218bc3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/23/43db5bf55c1e45cb9656db73268aae2b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/23/8d1b3d9cc497413fbd28d33aa0e22f1e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/23/0c0033acc9a148dbbd3208d761639708.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/23/b19909ff59d74cb9a3366db2d62ff3f3.png"
+}

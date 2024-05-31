@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.github.downkyi.spark_1.5.9spark1_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">3399311431518c1e621974c36702c089</hash>
+				  
+				<hash type="sha1">459660b35012646424543fba77729500ed7ecf09</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/network/com.github.downkyi.spark/com.github.downkyi.spark_1.5.9spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/com.github.downkyi.spark/com.github.downkyi.spark_1.5.9spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/com.github.downkyi.spark/com.github.downkyi.spark_1.5.9spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/com.github.downkyi.spark/com.github.downkyi.spark_1.5.9spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/com.github.downkyi.spark/com.github.downkyi.spark_1.5.9spark1_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/com.github.downkyi.spark/com.github.downkyi.spark_1.5.9spark1_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

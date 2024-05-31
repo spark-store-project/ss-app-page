@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="glade2script_3.2.4~ppa23_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">4ac90357f5851b1f61163fc4490b9011</hash>
+				  
+				<hash type="sha1">42ac21dbe4b7f50ad1f3c78ab718331f40b647cb</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/depends/boot-repair/glade2script_3.2.4~ppa23_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/depends/boot-repair/glade2script_3.2.4~ppa23_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/depends/boot-repair/glade2script_3.2.4~ppa23_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/depends/boot-repair/glade2script_3.2.4~ppa23_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/depends/boot-repair/glade2script_3.2.4~ppa23_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/depends/boot-repair/glade2script_3.2.4~ppa23_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

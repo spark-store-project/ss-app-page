@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="im.xinda.youdu_231.8.2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f20550b13c7ad5ddff78b0889b8fb569</hash>
+				  
+				<hash type="sha1">ea63f6008f33af3b7c0a9412fe1fad9b2c61a74a</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/chat/im.xinda.youdu/im.xinda.youdu_231.8.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/chat/im.xinda.youdu/im.xinda.youdu_231.8.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/chat/im.xinda.youdu/im.xinda.youdu_231.8.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/chat/im.xinda.youdu/im.xinda.youdu_231.8.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/chat/im.xinda.youdu/im.xinda.youdu_231.8.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/chat/im.xinda.youdu/im.xinda.youdu_231.8.2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

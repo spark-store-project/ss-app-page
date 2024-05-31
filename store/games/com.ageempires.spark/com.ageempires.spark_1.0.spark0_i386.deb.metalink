@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.ageempires.spark_1.0.spark0_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9ae8a307b0f6b8b4a8830aa253d16b44</hash>
+				  
+				<hash type="sha1">c8c1acf36592543b1d4496b67691dc13a4b6e523</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/com.ageempires.spark/com.ageempires.spark_1.0.spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/com.ageempires.spark/com.ageempires.spark_1.0.spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/com.ageempires.spark/com.ageempires.spark_1.0.spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/com.ageempires.spark/com.ageempires.spark_1.0.spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/com.ageempires.spark/com.ageempires.spark_1.0.spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/com.ageempires.spark/com.ageempires.spark_1.0.spark0_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

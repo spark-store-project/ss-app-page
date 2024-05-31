@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.deepin.chineseime_2.1.22_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">60a18eaf46538ade54eafa42f7de0ced</hash>
+				  
+				<hash type="sha1">458e1e4e43086b5fc570d51333e9fc572338f2c1</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/office/org.deepin.chineseime/org.deepin.chineseime_2.1.22_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/office/org.deepin.chineseime/org.deepin.chineseime_2.1.22_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/office/org.deepin.chineseime/org.deepin.chineseime_2.1.22_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/office/org.deepin.chineseime/org.deepin.chineseime_2.1.22_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/office/org.deepin.chineseime/org.deepin.chineseime_2.1.22_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/office/org.deepin.chineseime/org.deepin.chineseime_2.1.22_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

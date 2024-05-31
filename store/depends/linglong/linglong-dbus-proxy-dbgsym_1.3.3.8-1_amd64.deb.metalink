@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="linglong-dbus-proxy-dbgsym_1.3.3.8-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1c14f405fbca0ff78b3734bf5b34fc93</hash>
+				  
+				<hash type="sha1">cfa594572ce92365cc72bfcc04d74cb157784194</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/depends/linglong/linglong-dbus-proxy-dbgsym_1.3.3.8-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/linglong/linglong-dbus-proxy-dbgsym_1.3.3.8-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/linglong/linglong-dbus-proxy-dbgsym_1.3.3.8-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/linglong/linglong-dbus-proxy-dbgsym_1.3.3.8-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/depends/linglong/linglong-dbus-proxy-dbgsym_1.3.3.8-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/depends/linglong/linglong-dbus-proxy-dbgsym_1.3.3.8-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

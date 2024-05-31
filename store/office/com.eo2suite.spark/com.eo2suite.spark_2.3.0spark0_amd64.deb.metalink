@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.eo2suite.spark_2.3.0spark0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">fdb6287b0bd9c101d8f7d904f47a51c3</hash>
+				  
+				<hash type="sha1">10aabc40c27a2f5abb43513fb147648386afdddc</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/com.eo2suite.spark/com.eo2suite.spark_2.3.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.eo2suite.spark/com.eo2suite.spark_2.3.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.eo2suite.spark/com.eo2suite.spark_2.3.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.eo2suite.spark/com.eo2suite.spark_2.3.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/com.eo2suite.spark/com.eo2suite.spark_2.3.0spark0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/com.eo2suite.spark/com.eo2suite.spark_2.3.0spark0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

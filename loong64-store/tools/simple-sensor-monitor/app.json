@@ -1,0 +1,16 @@
+{
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "simple-sensor-monitor_1.1-20240324_loong64.deb",
+    "More": "在配置面板填写 sensors -u 提供的 adapter适配器与 sensor 即可显示数据。 \n\nv1.0: 可显示温度(°C) 电压(V) 电流(A) 功耗(W) 等类型\nv1.1: 可设置刷新间隔，完善线程化的工作流模式\n\n左侧图标尚未支持除温度之外的图标",
+    "Name": "系统传感器显示工具",
+    "Pkgname": "simple-sensor-monitor",
+    "Size": "475 Kb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "simple-sensor-monitor_1.1-20240324_loong64.deb.torrent",
+    "Update": "2024-03-24 22:33:30",
+    "Version": "1.1-20240324",
+    "Website": "https://gitee.com/zinface/qt.mini-sensor-icon",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/screen_5.png\"]"
+}

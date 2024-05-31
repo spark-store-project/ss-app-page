@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.com.dwzq.spark_8.70.50.0832deepin5_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">efb26e88fc0948d719ca4dcf8ef21463</hash>
+				  
+				<hash type="sha1">6a31eb53d6fef0ae8afad9386989f411873357ab</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/office/cn.com.dwzq.spark/cn.com.dwzq.spark_8.70.50.0832deepin5_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/cn.com.dwzq.spark/cn.com.dwzq.spark_8.70.50.0832deepin5_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/cn.com.dwzq.spark/cn.com.dwzq.spark_8.70.50.0832deepin5_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/cn.com.dwzq.spark/cn.com.dwzq.spark_8.70.50.0832deepin5_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/cn.com.dwzq.spark/cn.com.dwzq.spark_8.70.50.0832deepin5_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/cn.com.dwzq.spark/cn.com.dwzq.spark_8.70.50.0832deepin5_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

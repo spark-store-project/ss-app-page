@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="de.sabaki.spark_0.52.2spark1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">fe72e895b360bc12c2a7f93ea49662dc</hash>
+				  
+				<hash type="sha1">817bbfb4aaeebf223e1861e85cac754b4c0acea7</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/games/de.sabaki.spark/de.sabaki.spark_0.52.2spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/de.sabaki.spark/de.sabaki.spark_0.52.2spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/de.sabaki.spark/de.sabaki.spark_0.52.2spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/de.sabaki.spark/de.sabaki.spark_0.52.2spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/de.sabaki.spark/de.sabaki.spark_0.52.2spark1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/de.sabaki.spark/de.sabaki.spark_0.52.2spark1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

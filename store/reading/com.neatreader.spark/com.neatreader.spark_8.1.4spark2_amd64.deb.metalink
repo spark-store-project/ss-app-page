@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.neatreader.spark_8.1.4spark2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">84932051fcbc8e4f8579524aabf46bb3</hash>
+				  
+				<hash type="sha1">9c0c50478ef6c538a1c89d3c331d1d0cde251e09</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/store/reading/com.neatreader.spark/com.neatreader.spark_8.1.4spark2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/reading/com.neatreader.spark/com.neatreader.spark_8.1.4spark2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/reading/com.neatreader.spark/com.neatreader.spark_8.1.4spark2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/reading/com.neatreader.spark/com.neatreader.spark_8.1.4spark2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/reading/com.neatreader.spark/com.neatreader.spark_8.1.4spark2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/reading/com.neatreader.spark/com.neatreader.spark_8.1.4spark2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>
