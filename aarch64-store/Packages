@@ -3112,18 +3112,18 @@ Description: 自定义主题（内包含 壁纸、光标、字体）
 
 Package: com.uniontech.theme.infinitecontrol
 Architecture: all
-Version: 1.0.1
+Version: 1.0.2
 Priority: optional
 Section: admin
 Maintainer: username <username@uniontech.com>
 Installed-Size: 5374
 Depends: deepin-elf-verify (>= 1.1.10-1),deepin-icon-theme
-Filename: themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.1_all.deb
-Size: 3311680
-MD5sum: cfa3adc6eb2aed5452c404481ad6756b
-SHA1: e64c3099fc035d506f52326c3012d7300db680e9
-SHA256: 57aeb033ee362fad59a435e1770b83c4cf279c494e475dacb8ba79116497d9ec
-SHA512: 91db41106b325a264c7e07a223e8acd2e3f0b9017479a4946928e238a8155ade47a139cd7cd54a993984adc369ecf0c538de8251dd73505e250bbe0dbf3dbb32
+Filename: themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.2_all.deb
+Size: 3314412
+MD5sum: ec3681e26c1dc7a3278cd5c028c0f7c6
+SHA1: cb7d126d3211681a8b0d9a65d43769896093333e
+SHA256: 305f19d4b546bbfe9cc40656ca9783a29466c83c62454bc2e8fe1f232152ebf6
+SHA512: 414ffda2b715587667f58a13e4fb2ba4d2587eabfb303466672153ca94de8e1c86f46ee58691ffad826a229dd0ea44572c853f8c325b6fb316457171df96eef6
 Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
 
 Package: uos-home-icon
@@ -7849,19 +7849,19 @@ Description: 钉钉
 
 Package: linuxqq
 Architecture: arm64
-Version: 3.2.8-23873
+Version: 3.2.9-24402
 Priority: optional
 Section: default
 Maintainer: Tencent <QQ-Team@tencent.com>
-Installed-Size: 474096
+Installed-Size: 533693
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: chat/linuxqq/linuxqq_3.2.8-23873_arm64.deb
-Size: 132033768
-MD5sum: 105c14d9b2051ce8edf77a304b8ca9f8
-SHA1: bb8ad65240462be43425231d816e3358cec4e250
-SHA256: a92bfb1aa9d7be9f08161de4adc2652a17919f8b05e1caf8f9922d776cbc2548
-SHA512: c018a352fefe016c61ee6d4778239df961c80f51e73b710aae1ac25c0266d9dc365fe13407935e672a6368463222fb72c74c6a87db2170b13346ceb229791f80
+Filename: chat/linuxqq/linuxqq_3.2.9-24402_arm64.deb
+Size: 145941384
+MD5sum: 0bd92af5145245aa81bcb1de07de945b
+SHA1: f0b7df3e861a29361782768e1e90e2419df99a79
+SHA256: b46ae2d8d7509094df0c5d2f202d4f65e94088b3ccb168285a7728b023ee60ab
+SHA512: 932dbdb326b94765ad4b268b377add1dd42f64764c77b190bf284cdb1d4963f4123d518cc479e76bc0d6d49aaaa221a119f663d0e7300d584f8ae315ba04acee
 Homepage: https://im.qq.com
 Description: 
   QQ

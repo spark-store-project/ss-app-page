@@ -2721,112 +2721,6 @@ Description: Modular compiler and toolchain technologies, runtime library
  .
  This package contains the LLVM runtime library.
 
-Package: slirp4netns
-Architecture: amd64
-Version: 100:1.1.8-4
-Priority: optional
-Section: devel
-Maintainer: Lokesh Mandvekar <lsm5@fedoraproject.org>
-Installed-Size: 1939
-Filename: depends/dcm/slirp4netns_100_plus_1.1.8-4_amd64.deb
-Size: 641592
-MD5sum: 7d4b7d87dce1e4b0228f6da39fc6c907
-SHA1: 6ef6e7165ef34b68da2e0cc650fcc043a406ba0c
-SHA256: 3c06b7047553ee3aef3635dfd36e7ba57a641926e6878a030c75cb55469bd81d
-SHA512: dbb06340b7fab3cc74d92988d0aa2b5af14190e294e4ae4526cfa1f0d51d2f8fb71946462688445c66118dcb946f11177843b9e5832114f8280ed331c9c7607b
-Homepage: https://github.com/rootless-containers/slirp4netns
-Description: User-mode networking for unprivileged network namespaces
- slirp4netns provides user-mode networking for unprivileged network
- namespaces.
- .
- slirp4netns allows connecting a network namespace to the Internet in a
- completely unprivileged way, by connecting a TAP device in a network
- namespace to the usermode TCP/IP stack ("slirp").
-
-Package: podman
-Architecture: amd64
-Version: 100:3.4.2-4
-Priority: optional
-Section: devel
-Maintainer: Lokesh Mandvekar <lsm5@fedoraproject.org>
-Installed-Size: 82013
-Depends: libseccomp2 (>= 2.4.3-1), libdevmapper1.02.1, libgpgme11, catatonit, conmon (>= 100:2.0.25~2), containers-common (>= 100:1-21), dbus-user-session, iptables, podman-plugins (>= 100:1.2.0-1), podman-machine-cni (>= 100:0.0.0-1), crun (>= 100:0.19.1-1)
-Recommends: slirp4netns (>= 100:1.1.8-3), containernetworking-plugins (>= 100:1.0.0-1), uidmap, fuse-overlayfs
-Conflicts: podman-rootless
-Filename: depends/dcm/podman_100_plus_3.4.2-4_amd64.deb
-Size: 18674236
-MD5sum: 749660bc53b2934c5ae2d9d487202794
-SHA1: ced274866516935a5e982cd04cfdb3e64a801bae
-SHA256: 7acf06cb09544d45113b24e26e4d9e98e1cae8fa8fe0aa6613d751671ad026a9
-SHA512: df809e5091fbf906f2ea204771980757882d9acdb43aaa4e1a1bd2f0e97343ff91e785f05a8c6080cfff597c0ead4260dffc11496642f74614dabe7853f4627f
-Homepage: https://github.com/containers/podman.git
-Description: Manage pods, containers and container images.
-
-Package: libseccomp2
-Architecture: amd64
-Version: 2.5.1-1+deb11u1
-Multi-Arch: same
-Priority: optional
-Section: libs
-Source: libseccomp
-Maintainer: Kees Cook <kees@debian.org>
-Installed-Size: 158
-Depends: libc6 (>= 2.4)
-Filename: depends/dcm/libseccomp2_2.5.1-1_plus_deb11u1_amd64.deb
-Size: 48512
-MD5sum: 905c0689cbc5dd14d62c19cb22ac7ba3
-SHA1: f31e9ff4add7703d5b0ab144a313cd871012cfe3
-SHA256: 2617fc8b99dca0fa8ed466ee0f5fe087aa4e8413b88ca45d717290f4a0551e36
-SHA512: 7e5da2db17c2902521d6cb4c8c0390005492534e320e862c3ee9d1977144a34a54a813081c6da94235642c94caaf92fffecd3acf3a39a7752cab48dfb7ff237f
-Homepage: https://github.com/seccomp/libseccomp
-Description: high level interface to Linux seccomp filter
- This library provides a high level interface to constructing, analyzing
- and installing seccomp filters via a BPF passed to the Linux Kernel's
- prctl() syscall.
-
-Package: containernetworking-plugins
-Architecture: amd64
-Version: 100:1.1.1~1
-Built-Using: golang-1.15 (= 1.15.9-5~bpo10+1)
-Priority: extra
-Section: devel
-Maintainer: Lokesh Mandvekar <lsm5@fedoraproject.org>
-Installed-Size: 49077
-Depends: libc6 (>= 2.3.2)
-Conflicts: kubernetes-cni
-Filename: depends/dcm/containernetworking-plugins_100_plus_1.1.1~1_amd64.deb
-Size: 6999764
-MD5sum: 5e9962b9c082365a6d5a32602968f48c
-SHA1: 9c63f0bb0e63079b5149b4e54dfc2a5408dcfe76
-SHA256: 3b4743b31a7c66a38ecf02474883b0ec885baa122283d450fe81e1a5e12ed8ed
-SHA512: e335fdced63512cf6a55b3c26d5c68ec3b24832624d5abe287ae24160e91e9ad66f9a6dd531b16423c8fbaea1c8b570a20dba21fee17a83671197d294c5ea709
-Homepage: https://github.com/containernetworking/plugins
-Description: Libraries for writing CNI plugins
- The CNI (Container Network Interface) project consists of a specification
- and libraries for writing plugins to configure network interfaces in Linux
- containers, along with a number of supported plugins. CNI concerns itself
- only with network connectivity of containers and removing allocated resources
- when the container is deleted.
-
-Package: fuse-overlayfs
-Architecture: amd64
-Version: 1.4.0~1
-Priority: optional
-Section: misc
-Maintainer: Reinhard Tartler <siretart@tauware.de>
-Installed-Size: 110
-Depends: fuse3, libc6 (>= 2.28), libfuse3-3 (>= 3.2.3)
-Filename: depends/dcm/fuse-overlayfs_1.4.0~1_amd64.deb
-Size: 41232
-MD5sum: ac7e44b30ca9b4179bdefd518a60a066
-SHA1: 53d993c69388670123f15a8d0f470ee67f723f78
-SHA256: cd57bd565ade29e0dd824d419d4db092a506ef069228617e86735d7ebb330280
-SHA512: 40d16da298e4ae4735d4c629d94d3a91c80d2e057a50a3db2e9ea15c0a8302a39c73b2940ce072066e8283fb1db34db4cb7d605143fa90d8ded6687d64ce01f9
-Homepage: https://github.com/containers/fuse-overlayfs
-Description: implementation of overlay+shiftfs in FUSE for rootless containers
- This package provides an overlayfs FUSE implementation so that it can
- be used since Linux 4.18 by unprivileged users in an user namespace.
-
 Package: libyaml-cpp0.6
 Architecture: amd64
 Version: 0.6.2-4
@@ -9979,18 +9873,18 @@ Description: 自定义主题（内包含 壁纸、光标、字体）
 
 Package: com.uniontech.theme.infinitecontrol
 Architecture: all
-Version: 1.0.1
+Version: 1.0.2
 Priority: optional
 Section: admin
 Maintainer: username <username@uniontech.com>
 Installed-Size: 5374
 Depends: deepin-elf-verify (>= 1.1.10-1),deepin-icon-theme
-Filename: themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.1_all.deb
-Size: 3311680
-MD5sum: cfa3adc6eb2aed5452c404481ad6756b
-SHA1: e64c3099fc035d506f52326c3012d7300db680e9
-SHA256: 57aeb033ee362fad59a435e1770b83c4cf279c494e475dacb8ba79116497d9ec
-SHA512: 91db41106b325a264c7e07a223e8acd2e3f0b9017479a4946928e238a8155ade47a139cd7cd54a993984adc369ecf0c538de8251dd73505e250bbe0dbf3dbb32
+Filename: themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.2_all.deb
+Size: 3314412
+MD5sum: ec3681e26c1dc7a3278cd5c028c0f7c6
+SHA1: cb7d126d3211681a8b0d9a65d43769896093333e
+SHA256: 305f19d4b546bbfe9cc40656ca9783a29466c83c62454bc2e8fe1f232152ebf6
+SHA512: 414ffda2b715587667f58a13e4fb2ba4d2587eabfb303466672153ca94de8e1c86f46ee58691ffad826a229dd0ea44572c853f8c325b6fb316457171df96eef6
 Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
 
 Package: uos-home-icon
@@ -13563,6 +13457,25 @@ SHA1: 17277a3621e9cdf5765eb1a395ed590741b2e44c
 SHA256: 99d79b21418ce49b13e1bb11f11c9d16ef62163893a5b1149c5d2cbff4aad7d4
 SHA512: 75798b4b3b4ac0b2be5f0ab0efeb829444cb8a1b7b1bddcaf865b7d4d8772f315478cdf8ea8a6e6a038189ef4be01bab734b0677fc7e9ee9c3529427e47fcb9c
 Description: Open and edit PSD, XCF, Sketch (Photoshop, Gimp and Sketch) or any other image files. Inspect PSD and Sketch files. Convert Sketch to PSD. Apply photo effects and filters. A perfect alternative to Photoshop or Gimp.
+
+Package: z-tools-imagesbrowser
+Architecture: amd64
+Version: 0.4-20240531
+Priority: optional
+Section: devel
+Maintainer: zinface <zinface@163.com>
+Installed-Size: 148
+Filename: image_graphics/z-tools-imagesbrowser/z-tools-imagesbrowser_0.4-20240531_amd64.deb
+Size: 67282
+MD5sum: 740891f8e2b6f6b41f4b8734fd14a502
+SHA1: fed7903a825d9dc43c87ab985b9b534c1b630889
+SHA256: e418af2a391a487f95dda1f0bb372d03115f2af2e190ede1babceb1d3d79902f
+SHA512: 4bf0079dada095f6196cd1c9c08304c1e65f9af104e0e9f7f8d357a8eb47f00a0ec6b946d96102f8004b8c08a06cee4701c684180bdad24d866148f2ba28cd0a
+Homepage: https://gitee.com/zinface/z-tools/tree/imagebrowser-dev
+Description: 图片浏览器
+ 用来浏览指定目录下及子目录下所有 jpg, png, svg 图片
+ .
+ Build for Uos20 through spark-deb-build.
 
 Package: gridyart.spark
 Architecture: amd64
@@ -28528,21 +28441,21 @@ Description: The web browser from Google
 
 Package: browser360-cn-stable
 Architecture: amd64
-Version: 13.3.1013.51-1
+Version: 13.3.1013.59-1
 Priority: optional
 Section: web
 Maintainer: 360安全浏览器团队 <pc_browser_kefu@360.cn>
-Installed-Size: 412649
+Installed-Size: 412521
 Provides: www-browser
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.16), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.60), libexpat1 (>= 2.0.1), libgbm1 (>= 8.1~0), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.39.4), libgtk2.0-0 (>= 2.24.0), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.26), libpango-1.0-0 (>= 1.14.0), libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, libxtst6, wget, xdg-utils (>= 1.0.2)
 Recommends: libu2f-udev, libvulkan1
-Filename: network/browser360-cn-stable/browser360-cn-stable_13.3.1013.51-1_amd64.deb
-Size: 134315812
-MD5sum: 29d6fd6fe31c3b8745425122f758035c
-SHA1: ddbba713887cb9373b47ab9868890fd27b9a8767
-SHA256: e0e01c008aa8632b0ed64144a3cda3415a8902dbcda08724b1eeb95d9908e229
-SHA512: c30b14a6b4c88e61dcaee136423d8e0047cebf5a1ec1a705d80a7308c2b93ac30f560d2655414109411a4179e3d638ceefebea4e2f119034e841d7cb59055d9a
+Filename: network/browser360-cn-stable/browser360-cn-stable_13.3.1013.59-1_amd64.deb
+Size: 134280252
+MD5sum: 4028ac461008949a2ec04dec62c4aa27
+SHA1: ae9946bf738c16b2f05cba316dfaf9b4bdfdf02a
+SHA256: 7a8bb2659aab6267ffd2a0df81184ec5c6aff4cc19e39dc4680891cf9871fbfc
+SHA512: ece8a7d4f2a95f25142eb97e80f070f5142f8e1bfa208d8978f10dfe29a8f2ae2d46924ce2b318cab8b8704ca2aef0220b5fc730bb42dc866bf0190f90f8e8e6
 Description: 360安全浏览器
  360安全浏览器结合最新的Chromium内核，领先的国密套件支持，完整的信创迁移方案，为政企客户提供最极速、最安全、最易用的浏览器。
 
@@ -28579,6 +28492,23 @@ SHA512: fcfd5842fc173c767c51903cf24344da0135d0d5bea769ba2ed89c291f9985053fa8e70d
 Homepage: https://gitee.com/sauntor/Qili
 Description: A subtitle spearker for live broadcasting at bilibili.com
  A subtitle spearker for live broadcasting at bilibili.com
+
+Package: com.anto.deepin
+Architecture: all
+Version: 3.6.3
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: wang
+Installed-Size: 10776
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: network/com.anto.deepin/com.anto.deepin_3.6.3_all.deb
+Size: 10783388
+MD5sum: de39639eafca8511ef04c79d14594070
+SHA1: fa05a25c1eb39ffcdbba762017a5d86303671097
+SHA256: 3eed54e1a447a1aa5413ff489319d203fcb55a3ad28aeb30e042b78acee8dab7
+SHA512: 3443389cb8d5be87fd9fa8d506ae07429e9b47198f512fd0ff7b454763cc42ddbc1cab31a9ea25f09ae2fad71b921f57776a98ee2ba5451e66c7f03bb9db761f
+Description: anto 是一款简单、开箱即用的 Windows 工具，用来翻译字幕文件。内置彩云小译、DeepL、微软翻译，并支持自配置的百度翻译、华为云、火山、腾讯、有道、OpenAI 翻译引擎。
 
 Package: com.lanzou.spark
 Architecture: all
@@ -33934,19 +33864,19 @@ Vendor: Xterminal <xterminal@xterminal.cn>
 
 Package: redisviewer
 Architecture: amd64
-Version: 2.4.3
+Version: 2.4.4
 Priority: optional
 Section: default
 Maintainer: 124410675@qq.com
 Installed-Size: 254265
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: development/redisviewer/redisviewer_2.4.3_amd64.deb
-Size: 79185280
-MD5sum: 6be3e15666a2eb355436f448f144a278
-SHA1: 554acc37a61a0985533bc4477ba82465c80a66b0
-SHA256: 3355bb3be0dfa0281636790a5cf97b1fb33e4cbad5fffcc4d08deaefe9e7f4ee
-SHA512: fcb3b81dfa0df0a85c23b572b8c969f97ee72c69a091208a7481a5b358c57a0cc22fd0270b076c76253f26cbf929ae9b734b45ca72a36129076c710077c4de36
+Filename: development/redisviewer/redisviewer_2.4.4_amd64.deb
+Size: 79195696
+MD5sum: efe735a027418c1a184a005dc2166fa5
+SHA1: bd0c82ec91471147187229ff4d43915f6e427141
+SHA256: a2117e0f62188537cc221384731e60f281cf17d2054c97b6bc313ecf0b841c7d
+SHA512: 167c562cd7eb59718fd56cafaec65b1b383c71d0614c94914ff349516ccc4268f5e82fb5a8ece22b6b436a9d51cc65d349583494a382cf318b1de7947de47aae
 Homepage: https://github.com/redisviewer
 Description: 
   优秀跨平台Redis可视化客户端工具
@@ -35369,19 +35299,19 @@ Description: Mail is an easy-to-use desktop mail client that can manage multiple
 
 Package: linuxqq
 Architecture: amd64
-Version: 3.2.8-23873
+Version: 3.2.9-24402
 Priority: optional
 Section: default
 Maintainer: Tencent <QQ-Team@tencent.com>
-Installed-Size: 452062
+Installed-Size: 505151
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: chat/linuxqq/linuxqq_3.2.8-23873_amd64.deb
-Size: 134129726
-MD5sum: 96fbb21f5f522306cd692f3be0223524
-SHA1: 238507fa999f531b05e68ee108017e8f08f9404e
-SHA256: d23e212d26cf80a40e3eab44499aa76586eade3fc260d1b9f171294fb507393f
-SHA512: 8517bbccbaba727ea7a317093116622aa91fb25f473a5ce8a34f6a01ced5d3908b02fc6130030087b5743761aa70347c268ef7f52d9cfc06851a77226edc1e4e
+Filename: chat/linuxqq/linuxqq_3.2.9-24402_amd64.deb
+Size: 146942428
+MD5sum: 442cbbb1a86f1a77e151a9e5a35f9a24
+SHA1: 42ee47db2b9e1870fe0007be326900d540de3ee5
+SHA256: 9f4bacc71f2756b120ea3532ee93396501ef2965d7749d187dffaf12c65bf10c
+SHA512: abc5fff9c9e81798611124ab12bc690693e25b61d7a7f965668f19cf57f0858b0a3162f3c727fe92ef8abd6808ef6c126768ef52c1968bc77e705eac4834f3ea
 Homepage: https://im.qq.com
 Description: 
   QQ

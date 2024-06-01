@@ -270,23 +270,6 @@
 
 ,
 {
-    "Name": "Foliate",
-    "Version": "2.6.4",
-    "Filename": "foliate_2.6.4_all.deb",
-    "Torrent_address": "foliate_2.6.4_all.deb.torrent",
-    "Pkgname": "foliate",
-    "Author": "John Factotum",
-    "Contributor": "sgb76",
-    "Website": "https://johnfactotum.github.io/foliate/",
-    "Update": "2023-02-10 23:40:27",
-    "Size": "892.96 KB",
-    "More": "Foliate是一个使用GJS和 Epub.js构建的开源GTK电子书阅读器，具有简单而现代的用户界面",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/839ff57a2be34a9f89848facd7a6ee3c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/9f8616cc40dd479a8af44c28f2776c4c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/6507da1988a0456996862fab7da76869.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/10/adee4c4eb9d44593bb72fe414d747b0c.png"
-}
-,
-{
     "Name": "CAJViewer(Linux)",
     "Version": "1.1.0-1",
     "Filename": "net.cnki.cajviewer_1.1.0-1_amd64.deb",
@@ -301,6 +284,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/edf3b542419c43c7affc15fa3adda297.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/174d33dff42d45389309981db25c37d3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/c69fb276f1df46238b32c1fe795f58e7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/02/8d63f37cdcd3441fad757d9d66b9c46d.png"
+}
+,
+{
+    "Name": "Foliate",
+    "Version": "2.6.4",
+    "Filename": "foliate_2.6.4_all.deb",
+    "Torrent_address": "foliate_2.6.4_all.deb.torrent",
+    "Pkgname": "foliate",
+    "Author": "John Factotum",
+    "Contributor": "sgb76",
+    "Website": "https://johnfactotum.github.io/foliate/",
+    "Update": "2023-02-10 23:40:27",
+    "Size": "892.96 KB",
+    "More": "Foliate是一个使用GJS和 Epub.js构建的开源GTK电子书阅读器，具有简单而现代的用户界面",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/839ff57a2be34a9f89848facd7a6ee3c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/9f8616cc40dd479a8af44c28f2776c4c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/6507da1988a0456996862fab7da76869.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/10/adee4c4eb9d44593bb72fe414d747b0c.png"
 }
 ,
 {

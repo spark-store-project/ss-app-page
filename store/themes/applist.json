@@ -547,22 +547,6 @@
 
 ,
 {
-    "Name": "简单小企鹅皮肤",
-    "Version": "1.0",
-    "Filename": "fcitx-ui-simple_1.0_all.deb",
-    "Pkgname": "fcitx-ui-simple",
-    "Author": "liu",
-    "Contributor": "liu",
-    "Website": "https://gitee.com/rgba/fcitx-skin",
-    "Update": "2021-01-24 20:50:07",
-    "Size": "172 KB",
-    "More": "小企鹅输入法简单皮肤合集",
-    "Tags": "deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/9c6a8090-5e42-11eb-bd37-d9d94122a99f.image1\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/9e948c80-5e42-11eb-bd37-d9d94122a99f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/a0ac7000-5e42-11eb-bd37-d9d94122a99f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/24/99360980-5e42-11eb-bd37-d9d94122a99f.jpg"
-}
-,
-{
     "Name": "melange主题",
     "Version": "1.0",
     "Filename": "custom-theme-melange_1.0_all.deb",
@@ -577,6 +561,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/add581e0-83c9-11ee-8d0f-0f9fb3e2b016.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/addb9c60-83c9-11ee-8d0f-0f9fb3e2b016.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/adcf4050-83c9-11ee-8d0f-0f9fb3e2b016.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/adca1030-83c9-11ee-8d0f-0f9fb3e2b016.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/15/bc808af0-83c9-11ee-8d0f-0f9fb3e2b016.png"
+}
+,
+{
+    "Name": "简单小企鹅皮肤",
+    "Version": "1.0",
+    "Filename": "fcitx-ui-simple_1.0_all.deb",
+    "Pkgname": "fcitx-ui-simple",
+    "Author": "liu",
+    "Contributor": "liu",
+    "Website": "https://gitee.com/rgba/fcitx-skin",
+    "Update": "2021-01-24 20:50:07",
+    "Size": "172 KB",
+    "More": "小企鹅输入法简单皮肤合集",
+    "Tags": "deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/9c6a8090-5e42-11eb-bd37-d9d94122a99f.image1\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/9e948c80-5e42-11eb-bd37-d9d94122a99f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/a0ac7000-5e42-11eb-bd37-d9d94122a99f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/24/99360980-5e42-11eb-bd37-d9d94122a99f.jpg"
 }
 ,
 {
@@ -765,6 +765,24 @@
 }
 ,
 {
+    "Author": "username <username@uniontech.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.uniontech.theme.infinitecontrol_1.0.2_all.deb",
+    "More": "获奖主题作品——‘无限’主题大赛获奖作品",
+    "Name": "T 主题套组",
+    "Pkgname": "com.uniontech.theme.infinitecontrol",
+    "Size": "3314 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "com.uniontech.theme.infinitecontrol_1.0.2_all.deb.torrent",
+    "Update": "2024-05-31 17:03:59",
+    "Version": "1.0.2",
+    "Website": "https://bbs.deepin.org.cn/zh/post/273057",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.infinitecontrol/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.infinitecontrol/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.infinitecontrol/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.infinitecontrol/screen_3.png\"]"
+}
+
+,
+{
     "Name": "花谱（Kaf）光标包",
     "Version": "1.1.0",
     "Filename": "kaf-cursors_1.1.0_all.deb",
@@ -864,24 +882,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/09/64d3f8e0-227a-11eb-bab2-9bf015eda5a6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/09/7aecb5e0-227a-11eb-bab2-9bf015eda5a6.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/09/3508dd60-227a-11eb-bab2-9bf015eda5a6.png"
 }
-,
-{
-    "Author": "username <username@uniontech.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.uniontech.theme.infinitecontrol_1.0.1_all.deb",
-    "More": "获奖主题作品——‘无限’主题大赛获奖作品",
-    "Name": "T 主题套组",
-    "Pkgname": "com.uniontech.theme.infinitecontrol",
-    "Size": "3311 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "com.uniontech.theme.infinitecontrol_1.0.1_all.deb.torrent",
-    "Update": "2024-05-28 13:43:12",
-    "Version": "1.0.1",
-    "Website": "https://bbs.deepin.org.cn/zh/post/273057",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.infinitecontrol/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.infinitecontrol/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.infinitecontrol/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.infinitecontrol/screen_3.png\"]"
-}
-
 ,
 {
     "Name": "unsplash4deepin",

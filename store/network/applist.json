@@ -138,19 +138,19 @@
 ,
 {
     "Name": "360安全浏览器(Linux版)",
-    "Version": "13.3.1013.51-1",
-    "Filename": "browser360-cn-stable_13.3.1013.51-1_amd64.deb",
-    "Torrent_address": "browser360-cn-stable_13.3.1013.51-1_amd64.deb.torrent",
+    "Version": "13.3.1013.59-1",
+    "Filename": "browser360-cn-stable_13.3.1013.59-1_amd64.deb",
+    "Torrent_address": "browser360-cn-stable_13.3.1013.59-1_amd64.deb.torrent",
     "Pkgname": "browser360-cn-stable",
     "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
     "Contributor": "Fredoong",
     "Website": "https://browser.360.net/gc/",
-    "Update": "2024-05-25 16:55:23",
-    "Size": "128.09 MB",
+    "Update": "2024-05-31 03:59:35",
+    "Size": "128.06 MB",
     "More": "360安全浏览器\n360安全浏览器结合最新的Chromium内核，领先的国密套件支持，完整的信创迁移方案，为政企客户提供最极速、最安全、最易用的浏览器。",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/25/817d2ae94c7741e5bbb84ce8e674aacb.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/25/c999025c31e848d7b579bad4e383e1a2.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/935582e5687b40dca097d0a2f352a310.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/31/7f42d1bdc324448c93afba6a0c8f0905.png"
 }
 ,
 {
@@ -2406,6 +2406,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b5310980-1c3c-11ef-844a-857c0f6b164f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b53a3140-1c3c-11ef-844a-857c0f6b164f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/b010a0f0-1c3c-11ef-844a-857c0f6b164f.png"
+}
+,
+{
+    "Name": "anto  翻译工具",
+    "Version": "3.6.3",
+    "Filename": "com.anto.deepin_3.6.3_all.deb",
+    "Torrent_address": "com.anto.deepin_3.6.3_all.deb.torrent",
+    "Pkgname": "com.anto.deepin",
+    "Author": "wang",
+    "Contributor": "wang",
+    "Website": "https://www.appinn.com/anto-srt-translate/",
+    "Update": "2024-05-30 22:51:16",
+    "Size": "10.28 MB",
+    "More": "anto 是一款简单、开箱即用的 Windows 工具，用来翻译字幕文件。内置彩云小译、DeepL、微软翻译，并支持自配置的百度翻译、华为云、火山、腾讯、有道、OpenAI 翻译引擎。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/76f975593fa64114944c0d15bb37c439.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/fcd7bd1efccf47d096899ed9eb68019d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/799c32d36e5c4d12af9994133c82f06f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/30/39c35facca4c4456ab7f2e4efbd2f6ab.png"
 }
 ,
 {

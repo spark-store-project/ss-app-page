@@ -1470,18 +1470,18 @@ Description: D-Bus Qt main loop support for Python 3
 
 Package: lat
 Architecture: loong64
-Version: 1.5.1-real-is1.4.4-1
+Version: 1.5.2~rc1
 Multi-Arch: same
 Priority: optional
 Section: non-free/otherosfs
 Maintainer: deepin <support@deepin.org>
 Depends: libc6 (>= 2.37)
-Filename: depends/lat/lat_1.5.1-real-is1.4.4-1_loong64.deb
-Size: 1462976
-MD5sum: 95ec6faf0480613ae1fb654e442ecd25
-SHA1: 567d44c43298c6386acc9d4f679d7a37f8827e1f
-SHA256: a14e20b1a24873e697fc03fb14f658e27f882c5a2114a3161541af0360889b39
-SHA512: 8d94ccec95976df961bea85c5d47984eaa34f4fe50dfcd0c9f4f141bb238b3c5dff5e2807e7cbb144ae8f8f751d805fd4629de2a41b661179745f873ec658c81
+Filename: depends/lat/lat_1.5.2~rc1_loong64.deb
+Size: 2438880
+MD5sum: 2c94dd8655ae3eb512e7ae73e88ead81
+SHA1: f7adf5c55806ac3112917d1f3c88afbca52a6b33
+SHA256: 86c4ccc2f7328a9d538b91a354d2c02c82691e7e89efa2c3eaf284347671fb3f
+SHA512: 7bd291f2ef4a0c1c3fdd7bfd246b8cc0a7cabe56bf0fda6798ad6ce1b4da1aa9b239c97f95cc6ddc59a4c104bf7462175bd5d913a348435b773d442ad4e3a4d3
 Homepage: http://loongnix.cn
 Description: Loongson Architecture Translator
  Static binary for Loongson Architecture Translator
@@ -3530,18 +3530,18 @@ Description: 自定义主题（内包含 壁纸、光标、字体）
 
 Package: com.uniontech.theme.infinitecontrol
 Architecture: all
-Version: 1.0.1
+Version: 1.0.2
 Priority: optional
 Section: admin
 Maintainer: username <username@uniontech.com>
 Installed-Size: 5374
 Depends: deepin-elf-verify (>= 1.1.10-1),deepin-icon-theme
-Filename: themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.1_all.deb
-Size: 3311680
-MD5sum: cfa3adc6eb2aed5452c404481ad6756b
-SHA1: e64c3099fc035d506f52326c3012d7300db680e9
-SHA256: 57aeb033ee362fad59a435e1770b83c4cf279c494e475dacb8ba79116497d9ec
-SHA512: 91db41106b325a264c7e07a223e8acd2e3f0b9017479a4946928e238a8155ade47a139cd7cd54a993984adc369ecf0c538de8251dd73505e250bbe0dbf3dbb32
+Filename: themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.2_all.deb
+Size: 3314412
+MD5sum: ec3681e26c1dc7a3278cd5c028c0f7c6
+SHA1: cb7d126d3211681a8b0d9a65d43769896093333e
+SHA256: 305f19d4b546bbfe9cc40656ca9783a29466c83c62454bc2e8fe1f232152ebf6
+SHA512: 414ffda2b715587667f58a13e4fb2ba4d2587eabfb303466672153ca94de8e1c86f46ee58691ffad826a229dd0ea44572c853f8c325b6fb316457171df96eef6
 Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
 
 Package: uos-home-icon
@@ -8144,22 +8144,19 @@ Description: The web browser from qianxin.com
 
 Package: io.github.msojocs.bilibili
 Architecture: loong64
-Version: 1.13.2.3296.1-continuous
+Version: 1.13.5-2
 Priority: optional
 Section: application
 Maintainer: msojocs
-Installed-Size: 276272
-Depends: liblol, liblol-dkms
-Filename: video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.13.2.3296.1-continuous_loong64.deb
-Size: 101614324
-MD5sum: 02c7bc815a937aaaf590a0bfea7e57c7
-SHA1: 8c157e1aa542d7177e23fdc00146aa38b42185da
-SHA256: ea6e1b995251fedb8a2ce5ebfaad1a7939b0da9640a0c44a78a87ecf8e6f40d2
-SHA512: 6091ce577acdc657b0957a6fcdfabf721155452b05e5312cc9e2acc712fa750f3fee9d3495b00bb1d3a393c6312593d761bddae8a67c67bfd47b58e9d016dfd6
+Installed-Size: 361515
+Filename: video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.13.5-2_loong64.deb
+Size: 80789644
+MD5sum: 34650adbc728adef00ac5d75ee54c250
+SHA1: 81e5eb6e9607c709eea28402d82eab2e2b2d107c
+SHA256: 18d3cbb54633157e7647131ed0d6b152c0e743216c7534b077ba7f83d7ed78de
+SHA512: 4dd05a3a5357cbe4b39f92c854539977c4a74cf71a48130f917c8f7e5e142b82a3fcd311572f8b85bb04b05c0c34372ef6bdef9726c8b34dbd8da903bceaec3a
 Description: BiliBili For Linux.
   BiliBili For Linux. This version is unofficial.
- .
- (Repackaged on Wed, 08 May 2024 22:46:34 +0800 by dpkg-repack.)
 
 Package: org.openshot.spark
 Architecture: all
@@ -8739,19 +8736,19 @@ Description: 钉钉
 
 Package: linuxqq
 Architecture: loong64
-Version: 3.2.8-23873
+Version: 3.2.9-24402
 Priority: optional
 Section: default
 Maintainer: Tencent <QQ-Team@tencent.com>
-Installed-Size: 565177
+Installed-Size: 564596
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, liblol,liblol-dkms
 Recommends: libappindicator3-1
-Filename: chat/linuxqq/linuxqq_3.2.8-23873_loong64.deb
-Size: 143692240
-MD5sum: 572f3d6f4a18fa2733406ab89037f39e
-SHA1: 3b0c0e5dc895937e842f0379df47c4babd5e4290
-SHA256: cdc275fd3ceb9eb32bb49d4e9fbd9f60e344ddc03d8ebaafc231c48125bf9fff
-SHA512: d5d87c98a56ca4776ed5892160fad0b6f2693d36f8aa64a9a9acf7ee105c0777bdcb379fde9bb7fe31d09107530980c43b7117216e8c8944fca93302b25a8327
+Filename: chat/linuxqq/linuxqq_3.2.9-24402_loong64.deb
+Size: 138775298
+MD5sum: 1e22a81fcd22f6a149af6f5410e910cb
+SHA1: 4f5d653defd9df9013be46faa00a0491521e922f
+SHA256: 7c9729df06c80769c7a09f32d2574a0c002b95c5765297a18fb8a27fbbd82b46
+SHA512: a814fbb52ccd9a5127c91727914d4dee7415077586159595e9ea1c8a85c3252615c5feb6bdce6bb78a4105b307f10c0ce72078f5cf86a1532d6711f5fda37852
 Homepage: https://im.qq.com
 Description: 
   QQ

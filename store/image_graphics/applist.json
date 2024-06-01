@@ -684,20 +684,6 @@
 }
 ,
 {
-   "Name":"Pinta",
-   "Version":"1.7",
-   "Filename":"pinta_1.7-0ppa1_bionic1_all.deb",
-   "Pkgname":"pinta",
-   "Author":" ",
-   "Contributor":"sgb76",
-   "Website":"https://www.pinta-project.com/",
-   "Update":"2020-08-10 18:37",
-   "Size":"763.28KB",
-   "More":"Pinta是一个免费的开源程序，用于绘图和图像编辑。"
-}
-
-,
-{
     "Name": "中望 CAD 2024",
     "Version": "24.1.3.4",
     "Filename": "com.zwsoft.zwcad2024_24.1.3.4_amd64.deb",
@@ -713,6 +699,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/ed9410e050b3420caac2b48416ac7289.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/85abd1a315da49a288f5e5eac03b8800.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/57b1d030976a43cd8352d9ddfbc30e21.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/5c52e8a1e7614ee1bfb09d30a72bbdde.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/e066af2fbca448f798addb73322fc051.png"
 }
+,
+{
+   "Name":"Pinta",
+   "Version":"1.7",
+   "Filename":"pinta_1.7-0ppa1_bionic1_all.deb",
+   "Pkgname":"pinta",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://www.pinta-project.com/",
+   "Update":"2020-08-10 18:37",
+   "Size":"763.28KB",
+   "More":"Pinta是一个免费的开源程序，用于绘图和图像编辑。"
+}
+
 ,
 {
     "Name": "Pointofix屏幕画笔（wine）",
@@ -2320,6 +2320,23 @@
     "Tags": "deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/20/6d1947a0-12a1-11eb-8ad0-ed5f0c963e63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/20/6f9ae970-12a1-11eb-8ad0-ed5f0c963e63.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/20/575ba2f0-12a1-11eb-8ad0-ed5f0c963e63.png"
+}
+,
+{
+    "Name": "图片浏览器 - 你的浏览大法器",
+    "Version": "0.4-20240531",
+    "Filename": "z-tools-imagesbrowser_0.4-20240531_amd64.deb",
+    "Torrent_address": "z-tools-imagesbrowser_0.4-20240531_amd64.deb.torrent",
+    "Pkgname": "z-tools-imagesbrowser",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/z-tools/tree/imagebrowser-dev",
+    "Update": "2024-05-31 15:59:40",
+    "Size": "65.71 KB",
+    "More": "图片浏览器可以用来浏览指定目录下及子目录下所有 jpg, png, svg 图片。\n\n如何使用它：\n1. 图片数数量太多在你找不到某张图片时，你可以提供大概所在目录，然后慢慢浏览可能存在的图片。\n2. 如果目录太多，不知道哪里有图片时，它可以为你遍历目录文件来列出所有图片文件。\n3. 找到图片时，如果图片很大，你可以使用鼠标放大+拖动来查看你想预览的部分，并且还可以复制图片数据，或直接打开所在目录。\n\n嗯？电脑上没几张图片，可以尝试使用图片吸收器哦(一分吸百图)~\n           spk://store/image_graphics/image-absorber\n .\n Build for Uos20 through spark-deb-build.",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/1b39d2456bab49cebb748925b77a64c3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/c8b5ba7d579949c6adaa151574b39f0a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/b72c02f3939a4e42822eededfa55d4d7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/72224845fa46450488d1fc1fb691e135.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/31/c5ceb84925a84d4ab3e9c0aab88a89a5.png"
 }
 ,
 {

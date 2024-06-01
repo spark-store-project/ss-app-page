@@ -409,6 +409,22 @@
 
 ,
 {
+    "Name": "7-zip",
+    "Version": "15.14deepin2",
+    "Filename": "deepin.org.7-zip_15.14deepin2_i386.deb",
+    "Pkgname": "deepin.org.7-zip",
+    "Author": "kite",
+    "Contributor": "kite",
+    "Website": "http://www.7-zip.org/",
+    "Update": "2021-06-12 08:46:54",
+    "Size": "3.74 MB",
+    "More": "deepin-wine的7-zip15.14",
+    "Tags": "deepin;dwine2",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/12/6e85c940-cb17-11eb-b6d8-29c99db1d378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/12/6e9cd3b0-cb17-11eb-b6d8-29c99db1d378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/12/6ec4f520-cb17-11eb-b6d8-29c99db1d378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/12/6eb39000-cb17-11eb-b6d8-29c99db1d378.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/12/ac3a2470-cb17-11eb-b6d8-29c99db1d378.png"
+}
+,
+{
     "Name": "希沃白板5 Wine",
     "Version": "5.2.2.6111+1",
     "Filename": "com.seewo.easinote.spark_5.2.2.6111_plus1_i386.deb",
@@ -423,22 +439,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/c7152eab761b4f3ab02531364474b298.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/6a1156d792e04f4c8abf93699303b157.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/31/f34d99f873014d29b9993aca15de69b4.png"
-}
-,
-{
-    "Name": "7-zip",
-    "Version": "15.14deepin2",
-    "Filename": "deepin.org.7-zip_15.14deepin2_i386.deb",
-    "Pkgname": "deepin.org.7-zip",
-    "Author": "kite",
-    "Contributor": "kite",
-    "Website": "http://www.7-zip.org/",
-    "Update": "2021-06-12 08:46:54",
-    "Size": "3.74 MB",
-    "More": "deepin-wine的7-zip15.14",
-    "Tags": "deepin;dwine2",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/12/6e85c940-cb17-11eb-b6d8-29c99db1d378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/12/6e9cd3b0-cb17-11eb-b6d8-29c99db1d378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/12/6ec4f520-cb17-11eb-b6d8-29c99db1d378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/12/6eb39000-cb17-11eb-b6d8-29c99db1d378.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/12/ac3a2470-cb17-11eb-b6d8-29c99db1d378.png"
 }
 ,
 {
@@ -738,23 +738,6 @@
 }
 ,
 {
-    "Name": "Geogebra Classic 6",
-    "Version": "6.0.666.0-202109211234",
-    "Filename": "geogebra-classic_6.0.666.0-202109211234_amd64.deb",
-    "Torrent_address": "geogebra-classic_6.0.666.0-202109211234_amd64.deb.torrent",
-    "Pkgname": "geogebra-classic",
-    "Author": "International GeoGebra Institute <office@geogebra.org>",
-    "Contributor": "老於",
-    "Website": "http://www.geogebra.org/",
-    "Update": "2023-01-20 12:07:24",
-    "Size": "66.23 MB",
-    "More": "GeoGebra 是适用于所有教育阶段的动态数学软件, 它将几何、代数、表格、图形、统计和微积分汇集在一个易于使用的软件包中. GeoGebra 是一个快速扩展的社区, 拥有数以百万计的用户, 分布在几乎每个国家. GeoGebra 已成为全球领先的动态数学软件提供商, 支持科学、技术、工程和数学 (STEM) 教育以及教学和学习创新.",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/20428fa065fa46b18827d816b9a52004.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/e30b32bff60047839cbd102d0166e5a8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/84ad4687c3404358b17a5881a237069b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/20/cd96ac2bfd5840008355dd6c4f17eb64.png"
-}
-,
-{
     "Name": "印象笔记（wine）",
     "Version": "7.2.6.8111spark3",
     "Filename": "com.evernote.spark_7.2.6.8111spark3_all.deb",
@@ -769,6 +752,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/1ca6e20a28bb4d3bb24a16a66ffe902b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/cfd6e984ed1f43fca3ff3cbe154c4844.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/f5ce425011b04b9abad3b85864606163.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/98a67e35aa094976ab562b631e1bde3a.png"
+}
+,
+{
+    "Name": "Geogebra Classic 6",
+    "Version": "6.0.666.0-202109211234",
+    "Filename": "geogebra-classic_6.0.666.0-202109211234_amd64.deb",
+    "Torrent_address": "geogebra-classic_6.0.666.0-202109211234_amd64.deb.torrent",
+    "Pkgname": "geogebra-classic",
+    "Author": "International GeoGebra Institute <office@geogebra.org>",
+    "Contributor": "老於",
+    "Website": "http://www.geogebra.org/",
+    "Update": "2023-01-20 12:07:24",
+    "Size": "66.23 MB",
+    "More": "GeoGebra 是适用于所有教育阶段的动态数学软件, 它将几何、代数、表格、图形、统计和微积分汇集在一个易于使用的软件包中. GeoGebra 是一个快速扩展的社区, 拥有数以百万计的用户, 分布在几乎每个国家. GeoGebra 已成为全球领先的动态数学软件提供商, 支持科学、技术、工程和数学 (STEM) 教育以及教学和学习创新.",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/20428fa065fa46b18827d816b9a52004.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/e30b32bff60047839cbd102d0166e5a8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/84ad4687c3404358b17a5881a237069b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/20/cd96ac2bfd5840008355dd6c4f17eb64.png"
 }
 ,
 {
@@ -977,6 +977,23 @@
 }
 ,
 {
+    "Name": "浙政钉（wine）",
+    "Version": "2.15.0-Release.4spark1",
+    "Filename": "com.dingtalkzjgov.deepin_2.15.0-Release.4spark1_all.deb",
+    "Torrent_address": "com.dingtalkzjgov.deepin_2.15.0-Release.4spark1_all.deb.torrent",
+    "Pkgname": "com.dingtalkzjgov.deepin",
+    "Author": "shenmo",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://pjep.cn/kaifa/188.html",
+    "Update": "2023-08-16 14:13:47",
+    "Size": "267.42 MB",
+    "More": "基于deepin-wine6的浙政钉PC端安装包，按照deepin的官方打包方式完成，deepinV20社区版测试通过。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/16/c77837b3f7de4b99b691efccfc2fbe50.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/16/dd3a0afacdc94331b02994a9e5723245.png"
+}
+,
+{
     "Name": "桌面",
     "Version": "5.8.0-1",
     "Filename": "xpad_5.8.0-1_amd64.deb",
@@ -1008,23 +1025,6 @@
     "Tags": "deepin;dtk5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/07/f3a003454a7d4a81a9612927221dd3ff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/07/12dc5876c3d24d6b864854e2833e5ded.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/07/436804a9a52c4de4a3ad4d579b5547f9.png"
-}
-,
-{
-    "Name": "浙政钉（wine）",
-    "Version": "2.15.0-Release.4spark1",
-    "Filename": "com.dingtalkzjgov.deepin_2.15.0-Release.4spark1_all.deb",
-    "Torrent_address": "com.dingtalkzjgov.deepin_2.15.0-Release.4spark1_all.deb.torrent",
-    "Pkgname": "com.dingtalkzjgov.deepin",
-    "Author": "shenmo",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://pjep.cn/kaifa/188.html",
-    "Update": "2023-08-16 14:13:47",
-    "Size": "267.42 MB",
-    "More": "基于deepin-wine6的浙政钉PC端安装包，按照deepin的官方打包方式完成，deepinV20社区版测试通过。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/16/c77837b3f7de4b99b691efccfc2fbe50.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/16/dd3a0afacdc94331b02994a9e5723245.png"
 }
 ,
 {
@@ -1417,6 +1417,22 @@
 }
 ,
 {
+    "Name": "语雀（web）",
+    "Version": "1.0spark0",
+    "Filename": "web-yuque_1.0spark0_amd64.deb",
+    "Pkgname": "web-yuque",
+    "Author": "阿里支付宝",
+    "Contributor": "sgb76",
+    "Website": "https://www.yuque.com/",
+    "Update": "2020-11-25 15:20:51",
+    "Size": "16.29 KB",
+    "More": "专业的云端知识库，面向个人和团队，提供与众不同的知识管理，打造轻松流畅的工作协同。已知问题：打开应用后无法输入中文。临时解决办法：应用内出现输入框界面后，可以先随意打开一个别的应用（比如文件管理器）窗口再关闭，然后就可以正常输入中文了。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/93e4cb00-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/988973e0-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/9c54d3c0-2f31-11eb-afff-ebd060f2ab0f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/25/86050130-2f31-11eb-afff-ebd060f2ab0f.png"
+}
+,
+{
     "Name": "PDFsam Basic",
     "Version": "5.2.0-1",
     "Filename": "pdfsam-basic_5.2.0-1_all.deb",
@@ -1431,22 +1447,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/4d116650b3a34d50a2f7a33e8dd41479.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/a327e6c7c7b549328f1e0da8e713aef0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/39b2e53f7e5d431c95ef4c95a92a38c0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/59ea48faaae04c7a9ad37d977d395a1c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/07/631f465473f1472fbb934eb7ed709f8c.png"
-}
-,
-{
-    "Name": "语雀（web）",
-    "Version": "1.0spark0",
-    "Filename": "web-yuque_1.0spark0_amd64.deb",
-    "Pkgname": "web-yuque",
-    "Author": "阿里支付宝",
-    "Contributor": "sgb76",
-    "Website": "https://www.yuque.com/",
-    "Update": "2020-11-25 15:20:51",
-    "Size": "16.29 KB",
-    "More": "专业的云端知识库，面向个人和团队，提供与众不同的知识管理，打造轻松流畅的工作协同。已知问题：打开应用后无法输入中文。临时解决办法：应用内出现输入框界面后，可以先随意打开一个别的应用（比如文件管理器）窗口再关闭，然后就可以正常输入中文了。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/93e4cb00-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/988973e0-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/9c54d3c0-2f31-11eb-afff-ebd060f2ab0f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/25/86050130-2f31-11eb-afff-ebd060f2ab0f.png"
 }
 ,
 {
@@ -1916,23 +1916,6 @@
 }
 ,
 {
-    "Name": "Mybase Desktop",
-    "Version": "8.2.12",
-    "Filename": "mybase-desktop_8.2.12_amd64.deb",
-    "Torrent_address": "mybase-desktop_8.2.12_amd64.deb.torrent",
-    "Pkgname": "mybase-desktop",
-    "Author": "Wjj Software",
-    "Contributor": "sgb76",
-    "Website": "http://www.wjjsoft.com/",
-    "Update": "2023-03-05 00:17:51",
-    "Size": "31.08 MB",
-    "More": "Mybase Desktop 是一款用于分类存储管理任意格式资料的小型个人数据库软件， 有助于个人用户在（Linux/MacOSX/Windows）桌面电脑系统上实施文档、知识、笔记、日记、图片和网页的分类存储和管理。 借助软件提供的各项功能，创建和维护一个专属于自己的个人知识库将变的相对简单快捷。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/bde7b59ec4ed427e9c34965abb8d195d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/e73baafc652d4e338659f9a209098b46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/83abe4ad8dce46b381761e7675ffd970.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/05/b762b706ebe14202b1294ebaac15471c.png"
-}
-,
-{
     "Name": "蓝信",
     "Version": "7.33.32spark0",
     "Filename": "org.lanxin.spark_7.33.32spark0_amd64.deb",
@@ -1947,6 +1930,23 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/efef5f10-e96a-11ec-a40a-313790704626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/effdde00-e96a-11ec-a40a-313790704626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/f0120240-e96a-11ec-a40a-313790704626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/f0256330-e96a-11ec-a40a-313790704626.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/11/eaec6990-e96a-11ec-a40a-313790704626.png"
+}
+,
+{
+    "Name": "Mybase Desktop",
+    "Version": "8.2.12",
+    "Filename": "mybase-desktop_8.2.12_amd64.deb",
+    "Torrent_address": "mybase-desktop_8.2.12_amd64.deb.torrent",
+    "Pkgname": "mybase-desktop",
+    "Author": "Wjj Software",
+    "Contributor": "sgb76",
+    "Website": "http://www.wjjsoft.com/",
+    "Update": "2023-03-05 00:17:51",
+    "Size": "31.08 MB",
+    "More": "Mybase Desktop 是一款用于分类存储管理任意格式资料的小型个人数据库软件， 有助于个人用户在（Linux/MacOSX/Windows）桌面电脑系统上实施文档、知识、笔记、日记、图片和网页的分类存储和管理。 借助软件提供的各项功能，创建和维护一个专属于自己的个人知识库将变的相对简单快捷。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/bde7b59ec4ed427e9c34965abb8d195d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/e73baafc652d4e338659f9a209098b46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/83abe4ad8dce46b381761e7675ffd970.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/05/b762b706ebe14202b1294ebaac15471c.png"
 }
 ,
 {
@@ -2049,23 +2049,6 @@
 }
 ,
 {
-    "Name": "网龙 Office",
-    "Version": "1.0.20.837.23ZH",
-    "Filename": "com.netchina.ndoffice-stable_1.0.20.837.23ZH_amd64.deb",
-    "Torrent_address": "com.netchina.ndoffice-stable_1.0.20.837.23ZH_amd64.deb.torrent",
-    "Pkgname": "com.netchina.ndoffice-stable",
-    "Author": "NetChina <support@nd.com.cn>",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "office.99.com",
-    "Update": "2022-12-28 21:44:03",
-    "Size": "187.56 MB",
-    "More": "网龙Office是一个包含文字、展示和表格处理的强大的办公软件产品，支持多种文件数据格式，可以轻松地存取或创建这些格式文档。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/c065ef417e9a48c7a0d0432e57adaae9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/9b6150ae6c6f495b90e4ffd702507e6e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/173dc842891d40e1923650f7243372be.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/98a23252259f4ac9bd54c8b683fab157.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/28/14d3ea26f054466db35c3eb9bf3f0318.png"
-}
-,
-{
     "Name": "CCtalk",
     "Version": "7.10.6.5spark0",
     "Filename": "com.cctalk.spark_7.10.6.5spark0_amd64.deb",
@@ -2080,6 +2063,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/23/603cb6861c574b84b5be38dab5985774.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/23/451bf374c0d545d4bd111f915642cda6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/23/3ad811f8e10a4da8a91705e3fcfc38bc.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/23/ba0e010ddba447659cd18d91e969d936.png"
+}
+,
+{
+    "Name": "网龙 Office",
+    "Version": "1.0.20.837.23ZH",
+    "Filename": "com.netchina.ndoffice-stable_1.0.20.837.23ZH_amd64.deb",
+    "Torrent_address": "com.netchina.ndoffice-stable_1.0.20.837.23ZH_amd64.deb.torrent",
+    "Pkgname": "com.netchina.ndoffice-stable",
+    "Author": "NetChina <support@nd.com.cn>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "office.99.com",
+    "Update": "2022-12-28 21:44:03",
+    "Size": "187.56 MB",
+    "More": "网龙Office是一个包含文字、展示和表格处理的强大的办公软件产品，支持多种文件数据格式，可以轻松地存取或创建这些格式文档。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/c065ef417e9a48c7a0d0432e57adaae9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/9b6150ae6c6f495b90e4ffd702507e6e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/173dc842891d40e1923650f7243372be.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/98a23252259f4ac9bd54c8b683fab157.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/28/14d3ea26f054466db35c3eb9bf3f0318.png"
 }
 ,
 {
@@ -2688,6 +2688,23 @@
 }
 ,
 {
+    "Name": "搜狗输入法UOS版语言数据包",
+    "Version": "1.0.0",
+    "Filename": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb",
+    "Torrent_address": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb.torrent",
+    "Pkgname": "com.sogou.sogoupinyin-uos-sogouvoice",
+    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://pinyin.sogou.com/linux",
+    "Update": "2023-05-20 22:09:03",
+    "Size": "878.22 MB",
+    "More": "搜狗输入法UOS版使用语音功能，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一。",
+    "Tags": "uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/442ae1d904d449249264283f3df7cd1f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/dbc5adabad134395874f57c34aa9ffe2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/3043006c16644596818679607634c83c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/8da17b09e48d4450b3a4000646d53d31.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/bd8e4b080a744d7da23846b40f5af8d4.png"
+}
+,
+{
     "Name": "电子档案管理系统",
     "Version": "2022.10.18-7",
     "Filename": "com.hsl.amis_2022.10.18-7_amd64.deb",
@@ -2751,23 +2768,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/20/c0609ca0-5af0-11eb-bdea-55bdbb71dafd.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/20/ab8d7f00-5af0-11eb-bdea-55bdbb71dafd.png"
-}
-,
-{
-    "Name": "搜狗输入法UOS版语言数据包",
-    "Version": "1.0.0",
-    "Filename": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb",
-    "Torrent_address": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb.torrent",
-    "Pkgname": "com.sogou.sogoupinyin-uos-sogouvoice",
-    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://pinyin.sogou.com/linux",
-    "Update": "2023-05-20 22:09:03",
-    "Size": "878.22 MB",
-    "More": "搜狗输入法UOS版使用语音功能，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一。",
-    "Tags": "uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/442ae1d904d449249264283f3df7cd1f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/dbc5adabad134395874f57c34aa9ffe2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/3043006c16644596818679607634c83c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/8da17b09e48d4450b3a4000646d53d31.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/bd8e4b080a744d7da23846b40f5af8d4.png"
 }
 ,
 {
@@ -3537,6 +3537,22 @@
 }
 ,
 {
+    "Name": "堆塔思维（wine）",
+    "Version": "1.3.0spark0",
+    "Filename": "com.duitasiwei.spark_1.3.0spark0_amd64.deb",
+    "Pkgname": "com.duitasiwei.spark",
+    "Author": "北京堆塔科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "http://www.duitasiwei.com/index.html",
+    "Update": "2021-07-11 22:01:14",
+    "Size": "206.3 MB",
+    "More": "堆塔思维，以思维导图为核心，整合了PDF阅读、Web阅读、知识卡片记忆等功能，帮助您高效利用日常阅读笔记，有序构建知识和想法，持续完善个人知识体系\n\n注：Ubuntu KDE桌面环境下也可正常运行，但Gnome桌面环境下无法通过启动器图标运行",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/11/26cca920-e250-11eb-ba37-2f35e065e2b4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/11/2bc9f950-e250-11eb-ba37-2f35e065e2b4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/11/305e0060-e250-11eb-ba37-2f35e065e2b4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/11/1c7828f0-e250-11eb-ba37-2f35e065e2b4.png"
+}
+,
+{
     "Name": "想学吗",
     "Version": "6.4.9",
     "Filename": "xiangxuema.spark_6.4.9_amd64.deb",
@@ -3566,22 +3582,6 @@
     "Tags": "deepin;ubuntu;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/31/498a6730-91d9-11eb-8808-e540b73fdebb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/31/4eb09c20-91d9-11eb-8808-e540b73fdebb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/31/548dec10-91d9-11eb-8808-e540b73fdebb.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/31/451ecfb0-91d9-11eb-8808-e540b73fdebb.png"
-}
-,
-{
-    "Name": "堆塔思维（wine）",
-    "Version": "1.3.0spark0",
-    "Filename": "com.duitasiwei.spark_1.3.0spark0_amd64.deb",
-    "Pkgname": "com.duitasiwei.spark",
-    "Author": "北京堆塔科技有限公司",
-    "Contributor": "sgb76",
-    "Website": "http://www.duitasiwei.com/index.html",
-    "Update": "2021-07-11 22:01:14",
-    "Size": "206.3 MB",
-    "More": "堆塔思维，以思维导图为核心，整合了PDF阅读、Web阅读、知识卡片记忆等功能，帮助您高效利用日常阅读笔记，有序构建知识和想法，持续完善个人知识体系\n\n注：Ubuntu KDE桌面环境下也可正常运行，但Gnome桌面环境下无法通过启动器图标运行",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/11/26cca920-e250-11eb-ba37-2f35e065e2b4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/11/2bc9f950-e250-11eb-ba37-2f35e065e2b4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/11/305e0060-e250-11eb-ba37-2f35e065e2b4.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/11/1c7828f0-e250-11eb-ba37-2f35e065e2b4.png"
 }
 ,
 {

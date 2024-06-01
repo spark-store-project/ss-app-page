@@ -806,23 +806,6 @@
 }
 ,
 {
-    "Name": "豌豆荚（UEngine）",
-    "Version": "8.2.0.1",
-    "Filename": "uengine-dc-com.wandoujia.phoenix2_8.2.0.1_all.deb",
-    "Torrent_address": "uengine-dc-com.wandoujia.phoenix2_8.2.0.1_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.wandoujia.phoenix2",
-    "Author": "豌豆荚",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://www.wandoujia.com/",
-    "Update": "2023-01-17 17:39:30",
-    "Size": "34.39 MB",
-    "More": "使用前请使用 uengine运行器打开\n\n设置---》安全---》未知来源",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/ec2010ba18e14327a0afbd574bbb7637.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/e4653284d1434328a6acfe33c0476483.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/726b6630c52649b8ad98c9f174cc1048.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/405b3c0c71ce47a4b5d43017ddb654a1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/e8292bae7642433490f74a51cc5c77f6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/17/b8090e5ec61d4703b2236b1cc7e2491e.png"
-}
-,
-{
     "Name": "WIFI热点",
     "Version": "4.5.0",
     "Filename": "linux-wifi-hotspot_4.5.0_amd64.deb",
@@ -837,6 +820,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/21/9696ea8ff5594c6ab8bca13f5c70badf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/21/a30efa547fe647c6a1ec9f63d5f192ab.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/21/b386e66dfe804fa29f2157f360c712ba.png"
+}
+,
+{
+    "Name": "豌豆荚（UEngine）",
+    "Version": "8.2.0.1",
+    "Filename": "uengine-dc-com.wandoujia.phoenix2_8.2.0.1_all.deb",
+    "Torrent_address": "uengine-dc-com.wandoujia.phoenix2_8.2.0.1_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.wandoujia.phoenix2",
+    "Author": "豌豆荚",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://www.wandoujia.com/",
+    "Update": "2023-01-17 17:39:30",
+    "Size": "34.39 MB",
+    "More": "使用前请使用 uengine运行器打开\n\n设置---》安全---》未知来源",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/ec2010ba18e14327a0afbd574bbb7637.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/e4653284d1434328a6acfe33c0476483.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/726b6630c52649b8ad98c9f174cc1048.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/405b3c0c71ce47a4b5d43017ddb654a1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/e8292bae7642433490f74a51cc5c77f6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/17/b8090e5ec61d4703b2236b1cc7e2491e.png"
 }
 ,
 {
@@ -1146,23 +1146,6 @@
 }
 ,
 {
-    "Name": "Timeshift",
-    "Version": "22.06.1",
-    "Filename": "timeshift_22.06.1_amd64.deb",
-    "Torrent_address": "timeshift_22.06.1_amd64.deb.torrent",
-    "Pkgname": "timeshift",
-    "Author": "Tony George <teejeetech@gmail.com>",
-    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
-    "Website": "https://teejeetech.in/",
-    "Update": "2022-10-15 10:53:18",
-    "Size": "651 KB",
-    "More": "Timeshift是一款Linux系统备份恢复工具。通过使用 rsync + 硬链接方式或 BTRFS 快照创建系统备份。支持定时备份，多重备份等级以及过滤文件。备份可以在系统运行时恢复，或者通过Live环境（CD/USB等介质）恢复。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/c95594c2-56e3-4a54-bef9-0bd53c2a5178.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/70f06e52-5158-4575-8a25-3f8c0bf8c1fe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/55ad1706-0b24-45b6-aaa2-7c2c2646a954.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/15/1c119540-cda2-4687-9f2a-7582897cb712.png"
-}
-,
-{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "uos-packaging-tools_1.2.1_all.deb",
@@ -1179,6 +1162,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_2.png\"]"
 }
 
+,
+{
+    "Name": "Timeshift",
+    "Version": "22.06.1",
+    "Filename": "timeshift_22.06.1_amd64.deb",
+    "Torrent_address": "timeshift_22.06.1_amd64.deb.torrent",
+    "Pkgname": "timeshift",
+    "Author": "Tony George <teejeetech@gmail.com>",
+    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
+    "Website": "https://teejeetech.in/",
+    "Update": "2022-10-15 10:53:18",
+    "Size": "651 KB",
+    "More": "Timeshift是一款Linux系统备份恢复工具。通过使用 rsync + 硬链接方式或 BTRFS 快照创建系统备份。支持定时备份，多重备份等级以及过滤文件。备份可以在系统运行时恢复，或者通过Live环境（CD/USB等介质）恢复。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/c95594c2-56e3-4a54-bef9-0bd53c2a5178.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/70f06e52-5158-4575-8a25-3f8c0bf8c1fe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/55ad1706-0b24-45b6-aaa2-7c2c2646a954.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/15/1c119540-cda2-4687-9f2a-7582897cb712.png"
+}
 ,
 {
     "Name": "NxShell",
@@ -1377,23 +1377,6 @@
 }
 ,
 {
-    "Name": "WinRAR",
-    "Version": "7.00spark0",
-    "Filename": "com.rarlab.winrar.spark_7.00spark0_all.deb",
-    "Torrent_address": "com.rarlab.winrar.spark_7.00spark0_all.deb.torrent",
-    "Pkgname": "com.rarlab.winrar.spark",
-    "Author": "Alexander Roshal",
-    "Contributor": "sgb76",
-    "Website": "https://www.rarlab.com/",
-    "Update": "2023-12-09 20:42:47",
-    "Size": "16.34 MB",
-    "More": "一款功能强大的压缩包管理器，可以解开 CAB、ARJ、LZH、TAR、GZ、ACE、UUE、BZ2、JAR、ISO、Z 和 7Z 等多种类型的档案文件、镜像文件和TAR 组合型文件\n \n--说明--\ndeepin下可以通过右键菜单选择WinRAR打开支持的压缩文件",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/4aa9b8c1520244c6887da7417380f2d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/2f79116ffa7a49429dc9130fa42fd19b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/2f048e1bb3a1431ab99152b2d0b6023d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/09/a015fc0e07f84f00aefd5ee775f78d04.png"
-}
-,
-{
     "Author": "ziggy <luzijie@uniontech.com>",
     "Contributor": "shenmo <shenmo@spark-app.store>",
     "Filename": "org.remmina.dcm_1.4.11_all.deb",
@@ -1410,6 +1393,23 @@
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/org.remmina/screen_1.png\"]"
 }
 
+,
+{
+    "Name": "WinRAR",
+    "Version": "7.00spark0",
+    "Filename": "com.rarlab.winrar.spark_7.00spark0_all.deb",
+    "Torrent_address": "com.rarlab.winrar.spark_7.00spark0_all.deb.torrent",
+    "Pkgname": "com.rarlab.winrar.spark",
+    "Author": "Alexander Roshal",
+    "Contributor": "sgb76",
+    "Website": "https://www.rarlab.com/",
+    "Update": "2023-12-09 20:42:47",
+    "Size": "16.34 MB",
+    "More": "一款功能强大的压缩包管理器，可以解开 CAB、ARJ、LZH、TAR、GZ、ACE、UUE、BZ2、JAR、ISO、Z 和 7Z 等多种类型的档案文件、镜像文件和TAR 组合型文件\n \n--说明--\ndeepin下可以通过右键菜单选择WinRAR打开支持的压缩文件",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/4aa9b8c1520244c6887da7417380f2d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/2f79116ffa7a49429dc9130fa42fd19b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/2f048e1bb3a1431ab99152b2d0b6023d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/09/a015fc0e07f84f00aefd5ee775f78d04.png"
+}
 ,
 {
    "Name":"海天鹰文件管理器",
@@ -2212,6 +2212,24 @@
 }
 ,
 {
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-dwine-helper_5.6.4.1-5.3.14_all.deb",
+    "More": "添加：应用启动提示",
+    "Name": "星火Wine应用启动器",
+    "Pkgname": "spark-dwine-helper",
+    "Size": "277 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "spark-dwine-helper_5.6.4.1-5.3.14_all.deb.torrent",
+    "Update": "2024-05-28 22:00:24",
+    "Version": "5.6.4.1-5.3.14",
+    "Website": "https://gitee.com/deepin-community-store/spark-wine",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/screen_1.png\"]"
+}
+
+,
+{
     "Name": "Bitwarden密码管理",
     "Version": "2022.9.1",
     "Filename": "bitwarden-spark_2022.9.1_amd64.deb",
@@ -2261,24 +2279,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/18/6f3e04d0c7914ba8b3a5abc27cb33cd2.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/18/c2bc3611b3214afb9d009d600dadd495.png"
 }
-,
-{
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "spark-dwine-helper_5.6.4.1-5.3.14_all.deb",
-    "More": "添加：应用启动提示",
-    "Name": "星火Wine应用启动器",
-    "Pkgname": "spark-dwine-helper",
-    "Size": "277 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "spark-dwine-helper_5.6.4.1-5.3.14_all.deb.torrent",
-    "Update": "2024-05-28 22:00:24",
-    "Version": "5.6.4.1-5.3.14",
-    "Website": "https://gitee.com/deepin-community-store/spark-wine",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/screen_1.png\"]"
-}
-
 ,
 {
    "Name":"一键息屏 one key shut screen",
@@ -2362,6 +2362,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/e43dbd0abad64a4faa26574856dcda6c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/2c9e507c3cda48b6ab111952abc7ec68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/7943153a735e4bf3b3e9997737b491b5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/24/470b6c14ac7443f2bb88d91b513ff728.png"
+}
+,
+{
+    "Name": "系统传感器显示工具",
+    "Version": "1.2-20240429",
+    "Filename": "simple-sensor-monitor_1.2-20240429_amd64.deb",
+    "Torrent_address": "simple-sensor-monitor_1.2-20240429_amd64.deb.torrent",
+    "Pkgname": "simple-sensor-monitor",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/qt.mini-sensor-icon",
+    "Update": "2024-04-29 10:10:13",
+    "Size": "584.35 KB",
+    "More": "在配置面板填写 sensors -u 提供的 adapter适配器与 sensor 即可显示数据。 \n\nv1.0: 可显示温度(°C) 电压(V) 电流(A) 功耗(W) 等类型\nv1.1: 可设置刷新间隔，完善线程化的工作流模式\nv1.2: 左侧支持风扇与电图标\n\n风扇在 1000 RPM 时最低，3000 RPM 以上时很暴躁，所以以这个区间为准",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/80baba1166574aeda4311851af8db563.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a8b3f2a04b1f4ba78ed78e174beea988.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a55a9b6db67f4dd0a2989787d3225506.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/caad566997094294bf3e840cc29eb129.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/3f3c5ec56f2d43698b1019ab4b59f26c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/29/4ac0b574bd524ef0bc1865df9346fd05.png"
 }
 ,
 {
@@ -2465,23 +2482,6 @@
 }
 ,
 {
-    "Name": "系统传感器显示工具",
-    "Version": "1.2-20240429",
-    "Filename": "simple-sensor-monitor_1.2-20240429_amd64.deb",
-    "Torrent_address": "simple-sensor-monitor_1.2-20240429_amd64.deb.torrent",
-    "Pkgname": "simple-sensor-monitor",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/qt.mini-sensor-icon",
-    "Update": "2024-04-29 10:10:13",
-    "Size": "584.35 KB",
-    "More": "在配置面板填写 sensors -u 提供的 adapter适配器与 sensor 即可显示数据。 \n\nv1.0: 可显示温度(°C) 电压(V) 电流(A) 功耗(W) 等类型\nv1.1: 可设置刷新间隔，完善线程化的工作流模式\nv1.2: 左侧支持风扇与电图标\n\n风扇在 1000 RPM 时最低，3000 RPM 以上时很暴躁，所以以这个区间为准",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/80baba1166574aeda4311851af8db563.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a8b3f2a04b1f4ba78ed78e174beea988.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a55a9b6db67f4dd0a2989787d3225506.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/caad566997094294bf3e840cc29eb129.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/3f3c5ec56f2d43698b1019ab4b59f26c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/29/4ac0b574bd524ef0bc1865df9346fd05.png"
-}
-,
-{
     "Name": "Apk 文件查看器",
     "Version": "1.1-20231207",
     "Filename": "z-tools-base-apk-view_1.1-20231207_amd64.deb",
@@ -2566,6 +2566,23 @@
 }
 ,
 {
+    "Name": "GXDE 内核管理器 1.1.0",
+    "Version": "1.1.0",
+    "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
+    "Torrent_address": "gxde-kernel-manager_1.1.0_amd64.deb.torrent",
+    "Pkgname": "gxde-kernel-manager",
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
+    "Update": "2024-05-12 17:25:58",
+    "Size": "1.07 MB",
+    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \n\n\nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
+}
+,
+{
     "Name": "超级工具箱（xjavafxtools）",
     "Version": "0.3.2",
     "Filename": "xjavafxtool_0.3.2_amd64.deb",
@@ -2597,23 +2614,6 @@
     "Tags": "community;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/29/94561cbf4ab54bd8ac96a52928dd4704.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/29/0e3a29ccb4204be0aa2cfc46169a56b0.png"
-}
-,
-{
-    "Name": "GXDE 内核管理器 1.1.0",
-    "Version": "1.1.0",
-    "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
-    "Torrent_address": "gxde-kernel-manager_1.1.0_amd64.deb.torrent",
-    "Pkgname": "gxde-kernel-manager",
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
-    "Update": "2024-05-12 17:25:58",
-    "Size": "1.07 MB",
-    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \n\n\nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
 }
 ,
 {
@@ -3303,23 +3303,6 @@
 }
 ,
 {
-    "Name": "NTPWEdit（Wine）",
-    "Version": "1.0.0",
-    "Filename": "com.ntpwedit.spark_1.0.0_i386.deb",
-    "Torrent_address": "com.ntpwedit.spark_1.0.0_i386.deb.torrent",
-    "Pkgname": "com.ntpwedit.spark",
-    "Author": "NTPWEdit开发者",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "http://www.cdslow.org.ru/en/ntpwedit/",
-    "Update": "2022-12-31 17:15:36",
-    "Size": "8.22 MB",
-    "More": "常用的 Windows 密码破解工具",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/c3e58599b4fc45a496935b648c221ed1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/31/d308f74d65e34fe0b47342c9ef5612ac.png"
-}
-,
-{
     "Name": "CPU-Z（Wine）",
     "Version": "2.09spark0",
     "Filename": "com.cpuz.spark_2.09spark0_all.deb",
@@ -3334,6 +3317,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
+}
+,
+{
+    "Name": "NTPWEdit（Wine）",
+    "Version": "1.0.0",
+    "Filename": "com.ntpwedit.spark_1.0.0_i386.deb",
+    "Torrent_address": "com.ntpwedit.spark_1.0.0_i386.deb.torrent",
+    "Pkgname": "com.ntpwedit.spark",
+    "Author": "NTPWEdit开发者",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "http://www.cdslow.org.ru/en/ntpwedit/",
+    "Update": "2022-12-31 17:15:36",
+    "Size": "8.22 MB",
+    "More": "常用的 Windows 密码破解工具",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/c3e58599b4fc45a496935b648c221ed1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/31/d308f74d65e34fe0b47342c9ef5612ac.png"
 }
 ,
 {

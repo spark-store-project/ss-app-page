@@ -541,6 +541,23 @@
 }
 ,
 {
+    "Name": "惠普hp-uld打印驱动",
+    "Version": "00.23",
+    "Filename": "com.hp.uld-hp_00.23_amd64.deb",
+    "Torrent_address": "com.hp.uld-hp_00.23_amd64.deb.torrent",
+    "Pkgname": "com.hp.uld-hp",
+    "Author": "Laxmeesh Markod <laxmeesh.markod@hp.com>",
+    "Contributor": "gfdgd-xi <3025613752@qq.com>",
+    "Website": "https://www.hp.com/cn-zh/home.html",
+    "Update": "2023-11-04 14:20:36",
+    "Size": "496.18 KB",
+    "More": "ULD-hp is driver for hp Printer and Scanner devices",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/303d03a333094e969fe05c7f4430eb2e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/e828fe646a0f42658b5651cacb826852.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/ff6f861c57f643c9a5c478c7a625761a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/04/e7c2e4330fb8407b9f095de8f205e4ca.png"
+}
+,
+{
     "Name": "2款简体中文手写字体: 瑞美加 - 张清平 硬笔行书、硬笔楷书",
     "Version": "1.1-2+20220430",
     "Filename": "fonts-cjk-cn-ramega-zhangqingping_1.1-2_plus20220430_all.deb",
@@ -572,23 +589,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/f7aca295dd704cc29e8d206d97a9f086.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/06/3826a0393e4847dda284d1cfc63177e1.png"
-}
-,
-{
-    "Name": "惠普hp-uld打印驱动",
-    "Version": "00.23",
-    "Filename": "com.hp.uld-hp_00.23_amd64.deb",
-    "Torrent_address": "com.hp.uld-hp_00.23_amd64.deb.torrent",
-    "Pkgname": "com.hp.uld-hp",
-    "Author": "Laxmeesh Markod <laxmeesh.markod@hp.com>",
-    "Contributor": "gfdgd-xi <3025613752@qq.com>",
-    "Website": "https://www.hp.com/cn-zh/home.html",
-    "Update": "2023-11-04 14:20:36",
-    "Size": "496.18 KB",
-    "More": "ULD-hp is driver for hp Printer and Scanner devices",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/303d03a333094e969fe05c7f4430eb2e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/e828fe646a0f42658b5651cacb826852.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/ff6f861c57f643c9a5c478c7a625761a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/04/e7c2e4330fb8407b9f095de8f205e4ca.png"
 }
 ,
 {
@@ -738,23 +738,6 @@
 
 ,
 {
-    "Name": "同花顺iFinD",
-    "Version": "1.10.12.382.001",
-    "Filename": "com.51ifind_1.10.12.382.001_amd64.deb",
-    "Torrent_address": "com.51ifind_1.10.12.382.001_amd64.deb.torrent",
-    "Pkgname": "com.51ifind",
-    "Author": "shenjianwei <shenjianwei@myhexin.com>",
-    "Contributor": "gfdgd-xi <3025613752@qq.com>",
-    "Website": "http://www.51ifind.com",
-    "Update": "2023-09-17 12:08:14",
-    "Size": "162.52 MB",
-    "More": "同花顺iFinD金融数据终端是同花顺公司于2010年隆重推出的在线实时金融信息终端，始终专注于整合与资本市场密切相关的信息资源，为政府、企业、中介、投资者等提供金融数据与情报服务。iFinD现已推出Lin\nuX版终端，覆盖股票、债券、基金、期货、指数、外汇等金融品种，支持行情、新闻、研报、深度资料、企业库等功能。\n为了让用户获得更好的体验！我们会持续的快速送代产品功能，增加更多特色数据和新功能，如有任何国产版终端的需求和建议，欢迎联系我们：f@myhexin.com，客服热线：952555转iFinD。",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/17/c36d700ef40642a297586d5f61dd161d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/17/68b32ad6325941e7a156b1356cf984f4.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/17/0618f53e8a724b57b25d507d160a087c.png"
-}
-,
-{
     "Name": "阿里妈妈数黑体",
     "Version": "1.003-1",
     "Filename": "fonts-alimama-shuheiti_1.003-1_all.deb",
@@ -769,6 +752,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/04/bfbda319a8384caf801f61a383616a2c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/04/c79578564dc34902b2292e68a65783a7.png"
+}
+,
+{
+    "Name": "同花顺iFinD",
+    "Version": "1.10.12.382.001",
+    "Filename": "com.51ifind_1.10.12.382.001_amd64.deb",
+    "Torrent_address": "com.51ifind_1.10.12.382.001_amd64.deb.torrent",
+    "Pkgname": "com.51ifind",
+    "Author": "shenjianwei <shenjianwei@myhexin.com>",
+    "Contributor": "gfdgd-xi <3025613752@qq.com>",
+    "Website": "http://www.51ifind.com",
+    "Update": "2023-09-17 12:08:14",
+    "Size": "162.52 MB",
+    "More": "同花顺iFinD金融数据终端是同花顺公司于2010年隆重推出的在线实时金融信息终端，始终专注于整合与资本市场密切相关的信息资源，为政府、企业、中介、投资者等提供金融数据与情报服务。iFinD现已推出Lin\nuX版终端，覆盖股票、债券、基金、期货、指数、外汇等金融品种，支持行情、新闻、研报、深度资料、企业库等功能。\n为了让用户获得更好的体验！我们会持续的快速送代产品功能，增加更多特色数据和新功能，如有任何国产版终端的需求和建议，欢迎联系我们：f@myhexin.com，客服热线：952555转iFinD。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/17/c36d700ef40642a297586d5f61dd161d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/17/68b32ad6325941e7a156b1356cf984f4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/17/0618f53e8a724b57b25d507d160a087c.png"
 }
 ,
 {
@@ -857,23 +857,6 @@
 }
 ,
 {
-    "Name": "NoBook 物理实验（web）",
-    "Version": "1.0",
-    "Filename": "web-wl.nobook.com_1.0_all.deb",
-    "Torrent_address": "web-wl.nobook.com_1.0_all.deb.torrent",
-    "Pkgname": "web-wl.nobook.com",
-    "Author": "NoBook",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://wl.nobook.com",
-    "Update": "2023-03-05 09:47:25",
-    "Size": "20.69 KB",
-    "More": "一款初高中物理实验模拟软件，包含了电学、力学、声学、光学等所有物理实验的仿真演示。中学物理仿真实验通过采用仿真技术，虚拟构建一个直观、可视化的实验环境，从而达到对实验现象和实验结果的虚拟仿真以及对现实实验的操作，为处于不同时间、空间的用户提供虚拟仿真的实验环境，使学习者仿佛置身其中，对仪器、设备、内容等实验项目进行互动操作和练习。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/161290c78b8145278f03d48e7ea5fce2.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/05/135baa9ac9e04c7782f29d432ecd3097.png"
-}
-,
-{
     "Name": "Windows12网页版",
     "Version": "7.0.0",
     "Filename": "windows12_7.0.0_amd64.deb",
@@ -888,6 +871,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/17/aa117b341f5f4f5a85db23fd8e75578a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/17/e3ad5190da5f4489ae94a492a086cc36.png"
+}
+,
+{
+    "Name": "NoBook 物理实验（web）",
+    "Version": "1.0",
+    "Filename": "web-wl.nobook.com_1.0_all.deb",
+    "Torrent_address": "web-wl.nobook.com_1.0_all.deb.torrent",
+    "Pkgname": "web-wl.nobook.com",
+    "Author": "NoBook",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://wl.nobook.com",
+    "Update": "2023-03-05 09:47:25",
+    "Size": "20.69 KB",
+    "More": "一款初高中物理实验模拟软件，包含了电学、力学、声学、光学等所有物理实验的仿真演示。中学物理仿真实验通过采用仿真技术，虚拟构建一个直观、可视化的实验环境，从而达到对实验现象和实验结果的虚拟仿真以及对现实实验的操作，为处于不同时间、空间的用户提供虚拟仿真的实验环境，使学习者仿佛置身其中，对仪器、设备、内容等实验项目进行互动操作和练习。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/161290c78b8145278f03d48e7ea5fce2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/05/135baa9ac9e04c7782f29d432ecd3097.png"
 }
 ,
 {
@@ -908,23 +908,6 @@
 }
 ,
 {
-    "Name": "重启至uefi",
-    "Version": "0.0.1",
-    "Filename": "reboot-uefi_0.0.1_all.deb",
-    "Torrent_address": "reboot-uefi_0.0.1_all.deb.torrent",
-    "Pkgname": "reboot-uefi",
-    "Author": "shy <1658347525@qq.com>",
-    "Contributor": "shy <1658347525@qq.com>",
-    "Website": "https://space.bilibili.com/365755968?spm_id_from=333.337.0.0",
-    "Update": "2022-12-27 20:48:48",
-    "Size": "2 KB",
-    "More": "没有在非uefi平台测试过..\n 需要使用systemd(没有写在依赖项)\n 参考https://linux.cn/article-15361-1.html\n 运行ps --no-headers -o comm 1检查自己是否使用systemd(包括deepin在内的大多数发行版使用)\n 本质是运行systemctl reboot --firmware-setup",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/6c0e1a5aef104c87856404fafd58836a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/27/33dc74f16e8847e0bfb4c98651966a1e.png"
-}
-,
-{
     "Name": "x11vnc 用户服务",
     "Version": "0.0.1",
     "Filename": "x11vnc-autoservice_0.0.1_all.deb",
@@ -939,6 +922,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/bf896362f00741ae963311b3f18c96b8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/27/8490b5b8aff34978a158b8cd2afb288f.png"
+}
+,
+{
+    "Name": "重启至uefi",
+    "Version": "0.0.1",
+    "Filename": "reboot-uefi_0.0.1_all.deb",
+    "Torrent_address": "reboot-uefi_0.0.1_all.deb.torrent",
+    "Pkgname": "reboot-uefi",
+    "Author": "shy <1658347525@qq.com>",
+    "Contributor": "shy <1658347525@qq.com>",
+    "Website": "https://space.bilibili.com/365755968?spm_id_from=333.337.0.0",
+    "Update": "2022-12-27 20:48:48",
+    "Size": "2 KB",
+    "More": "没有在非uefi平台测试过..\n 需要使用systemd(没有写在依赖项)\n 参考https://linux.cn/article-15361-1.html\n 运行ps --no-headers -o comm 1检查自己是否使用systemd(包括deepin在内的大多数发行版使用)\n 本质是运行systemctl reboot --firmware-setup",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/6c0e1a5aef104c87856404fafd58836a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/27/33dc74f16e8847e0bfb4c98651966a1e.png"
 }
 ,
 {

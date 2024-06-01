@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="linuxqq_3.2.9-24402_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">0bd92af5145245aa81bcb1de07de945b</hash>
+				  
+				<hash type="sha1">f0b7df3e861a29361782768e1e90e2419df99a79</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/linuxqq/linuxqq_3.2.9-24402_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/chat/linuxqq/linuxqq_3.2.9-24402_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/chat/linuxqq/linuxqq_3.2.9-24402_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/chat/linuxqq/linuxqq_3.2.9-24402_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/chat/linuxqq/linuxqq_3.2.9-24402_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/chat/linuxqq/linuxqq_3.2.9-24402_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -53,20 +53,20 @@
 
 ,
 {
-    "Author": "msojocs",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "io.github.msojocs.bilibili_1.13.2.3296.1-continuous_loong64.deb",
-    "More": "由msojocs编写的哔哩哔哩客户端 Linux 移植版本",
     "Name": "bilibili客户端",
+    "Version": "1.13.5-2",
+    "Filename": "io.github.msojocs.bilibili_1.13.5-2_loong64.deb",
+    "Torrent_address": "io.github.msojocs.bilibili_1.13.5-2_loong64.deb.torrent",
     "Pkgname": "io.github.msojocs.bilibili",
-    "Size": "101 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "io.github.msojocs.bilibili_1.13.2.3296.1-continuous_loong64.deb.torrent",
-    "Update": "2024-05-08 22:49:31",
-    "Version": "1.13.2.3296.1-continuous",
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://github.com/msojocs/bilibili-linux/releases",
-    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/video/io.github.msojocs.bilibili/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/video/io.github.msojocs.bilibili/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/video/io.github.msojocs.bilibili/screen_2.png\"]"
+    "Update": "2024-05-31 09:58:07",
+    "Size": "87M",
+    "More": "由msojocs编写的哔哩哔哩客户端 Linux 移植版本",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/icon.png"
 }
 
 ,
