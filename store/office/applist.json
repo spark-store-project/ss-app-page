@@ -409,22 +409,6 @@
 
 ,
 {
-    "Name": "7-zip",
-    "Version": "15.14deepin2",
-    "Filename": "deepin.org.7-zip_15.14deepin2_i386.deb",
-    "Pkgname": "deepin.org.7-zip",
-    "Author": "kite",
-    "Contributor": "kite",
-    "Website": "http://www.7-zip.org/",
-    "Update": "2021-06-12 08:46:54",
-    "Size": "3.74 MB",
-    "More": "deepin-wine的7-zip15.14",
-    "Tags": "deepin;dwine2",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/12/6e85c940-cb17-11eb-b6d8-29c99db1d378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/12/6e9cd3b0-cb17-11eb-b6d8-29c99db1d378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/12/6ec4f520-cb17-11eb-b6d8-29c99db1d378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/12/6eb39000-cb17-11eb-b6d8-29c99db1d378.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/12/ac3a2470-cb17-11eb-b6d8-29c99db1d378.png"
-}
-,
-{
     "Name": "希沃白板5 Wine",
     "Version": "5.2.2.6111+1",
     "Filename": "com.seewo.easinote.spark_5.2.2.6111_plus1_i386.deb",
@@ -439,6 +423,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/c7152eab761b4f3ab02531364474b298.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/6a1156d792e04f4c8abf93699303b157.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/31/f34d99f873014d29b9993aca15de69b4.png"
+}
+,
+{
+    "Name": "7-zip",
+    "Version": "15.14deepin2",
+    "Filename": "deepin.org.7-zip_15.14deepin2_i386.deb",
+    "Pkgname": "deepin.org.7-zip",
+    "Author": "kite",
+    "Contributor": "kite",
+    "Website": "http://www.7-zip.org/",
+    "Update": "2021-06-12 08:46:54",
+    "Size": "3.74 MB",
+    "More": "deepin-wine的7-zip15.14",
+    "Tags": "deepin;dwine2",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/12/6e85c940-cb17-11eb-b6d8-29c99db1d378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/12/6e9cd3b0-cb17-11eb-b6d8-29c99db1d378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/12/6ec4f520-cb17-11eb-b6d8-29c99db1d378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/12/6eb39000-cb17-11eb-b6d8-29c99db1d378.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/12/ac3a2470-cb17-11eb-b6d8-29c99db1d378.png"
 }
 ,
 {
@@ -823,23 +823,6 @@
 }
 ,
 {
-    "Name": "Marktext中文版",
-    "Version": "0.17.1",
-    "Filename": "marktext_0.17.1_amd64.deb",
-    "Torrent_address": "marktext_0.17.1_amd64.deb.torrent",
-    "Pkgname": "marktext",
-    "Author": "MarkText",
-    "Contributor": "chinayangxiaowei",
-    "Website": "https://github.com/chinayangxiaowei/marktext-chinese-language-pack/",
-    "Update": "2023-11-19 16:58:38",
-    "Size": "76.86 MB",
-    "More": "一个简单而优雅的markdown编辑器, Typora的开源替代品。中文版由chinayangxiaowei制作",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/34c40b3b9dd94709bc40632585140c16.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/b3c645003c154fa4a5a1bc659309984b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/6817cc0c6aaa419296803eb47e2a4484.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/19/95e39f618ef646eaad59f3b86fa74c48.png"
-}
-,
-{
     "Name": "MindMaster",
     "Version": "10.8.0",
     "Filename": "mindmaster_10.8.0_amd64.deb",
@@ -854,6 +837,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/1c30f0fa133c4bbb9a5f78ba131a9cb6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/ccf7df6ec6d44daba6fc2eeeab9d12c1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/ffddcfa55e794dd9a64f03ed846a66b6.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/f34a169f164b44f2a4568e728a8feb32.png"
+}
+,
+{
+    "Name": "Marktext中文版",
+    "Version": "0.17.1",
+    "Filename": "marktext_0.17.1_amd64.deb",
+    "Torrent_address": "marktext_0.17.1_amd64.deb.torrent",
+    "Pkgname": "marktext",
+    "Author": "MarkText",
+    "Contributor": "chinayangxiaowei",
+    "Website": "https://github.com/chinayangxiaowei/marktext-chinese-language-pack/",
+    "Update": "2023-11-19 16:58:38",
+    "Size": "76.86 MB",
+    "More": "一个简单而优雅的markdown编辑器, Typora的开源替代品。中文版由chinayangxiaowei制作",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/34c40b3b9dd94709bc40632585140c16.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/b3c645003c154fa4a5a1bc659309984b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/6817cc0c6aaa419296803eb47e2a4484.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/19/95e39f618ef646eaad59f3b86fa74c48.png"
 }
 ,
 {
@@ -3351,6 +3351,23 @@
 }
 ,
 {
+    "Name": "希沃品课",
+    "Version": "1.2",
+    "Filename": "com.seewo.pincoteacher_1.2_amd64.deb",
+    "Torrent_address": "com.seewo.pincoteacher_1.2_amd64.deb.torrent",
+    "Pkgname": "com.seewo.pincoteacher",
+    "Author": "Seewo <seewo@seewo.com>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://www.seewo.com/index.php/Product/soft/cat_id/130/nid/370",
+    "Update": "2022-12-30 10:19:35",
+    "Size": "101.47 MB",
+    "More": "希沃品课是一套由希沃（seewo）自主研发的面向高职教师生的智慧课堂解决方案。产品主要围绕课前课中课后的教学场景，为数字化课堂、互动课堂和同步课堂的开展提供高效稳定的技术和产品支撑，为高职校信息化课堂赋能。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/7841ae10675e4bf493d36e361f375b89.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/173f4e73c81f495a9fd461403bf44536.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/170981f23ecb410c91fe2339d99de7e3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/30/1b44705704664aaf81f2a6247c4472f2.png"
+}
+,
+{
     "Name": "彩虹笔记",
     "Version": "1.2.6spark0",
     "Filename": "com.rainbowbyte.rainbownote.spark_1.2.6spark0_amd64.deb",
@@ -3415,23 +3432,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/30/0e014680-f866-11ec-b2f0-21c04091535e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/30/0ff09360-f866-11ec-b2f0-21c04091535e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/30/1216cec0-f866-11ec-b2f0-21c04091535e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/30/13e35160-f866-11ec-b2f0-21c04091535e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/30/d50cbd50-f865-11ec-b2f0-21c04091535e.png"
-}
-,
-{
-    "Name": "希沃品课",
-    "Version": "1.2",
-    "Filename": "com.seewo.pincoteacher_1.2_amd64.deb",
-    "Torrent_address": "com.seewo.pincoteacher_1.2_amd64.deb.torrent",
-    "Pkgname": "com.seewo.pincoteacher",
-    "Author": "Seewo <seewo@seewo.com>",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://www.seewo.com/index.php/Product/soft/cat_id/130/nid/370",
-    "Update": "2022-12-30 10:19:35",
-    "Size": "101.47 MB",
-    "More": "希沃品课是一套由希沃（seewo）自主研发的面向高职教师生的智慧课堂解决方案。产品主要围绕课前课中课后的教学场景，为数字化课堂、互动课堂和同步课堂的开展提供高效稳定的技术和产品支撑，为高职校信息化课堂赋能。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/7841ae10675e4bf493d36e361f375b89.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/173f4e73c81f495a9fd461403bf44536.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/170981f23ecb410c91fe2339d99de7e3.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/30/1b44705704664aaf81f2a6247c4472f2.png"
 }
 ,
 {
@@ -3799,6 +3799,23 @@
 }
 ,
 {
+    "Name": "WPS Office 2016",
+    "Version": "10.1.0.6757spark1",
+    "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
+    "Torrent_address": "wps-office-2016_10.1.0.6757spark1_amd64.deb.torrent",
+    "Pkgname": "wps-office-2016",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://wps-community.org",
+    "Update": "2024-05-19 16:58:39",
+    "Size": "129.41 MB",
+    "More": "WPS Office 2016 旧版本，三组件分别独立，资源占用更小，支持类 office 2003 经典界面\n云同步功能依旧可用\n与现行的 WPS Office， 2019 冲突",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
+}
+,
+{
     "Name": "我来笔记（web）",
     "Version": "1.0spark0",
     "Filename": "web-wolai_1.0spark0_amd64.deb",
@@ -4106,20 +4123,20 @@
 }
 ,
 {
-    "Name": "WPS Office 2016",
-    "Version": "10.1.0.6757spark1",
-    "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
-    "Torrent_address": "wps-office-2016_10.1.0.6757spark1_amd64.deb.torrent",
-    "Pkgname": "wps-office-2016",
-    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://wps-community.org",
-    "Update": "2024-05-19 16:58:39",
-    "Size": "129.41 MB",
-    "More": "WPS Office 2016 旧版本，三组件分别独立，资源占用更小，支持类 office 2003 经典界面\n云同步功能依旧可用\n与现行的 WPS Office， 2019 冲突",
+    "Name": "希沃白板Web",
+    "Version": "1.14514",
+    "Filename": "wed-seewo_1.14514_all.deb",
+    "Torrent_address": "wed-seewo_1.14514_all.deb.torrent",
+    "Pkgname": "wed-seewo",
+    "Author": "baimacao",
+    "Contributor": "baimacao",
+    "Website": "https://enweb.seewo.com/",
+    "Update": "2024-05-22 17:50:56",
+    "Size": "29.16 KB",
+    "More": "唯一被老师认可的希沃白板，可以正常上课，web应用",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/a0ba4974dee742fcb656146be01cb321.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/49082957d0c64a059f6cadb90be58342.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/b80a658ca0594703ad75bcbd7c0abccb.png"
 }
 ,
 {
@@ -4334,23 +4351,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/08/7ef7bac760cb44a3bf0ef770a75922be.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/08/40606daa4d8844509af0be4b029ff5f8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/08/0f11c8a1a0b64daa9dd1ecfcfe43e8b8.png"
-}
-,
-{
-    "Name": "希沃白板Web",
-    "Version": "1.14514",
-    "Filename": "wed-seewo_1.14514_all.deb",
-    "Torrent_address": "wed-seewo_1.14514_all.deb.torrent",
-    "Pkgname": "wed-seewo",
-    "Author": "baimacao",
-    "Contributor": "baimacao",
-    "Website": "https://enweb.seewo.com/",
-    "Update": "2024-05-22 17:50:56",
-    "Size": "29.16 KB",
-    "More": "唯一被老师认可的希沃白板，可以正常上课，web应用",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/a0ba4974dee742fcb656146be01cb321.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/49082957d0c64a059f6cadb90be58342.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/b80a658ca0594703ad75bcbd7c0abccb.png"
 }
 ,
 {

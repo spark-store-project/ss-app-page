@@ -388,23 +388,6 @@
 }
 ,
 {
-    "Name": "字体阿里妈妈东方大楷",
-    "Version": "1.0-1",
-    "Filename": "fonts-alimama-dongfangdakai_1.0-1_all.deb",
-    "Torrent_address": "fonts-alimama-dongfangdakai_1.0-1_all.deb.torrent",
-    "Pkgname": "fonts-alimama-dongfangdakai",
-    "Author": "Careone <emacslocale@126.com>",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://www.iconfont.cn/fonts/index",
-    "Update": "2023-01-21 22:31:45",
-    "Size": "3.04 MB",
-    "More": "deb 包来源：https://bbs.deepin.org/post/248908\n\n 阿里妈妈东方大楷 (Alimama DongFangDaKai)\n .\n 字体授权：阿里妈妈字体授权协议(企业、个人均可免费商用) \n .\n 字体来源 (官网): https://www.iconfont.cn/fonts/index\n .\n 阿里妈妈东方大楷是基于颜真卿的多宝塔碑算法生成并结合人力完成的一套字库，\n 机器学习到了颜体的丰腴厚重之感，在笔画的描摹上做到了传统书法的收放起伏，\n 规范了骨架、笔画，还原了书法中的落笔、转笔、藏锋、护尾等书写韵味，使整体\n 更饱满、圆融、浑厚。\n .\n 阿里妈妈东方大楷为中文简体字库，收纳的中文字符包括但不限于GB2312，共计\n 6763个汉字；英文大小写（含全角、半角、合体字等）共105个；常用标点符号共\n 175个，总计7043个字符。",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/21/d3dcd1b8a184428088c0886f215d881a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/21/e1d4162b8629411a99e001611adfa63d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/21/b957d3d6376245a29958e9393189e7c1.png"
-}
-,
-{
     "Name": "惠普HPLIP驱动",
     "Version": "3.23.5.2",
     "Filename": "com.hp.hplip_3.23.5.2_amd64.deb",
@@ -419,6 +402,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/11ab557ddde04d40838f904017484574.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/5b2e08a76ccf457cbaefd8aacd6bb02b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/04/14d33518268247db9c584de7514cd1f7.png"
+}
+,
+{
+    "Name": "字体阿里妈妈东方大楷",
+    "Version": "1.0-1",
+    "Filename": "fonts-alimama-dongfangdakai_1.0-1_all.deb",
+    "Torrent_address": "fonts-alimama-dongfangdakai_1.0-1_all.deb.torrent",
+    "Pkgname": "fonts-alimama-dongfangdakai",
+    "Author": "Careone <emacslocale@126.com>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://www.iconfont.cn/fonts/index",
+    "Update": "2023-01-21 22:31:45",
+    "Size": "3.04 MB",
+    "More": "deb 包来源：https://bbs.deepin.org/post/248908\n\n 阿里妈妈东方大楷 (Alimama DongFangDaKai)\n .\n 字体授权：阿里妈妈字体授权协议(企业、个人均可免费商用) \n .\n 字体来源 (官网): https://www.iconfont.cn/fonts/index\n .\n 阿里妈妈东方大楷是基于颜真卿的多宝塔碑算法生成并结合人力完成的一套字库，\n 机器学习到了颜体的丰腴厚重之感，在笔画的描摹上做到了传统书法的收放起伏，\n 规范了骨架、笔画，还原了书法中的落笔、转笔、藏锋、护尾等书写韵味，使整体\n 更饱满、圆融、浑厚。\n .\n 阿里妈妈东方大楷为中文简体字库，收纳的中文字符包括但不限于GB2312，共计\n 6763个汉字；英文大小写（含全角、半角、合体字等）共105个；常用标点符号共\n 175个，总计7043个字符。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/21/d3dcd1b8a184428088c0886f215d881a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/21/e1d4162b8629411a99e001611adfa63d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/21/b957d3d6376245a29958e9393189e7c1.png"
 }
 ,
 {
@@ -473,23 +473,6 @@
 }
 ,
 {
-    "Name": "简体中文艺术字体“得意黑”",
-    "Version": "2.1.0-1",
-    "Filename": "fonts-cjk-cn-smiley-sans_2.1.0-1_all.deb",
-    "Torrent_address": "fonts-cjk-cn-smiley-sans_2.1.0-1_all.deb.torrent",
-    "Pkgname": "fonts-cjk-cn-smiley-sans",
-    "Author": "oooooohmygosh",
-    "Contributor": "阿尼樱奈奈",
-    "Website": "https://atelier-anchor.com/typefaces/smiley-sans/",
-    "Update": "2024-03-05 17:17:08",
-    "Size": "1.27 MB",
-    "More": "2024/3/5：原作者把字体文件更新到了2.1.0版本，这里也一并更新了；\noooooohmygosh 发布的第一款免费商用的简体中文字体，基于 SIL-1.1 开源字体协议发布。可以免费商用，也可以修改创作。字体的三个主要特征：大弧线、窄、斜。",
-    "Tags": "community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/2d1610e9c6ee47f3a60e02e3b8382933.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/05/d62717e9debd4f38825cbef0b3178291.png"
-}
-,
-{
     "Name": "含12个免费的WPS中文简历模板",
     "Version": "2.12-1",
     "Filename": "wps-office-templates-01-jianli_2.12-1_all.deb",
@@ -504,6 +487,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/16/17b81e9f076749e0b6ce0fef4283c20e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/16/3aaae5ba6387428aae2f8420c785d8ce.png"
+}
+,
+{
+    "Name": "简体中文艺术字体“得意黑”",
+    "Version": "2.1.0-1",
+    "Filename": "fonts-cjk-cn-smiley-sans_2.1.0-1_all.deb",
+    "Torrent_address": "fonts-cjk-cn-smiley-sans_2.1.0-1_all.deb.torrent",
+    "Pkgname": "fonts-cjk-cn-smiley-sans",
+    "Author": "oooooohmygosh",
+    "Contributor": "阿尼樱奈奈",
+    "Website": "https://atelier-anchor.com/typefaces/smiley-sans/",
+    "Update": "2024-03-05 17:17:08",
+    "Size": "1.27 MB",
+    "More": "2024/3/5：原作者把字体文件更新到了2.1.0版本，这里也一并更新了；\noooooohmygosh 发布的第一款免费商用的简体中文字体，基于 SIL-1.1 开源字体协议发布。可以免费商用，也可以修改创作。字体的三个主要特征：大弧线、窄、斜。",
+    "Tags": "community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/2d1610e9c6ee47f3a60e02e3b8382933.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/05/d62717e9debd4f38825cbef0b3178291.png"
 }
 ,
 {
