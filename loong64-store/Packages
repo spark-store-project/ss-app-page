@@ -2149,6 +2149,21 @@ SHA256: 4259b96e0fa803acffca7f29d1ef6ba591d96384c4f9b5b6235dffe6eba613f0
 SHA512: 89a18ef73f819aefec2e6e0ab0e42e32d356b25594dd9c827d6f4e241b3022da4c5a2077d718f99cd06e8b0a79ea8b059e6af3a225bd97d7ac7fb6c5b8bf2a24
 Description: 注意注意这个版本的init里面链接的host-spawn是arm64的版本所以这不是-all
 
+Package: ace-bookworm-x86
+Architecture: loong64
+Version: 12.4.12.2
+Priority: optional
+Section: misc
+Maintainer: shenmo <shenmo@spark-app.store>
+Depends: bubblewrap,flatpak,zenity,policykit-1,systemd,lat,binfmt-support,aria2
+Filename: tools/ace-bookworm-x86/ace-bookworm-x86_12.4.12.2_loong64.deb
+Size: 161472068
+MD5sum: 4fe775553a371dd8620df015aeb554c0
+SHA1: a41c6d798a4376e57c90aa4683114e79d8630a6d
+SHA256: 308c43f1bbcb1eeae7d59b1230624b863fe908a6ca8c1b1d47cea622ef54dbe7
+SHA512: 1bf819dc67ebdd47e899cb5a290423526b13cc9cf9421b33d3cbd0cebbb1acf1831766c6daa1ca4678945c777565e34852caa4557ade6e2de28f92f66caaed31
+Description: ACEx86
+
 Package: mac-superdrive
 Architecture: all
 Version: 20220407~spark1

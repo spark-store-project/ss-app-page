@@ -1389,23 +1389,6 @@
 }
 ,
 {
-    "Name": "SQLiteStudio",
-    "Version": "3.4.4spark0",
-    "Filename": "com.github.sqlitestudio.spark_3.4.4spark0_amd64.deb",
-    "Torrent_address": "com.github.sqlitestudio.spark_3.4.4spark0_amd64.deb.torrent",
-    "Pkgname": "com.github.sqlitestudio.spark",
-    "Author": "pawelsalawa",
-    "Contributor": "sgb76",
-    "Website": "https://github.com/pawelsalawa/sqlitestudio/releases",
-    "Update": "2024-03-05 00:32:48",
-    "Size": "45.2 MB",
-    "More": "一款强大的 SQLite 数据库可视化工具，它可以帮助用户管理 SQLite 数据库，具有功能完善的 SQLite2 和 SQLite3 工具，视图编码支持 UTF-8，并且可以同时打开多个数据库文件。\n此外，SQLiteStudio 还支持查看和编辑二进制字段，并且支持多种导出数据格式，如 CSV、HTML、PLAIN、SQL、XML 等。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/880688a2a89b429ea32a6166427fe18a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/18f691a9920a4f8889a53c43a384a8a8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/05/75ecfa627abc46d19a87e679301b7127.png"
-}
-,
-{
     "Name": "编程猫源码编辑器",
     "Version": "3.7.14",
     "Filename": "cn.codemao.kitten3_3.7.14_amd64.deb",
@@ -1420,6 +1403,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/77aad368736846d5a4a334c995be5b63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/80225203a30647ab932d8dabcce41c93.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/6c8eab3343b9471e909518c8f34134f8.png"
+}
+,
+{
+    "Name": "SQLiteStudio",
+    "Version": "3.4.4spark0",
+    "Filename": "com.github.sqlitestudio.spark_3.4.4spark0_amd64.deb",
+    "Torrent_address": "com.github.sqlitestudio.spark_3.4.4spark0_amd64.deb.torrent",
+    "Pkgname": "com.github.sqlitestudio.spark",
+    "Author": "pawelsalawa",
+    "Contributor": "sgb76",
+    "Website": "https://github.com/pawelsalawa/sqlitestudio/releases",
+    "Update": "2024-03-05 00:32:48",
+    "Size": "45.2 MB",
+    "More": "一款强大的 SQLite 数据库可视化工具，它可以帮助用户管理 SQLite 数据库，具有功能完善的 SQLite2 和 SQLite3 工具，视图编码支持 UTF-8，并且可以同时打开多个数据库文件。\n此外，SQLiteStudio 还支持查看和编辑二进制字段，并且支持多种导出数据格式，如 CSV、HTML、PLAIN、SQL、XML 等。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/880688a2a89b429ea32a6166427fe18a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/18f691a9920a4f8889a53c43a384a8a8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/05/75ecfa627abc46d19a87e679301b7127.png"
 }
 ,
 {
