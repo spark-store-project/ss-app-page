@@ -810,23 +810,6 @@
 }
 ,
 {
-    "Name": "UnityHub",
-    "Version": "3.0.0-beta.7",
-    "Filename": "com.unity.unityhub_3.0.0-beta.7_amd64.deb",
-    "Torrent_address": "com.unity.unityhub_3.0.0-beta.7_amd64.deb.torrent",
-    "Pkgname": "com.unity.unityhub",
-    "Author": "Unity3D",
-    "Contributor": "Renzis",
-    "Website": "https://unity.cn",
-    "Update": "2022-08-29 14:00:48",
-    "Size": "108.09 MB",
-    "More": "UnityHub",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/29/ce85b940-275f-11ed-a53a-f99a31094453.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/29/897620b0-275f-11ed-a53a-f99a31094453.png"
-}
-,
-{
     "Name": "Docker Desktop",
     "Version": "4.29.0-145265",
     "Filename": "docker-desktop_4.29.0-145265_amd64.deb",
@@ -841,6 +824,23 @@
     "Tags": "deepin;uos;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/25/fcab8d40-0282-11ef-b012-5b232c21a0f3.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/25/f4f16700-0282-11ef-b012-5b232c21a0f3.png"
+}
+,
+{
+    "Name": "UnityHub",
+    "Version": "3.0.0-beta.7",
+    "Filename": "com.unity.unityhub_3.0.0-beta.7_amd64.deb",
+    "Torrent_address": "com.unity.unityhub_3.0.0-beta.7_amd64.deb.torrent",
+    "Pkgname": "com.unity.unityhub",
+    "Author": "Unity3D",
+    "Contributor": "Renzis",
+    "Website": "https://unity.cn",
+    "Update": "2022-08-29 14:00:48",
+    "Size": "108.09 MB",
+    "More": "UnityHub",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/29/ce85b940-275f-11ed-a53a-f99a31094453.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/29/897620b0-275f-11ed-a53a-f99a31094453.png"
 }
 ,
 {
@@ -1157,23 +1157,6 @@
 
 ,
 {
-    "Name": "OpenCore Auxiliary Tools",
-    "Version": "20220230",
-    "Filename": "com.github.ocat-linux_20220230_amd64.deb",
-    "Torrent_address": "com.github.ocat-linux_20220230_amd64.deb.torrent",
-    "Pkgname": "com.github.ocat-linux",
-    "Author": "ic005k",
-    "Contributor": "QQ482961502@gmail.com",
-    "Website": "https://github.com/ic005k/OCAuxiliaryTools",
-    "Update": "2022-08-03 12:18:33",
-    "Size": "27.12 MB",
-    "More": "關於\nOpenCore Auxiliary Tools 是一個基於 GUI 的配置器，用於編輯 Acidanthera 的 OpenCore 引導管理器的 config.plist 文件。\n\n與其他配置器應用程序不同，如果 OpenCore 的開發人員將新功能/鍵添加到配置文件結構中，OCAT 不會弄亂配置。相反，它會自動適應並將它們集成到界面中。\n\n特徵\n除了作為 plist Configurator 之外，它還可以做更多事情：\n\n掛載 EFI 分區並自動打開 config.plist\n只需單擊“保存”按鈕即可將配置更新並遷移到最新規格。不再需要復制密鑰和手動驗證配置（節省大量時間）。\n自動執行配置驗證並指出可能的衝突/配置問題。\n同步功能：點擊幾下即可檢查並應用 OpenCore、Resources 和 Kext 的更新\n在 OpenCore 的官方/開發版本和調試版本之間進行選擇\n帶有針對 Intel 和 AMD CPU 的建議 Quirks 的下拉菜單\nACPI、內核和其他列表的預設菜單。\n帶有 Kext 存儲庫 URL 的可編輯列表\n集成 ASCII < > HEX 轉換器\n基於 Dortania 的 OpenCore 安裝指南，具有完整的 Intel 和 AMD CPU 基本配置的數據庫\n能夠通過單擊從配置中生成 EFI 文件夾\n能夠創建 EFI 文件夾備份\n指南\n使用 OCAT 更新 OpenCore 和 Kexts (by 5T33Z0)\nIntel CPU Quirks 的預選插件內容由 5T33Z0 提供和維護。細節\nIntel CPU BaseConfigs 插件包由 5T33Z0 提供和維護。細節\nAMD CPU BaseConfigs 插件包，AMD CPU Quirks 預選，AMD 內核補丁包，意大利文說明文檔，由 fabiosun 提供和維護。\nOpenCore 輔助工具用戶指南（作者：chriswayg）",
-    "Tags": "community;ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/03/d74f1530-12dd-11ed-abd7-e50de85e8c4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/03/d8857250-12dd-11ed-abd7-e50de85e8c4e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/03/d63a22c0-12dd-11ed-abd7-e50de85e8c4e.png"
-}
-,
-{
     "Name": "微信开发者工具 Wine版",
     "Version": "1.06.2306020-1",
     "Filename": "io.github.msojocs.wechat-devtools-wine_1.06.2306020-1_amd64.deb",
@@ -1188,6 +1171,23 @@
     "Tags": "community;ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/25/a5de9d6e969940dcbb3156205ba51365.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/25/af9d46daa7c8458c98afec7bbac26f0b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/25/4967fd976b4740418405f7b57b8867ab.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/25/4b66d48238ab476fb074808dbcc3a08c.png"
+}
+,
+{
+    "Name": "OpenCore Auxiliary Tools",
+    "Version": "20220230",
+    "Filename": "com.github.ocat-linux_20220230_amd64.deb",
+    "Torrent_address": "com.github.ocat-linux_20220230_amd64.deb.torrent",
+    "Pkgname": "com.github.ocat-linux",
+    "Author": "ic005k",
+    "Contributor": "QQ482961502@gmail.com",
+    "Website": "https://github.com/ic005k/OCAuxiliaryTools",
+    "Update": "2022-08-03 12:18:33",
+    "Size": "27.12 MB",
+    "More": "關於\nOpenCore Auxiliary Tools 是一個基於 GUI 的配置器，用於編輯 Acidanthera 的 OpenCore 引導管理器的 config.plist 文件。\n\n與其他配置器應用程序不同，如果 OpenCore 的開發人員將新功能/鍵添加到配置文件結構中，OCAT 不會弄亂配置。相反，它會自動適應並將它們集成到界面中。\n\n特徵\n除了作為 plist Configurator 之外，它還可以做更多事情：\n\n掛載 EFI 分區並自動打開 config.plist\n只需單擊“保存”按鈕即可將配置更新並遷移到最新規格。不再需要復制密鑰和手動驗證配置（節省大量時間）。\n自動執行配置驗證並指出可能的衝突/配置問題。\n同步功能：點擊幾下即可檢查並應用 OpenCore、Resources 和 Kext 的更新\n在 OpenCore 的官方/開發版本和調試版本之間進行選擇\n帶有針對 Intel 和 AMD CPU 的建議 Quirks 的下拉菜單\nACPI、內核和其他列表的預設菜單。\n帶有 Kext 存儲庫 URL 的可編輯列表\n集成 ASCII < > HEX 轉換器\n基於 Dortania 的 OpenCore 安裝指南，具有完整的 Intel 和 AMD CPU 基本配置的數據庫\n能夠通過單擊從配置中生成 EFI 文件夾\n能夠創建 EFI 文件夾備份\n指南\n使用 OCAT 更新 OpenCore 和 Kexts (by 5T33Z0)\nIntel CPU Quirks 的預選插件內容由 5T33Z0 提供和維護。細節\nIntel CPU BaseConfigs 插件包由 5T33Z0 提供和維護。細節\nAMD CPU BaseConfigs 插件包，AMD CPU Quirks 預選，AMD 內核補丁包，意大利文說明文檔，由 fabiosun 提供和維護。\nOpenCore 輔助工具用戶指南（作者：chriswayg）",
+    "Tags": "community;ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/03/d74f1530-12dd-11ed-abd7-e50de85e8c4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/03/d8857250-12dd-11ed-abd7-e50de85e8c4e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/03/d63a22c0-12dd-11ed-abd7-e50de85e8c4e.png"
 }
 ,
 {
@@ -2260,6 +2260,23 @@
 }
 ,
 {
+    "Name": "多功能调试助手",
+    "Version": "1.0.1.5",
+    "Filename": "fire-tool_1.0.1.5_amd64.deb",
+    "Torrent_address": "fire-tool_1.0.1.5_amd64.deb.torrent",
+    "Pkgname": "fire-tool",
+    "Author": "东莞野火科技有限公司",
+    "Contributor": "freeor",
+    "Website": "https://embedfire.com/",
+    "Update": "2024-05-21 10:56:06",
+    "Size": "17.28 MB",
+    "More": "串口、网络、pid等多功能调试助手",
+    "Tags": "deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e74a630-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e808d10-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e7ae7c0-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e876ae0-171d-11ef-aa54-156affbdb62c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/21/6c8ac960-171d-11ef-aa54-156affbdb62c.png"
+}
+,
+{
     "Name": "爱宝编程器",
     "Version": "3.1.1",
     "Filename": "com.ipalprogrammer.deepin_3.1.1_amd64.deb",
@@ -2323,23 +2340,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/04/0a4a5630-5519-11ec-8ef0-259c1170c3c7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/04/10591660-5519-11ec-8ef0-259c1170c3c7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/04/13ad9890-5519-11ec-8ef0-259c1170c3c7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/04/03831b70-5519-11ec-8ef0-259c1170c3c7.png"
-}
-,
-{
-    "Name": "多功能调试助手",
-    "Version": "1.0.1.5",
-    "Filename": "fire-tool_1.0.1.5_amd64.deb",
-    "Torrent_address": "fire-tool_1.0.1.5_amd64.deb.torrent",
-    "Pkgname": "fire-tool",
-    "Author": "东莞野火科技有限公司",
-    "Contributor": "freeor",
-    "Website": "https://embedfire.com/",
-    "Update": "2024-05-21 10:56:06",
-    "Size": "17.28 MB",
-    "More": "串口、网络、pid等多功能调试助手",
-    "Tags": "deepin;ubuntu;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e74a630-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e808d10-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e7ae7c0-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e876ae0-171d-11ef-aa54-156affbdb62c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/21/6c8ac960-171d-11ef-aa54-156affbdb62c.png"
 }
 ,
 {

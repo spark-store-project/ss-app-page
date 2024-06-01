@@ -1114,22 +1114,6 @@
 
 ,
 {
-    "Name": "Mélodie",
-    "Version": "2.0.0spark0",
-    "Filename": "io.github.feugy.melodie.spark_2.0.0spark0_amd64.deb",
-    "Pkgname": "io.github.feugy.melodie.spark",
-    "Author": "Damien Simonin Feugas",
-    "Contributor": "sgb76",
-    "Website": "https://feugy.github.io/melodie/",
-    "Update": "2021-12-19 23:19:01",
-    "Size": "66.59 MB",
-    "More": "一款简单、漂亮的音乐播放器",
-    "Tags": "ubuntu;deepin;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/19/daeaf440-60de-11ec-aac5-4fe3a06c2943.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/19/de2d9c20-60de-11ec-aac5-4fe3a06c2943.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/19/d5f34960-60de-11ec-aac5-4fe3a06c2943.png"
-}
-,
-{
     "Name": "musicfox （网易云音乐命令行版）",
     "Version": "4.4.1-2",
     "Filename": "go-musicfox_4.4.1-2_amd64.deb",
@@ -1144,6 +1128,22 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/795996e1070e44de8fb335054d0fe27e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/7bb6672d35b3400187ee386911df8a4a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/4f598e56a86e4800b419016ce0e2c903.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/cba58e0d66ae4990bb80f55921ad2dd7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/cf6fa46e339946f6ad7dc5da5c66ecb5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/d82f2ee17ce94603b00f7f9afd17409a.png"
+}
+,
+{
+    "Name": "Mélodie",
+    "Version": "2.0.0spark0",
+    "Filename": "io.github.feugy.melodie.spark_2.0.0spark0_amd64.deb",
+    "Pkgname": "io.github.feugy.melodie.spark",
+    "Author": "Damien Simonin Feugas",
+    "Contributor": "sgb76",
+    "Website": "https://feugy.github.io/melodie/",
+    "Update": "2021-12-19 23:19:01",
+    "Size": "66.59 MB",
+    "More": "一款简单、漂亮的音乐播放器",
+    "Tags": "ubuntu;deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/19/daeaf440-60de-11ec-aac5-4fe3a06c2943.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/19/de2d9c20-60de-11ec-aac5-4fe3a06c2943.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/19/d5f34960-60de-11ec-aac5-4fe3a06c2943.png"
 }
 ,
 {
@@ -1164,23 +1164,6 @@
 }
 ,
 {
-    "Name": "Muse-Hub",
-    "Version": "1.0.1.451",
-    "Filename": "muse-hub_1.0.1.451_amd64.deb",
-    "Torrent_address": "muse-hub_1.0.1.451_amd64.deb.torrent",
-    "Pkgname": "muse-hub",
-    "Author": "Muse Group <contact@mu.se>",
-    "Contributor": "Muse Group <contact@mu.se>",
-    "Website": "https://www.musehub.com/",
-    "Update": "2023-09-13 19:31:14",
-    "Size": "35.05 MB",
-    "More": "用于给musescore下载音源，需要配合musescore使用\n\n***安装后打不开的解决办法（二选一即可）：\n1.每次打开muse-hub之前在终端输入    export_LC=ALL（（LC和 ALL之间有个下划线）,再输入muse-hub（推荐）\n2.打开/usr/share/applications，找到muse-hub.desktop，用管理员权限打开，用文本编辑器打开，将Exec那行改成Exec=env   LC _ALL=C muse-hub   （LC和 ALL之间有个下划线），保存（不推荐）",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/13/1ab8564b94f642ef9e5de6942e98e82c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/13/7a901cd010324786965988d09c6a67c9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/13/c599e42584c54bdf8ff241a4d6c1bed3.png"
-}
-,
-{
     "Name": "musicfox 源码编译版",
     "Version": "2024.05.27-2",
     "Filename": "go-musicfox-git_2024.05.27-2_amd64.deb",
@@ -1195,6 +1178,23 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/e4b0756b4d984118b00e47e7221a2947.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/cb8df42c3a194357a62f49e3ec25fc35.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/5af0f5b0eb91440aaf2be4f307adeb97.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/a90862f202844246aa945464094d35bf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/59eef96031a648429e8cf1a846659c48.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/02f54b0572ad4f698c430777bb9bad5d.png"
+}
+,
+{
+    "Name": "Muse-Hub",
+    "Version": "1.0.1.451",
+    "Filename": "muse-hub_1.0.1.451_amd64.deb",
+    "Torrent_address": "muse-hub_1.0.1.451_amd64.deb.torrent",
+    "Pkgname": "muse-hub",
+    "Author": "Muse Group <contact@mu.se>",
+    "Contributor": "Muse Group <contact@mu.se>",
+    "Website": "https://www.musehub.com/",
+    "Update": "2023-09-13 19:31:14",
+    "Size": "35.05 MB",
+    "More": "用于给musescore下载音源，需要配合musescore使用\n\n***安装后打不开的解决办法（二选一即可）：\n1.每次打开muse-hub之前在终端输入    export_LC=ALL（（LC和 ALL之间有个下划线）,再输入muse-hub（推荐）\n2.打开/usr/share/applications，找到muse-hub.desktop，用管理员权限打开，用文本编辑器打开，将Exec那行改成Exec=env   LC _ALL=C muse-hub   （LC和 ALL之间有个下划线），保存（不推荐）",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/13/1ab8564b94f642ef9e5de6942e98e82c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/13/7a901cd010324786965988d09c6a67c9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/13/c599e42584c54bdf8ff241a4d6c1bed3.png"
 }
 ,
 {

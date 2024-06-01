@@ -858,24 +858,6 @@
 
 ,
 {
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.github.xfangfang.macast_0.7_arm64.deb",
-    "More": "Macast是一个跨平台的 菜单栏\n\n状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。\n\n注：如果投屏发生闪退，可尝试将硬件解码关闭",
-    "Name": "Macast",
-    "Pkgname": "com.github.xfangfang.macast",
-    "Size": "313 Mb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "com.github.xfangfang.macast_0.7_arm64.deb.torrent",
-    "Update": "2023-07-25 18:24:33",
-    "Version": "0.7",
-    "Website": "https://gitee.com/xfangfang/Macast",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.github.xfangfang.macast/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.xfangfang.macast/screen_1.png\"]"
-}
-
-,
-{
     "Author": "zinface <zinface@163.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "android-adb-fastboot-tools_0.3.2-20230308_arm64.deb",
@@ -890,6 +872,24 @@
     "Website": "https://gitee.com/zinface/qt.android-adb-fastboot-tools",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.github.xfangfang.macast_0.7_arm64.deb",
+    "More": "Macast是一个跨平台的 菜单栏\n\n状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。\n\n注：如果投屏发生闪退，可尝试将硬件解码关闭",
+    "Name": "Macast",
+    "Pkgname": "com.github.xfangfang.macast",
+    "Size": "313 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "com.github.xfangfang.macast_0.7_arm64.deb.torrent",
+    "Update": "2023-07-25 18:24:33",
+    "Version": "0.7",
+    "Website": "https://gitee.com/xfangfang/Macast",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.github.xfangfang.macast/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.xfangfang.macast/screen_1.png\"]"
 }
 
 ,
@@ -1110,24 +1110,6 @@
 
 ,
 {
-    "Author": "shenmo <shenmo@spark-app.stpre>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "autotrash-bash_1.1.1_all.deb",
-    "More": "一个脚本，可以删除在回收站中长期滞留的文件，实现自动清理回收站",
-    "Name": "autotrash(自动删除回收站文件)",
-    "Pkgname": "autotrash-bash",
-    "Size": "2 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "autotrash-bash_1.1.1_all.deb.torrent",
-    "Update": "2023-07-05 11:41:48",
-    "Version": "1.1.1",
-    "Website": "https://gitee.com/spark-community-works-collections/transhell",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/autotrash-bash/icon.png",
-    "img_urls": "[]"
-}
-
-,
-{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "spark-web-packer_0.1.3_all.deb",
@@ -1142,6 +1124,24 @@
     "Website": "ttps://gitee.com/deepin-community-store/web-packer",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-web-packer/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-web-packer/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.stpre>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "autotrash-bash_1.1.1_all.deb",
+    "More": "一个脚本，可以删除在回收站中长期滞留的文件，实现自动清理回收站",
+    "Name": "autotrash(自动删除回收站文件)",
+    "Pkgname": "autotrash-bash",
+    "Size": "2 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "autotrash-bash_1.1.1_all.deb.torrent",
+    "Update": "2023-07-05 11:41:48",
+    "Version": "1.1.1",
+    "Website": "https://gitee.com/spark-community-works-collections/transhell",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/autotrash-bash/icon.png",
+    "img_urls": "[]"
 }
 
 ,

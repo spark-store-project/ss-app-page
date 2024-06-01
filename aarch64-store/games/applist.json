@@ -54,24 +54,6 @@
 
 ,
 {
-    "Author": "SDLPAL development team",
-    "Contributor": "kero990",
-    "Filename": "sdlpal_2.0.2017.1114.147_arm64.deb",
-    "More": "开源的仙剑奇侠传98柔情版。",
-    "Name": "仙剑奇侠传98柔情版(Linux)",
-    "Pkgname": "sdlpal",
-    "Size": "82 Mb",
-    "Tags": "",
-    "Torrent_address": "sdlpal_2.0.2017.1114.147_arm64.deb.torrent",
-    "Update": "2023-04-02 10:58:18",
-    "Version": "2.0.2017.1114.147",
-    "Website": "https://github.com/sdlpal/sdlpal",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/sdlpal/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/sdlpal/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/sdlpal/screen_2.png\"]"
-}
-
-,
-{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "net.hmcl.huangyuhui_3.5.6.243_arm64.deb",
@@ -86,6 +68,24 @@
     "Website": "https://hmcl.huangyuhui.net/",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/games/net.hmcl.huangyuhui/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/net.hmcl.huangyuhui/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/net.hmcl.huangyuhui/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/net.hmcl.huangyuhui/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/net.hmcl.huangyuhui/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/net.hmcl.huangyuhui/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "SDLPAL development team",
+    "Contributor": "kero990",
+    "Filename": "sdlpal_2.0.2017.1114.147_arm64.deb",
+    "More": "开源的仙剑奇侠传98柔情版。",
+    "Name": "仙剑奇侠传98柔情版(Linux)",
+    "Pkgname": "sdlpal",
+    "Size": "82 Mb",
+    "Tags": "",
+    "Torrent_address": "sdlpal_2.0.2017.1114.147_arm64.deb.torrent",
+    "Update": "2023-04-02 10:58:18",
+    "Version": "2.0.2017.1114.147",
+    "Website": "https://github.com/sdlpal/sdlpal",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/sdlpal/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/sdlpal/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/sdlpal/screen_2.png\"]"
 }
 
 ,
@@ -449,24 +449,6 @@
 
 ,
 {
-    "Author": "M木糖M",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "spark-daifurush-bymutangm_0.2_arm64.deb",
-    "More": "一款小游戏，详细可见：https://www.bilibili.com/video/BV1Fd4y1N79Y",
-    "Name": "戴夫RUSH(Wine)",
-    "Pkgname": "spark-daifurush-bymutangm",
-    "Size": "50 Mb",
-    "Tags": "deepin;uos;dwine5",
-    "Torrent_address": "spark-daifurush-bymutangm_0.2_arm64.deb.torrent",
-    "Update": "2023-03-05 19:34:49",
-    "Version": "0.2",
-    "Website": "https://www.bilibili.com/video/BV1Fd4y1N79Y",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/spark-daifurush-bymutangm/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/spark-daifurush-bymutangm/screen_1.png\"]"
-}
-
-,
-{
     "Author": "spark-store",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "ltmx.doushouqi.linux_1.0.0_arm64.deb",
@@ -485,20 +467,20 @@
 
 ,
 {
-    "Author": "DaifuRushByMutangM",
+    "Author": "M木糖M",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "uengine-dc-com.defaultcompany.daifurushbymutangm_1.0_all.deb",
-    "More": "一款小游戏，详细可见：https://www.bilibili.com/video/BV1Fd4y1N79Y \n因为普通版和高难度版包名重合，所以高难度版没有传，可以到上面的链接获取APK安装包",
-    "Name": "戴夫RUSH(uengine)",
-    "Pkgname": "uengine-dc-com.defaultcompany.daifurushbymutangm",
-    "Size": "47 Mb",
-    "Tags": "deepin;uos",
-    "Torrent_address": "uengine-dc-com.defaultcompany.daifurushbymutangm_1.0_all.deb.torrent",
-    "Update": "2023-04-29 09:35:20",
-    "Version": "1.0",
+    "Filename": "spark-daifurush-bymutangm_0.2_arm64.deb",
+    "More": "一款小游戏，详细可见：https://www.bilibili.com/video/BV1Fd4y1N79Y",
+    "Name": "戴夫RUSH(Wine)",
+    "Pkgname": "spark-daifurush-bymutangm",
+    "Size": "50 Mb",
+    "Tags": "deepin;uos;dwine5",
+    "Torrent_address": "spark-daifurush-bymutangm_0.2_arm64.deb.torrent",
+    "Update": "2023-03-05 19:34:49",
+    "Version": "0.2",
     "Website": "https://www.bilibili.com/video/BV1Fd4y1N79Y",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/uengine-dc-com.defaultcompany.daifurushbymutangm/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/uengine-dc-com.defaultcompany.daifurushbymutangm/screen_1.png\"]"
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/spark-daifurush-bymutangm/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/spark-daifurush-bymutangm/screen_1.png\"]"
 }
 
 ,
@@ -517,6 +499,24 @@
     "Website": "https://space.bilibili.com/97213827",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "DaifuRushByMutangM",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "uengine-dc-com.defaultcompany.daifurushbymutangm_1.0_all.deb",
+    "More": "一款小游戏，详细可见：https://www.bilibili.com/video/BV1Fd4y1N79Y \n因为普通版和高难度版包名重合，所以高难度版没有传，可以到上面的链接获取APK安装包",
+    "Name": "戴夫RUSH(uengine)",
+    "Pkgname": "uengine-dc-com.defaultcompany.daifurushbymutangm",
+    "Size": "47 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "uengine-dc-com.defaultcompany.daifurushbymutangm_1.0_all.deb.torrent",
+    "Update": "2023-04-29 09:35:20",
+    "Version": "1.0",
+    "Website": "https://www.bilibili.com/video/BV1Fd4y1N79Y",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/uengine-dc-com.defaultcompany.daifurushbymutangm/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/uengine-dc-com.defaultcompany.daifurushbymutangm/screen_1.png\"]"
 }
 
 ]

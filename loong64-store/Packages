@@ -2136,21 +2136,6 @@ Description: Graphical tool to repair boot problems
 
 Package: ace-bookworm-x86
 Architecture: loong64
-Version: 12.4.12.1
-Priority: optional
-Section: misc
-Maintainer: shenmo <shenmo@spark-app.store>
-Depends: bubblewrap,flatpak,zenity,policykit-1,gcc,systemd,lat,binfmt-support,aria2
-Filename: tools/ace-bookworm-x86/ace-bookworm-x86_12.4.12.1_loong64.deb
-Size: 160112568
-MD5sum: 9f337f9bafea37ed0223d3f3c9aa56f5
-SHA1: 3e36e137e29c04a01d464d9d7e7e7aea2bcc46d9
-SHA256: 4259b96e0fa803acffca7f29d1ef6ba591d96384c4f9b5b6235dffe6eba613f0
-SHA512: 89a18ef73f819aefec2e6e0ab0e42e32d356b25594dd9c827d6f4e241b3022da4c5a2077d718f99cd06e8b0a79ea8b059e6af3a225bd97d7ac7fb6c5b8bf2a24
-Description: 注意注意这个版本的init里面链接的host-spawn是arm64的版本所以这不是-all
-
-Package: ace-bookworm-x86
-Architecture: loong64
 Version: 12.4.12.2
 Priority: optional
 Section: misc

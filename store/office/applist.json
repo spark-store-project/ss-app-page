@@ -823,23 +823,6 @@
 }
 ,
 {
-    "Name": "MindMaster",
-    "Version": "10.8.0",
-    "Filename": "mindmaster_10.8.0_amd64.deb",
-    "Torrent_address": "mindmaster_10.8.0_amd64.deb.torrent",
-    "Pkgname": "mindmaster",
-    "Author": "SHENZHEN EDRAW SOFTWARE CO.LTD",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.edrawsoft.cn/",
-    "Update": "2024-03-23 09:54:02",
-    "Size": "410.5 MB",
-    "More": "一款基于云的跨端思维导图软件。MindMaster可以将纷繁复杂的想法、知识和信息，如学习笔记、会议纪要、项目需求等简化成一张张清晰的思维导图，以结构化有序化的方式呈现，提高归纳、学习和记忆的效率，方便展示和讲解。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/1c30f0fa133c4bbb9a5f78ba131a9cb6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/ccf7df6ec6d44daba6fc2eeeab9d12c1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/ffddcfa55e794dd9a64f03ed846a66b6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/f34a169f164b44f2a4568e728a8feb32.png"
-}
-,
-{
     "Name": "Marktext中文版",
     "Version": "0.17.1",
     "Filename": "marktext_0.17.1_amd64.deb",
@@ -854,6 +837,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/34c40b3b9dd94709bc40632585140c16.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/b3c645003c154fa4a5a1bc659309984b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/6817cc0c6aaa419296803eb47e2a4484.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/19/95e39f618ef646eaad59f3b86fa74c48.png"
+}
+,
+{
+    "Name": "MindMaster",
+    "Version": "10.8.0",
+    "Filename": "mindmaster_10.8.0_amd64.deb",
+    "Torrent_address": "mindmaster_10.8.0_amd64.deb.torrent",
+    "Pkgname": "mindmaster",
+    "Author": "SHENZHEN EDRAW SOFTWARE CO.LTD",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.edrawsoft.cn/",
+    "Update": "2024-03-23 09:54:02",
+    "Size": "410.5 MB",
+    "More": "一款基于云的跨端思维导图软件。MindMaster可以将纷繁复杂的想法、知识和信息，如学习笔记、会议纪要、项目需求等简化成一张张清晰的思维导图，以结构化有序化的方式呈现，提高归纳、学习和记忆的效率，方便展示和讲解。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/1c30f0fa133c4bbb9a5f78ba131a9cb6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/ccf7df6ec6d44daba6fc2eeeab9d12c1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/ffddcfa55e794dd9a64f03ed846a66b6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/f34a169f164b44f2a4568e728a8feb32.png"
 }
 ,
 {
@@ -1265,23 +1265,6 @@
 }
 ,
 {
-    "Name": "超星学习通（uengine）",
-    "Version": "6.0.3",
-    "Filename": "uengine-dc-com.chaoxing.mobile_6.0.3_all.deb",
-    "Torrent_address": "uengine-dc-com.chaoxing.mobile_6.0.3_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.chaoxing.mobile",
-    "Author": "学习通",
-    "Contributor": "shenmo",
-    "Website": "http://apps.chaoxing.com/",
-    "Update": "2022-09-05 10:46:41",
-    "Size": "105.15 MB",
-    "More": "超星学习通 安卓版",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/05/d37ed430-2cc4-11ed-bb9e-6dccb8331bd4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/05/d90c2f60-2cc4-11ed-bb9e-6dccb8331bd4.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/05/a8b80dc0-2cc4-11ed-bb9e-6dccb8331bd4.png"
-}
-,
-{
     "Name": "搜狗输入法Deepin版小语种",
     "Version": "1.0.0",
     "Filename": "com.sogou.sogoupinyin-deepin-tadict_1.0.0_all.deb",
@@ -1296,6 +1279,23 @@
     "Tags": "deepin;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/28cf3701d69e4214bec4266cfbaae1f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/75295f85f92c42aea225cc0dee8cfe5a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/1cc19c8f2d6b46fe8dc188438fbe01e8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/f1647724c8ac4e8799bd5802151c1697.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/16/282368b0c3404319a4da29412565f377.png"
+}
+,
+{
+    "Name": "超星学习通（uengine）",
+    "Version": "6.0.3",
+    "Filename": "uengine-dc-com.chaoxing.mobile_6.0.3_all.deb",
+    "Torrent_address": "uengine-dc-com.chaoxing.mobile_6.0.3_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.chaoxing.mobile",
+    "Author": "学习通",
+    "Contributor": "shenmo",
+    "Website": "http://apps.chaoxing.com/",
+    "Update": "2022-09-05 10:46:41",
+    "Size": "105.15 MB",
+    "More": "超星学习通 安卓版",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/05/d37ed430-2cc4-11ed-bb9e-6dccb8331bd4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/05/d90c2f60-2cc4-11ed-bb9e-6dccb8331bd4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/05/a8b80dc0-2cc4-11ed-bb9e-6dccb8331bd4.png"
 }
 ,
 {
@@ -1467,22 +1467,6 @@
 }
 ,
 {
-    "Name": "Cmd Markdown 编辑阅读器",
-    "Version": "2.0",
-    "Filename": "com.cmd-markdown.spark_2.0_amd64.deb",
-    "Pkgname": "com.cmd-markdown.spark",
-    "Author": "作业部落@ghosert",
-    "Contributor": "sgb76",
-    "Website": "https://www.zybuluo.com/mdeditor",
-    "Update": "2021-01-18 15:31:25",
-    "Size": "25.88 MB",
-    "More": "一款简洁、高效、漂亮的Markdown文档编辑阅读器，可以用来整理知识，学习笔记；发布日记，杂文，所见所想；撰写发布技术文稿（代码支持）；撰写发布学术论文（LaTeX 公式支持） ",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/18/f16c5a20-595e-11eb-94ea-4b6de6939328.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/18/f3c4f020-595e-11eb-94ea-4b6de6939328.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/18/f5e92fb0-595e-11eb-94ea-4b6de6939328.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/18/ed1e35b0-595e-11eb-94ea-4b6de6939328.png"
-}
-,
-{
     "Name": "稻壳阅读器（Wine）",
     "Version": "2.2.21spark0",
     "Filename": "com.docbox.spark_2.2.21spark0_all.deb",
@@ -1497,6 +1481,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/5c2f33d74069430c91f2fa89b8aacc64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/48a877bb6bfa486aa4ca01aaea41916a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/e89c98d38e6f464d8b1bb33fd04b1501.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/21/cf30b76596e745aaafbf3f347a413e12.png"
+}
+,
+{
+    "Name": "Cmd Markdown 编辑阅读器",
+    "Version": "2.0",
+    "Filename": "com.cmd-markdown.spark_2.0_amd64.deb",
+    "Pkgname": "com.cmd-markdown.spark",
+    "Author": "作业部落@ghosert",
+    "Contributor": "sgb76",
+    "Website": "https://www.zybuluo.com/mdeditor",
+    "Update": "2021-01-18 15:31:25",
+    "Size": "25.88 MB",
+    "More": "一款简洁、高效、漂亮的Markdown文档编辑阅读器，可以用来整理知识，学习笔记；发布日记，杂文，所见所想；撰写发布技术文稿（代码支持）；撰写发布学术论文（LaTeX 公式支持） ",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/18/f16c5a20-595e-11eb-94ea-4b6de6939328.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/18/f3c4f020-595e-11eb-94ea-4b6de6939328.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/18/f5e92fb0-595e-11eb-94ea-4b6de6939328.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/18/ed1e35b0-595e-11eb-94ea-4b6de6939328.png"
 }
 ,
 {
@@ -2218,6 +2218,22 @@
 }
 ,
 {
+    "Name": "班级优化大师",
+    "Version": "2.0.11",
+    "Filename": "com.seewo.easicare.spark_2.0.11_amd64.deb",
+    "Pkgname": "com.seewo.easicare.spark",
+    "Author": "广州视睿电子科技有限公司",
+    "Contributor": "chaodn",
+    "Website": "https://care.seewo.com/",
+    "Update": "2021-07-10 16:29:46",
+    "Size": "56.89 MB",
+    "More": " 班级优化大师是一款由希沃（seewo）自主研发的针对教师教学管理优化的软件，功能覆盖课堂管理、班级管理、家校管理三大场景。以学生综合素质评价系统为核心，班级优化大师可以帮助教师实现游戏化的师生互动教学体验、高效率的班级管理和有质量的家校沟通。 ",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/e232be00-e158-11eb-b946-b94100980c83.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/e51fa4c0-e158-11eb-b946-b94100980c83.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/e76bb7a0-e158-11eb-b946-b94100980c83.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/e9b8dbf0-e158-11eb-b946-b94100980c83.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/10/d7874430-e158-11eb-b946-b94100980c83.ico"
+}
+,
+{
     "Name": "MindLine",
     "Version": "3.8.9spark2",
     "Filename": "cn.mindline.spark_3.8.9spark2_amd64.deb",
@@ -2232,22 +2248,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/31/9d16fe971c314b7fb03a2ee43e8336df.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/31/61ef12791dc14970ad7af64645e56562.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/31/3ba8ad52c63b4c8b9d88222ee008a7dd.png"
-}
-,
-{
-    "Name": "班级优化大师",
-    "Version": "2.0.11",
-    "Filename": "com.seewo.easicare.spark_2.0.11_amd64.deb",
-    "Pkgname": "com.seewo.easicare.spark",
-    "Author": "广州视睿电子科技有限公司",
-    "Contributor": "chaodn",
-    "Website": "https://care.seewo.com/",
-    "Update": "2021-07-10 16:29:46",
-    "Size": "56.89 MB",
-    "More": " 班级优化大师是一款由希沃（seewo）自主研发的针对教师教学管理优化的软件，功能覆盖课堂管理、班级管理、家校管理三大场景。以学生综合素质评价系统为核心，班级优化大师可以帮助教师实现游戏化的师生互动教学体验、高效率的班级管理和有质量的家校沟通。 ",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/e232be00-e158-11eb-b946-b94100980c83.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/e51fa4c0-e158-11eb-b946-b94100980c83.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/e76bb7a0-e158-11eb-b946-b94100980c83.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/e9b8dbf0-e158-11eb-b946-b94100980c83.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/10/d7874430-e158-11eb-b946-b94100980c83.ico"
 }
 ,
 {
@@ -2620,6 +2620,23 @@
 }
 ,
 {
+    "Name": "搜狗输入法UOS版语言数据包",
+    "Version": "1.0.0",
+    "Filename": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb",
+    "Torrent_address": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb.torrent",
+    "Pkgname": "com.sogou.sogoupinyin-uos-sogouvoice",
+    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://pinyin.sogou.com/linux",
+    "Update": "2023-05-20 22:09:03",
+    "Size": "878.22 MB",
+    "More": "搜狗输入法UOS版使用语音功能，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一。",
+    "Tags": "uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/442ae1d904d449249264283f3df7cd1f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/dbc5adabad134395874f57c34aa9ffe2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/3043006c16644596818679607634c83c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/8da17b09e48d4450b3a4000646d53d31.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/bd8e4b080a744d7da23846b40f5af8d4.png"
+}
+,
+{
     "Name": "火龙果写作",
     "Version": "4.5.1spark1",
     "Filename": "com.mypitaya.pitaya.spark_4.5.1spark1_amd64.deb",
@@ -2685,23 +2702,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/20/e3e090980e284d6c935e72abab8848f3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/20/9689b60d5bca447fb81fa56a8ae72d51.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/20/9c27cf05bc7e49f0b29373750c3ce2e9.png"
-}
-,
-{
-    "Name": "搜狗输入法UOS版语言数据包",
-    "Version": "1.0.0",
-    "Filename": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb",
-    "Torrent_address": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb.torrent",
-    "Pkgname": "com.sogou.sogoupinyin-uos-sogouvoice",
-    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://pinyin.sogou.com/linux",
-    "Update": "2023-05-20 22:09:03",
-    "Size": "878.22 MB",
-    "More": "搜狗输入法UOS版使用语音功能，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一。",
-    "Tags": "uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/442ae1d904d449249264283f3df7cd1f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/dbc5adabad134395874f57c34aa9ffe2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/3043006c16644596818679607634c83c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/8da17b09e48d4450b3a4000646d53d31.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/bd8e4b080a744d7da23846b40f5af8d4.png"
 }
 ,
 {
@@ -2788,6 +2788,23 @@
 }
 ,
 {
+    "Name": "Freeplane",
+    "Version": "1.11.11~upstream-1",
+    "Filename": "freeplane_1.11.11~upstream-1_all.deb",
+    "Torrent_address": "freeplane_1.11.11~upstream-1_all.deb.torrent",
+    "Pkgname": "freeplane",
+    "Author": "Freeplane",
+    "Contributor": "OkayPJ",
+    "Website": "https://www.freeplane.org/",
+    "Update": "2024-03-10 10:17:09",
+    "Size": "60.25 MB",
+    "More": "Freeplane is a free and open source software application that supports thinking, sharing information, getting things done at work, in school and at home. It provides you a set of tools for mind mapping (also known as concept mapping or information mapping) and navigating the mapped information. Freeplane is also a more robust and superuser alternative to Xmind, Mindmeister, and similar mind mapping software.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/e1674e70-de83-11ee-9ef9-db09acd1df95.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/e1711270-de83-11ee-9ef9-db09acd1df95.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/e16dde20-de83-11ee-9ef9-db09acd1df95.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/e172e730-de83-11ee-9ef9-db09acd1df95.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/10/de160090-de83-11ee-9ef9-db09acd1df95.png"
+}
+,
+{
     "Name": "抖店工作站(wine)",
     "Version": "0.11.6",
     "Filename": "com.doudian.workstation.spark_0.11.6_all.deb",
@@ -2819,23 +2836,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/29/b75a5d5b36064789bbbdfaa1c8396866.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/29/c49b3489b8844e4a9eab542acb0afcca.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/29/d66e2a17a3ed4c5fb5e488a2ac0fc42f.png"
-}
-,
-{
-    "Name": "Freeplane",
-    "Version": "1.11.11~upstream-1",
-    "Filename": "freeplane_1.11.11~upstream-1_all.deb",
-    "Torrent_address": "freeplane_1.11.11~upstream-1_all.deb.torrent",
-    "Pkgname": "freeplane",
-    "Author": "Freeplane",
-    "Contributor": "OkayPJ",
-    "Website": "https://www.freeplane.org/",
-    "Update": "2024-03-10 10:17:09",
-    "Size": "60.25 MB",
-    "More": "Freeplane is a free and open source software application that supports thinking, sharing information, getting things done at work, in school and at home. It provides you a set of tools for mind mapping (also known as concept mapping or information mapping) and navigating the mapped information. Freeplane is also a more robust and superuser alternative to Xmind, Mindmeister, and similar mind mapping software.",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/e1674e70-de83-11ee-9ef9-db09acd1df95.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/e1711270-de83-11ee-9ef9-db09acd1df95.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/e16dde20-de83-11ee-9ef9-db09acd1df95.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/e172e730-de83-11ee-9ef9-db09acd1df95.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/10/de160090-de83-11ee-9ef9-db09acd1df95.png"
 }
 ,
 {
@@ -3190,6 +3190,23 @@
 }
 ,
 {
+    "Name": "希沃品课",
+    "Version": "1.2",
+    "Filename": "com.seewo.pincoteacher_1.2_amd64.deb",
+    "Torrent_address": "com.seewo.pincoteacher_1.2_amd64.deb.torrent",
+    "Pkgname": "com.seewo.pincoteacher",
+    "Author": "Seewo <seewo@seewo.com>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://www.seewo.com/index.php/Product/soft/cat_id/130/nid/370",
+    "Update": "2022-12-30 10:19:35",
+    "Size": "101.47 MB",
+    "More": "希沃品课是一套由希沃（seewo）自主研发的面向高职教师生的智慧课堂解决方案。产品主要围绕课前课中课后的教学场景，为数字化课堂、互动课堂和同步课堂的开展提供高效稳定的技术和产品支撑，为高职校信息化课堂赋能。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/7841ae10675e4bf493d36e361f375b89.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/173f4e73c81f495a9fd461403bf44536.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/170981f23ecb410c91fe2339d99de7e3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/30/1b44705704664aaf81f2a6247c4472f2.png"
+}
+,
+{
     "Name": "okular",
     "Version": "4",
     "Filename": "okular_4_amd64.deb",
@@ -3348,23 +3365,6 @@
     "Tags": "uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/63f618237b8a4c638870f10bd9003c08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/ce59ecf568e54d3c9c50b97074e947f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/53d2b262ec53497f9072db8a1c5802dd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/b290a8983c904d8a9ad7787485eaafbd.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/e999bb281693419ba3abf307624ad38d.png"
-}
-,
-{
-    "Name": "希沃品课",
-    "Version": "1.2",
-    "Filename": "com.seewo.pincoteacher_1.2_amd64.deb",
-    "Torrent_address": "com.seewo.pincoteacher_1.2_amd64.deb.torrent",
-    "Pkgname": "com.seewo.pincoteacher",
-    "Author": "Seewo <seewo@seewo.com>",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://www.seewo.com/index.php/Product/soft/cat_id/130/nid/370",
-    "Update": "2022-12-30 10:19:35",
-    "Size": "101.47 MB",
-    "More": "希沃品课是一套由希沃（seewo）自主研发的面向高职教师生的智慧课堂解决方案。产品主要围绕课前课中课后的教学场景，为数字化课堂、互动课堂和同步课堂的开展提供高效稳定的技术和产品支撑，为高职校信息化课堂赋能。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/7841ae10675e4bf493d36e361f375b89.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/173f4e73c81f495a9fd461403bf44536.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/170981f23ecb410c91fe2339d99de7e3.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/30/1b44705704664aaf81f2a6247c4472f2.png"
 }
 ,
 {
@@ -3960,6 +3960,23 @@
 }
 ,
 {
+    "Name": "希沃白板Web",
+    "Version": "1.14514",
+    "Filename": "wed-seewo_1.14514_all.deb",
+    "Torrent_address": "wed-seewo_1.14514_all.deb.torrent",
+    "Pkgname": "wed-seewo",
+    "Author": "baimacao",
+    "Contributor": "baimacao",
+    "Website": "https://enweb.seewo.com/",
+    "Update": "2024-05-22 17:50:56",
+    "Size": "29.16 KB",
+    "More": "唯一被老师认可的希沃白板，可以正常上课，web应用",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/a0ba4974dee742fcb656146be01cb321.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/49082957d0c64a059f6cadb90be58342.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/b80a658ca0594703ad75bcbd7c0abccb.png"
+}
+,
+{
    "Name":"RedNotebook",
    "Version":"2.20",
    "Filename":"rednotebook_2.20-0_202008022312_ubuntu20.04.1_all.deb",
@@ -4120,23 +4137,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/26/601c39880c544d199decec2fa686dc8a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/26/514f18599b3d41c489f70ddeecb8a068.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/26/61bd7e60b2f5484d9b2cb238719e7ab0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/26/1e32c86926f342dd8308affddca99198.png"
-}
-,
-{
-    "Name": "希沃白板Web",
-    "Version": "1.14514",
-    "Filename": "wed-seewo_1.14514_all.deb",
-    "Torrent_address": "wed-seewo_1.14514_all.deb.torrent",
-    "Pkgname": "wed-seewo",
-    "Author": "baimacao",
-    "Contributor": "baimacao",
-    "Website": "https://enweb.seewo.com/",
-    "Update": "2024-05-22 17:50:56",
-    "Size": "29.16 KB",
-    "More": "唯一被老师认可的希沃白板，可以正常上课，web应用",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/a0ba4974dee742fcb656146be01cb321.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/49082957d0c64a059f6cadb90be58342.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/b80a658ca0594703ad75bcbd7c0abccb.png"
 }
 ,
 {

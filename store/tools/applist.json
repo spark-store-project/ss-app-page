@@ -1130,22 +1130,6 @@
 
 ,
 {
-    "Name": "一个木函工具箱",
-    "Version": "0.1.0",
-    "Filename": "woodbox-desktop_0.1.0_amd64.deb",
-    "Pkgname": "woodbox-desktop",
-    "Author": "yeliulee",
-    "Contributor": "yeliulee（sgb76投稿）",
-    "Website": "https://web.woobx.cn/",
-    "Update": "2020-10-11 11:48:34",
-    "Size": "45.51 MB",
-    "More": "一个方便快捷的集合类工具箱",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/11/676bc990-0bb7-11eb-97bb-077cbe5cde25.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/11/6e64e9c0-0bb7-11eb-97bb-077cbe5cde25.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/11/60005f90-0bb7-11eb-97bb-077cbe5cde25.png"
-}
-,
-{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "uos-packaging-tools_1.2.1_all.deb",
@@ -1162,6 +1146,22 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_2.png\"]"
 }
 
+,
+{
+    "Name": "一个木函工具箱",
+    "Version": "0.1.0",
+    "Filename": "woodbox-desktop_0.1.0_amd64.deb",
+    "Pkgname": "woodbox-desktop",
+    "Author": "yeliulee",
+    "Contributor": "yeliulee（sgb76投稿）",
+    "Website": "https://web.woobx.cn/",
+    "Update": "2020-10-11 11:48:34",
+    "Size": "45.51 MB",
+    "More": "一个方便快捷的集合类工具箱",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/11/676bc990-0bb7-11eb-97bb-077cbe5cde25.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/11/6e64e9c0-0bb7-11eb-97bb-077cbe5cde25.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/11/60005f90-0bb7-11eb-97bb-077cbe5cde25.png"
+}
 ,
 {
     "Name": "Timeshift",
@@ -1476,22 +1476,6 @@
 }
 ,
 {
-    "Name": "QGIS",
-    "Version": "3.18.3",
-    "Filename": "qgis.gisshows_3.18.3_amd64.deb",
-    "Pkgname": "qgis.gisshows",
-    "Author": "QGIS",
-    "Contributor": "GIS Show",
-    "Website": "www.qgis.org",
-    "Update": "2021-05-18 20:43:57",
-    "Size": "57.33 MB",
-    "More": "一款免费的开源地理信息系统，针对deepin和UOS进行优化和重新编译",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/8fa658a0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/92cc77d0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/950095e0-b7d6-11eb-95cc-55162659a757.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/18/744e6070-b7d6-11eb-95cc-55162659a757.png"
-}
-,
-{
     "Name": "WPS Office 版本信息及字体检测小工具",
     "Version": "0.3-1",
     "Filename": "wps-check_0.3-1_all.deb",
@@ -1506,6 +1490,22 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/c9d64dc5317e415dbf51e0d935bd79ca.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/10/a77559bee8c94d93ac29d8e226971db7.png"
+}
+,
+{
+    "Name": "QGIS",
+    "Version": "3.18.3",
+    "Filename": "qgis.gisshows_3.18.3_amd64.deb",
+    "Pkgname": "qgis.gisshows",
+    "Author": "QGIS",
+    "Contributor": "GIS Show",
+    "Website": "www.qgis.org",
+    "Update": "2021-05-18 20:43:57",
+    "Size": "57.33 MB",
+    "More": "一款免费的开源地理信息系统，针对deepin和UOS进行优化和重新编译",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/8fa658a0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/92cc77d0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/950095e0-b7d6-11eb-95cc-55162659a757.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/18/744e6070-b7d6-11eb-95cc-55162659a757.png"
 }
 ,
 {
@@ -2365,6 +2365,22 @@
 }
 ,
 {
+    "Name": "Komorebi",
+    "Version": "2.2.0-1",
+    "Filename": "komorebi_2.2.1-1_amd64.deb",
+    "Pkgname": "komorebi",
+    "Author": "Komorebi-Fork",
+    "Contributor": "anima",
+    "Website": "https://github.com/Komorebi-Fork/komorebi",
+    "Update": "2020-10-25 02:57:31",
+    "Size": "30.79 MB",
+    "More": "Komorebi - Animated Wallpapers for Linux",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/2356ceb0-166d-11eb-a815-b9186224f79a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/25/67e77340-166d-11eb-a815-b9186224f79a.png"
+}
+,
+{
     "Name": "GitHub 访问加速包",
     "Version": "0.0.1-20240206",
     "Filename": "github-fast-access_0.0.1-20240206_all.deb",
@@ -2396,22 +2412,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/80baba1166574aeda4311851af8db563.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a8b3f2a04b1f4ba78ed78e174beea988.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a55a9b6db67f4dd0a2989787d3225506.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/caad566997094294bf3e840cc29eb129.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/3f3c5ec56f2d43698b1019ab4b59f26c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/29/4ac0b574bd524ef0bc1865df9346fd05.png"
-}
-,
-{
-    "Name": "Komorebi",
-    "Version": "2.2.0-1",
-    "Filename": "komorebi_2.2.1-1_amd64.deb",
-    "Pkgname": "komorebi",
-    "Author": "Komorebi-Fork",
-    "Contributor": "anima",
-    "Website": "https://github.com/Komorebi-Fork/komorebi",
-    "Update": "2020-10-25 02:57:31",
-    "Size": "30.79 MB",
-    "More": "Komorebi - Animated Wallpapers for Linux",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/2356ceb0-166d-11eb-a815-b9186224f79a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/25/67e77340-166d-11eb-a815-b9186224f79a.png"
 }
 ,
 {
@@ -2882,6 +2882,23 @@
 }
 ,
 {
+    "Name": "finalshell",
+    "Version": "4.3.10",
+    "Filename": "finalshell_4.3.10_amd64.deb",
+    "Torrent_address": "finalshell_4.3.10_amd64.deb.torrent",
+    "Pkgname": "finalshell",
+    "Author": "HOSTBUF",
+    "Contributor": "GH-ShanBao",
+    "Website": "znjs.asia",
+    "Update": "2024-04-21 12:19:08",
+    "Size": "89.68 MB",
+    "More": "finalshell_linux_x64.deb\n",
+    "Tags": "deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/21/41947650-ff96-11ee-b5ae-a318306da881.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/21/35b22a30-ff96-11ee-b5ae-a318306da881.png"
+}
+,
+{
     "Name": "Feem",
     "Version": "4.4.2",
     "Filename": "feem.spark_4.4.2_amd64.deb",
@@ -2929,23 +2946,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/e1fd85e453894de083d59e1e7959dab1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/ce818a5edba5410b87f443339164ab0c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/8b3435e095794b36a3a86177e12c468d.png"
-}
-,
-{
-    "Name": "finalshell",
-    "Version": "4.3.10",
-    "Filename": "finalshell_4.3.10_amd64.deb",
-    "Torrent_address": "finalshell_4.3.10_amd64.deb.torrent",
-    "Pkgname": "finalshell",
-    "Author": "HOSTBUF",
-    "Contributor": "GH-ShanBao",
-    "Website": "znjs.asia",
-    "Update": "2024-04-21 12:19:08",
-    "Size": "89.68 MB",
-    "More": "finalshell_linux_x64.deb\n",
-    "Tags": "deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/21/41947650-ff96-11ee-b5ae-a318306da881.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/21/35b22a30-ff96-11ee-b5ae-a318306da881.png"
 }
 ,
 {
@@ -3050,22 +3050,6 @@
 }
 ,
 {
-    "Name": "Slimbook Battery",
-    "Version": "3.97beta",
-    "Filename": "slimbookbattery_3.97beta_all.deb",
-    "Pkgname": "slimbookbattery",
-    "Author": "Slimbook team",
-    "Contributor": "FunnyAWM",
-    "Website": "http://slimbook.es",
-    "Update": "2021-02-24 22:19:22",
-    "Size": "357.84 KB",
-    "More": "Slimbook Battery是一个电源管理工具，带有三个预设，支持自行调整设置。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/24/3aa74ce0-76ab-11eb-b043-1321b17d460b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/24/4482f390-76ab-11eb-b043-1321b17d460b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/24/fe6f5880-76aa-11eb-b043-1321b17d460b.png"
-}
-,
-{
     "Name": "QQ 用户服务",
     "Version": "0.0.1",
     "Filename": "linuxqq-autoservice_0.0.1_all.deb",
@@ -3080,6 +3064,22 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/02/659595329e7542c0bca551a3f5c9815f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/02/7083578985b94a4d87afef6eb5f38837.png"
+}
+,
+{
+    "Name": "Slimbook Battery",
+    "Version": "3.97beta",
+    "Filename": "slimbookbattery_3.97beta_all.deb",
+    "Pkgname": "slimbookbattery",
+    "Author": "Slimbook team",
+    "Contributor": "FunnyAWM",
+    "Website": "http://slimbook.es",
+    "Update": "2021-02-24 22:19:22",
+    "Size": "357.84 KB",
+    "More": "Slimbook Battery是一个电源管理工具，带有三个预设，支持自行调整设置。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/24/3aa74ce0-76ab-11eb-b043-1321b17d460b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/24/4482f390-76ab-11eb-b043-1321b17d460b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/24/fe6f5880-76aa-11eb-b043-1321b17d460b.png"
 }
 ,
 {
@@ -3151,6 +3151,23 @@
 
 ,
 {
+    "Name": "通知中心天气小组件",
+    "Version": "0.1-1",
+    "Filename": "dde-widgets-weather-plugin_0.1-1_amd64.deb",
+    "Torrent_address": "dde-widgets-weather-plugin_0.1-1_amd64.deb.torrent",
+    "Pkgname": "dde-widgets-weather-plugin",
+    "Author": "linuxdeepin / zty199",
+    "Contributor": "zty199",
+    "Website": "https://github.com/zty199/dde-widgets-weather-plugin",
+    "Update": "2024-04-24 10:27:23",
+    "Size": "3.1 MB",
+    "More": "一个简单的通知中心天气小组件，基于和风天气开发服务开发。",
+    "Tags": "community;deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/4dcb79eff8654ae79b2984638ab7849c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/f1cd8bb207bb4f33b4de84d1f27688e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/b73a74a7b2cc4402a3918623d7d01278.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/a16b522362684bf8a7c72b08a676f017.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/24/574f62857e744d6db3046b8053364a02.png"
+}
+,
+{
     "Name": "Bashtop",
     "Version": "0.9.25-1~bpo10+1",
     "Filename": "com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus1_amd64.deb",
@@ -3182,23 +3199,6 @@
     "Tags": "community;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/31b6b713b891428dbf6cd1ac3b12376f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/e2801c76dcd24fe68f7118439cb073d7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/6e3b4b484adb44e19998b2f413b0a0f4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/08f655712b4441bbb59256f7e049c2c9.png"
-}
-,
-{
-    "Name": "通知中心天气小组件",
-    "Version": "0.1-1",
-    "Filename": "dde-widgets-weather-plugin_0.1-1_amd64.deb",
-    "Torrent_address": "dde-widgets-weather-plugin_0.1-1_amd64.deb.torrent",
-    "Pkgname": "dde-widgets-weather-plugin",
-    "Author": "linuxdeepin / zty199",
-    "Contributor": "zty199",
-    "Website": "https://github.com/zty199/dde-widgets-weather-plugin",
-    "Update": "2024-04-24 10:27:23",
-    "Size": "3.1 MB",
-    "More": "一个简单的通知中心天气小组件，基于和风天气开发服务开发。",
-    "Tags": "community;deepin;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/4dcb79eff8654ae79b2984638ab7849c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/f1cd8bb207bb4f33b4de84d1f27688e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/b73a74a7b2cc4402a3918623d7d01278.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/a16b522362684bf8a7c72b08a676f017.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/24/574f62857e744d6db3046b8053364a02.png"
 }
 ,
 {
@@ -3270,6 +3270,23 @@
 }
 ,
 {
+    "Name": "CPU-Z（Wine）",
+    "Version": "2.09spark0",
+    "Filename": "com.cpuz.spark_2.09spark0_all.deb",
+    "Torrent_address": "com.cpuz.spark_2.09spark0_all.deb.torrent",
+    "Pkgname": "com.cpuz.spark",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.cpuid.com/",
+    "Update": "2024-04-26 22:50:38",
+    "Size": "6.22 MB",
+    "More": "免费的 CPU 信息检测软件。这些信息包括：CPU 名称、厂商、性能、当前电压、L1 L2 cache情况；内核进程；内部和外部时钟等，支持全系列的Intel以及AMD品牌的CPU。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
+}
+,
+{
     "Name": "无线鼠标",
     "Version": "1.1.0",
     "Filename": "mousemove_1.1.0_amd64.deb",
@@ -3300,23 +3317,6 @@
     "Tags": "community;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png"
-}
-,
-{
-    "Name": "CPU-Z（Wine）",
-    "Version": "2.09spark0",
-    "Filename": "com.cpuz.spark_2.09spark0_all.deb",
-    "Torrent_address": "com.cpuz.spark_2.09spark0_all.deb.torrent",
-    "Pkgname": "com.cpuz.spark",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.cpuid.com/",
-    "Update": "2024-04-26 22:50:38",
-    "Size": "6.22 MB",
-    "More": "免费的 CPU 信息检测软件。这些信息包括：CPU 名称、厂商、性能、当前电压、L1 L2 cache情况；内核进程；内部和外部时钟等，支持全系列的Intel以及AMD品牌的CPU。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
 }
 ,
 {
@@ -3656,6 +3656,23 @@
 }
 ,
 {
+    "Name": "dock栏居中配置(dde)",
+    "Version": "0.0.2",
+    "Filename": "dde-dock-display-center_0.0.2_all.deb",
+    "Torrent_address": "dde-dock-display-center_0.0.2_all.deb.torrent",
+    "Pkgname": "dde-dock-display-center",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/dde-dock-display-center",
+    "Update": "2024-04-14 03:04:14",
+    "Size": "1.13 KB",
+    "More": "dde dock栏居中配置(dde-dock-display-center)\n\n1. 原本用于解决 dock 栏时尚居中的问题(修改版dde-dock可用)\n2. 脚本拥有重启 dde-dock 功能\n3. 当 dde-dock 出现异常时可作为重启 dde-dock 而用。\n\n适用于 deepin 20.x 与 deepin 23.x 全系列任意架构。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/c4547533ae224070a02f73de212b2661.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/c1f9ef1189524f81936c1fd2bbfd75a5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/14/bfdae9aac4cd413c87c340f5cfaa48c8.png"
+}
+,
+{
     "Name": "TagSpaces",
     "Version": "4.3.1",
     "Filename": "tagspaces_4.3.1_amd64.deb",
@@ -3687,23 +3704,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/06ffa0cb05ba472a8de69b4f0c768f7b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/18ba54eba17b44159e1e8aaff6c371e3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/9134fb891fac4c64af9802a8e355162f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/07/05f8247043f24be88006c24d87b56625.png"
-}
-,
-{
-    "Name": "dock栏居中配置(dde)",
-    "Version": "0.0.2",
-    "Filename": "dde-dock-display-center_0.0.2_all.deb",
-    "Torrent_address": "dde-dock-display-center_0.0.2_all.deb.torrent",
-    "Pkgname": "dde-dock-display-center",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/dde-dock-display-center",
-    "Update": "2024-04-14 03:04:14",
-    "Size": "1.13 KB",
-    "More": "dde dock栏居中配置(dde-dock-display-center)\n\n1. 原本用于解决 dock 栏时尚居中的问题(修改版dde-dock可用)\n2. 脚本拥有重启 dde-dock 功能\n3. 当 dde-dock 出现异常时可作为重启 dde-dock 而用。\n\n适用于 deepin 20.x 与 deepin 23.x 全系列任意架构。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/c4547533ae224070a02f73de212b2661.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/c1f9ef1189524f81936c1fd2bbfd75a5.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/14/bfdae9aac4cd413c87c340f5cfaa48c8.png"
 }
 ,
 {
@@ -4381,6 +4381,23 @@
 }
 ,
 {
+    "Name": "Smart Player （UEngine）",
+    "Version": "1.7.1",
+    "Filename": "com.ex.rubik_1.7.1_all.deb",
+    "Torrent_address": "com.ex.rubik_1.7.1_all.deb.torrent",
+    "Pkgname": "com.ex.rubik",
+    "Author": "One-Think",
+    "Contributor": "於泓锦",
+    "Website": "https://www.one-think.com/smartplayer.html",
+    "Update": "2023-09-15 14:22:46",
+    "Size": "13.31 MB",
+    "More": "支持连接奇艺二代计时器使用\n连接后可将每次成绩同步到Smart-Player硬件计时器成绩库\n（记得打开UEngine的蓝牙）",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/15/336426084b1f49f2bd52e1dab06283ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/15/d28d8d4f622e41509cf347b9271e6b96.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/15/bf59c0527e7446baad2c23e7a217a5bc.png"
+}
+,
+{
     "Name": "Pomotroid",
     "Version": "0.13.0",
     "Filename": "pomotroid_0.13.0_amd64.deb",
@@ -4446,23 +4463,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/12/ca58cb1f9074499e918a5e9bcf73999e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/12/8dd839092b284093a360ad6c9ea56379.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/12/114ef85429f94fa682d439de3a02175a.png"
-}
-,
-{
-    "Name": "Smart Player （UEngine）",
-    "Version": "1.7.1",
-    "Filename": "com.ex.rubik_1.7.1_all.deb",
-    "Torrent_address": "com.ex.rubik_1.7.1_all.deb.torrent",
-    "Pkgname": "com.ex.rubik",
-    "Author": "One-Think",
-    "Contributor": "於泓锦",
-    "Website": "https://www.one-think.com/smartplayer.html",
-    "Update": "2023-09-15 14:22:46",
-    "Size": "13.31 MB",
-    "More": "支持连接奇艺二代计时器使用\n连接后可将每次成绩同步到Smart-Player硬件计时器成绩库\n（记得打开UEngine的蓝牙）",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/15/336426084b1f49f2bd52e1dab06283ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/15/d28d8d4f622e41509cf347b9271e6b96.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/15/bf59c0527e7446baad2c23e7a217a5bc.png"
 }
 ,
 {
