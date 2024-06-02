@@ -1,16 +1,16 @@
 {
     "Name": "Sunny 截图",
-    "Version": "1.6.2",
-    "Filename": "sunny_1.6.2_amd64.deb",
-    "Torrent_address": "sunny_1.6.2_amd64.deb.torrent",
+    "Version": "1.6.3",
+    "Filename": "sunny_1.6.3_amd64.deb",
+    "Torrent_address": "sunny_1.6.3_amd64.deb.torrent",
     "Pkgname": "sunny",
     "Author": "XMuli <xmulitech@gmail.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Website": "https://github.com/XMuli",
-    "Update": "2024-05-22 14:49:56",
-    "Size": "923.78 KB",
-    "More": "Sunny是一款简洁且漂亮的\"截图 & 钉图\"软件，支持Windows、MacOS和Linux系统，亦支持 OCR 和图片翻译功能。官网: https://sunny.xmuli.tech",
+    "Update": "2024-06-02 15:01:30",
+    "Size": "905.57 KB",
+    "More": "Sunny是一款简洁且漂亮的\"截图 & 钉图\"软件，支持Windows、MacOS和Linux系统，亦支持 OCR 和图片翻译功能。官网: https://sunny.xmuli.tech\n\n自用中，积极开发功能和修复缺陷，以和提升用户体验\n\n功能\n  - 新增\"德语\"翻译\n  - 更新\"葡萄牙-巴西\"翻译\n  - 支持操作引导提示窗口\n\n修复\n  - 十字线会遮挡放大镜的区域 #25\n  - Linux 中点击时拉伸选中矩形后尺寸异常 #26\n  - 托盘预览的翻译未立刻生效 #19\n  - 其它小功能的优化\n\n感谢贡献\n感谢 @thiagodalsoto  提供葡萄牙语-巴西语翻译，感谢 @Kthargas 提供了德语翻译",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/6abcb5f9c7af41d89ed5231f7d627406.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/424ea56c146e4cf6b311591831aac998.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/567eb8c912444f9884350676373f2802.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/767d501c9a3f47adb88550e32424d8bc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/2d848a07e7a24a08bb83f5a1ee12e1a1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/18b3fdb2c47f456da3efc4034f5c17b8.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/0697ed3b0cd74a318bb029cc5fcb7dba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/7ecd11270e8b49258bb535cd80ad7f2e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/f577e1db22844066926730b835008c15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/baf4c1ea15bc413f996f67b4d1b8a478.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/1099a098771243968ad411e1455cada1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/dc8a20e95f85431cb03b556b87eff892.png"
 }

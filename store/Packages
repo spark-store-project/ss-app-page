@@ -9901,6 +9901,22 @@ Description: 自定义主题（内包含 壁纸、光标、字体）
 
 Package: com.uniontech.theme.infinitecontrol
 Architecture: all
+Version: 1.0.3
+Priority: optional
+Section: admin
+Maintainer: Tonny
+Installed-Size: 5374
+Depends: deepin-elf-verify (>= 1.1.10-1),deepin-icon-theme
+Filename: themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.3_all.deb
+Size: 3341400
+MD5sum: 8660bc62ebd84f6fa82d33d504dcabf7
+SHA1: afef30232a7a473f024d7e6ff276af15c8794c2a
+SHA256: fcf27eb329f7015366f9a34fc6000d593799ff04bb589c77ee62cee0965e9ecb
+SHA512: a800af5c5fc8c0a4beda06dfd302e703bd9a74dbdc7d5851d706af8db792bd7eaba9a5448f040698e8763aa0e3f873c0ca9c0d92ef176c1f3ed1f1bf8bdc42b3
+Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
+
+Package: com.uniontech.theme.infinitecontrol
+Architecture: all
 Version: 1.0.2
 Priority: optional
 Section: admin
@@ -12560,6 +12576,22 @@ MD5sum: 2caf32a720aaed8eea7aac4bef4a9eb0
 SHA1: e522b67e3113e53f696a2d13d5eebe2b8ba43af3
 SHA256: 4e544873daf5ace1c5bcffa9a6b8c1de01a27a81f89797a48b2d8008ae2e45f4
 SHA512: 66e436de1c591db844185fc253df0f0b6e7c7aa3b6a7662e159533a9067bc129204a574ee5738b407daa1e3f5f18f4889256747221cea705b5838679388eb114
+Description: Simple and beautiful screenshot software that supports Windows, macOS, and Linux. It also supports OCR and image translation features.
+
+Package: sunny
+Architecture: amd64
+Version: 1.6.3
+Priority: optional
+Section: devel
+Maintainer: XMuli <xmulitech@gmail.com>
+Installed-Size: 2696
+Depends: libqt5x11extras5, libqt5widgets5, libqt5xml5, libqt5svg5, libqt5network5
+Filename: image_graphics/sunny/sunny_1.6.3_amd64.deb
+Size: 927300
+MD5sum: 37910ed279858158fa3d94ea0f102926
+SHA1: 3fbe47350a32abab825a99a798f2a5fc9aae3818
+SHA256: 8e06a25931686327c235f51a86ca007eaf2ee63f2e09b48ca9b1de0ab9a51703
+SHA512: ab3ec961d1c78719c1ea2fca2b25f791bb7ea8d1773c22ea2ec1cc51aba6b7c923450de8bfa5d87a40ed7e88a03fecea199b8dd607a1c62ea66d857a92039ddc
 Description: Simple and beautiful screenshot software that supports Windows, macOS, and Linux. It also supports OCR and image translation features.
 
 Package: ovital-map
