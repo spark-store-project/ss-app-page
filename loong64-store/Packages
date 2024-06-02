@@ -7844,6 +7844,20 @@ SHA512: 15315f88943ee7b274a823f0bdf7f135431e193a7881fb90e30606a296172cc98cd3cf78
 Homepage: https://wiki.metacubex.one/
 Description: The universal proxy platform.
 
+Package: mihomo
+Architecture: loong64
+Version: 1.18.5-v1.18.5
+Priority: extra
+Maintainer: MetaCubeX <none@example.com>
+Filename: network/mihomo/mihomo_1.18.5-v1.18.5_loong64.deb
+Size: 6807836
+MD5sum: 860e08e89c56d7cfff33f4b5aca36817
+SHA1: ddf0d477c6da677ea34e981038ff1cd50ed42ce2
+SHA256: bd6ae0db1b2cd867fc4ccfbf8360e5bca8d6d1bfbf1a1c90d81beeac1d4f71e2
+SHA512: 4d2472aab64ce336c22fbb9c0413c9891b8c2e14e2128333ac56e21bbff1779ef41d0b6dbeb9364b65e6a0ef6b075a11ef19378ac0e2646204f21fddc10ca411
+Homepage: https://wiki.metacubex.one/
+Description: The universal proxy platform.
+
 Package: com.bitcomet.spark
 Architecture: all
 Version: 2.03.1
