@@ -2836,22 +2836,6 @@ Description: A web GUI client of Project V which supports VMess, VLESS, SS, SSR,
 License: unknown
 Vendor: none
 
-Package: cn.kingtous.fclash
-Architecture: arm64
-Version: 1.4.4
-Priority: optional
-Section: Network
-Maintainer: Kingtous
-Depends: libayatana-appindicator3-1
-Filename: xrea/cn.kingtous.fclash/cn.kingtous.fclash_1.4.4_arm64.deb
-Size: 31292088
-MD5sum: ab287d56f2b4b0a5a7300b84f788ca45
-SHA1: 9b64d3d05688e8167396a9c0b62fcdf340efab99
-SHA256: 1278e13876a90eac044856fa7ec61d45d244319b2d93e486a055bc3d017264b6
-SHA512: f2446eeb0f1d42d64cc075829b15849e0cb8dd83ac003e375cd5f559d71aedebc97a5db09f4b9a3cedf85038db23df35a4e4942adc7ce4f7b21446bc33b94af2
-Homepage: https://github.com/fclash/fclash
-Description: A Clash Proxy Fronted based on Clash
-
 Package: com.github.clash-for-windows
 Architecture: arm64
 Version: 0.20.39
@@ -6872,6 +6856,38 @@ SHA1: f359698d6bb2b319ddf708bfd8269d79f1d21041
 SHA256: c3546ccf04424c9b29bad8ca5a7c933e1d4f505af001b1dd9ba1bed6f79b9d82
 SHA512: 1fc70cd1a7a2522660302cbca739526d7b360d72175e4bdf3a9513cf4981fa47f8f607a22d04bba2fcf6f950ad976ea546b43681f8346aa9a49eea776d26212d
 Description: 一个基于 dtk 制作的一个简易远程桌面连接软件
+
+Package: clash-verge
+Architecture: arm64
+Version: 1.6.4
+Priority: optional
+Maintainer: zzzgydi, wonfen, MystiPanda
+Installed-Size: 107115
+Depends: openssl, libayatana-appindicator3-1, libwebkit2gtk-4.0-37, libgtk-3-0
+Filename: network/clash-verge/clash-verge_1.6.4_arm64.deb
+Size: 42066094
+MD5sum: d9d928e437e1f931b3249986c751ef9e
+SHA1: 52000eba95f144b2c9c2db37821f317f27a1bbb0
+SHA256: 39d59685a08830e5536c516e7ddbc0e8f0d1e7cb116b001a5651cc5d7dde17cf
+SHA512: 7b0a8be8fb5414ebba0d46479984f04a87148827180b72e79aea6a71b5991061f9f2ba1e222d9b2bb702683eeaa04ba6ab52e1f63b10d7a0bcc2eb12c1e82720
+Description: A Clash Meta GUI based on tauri.
+ A Clash Meta GUI based on tauri.
+
+Package: cn.kingtous.fclash
+Architecture: arm64
+Version: 1.4.4
+Priority: optional
+Section: Network
+Maintainer: Kingtous
+Depends: libayatana-appindicator3-1
+Filename: network/cn.kingtous.fclash/cn.kingtous.fclash_1.4.4_arm64.deb
+Size: 31292088
+MD5sum: ab287d56f2b4b0a5a7300b84f788ca45
+SHA1: 9b64d3d05688e8167396a9c0b62fcdf340efab99
+SHA256: 1278e13876a90eac044856fa7ec61d45d244319b2d93e486a055bc3d017264b6
+SHA512: f2446eeb0f1d42d64cc075829b15849e0cb8dd83ac003e375cd5f559d71aedebc97a5db09f4b9a3cedf85038db23df35a4e4942adc7ce4f7b21446bc33b94af2
+Homepage: https://github.com/fclash/fclash
+Description: A Clash Proxy Fronted based on Clash
 
 Package: baidunetdisk
 Architecture: arm64

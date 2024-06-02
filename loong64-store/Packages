@@ -3152,44 +3152,6 @@ SHA256: 1115b18f5d128f5f123a8bbb637fab02bbc31f016c6870117cfc712010362ed5
 SHA512: 8ae0665c30a66626fd8527627e457e6bd7d32c24981f8f8ac0ab0afda33be964dc6b0f693d64bfc0b78254a07aa886dc4c31d6910ef41ca9905830ec71ab1c39
 Description: UltraISO for dwine8
 
-Package: clash-verge
-Architecture: loong64
-Version: 1.6.4
-Priority: optional
-Section: net
-Maintainer: zzzgydi, wonfen, MystiPanda
-Provides: clash-meta (= 1.84)
-Depends: openssl, libayatana-appindicator3-1, libwebkit2gtk-4.0-37, libgtk-3-0
-Conflicts: clash-meta
-Replaces: clash-meta
-Filename: xrea/clash-verge/clash-verge_1.6.4_loong64.deb
-Size: 26591592
-MD5sum: ab3f11d4dccd2647412bf828a9e41d92
-SHA1: a0fbd60021e5cccd2adc66dbbde82bae0e15d238
-SHA256: 1be4bfac1a99de06062c5a917daa5ebc674574175b3e0d197810f5c2c520151d
-SHA512: 1c885858c3039f11e61685ef9dffb636e38cf45643ea4fe6df6d994e083fc8ec870fe9843ef797cc33dea28db003041194e3fc10d9a5e2ba9b5d56a7617863c3
-Description: A Clash Meta GUI based on tauri.
- A Clash Meta GUI based on tauri.
- .
- (Repackaged on Sun, 02 Jun 2024 15:17:18 +0800 by dpkg-repack.)
-
-Package: cn.kingtous.fclash
-Architecture: loong64
-Version: 1.4.4
-Priority: optional
-Section: utils
-Maintainer: Kingtous
-Installed-Size: 10
-Depends: ace-bookworm-x86(>=12.4.11),bash,wget,sudo,libnotify-bin
-Filename: xrea/cn.kingtous.fclash/cn.kingtous.fclash_1.4.4_loong64.deb
-Size: 33693148
-MD5sum: 24a5067a7a34ccacad4cc82a14ba7b33
-SHA1: 3618e2c4c7e4f555622d135897d8da60afc3c9e3
-SHA256: 58e270793f36c124eb92330bb1a6299dfaa3c30750d472837121844869925945
-SHA512: 6562024450b672c4a5bc67771dc9f82406d5ecfaeb8d72d53a4ca46572e2c14408c12aa9d5863634def7c49a14ad759bf1831d0cf58c84cebb6c921b9b8cc3ea
-Homepage: https://gitee.com/spark-building-service/ace-host-package-creator
-Description: A Clash Proxy Fronted based on Clash
-
 Package: spark-zjeav.com-runner
 Architecture: all
 Version: 2.1.0
@@ -8008,6 +7970,27 @@ SHA256: b790c9d37b872b18f65493f72ece4a1515f2e30453d364a8d9c03072b0d99bf5
 SHA512: b55779c3f3b45ea571083b44a841cc67612346c750ccaa3bb167d50d2b86f0c98b6cef7242084fc585b65d0d20d93d05805ab6e6f81c2f03fb49f439b4899c38
 Description: LIII BitTorrent Client on Deepin Wine6
 
+Package: clash-verge
+Architecture: loong64
+Version: 1.6.4
+Priority: optional
+Section: net
+Maintainer: zzzgydi, wonfen, MystiPanda
+Provides: clash-meta (= 1.84)
+Depends: openssl, libayatana-appindicator3-1, libwebkit2gtk-4.0-37, libgtk-3-0
+Conflicts: clash-meta
+Replaces: clash-meta
+Filename: network/clash-verge/clash-verge_1.6.4_loong64.deb
+Size: 26591592
+MD5sum: ab3f11d4dccd2647412bf828a9e41d92
+SHA1: a0fbd60021e5cccd2adc66dbbde82bae0e15d238
+SHA256: 1be4bfac1a99de06062c5a917daa5ebc674574175b3e0d197810f5c2c520151d
+SHA512: 1c885858c3039f11e61685ef9dffb636e38cf45643ea4fe6df6d994e083fc8ec870fe9843ef797cc33dea28db003041194e3fc10d9a5e2ba9b5d56a7617863c3
+Description: A Clash Meta GUI based on tauri.
+ A Clash Meta GUI based on tauri.
+ .
+ (Repackaged on Sun, 02 Jun 2024 15:17:18 +0800 by dpkg-repack.)
+
 Package: findfish-stockball
 Architecture: loong64
 Version: 0.0-1
@@ -8024,6 +8007,23 @@ SHA256: c10b4a708e41ffedcb8cfe4d10163ec833b51e728ed73f6ec650eb1314a521ed
 SHA512: 23a77073ae1b04c4296475a5921a7afe2da5b78389a55727830f80fd58de64f8af5d989c81d6e014f7fe6b4cee7e1535c994e15ebecc1619a17215d2b9592c8b
 Homepage: http://blog.mkacg.com
 Description: find fish stockball.
+
+Package: cn.kingtous.fclash
+Architecture: loong64
+Version: 1.4.4
+Priority: optional
+Section: utils
+Maintainer: Kingtous
+Installed-Size: 10
+Depends: ace-bookworm-x86(>=12.4.11),bash,wget,sudo,libnotify-bin
+Filename: network/cn.kingtous.fclash/cn.kingtous.fclash_1.4.4_loong64.deb
+Size: 33693148
+MD5sum: 24a5067a7a34ccacad4cc82a14ba7b33
+SHA1: 3618e2c4c7e4f555622d135897d8da60afc3c9e3
+SHA256: 58e270793f36c124eb92330bb1a6299dfaa3c30750d472837121844869925945
+SHA512: 6562024450b672c4a5bc67771dc9f82406d5ecfaeb8d72d53a4ca46572e2c14408c12aa9d5863634def7c49a14ad759bf1831d0cf58c84cebb6c921b9b8cc3ea
+Homepage: https://gitee.com/spark-building-service/ace-host-package-creator
+Description: A Clash Proxy Fronted based on Clash
 
 Package: cn.quarkclouddrive.spark
 Architecture: all

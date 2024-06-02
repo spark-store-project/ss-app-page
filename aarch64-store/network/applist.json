@@ -106,6 +106,24 @@
 
 ,
 {
+    "Author": "Kingtous",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "cn.kingtous.fclash_1.4.4_arm64.deb",
+    "More": "更好的Clash客户端,支持Windows/MacOS/Linux的更好的Clash客户端 Clash fronted client by Flutter (Windows/MacOS/Linux supported). 支持自动设置系统代理,RULE-SET转换.",
+    "Name": "FClash",
+    "Pkgname": "cn.kingtous.fclash",
+    "Size": "31 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "cn.kingtous.fclash_1.4.4_arm64.deb.torrent",
+    "Update": "2024-01-04 15:09:37",
+    "Version": "1.4.4",
+    "Website": "https://github.com/fclash/fclash",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/screen_5.png\"]"
+}
+
+,
+{
     "Author": "Deepin Browser <browser@deepin.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "org.deepin.browser_6.3.16-1_arm64.deb",
@@ -839,6 +857,24 @@
     "Website": "",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.jd.jm/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.jd.jm/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "zzzgydi, wonfen, MystiPanda",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "clash-verge_1.6.4_arm64.deb",
+    "More": "A Clash Meta GUI based on tauri.\nClash Verge的新维护者版本,支持Linux发行版下开启系统代理",
+    "Name": "Clash Verge",
+    "Pkgname": "clash-verge",
+    "Size": "42 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "clash-verge_1.6.4_arm64.deb.torrent",
+    "Update": "2024-06-02 22:32:00",
+    "Version": "1.6.4",
+    "Website": "https://clash-verge-rev.github.io/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_3.png\"]"
 }
 
 ]

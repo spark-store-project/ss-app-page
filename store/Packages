@@ -29433,6 +29433,22 @@ Description: LIII BitTorrent Client on Deepin Wine6
 
 Package: clash-verge
 Architecture: amd64
+Version: 1.6.4
+Priority: optional
+Maintainer: zzzgydi, wonfen, MystiPanda
+Installed-Size: 110205
+Depends: openssl, libayatana-appindicator3-1, libwebkit2gtk-4.0-37, libgtk-3-0
+Filename: network/clash-verge/clash-verge_1.6.4_amd64.deb
+Size: 43581684
+MD5sum: 008a6d23dcc479ba5365712c8ad55fab
+SHA1: 639023b2b0f517498c68d921a91ed8716d7e5a77
+SHA256: 3a1ac2d2dadc97fcd209949ce13c7d04382a07162220d17af4b195250d101acc
+SHA512: c3d7004039085c54729703af262791b90afae3ddab17572899766fa6fc29997cb17543a3c6c692e2a5642ecc5a53e1b72b1276e141c452f95932c587b055e353
+Description: A Clash Meta GUI based on tauri.
+ A Clash Meta GUI based on tauri.
+
+Package: clash-verge
+Architecture: amd64
 Version: 1.6.2
 Priority: optional
 Maintainer: zzzgydi, wonfen, MystiPanda

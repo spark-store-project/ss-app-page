@@ -108,6 +108,24 @@
 
 ,
 {
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "clash-verge_1.6.4_loong64.deb",
+    "More": "A Clash Meta GUI based on tauri.\nClash Verge的新维护者版本,支持Linux发行版下开启系统代理\n感谢 AOSC 社区的付出",
+    "Name": "Clash Verge",
+    "Pkgname": "clash-verge",
+    "Size": "7201 Kb",
+    "Tags": "community;deepin",
+    "Torrent_address": "clash-verge_1.6.4_loong64.deb.torrent",
+    "Update": "2024-04-03 18:53:52",
+    "Version": "1.6.4",
+    "Website": "https://clash-verge-rev.github.io/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/clash-verge/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/clash-verge/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/clash-verge/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/clash-verge/screen_3.png\"]"
+}
+
+,
+{
     "Author": "Phil Wyett <philip.wyett@kathenas.org>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "filezilla-spark_3.67.0-1_all.deb",
@@ -228,6 +246,24 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/0fddfb487a654dccbb32bd10b3935239.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/459c4e1867f84f33895f68e1098eeca7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/cb278791ff2c4c5693d2a79b5780cba7.png"
 }
+,
+{
+    "Author": "Kingtous",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "cn.kingtous.fclash_1.4.4_loong64.deb",
+    "More": "更好的Clash客户端,支持Windows/MacOS/Linux的更好的Clash客户端 Clash fronted client by Flutter (Windows/MacOS/Linux supported). 支持自动设置系统代理,RULE-SET转换.",
+    "Name": "FClash(ACE x86)",
+    "Pkgname": "cn.kingtous.fclash",
+    "Size": "33 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "cn.kingtous.fclash_1.4.4_loong64.deb.torrent",
+    "Update": "2024-04-01 21:27:46",
+    "Version": "1.4.4",
+    "Website": "https://gitee.com/spark-building-service/ace-host-package-creator",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/screen_5.png\"]"
+}
+
 ,
 {
     "Author": "Cristian Greco <cristian@debian.org>",
