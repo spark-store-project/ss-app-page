@@ -36,6 +36,24 @@
 
 ,
 {
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "ace-bookworm-x86_12.4.12.2_loong64.deb",
+    "More": "使用bookworm-run-x86进入x86环境，可安装x86包\n\n修复无法使用sudo的问题，需全新安装\n\n首次安装后请重启或注销以显示已安装的程序\n\n* 修复v23下无法切换主题的问题",
+    "Name": "ACE Bookworm x86兼容环境",
+    "Pkgname": "ace-bookworm-x86",
+    "Size": "161 Mb",
+    "Tags": "community;deepin",
+    "Torrent_address": "ace-bookworm-x86_12.4.12.2_loong64.deb.torrent",
+    "Update": "2024-06-01 14:19:50",
+    "Version": "12.4.12.2",
+    "Website": "https://gitee.com/amber-compatability-environment/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/ace-bookworm-x86/icon.png",
+    "img_urls": "[]"
+}
+
+,
+{
     "Author": "keke <243768648@qq.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.github.ccc-app-manager_0.0.11_loong64.deb",
@@ -68,24 +86,6 @@
     "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
     "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_5.png\"]"
-}
-
-,
-{
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "ace-bookworm-x86_12.4.12.2_loong64.deb",
-    "More": "使用bookworm-run-x86进入x86环境，可安装x86包\n\n修复无法使用sudo的问题，需全新安装\n\n首次安装后请重启或注销以显示已安装的程序\n\n* 修复v23下无法切换主题的问题",
-    "Name": "ACE Bookworm x86兼容环境",
-    "Pkgname": "ace-bookworm-x86",
-    "Size": "161 Mb",
-    "Tags": "community;deepin",
-    "Torrent_address": "ace-bookworm-x86_12.4.12.2_loong64.deb.torrent",
-    "Update": "2024-06-01 14:19:50",
-    "Version": "12.4.12.2",
-    "Website": "https://gitee.com/amber-compatability-environment/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/ace-bookworm-x86/icon.png",
-    "img_urls": "[]"
 }
 
 ,
@@ -299,6 +299,24 @@
 
 ,
 {
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "simple-sensor-monitor_1.1-20240324_loong64.deb",
+    "More": "在配置面板填写 sensors -u 提供的 adapter适配器与 sensor 即可显示数据。 \n\nv1.0: 可显示温度(°C) 电压(V) 电流(A) 功耗(W) 等类型\nv1.1: 可设置刷新间隔，完善线程化的工作流模式\n\n左侧图标尚未支持除温度之外的图标",
+    "Name": "系统传感器显示工具",
+    "Pkgname": "simple-sensor-monitor",
+    "Size": "475 Kb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "simple-sensor-monitor_1.1-20240324_loong64.deb.torrent",
+    "Update": "2024-03-24 22:33:30",
+    "Version": "1.1-20240324",
+    "Website": "https://gitee.com/zinface/qt.mini-sensor-icon",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/screen_5.png\"]"
+}
+
+,
+{
     "Author": "ziggy <luzijie@uniontech.com>",
     "Contributor": "shenmo <shenmo@spark-app.store>",
     "Filename": "org.remmina.dcm_1.4.11_all.deb",
@@ -335,20 +353,20 @@
 
 ,
 {
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "simple-sensor-monitor_1.1-20240324_loong64.deb",
-    "More": "在配置面板填写 sensors -u 提供的 adapter适配器与 sensor 即可显示数据。 \n\nv1.0: 可显示温度(°C) 电压(V) 电流(A) 功耗(W) 等类型\nv1.1: 可设置刷新间隔，完善线程化的工作流模式\n\n左侧图标尚未支持除温度之外的图标",
-    "Name": "系统传感器显示工具",
-    "Pkgname": "simple-sensor-monitor",
-    "Size": "475 Kb",
+    "Author": "help@todesk.com",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "todesk_4.7.2.0_loong64.deb",
+    "More": "todesk 是一个远程桌面控制的软件，并且支持全平台。",
+    "Name": "Todesk 远程控制(LATX)",
+    "Pkgname": "todesk",
+    "Size": "63 Mb",
     "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "simple-sensor-monitor_1.1-20240324_loong64.deb.torrent",
-    "Update": "2024-03-24 22:33:30",
-    "Version": "1.1-20240324",
-    "Website": "https://gitee.com/zinface/qt.mini-sensor-icon",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/simple-sensor-monitor/screen_5.png\"]"
+    "Torrent_address": "todesk_4.7.2.0_loong64.deb.torrent",
+    "Update": "2024-03-29 18:04:12",
+    "Version": "4.7.2.0",
+    "Website": "https://www.todesk.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/todesk/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/todesk/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/todesk/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/todesk/screen_3.png\"]"
 }
 
 ,
@@ -367,24 +385,6 @@
     "Website": "http://www.rising.com.cn/",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.rising.antivirus.single/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.rising.antivirus.single/screen_1.png\"]"
-}
-
-,
-{
-    "Author": "help@todesk.com",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "todesk_4.7.2.0_loong64.deb",
-    "More": "todesk 是一个远程桌面控制的软件，并且支持全平台。",
-    "Name": "Todesk 远程控制(LATX)",
-    "Pkgname": "todesk",
-    "Size": "63 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "todesk_4.7.2.0_loong64.deb.torrent",
-    "Update": "2024-03-29 18:04:12",
-    "Version": "4.7.2.0",
-    "Website": "https://www.todesk.com",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/todesk/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/todesk/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/todesk/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/todesk/screen_3.png\"]"
 }
 
 ,

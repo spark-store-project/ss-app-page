@@ -1486,6 +1486,24 @@ Homepage: http://loongnix.cn
 Description: Loongson Architecture Translator
  Static binary for Loongson Architecture Translator
 
+Package: lat
+Architecture: loong64
+Version: 1.5.1-real-is1.4.4-1
+Multi-Arch: same
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: deepin <support@deepin.org>
+Depends: libc6 (>= 2.37)
+Filename: depends/lat/lat_1.5.1-real-is1.4.4-1_loong64.deb
+Size: 1462976
+MD5sum: 95ec6faf0480613ae1fb654e442ecd25
+SHA1: 567d44c43298c6386acc9d4f679d7a37f8827e1f
+SHA256: a14e20b1a24873e697fc03fb14f658e27f882c5a2114a3161541af0360889b39
+SHA512: 8d94ccec95976df961bea85c5d47984eaa34f4fe50dfcd0c9f4f141bb238b3c5dff5e2807e7cbb144ae8f8f751d805fd4629de2a41b661179745f873ec658c81
+Homepage: http://loongnix.cn
+Description: Loongson Architecture Translator
+ Static binary for Loongson Architecture Translator
+
 Package: fonts-wqy-zenhei
 Architecture: all
 Version: 0.9.45-8

@@ -2348,6 +2348,23 @@
 }
 ,
 {
+    "Name": "GitHub 访问加速包",
+    "Version": "0.0.1-20240206",
+    "Filename": "github-fast-access_0.0.1-20240206_all.deb",
+    "Torrent_address": "github-fast-access_0.0.1-20240206_all.deb.torrent",
+    "Pkgname": "github-fast-access",
+    "Author": "麻本法 <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface",
+    "Update": "2024-02-06 11:12:21",
+    "Size": "1.14 KB",
+    "More": "通过使用 iptables 进行 DNAT 操作将 ;即将要访问错误ip的流量导向正确的ip;\n .\n 安装时:\n iptables -t nat -A OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n 卸载时:\n iptables -t nat -D OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n Build for Deepin20.9 through spark-deb-build.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/7cb23da7c5c84dd3a56fe99527159868.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/b08881f8c2ea4c859fb42422748a8370.png"
+}
+,
+{
     "Name": "钉钉视频会议日志清理",
     "Version": "1.2.3-0.1",
     "Filename": "dinglivelogclean_1.2.3-0.1_all.deb",
@@ -2378,23 +2395,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/2356ceb0-166d-11eb-a815-b9186224f79a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/25/67e77340-166d-11eb-a815-b9186224f79a.png"
-}
-,
-{
-    "Name": "GitHub 访问加速包",
-    "Version": "0.0.1-20240206",
-    "Filename": "github-fast-access_0.0.1-20240206_all.deb",
-    "Torrent_address": "github-fast-access_0.0.1-20240206_all.deb.torrent",
-    "Pkgname": "github-fast-access",
-    "Author": "麻本法 <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface",
-    "Update": "2024-02-06 11:12:21",
-    "Size": "1.14 KB",
-    "More": "通过使用 iptables 进行 DNAT 操作将 ;即将要访问错误ip的流量导向正确的ip;\n .\n 安装时:\n iptables -t nat -A OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n 卸载时:\n iptables -t nat -D OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n Build for Deepin20.9 through spark-deb-build.",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/7cb23da7c5c84dd3a56fe99527159868.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/b08881f8c2ea4c859fb42422748a8370.png"
 }
 ,
 {
@@ -3236,6 +3236,23 @@
 }
 ,
 {
+    "Name": "CPU-Z（Wine）",
+    "Version": "2.09spark0",
+    "Filename": "com.cpuz.spark_2.09spark0_all.deb",
+    "Torrent_address": "com.cpuz.spark_2.09spark0_all.deb.torrent",
+    "Pkgname": "com.cpuz.spark",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.cpuid.com/",
+    "Update": "2024-04-26 22:50:38",
+    "Size": "6.22 MB",
+    "More": "免费的 CPU 信息检测软件。这些信息包括：CPU 名称、厂商、性能、当前电压、L1 L2 cache情况；内核进程；内部和外部时钟等，支持全系列的Intel以及AMD品牌的CPU。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
+}
+,
+{
     "Name": "TTime",
     "Version": "0.9.2",
     "Filename": "time-translate_0.9.2_amd64.deb",
@@ -3267,23 +3284,6 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/28/0ecab54b5f5a4443a171cdc862470dd6.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/28/29a5882b5a394a7d90d508455c0789c4.png"
-}
-,
-{
-    "Name": "CPU-Z（Wine）",
-    "Version": "2.09spark0",
-    "Filename": "com.cpuz.spark_2.09spark0_all.deb",
-    "Torrent_address": "com.cpuz.spark_2.09spark0_all.deb.torrent",
-    "Pkgname": "com.cpuz.spark",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.cpuid.com/",
-    "Update": "2024-04-26 22:50:38",
-    "Size": "6.22 MB",
-    "More": "免费的 CPU 信息检测软件。这些信息包括：CPU 名称、厂商、性能、当前电压、L1 L2 cache情况；内核进程；内部和外部时钟等，支持全系列的Intel以及AMD品牌的CPU。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
 }
 ,
 {
