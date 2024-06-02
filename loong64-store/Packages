@@ -4392,6 +4392,22 @@ SHA256: 5d8cdba210636d84b03d129d6fd8a6ef4412f8eeb544016595d309dd2cc5044b
 SHA512: 6f3206c93ca02891da2a9b8da989eb1afbfa847b36fcb66ba78a46873af8ac6646dd950c41f1b1a25402a75aae3395f2f5427f4244c72fdb52e4e8713fb3030c
 Description: Simple and beautiful screenshot software that supports Windows, macOS, and Linux. It also supports OCR and image translation features.
 
+Package: sunny
+Architecture: arm64
+Version: 1.6.3
+Priority: optional
+Section: devel
+Maintainer: XMuli <xmulitech@gmail.com>
+Installed-Size: 5834
+Depends: libqt5x11extras5, libqt5widgets5, libqt5xml5, libqt5svg5, libqt5network5
+Filename: image_graphics/sunny/sunny_1.6.3_arm64.deb
+Size: 759692
+MD5sum: dccf3513773457d16770acf797bf6498
+SHA1: 3af7927795de34be1baee31e24f78d80d505faf5
+SHA256: 5141aad050916e1733bcef9c9e256782971aed1059cc3d50b32a01c3bca06988
+SHA512: d0a70a8481a40eafd8c07b281298ce421f4c065a6dc630e77bb2cff89094468bd64ac8f99488f5fe123d2c802a65a359864f8508fb4abf9fbf241e7cc3e0d725
+Description: Simple and beautiful screenshot software that supports Windows, macOS, and Linux. It also supports OCR and image translation features.
+
 Package: com.microsoft.paint.deepin
 Architecture: all
 Version: 1.0spark2

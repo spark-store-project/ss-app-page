@@ -1065,6 +1065,25 @@ SHA256: 4aafd30de6a7b81a74392fe7420413fde6938b48be61e1349d736c251d0ea36e
 SHA512: 97ae7cf2efa3df4019ca1b6a910228422e7a6127be65c9be67b0bf2736d893bd8fbf5c5bbcb05ecf886f4bc316622ef8b1bc3f05616e6689bff80905cae7b8bd
 Description: it is a transaction package to spark-box64 for compatibility purpose
 
+Package: spark-box64
+Architecture: arm64
+Version: 0.2.8-20240602
+Priority: extra
+Section: utils
+Maintainer: shenmo@spark-app.store
+Installed-Size: 35220
+Provides: box64
+Depends: binfmt-support
+Conflicts:  box64-android, box64-rpi4arm64, box64-rpi3arm64, box64-tegrax1, box64-rk3399, box64-rk3588
+Filename: depends/box8664/spark-box64_0.2.8-20240602_arm64.deb
+Size: 10266632
+MD5sum: e0c07ed66c80810296fc8465c4968ec7
+SHA1: 5bd63403fcb272e423d596e64283b827e26a5dcb
+SHA256: 808f1959bebcbdb37069744ae19ce927162f4e23c8943bb91e1e782cd1aca254
+SHA512: 5ab9e260f22b9a24a86cca505485e24808b9a6763dfcae2327e97e5fa2f7c841d3b1daa02cb1dd06f2409d7c7ce1c3352b259f1abf8df34c89b33136c85b2e51
+Description: Box64 lets you run x86_64 Linux programs (such as games) on non-x86_64 Linux systems, like ARM (host system needs to be 64bit little-endian)
+ Box64 lets you run x86_64 Linux programs (such as games) on non-x86_64 Linux systems, like ARM (host system needs to be 64bit little-endian)
+
 Package: spark-box86
 Architecture: arm64
 Version: 0.3.5+20240431

@@ -687,23 +687,6 @@
 }
 ,
 {
-    "Name": "bingGPT",
-    "Version": "0.3.7",
-    "Filename": "binggpt_0.3.7_amd64.deb",
-    "Torrent_address": "binggpt_0.3.7_amd64.deb.torrent",
-    "Pkgname": "binggpt",
-    "Author": "dice2o",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://github.com/dice2o/BingGPT",
-    "Update": "2023-07-11 23:41:31",
-    "Size": "70.14 MB",
-    "More": "全新的Bing，更好的Bing，人工智能驱动的Bing，新一代的生产力曙光\n\n需要科学上网",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/11/6460d15f45a848dca8b0108cee034a17.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/11/f148e95dffd647e3a16ba75a9d385f0e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/11/82802c3726704201b47588812b3825d1.png"
-}
-,
-{
     "Name": "玲珑应用商店",
     "Version": "1.2.5",
     "Filename": "linglong-store_1.2.5_amd64.deb",
@@ -718,6 +701,23 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/4c73f1273f4f4fa9b95bee6fbf6e1d07.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/da5cdd61904d491eaf2c6fdb157dbd68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/7b2822768d80441ca7fd3aecdc0d7b71.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/278fec555e5e462b995081618f89d5fc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/8569486375cb48a79b09f634c8b24074.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/2328460f2fab417f84648541c74cdad3.png"
+}
+,
+{
+    "Name": "bingGPT",
+    "Version": "0.3.7",
+    "Filename": "binggpt_0.3.7_amd64.deb",
+    "Torrent_address": "binggpt_0.3.7_amd64.deb.torrent",
+    "Pkgname": "binggpt",
+    "Author": "dice2o",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://github.com/dice2o/BingGPT",
+    "Update": "2023-07-11 23:41:31",
+    "Size": "70.14 MB",
+    "More": "全新的Bing，更好的Bing，人工智能驱动的Bing，新一代的生产力曙光\n\n需要科学上网",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/11/6460d15f45a848dca8b0108cee034a17.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/11/f148e95dffd647e3a16ba75a9d385f0e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/11/82802c3726704201b47588812b3825d1.png"
 }
 ,
 {
@@ -1112,24 +1112,6 @@
 }
 ,
 {
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "spark-store-console_4.2.12_all.deb",
-    "More": "现在并入主线\n支持龙架构\n感谢支持",
-    "Name": "星火应用商店终端版",
-    "Pkgname": "spark-store-console",
-    "Size": "58 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "spark-store-console_4.2.12_all.deb.torrent",
-    "Update": "2024-04-27 19:20:45",
-    "Version": "4.2.12",
-    "Website": "https://www.spark-app.store/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-store-console/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store-console/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store-console/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store-console/screen_3.png\"]"
-}
-
-,
-{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "uos-packaging-tools_1.2.1_all.deb",
@@ -1144,6 +1126,24 @@
     "Website": "https://gitee.com/deepin-community-store/uos-packaging-tools",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-store-console_4.2.12_all.deb",
+    "More": "现在并入主线\n支持龙架构\n感谢支持",
+    "Name": "星火应用商店终端版",
+    "Pkgname": "spark-store-console",
+    "Size": "58 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "spark-store-console_4.2.12_all.deb.torrent",
+    "Update": "2024-04-27 19:20:45",
+    "Version": "4.2.12",
+    "Website": "https://www.spark-app.store/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-store-console/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store-console/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store-console/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store-console/screen_3.png\"]"
 }
 
 ,
@@ -2382,22 +2382,6 @@
 }
 ,
 {
-    "Name": "Komorebi",
-    "Version": "2.2.0-1",
-    "Filename": "komorebi_2.2.1-1_amd64.deb",
-    "Pkgname": "komorebi",
-    "Author": "Komorebi-Fork",
-    "Contributor": "anima",
-    "Website": "https://github.com/Komorebi-Fork/komorebi",
-    "Update": "2020-10-25 02:57:31",
-    "Size": "30.79 MB",
-    "More": "Komorebi - Animated Wallpapers for Linux",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/2356ceb0-166d-11eb-a815-b9186224f79a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/25/67e77340-166d-11eb-a815-b9186224f79a.png"
-}
-,
-{
     "Name": "系统传感器显示工具",
     "Version": "1.2-20240429",
     "Filename": "simple-sensor-monitor_1.2-20240429_amd64.deb",
@@ -2412,6 +2396,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/80baba1166574aeda4311851af8db563.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a8b3f2a04b1f4ba78ed78e174beea988.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a55a9b6db67f4dd0a2989787d3225506.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/caad566997094294bf3e840cc29eb129.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/3f3c5ec56f2d43698b1019ab4b59f26c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/29/4ac0b574bd524ef0bc1865df9346fd05.png"
+}
+,
+{
+    "Name": "Komorebi",
+    "Version": "2.2.0-1",
+    "Filename": "komorebi_2.2.1-1_amd64.deb",
+    "Pkgname": "komorebi",
+    "Author": "Komorebi-Fork",
+    "Contributor": "anima",
+    "Website": "https://github.com/Komorebi-Fork/komorebi",
+    "Update": "2020-10-25 02:57:31",
+    "Size": "30.79 MB",
+    "More": "Komorebi - Animated Wallpapers for Linux",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/2356ceb0-166d-11eb-a815-b9186224f79a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/25/67e77340-166d-11eb-a815-b9186224f79a.png"
 }
 ,
 {
@@ -3151,23 +3151,6 @@
 
 ,
 {
-    "Name": "通知中心天气小组件",
-    "Version": "0.1-1",
-    "Filename": "dde-widgets-weather-plugin_0.1-1_amd64.deb",
-    "Torrent_address": "dde-widgets-weather-plugin_0.1-1_amd64.deb.torrent",
-    "Pkgname": "dde-widgets-weather-plugin",
-    "Author": "linuxdeepin / zty199",
-    "Contributor": "zty199",
-    "Website": "https://github.com/zty199/dde-widgets-weather-plugin",
-    "Update": "2024-04-24 10:27:23",
-    "Size": "3.1 MB",
-    "More": "一个简单的通知中心天气小组件，基于和风天气开发服务开发。",
-    "Tags": "community;deepin;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/4dcb79eff8654ae79b2984638ab7849c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/f1cd8bb207bb4f33b4de84d1f27688e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/b73a74a7b2cc4402a3918623d7d01278.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/a16b522362684bf8a7c72b08a676f017.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/24/574f62857e744d6db3046b8053364a02.png"
-}
-,
-{
     "Name": "Bashtop",
     "Version": "0.9.25-1~bpo10+1",
     "Filename": "com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus1_amd64.deb",
@@ -3182,6 +3165,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/24/100448a3261d4c9983d06dee8c9aad12.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/24/df07c4c56d8340479560959b63dbca84.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/24/e88bb80db7844bc48f7ebca746450781.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/24/a8673f2af7954861af91dad7d0f750b7.png"
+}
+,
+{
+    "Name": "通知中心天气小组件",
+    "Version": "0.1-1",
+    "Filename": "dde-widgets-weather-plugin_0.1-1_amd64.deb",
+    "Torrent_address": "dde-widgets-weather-plugin_0.1-1_amd64.deb.torrent",
+    "Pkgname": "dde-widgets-weather-plugin",
+    "Author": "linuxdeepin / zty199",
+    "Contributor": "zty199",
+    "Website": "https://github.com/zty199/dde-widgets-weather-plugin",
+    "Update": "2024-04-24 10:27:23",
+    "Size": "3.1 MB",
+    "More": "一个简单的通知中心天气小组件，基于和风天气开发服务开发。",
+    "Tags": "community;deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/4dcb79eff8654ae79b2984638ab7849c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/f1cd8bb207bb4f33b4de84d1f27688e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/b73a74a7b2cc4402a3918623d7d01278.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/a16b522362684bf8a7c72b08a676f017.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/24/574f62857e744d6db3046b8053364a02.png"
 }
 ,
 {
