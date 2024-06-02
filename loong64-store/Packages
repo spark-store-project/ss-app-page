@@ -3094,34 +3094,6 @@ Certainty: possible
 Check: binaries
 Type: binary, udeb
 
-Package: spark-deepin-wine-runner
-Architecture: all
-Version: 3.8.0
-Priority: optional
-Section: utils
-Maintainer: gfdgd xi <3025613752@qq.com>
-Installed-Size: 97576
-Provides: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
-Depends: python3, python3-pil, python3-pil.imagetk, python3-pyquery, aria2, curl, unrar | unrar-free , unzip, python3-requests, python3-pyqt5, python3-psutil, xfce4-terminal | deepin-terminal | mate-terminal | gnome-terminal, python3-dbus, python3-pip, p7zip-full (<< 16.02+transitional.1) | p7zip-legacy (>= 16.02+dfsg-8+Mejituu-2024022216), sudo, python3-pyperclip, bubblewrap, zenity, tree, dpkg, fakeroot
-Recommends: winbind, wimtools, python3-pyqt5.qtwebengine, binfmt-support, libc6:i386, libc6:armhf, libwine, qemu-system, qemu-full, alien
-Conflicts: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
-Replaces: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
-Filename: tools/spark-deepin-wine-runner/spark-deepin-wine-runner_3.8.0_all.deb
-Size: 25007824
-MD5sum: 73ea0f568276cc54b4540364f610ced5
-SHA1: 5fa4bd610e41dc70fa4d2ae62f5e6ba0e0a748e5
-SHA256: ed87bcc346db42f88a3e87ca054b1442484b27a67efb272663a2277c5fc76391
-SHA512: 20c873a877baeb42f857feb0eb2cea3760edb97ec1ec58d28a7d8bf36250aa2f5c35484267fd39f55df3aeee2716359c8886b7d2c378793a204fbc52ac934f14
-Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
-Description: Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序。原版的 Wine 只能使用命令操作，且安装过程较为繁琐，对小白不友好。于是该运行器为了解决该痛点，内置了对Wine图形化的支持、Wine 安装器、微型应用商店、各种Wine工具、自制的Wine程序打包器、运行库安装工具等。
- 它同时还内置了基于Qemu/VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作，也能在非 X86 架构安装 X86 架构的 Windows 操作系统（但是效率较低，可以运行些老系统）。
- 而且对于部分 Wine 应用适配者来说，提供了图形化的打包工具，以及提供了一些常用工具以及运行库的安装方式，以及能安装多种不同的 Wine 以测试效果，能极大提升适配效率。
- 且对于 Deepin23 用户做了特别优化，以便能在缺少 i386 运行库的情况下运行 Wine32。同时也为非 X86 架构用户提供了 Box86/64、Qemu User 的安装方式
-Severity: serious
-Certainty: possible
-Check: binaries
-Type: binary, udeb
-
 Package: magnetw-3.1.1-linux
 Architecture: all
 Version: 3.1.1-linux
@@ -3537,22 +3509,6 @@ Description: 自定义主题（内包含 壁纸、光标、字体）
 
 Package: com.uniontech.theme.infinitecontrol
 Architecture: all
-Version: 1.0.3
-Priority: optional
-Section: admin
-Maintainer: Tonny
-Installed-Size: 5374
-Depends: deepin-elf-verify (>= 1.1.10-1),deepin-icon-theme
-Filename: themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.3_all.deb
-Size: 3341400
-MD5sum: 8660bc62ebd84f6fa82d33d504dcabf7
-SHA1: afef30232a7a473f024d7e6ff276af15c8794c2a
-SHA256: fcf27eb329f7015366f9a34fc6000d593799ff04bb589c77ee62cee0965e9ecb
-SHA512: a800af5c5fc8c0a4beda06dfd302e703bd9a74dbdc7d5851d706af8db792bd7eaba9a5448f040698e8763aa0e3f873c0ca9c0d92ef176c1f3ed1f1bf8bdc42b3
-Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
-
-Package: com.uniontech.theme.infinitecontrol
-Architecture: all
 Version: 1.0.4
 Priority: optional
 Section: admin
@@ -3565,22 +3521,6 @@ MD5sum: 2a1410100ea3b616e6e355230c858a89
 SHA1: a155200bed3d410ca1ab0942e9dbecadb6871d89
 SHA256: 2e508fce71592612a303a5be9f3ab71d1c9c89738b1423dca24e85094e714259
 SHA512: 7417fa8c5c417cdafc3804e408059053995962ace0b653877172af1683c056a2d0b75a637558d026eb49643e4c001f92e01aa3a71b24323593b539872afa0a7f
-Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
-
-Package: com.uniontech.theme.infinitecontrol
-Architecture: all
-Version: 1.0.2
-Priority: optional
-Section: admin
-Maintainer: username <username@uniontech.com>
-Installed-Size: 5374
-Depends: deepin-elf-verify (>= 1.1.10-1),deepin-icon-theme
-Filename: themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.2_all.deb
-Size: 3314412
-MD5sum: ec3681e26c1dc7a3278cd5c028c0f7c6
-SHA1: cb7d126d3211681a8b0d9a65d43769896093333e
-SHA256: 305f19d4b546bbfe9cc40656ca9783a29466c83c62454bc2e8fe1f232152ebf6
-SHA512: 414ffda2b715587667f58a13e4fb2ba4d2587eabfb303466672153ca94de8e1c86f46ee58691ffad826a229dd0ea44572c853f8c325b6fb316457171df96eef6
 Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
 
 Package: uos-home-icon
@@ -4369,22 +4309,6 @@ MD5sum: abb84800aa1c8636ec32ecb72c52a2e0
 SHA1: 2b589db6edd5361f1408b0a290293c625c6a9df0
 SHA256: 11e471fdd351e1b0d673677c4e2c782d3dd737cc69cf4144c8c0483a1be7e075
 SHA512: 3195d549802db88ae790aedff9e75fed08db555a373be850d90df7ffaebe55ebe78797db0bcab0c736a0a5c7292adfc7f1bdbeacfeff6a571e260a73107acd12
-Description: Simple and beautiful screenshot software that supports Windows, macOS, and Linux. It also supports OCR and image translation features.
-
-Package: sunny
-Architecture: loong64
-Version: 1.6.2
-Priority: optional
-Section: devel
-Maintainer: XMuli <xmulitech@gmail.com>
-Installed-Size: 2802
-Depends: libqt5x11extras5, libqt5widgets5, libqt5xml5, libqt5svg5, libqt5network5
-Filename: image_graphics/sunny/sunny_1.6.2_loong64.deb
-Size: 604368
-MD5sum: 2c671eb85f3a93050f938aab3e4e9167
-SHA1: 666a792dd873aedd44aecdedf1d9c212e00898b0
-SHA256: 5d8cdba210636d84b03d129d6fd8a6ef4412f8eeb544016595d309dd2cc5044b
-SHA512: 6f3206c93ca02891da2a9b8da989eb1afbfa847b36fcb66ba78a46873af8ac6646dd950c41f1b1a25402a75aae3395f2f5427f4244c72fdb52e4e8713fb3030c
 Description: Simple and beautiful screenshot software that supports Windows, macOS, and Linux. It also supports OCR and image translation features.
 
 Package: sunny
@@ -7826,20 +7750,6 @@ Description: The web browser from Loongson
 
 Package: mihomo
 Architecture: loong64
-Version: 1.18.2-v1.18.3
-Priority: extra
-Maintainer: MetaCubeX <none@example.com>
-Filename: network/mihomo/mihomo_1.18.2-v1.18.3_loong64.deb
-Size: 7521764
-MD5sum: 75aefda32e5b9e84f2ac59447f7f5bf4
-SHA1: c1a8746f4fd2b25799dcd0ebfa47e4b840ef27ae
-SHA256: 1efeea58af6fc811f7b278d90761f9825ff2a1f77e356ddb92c7ec33e16b8ee9
-SHA512: 15315f88943ee7b274a823f0bdf7f135431e193a7881fb90e30606a296172cc98cd3cf78871f6e89ea64560afb657292003989d59373f6983704e23c8bb06917
-Homepage: https://wiki.metacubex.one/
-Description: The universal proxy platform.
-
-Package: mihomo
-Architecture: loong64
 Version: 1.18.5-v1.18.5
 Priority: extra
 Maintainer: MetaCubeX <none@example.com>
@@ -8919,28 +8829,6 @@ MD5sum: 70a87d825ccced69e84b118502fb57ac
 SHA1: 011c19fe2ad06aff68b56b5079223881b06041fd
 SHA256: c3733b0f86a5b9f974432130fb67b059a0e39f6519d042b846fd650f513b04c9
 SHA512: a11999291f6f80c9bef7d7387d30750088794f180a450314359ebdd274296fe9eb83254d8bbaff4af1b23f72d8a43fa179a5a3828a43b92cbb9fbee9ff8c841a
-Homepage: https://wx.qq.com/
-Description: 微信桌面版
-
-Package: store.spark-app.wechat-linux-spark
-Architecture: loong64
-Version: 2.2.1-real-1.0.0.241
-Priority: optional
-Section: default
-Maintainer: shenmo <shenmo@spark-app.store>
-Installed-Size: 343566
-Provides: wechat-linux-spark (= 2.1.3-3)
-Depends: deepin-elf-verify (>= 0.0.16.7-1), libgtk2.0-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libgconf-2-4 | libgconf2-4, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin, bubblewrap,libssl1.1,liblol,liblol-dkms,spark-dstore-patch,libtiff5
-Recommends: libappindicator3-1
-Conflicts: com.qq.weixin, weixin, com.tencent.weixin
-Breaks: wechat-linux-spark (<< 2.1.2-1)
-Replaces: wechat-linux-spark (<< 2.1.2-1)
-Filename: chat/store.spark-app.wechat-linux-spark/store.spark-app.wechat-linux-spark_2.2.1-real-1.0.0.241_loong64.deb
-Size: 115680624
-MD5sum: 21b49f59f9d2056deff4fa58a4f561e0
-SHA1: 21c11a7784503e1c9fd5cb55eed1495dd0e1840d
-SHA256: 73c74aba41576659b5accdf6fec8354a3adc14a49f078c24bcb781a1d5a32ec1
-SHA512: ddc126864057b2faf66ee1eeb25f02c5e3685d5cd7eb717b644d2406158e6b8e45d00977ec1406348c005437269c6b62dadcf8a231352176579e846f39afaf63
 Homepage: https://wx.qq.com/
 Description: 微信桌面版
 

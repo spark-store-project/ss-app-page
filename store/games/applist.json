@@ -799,23 +799,6 @@
 }
 ,
 {
-    "Name": "红色警戒2:兵临城下4",
-    "Version": "1.2.0",
-    "Filename": "deepin.ra2.enemyag4_1.2.0_all.deb",
-    "Torrent_address": "deepin.ra2.enemyag4_1.2.0_all.deb.torrent",
-    "Pkgname": "deepin.ra2.enemyag4",
-    "Author": "LFRon",
-    "Contributor": "LFRon",
-    "Website": "Westwood Studios,艾木魁",
-    "Update": "2024-02-09 20:31:28",
-    "Size": "244.68 MB",
-    "More": "基于Deepin-wine8运行的红色警戒2:兵临城下4\n与原版的不同点:\n1.新增中国/以色列/日本等阵营\n2.苏系阵营有磁暴飞机等飞行单位\n3.盟军增加B-2轰炸机,B5N轰炸机,地震坦克,梅卡瓦坦克等单位\n4.建筑血量加强\n\n提示:这是原版红警2mod,尤里是苏联阵营(除中国外)的英雄单位,",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/09/5c2696a1701744fea9346d8cd0406801.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/09/3beae462e60f4a0fa9d9122393d97ed0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/09/2db6e83df1d14f5bb391c120ae82c510.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/09/17220bc424054ec98139d9a793012049.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/09/5c6b9f860a244636a59c3707d2debbd5.png"
-}
-,
-{
     "Name": "扫雷",
     "Version": "1.0.1",
     "Filename": "minesweep_1.0.1_amd64.deb",
@@ -830,6 +813,23 @@
     "Tags": "ubuntu;community;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/02/f373ba50-e258-11ec-b925-7f858d779ce8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/02/f3915470-e258-11ec-b925-7f858d779ce8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/02/f3a97050-e258-11ec-b925-7f858d779ce8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/02/f3b9c400-e258-11ec-b925-7f858d779ce8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/02/f3c95460-e258-11ec-b925-7f858d779ce8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/02/f01af260-e258-11ec-b925-7f858d779ce8.png"
+}
+,
+{
+    "Name": "红色警戒2:兵临城下4",
+    "Version": "1.2.0",
+    "Filename": "deepin.ra2.enemyag4_1.2.0_all.deb",
+    "Torrent_address": "deepin.ra2.enemyag4_1.2.0_all.deb.torrent",
+    "Pkgname": "deepin.ra2.enemyag4",
+    "Author": "LFRon",
+    "Contributor": "LFRon",
+    "Website": "Westwood Studios,艾木魁",
+    "Update": "2024-02-09 20:31:28",
+    "Size": "244.68 MB",
+    "More": "基于Deepin-wine8运行的红色警戒2:兵临城下4\n与原版的不同点:\n1.新增中国/以色列/日本等阵营\n2.苏系阵营有磁暴飞机等飞行单位\n3.盟军增加B-2轰炸机,B5N轰炸机,地震坦克,梅卡瓦坦克等单位\n4.建筑血量加强\n\n提示:这是原版红警2mod,尤里是苏联阵营(除中国外)的英雄单位,",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/09/5c2696a1701744fea9346d8cd0406801.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/09/3beae462e60f4a0fa9d9122393d97ed0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/09/2db6e83df1d14f5bb391c120ae82c510.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/09/17220bc424054ec98139d9a793012049.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/09/5c6b9f860a244636a59c3707d2debbd5.png"
 }
 ,
 {
@@ -1636,6 +1636,24 @@
 }
 ,
 {
+    "Author": "shenmo@spark-app.store",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.pvzhz.spark_2.0.88spark2_all.deb",
+    "More": "一个植物大战僵尸改版\n详细可见：https://www.bilibili.com/video/BV15z42127up",
+    "Name": "植物大战僵尸杂交版（潜艇伟伟迷）（Wine）",
+    "Pkgname": "com.pvzhz.spark",
+    "Size": "377 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.pvzhz.spark_2.0.88spark2_all.deb.torrent",
+    "Update": "2024-05-28 20:22:13",
+    "Version": "2.0.88spark2",
+    "Website": "https://space.bilibili.com/97213827",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_2.png\"]"
+}
+
+,
+{
     "Name": "Doki Doki Literature Club",
     "Version": "1.1.0",
     "Filename": "com.ddlc.yzf_1.1.0_amd64.deb",
@@ -1667,24 +1685,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/25/c61e0062670149e2a065cb69fa82f2b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/25/cf6d0bd8c0fe48e89a3bdf0fb86aaada.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/25/cb9f987aa90a40d3a6e38d9a8d904a80.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/25/6fe83bd8fc87423b9f07e1ca3909ee5d.png"
 }
-,
-{
-    "Author": "shenmo@spark-app.store",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.pvzhz.spark_2.0.88spark2_all.deb",
-    "More": "一个植物大战僵尸改版\n详细可见：https://www.bilibili.com/video/BV15z42127up",
-    "Name": "植物大战僵尸杂交版（潜艇伟伟迷）（Wine）",
-    "Pkgname": "com.pvzhz.spark",
-    "Size": "377 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "com.pvzhz.spark_2.0.88spark2_all.deb.torrent",
-    "Update": "2024-05-28 20:22:13",
-    "Version": "2.0.88spark2",
-    "Website": "https://space.bilibili.com/97213827",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_2.png\"]"
-}
-
 ,
 {
     "Name": "空洞骑士",
@@ -1805,6 +1805,23 @@
 }
 ,
 {
+    "Name": "X Minecraft Launcher",
+    "Version": "0.44.0-786",
+    "Filename": "xmcl_0.44.0-786_amd64.deb",
+    "Torrent_address": "xmcl_0.44.0-786_amd64.deb.torrent",
+    "Pkgname": "xmcl",
+    "Author": "voxelum",
+    "Contributor": "Idleness",
+    "Website": "https://xmcl.app",
+    "Update": "2024-04-17 00:17:39",
+    "Size": "75.24 MB",
+    "More": "一个 开源的 启动器，拥有 现代化 的 UX.\n\n提供一种 的方式来管理你所有的 模组!\n\nX Minecraft Launcher (XMCL) 是一个方便你管理大量的整合包，模组，资源包，光影包的的现代化启动器。它对 Minecraft Forge，Fabric，Quilt，Curseforge 和 Modrinth 都有内置支持。",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/17/719a9fb0-fc0c-11ee-980c-d7ef6256a7f6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/17/6ec86ce0-fc0c-11ee-980c-d7ef6256a7f6.png"
+}
+,
+{
     "Name": "人力资源机器：编程一小时版本 (wine)",
     "Version": "1.0.34606~spark3",
     "Filename": "human-resource-machine-hoc_1.0.34606~spark3_amd64.deb",
@@ -1836,23 +1853,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/d73ccbe3e7674398a60a2c3f19321956.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/bd35c544fde94dc8a7fe6d88f3cb693f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/1bd348eeb69e434a840f35f77d89fd1b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/03/735fbf6e348c4be98120deeffde66fda.png"
-}
-,
-{
-    "Name": "X Minecraft Launcher",
-    "Version": "0.44.0-786",
-    "Filename": "xmcl_0.44.0-786_amd64.deb",
-    "Torrent_address": "xmcl_0.44.0-786_amd64.deb.torrent",
-    "Pkgname": "xmcl",
-    "Author": "voxelum",
-    "Contributor": "Idleness",
-    "Website": "https://xmcl.app",
-    "Update": "2024-04-17 00:17:39",
-    "Size": "75.24 MB",
-    "More": "一个 开源的 启动器，拥有 现代化 的 UX.\n\n提供一种 的方式来管理你所有的 模组!\n\nX Minecraft Launcher (XMCL) 是一个方便你管理大量的整合包，模组，资源包，光影包的的现代化启动器。它对 Minecraft Forge，Fabric，Quilt，Curseforge 和 Modrinth 都有内置支持。",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/17/719a9fb0-fc0c-11ee-980c-d7ef6256a7f6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/17/6ec86ce0-fc0c-11ee-980c-d7ef6256a7f6.png"
 }
 ,
 {

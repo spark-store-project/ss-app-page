@@ -388,23 +388,6 @@
 }
 ,
 {
-    "Name": "Arduino IDE",
-    "Version": "2.1.2spark10",
-    "Filename": "cc.arduino.spark_2.1.2spark10_amd64.deb",
-    "Torrent_address": "cc.arduino.spark_2.1.2spark10_amd64.deb.torrent",
-    "Pkgname": "cc.arduino.spark",
-    "Author": "Arduino",
-    "Contributor": "sgb76 <sgb76@163.com>",
-    "Website": "https://www.arduino.cc/",
-    "Update": "2023-08-10 00:30:08",
-    "Size": "8.84 KB",
-    "More": "Arduino是一个基于灵活、易于使用的硬件和软件的开源电子产品原型平台。\n此处引用了网民『懵仙兔兔』的postinst",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/10/e3eea900ef9a4ae184534575ee80c877.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/10/b49453bf6cf842f5ae76de2e650cbd36.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/10/5989cd23b0da4e0ea75621f6f8d84cf0.png"
-}
-,
-{
     "Name": "dbeaver",
     "Version": "24.0.3",
     "Filename": "dbeaver-ce_24.0.3_amd64.deb",
@@ -419,6 +402,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/2a62ec3af46e4d3bab7378f7fe54f5b2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/dbe7850958024ec399035e64a4904634.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/f37b1878ac0c4949876a31504ecf9f69.png"
+}
+,
+{
+    "Name": "Arduino IDE",
+    "Version": "2.1.2spark10",
+    "Filename": "cc.arduino.spark_2.1.2spark10_amd64.deb",
+    "Torrent_address": "cc.arduino.spark_2.1.2spark10_amd64.deb.torrent",
+    "Pkgname": "cc.arduino.spark",
+    "Author": "Arduino",
+    "Contributor": "sgb76 <sgb76@163.com>",
+    "Website": "https://www.arduino.cc/",
+    "Update": "2023-08-10 00:30:08",
+    "Size": "8.84 KB",
+    "More": "Arduino是一个基于灵活、易于使用的硬件和软件的开源电子产品原型平台。\n此处引用了网民『懵仙兔兔』的postinst",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/10/e3eea900ef9a4ae184534575ee80c877.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/10/b49453bf6cf842f5ae76de2e650cbd36.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/10/5989cd23b0da4e0ea75621f6f8d84cf0.png"
 }
 ,
 {

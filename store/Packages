@@ -7591,22 +7591,6 @@ SHA256: fcfa53fcf9ff5e4ee8bc170c45ae17010bcc886cbbbb5fbf03c53abb97e2b0f7
 SHA512: 51bd866722327da3328b3bb7af5974c93b52faa2323f50d646bdad8280828e5bdca0c7e9da837a4902e6f55a82151a076cb77e6a5665b2d52ba997fff9eb3592
 Description: YXCalendar client on Deepin Wine6
 
-Package: com.yxcalendar.spark
-Architecture: i386
-Version: 2.3.1.18spark1
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: sgb76 <sgb76@163.com>
-Depends: deepin-wine6-stable:amd64 (>= 6.0.0.41-1), spark-dwine-helper (>= 1.6.5), fonts-wqy-microhei, fonts-wqy-zenhei
-Filename: tools/com.yxcalendar.spark/com.yxcalendar.spark_2.3.1.18spark1_i386.deb
-Size: 22875172
-MD5sum: 34a23aff4ad753d1a9aed924edae344b
-SHA1: e442782297850f60dbc450184690803927dfbb68
-SHA256: 5e1c3bbf426d9ecb39a61514d5f574b371ff854d868fc6f760cfdf371f4d37f3
-SHA512: 93f86b90e0db25782de491cd7f1b4e4cc7f4a7f8e60461441ab1bbbaeba1a82a1a0e6449e3dfd7e2fdcdf0ff910bfc3d6caa40fab0b0426e64ff68224eb99b12
-Description: yxcalendar client on Deepin Wine6
-
 Package: z-tools-dockerfile
 Architecture: amd64
 Version: 0.1-20230107
@@ -8214,34 +8198,6 @@ MD5sum: 4e357cba76d6df2db815c893c16b502d
 SHA1: de38fa3f8ff9a4e1e399bcfb44905b84ddfd4c5a
 SHA256: b301f030fa30f5effc4ceb38e369f80a5cf2071fda0cc67514b0ef50a756a673
 SHA512: 3ce04e75321ef3d3533017edccea7d7fa9392315298bc9d99dace24b0a0b660c555a009b9b4e34b46a2c661b0c04f88be735c093d1aefd0bfbc73151078a5f94
-Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
-Description: Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序。原版的 Wine 只能使用命令操作，且安装过程较为繁琐，对小白不友好。于是该运行器为了解决该痛点，内置了对Wine图形化的支持、Wine 安装器、微型应用商店、各种Wine工具、自制的Wine程序打包器、运行库安装工具等。
- 它同时还内置了基于Qemu/VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作，也能在非 X86 架构安装 X86 架构的 Windows 操作系统（但是效率较低，可以运行些老系统）。
- 而且对于部分 Wine 应用适配者来说，提供了图形化的打包工具，以及提供了一些常用工具以及运行库的安装方式，以及能安装多种不同的 Wine 以测试效果，能极大提升适配效率。
- 且对于 Deepin23 用户做了特别优化，以便能在缺少 i386 运行库的情况下运行 Wine32。同时也为非 X86 架构用户提供了 Box86/64、Qemu User 的安装方式
-Severity: serious
-Certainty: possible
-Check: binaries
-Type: binary, udeb
-
-Package: spark-deepin-wine-runner
-Architecture: all
-Version: 3.8.0
-Priority: optional
-Section: utils
-Maintainer: gfdgd xi <3025613752@qq.com>
-Installed-Size: 97576
-Provides: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
-Depends: python3, python3-pil, python3-pil.imagetk, python3-pyquery, aria2, curl, unrar | unrar-free , unzip, python3-requests, python3-pyqt5, python3-psutil, xfce4-terminal | deepin-terminal | mate-terminal | gnome-terminal, python3-dbus, python3-pip, p7zip-full (<< 16.02+transitional.1) | p7zip-legacy (>= 16.02+dfsg-8+Mejituu-2024022216), sudo, python3-pyperclip, bubblewrap, zenity, tree, dpkg, fakeroot
-Recommends: winbind, wimtools, python3-pyqt5.qtwebengine, binfmt-support, libc6:i386, libc6:armhf, libwine, qemu-system, qemu-full, alien
-Conflicts: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
-Replaces: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
-Filename: tools/spark-deepin-wine-runner/spark-deepin-wine-runner_3.8.0_all.deb
-Size: 25007824
-MD5sum: 73ea0f568276cc54b4540364f610ced5
-SHA1: 5fa4bd610e41dc70fa4d2ae62f5e6ba0e0a748e5
-SHA256: ed87bcc346db42f88a3e87ca054b1442484b27a67efb272663a2277c5fc76391
-SHA512: 20c873a877baeb42f857feb0eb2cea3760edb97ec1ec58d28a7d8bf36250aa2f5c35484267fd39f55df3aeee2716359c8886b7d2c378793a204fbc52ac934f14
 Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
 Description: Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序。原版的 Wine 只能使用命令操作，且安装过程较为繁琐，对小白不友好。于是该运行器为了解决该痛点，内置了对Wine图形化的支持、Wine 安装器、微型应用商店、各种Wine工具、自制的Wine程序打包器、运行库安装工具等。
  它同时还内置了基于Qemu/VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作，也能在非 X86 架构安装 X86 架构的 Windows 操作系统（但是效率较低，可以运行些老系统）。
@@ -9903,22 +9859,6 @@ Description: 自定义主题（内包含 壁纸、光标、字体）
 
 Package: com.uniontech.theme.infinitecontrol
 Architecture: all
-Version: 1.0.3
-Priority: optional
-Section: admin
-Maintainer: Tonny
-Installed-Size: 5374
-Depends: deepin-elf-verify (>= 1.1.10-1),deepin-icon-theme
-Filename: themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.3_all.deb
-Size: 3341400
-MD5sum: 8660bc62ebd84f6fa82d33d504dcabf7
-SHA1: afef30232a7a473f024d7e6ff276af15c8794c2a
-SHA256: fcf27eb329f7015366f9a34fc6000d593799ff04bb589c77ee62cee0965e9ecb
-SHA512: a800af5c5fc8c0a4beda06dfd302e703bd9a74dbdc7d5851d706af8db792bd7eaba9a5448f040698e8763aa0e3f873c0ca9c0d92ef176c1f3ed1f1bf8bdc42b3
-Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
-
-Package: com.uniontech.theme.infinitecontrol
-Architecture: all
 Version: 1.0.4
 Priority: optional
 Section: admin
@@ -9931,22 +9871,6 @@ MD5sum: 2a1410100ea3b616e6e355230c858a89
 SHA1: a155200bed3d410ca1ab0942e9dbecadb6871d89
 SHA256: 2e508fce71592612a303a5be9f3ab71d1c9c89738b1423dca24e85094e714259
 SHA512: 7417fa8c5c417cdafc3804e408059053995962ace0b653877172af1683c056a2d0b75a637558d026eb49643e4c001f92e01aa3a71b24323593b539872afa0a7f
-Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
-
-Package: com.uniontech.theme.infinitecontrol
-Architecture: all
-Version: 1.0.2
-Priority: optional
-Section: admin
-Maintainer: username <username@uniontech.com>
-Installed-Size: 5374
-Depends: deepin-elf-verify (>= 1.1.10-1),deepin-icon-theme
-Filename: themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.2_all.deb
-Size: 3314412
-MD5sum: ec3681e26c1dc7a3278cd5c028c0f7c6
-SHA1: cb7d126d3211681a8b0d9a65d43769896093333e
-SHA256: 305f19d4b546bbfe9cc40656ca9783a29466c83c62454bc2e8fe1f232152ebf6
-SHA512: 414ffda2b715587667f58a13e4fb2ba4d2587eabfb303466672153ca94de8e1c86f46ee58691ffad826a229dd0ea44572c853f8c325b6fb316457171df96eef6
 Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
 
 Package: uos-home-icon
@@ -12579,22 +12503,6 @@ Description: 16bit RGB full color paint software
  drawing. This is not suitable for dot editing. Since the color is
  handled with 16 bit color (15 bit fixed point number) internally,
  the accuracy of color rises, but the memory is consumed correspondingly.
-
-Package: sunny
-Architecture: amd64
-Version: 1.6.2
-Priority: optional
-Section: devel
-Maintainer: XMuli <xmulitech@gmail.com>
-Installed-Size: 2735
-Depends: libqt5x11extras5, libqt5widgets5, libqt5xml5, libqt5svg5, libqt5network5
-Filename: image_graphics/sunny/sunny_1.6.2_amd64.deb
-Size: 945954
-MD5sum: 2caf32a720aaed8eea7aac4bef4a9eb0
-SHA1: e522b67e3113e53f696a2d13d5eebe2b8ba43af3
-SHA256: 4e544873daf5ace1c5bcffa9a6b8c1de01a27a81f89797a48b2d8008ae2e45f4
-SHA512: 66e436de1c591db844185fc253df0f0b6e7c7aa3b6a7662e159533a9067bc129204a574ee5738b407daa1e3f5f18f4889256747221cea705b5838679388eb114
-Description: Simple and beautiful screenshot software that supports Windows, macOS, and Linux. It also supports OCR and image translation features.
 
 Package: sunny
 Architecture: amd64
@@ -27781,23 +27689,6 @@ Vendor: Dr_rOot <agalwood.net@gmail.com>
 
 Package: net.51.aorland.deepin
 Architecture: all
-Version: 1.98deepin1
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: wang
-Installed-Size: 2369
-Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
-Filename: network/net.51.aorland.deepin/net.51.aorland.deepin_1.98deepin1_all.deb
-Size: 2374768
-MD5sum: 1d6b244799207057a627a3b3a864c59c
-SHA1: ea87b1da44c5d8b6e85ee37db28202ceeb0d2c6f
-SHA256: 2c673f65fa1635fa3645fbefc9a38b019a066485f1c01e613c20644a5e6c0f11
-SHA512: 4176d3f633d135c298bcb718b78144b04650f3178e230b11e90e014e550a9b781a48ea78213738bde5fed2acf250ce67bcb866a17e2dabbdfa3c427dc329323b
-Description: 拖把更名器一款批量文件改名工具。结合资源管理器右键菜单，支持 MP3/RM/RMVB/WMA/APE/OGG/WMV/ASF 标签更名，文件名、标签内码转换、繁简转换、汉字转拼音。支持序号、调用外部文本文件更名、网页文件标题提取更名、正则表达式、元变量、自动预览、撤消等。
-
-Package: net.51.aorland.deepin
-Architecture: all
 Version: 1.98i
 Multi-Arch: foreign
 Priority: optional
@@ -29444,22 +29335,6 @@ MD5sum: 008a6d23dcc479ba5365712c8ad55fab
 SHA1: 639023b2b0f517498c68d921a91ed8716d7e5a77
 SHA256: 3a1ac2d2dadc97fcd209949ce13c7d04382a07162220d17af4b195250d101acc
 SHA512: c3d7004039085c54729703af262791b90afae3ddab17572899766fa6fc29997cb17543a3c6c692e2a5642ecc5a53e1b72b1276e141c452f95932c587b055e353
-Description: A Clash Meta GUI based on tauri.
- A Clash Meta GUI based on tauri.
-
-Package: clash-verge
-Architecture: amd64
-Version: 1.6.2
-Priority: optional
-Maintainer: zzzgydi, wonfen, MystiPanda
-Installed-Size: 109382
-Depends: openssl, libayatana-appindicator3-1, libwebkit2gtk-4.0-37, libgtk-3-0
-Filename: network/clash-verge/clash-verge_1.6.2_amd64.deb
-Size: 42933560
-MD5sum: e70167ab0fb79b255bc12df79d6f339e
-SHA1: 713bd3080bbd0ad85bdde9a5893f481d6382bcda
-SHA256: ecdb68fef12c6ad43d70c34cfba68ec398c1bc5fe153112527f4919b5db22450
-SHA512: 848138871988882bf127c381627d09ee8cff034414d532c3c57654c394cc11a27ea13a5e685e6e2f9cb610cbe929ef67610195871321a084c7ae64c8a6d88161
 Description: A Clash Meta GUI based on tauri.
  A Clash Meta GUI based on tauri.
 
