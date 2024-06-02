@@ -18,23 +18,6 @@
 
 ,
 {
-    "Name": "FClash",
-    "Version": "1.4.4",
-    "Filename": "cn.kingtous.fclash_1.4.4_amd64.deb",
-    "Torrent_address": "cn.kingtous.fclash_1.4.4_amd64.deb.torrent",
-    "Pkgname": "cn.kingtous.fclash",
-    "Author": "Kingtous",
-    "Contributor": "Kingtous <kingtous@qq.com>",
-    "Website": "https://github.com/fclash/fclash",
-    "Update": "2024-01-02 20:27:00",
-    "Size": "32.13 MB",
-    "More": "更好的Clash客户端,支持Windows/MacOS/Linux的更好的Clash客户端 Clash fronted client by Flutter (Windows/MacOS/Linux supported). 支持自动设置系统代理,RULE-SET转换.",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/02/92b51ee86ddf4eceada826d6659b97fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/02/d6b9efdb48d040bb931c628648ac69a0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/02/3bf35fd71c3f48a18c5957899272d2bd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/02/0f70433905614a5cb352ef21edf85a92.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/02/cb9f68701be34e2f8aefba0d07aac63e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/02/e85448b1956244e4a53fd7fefbcddf59.png"
-}
-,
-{
     "Name": "v2rayA",
     "Version": "2.0.1",
     "Filename": "v2raya_2.0.1_amd64.deb",
@@ -68,23 +51,6 @@
 }
 ,
 {
-    "Name": "Clash Verge",
-    "Version": "1.6.2",
-    "Filename": "clash-verge_1.6.2_amd64.deb",
-    "Torrent_address": "clash-verge_1.6.2_amd64.deb.torrent",
-    "Pkgname": "clash-verge",
-    "Author": "zzzgydi, wonfen, MystiPanda",
-    "Contributor": "clash-verge-rev",
-    "Website": "https://clash-verge-rev.github.io/",
-    "Update": "2024-05-08 17:49:16",
-    "Size": "40.94 MB",
-    "More": "A Clash Meta GUI based on tauri.\nClash Verge的新维护者版本,支持Linux发行版下开启系统代理",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/08/07a44caa4dcf482188109ebae30d8213.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/08/780ac06194664f1580b94071381ed3d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/08/8d79c6e2fe0b4520bd7be6c0a87be5ae.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/08/754b665bd74e4dc58053b18957b63bc4.png"
-}
-,
-{
     "Name": "ssr",
     "Version": "9.9.9",
     "Filename": "com.ssr.spark_9.9.9_amd64.deb",
@@ -115,22 +81,5 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/03/b6384dd0-c28b-11ee-abd9-713b9e99e77a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/03/b80879f0-c28b-11ee-abd9-713b9e99e77a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/03/b450a210-c28b-11ee-abd9-713b9e99e77a.png"
-}
-,
-{
-    "Name": "Clash Nyanpasu～(∠・ω< )⌒☆​ ",
-    "Version": "1.5.1",
-    "Filename": "clash-nyanpasu_1.5.1_amd64.deb",
-    "Torrent_address": "clash-nyanpasu_1.5.1_amd64.deb.torrent",
-    "Pkgname": "clash-nyanpasu",
-    "Author": "zzzgydi, keiko233",
-    "Contributor": "idleness",
-    "Website": "https://nyanpasu.elaina.moe/",
-    "Update": "2024-04-12 23:07:19",
-    "Size": "53.19 MB",
-    "More": "基于 Tauri 的偏执 Clash 图形界面。",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/e7122150-f8dd-11ee-94b3-3598cf0b4d68.gif\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/d8f3eef0-f8dd-11ee-94b3-3598cf0b4d68.png"
 }
 ]

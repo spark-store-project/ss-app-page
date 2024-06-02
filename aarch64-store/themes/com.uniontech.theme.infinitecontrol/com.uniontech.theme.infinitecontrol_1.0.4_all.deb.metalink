@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.uniontech.theme.infinitecontrol_1.0.4_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">2a1410100ea3b616e6e355230c858a89</hash>
+				  
+				<hash type="sha1">a155200bed3d410ca1ab0942e9dbecadb6871d89</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/aarch64-store/themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.4_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -3302,6 +3302,23 @@ SHA512: adf4a5e1d05e9a4146d453fc72489955b8fc749ca4d1ee16d19647d61f44f8f82ee6c8ed
 Description: ofd-reader on deepin wine6
  一款基于我国自主 OFD 标准的版式阅读器产品，不仅支持 OFD/PDF 电子文件的阅读浏览、文档操作、图文注释等通用版式处理功能，还根据公务办公特点，提供原笔迹签批、电子印章、语义应用、修订标记等公务应用扩展功能
 
+Package: com.pdfgear
+Architecture: all
+Version: 2.1.5
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: shenmo
+Installed-Size: 377897
+Depends: spark-wine, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: reading/com.pdfgear/com.pdfgear_2.1.5_all.deb
+Size: 377933592
+MD5sum: e9251bbf06a3ae2da242a83e6e3c490e
+SHA1: ad7c4d4818a00fa4b5645d7c4fa04f22b7b3a330
+SHA256: 2ddd576f709d2a874bc617b022837d66c9a142dcde6b908b7a9998d3e0324fca
+SHA512: ca064bf164df6a9dc7e7be23bf1a77f1c69aa10458ff5ed6ade7a9582f1feeb74a3cf672338c168bd0fca6567934f72e05e689fa4b22ec1805ae92022b470601
+Description: com.pdfgear
+
 Package: com.unicornviewer.spark
 Architecture: all
 Version: 0.24.spark1
@@ -3570,6 +3587,22 @@ MD5sum: 8660bc62ebd84f6fa82d33d504dcabf7
 SHA1: afef30232a7a473f024d7e6ff276af15c8794c2a
 SHA256: fcf27eb329f7015366f9a34fc6000d593799ff04bb589c77ee62cee0965e9ecb
 SHA512: a800af5c5fc8c0a4beda06dfd302e703bd9a74dbdc7d5851d706af8db792bd7eaba9a5448f040698e8763aa0e3f873c0ca9c0d92ef176c1f3ed1f1bf8bdc42b3
+Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
+
+Package: com.uniontech.theme.infinitecontrol
+Architecture: all
+Version: 1.0.4
+Priority: optional
+Section: admin
+Maintainer: Tonny
+Installed-Size: 5374
+Depends: deepin-elf-verify (>= 1.1.10-1),deepin-icon-theme
+Filename: themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.4_all.deb
+Size: 3325388
+MD5sum: 2a1410100ea3b616e6e355230c858a89
+SHA1: a155200bed3d410ca1ab0942e9dbecadb6871d89
+SHA256: 2e508fce71592612a303a5be9f3ab71d1c9c89738b1423dca24e85094e714259
+SHA512: 7417fa8c5c417cdafc3804e408059053995962ace0b653877172af1683c056a2d0b75a637558d026eb49643e4c001f92e01aa3a71b24323593b539872afa0a7f
 Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
 
 Package: com.uniontech.theme.infinitecontrol

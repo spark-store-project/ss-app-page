@@ -1,0 +1,16 @@
+{
+    "Name": "AMD屏幕亮度工具(命令行) - v23 构建",
+    "Version": "0.0.1-20240602",
+    "Filename": "amd-backlight_0.0.1-20240602_amd64.deb",
+    "Torrent_address": "amd-backlight_0.0.1-20240602_amd64.deb.torrent",
+    "Pkgname": "amd-backlight",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/cpp.amd_backlight",
+    "Update": "2024-06-02 15:53:16",
+    "Size": "6.99 KB",
+    "More": "amd_backlight 是一个简单的命令行工具，它可以提供超过系统屏幕亮度的更低阈值设置。\n\ndeepin 控制中心亮度设计不合理，最小阈值为 15。\n\n此工具可以提供 5 - 255 区间的亮度设置，再小就看不清了！",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/6e80e9507d414518b70a745a732d76c0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/a8d92f56d08944ce9b158532acad9196.png"
+}

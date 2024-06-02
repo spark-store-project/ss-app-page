@@ -1571,6 +1571,20 @@
 }
 ,
 {
+   "Name":"美味星球2",
+   "Version":"1.0",
+   "Filename":"com.tastyplanet2.wine_1.0_amd64.deb",
+   "Pkgname":"com.tastyplanet2.wine",
+   "Author":"阿健",
+   "Contributor":"阿健",
+   "Website":"https://bbs.deepin.org/forum.php?mod=viewthread&tid=195972",
+   "Update":"2020-06-28 21:49",
+   "Size":"19.21MB",
+   "More":"在《美味星球2》中，我们将继续控制灰色粘球去吃比它小的东西，吃的越多会变得越大！不久就能吃下整个地球！本篇的故事开始于粘球吃下了一台时间机器，导致它被送回到六个不同时期，从现代开始，到白垩纪晚期，古埃及和古罗马，日本封建时代，以及遥远的未来世界。"
+}
+
+,
+{
     "Name": "Sabaki",
     "Version": "0.52.2spark1",
     "Filename": "de.sabaki.spark_0.52.2spark1_amd64.deb",
@@ -1586,20 +1600,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/10/f9a4e91a43864ad3bbb5d09f935d73c1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/10/b873cf33fdd74a86a1719ce093e72a09.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/10/135fe64df7db4525a84bea7b26867b6a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/10/19483e1b306b42f981e1d5564dd1487d.png"
 }
-,
-{
-   "Name":"美味星球2",
-   "Version":"1.0",
-   "Filename":"com.tastyplanet2.wine_1.0_amd64.deb",
-   "Pkgname":"com.tastyplanet2.wine",
-   "Author":"阿健",
-   "Contributor":"阿健",
-   "Website":"https://bbs.deepin.org/forum.php?mod=viewthread&tid=195972",
-   "Update":"2020-06-28 21:49",
-   "Size":"19.21MB",
-   "More":"在《美味星球2》中，我们将继续控制灰色粘球去吃比它小的东西，吃的越多会变得越大！不久就能吃下整个地球！本篇的故事开始于粘球吃下了一台时间机器，导致它被送回到六个不同时期，从现代开始，到白垩纪晚期，古埃及和古罗马，日本封建时代，以及遥远的未来世界。"
-}
-
 ,
 {
     "Name": "宝石迷阵3",
@@ -1703,6 +1703,24 @@
 }
 ,
 {
+    "Author": "shenmo@spark-app.store",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.pvzhz.spark_2.0.88spark2_all.deb",
+    "More": "一个植物大战僵尸改版\n详细可见：https://www.bilibili.com/video/BV15z42127up",
+    "Name": "植物大战僵尸杂交版（潜艇伟伟迷）（Wine）",
+    "Pkgname": "com.pvzhz.spark",
+    "Size": "377 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.pvzhz.spark_2.0.88spark2_all.deb.torrent",
+    "Update": "2024-05-28 20:22:13",
+    "Version": "2.0.88spark2",
+    "Website": "https://space.bilibili.com/97213827",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_2.png\"]"
+}
+
+,
+{
     "Name": "孤岛惊魂",
     "Version": "1.0spark1",
     "Filename": "com.farcry.spark_1.0spark1_all.deb",
@@ -1770,24 +1788,6 @@
 }
 ,
 {
-    "Author": "shenmo@spark-app.store",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.pvzhz.spark_2.0.88spark2_all.deb",
-    "More": "一个植物大战僵尸改版\n详细可见：https://www.bilibili.com/video/BV15z42127up",
-    "Name": "植物大战僵尸杂交版（潜艇伟伟迷）（Wine）",
-    "Pkgname": "com.pvzhz.spark",
-    "Size": "377 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "com.pvzhz.spark_2.0.88spark2_all.deb.torrent",
-    "Update": "2024-05-28 20:22:13",
-    "Version": "2.0.88spark2",
-    "Website": "https://space.bilibili.com/97213827",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_2.png\"]"
-}
-
-,
-{
     "Name": "秘密潜入2",
     "Version": "1.0spark1",
     "Filename": "com.igi2.spark_1.0spark1_all.deb",
@@ -1805,23 +1805,6 @@
 }
 ,
 {
-    "Name": "球杆俱乐部2：台球和斯诺克",
-    "Version": "1.0spark0",
-    "Filename": "com.cueclub2.spark_1.0spark0_amd64.deb",
-    "Torrent_address": "com.cueclub2.spark_1.0spark0_amd64.deb.torrent",
-    "Pkgname": "com.cueclub2.spark",
-    "Author": "Bulldog Interactive",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-07-03 00:21:26",
-    "Size": "112.46 MB",
-    "More": "一款桌球休闲游戏，玩家将会进入一个专业的桌球俱乐部，在里面和帅哥美女们打休闲的台球以及专业的斯诺克比赛，物理引擎非常真实，玩家击球和球碰球的反馈都显得非常真实，和现实中打台球基本没什么两样",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/d73ccbe3e7674398a60a2c3f19321956.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/bd35c544fde94dc8a7fe6d88f3cb693f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/1bd348eeb69e434a840f35f77d89fd1b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/03/735fbf6e348c4be98120deeffde66fda.png"
-}
-,
-{
     "Name": "人力资源机器：编程一小时版本 (wine)",
     "Version": "1.0.34606~spark3",
     "Filename": "human-resource-machine-hoc_1.0.34606~spark3_amd64.deb",
@@ -1836,6 +1819,23 @@
     "Tags": "deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/23/56496fa0-6b37-11ed-8c55-33d7e78fc69b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/23/56653500-6b37-11ed-8c55-33d7e78fc69b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/23/5667f420-6b37-11ed-8c55-33d7e78fc69b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/23/566d4b50-6b37-11ed-8c55-33d7e78fc69b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/23/566a6520-6b37-11ed-8c55-33d7e78fc69b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/23/50d89d20-6b37-11ed-8c55-33d7e78fc69b.png"
+}
+,
+{
+    "Name": "球杆俱乐部2：台球和斯诺克",
+    "Version": "1.0spark0",
+    "Filename": "com.cueclub2.spark_1.0spark0_amd64.deb",
+    "Torrent_address": "com.cueclub2.spark_1.0spark0_amd64.deb.torrent",
+    "Pkgname": "com.cueclub2.spark",
+    "Author": "Bulldog Interactive",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-07-03 00:21:26",
+    "Size": "112.46 MB",
+    "More": "一款桌球休闲游戏，玩家将会进入一个专业的桌球俱乐部，在里面和帅哥美女们打休闲的台球以及专业的斯诺克比赛，物理引擎非常真实，玩家击球和球碰球的反馈都显得非常真实，和现实中打台球基本没什么两样",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/d73ccbe3e7674398a60a2c3f19321956.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/bd35c544fde94dc8a7fe6d88f3cb693f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/1bd348eeb69e434a840f35f77d89fd1b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/03/735fbf6e348c4be98120deeffde66fda.png"
 }
 ,
 {
@@ -2363,22 +2363,6 @@
 }
 ,
 {
-    "Name": "去月球",
-    "Version": "20180225",
-    "Filename": "tothemoon_20180225_amd64.deb",
-    "Pkgname": "tothemoon",
-    "Author": " Freebird Games",
-    "Contributor": "Hibanaw",
-    "Website": "https://store.steampowered.com/app/206440/To_the_Moon/",
-    "Update": "2021-07-17 23:17:44",
-    "Size": "75.83 MB",
-    "More": "appimage 包来自 Linuxgame 站 https://www.linuxgame.cn/tothemoon\n通过 a2d 转制为 deb 包\n以下是游戏简介：\n《去月球》这个游戏给人留下的第一印象可能并不是特别严肃，而是很像《像素》这个游戏一样，为玩家讲述有趣的小故事。而实际上，这个游戏的内容则是关于生死、人格障碍和道德的。游戏向我们讲述了一个赚人眼泪的故事，一位即将逝去的老人最大的愿望就是能够去月球上看一看。\n\n罗莎莉恩医生（Dr. Rosalene）和沃茨医生（Dr. Watts）有一份非常特殊的工作：他们可以给人们重活一次的机会，从人生的最开始重头来过，当然这个机会只存在于将死之人的头脑里。\n\n由于其带来的严重后果，新的人工记忆将取代真实记忆成为病人临终前记住的事，所以通过修改记忆去满足人们最后愿望的这种技术只能对临死的人实施。\n这个特别的故事让玩家跟随两位医生为实现一个老人约翰尼（Johnny）的梦想而进入他的记忆。 随着每一步时间的推移，约翰尼过去的一个个新的片段将被慢慢揭示。两位医生将约翰尼记忆中一直困扰他的许多事件重组在一起，他们试图找出究竟是何原因会让身体虚弱的老人临死前要实现这样的愿望。\n而约翰尼的最后心愿竟是…去月球。",
-    "Tags": "deepin;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/17/d8a2f2b0-e711-11eb-9fd5-39d3c74eb30c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/17/db3424e0-e711-11eb-9fd5-39d3c74eb30c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/17/dbb42a50-e711-11eb-9fd5-39d3c74eb30c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/17/2142ddf0-e712-11eb-9fd5-39d3c74eb30c.png"
-}
-,
-{
     "Name": "YGOPro2",
     "Version": "1.035.2-1",
     "Filename": "com.ygopro2_1.035.2-1_amd64.deb",
@@ -2409,6 +2393,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/24/d5bfaea7d03840de92f590a80a6b54a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/24/9e96026e4bbf4e0fbe88de644ab4d01d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/24/7464f00879dd47689300d16437984dcf.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/24/d8c6659595c049fc9ae765ab216c3be9.png"
+}
+,
+{
+    "Name": "去月球",
+    "Version": "20180225",
+    "Filename": "tothemoon_20180225_amd64.deb",
+    "Pkgname": "tothemoon",
+    "Author": " Freebird Games",
+    "Contributor": "Hibanaw",
+    "Website": "https://store.steampowered.com/app/206440/To_the_Moon/",
+    "Update": "2021-07-17 23:17:44",
+    "Size": "75.83 MB",
+    "More": "appimage 包来自 Linuxgame 站 https://www.linuxgame.cn/tothemoon\n通过 a2d 转制为 deb 包\n以下是游戏简介：\n《去月球》这个游戏给人留下的第一印象可能并不是特别严肃，而是很像《像素》这个游戏一样，为玩家讲述有趣的小故事。而实际上，这个游戏的内容则是关于生死、人格障碍和道德的。游戏向我们讲述了一个赚人眼泪的故事，一位即将逝去的老人最大的愿望就是能够去月球上看一看。\n\n罗莎莉恩医生（Dr. Rosalene）和沃茨医生（Dr. Watts）有一份非常特殊的工作：他们可以给人们重活一次的机会，从人生的最开始重头来过，当然这个机会只存在于将死之人的头脑里。\n\n由于其带来的严重后果，新的人工记忆将取代真实记忆成为病人临终前记住的事，所以通过修改记忆去满足人们最后愿望的这种技术只能对临死的人实施。\n这个特别的故事让玩家跟随两位医生为实现一个老人约翰尼（Johnny）的梦想而进入他的记忆。 随着每一步时间的推移，约翰尼过去的一个个新的片段将被慢慢揭示。两位医生将约翰尼记忆中一直困扰他的许多事件重组在一起，他们试图找出究竟是何原因会让身体虚弱的老人临死前要实现这样的愿望。\n而约翰尼的最后心愿竟是…去月球。",
+    "Tags": "deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/17/d8a2f2b0-e711-11eb-9fd5-39d3c74eb30c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/17/db3424e0-e711-11eb-9fd5-39d3c74eb30c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/17/dbb42a50-e711-11eb-9fd5-39d3c74eb30c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/17/2142ddf0-e712-11eb-9fd5-39d3c74eb30c.png"
 }
 ,
 {
@@ -2862,6 +2862,23 @@
 }
 ,
 {
+    "Name": "童年集合iwanna",
+    "Version": "2021.3.0.13275",
+    "Filename": "com.mutangsuugame.spark_2021.3.0.13275_i386.deb",
+    "Torrent_address": "com.mutangsuugame.spark_2021.3.0.13275_i386.deb.torrent",
+    "Pkgname": "com.mutangsuugame.spark",
+    "Author": "m木糖m",
+    "Contributor": "rain",
+    "Website": "https://space.bilibili.com/33824345?spm_id_from=333.337.0.0",
+    "Update": "2023-01-20 20:09:22",
+    "Size": "47.91 MB",
+    "More": "原作者为B站UP主M木糖M，在游玩之前可以去看一眼UP主的视频，以免造成心理阴影",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/fb88eaaebc6441fb937d5ee08af4e236.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/44ede9d31a1d410988862b6f6a302ea6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/20/7a249a5da47649c2a98fe3a400aed28a.png"
+}
+,
+{
     "Name": "隐藏的人",
     "Version": "1.5",
     "Filename": "hiddenfolks_1.5_amd64.deb",
@@ -2892,23 +2909,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/c0f02930-6450-11ee-9f64-45b4f4e6814e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/c2d515d0-6450-11ee-9f64-45b4f4e6814e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/c4f75990-6450-11ee-9f64-45b4f4e6814e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/06/bdfbef70-6450-11ee-9f64-45b4f4e6814e.png"
-}
-,
-{
-    "Name": "童年集合iwanna",
-    "Version": "2021.3.0.13275",
-    "Filename": "com.mutangsuugame.spark_2021.3.0.13275_i386.deb",
-    "Torrent_address": "com.mutangsuugame.spark_2021.3.0.13275_i386.deb.torrent",
-    "Pkgname": "com.mutangsuugame.spark",
-    "Author": "m木糖m",
-    "Contributor": "rain",
-    "Website": "https://space.bilibili.com/33824345?spm_id_from=333.337.0.0",
-    "Update": "2023-01-20 20:09:22",
-    "Size": "47.91 MB",
-    "More": "原作者为B站UP主M木糖M，在游玩之前可以去看一眼UP主的视频，以免造成心理阴影",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/fb88eaaebc6441fb937d5ee08af4e236.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/44ede9d31a1d410988862b6f6a302ea6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/20/7a249a5da47649c2a98fe3a400aed28a.png"
 }
 ,
 {
@@ -4360,6 +4360,23 @@
 }
 ,
 {
+    "Name": "Papa's Burgeria（老爹汉堡店）",
+    "Version": "1.0.0",
+    "Filename": "com.papasburgeria.spark_1.0.0_amd64.deb",
+    "Torrent_address": "com.papasburgeria.spark_1.0.0_amd64.deb.torrent",
+    "Pkgname": "com.papasburgeria.spark",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.flipline.com/",
+    "Update": "2024-05-03 13:34:09",
+    "Size": "13.04 MB",
+    "More": "老爹汉堡店（Papa's Burgeria）是为老爹餐厅管理系列中第二款网页游戏。本作中Marty与Rita作为厨师，但根据游戏的宿主网站的不同，你也可以选择第3个厨师Papa Louie。本作的游戏背景在汉堡自治市，该游戏于2010年12月6日正式发行。\n不支持 deepin 20",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/754d4a2c476a4a1f94a1ce2aead61cd3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/b6cca6fdd9cf49069c104043cfa7db24.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/df665511068c44f49183299d5e1b058f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/6410b061a2b34bb6bf332e4e03cc50fe.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/03/33db07f992ec4af58ec49adbfcd180b1.png"
+}
+,
+{
     "Name": "cloudar——云朵糖弹幕",
     "Version": "1.0.0",
     "Filename": "cloudar-electron_1.0.0_amd64.deb",
@@ -4405,23 +4422,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/192d28f7c73746c79064b604a692138e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/05628d773bf841449ef732d3a1e886bd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/27ad1541fc224d139dd50567597c916d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/8970a8ed350349edb7d2e437e26dcd2c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/03/105e7d2b205a46f0a188fd62d2fd81f5.png"
-}
-,
-{
-    "Name": "Papa's Burgeria（老爹汉堡店）",
-    "Version": "1.0.0",
-    "Filename": "com.papasburgeria.spark_1.0.0_amd64.deb",
-    "Torrent_address": "com.papasburgeria.spark_1.0.0_amd64.deb.torrent",
-    "Pkgname": "com.papasburgeria.spark",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.flipline.com/",
-    "Update": "2024-05-03 13:34:09",
-    "Size": "13.04 MB",
-    "More": "老爹汉堡店（Papa's Burgeria）是为老爹餐厅管理系列中第二款网页游戏。本作中Marty与Rita作为厨师，但根据游戏的宿主网站的不同，你也可以选择第3个厨师Papa Louie。本作的游戏背景在汉堡自治市，该游戏于2010年12月6日正式发行。\n不支持 deepin 20",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/754d4a2c476a4a1f94a1ce2aead61cd3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/b6cca6fdd9cf49069c104043cfa7db24.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/df665511068c44f49183299d5e1b058f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/6410b061a2b34bb6bf332e4e03cc50fe.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/03/33db07f992ec4af58ec49adbfcd180b1.png"
 }
 ,
 {

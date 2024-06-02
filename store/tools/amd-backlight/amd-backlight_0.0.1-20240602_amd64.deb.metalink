@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="amd-backlight_0.0.1-20240602_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b53e6f315e3da6b532ea77b00325c1a6</hash>
+				  
+				<hash type="sha1">5f05e24b13ec21c2b20ee93a038023034f5b4706</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/tools/amd-backlight/amd-backlight_0.0.1-20240602_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/amd-backlight/amd-backlight_0.0.1-20240602_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/amd-backlight/amd-backlight_0.0.1-20240602_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/amd-backlight/amd-backlight_0.0.1-20240602_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/amd-backlight/amd-backlight_0.0.1-20240602_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/amd-backlight/amd-backlight_0.0.1-20240602_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -977,23 +977,6 @@
 }
 ,
 {
-    "Name": "Fsearch 搜索工具",
-    "Version": "0.2.2-1+3.1",
-    "Filename": "fsearch_0.2.2-1_plus3.1_amd64.deb",
-    "Torrent_address": "fsearch_0.2.2-1_plus3.1_amd64.deb.torrent",
-    "Pkgname": "fsearch",
-    "Author": "Christian Boxdörfer <cboxdoerfer@posteo.de>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://cboxdoerfer.github.io/fsearch/",
-    "Update": "2022-12-01 09:21:33",
-    "Size": "224.56 KB",
-    "More": "FSearch is a fast file search utility, based on GTK3.\n It supports regular expressions, wildcards, fast sorting,\n instant results with millions of files and more.",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/d2d26523a4504e6c8719bf98a2ed891c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/266c6c104fb14b06a75c2298c03b2840.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/fae000cdaa6d47cfa791dde3983cbf61.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/01/0cf6402ffaed41ec93859b8923c001d7.png"
-}
-,
-{
     "Name": "360杀毒",
     "Version": "1.0.0.1012",
     "Filename": "360sd_1.0.0.1012_amd64.deb",
@@ -1008,6 +991,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/e9eb1063-45f1-40bd-93fa-7a52bb3202b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/5198f56d-d0e6-4dd4-874f-be7a4bf81003.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/e107cc17-72e8-4eba-aa5a-031b204a39ee.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/22/914d1da2-c671-409e-9511-ef680000abf2.png"
+}
+,
+{
+    "Name": "Fsearch 搜索工具",
+    "Version": "0.2.2-1+3.1",
+    "Filename": "fsearch_0.2.2-1_plus3.1_amd64.deb",
+    "Torrent_address": "fsearch_0.2.2-1_plus3.1_amd64.deb.torrent",
+    "Pkgname": "fsearch",
+    "Author": "Christian Boxdörfer <cboxdoerfer@posteo.de>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://cboxdoerfer.github.io/fsearch/",
+    "Update": "2022-12-01 09:21:33",
+    "Size": "224.56 KB",
+    "More": "FSearch is a fast file search utility, based on GTK3.\n It supports regular expressions, wildcards, fast sorting,\n instant results with millions of files and more.",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/d2d26523a4504e6c8719bf98a2ed891c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/266c6c104fb14b06a75c2298c03b2840.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/fae000cdaa6d47cfa791dde3983cbf61.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/01/0cf6402ffaed41ec93859b8923c001d7.png"
 }
 ,
 {
@@ -1328,6 +1328,21 @@
 }
 ,
 {
+   "Name":"共享文件夹",
+   "Version":"1.5-1",
+   "Filename":"sendbylan_1.5-1_amd64.deb",
+   "Pkgname":"sendbylan",
+   "Author":"Maicss",
+   "Contributor":"shenmo",
+   "Website":"https://gitee.com/Maicss/SendByLAN",
+   "Update":"2023年6月6日",
+   "Size":"52.8Kb",
+   "Tags": "community;deepin;uos;dtk5",
+   "More":"这是一个简易的文件夹共享插件，集成到文件管理器右键中，仅支持deepin文件管理器。"
+}
+
+,
+{
     "Name": "Bandizip",
     "Version": "7.32spark0",
     "Filename": "com.bandisoft.bandizip.spark_7.32spark0_all.deb",
@@ -1343,21 +1358,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/9dff3e503b3a44a0bb9ec82c4e4d7584.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/6a857f372489469fbc32403a8a1eab3a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/8ff96b2f8ee0411ea7b5adec5ef06024.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/02/f232b3707a404dfeb7bd03ade2834732.png"
 }
-,
-{
-   "Name":"共享文件夹",
-   "Version":"1.5-1",
-   "Filename":"sendbylan_1.5-1_amd64.deb",
-   "Pkgname":"sendbylan",
-   "Author":"Maicss",
-   "Contributor":"shenmo",
-   "Website":"https://gitee.com/Maicss/SendByLAN",
-   "Update":"2023年6月6日",
-   "Size":"52.8Kb",
-   "Tags": "community;deepin;uos;dtk5",
-   "More":"这是一个简易的文件夹共享插件，集成到文件管理器右键中，仅支持deepin文件管理器。"
-}
-
 ,
 {
     "Name": "羽云十六进制编辑器",
@@ -1575,20 +1575,20 @@
 }
 ,
 {
-    "Name": "优效日历（wine）",
-    "Version": "2.3.1.18spark1",
-    "Filename": "com.yxcalendar.spark_2.3.1.18spark1_i386.deb",
-    "Torrent_address": "com.yxcalendar.spark_2.3.1.18spark1_i386.deb.torrent",
+    "Name": "优效日历",
+    "Version": "2.4.6.1spark2",
+    "Filename": "com.yxcalendar.spark_2.4.6.1spark2_all.deb",
+    "Torrent_address": "com.yxcalendar.spark_2.4.6.1spark2_all.deb.torrent",
     "Pkgname": "com.yxcalendar.spark",
-    "Author": "Anders Norén",
+    "Author": "sgb76 <sgb76@163.com>",
     "Contributor": "sgb76",
     "Website": "http://www.youxiao.cn/",
-    "Update": "2023-01-30 22:15:01",
-    "Size": "21.82 MB",
-    "More": "一款具有 Win10 风格的桌面日历软件，并自带许多实用小功能。已知问题：部分小工具输入文字时不显示文字，但实际可以输入，也可以粘贴文字，不影响使用",
+    "Update": "2024-06-02 21:23:14",
+    "Size": "19.63 MB",
+    "More": "一款具有 Win10 风格的桌面日历软件，并自带许多实用小功能。",
     "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/30/39071bb656704b46b886634618f13607.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/30/acd370a814ed4e0ca0273332a8be85bd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/30/d72e2067f79148929e5abf2eac4fe77e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/30/cf27de5d2e61443384b124822daec919.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/cd8d02b6a32b459d8195cde655b4b6dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/860ca22215d34d92a5a89f41cd5470a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/b303c921ce51480ca1f379ed274598ca.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/44c3229effa04e29a97d0753f7434c3e.png"
 }
 ,
 {
@@ -1979,6 +1979,23 @@
 }
 ,
 {
+    "Name": "奇安信网神终端安全管理系统",
+    "Version": "7.0.5.1600",
+    "Filename": "com.qianxin.qaxsafe_7.0.5.1600_amd64.deb",
+    "Torrent_address": "com.qianxin.qaxsafe_7.0.5.1600_amd64.deb.torrent",
+    "Pkgname": "com.qianxin.qaxsafe",
+    "Author": "Qi An Xin Technology Group Inc.",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://www.qianxin.com/",
+    "Update": "2023-02-01 16:01:02",
+    "Size": "34.04 MB",
+    "More": "奇安信网神终端安全管理系统是一款专业的国产系统主机安全防护产品，为解决国产系统终端安全防护难题推出了终端一体化安全解决方案。产品运用本地多引擎查杀结合云查鉴定技术，提供病毒防护、主机审计、合规准入、安全登录、桌面管控、多网切换等功能，有效遏制内外部威胁的传播与扩散途径，全方位提升国产系统自身安全特性，确保终端主机的安全。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/e09fefaa861d4c72a4a35f0fec293ee8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/515d6f69d687424097b48f409ad614c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/d6043d97cf784955b856210763893ce4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/ad6833efdc524d84aabb04d5ec0c2928.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/01/cbe6253af7d547bda9c80f37fb59991f.png"
+}
+,
+{
     "Name": "简易桌面悬浮时钟",
     "Version": "2.0.0",
     "Filename": "floatclock_2.0.0_amd64.deb",
@@ -2010,23 +2027,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/899a2001-8332-495f-929a-d1661b409a8f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/4d378646-2f4b-4e8b-af43-c245061dd647.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/e0041bf0-4f24-4137-9c6d-8f1804585585.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/114d744d-dc98-4b03-892f-8a2ffe1186b1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/22/58ded873-759c-405a-bceb-ba1610093b33.png"
-}
-,
-{
-    "Name": "奇安信网神终端安全管理系统",
-    "Version": "7.0.5.1600",
-    "Filename": "com.qianxin.qaxsafe_7.0.5.1600_amd64.deb",
-    "Torrent_address": "com.qianxin.qaxsafe_7.0.5.1600_amd64.deb.torrent",
-    "Pkgname": "com.qianxin.qaxsafe",
-    "Author": "Qi An Xin Technology Group Inc.",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://www.qianxin.com/",
-    "Update": "2023-02-01 16:01:02",
-    "Size": "34.04 MB",
-    "More": "奇安信网神终端安全管理系统是一款专业的国产系统主机安全防护产品，为解决国产系统终端安全防护难题推出了终端一体化安全解决方案。产品运用本地多引擎查杀结合云查鉴定技术，提供病毒防护、主机审计、合规准入、安全登录、桌面管控、多网切换等功能，有效遏制内外部威胁的传播与扩散途径，全方位提升国产系统自身安全特性，确保终端主机的安全。",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/e09fefaa861d4c72a4a35f0fec293ee8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/515d6f69d687424097b48f409ad614c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/d6043d97cf784955b856210763893ce4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/ad6833efdc524d84aabb04d5ec0c2928.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/01/cbe6253af7d547bda9c80f37fb59991f.png"
 }
 ,
 {
@@ -2314,6 +2314,23 @@
 
 ,
 {
+    "Name": "GitHub 访问加速包",
+    "Version": "0.0.1-20240206",
+    "Filename": "github-fast-access_0.0.1-20240206_all.deb",
+    "Torrent_address": "github-fast-access_0.0.1-20240206_all.deb.torrent",
+    "Pkgname": "github-fast-access",
+    "Author": "麻本法 <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface",
+    "Update": "2024-02-06 11:12:21",
+    "Size": "1.14 KB",
+    "More": "通过使用 iptables 进行 DNAT 操作将 ;即将要访问错误ip的流量导向正确的ip;\n .\n 安装时:\n iptables -t nat -A OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n 卸载时:\n iptables -t nat -D OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n Build for Deepin20.9 through spark-deb-build.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/7cb23da7c5c84dd3a56fe99527159868.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/b08881f8c2ea4c859fb42422748a8370.png"
+}
+,
+{
     "Name": "奔图打印机驱动",
     "Version": "7.4.176-1+uos",
     "Filename": "com.pantum.pantum_7.4.176-1_plus_uos_amd64.deb",
@@ -2345,23 +2362,6 @@
     "Tags": "ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/c1863a361a7748f48416130267dc63f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/abe899971c2347c5972ed64b31e5ad49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/77ae9699ba9c492083e6d748930a2997.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/12/0f17e577c7bf4f59b8187b7a7924f6fc.png"
-}
-,
-{
-    "Name": "GitHub 访问加速包",
-    "Version": "0.0.1-20240206",
-    "Filename": "github-fast-access_0.0.1-20240206_all.deb",
-    "Torrent_address": "github-fast-access_0.0.1-20240206_all.deb.torrent",
-    "Pkgname": "github-fast-access",
-    "Author": "麻本法 <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface",
-    "Update": "2024-02-06 11:12:21",
-    "Size": "1.14 KB",
-    "More": "通过使用 iptables 进行 DNAT 操作将 ;即将要访问错误ip的流量导向正确的ip;\n .\n 安装时:\n iptables -t nat -A OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n 卸载时:\n iptables -t nat -D OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n Build for Deepin20.9 through spark-deb-build.",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/7cb23da7c5c84dd3a56fe99527159868.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/b08881f8c2ea4c859fb42422748a8370.png"
 }
 ,
 {
@@ -2533,6 +2533,23 @@
 }
 ,
 {
+    "Name": "GXDE 内核管理器 1.1.0",
+    "Version": "1.1.0",
+    "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
+    "Torrent_address": "gxde-kernel-manager_1.1.0_amd64.deb.torrent",
+    "Pkgname": "gxde-kernel-manager",
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
+    "Update": "2024-05-12 17:25:58",
+    "Size": "1.07 MB",
+    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \n\n\nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
+}
+,
+{
     "Name": "海天鹰时钟",
     "Version": "1.0",
     "Filename": "com.htyclock.spark_1.0_amd64.deb",
@@ -2563,23 +2580,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/17/7e95222de2df4e8cb06e5766ae78610c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/17/38e21561bc794278b31f6c869edff8a8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/17/2997e98fdb2248098275d5397fa21bed.png"
-}
-,
-{
-    "Name": "GXDE 内核管理器 1.1.0",
-    "Version": "1.1.0",
-    "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
-    "Torrent_address": "gxde-kernel-manager_1.1.0_amd64.deb.torrent",
-    "Pkgname": "gxde-kernel-manager",
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
-    "Update": "2024-05-12 17:25:58",
-    "Size": "1.07 MB",
-    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \n\n\nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
 }
 ,
 {
@@ -2617,20 +2617,6 @@
 }
 ,
 {
-   "Name":"systemd-swap-gui",
-   "Version":"0.1.1",
-   "Filename":"systemd-swap-gui0.1.1.deb",
-   "Pkgname":"systemd-swap-gui",
-   "Author":"MeowSprite",
-   "Contributor":"shamate",
-   "Website":"https://github.com/MeowSprite/swap-control-gui",
-   "Update":"2020-09-04 17:44",
-   "Size":"47.37KB",
-   "More":"这个程序基于systemd和systemd-swap来动态管理swap的gui程序 关于zswap: zswap是一个linux下实现的内存压缩技术，实现在ram中压缩内存来缓解内存不足，也避免了内存换出的消耗"
-}
-
-,
-{
     "Name": "PeaZip",
     "Version": "9.8.0",
     "Filename": "peazip_9.8.0_amd64.deb",
@@ -2646,6 +2632,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/13/037ee370fbff44c68c5dfac8c52aef9d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/13/9a8e3ce1c6df482facd559b6a8a671c9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/13/7f997f2d995e454c806191248f559ac1.png"
 }
+,
+{
+   "Name":"systemd-swap-gui",
+   "Version":"0.1.1",
+   "Filename":"systemd-swap-gui0.1.1.deb",
+   "Pkgname":"systemd-swap-gui",
+   "Author":"MeowSprite",
+   "Contributor":"shamate",
+   "Website":"https://github.com/MeowSprite/swap-control-gui",
+   "Update":"2020-09-04 17:44",
+   "Size":"47.37KB",
+   "More":"这个程序基于systemd和systemd-swap来动态管理swap的gui程序 关于zswap: zswap是一个linux下实现的内存压缩技术，实现在ram中压缩内存来缓解内存不足，也避免了内存换出的消耗"
+}
+
 ,
 {
     "Name": "ocs-url",
@@ -4667,5 +4667,22 @@
     "Tags": "deepin;uos;ubuntu;wine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/664845e0-1908-11ef-8b98-af7814f0fdda.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/666347f0-1908-11ef-8b98-af7814f0fdda.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/23/619f0920-1908-11ef-8b98-af7814f0fdda.png"
+}
+,
+{
+    "Name": "AMD屏幕亮度工具(命令行) - v23 构建",
+    "Version": "0.0.1-20240602",
+    "Filename": "amd-backlight_0.0.1-20240602_amd64.deb",
+    "Torrent_address": "amd-backlight_0.0.1-20240602_amd64.deb.torrent",
+    "Pkgname": "amd-backlight",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/cpp.amd_backlight",
+    "Update": "2024-06-02 15:53:16",
+    "Size": "6.99 KB",
+    "More": "amd_backlight 是一个简单的命令行工具，它可以提供超过系统屏幕亮度的更低阈值设置。\n\ndeepin 控制中心亮度设计不合理，最小阈值为 15。\n\n此工具可以提供 5 - 255 区间的亮度设置，再小就看不清了！",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/6e80e9507d414518b70a745a732d76c0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/a8d92f56d08944ce9b158532acad9196.png"
 }
 ]

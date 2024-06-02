@@ -773,18 +773,36 @@
 {
     "Author": "wang",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "net.51.aorland.deepin_1.98i_all.deb",
+    "Filename": "net.51.aorland.deepin_1.98deepin1_all.deb",
     "More": "拖把更名器是一款功能强大的文件名称修改工具。结合资源管理器右键菜单，支持MP3/RM/RMVB/WMA/等标签更名，文件名、标签内码转换、繁简转换、汉字转拼音。支持序号、调用外部文本文件更名、正则表达式、元变量、自动预览、撤消等。",
     "Name": "拖把更名器",
     "Pkgname": "net.51.aorland.deepin",
-    "Size": "146 Mb",
+    "Size": "2374 Kb",
     "Tags": "community;deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "net.51.aorland.deepin_1.98i_all.deb.torrent",
-    "Update": "2024-05-29 16:28:44",
-    "Version": "1.98i",
+    "Torrent_address": "net.51.aorland.deepin_1.98deepin1_all.deb.torrent",
+    "Update": "2024-06-02 21:42:17",
+    "Version": "1.98deepin1",
     "Website": "aorland.51.net",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/net.51.aorland.deepin/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/net.51.aorland.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/net.51.aorland.deepin/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "28655758+yaobiao131@users.noreply.github.com",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "downkyi_1.0.10-1_arm64.deb",
+    "More": "基于哔哩下载姬Windows版和AvaloniaUI制作的跨平台版本",
+    "Name": "哔哩下载姬（Linux版）",
+    "Pkgname": "downkyi",
+    "Size": "36 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "downkyi_1.0.10-1_arm64.deb.torrent",
+    "Update": "2024-06-02 22:04:33",
+    "Version": "1.0.10-1",
+    "Website": "https://github.com/yaobiao131/downkyicore",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/downkyi/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/downkyi/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/downkyi/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/downkyi/screen_3.png\"]"
 }
 
 ,

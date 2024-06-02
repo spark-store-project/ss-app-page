@@ -6177,6 +6177,23 @@ SHA256: bd36609e28407480f53636d734ced1b71a80538d1df172b3885b0d09ce6ac612
 SHA512: 570072796ba4b9710e899bb55f8b855f21a38f21d8c0db79ca9e69b58b55ebe34a006d792cc000daef250356b03f629ba974b0a624785d056633c708bb0c0139
 Description: i4tools
 
+Package: amd-backlight
+Architecture: amd64
+Version: 0.0.1-20240602
+Priority: optional
+Section: devel
+Maintainer: zinface <zinface@163.com>
+Installed-Size: 44
+Filename: tools/amd-backlight/amd-backlight_0.0.1-20240602_amd64.deb
+Size: 7156
+MD5sum: b53e6f315e3da6b532ea77b00325c1a6
+SHA1: 5f05e24b13ec21c2b20ee93a038023034f5b4706
+SHA256: a6c436c090e773c51bac0bfd44b88d5dbf8e8a6ea1d3212cb8095c223246c1a2
+SHA512: 8e6b8710530afd53571625ecbb3582746899fba1f932c08c05cec4485be8c984df37a4b6d3dcf97bd681aeaa656ed777c092daa59165302db595a92c53e499d2
+Homepage: https://gitee.com/zinface/cpp.amd_backlight
+Description: AMD 屏幕亮度工具
+ amd-backlight 是一个简单的命令行工具，它可以提供超过系统屏幕亮度的更低阈值设置。
+
 Package: dde-dock-monitor-plugin
 Architecture: amd64
 Version: 1.7.2spark0
@@ -7559,6 +7576,22 @@ Description: 让学习Flutter变的Easy！
 Uploaders: 张风捷特烈 <1981462002@qq.com>
 
 Package: com.yxcalendar.spark
+Architecture: all
+Version: 2.4.6.1spark2
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: sgb76 <sgb76@163.com>
+Depends: deepin-wine6-stable:amd64 (>= 6.0.0.42-1), spark-dwine-helper (>= 2.2), fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: tools/com.yxcalendar.spark/com.yxcalendar.spark_2.4.6.1spark2_all.deb
+Size: 20580576
+MD5sum: 1fa7c68b53bd1a6aecf1ff3dc8e97e42
+SHA1: 9e7eec793d435f8359fb4552a86813ace40b95df
+SHA256: fcfa53fcf9ff5e4ee8bc170c45ae17010bcc886cbbbb5fbf03c53abb97e2b0f7
+SHA512: 51bd866722327da3328b3bb7af5974c93b52faa2323f50d646bdad8280828e5bdca0c7e9da837a4902e6f55a82151a076cb77e6a5665b2d52ba997fff9eb3592
+Description: YXCalendar client on Deepin Wine6
+
+Package: com.yxcalendar.spark
 Architecture: i386
 Version: 2.3.1.18spark1
 Multi-Arch: foreign
@@ -8445,38 +8478,6 @@ Description: A web GUI client of Project V which supports VMess, VLESS, SS, SSR,
 License: unknown
 Vendor: none
 
-Package: clash-verge
-Architecture: amd64
-Version: 1.6.2
-Priority: optional
-Maintainer: zzzgydi, wonfen, MystiPanda
-Installed-Size: 109382
-Depends: openssl, libayatana-appindicator3-1, libwebkit2gtk-4.0-37, libgtk-3-0
-Filename: xrea/clash-verge/clash-verge_1.6.2_amd64.deb
-Size: 42933560
-MD5sum: e70167ab0fb79b255bc12df79d6f339e
-SHA1: 713bd3080bbd0ad85bdde9a5893f481d6382bcda
-SHA256: ecdb68fef12c6ad43d70c34cfba68ec398c1bc5fe153112527f4919b5db22450
-SHA512: 848138871988882bf127c381627d09ee8cff034414d532c3c57654c394cc11a27ea13a5e685e6e2f9cb610cbe929ef67610195871321a084c7ae64c8a6d88161
-Description: A Clash Meta GUI based on tauri.
- A Clash Meta GUI based on tauri.
-
-Package: cn.kingtous.fclash
-Architecture: amd64
-Version: 1.4.4
-Priority: optional
-Section: Network
-Maintainer: Kingtous
-Depends: libayatana-appindicator3-1
-Filename: xrea/cn.kingtous.fclash/cn.kingtous.fclash_1.4.4_amd64.deb
-Size: 33688704
-MD5sum: c41b1f16211e9108725dbce2b7ca215c
-SHA1: 19fe6b786be1aa9fc87a8a6ec94ed8e6360c7f3e
-SHA256: e49954cad6bfda0dede334bdea5ea41565450aedbc007a210ee88a3de45cdfeb
-SHA512: 46eabef4c57e666f0428e3ecb212362fcb065ed7a3827221ac1a76023d776f2568048a4059a7597807ed2ca40c9edfc6fc735cc62d072eaf2bec1391f74e1c46
-Homepage: https://github.com/fclash/fclash
-Description: A Clash Proxy Fronted based on Clash
-
 Package: com.github.clash-for-windows
 Architecture: amd64
 Version: 0.20.39
@@ -8494,22 +8495,6 @@ SHA512: 3f1d9aab96871c03931dee14def88d60e79c3e131ecaf2176b52011859939153bed95aa2
 Homepage: https://github.com/Fndroid/clash_for_windows_pkg
 Description: A rule-based tunnel in Go.
  A Windows/macOS GUI based on Clash.
-
-Package: clash-nyanpasu
-Architecture: amd64
-Version: 1.5.1
-Priority: optional
-Maintainer: zzzgydi, keiko233
-Installed-Size: 137493
-Depends: openssl, libayatana-appindicator3-1, libwebkit2gtk-4.0-37, libgtk-3-0
-Filename: xrea/clash-nyanpasu/clash-nyanpasu_1.5.1_amd64.deb
-Size: 55776334
-MD5sum: 125fcc5aae4c8597095d01a46dbc19cd
-SHA1: c647c4137e58af4bd162d16d67c0d67c810cab4a
-SHA256: d34e0840479afd763a0ad98232bcdb48ccc8a296146956475586d5bf557a6e8f
-SHA512: 7c28681ea5263a9be60639291f7556eab67eeff0f6385ba9202bfb8dfd4ddde81cd6f73a1cf37e6203600b5e1bd23ac387ec02fd8e33f958714d0163b1857b46
-Description: Clash Nyanpasu! (∠・ω< )⌒☆
- Clash Nyanpasu! (∠・ω< )⌒☆
 
 Package: z-library
 Architecture: amd64
@@ -9224,6 +9209,23 @@ SHA512: d9de2598a2ee93501fbb76662410f340739f9f443a9c3a0ba6a6d4c503a7cb72a9062d20
 Description: ebook on Deepin Wine5
  一款具有仿真页面的txt阅读器
 
+Package: com.pdfgear
+Architecture: all
+Version: 2.1.5
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: shenmo
+Installed-Size: 377897
+Depends: spark-wine, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: reading/com.pdfgear/com.pdfgear_2.1.5_all.deb
+Size: 377933592
+MD5sum: e9251bbf06a3ae2da242a83e6e3c490e
+SHA1: ad7c4d4818a00fa4b5645d7c4fa04f22b7b3a330
+SHA256: 2ddd576f709d2a874bc617b022837d66c9a142dcde6b908b7a9998d3e0324fca
+SHA512: ca064bf164df6a9dc7e7be23bf1a77f1c69aa10458ff5ed6ade7a9582f1feeb74a3cf672338c168bd0fca6567934f72e05e689fa4b22ec1805ae92022b470601
+Description: com.pdfgear
+
 Package: zotero
 Architecture: amd64
 Version: 6.0.12
@@ -9913,6 +9915,22 @@ MD5sum: 8660bc62ebd84f6fa82d33d504dcabf7
 SHA1: afef30232a7a473f024d7e6ff276af15c8794c2a
 SHA256: fcf27eb329f7015366f9a34fc6000d593799ff04bb589c77ee62cee0965e9ecb
 SHA512: a800af5c5fc8c0a4beda06dfd302e703bd9a74dbdc7d5851d706af8db792bd7eaba9a5448f040698e8763aa0e3f873c0ca9c0d92ef176c1f3ed1f1bf8bdc42b3
+Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
+
+Package: com.uniontech.theme.infinitecontrol
+Architecture: all
+Version: 1.0.4
+Priority: optional
+Section: admin
+Maintainer: Tonny
+Installed-Size: 5374
+Depends: deepin-elf-verify (>= 1.1.10-1),deepin-icon-theme
+Filename: themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.4_all.deb
+Size: 3325388
+MD5sum: 2a1410100ea3b616e6e355230c858a89
+SHA1: a155200bed3d410ca1ab0942e9dbecadb6871d89
+SHA256: 2e508fce71592612a303a5be9f3ab71d1c9c89738b1423dca24e85094e714259
+SHA512: 7417fa8c5c417cdafc3804e408059053995962ace0b653877172af1683c056a2d0b75a637558d026eb49643e4c001f92e01aa3a71b24323593b539872afa0a7f
 Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
 
 Package: com.uniontech.theme.infinitecontrol
@@ -29413,6 +29431,22 @@ SHA256: 7e3a0cbb3d04a6c4a90adf18203aff04d5020f492f28fa91935a76b3a2832f42
 SHA512: 5e29da87c895c6f98a0f730279a82e644edbb12a7685edacab87c39324727a8372cb956d4dff5358157b30264a369bda3304ac8fd4f54f3396f010fdef47745f
 Description: LIII BitTorrent Client on Deepin Wine6
 
+Package: clash-verge
+Architecture: amd64
+Version: 1.6.2
+Priority: optional
+Maintainer: zzzgydi, wonfen, MystiPanda
+Installed-Size: 109382
+Depends: openssl, libayatana-appindicator3-1, libwebkit2gtk-4.0-37, libgtk-3-0
+Filename: network/clash-verge/clash-verge_1.6.2_amd64.deb
+Size: 42933560
+MD5sum: e70167ab0fb79b255bc12df79d6f339e
+SHA1: 713bd3080bbd0ad85bdde9a5893f481d6382bcda
+SHA256: ecdb68fef12c6ad43d70c34cfba68ec398c1bc5fe153112527f4919b5db22450
+SHA512: 848138871988882bf127c381627d09ee8cff034414d532c3c57654c394cc11a27ea13a5e685e6e2f9cb610cbe929ef67610195871321a084c7ae64c8a6d88161
+Description: A Clash Meta GUI based on tauri.
+ A Clash Meta GUI based on tauri.
+
 Package: org.xdown.spark
 Architecture: all
 Version: 2.0.8.6spark6
@@ -29446,6 +29480,22 @@ SHA256: c2029905eb0eb701fced6cf456cdb0fc18decaaaf3f852fe46d66b897272b928
 SHA512: 20bd87e8beee62574f9a17f5eca7219541f2f0210fa6ca58548c2c10e9f45d47becc3e1cb0227db7290ce4ed356d6e5906584fcc3648ba7365351d16a2f38d73
 Homepage: http://blog.mkacg.com
 Description: find fish stockball.
+
+Package: cn.kingtous.fclash
+Architecture: amd64
+Version: 1.4.4
+Priority: optional
+Section: Network
+Maintainer: Kingtous
+Depends: libayatana-appindicator3-1
+Filename: network/cn.kingtous.fclash/cn.kingtous.fclash_1.4.4_amd64.deb
+Size: 33688704
+MD5sum: c41b1f16211e9108725dbce2b7ca215c
+SHA1: 19fe6b786be1aa9fc87a8a6ec94ed8e6360c7f3e
+SHA256: e49954cad6bfda0dede334bdea5ea41565450aedbc007a210ee88a3de45cdfeb
+SHA512: 46eabef4c57e666f0428e3ecb212362fcb065ed7a3827221ac1a76023d776f2568048a4059a7597807ed2ca40c9edfc6fc735cc62d072eaf2bec1391f74e1c46
+Homepage: https://github.com/fclash/fclash
+Description: A Clash Proxy Fronted based on Clash
 
 Package: cn.quarkclouddrive.spark
 Architecture: all
@@ -29922,6 +29972,22 @@ Description: 远程计算机唤醒小工具，基于  WakeOnLan 的 GTK+ 前端
  .
  The machines to turn on need to be shut off with the Wake on LAN magic packet
  enabled.
+
+Package: clash-nyanpasu
+Architecture: amd64
+Version: 1.5.1
+Priority: optional
+Maintainer: zzzgydi, keiko233
+Installed-Size: 137493
+Depends: openssl, libayatana-appindicator3-1, libwebkit2gtk-4.0-37, libgtk-3-0
+Filename: network/clash-nyanpasu/clash-nyanpasu_1.5.1_amd64.deb
+Size: 55776334
+MD5sum: 125fcc5aae4c8597095d01a46dbc19cd
+SHA1: c647c4137e58af4bd162d16d67c0d67c810cab4a
+SHA256: d34e0840479afd763a0ad98232bcdb48ccc8a296146956475586d5bf557a6e8f
+SHA512: 7c28681ea5263a9be60639291f7556eab67eeff0f6385ba9202bfb8dfd4ddde81cd6f73a1cf37e6203600b5e1bd23ac387ec02fd8e33f958714d0163b1857b46
+Description: Clash Nyanpasu! (∠・ω< )⌒☆
+ Clash Nyanpasu! (∠・ω< )⌒☆
 
 Package: org.seamonkey-project.seamonkey.spark
 Architecture: amd64

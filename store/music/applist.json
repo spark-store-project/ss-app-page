@@ -555,20 +555,6 @@
 }
 ,
 {
-   "Name":"Iease-Music",
-   "Version":"1.3.4",
-   "Filename":"ieaseMusic-1.3.4-linux-amd64.deb",
-   "Pkgname":"iease-music",
-   "Author":"trazyn",
-   "Contributor":"jalawov",
-   "Website":"https://github.com/trazyn/ieaseMusic",
-   "Update":"2020-07-09 09:23",
-   "Size":"55.37MB",
-   "More":"美观的第三方网易云,由Electron, React, MobX, JSS构建"
-}
-
-,
-{
     "Name": "FLB Music",
     "Version": "1.1.9spark1",
     "Filename": "app.netlify.flbmusic.spark_1.1.9spark1_amd64.deb",
@@ -584,6 +570,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/18/1bf6255806d1487a8147462a0440eead.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/18/714c5847852c499ab40eb0b707a149fc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/18/04240e9b105e451081fc3bb8dc44f0c4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/18/88ab09d79e994baeba35d4f16013e290.png"
 }
+,
+{
+   "Name":"Iease-Music",
+   "Version":"1.3.4",
+   "Filename":"ieaseMusic-1.3.4-linux-amd64.deb",
+   "Pkgname":"iease-music",
+   "Author":"trazyn",
+   "Contributor":"jalawov",
+   "Website":"https://github.com/trazyn/ieaseMusic",
+   "Update":"2020-07-09 09:23",
+   "Size":"55.37MB",
+   "More":"美观的第三方网易云,由Electron, React, MobX, JSS构建"
+}
+
 ,
 {
     "Name": "TTS-Vue微软语音合成工具",

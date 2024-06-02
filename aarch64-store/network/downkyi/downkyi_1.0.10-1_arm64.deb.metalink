@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="downkyi_1.0.10-1_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">29c0a0e7665be1ff10e142d1fdfc214b</hash>
+				  
+				<hash type="sha1">18dcd2cf401bf607361bea88d60b4e11e4c4330a</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/aarch64-store/network/downkyi/downkyi_1.0.10-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/network/downkyi/downkyi_1.0.10-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/network/downkyi/downkyi_1.0.10-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/network/downkyi/downkyi_1.0.10-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/network/downkyi/downkyi_1.0.10-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/network/downkyi/downkyi_1.0.10-1_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>
