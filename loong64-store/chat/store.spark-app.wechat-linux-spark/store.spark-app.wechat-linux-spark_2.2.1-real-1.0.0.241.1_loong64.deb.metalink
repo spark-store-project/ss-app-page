@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="store.spark-app.wechat-linux-spark_2.2.1-real-1.0.0.241.1_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">70a87d825ccced69e84b118502fb57ac</hash>
+				  
+				<hash type="sha1">011c19fe2ad06aff68b56b5079223881b06041fd</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/loong64-store/chat/store.spark-app.wechat-linux-spark/store.spark-app.wechat-linux-spark_2.2.1-real-1.0.0.241.1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/chat/store.spark-app.wechat-linux-spark/store.spark-app.wechat-linux-spark_2.2.1-real-1.0.0.241.1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/chat/store.spark-app.wechat-linux-spark/store.spark-app.wechat-linux-spark_2.2.1-real-1.0.0.241.1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/chat/store.spark-app.wechat-linux-spark/store.spark-app.wechat-linux-spark_2.2.1-real-1.0.0.241.1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/chat/store.spark-app.wechat-linux-spark/store.spark-app.wechat-linux-spark_2.2.1-real-1.0.0.241.1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/chat/store.spark-app.wechat-linux-spark/store.spark-app.wechat-linux-spark_2.2.1-real-1.0.0.241.1_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

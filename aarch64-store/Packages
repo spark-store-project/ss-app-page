@@ -2733,6 +2733,34 @@ Certainty: possible
 Check: binaries
 Type: binary, udeb
 
+Package: spark-deepin-wine-runner
+Architecture: all
+Version: 3.9.0
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 192312
+Provides: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
+Depends: python3, python3-pil, python3-pil.imagetk, python3-pyquery, aria2, curl, unrar | unrar-free , unzip, python3-requests, python3-pyqt5, python3-psutil, xfce4-terminal | deepin-terminal | mate-terminal | gnome-terminal, python3-dbus, python3-pip, p7zip-full (<< 16.02+transitional.1) | p7zip-legacy (>= 16.02+dfsg-8+Mejituu-2024022216), sudo, python3-pyperclip, bubblewrap, zenity, tree, dpkg, fakeroot
+Recommends: winbind, wimtools, python3-pyqt5.qtwebengine, binfmt-support, libc6:i386, libc6:armhf, libwine, qemu-system, qemu-full, alien
+Conflicts: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
+Replaces: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
+Filename: tools/spark-deepin-wine-runner/spark-deepin-wine-runner_3.9.0_all.deb
+Size: 53954720
+MD5sum: 4e357cba76d6df2db815c893c16b502d
+SHA1: de38fa3f8ff9a4e1e399bcfb44905b84ddfd4c5a
+SHA256: b301f030fa30f5effc4ceb38e369f80a5cf2071fda0cc67514b0ef50a756a673
+SHA512: 3ce04e75321ef3d3533017edccea7d7fa9392315298bc9d99dace24b0a0b660c555a009b9b4e34b46a2c661b0c04f88be735c093d1aefd0bfbc73151078a5f94
+Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
+Description: Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序。原版的 Wine 只能使用命令操作，且安装过程较为繁琐，对小白不友好。于是该运行器为了解决该痛点，内置了对Wine图形化的支持、Wine 安装器、微型应用商店、各种Wine工具、自制的Wine程序打包器、运行库安装工具等。
+ 它同时还内置了基于Qemu/VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作，也能在非 X86 架构安装 X86 架构的 Windows 操作系统（但是效率较低，可以运行些老系统）。
+ 而且对于部分 Wine 应用适配者来说，提供了图形化的打包工具，以及提供了一些常用工具以及运行库的安装方式，以及能安装多种不同的 Wine 以测试效果，能极大提升适配效率。
+ 且对于 Deepin23 用户做了特别优化，以便能在缺少 i386 运行库的情况下运行 Wine32。同时也为非 X86 架构用户提供了 Box86/64、Qemu User 的安装方式
+Severity: serious
+Certainty: possible
+Check: binaries
+Type: binary, udeb
+
 Package: grsync
 Architecture: arm64
 Version: 1.3.0-1
@@ -3109,6 +3137,22 @@ SHA256: f38bc56abb730f31eb06c9768068f357d4b38a28dcbad297c04e9da66d84d00a
 SHA512: 5f6c349ed39528758335be3376e24a319036ae148c3089037623a02bf4903218976152257f1a7eae7c1c0646225eea50a67401398789b768cbd1301da209855b
 Description: 自定义主题（内包含 壁纸、光标、字体）
  有兽焉主题（壁纸来自有兽焉周边山海遗魂夏日戏水限量海报，字体为汉仪字库联名字体，字体为个人非商用）
+
+Package: com.uniontech.theme.infinitecontrol
+Architecture: all
+Version: 1.0.3
+Priority: optional
+Section: admin
+Maintainer: Tonny
+Installed-Size: 5374
+Depends: deepin-elf-verify (>= 1.1.10-1),deepin-icon-theme
+Filename: themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.3_all.deb
+Size: 3341400
+MD5sum: 8660bc62ebd84f6fa82d33d504dcabf7
+SHA1: afef30232a7a473f024d7e6ff276af15c8794c2a
+SHA256: fcf27eb329f7015366f9a34fc6000d593799ff04bb589c77ee62cee0965e9ecb
+SHA512: a800af5c5fc8c0a4beda06dfd302e703bd9a74dbdc7d5851d706af8db792bd7eaba9a5448f040698e8763aa0e3f873c0ca9c0d92ef176c1f3ed1f1bf8bdc42b3
+Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
 
 Package: com.uniontech.theme.infinitecontrol
 Architecture: all

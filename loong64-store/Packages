@@ -3086,6 +3086,34 @@ Description: Waydroid 运行器
 
 Package: spark-deepin-wine-runner
 Architecture: all
+Version: 3.9.0
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 192312
+Provides: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
+Depends: python3, python3-pil, python3-pil.imagetk, python3-pyquery, aria2, curl, unrar | unrar-free , unzip, python3-requests, python3-pyqt5, python3-psutil, xfce4-terminal | deepin-terminal | mate-terminal | gnome-terminal, python3-dbus, python3-pip, p7zip-full (<< 16.02+transitional.1) | p7zip-legacy (>= 16.02+dfsg-8+Mejituu-2024022216), sudo, python3-pyperclip, bubblewrap, zenity, tree, dpkg, fakeroot
+Recommends: winbind, wimtools, python3-pyqt5.qtwebengine, binfmt-support, libc6:i386, libc6:armhf, libwine, qemu-system, qemu-full, alien
+Conflicts: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
+Replaces: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
+Filename: tools/spark-deepin-wine-runner/spark-deepin-wine-runner_3.9.0_all.deb
+Size: 53954720
+MD5sum: 4e357cba76d6df2db815c893c16b502d
+SHA1: de38fa3f8ff9a4e1e399bcfb44905b84ddfd4c5a
+SHA256: b301f030fa30f5effc4ceb38e369f80a5cf2071fda0cc67514b0ef50a756a673
+SHA512: 3ce04e75321ef3d3533017edccea7d7fa9392315298bc9d99dace24b0a0b660c555a009b9b4e34b46a2c661b0c04f88be735c093d1aefd0bfbc73151078a5f94
+Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
+Description: Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序。原版的 Wine 只能使用命令操作，且安装过程较为繁琐，对小白不友好。于是该运行器为了解决该痛点，内置了对Wine图形化的支持、Wine 安装器、微型应用商店、各种Wine工具、自制的Wine程序打包器、运行库安装工具等。
+ 它同时还内置了基于Qemu/VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作，也能在非 X86 架构安装 X86 架构的 Windows 操作系统（但是效率较低，可以运行些老系统）。
+ 而且对于部分 Wine 应用适配者来说，提供了图形化的打包工具，以及提供了一些常用工具以及运行库的安装方式，以及能安装多种不同的 Wine 以测试效果，能极大提升适配效率。
+ 且对于 Deepin23 用户做了特别优化，以便能在缺少 i386 运行库的情况下运行 Wine32。同时也为非 X86 架构用户提供了 Box86/64、Qemu User 的安装方式
+Severity: serious
+Certainty: possible
+Check: binaries
+Type: binary, udeb
+
+Package: spark-deepin-wine-runner
+Architecture: all
 Version: 3.8.0
 Priority: optional
 Section: utils
@@ -3141,6 +3169,21 @@ SHA1: e999f6eae9144ddaba607fa78229bc7805e7b3d8
 SHA256: 1115b18f5d128f5f123a8bbb637fab02bbc31f016c6870117cfc712010362ed5
 SHA512: 8ae0665c30a66626fd8527627e457e6bd7d32c24981f8f8ac0ab0afda33be964dc6b0f693d64bfc0b78254a07aa886dc4c31d6910ef41ca9905830ec71ab1c39
 Description: UltraISO for dwine8
+
+Package: clash-verge
+Architecture: loong64
+Version: 1.6.4
+Priority: optional
+Maintainer: zzzgydi, wonfen, MystiPanda
+Depends: openssl, libayatana-appindicator3-1, libwebkit2gtk-4.0-37, libgtk-3-0
+Filename: xrea/clash-verge/clash-verge_1.6.4_loong64.deb
+Size: 26594460
+MD5sum: 62c70a2220faf7c6f9bc608d505d7916
+SHA1: b987871183d0cd01df220c10efabf83ab5d084fc
+SHA256: e2b66ae4e2d5712c9717eb961a843a5ea9480567e43d76734a3bbfb508fcba5f
+SHA512: d0f46abbc754dd2b19e94390c11eb2417702658291f8352df27e9b862ff6b7cfed502b3b3843c1ed9decc6c80aba7108ec7b63bf3d5be528649fa3945c742feb
+Description: A Clash Meta GUI based on tauri.
+ A Clash Meta GUI based on tauri.
 
 Package: clash-verge
 Architecture: loong64
@@ -3545,6 +3588,22 @@ SHA256: f38bc56abb730f31eb06c9768068f357d4b38a28dcbad297c04e9da66d84d00a
 SHA512: 5f6c349ed39528758335be3376e24a319036ae148c3089037623a02bf4903218976152257f1a7eae7c1c0646225eea50a67401398789b768cbd1301da209855b
 Description: 自定义主题（内包含 壁纸、光标、字体）
  有兽焉主题（壁纸来自有兽焉周边山海遗魂夏日戏水限量海报，字体为汉仪字库联名字体，字体为个人非商用）
+
+Package: com.uniontech.theme.infinitecontrol
+Architecture: all
+Version: 1.0.3
+Priority: optional
+Section: admin
+Maintainer: Tonny
+Installed-Size: 5374
+Depends: deepin-elf-verify (>= 1.1.10-1),deepin-icon-theme
+Filename: themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.3_all.deb
+Size: 3341400
+MD5sum: 8660bc62ebd84f6fa82d33d504dcabf7
+SHA1: afef30232a7a473f024d7e6ff276af15c8794c2a
+SHA256: fcf27eb329f7015366f9a34fc6000d593799ff04bb589c77ee62cee0965e9ecb
+SHA512: a800af5c5fc8c0a4beda06dfd302e703bd9a74dbdc7d5851d706af8db792bd7eaba9a5448f040698e8763aa0e3f873c0ca9c0d92ef176c1f3ed1f1bf8bdc42b3
+Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
 
 Package: com.uniontech.theme.infinitecontrol
 Architecture: all
@@ -7464,23 +7523,6 @@ Description:
 License: MIT
 Vendor: Dr_rOot <agalwood.net@gmail.com>
 
-Package: net.51.aorland.deepin
-Architecture: all
-Version: 1.98i
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: wang
-Installed-Size: 146712
-Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
-Filename: network/net.51.aorland.deepin/net.51.aorland.deepin_1.98i_all.deb
-Size: 146724816
-MD5sum: 234c73ad1b5215e21b610f0081bae912
-SHA1: b9aef9e1d324466ca975bb7402225e6ae689bb5a
-SHA256: d58c10fdbb7cc4151b1e66bb202de23b8f2c4d405df9b6373a7b9675c05d6523
-SHA512: e8bb28f759e383608743f58f2bb46a59d092b98b385ab31b6d54544aa24056ae7d97132aef42d0fcd1e81654d96455e84908f1c86c4a03bd3e2f822a75fcd06e
-Description: 拖把更名器是一款功能强大的文件名称修改工具。结合资源管理器右键菜单，支持MP3/RM/RMVB/WMA/等标签更名，文件名、标签内码转换、繁简转换、汉字转拼音。支持序号、调用外部文本文件更名、正则表达式、元变量、自动预览、撤消等。
-
 Package: filezilla-spark
 Architecture: all
 Version: 3.67.0-1
@@ -8811,6 +8853,28 @@ Description:
   企业微信
 License: ISC
 Vendor: work_weixin <work_weixin@tencent.com>
+
+Package: store.spark-app.wechat-linux-spark
+Architecture: loong64
+Version: 2.2.1-real-1.0.0.241.1
+Priority: optional
+Section: default
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 343566
+Provides: wechat-linux-spark (= 2.1.3-3)
+Depends: deepin-elf-verify (>= 0.0.16.7-1), libgtk2.0-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libgconf-2-4 | libgconf2-4, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin, bubblewrap,liblol,liblol-dkms,spark-dstore-patch,libtiff5
+Recommends: libappindicator3-1
+Conflicts: com.qq.weixin, weixin, com.tencent.weixin
+Breaks: wechat-linux-spark (<< 2.1.2-1)
+Replaces: wechat-linux-spark (<< 2.1.2-1)
+Filename: chat/store.spark-app.wechat-linux-spark/store.spark-app.wechat-linux-spark_2.2.1-real-1.0.0.241.1_loong64.deb
+Size: 116817668
+MD5sum: 70a87d825ccced69e84b118502fb57ac
+SHA1: 011c19fe2ad06aff68b56b5079223881b06041fd
+SHA256: c3733b0f86a5b9f974432130fb67b059a0e39f6519d042b846fd650f513b04c9
+SHA512: a11999291f6f80c9bef7d7387d30750088794f180a450314359ebdd274296fe9eb83254d8bbaff4af1b23f72d8a43fa179a5a3828a43b92cbb9fbee9ff8c841a
+Homepage: https://wx.qq.com/
+Description: 微信桌面版
 
 Package: store.spark-app.wechat-linux-spark
 Architecture: loong64

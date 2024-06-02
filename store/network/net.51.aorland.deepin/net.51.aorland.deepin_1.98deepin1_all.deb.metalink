@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="net.51.aorland.deepin_1.98deepin1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1d6b244799207057a627a3b3a864c59c</hash>
+				  
+				<hash type="sha1">ea87b1da44c5d8b6e85ee37db28202ceeb0d2c6f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/network/net.51.aorland.deepin/net.51.aorland.deepin_1.98deepin1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/net.51.aorland.deepin/net.51.aorland.deepin_1.98deepin1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/net.51.aorland.deepin/net.51.aorland.deepin_1.98deepin1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/net.51.aorland.deepin/net.51.aorland.deepin_1.98deepin1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/net.51.aorland.deepin/net.51.aorland.deepin_1.98deepin1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/net.51.aorland.deepin/net.51.aorland.deepin_1.98deepin1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>
