@@ -1470,24 +1470,6 @@ Description: D-Bus Qt main loop support for Python 3
 
 Package: lat
 Architecture: loong64
-Version: 1.5.2~rc1
-Multi-Arch: same
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: deepin <support@deepin.org>
-Depends: libc6 (>= 2.37)
-Filename: depends/lat/lat_1.5.2~rc1_loong64.deb
-Size: 2438880
-MD5sum: 2c94dd8655ae3eb512e7ae73e88ead81
-SHA1: f7adf5c55806ac3112917d1f3c88afbca52a6b33
-SHA256: 86c4ccc2f7328a9d538b91a354d2c02c82691e7e89efa2c3eaf284347671fb3f
-SHA512: 7bd291f2ef4a0c1c3fdd7bfd246b8cc0a7cabe56bf0fda6798ad6ce1b4da1aa9b239c97f95cc6ddc59a4c104bf7462175bd5d913a348435b773d442ad4e3a4d3
-Homepage: http://loongnix.cn
-Description: Loongson Architecture Translator
- Static binary for Loongson Architecture Translator
-
-Package: lat
-Architecture: loong64
 Version: 1.5.1-real-is1.4.4-1
 Multi-Arch: same
 Priority: optional
