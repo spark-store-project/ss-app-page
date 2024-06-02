@@ -4377,6 +4377,22 @@ Build-Depends: liblol, debhelper (>= 11)
 
 Package: sunny
 Architecture: loong64
+Version: 1.6.3
+Priority: optional
+Section: devel
+Maintainer: XMuli <xmulitech@gmail.com>
+Installed-Size: 6038
+Depends: libqt5x11extras5, libqt5widgets5, libqt5xml5, libqt5svg5, libqt5network5
+Filename: image_graphics/sunny/sunny_1.6.3_loong64.deb
+Size: 774068
+MD5sum: abb84800aa1c8636ec32ecb72c52a2e0
+SHA1: 2b589db6edd5361f1408b0a290293c625c6a9df0
+SHA256: 11e471fdd351e1b0d673677c4e2c782d3dd737cc69cf4144c8c0483a1be7e075
+SHA512: 3195d549802db88ae790aedff9e75fed08db555a373be850d90df7ffaebe55ebe78797db0bcab0c736a0a5c7292adfc7f1bdbeacfeff6a571e260a73107acd12
+Description: Simple and beautiful screenshot software that supports Windows, macOS, and Linux. It also supports OCR and image translation features.
+
+Package: sunny
+Architecture: loong64
 Version: 1.6.2
 Priority: optional
 Section: devel

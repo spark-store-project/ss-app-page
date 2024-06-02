@@ -1,16 +1,16 @@
 {
     "Author": "XMuli <xmulitech@gmail.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "sunny_1.6.2_loong64.deb",
-    "More": "wSunny是一款简洁且漂亮的\"截图 & 钉图\"软件，支持Windows、MacOS和Linux系统，亦支持 OCR 和图片翻译功能。官网: https://sunny.xmuli.tech",
+    "Filename": "sunny_1.6.3_loong64.deb",
+    "More": "wSunny是一款简洁且漂亮的\"截图 & 钉图\"软件，支持Windows、MacOS和Linux系统，亦支持 OCR 和图片翻译功能。官网: https://sunny.xmuli.tech\n\n自用中，积极开发功能和修复缺陷，以和提升用户体验\n\n功能\n  - 新增\"德语\"翻译\n  - 更新\"葡萄牙-巴西\"翻译\n  - 支持操作引导提示窗口\n\n修复\n  - 十字线会遮挡放大镜的区域 #25\n  - Linux 中点击时拉伸选中矩形后尺寸异常 #26\n  - 托盘预览的翻译未立刻生效 #19\n  - 其它小功能的优化\n\n感谢贡献\n感谢 @thiagodalsoto  提供葡萄牙语-巴西语翻译，感谢 @Kthargas 提供了德语翻译",
     "Name": "Sunny 截图",
     "Pkgname": "sunny",
-    "Size": "604 Kb",
+    "Size": "774 Kb",
     "Tags": "deepin;ubuntu",
-    "Torrent_address": "sunny_1.6.2_loong64.deb.torrent",
-    "Update": "2024-05-22 14:55:01",
-    "Version": "1.6.2",
+    "Torrent_address": "sunny_1.6.3_loong64.deb.torrent",
+    "Update": "2024-06-02 14:59:16",
+    "Version": "1.6.3",
     "Website": "https://sunny.xmuli.tech/",
     "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/sunny/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/sunny/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/sunny/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/sunny/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/sunny/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/sunny/screen_5.png\"]"
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/sunny/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/sunny/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/sunny/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/sunny/screen_4.png\"]"
 }
