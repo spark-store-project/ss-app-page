@@ -464,19 +464,19 @@
 ,
 {
     "Name": "QMPlay2",
-    "Version": "23.06.17spark4",
-    "Filename": "com.qmplay2.spark_23.06.17spark4_amd64.deb",
-    "Torrent_address": "com.qmplay2.spark_23.06.17spark4_amd64.deb.torrent",
+    "Version": "24.04.07spark5",
+    "Filename": "com.qmplay2.spark_24.04.07spark5_amd64.deb",
+    "Torrent_address": "com.qmplay2.spark_24.04.07spark5_amd64.deb.torrent",
     "Pkgname": "com.qmplay2.spark",
     "Author": "zaps166",
     "Contributor": "sgb76",
     "Website": "https://github.com/zaps166/QMPlay2",
-    "Update": "2023-06-27 10:57:52",
-    "Size": "21.63 MB",
+    "Update": "2024-06-02 23:46:53",
+    "Size": "21.93 MB",
     "More": "QMPlay2是一款可以播放大多数格式和编解码器的视频和音频播放器。",
     "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/27/0fc618e6d14f4707af80964dc52857e8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/27/c01bf7e16ba34131b74d994e35f063e4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/27/86e778e7755e4d1ca22ea2e81f750a00.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/27/ec6d68ed04d54fc7847f2bee8e3cc828.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/19ba25e91aba4a1d971c41f9a3024f25.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/be25dc1d95bc452fa89a543aecab3b96.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/3177feb1d0dc438681642ce2bfffbb16.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/1248e983eab54867872e03f72458246b.png"
 }
 ,
 {
@@ -648,6 +648,23 @@
 }
 ,
 {
+    "Name": "多多影院（安卓版）",
+    "Version": "5.7",
+    "Filename": "uengine-dc-com.ay293.app_5.7_amd64.deb",
+    "Torrent_address": "uengine-dc-com.ay293.app_5.7_amd64.deb.torrent",
+    "Pkgname": "uengine-dc-com.ay293.app",
+    "Author": "多多影院",
+    "Contributor": "lv36",
+    "Website": "http://mobile.yangkeduo.com/goods.html?goods_id=301897111394",
+    "Update": "2022-04-10 00:23:19",
+    "Size": "8.13 MB",
+    "More": "全网影视，一网打尽\n需要购买会员，8.8元，点击上方官网按钮即可购买",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/10/457c0530-b821-11ec-b0fd-55bf68235c8a.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/10/4905a120-b821-11ec-b0fd-55bf68235c8a.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/10/4b385fa0-b821-11ec-b0fd-55bf68235c8a.jpg\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/10/41fdb3e0-b821-11ec-b0fd-55bf68235c8a.png"
+}
+,
+{
     "Author": "shenmo <jifengshenmo@outlook.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "org.vlc.ace_3.0.18.1_all.deb",
@@ -664,23 +681,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/org.vlc.ace/screen_1.png\"]"
 }
 
-,
-{
-    "Name": "多多影院（安卓版）",
-    "Version": "5.7",
-    "Filename": "uengine-dc-com.ay293.app_5.7_amd64.deb",
-    "Torrent_address": "uengine-dc-com.ay293.app_5.7_amd64.deb.torrent",
-    "Pkgname": "uengine-dc-com.ay293.app",
-    "Author": "多多影院",
-    "Contributor": "lv36",
-    "Website": "http://mobile.yangkeduo.com/goods.html?goods_id=301897111394",
-    "Update": "2022-04-10 00:23:19",
-    "Size": "8.13 MB",
-    "More": "全网影视，一网打尽\n需要购买会员，8.8元，点击上方官网按钮即可购买",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/10/457c0530-b821-11ec-b0fd-55bf68235c8a.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/10/4905a120-b821-11ec-b0fd-55bf68235c8a.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/10/4b385fa0-b821-11ec-b0fd-55bf68235c8a.jpg\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/10/41fdb3e0-b821-11ec-b0fd-55bf68235c8a.png"
-}
 ,
 {
     "Name": "OpenShot",
@@ -864,6 +864,24 @@
 }
 ,
 {
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "co.jianpian8.player_4.2.3.48_all.deb",
+    "More": "专治迅雷被封链接 \n保证所有迅雷无法下载的资源 荐片播放器100%可以高速下载，netflix、美剧、韩剧、动漫全网资源永久免费观看，必备看片神器",
+    "Name": "荐片播放器",
+    "Pkgname": "co.jianpian8.player",
+    "Size": "262 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "co.jianpian8.player_4.2.3.48_all.deb.torrent",
+    "Update": "2024-05-07 11:17:41",
+    "Version": "4.2.3.48",
+    "Website": "https://www.jianpian8.co/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/video/co.jianpian8.player/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/co.jianpian8.player/screen_1.png\"]"
+}
+
+,
+{
     "Name": "WebTorrent",
     "Version": "0.24.0",
     "Filename": "webtorrent-desktop_0.24.0_amd64.deb",
@@ -895,24 +913,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/22/c5a14580-93bf-11ec-b7da-51c597f813ed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/22/cb248e90-93bf-11ec-b7da-51c597f813ed.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/02/22/c23d32f0-93bf-11ec-b7da-51c597f813ed.png"
 }
-,
-{
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "co.jianpian8.player_4.2.3.48_all.deb",
-    "More": "专治迅雷被封链接 \n保证所有迅雷无法下载的资源 荐片播放器100%可以高速下载，netflix、美剧、韩剧、动漫全网资源永久免费观看，必备看片神器",
-    "Name": "荐片播放器",
-    "Pkgname": "co.jianpian8.player",
-    "Size": "262 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "co.jianpian8.player_4.2.3.48_all.deb.torrent",
-    "Update": "2024-05-07 11:17:41",
-    "Version": "4.2.3.48",
-    "Website": "https://www.jianpian8.co/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/video/co.jianpian8.player/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/co.jianpian8.player/screen_1.png\"]"
-}
-
 ,
 {
    "Name":"MystiQ影音转换器",

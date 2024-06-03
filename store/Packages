@@ -7504,6 +7504,23 @@ Description: A webapp of https://mofangsoft.github.io/gongju/jintianchisha/index
 
 Package: com.rarlab.winrar.spark
 Architecture: all
+Version: 7.01spark1
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: sgb76 <sgb76@163.com>
+Depends: deepin-wine6-stable:amd64 (>= 6.0.0.42-1), spark-dwine-helper (>= 2.2), fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: tools/com.rarlab.winrar.spark/com.rarlab.winrar.spark_7.01spark1_all.deb
+Size: 17230960
+MD5sum: 85d46ce08da7a9c317b3f5ad5ac0587c
+SHA1: 031f88d6ffaab51c8a009ed7c795e423b4e9b63d
+SHA256: 53bd69d625a49cbac5f5716e68d29c9a2dafff2710e2bbbf002a399afef6e510
+SHA512: 2b4cbf4822d3e6abcee56d1b0ba29098a5f19e06dd94fdf1bc43f8cb830467be3a2af69521533a74185c0f5f6df02792b67a8af798c146e3abed6348f65e98f1
+Description: WinRAR on deepin wine6
+ 一款功能强大的压缩包管理器，可以解开 CAB、ARJ、LZH、TAR、GZ、ACE、UUE、BZ2、JAR、ISO、Z 和 7Z 等多种类型的档案文件、镜像文件和TAR 组合型文件
+
+Package: com.rarlab.winrar.spark
+Architecture: all
 Version: 7.00spark0
 Multi-Arch: foreign
 Priority: optional
@@ -12012,6 +12029,27 @@ MD5sum: e1defb79c422631309d08083173f2d4f
 SHA1: f44ad5141e8959ff19690fa80e177337b20544e8
 SHA256: 0623e152524477d1015b2619bb1784d82473de6153b8b78a892783fb9e0894f9
 SHA512: 13b4d27b92a76edc8135791cb4d256bfc5c5dad6e95f3fcfe6b273f5a0ea74a45e4758e8bf287ac20ff14e09e88cfec89253685f8fb4ab216d189bdd9f1fe708
+Homepage: https://github.com/listen1/listen1_desktop#readme
+Description: 
+  One for all free music in China
+License: MIT
+Vendor: Listen 1 <githublisten1@gmail.com>
+
+Package: listen1
+Architecture: amd64
+Version: 2.32.0
+Priority: optional
+Section: default
+Maintainer: Listen 1 <githublisten1@gmail.com>
+Installed-Size: 193179
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: music/listen1/listen1_2.32.0_amd64.deb
+Size: 57093710
+MD5sum: 13e4fdd2f2d431bd31cc493f6f63dd94
+SHA1: 724f54ce1cc815c0649e177aff17dd59ce62cec6
+SHA256: 5ac63be98672a30850a97765e6474ea95ce0cb5a9330eee6d6d1db62860a1916
+SHA512: fc8051d851bc690016eb567bba3475c1086d33db849a185048fcd2b4a16f35a54a9739e3cefe382acb5455ec7f35fbb28672f85559cbbe509c740ea35405e026
 Homepage: https://github.com/listen1/listen1_desktop#readme
 Description: 
   One for all free music in China
@@ -24088,6 +24126,29 @@ Description: 欧路软件
 License: unknown
 Vendor: EUSOFT<help@eudic.net>
 
+Package: novelwriter
+Architecture: all
+Version: 2.4.3
+Priority: optional
+Section: text
+Maintainer: Veronica Berglyd Olsen <code@vkbo.net>
+Installed-Size: 6402
+Depends: python3-enchant (>= 2.0), python3-pyqt5 (>= 5.10), python3:any (>= 3.8~), python3 (>= 3.8)
+Filename: office/novelwriter/novelwriter_2.4.3_all.deb
+Size: 3537692
+MD5sum: 23606994a2a30030ed738e3dc2c97e1b
+SHA1: e71abc9a22e1453ef53934e14c057ae59364c8cc
+SHA256: 6b188c7c01fff17bf9aa5be3e9e373a96ee75db5b2b518c5438a615359b3dd2a
+SHA512: 9b3f929b8c3b3c126bddb1549fdbfc2299e895fbf20f6fb14760c55ecc8f66cc320e905eb1e49071bd61707b08d37950a60712a4988634d9fb5313d17b8b7dd2
+Homepage: https://novelwriter.io
+Description: A markdown-like text editor for planning and writing novels
+ novelWriter is a plain text editor designed for writing novels assembled from
+ many smaller text documents. It uses a minimal formatting syntax inspired by
+ Markdown, and adds a meta data syntax for comments, synopsis, and
+ cross-referencing. It's designed to be a simple text editor that allows for
+ easy organisation of text and notes, using human readable text files as
+ storage for robustness.
+
 Package: cn.evestudio.todo.spark
 Architecture: all
 Version: 3.6.1spark2
@@ -31314,6 +31375,19 @@ SHA256: 9ed6e760d363bd80a0181e8f6519b3f1476faae5b63c097a2063f9c5268a917a
 SHA512: 1baf05603a072a0cd4a753d7ac39e700ae38b47382ffd90a9d16fd7c717776d7bfb407386d71a31d88f5225b3612558e8fbf890c99ba6215d84303f979009046
 Description: Watching movies and listening to music
 
+Package: com.qmplay2.spark
+Architecture: amd64
+Version: 24.04.07spark5
+Section: video
+Maintainer: sgb76 <sgb76@163.com>
+Filename: video/com.qmplay2.spark/com.qmplay2.spark_24.04.07spark5_amd64.deb
+Size: 22998512
+MD5sum: f0dc300afa1b9639714518a29f75136a
+SHA1: 63537225f466cf0d0b01043dc4a0c569f2bcce4b
+SHA256: de5dba8120a6a0d31add1c4fafdb6b4f5864d2eb940a777c494b27f2bcf2c770
+SHA512: b64beef11982fdb6ed001c4e059a5e04deb239c5fa44411f7fd691a3107827e59512adde14d433d2da799e7aad63867f121c67100e40ec23b7349c052347f989
+Description: Watching movies and listening to music
+
 Package: lightworks
 Architecture: amd64
 Version: 2020.1
@@ -35055,6 +35129,19 @@ SHA1: 1d347ff1c7e77314d37858d3647a2453b1ed7571
 SHA256: a4d1c947c76456b3d85859d1a60829592baaaf969758a7589b3a350a4932b04e
 SHA512: 369f90a1aa81c56c915c3c820966bef234b23db4973ff6ac5df6692a733ae45d5a5f4427a914f797ac69534522aeae1a354cd227e6bb0194187dce22c3ccc8b7
 Description: 腾讯通 For DWine6
+
+Package: discord-web
+Architecture: amd64
+Version: 1.0
+Maintainer: shenmo
+Depends: spark-webapp-runtime(>=1.5)
+Filename: chat/discord-web/discord-web_1.0_amd64.deb
+Size: 7876
+MD5sum: 9a420e4fee01ba4f43cde34bc345d864
+SHA1: 1cd78a340f72d6bf3ad680bfdab56fb651e17aef
+SHA256: a3b07f894185785b810131eb3cad646dd687df8e581d23a52c9163a7e9469b0b
+SHA512: 51020dae482be7939eb4166ce8a9b00395e3356df7d13cb61828202e65fbb225e9ba158d834d945eba1ed01c40803c59cef4cf8bd34b03ac7a0cde2d1f1dffe9
+Description: A webapp of https://discord.com/app packed by shenmo using spark webapp runtime
 
 Package: element-desktop
 Architecture: amd64

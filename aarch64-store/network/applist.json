@@ -90,22 +90,6 @@
 
 ,
 {
-    "Author": "shenmo <jifengshenmo@outlook.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "org.mozilla.firefox-esr.spark_1.0_all.deb",
-    "More": "firefox-esr的虚包，安装后会自动安装适合版本的firefox-esr",
-    "Name": "Firefox ESR",
-    "Pkgname": "org.mozilla.firefox-esr.spark",
-    "Size": "1 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "org.mozilla.firefox-esr.spark_1.0_all.deb.torrent",
-    "Update": "2023-05-02 20:20:09",
-    "Version": "1.0",
-    "Website": "https://shenmo7192.gitee.io/"
-}
-
-,
-{
     "Author": "Kingtous",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "cn.kingtous.fclash_1.4.4_arm64.deb",
@@ -120,6 +104,22 @@
     "Website": "https://github.com/fclash/fclash",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/cn.kingtous.fclash/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <jifengshenmo@outlook.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "org.mozilla.firefox-esr.spark_1.0_all.deb",
+    "More": "firefox-esr的虚包，安装后会自动安装适合版本的firefox-esr",
+    "Name": "Firefox ESR",
+    "Pkgname": "org.mozilla.firefox-esr.spark",
+    "Size": "1 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "org.mozilla.firefox-esr.spark_1.0_all.deb.torrent",
+    "Update": "2023-05-02 20:20:09",
+    "Version": "1.0",
+    "Website": "https://shenmo7192.gitee.io/"
 }
 
 ,
@@ -321,24 +321,6 @@
 
 ,
 {
-    "Author": "RealVNC <noreply@realvnc.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "realvnc-vnc-viewer_7.11.0.18_arm64.deb",
-    "More": "VNC Viewer, from RealVNC, the original inventor of VNC technology, is remote access\n software that enables you to securely connect to and control a remote\n computer.\n RealVNC recommends the realvnc-vnc-server package (VNC Server) for the\n remote computer, for seamless, secure and reliable connections. A free trial\n is available.",
-    "Name": "VNC Viewer",
-    "Pkgname": "realvnc-vnc-viewer",
-    "Size": "3766 Kb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "realvnc-vnc-viewer_7.11.0.18_arm64.deb.torrent",
-    "Update": "2024-05-09 16:31:33",
-    "Version": "7.11.0.18",
-    "Website": "https://www.realvnc.com/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-viewer/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-viewer/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-viewer/screen_2.png\"]"
-}
-
-,
-{
     "Author": "Dominik George <natureshadow@debian.org>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "midori_7.0-2_arm64.deb",
@@ -353,6 +335,24 @@
     "Website": "https://www.midori-browser.org/",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/midori/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/midori/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/midori/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "RealVNC <noreply@realvnc.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "realvnc-vnc-viewer_7.11.0.18_arm64.deb",
+    "More": "VNC Viewer, from RealVNC, the original inventor of VNC technology, is remote access\n software that enables you to securely connect to and control a remote\n computer.\n RealVNC recommends the realvnc-vnc-server package (VNC Server) for the\n remote computer, for seamless, secure and reliable connections. A free trial\n is available.",
+    "Name": "VNC Viewer",
+    "Pkgname": "realvnc-vnc-viewer",
+    "Size": "3766 Kb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "realvnc-vnc-viewer_7.11.0.18_arm64.deb.torrent",
+    "Update": "2024-05-09 16:31:33",
+    "Version": "7.11.0.18",
+    "Website": "https://www.realvnc.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-viewer/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-viewer/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-viewer/screen_2.png\"]"
 }
 
 ,
@@ -483,24 +483,6 @@
 
 ,
 {
-    "Author": "Sangfor Technologies Inc <support@sangfor.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "cn.com.sangfor.atrust_2.2.10.3_arm64.deb",
-    "More": "从北邮获取的aTrust VPN客户端，可用于对应系统的登录\n此客户端将对访问应用的请求进行全生命周期的保护，帮助用户安全快速的访问应用",
-    "Name": "aTrust VPN",
-    "Pkgname": "cn.com.sangfor.atrust",
-    "Size": "92 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "cn.com.sangfor.atrust_2.2.10.3_arm64.deb.torrent",
-    "Update": "2023-04-11 14:29:07",
-    "Version": "2.2.10.3",
-    "Website": "http://www.sangfor.com.cn",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.com.sangfor.atrust/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.com.sangfor.atrust/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.com.sangfor.atrust/screen_2.png\"]"
-}
-
-,
-{
     "Author": "Qaxbrowser Team <qaxbrowser@qianxin.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.qianxin.browser-stable_1.0.45276.3-1_arm64.deb",
@@ -515,6 +497,24 @@
     "Website": "https://www.qianxin.com/",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qianxin.browser-stable/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qianxin.browser-stable/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qianxin.browser-stable/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qianxin.browser-stable/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "Sangfor Technologies Inc <support@sangfor.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "cn.com.sangfor.atrust_2.2.10.3_arm64.deb",
+    "More": "从北邮获取的aTrust VPN客户端，可用于对应系统的登录\n此客户端将对访问应用的请求进行全生命周期的保护，帮助用户安全快速的访问应用",
+    "Name": "aTrust VPN",
+    "Pkgname": "cn.com.sangfor.atrust",
+    "Size": "92 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "cn.com.sangfor.atrust_2.2.10.3_arm64.deb.torrent",
+    "Update": "2023-04-11 14:29:07",
+    "Version": "2.2.10.3",
+    "Website": "http://www.sangfor.com.cn",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.com.sangfor.atrust/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.com.sangfor.atrust/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.com.sangfor.atrust/screen_2.png\"]"
 }
 
 ,
@@ -753,6 +753,24 @@
 
 ,
 {
+    "Author": "zzzgydi, wonfen, MystiPanda",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "clash-verge_1.6.4_arm64.deb",
+    "More": "A Clash Meta GUI based on tauri.\nClash Verge的新维护者版本,支持Linux发行版下开启系统代理",
+    "Name": "Clash Verge",
+    "Pkgname": "clash-verge",
+    "Size": "42 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "clash-verge_1.6.4_arm64.deb.torrent",
+    "Update": "2024-06-02 22:32:00",
+    "Version": "1.6.4",
+    "Website": "https://clash-verge-rev.github.io/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_3.png\"]"
+}
+
+,
+{
     "Author": "sgb76 <sgb76@163.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.xunlei.spark_11.4.8.2122spark3_all.deb",
@@ -767,6 +785,24 @@
     "Website": "https://www.xunlei.com/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "wang",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.pdftodocx.deepin_1.1_all.deb",
+    "More": "PDF to DOCX 转换器是个PDF转成Word的转换器，这是吾爱大佬开发的，有非常多的人使用，软件界面非常简单。软件转换过程没有进度显示，只有转换完了才会有提示，它不支持纯图片的PDF，对表格等格式的转换效果非常好。",
+    "Name": "PDF to DOCX 转换器",
+    "Pkgname": "com.pdftodocx.deepin",
+    "Size": "146 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.pdftodocx.deepin_1.1_all.deb.torrent",
+    "Update": "2024-05-29 16:29:11",
+    "Version": "1.1",
+    "Website": "https://www.52pojie.cn/thread-1799014-1-1.html",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/screen_2.png\"]"
 }
 
 ,
@@ -825,24 +861,6 @@
 
 ,
 {
-    "Author": "wang",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.pdftodocx.deepin_1.1_all.deb",
-    "More": "PDF to DOCX 转换器是个PDF转成Word的转换器，这是吾爱大佬开发的，有非常多的人使用，软件界面非常简单。软件转换过程没有进度显示，只有转换完了才会有提示，它不支持纯图片的PDF，对表格等格式的转换效果非常好。",
-    "Name": "PDF to DOCX 转换器",
-    "Pkgname": "com.pdftodocx.deepin",
-    "Size": "146 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "com.pdftodocx.deepin_1.1_all.deb.torrent",
-    "Update": "2024-05-29 16:29:11",
-    "Version": "1.1",
-    "Website": "https://www.52pojie.cn/thread-1799014-1-1.html",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/screen_2.png\"]"
-}
-
-,
-{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.jd.jm_11.3.3_all.deb",
@@ -857,24 +875,6 @@
     "Website": "",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.jd.jm/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.jd.jm/screen_1.png\"]"
-}
-
-,
-{
-    "Author": "zzzgydi, wonfen, MystiPanda",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "clash-verge_1.6.4_arm64.deb",
-    "More": "A Clash Meta GUI based on tauri.\nClash Verge的新维护者版本,支持Linux发行版下开启系统代理",
-    "Name": "Clash Verge",
-    "Pkgname": "clash-verge",
-    "Size": "42 Mb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "clash-verge_1.6.4_arm64.deb.torrent",
-    "Update": "2024-06-02 22:32:00",
-    "Version": "1.6.4",
-    "Website": "https://clash-verge-rev.github.io/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_3.png\"]"
 }
 
 ]

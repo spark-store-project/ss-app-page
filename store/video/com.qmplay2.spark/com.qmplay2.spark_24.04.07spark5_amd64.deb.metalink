@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.qmplay2.spark_24.04.07spark5_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f0dc300afa1b9639714518a29f75136a</hash>
+				  
+				<hash type="sha1">63537225f466cf0d0b01043dc4a0c569f2bcce4b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/video/com.qmplay2.spark/com.qmplay2.spark_24.04.07spark5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/video/com.qmplay2.spark/com.qmplay2.spark_24.04.07spark5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/video/com.qmplay2.spark/com.qmplay2.spark_24.04.07spark5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/video/com.qmplay2.spark/com.qmplay2.spark_24.04.07spark5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/video/com.qmplay2.spark/com.qmplay2.spark_24.04.07spark5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/video/com.qmplay2.spark/com.qmplay2.spark_24.04.07spark5_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

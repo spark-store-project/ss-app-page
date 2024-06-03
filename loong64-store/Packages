@@ -8733,6 +8733,19 @@ SHA512: 34d034fb4274bea0d0ddeffc7d2c8f219a296e47ba2310cd2e980268e997c9e175380d6c
 Description: store.spark-app.feedback
  Spark Store Feedback
 
+Package: discord-web
+Architecture: loong64
+Version: 1.0
+Maintainer: shenmo
+Depends: spark-webapp-runtime(>=1.5)
+Filename: chat/discord-web/discord-web_1.0_loong64.deb
+Size: 7880
+MD5sum: 78009b3b0dcf7325ec60877823cd9fdf
+SHA1: ca7daece6379293de535ffce6334f0fb968a0a45
+SHA256: ba1f2a256170f1786c21a9b20c51e0380c2fba0087793f6ead0144bef975df60
+SHA512: 9957e3785835cd746c4233e6d2aa1ea1e3f53d969a9cd7f179d776547d49105da792e07a7edc316dc631b34d2a4a06f7cf9b95a108088921d2e479c3ae7f292a
+Description: A webapp of https://discord.com/app packed by shenmo using spark webapp runtime
+
 Package: com.alibabainc.dingtalk
 Architecture: loong64
 Version: 7.5.0.40221

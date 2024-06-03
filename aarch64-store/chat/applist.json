@@ -198,24 +198,6 @@
 
 ,
 {
-    "Author": "Feishu Linux Team <contact@feishu.cn>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "bytedance-feishu-stable_6.5.11-0_arm64.deb",
-    "More": "飞书Linux版本\n飞书整合即时消息、日历、音视频会议、云文档、工作台等功能于一体，成就团队和个人，更高效、更愉悦。",
-    "Name": "飞书(Linux版)",
-    "Pkgname": "bytedance-feishu-stable",
-    "Size": "279 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "bytedance-feishu-stable_6.5.11-0_arm64.deb.torrent",
-    "Update": "2023-07-05 11:20:54",
-    "Version": "6.5.11-0",
-    "Website": "https://www.feishu.cn",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/bytedance-feishu-stable/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/bytedance-feishu-stable/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/bytedance-feishu-stable/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/bytedance-feishu-stable/screen_3.png\"]"
-}
-
-,
-{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.qq.weixin.work.uk.spark_3.1.6.3605spark2_arm64.deb",
@@ -230,6 +212,24 @@
     "Website": "https://www.ubuntukylin.com/applications/108-cn.html",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/com.qq.weixin.work.uk.spark/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/com.qq.weixin.work.uk.spark/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "Feishu Linux Team <contact@feishu.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "bytedance-feishu-stable_6.5.11-0_arm64.deb",
+    "More": "飞书Linux版本\n飞书整合即时消息、日历、音视频会议、云文档、工作台等功能于一体，成就团队和个人，更高效、更愉悦。",
+    "Name": "飞书(Linux版)",
+    "Pkgname": "bytedance-feishu-stable",
+    "Size": "279 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "bytedance-feishu-stable_6.5.11-0_arm64.deb.torrent",
+    "Update": "2023-07-05 11:20:54",
+    "Version": "6.5.11-0",
+    "Website": "https://www.feishu.cn",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/bytedance-feishu-stable/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/bytedance-feishu-stable/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/bytedance-feishu-stable/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/bytedance-feishu-stable/screen_3.png\"]"
 }
 
 ,
@@ -370,6 +370,24 @@
     "Update": "2023-04-20 18:41:53",
     "Version": "8.1.21",
     "Website": "https://www.mygzb.com/download.html"
+}
+
+,
+{
+    "Author": "shenmo",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "discord-web_1.0_arm64.deb",
+    "More": "Discord webapp",
+    "Name": "Discord(web)",
+    "Pkgname": "discord-web",
+    "Size": "7 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "discord-web_1.0_arm64.deb.torrent",
+    "Update": "2024-06-03 21:34:44",
+    "Version": "1.0",
+    "Website": "https://discord.com/app",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/discord-web/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/discord-web/screen_1.png\"]"
 }
 
 ]

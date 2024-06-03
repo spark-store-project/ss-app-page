@@ -1396,19 +1396,19 @@
 ,
 {
     "Name": "WinRAR",
-    "Version": "7.00spark0",
-    "Filename": "com.rarlab.winrar.spark_7.00spark0_all.deb",
-    "Torrent_address": "com.rarlab.winrar.spark_7.00spark0_all.deb.torrent",
+    "Version": "7.01spark1",
+    "Filename": "com.rarlab.winrar.spark_7.01spark1_all.deb",
+    "Torrent_address": "com.rarlab.winrar.spark_7.01spark1_all.deb.torrent",
     "Pkgname": "com.rarlab.winrar.spark",
     "Author": "Alexander Roshal",
     "Contributor": "sgb76",
     "Website": "https://www.rarlab.com/",
-    "Update": "2023-12-09 20:42:47",
-    "Size": "16.34 MB",
+    "Update": "2024-06-02 22:35:13",
+    "Size": "16.43 MB",
     "More": "一款功能强大的压缩包管理器，可以解开 CAB、ARJ、LZH、TAR、GZ、ACE、UUE、BZ2、JAR、ISO、Z 和 7Z 等多种类型的档案文件、镜像文件和TAR 组合型文件\n \n--说明--\ndeepin下可以通过右键菜单选择WinRAR打开支持的压缩文件",
     "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/4aa9b8c1520244c6887da7417380f2d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/2f79116ffa7a49429dc9130fa42fd19b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/2f048e1bb3a1431ab99152b2d0b6023d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/09/a015fc0e07f84f00aefd5ee775f78d04.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/1d09fb9bc0464504aad41ad5cf1b85ca.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/dcf9bdbba39d4829b89c0a794089c471.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/269b84a6bffb40fb84515f45c206f669.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/61f91289ce714cb9afb0545169ca7dd8.png"
 }
 ,
 {
@@ -1476,6 +1476,22 @@
 }
 ,
 {
+    "Name": "QGIS",
+    "Version": "3.18.3",
+    "Filename": "qgis.gisshows_3.18.3_amd64.deb",
+    "Pkgname": "qgis.gisshows",
+    "Author": "QGIS",
+    "Contributor": "GIS Show",
+    "Website": "www.qgis.org",
+    "Update": "2021-05-18 20:43:57",
+    "Size": "57.33 MB",
+    "More": "一款免费的开源地理信息系统，针对deepin和UOS进行优化和重新编译",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/8fa658a0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/92cc77d0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/950095e0-b7d6-11eb-95cc-55162659a757.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/18/744e6070-b7d6-11eb-95cc-55162659a757.png"
+}
+,
+{
     "Name": "WPS Office 版本信息及字体检测小工具",
     "Version": "0.3-1",
     "Filename": "wps-check_0.3-1_all.deb",
@@ -1490,22 +1506,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/c9d64dc5317e415dbf51e0d935bd79ca.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/10/a77559bee8c94d93ac29d8e226971db7.png"
-}
-,
-{
-    "Name": "QGIS",
-    "Version": "3.18.3",
-    "Filename": "qgis.gisshows_3.18.3_amd64.deb",
-    "Pkgname": "qgis.gisshows",
-    "Author": "QGIS",
-    "Contributor": "GIS Show",
-    "Website": "www.qgis.org",
-    "Update": "2021-05-18 20:43:57",
-    "Size": "57.33 MB",
-    "More": "一款免费的开源地理信息系统，针对deepin和UOS进行优化和重新编译",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/8fa658a0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/92cc77d0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/950095e0-b7d6-11eb-95cc-55162659a757.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/18/744e6070-b7d6-11eb-95cc-55162659a757.png"
 }
 ,
 {
@@ -2096,23 +2096,6 @@
 }
 ,
 {
-    "Name": "MPaste：剪贴板管理工具",
-    "Version": "0.2.0",
-    "Filename": "mpaste_0.2.0_amd64.deb",
-    "Torrent_address": "mpaste_0.2.0_amd64.deb.torrent",
-    "Pkgname": "mpaste",
-    "Author": "SeptemberHX",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://github.com/SeptemberHX/MPaste/",
-    "Update": "2023-02-12 13:17:37",
-    "Size": "2.81 MB",
-    "More": "该应用为对 Paste，mac上的剪贴板工具 的复刻。原工具只支持 mac，现用 Qt 实现支持 Linux。\n \n不要用本工具存储重要内容！导致的信息丢失概不负责\n \n-----------------2021-08-03   v0.2.0----------------\n1. 托盘支持\n2. deb 包支持，安装后启动器可见及设置自启动\n3. 支持选中历史剪贴板数据后，自动粘贴到当前窗口\n4.增加配置文件，允许修改 最大历史数量（数据文件夹修改目前不可用）\n---------------------------------\n\n使用方法：\n1. 下载 deb 安装包，安装。\n3. 系统设置 -> 快捷键设置 -> 添加新快捷键，命令填写 /usr/bin/MPaste，快捷键自定义即可\n \n之后使用快捷键即可唤出。\n* 唤出后，任意字符键进行搜索\n* 按下 Alt 键不放，显示快捷键提示，Alt + 数字键快速选择\n \n默认设置：\n1. 数据存储文件夹：~/.MPaste/Clipboard\n2. 最大历史记录数量：500\n \n------\n \n特点：\n1. 剪贴板记录，支持对 图片、图片文件、链接、文本、颜色 的预览（见下图）\n2. 搜索功能",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/cad34bf37b2b470ba9c59a560b8c1607.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/3653b6677aba447bb3c69d57fd2c6527.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/d1b3c04ab9b54f4aa03dd0b4220455df.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/eb8ae307e3bf4ecab2354f152448d71f.png"
-}
-,
-{
    "Name":"XiaoMiTool（XMT2）",
    "Version":"20.7.28",
    "Filename":"com.xiaomitool_20.7.28_amd64.deb",
@@ -2144,6 +2127,23 @@
 }
 ,
 {
+    "Name": "MPaste：剪贴板管理工具",
+    "Version": "0.2.0",
+    "Filename": "mpaste_0.2.0_amd64.deb",
+    "Torrent_address": "mpaste_0.2.0_amd64.deb.torrent",
+    "Pkgname": "mpaste",
+    "Author": "SeptemberHX",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://github.com/SeptemberHX/MPaste/",
+    "Update": "2023-02-12 13:17:37",
+    "Size": "2.81 MB",
+    "More": "该应用为对 Paste，mac上的剪贴板工具 的复刻。原工具只支持 mac，现用 Qt 实现支持 Linux。\n \n不要用本工具存储重要内容！导致的信息丢失概不负责\n \n-----------------2021-08-03   v0.2.0----------------\n1. 托盘支持\n2. deb 包支持，安装后启动器可见及设置自启动\n3. 支持选中历史剪贴板数据后，自动粘贴到当前窗口\n4.增加配置文件，允许修改 最大历史数量（数据文件夹修改目前不可用）\n---------------------------------\n\n使用方法：\n1. 下载 deb 安装包，安装。\n3. 系统设置 -> 快捷键设置 -> 添加新快捷键，命令填写 /usr/bin/MPaste，快捷键自定义即可\n \n之后使用快捷键即可唤出。\n* 唤出后，任意字符键进行搜索\n* 按下 Alt 键不放，显示快捷键提示，Alt + 数字键快速选择\n \n默认设置：\n1. 数据存储文件夹：~/.MPaste/Clipboard\n2. 最大历史记录数量：500\n \n------\n \n特点：\n1. 剪贴板记录，支持对 图片、图片文件、链接、文本、颜色 的预览（见下图）\n2. 搜索功能",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/cad34bf37b2b470ba9c59a560b8c1607.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/3653b6677aba447bb3c69d57fd2c6527.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/d1b3c04ab9b54f4aa03dd0b4220455df.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/eb8ae307e3bf4ecab2354f152448d71f.png"
+}
+,
+{
     "Name": "速享 局域网文件分享",
     "Version": "1.3.1-1",
     "Filename": "speed-share_1.3.1-1_amd64.deb",
@@ -2159,6 +2159,24 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/09/a99dfdfb-bb09-4c15-9239-85a09a955d35.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/09/3d6d9328-a381-4105-b046-5c96ae64218a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/09/03545a03-e7b1-4650-b708-c5ff785d61c4.png"
 }
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-dwine-helper_5.6.4.1-5.3.14_all.deb",
+    "More": "添加：应用启动提示",
+    "Name": "星火Wine应用启动器",
+    "Pkgname": "spark-dwine-helper",
+    "Size": "277 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "spark-dwine-helper_5.6.4.1-5.3.14_all.deb.torrent",
+    "Update": "2024-05-28 22:00:24",
+    "Version": "5.6.4.1-5.3.14",
+    "Website": "https://gitee.com/deepin-community-store/spark-wine",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/screen_1.png\"]"
+}
+
 ,
 {
     "Name": "樱花助手",
@@ -2193,24 +2211,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/e828342106d141c680d83719ae3dbd10.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/311910124597446c937137739281d56e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/824d983d2a05442caf51b69003fc8b09.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/02/52567d28e07f4f9082af9602fd036725.png"
 }
-,
-{
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "spark-dwine-helper_5.6.4.1-5.3.14_all.deb",
-    "More": "添加：应用启动提示",
-    "Name": "星火Wine应用启动器",
-    "Pkgname": "spark-dwine-helper",
-    "Size": "277 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "spark-dwine-helper_5.6.4.1-5.3.14_all.deb.torrent",
-    "Update": "2024-05-28 22:00:24",
-    "Version": "5.6.4.1-5.3.14",
-    "Website": "https://gitee.com/deepin-community-store/spark-wine",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/screen_1.png\"]"
-}
-
 ,
 {
     "Name": "pacapt--Arch用户的福音",
@@ -2314,6 +2314,23 @@
 
 ,
 {
+    "Name": "奔图打印机驱动",
+    "Version": "7.4.176-1+uos",
+    "Filename": "com.pantum.pantum_7.4.176-1_plus_uos_amd64.deb",
+    "Torrent_address": "com.pantum.pantum_7.4.176-1_plus_uos_amd64.deb.torrent",
+    "Pkgname": "com.pantum.pantum",
+    "Author": "Zhuhai Pantum Electronics Co., Ltd <support@pantum.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.pantum.cn/",
+    "Update": "2024-03-24 13:45:14",
+    "Size": "67.42 MB",
+    "More": "奔图打印机驱动适用于奔图P2505、P3305DN、P5000DN、P5515DN、M7105DN、CM7115DN、CM7000FDN(智享版）、CP2500DN、CP2505DN、CP2510DN、CP2515DN、CP2250DN、CM2270ADN、M9005DN、CM8505DN、CM9505DN、DS-230、P2585、P3385DN、BP5155DN、P2516、P3365DN、BP5150DN、CP5050DN、CP5055DN、CP1155DN、CP1150DN、CP5165DN、CP5155DN、M7185DN、BM5155ADN、M7165DN、BM5150ADN、CM5050DN、CM1155ADN、CM5055DN、CM1150ADN、BM265ADN、BM315ADN、BM415ADN、M9105DN、M9705DN、CM265ADN、CM315ADN、CM415ADN、CM9105DN、CM9705DN",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/e43dbd0abad64a4faa26574856dcda6c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/2c9e507c3cda48b6ab111952abc7ec68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/7943153a735e4bf3b3e9997737b491b5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/24/470b6c14ac7443f2bb88d91b513ff728.png"
+}
+,
+{
     "Name": "GitHub 访问加速包",
     "Version": "0.0.1-20240206",
     "Filename": "github-fast-access_0.0.1-20240206_all.deb",
@@ -2331,20 +2348,20 @@
 }
 ,
 {
-    "Name": "奔图打印机驱动",
-    "Version": "7.4.176-1+uos",
-    "Filename": "com.pantum.pantum_7.4.176-1_plus_uos_amd64.deb",
-    "Torrent_address": "com.pantum.pantum_7.4.176-1_plus_uos_amd64.deb.torrent",
-    "Pkgname": "com.pantum.pantum",
-    "Author": "Zhuhai Pantum Electronics Co., Ltd <support@pantum.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.pantum.cn/",
-    "Update": "2024-03-24 13:45:14",
-    "Size": "67.42 MB",
-    "More": "奔图打印机驱动适用于奔图P2505、P3305DN、P5000DN、P5515DN、M7105DN、CM7115DN、CM7000FDN(智享版）、CP2500DN、CP2505DN、CP2510DN、CP2515DN、CP2250DN、CM2270ADN、M9005DN、CM8505DN、CM9505DN、DS-230、P2585、P3385DN、BP5155DN、P2516、P3365DN、BP5150DN、CP5050DN、CP5055DN、CP1155DN、CP1150DN、CP5165DN、CP5155DN、M7185DN、BM5155ADN、M7165DN、BM5150ADN、CM5050DN、CM1155ADN、CM5055DN、CM1150ADN、BM265ADN、BM315ADN、BM415ADN、M9105DN、M9705DN、CM265ADN、CM315ADN、CM415ADN、CM9105DN、CM9705DN",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/e43dbd0abad64a4faa26574856dcda6c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/2c9e507c3cda48b6ab111952abc7ec68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/7943153a735e4bf3b3e9997737b491b5.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/24/470b6c14ac7443f2bb88d91b513ff728.png"
+    "Name": "系统传感器显示工具",
+    "Version": "1.2-20240429",
+    "Filename": "simple-sensor-monitor_1.2-20240429_amd64.deb",
+    "Torrent_address": "simple-sensor-monitor_1.2-20240429_amd64.deb.torrent",
+    "Pkgname": "simple-sensor-monitor",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/qt.mini-sensor-icon",
+    "Update": "2024-04-29 10:10:13",
+    "Size": "584.35 KB",
+    "More": "在配置面板填写 sensors -u 提供的 adapter适配器与 sensor 即可显示数据。 \n\nv1.0: 可显示温度(°C) 电压(V) 电流(A) 功耗(W) 等类型\nv1.1: 可设置刷新间隔，完善线程化的工作流模式\nv1.2: 左侧支持风扇与电图标\n\n风扇在 1000 RPM 时最低，3000 RPM 以上时很暴躁，所以以这个区间为准",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/80baba1166574aeda4311851af8db563.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a8b3f2a04b1f4ba78ed78e174beea988.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a55a9b6db67f4dd0a2989787d3225506.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/caad566997094294bf3e840cc29eb129.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/3f3c5ec56f2d43698b1019ab4b59f26c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/29/4ac0b574bd524ef0bc1865df9346fd05.png"
 }
 ,
 {
@@ -2382,23 +2399,6 @@
 }
 ,
 {
-    "Name": "系统传感器显示工具",
-    "Version": "1.2-20240429",
-    "Filename": "simple-sensor-monitor_1.2-20240429_amd64.deb",
-    "Torrent_address": "simple-sensor-monitor_1.2-20240429_amd64.deb.torrent",
-    "Pkgname": "simple-sensor-monitor",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/qt.mini-sensor-icon",
-    "Update": "2024-04-29 10:10:13",
-    "Size": "584.35 KB",
-    "More": "在配置面板填写 sensors -u 提供的 adapter适配器与 sensor 即可显示数据。 \n\nv1.0: 可显示温度(°C) 电压(V) 电流(A) 功耗(W) 等类型\nv1.1: 可设置刷新间隔，完善线程化的工作流模式\nv1.2: 左侧支持风扇与电图标\n\n风扇在 1000 RPM 时最低，3000 RPM 以上时很暴躁，所以以这个区间为准",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/80baba1166574aeda4311851af8db563.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a8b3f2a04b1f4ba78ed78e174beea988.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a55a9b6db67f4dd0a2989787d3225506.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/caad566997094294bf3e840cc29eb129.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/3f3c5ec56f2d43698b1019ab4b59f26c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/29/4ac0b574bd524ef0bc1865df9346fd05.png"
-}
-,
-{
     "Name": "Komorebi",
     "Version": "2.2.0-1",
     "Filename": "komorebi_2.2.1-1_amd64.deb",
@@ -2412,23 +2412,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/2356ceb0-166d-11eb-a815-b9186224f79a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/25/67e77340-166d-11eb-a815-b9186224f79a.png"
-}
-,
-{
-    "Name": "GeoGebra Classic 5 经典",
-    "Version": "5.0.668.0-3930",
-    "Filename": "geogebra5_5.0.668.0-3930_amd64.deb",
-    "Torrent_address": "geogebra5_5.0.668.0-3930_amd64.deb.torrent",
-    "Pkgname": "geogebra5",
-    "Author": "International GeoGebra Institute <office@geogebra.org>",
-    "Contributor": "老於",
-    "Website": "http://www.geogebra.org/",
-    "Update": "2023-01-20 12:04:41",
-    "Size": "59.66 MB",
-    "More": "绘制数学图形的工具，目前商店已有的6版软件和5版的功能不同，很多场景还需要5版。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/df48bc9f05f14507ba4b159078ce5148.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/65c5cd60591246f38bb41bb90993efc7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/10f205b81e2d4e799a2caced95ca2b1c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/20/d1bf58e0fe5349fa8d51022408f3302a.png"
 }
 ,
 {
@@ -2446,6 +2429,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/0242916c1eca488e98137daf10193c4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/74a9c8eefd83424490112c7fd3e4c1f1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/20/cc2dabfeb636416fa76e62ba58a53540.png"
+}
+,
+{
+    "Name": "GeoGebra Classic 5 经典",
+    "Version": "5.0.668.0-3930",
+    "Filename": "geogebra5_5.0.668.0-3930_amd64.deb",
+    "Torrent_address": "geogebra5_5.0.668.0-3930_amd64.deb.torrent",
+    "Pkgname": "geogebra5",
+    "Author": "International GeoGebra Institute <office@geogebra.org>",
+    "Contributor": "老於",
+    "Website": "http://www.geogebra.org/",
+    "Update": "2023-01-20 12:04:41",
+    "Size": "59.66 MB",
+    "More": "绘制数学图形的工具，目前商店已有的6版软件和5版的功能不同，很多场景还需要5版。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/df48bc9f05f14507ba4b159078ce5148.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/65c5cd60591246f38bb41bb90993efc7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/10f205b81e2d4e799a2caced95ca2b1c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/20/d1bf58e0fe5349fa8d51022408f3302a.png"
 }
 ,
 {
@@ -2600,23 +2600,6 @@
 }
 ,
 {
-    "Name": "infomation-tips",
-    "Version": "0.2.3-20240529",
-    "Filename": "infomation-tips_0.2.3-20240529_amd64.deb",
-    "Torrent_address": "infomation-tips_0.2.3-20240529_amd64.deb.torrent",
-    "Pkgname": "infomation-tips",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/infomation-tips",
-    "Update": "2024-05-29 11:15:45",
-    "Size": "40.84 KB",
-    "More": "在屏幕上显示系统状态信息，自动跟随显示在鼠标所处屏幕(多屏支持)\n\nv0.1.4: deepin 系统中切换工作区后依然可以显示屏幕提示器(3秒)\nv0.2.0: 添加任务栏图标与工作区显示状态的控制操作，使用 notify 组件显示切换提示\nv0.2.1: 鼠标位置判断如果悬浮在面板位置时移到屏幕下方\nv0.2.3: 改进多屏与鼠标的位置计算 - 添加 Uos 支持 - Qt 5.11.3 构建",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/29/94561cbf4ab54bd8ac96a52928dd4704.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/29/0e3a29ccb4204be0aa2cfc46169a56b0.png"
-}
-,
-{
     "Name": "PeaZip",
     "Version": "9.8.0",
     "Filename": "peazip_9.8.0_amd64.deb",
@@ -2631,6 +2614,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/13/037ee370fbff44c68c5dfac8c52aef9d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/13/9a8e3ce1c6df482facd559b6a8a671c9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/13/7f997f2d995e454c806191248f559ac1.png"
+}
+,
+{
+    "Name": "infomation-tips",
+    "Version": "0.2.3-20240529",
+    "Filename": "infomation-tips_0.2.3-20240529_amd64.deb",
+    "Torrent_address": "infomation-tips_0.2.3-20240529_amd64.deb.torrent",
+    "Pkgname": "infomation-tips",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/infomation-tips",
+    "Update": "2024-05-29 11:15:45",
+    "Size": "40.84 KB",
+    "More": "在屏幕上显示系统状态信息，自动跟随显示在鼠标所处屏幕(多屏支持)\n\nv0.1.4: deepin 系统中切换工作区后依然可以显示屏幕提示器(3秒)\nv0.2.0: 添加任务栏图标与工作区显示状态的控制操作，使用 notify 组件显示切换提示\nv0.2.1: 鼠标位置判断如果悬浮在面板位置时移到屏幕下方\nv0.2.3: 改进多屏与鼠标的位置计算 - 添加 Uos 支持 - Qt 5.11.3 构建",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/29/94561cbf4ab54bd8ac96a52928dd4704.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/29/0e3a29ccb4204be0aa2cfc46169a56b0.png"
 }
 ,
 {
@@ -2715,6 +2715,20 @@
 }
 ,
 {
+   "Name":"海天鹰屏幕画笔",
+   "Version":"1.2",
+   "Filename":"htyscreenpen.deb",
+   "Pkgname":"htyscreenpen",
+   "Author":"sonichy",
+   "Contributor":"shenmo",
+   "Website":" https://github.com/sonichy/HTYScreenPen",
+   "Update":"2020-07-06 21:21",
+   "Size":"347.95KB",
+   "More":"海天翼屏幕画笔，在屏幕上画图，配合腾讯会议上网课，岂不美哉～"
+}
+
+,
+{
     "Name": "中州韵98五笔套件",
     "Version": "1.0.5",
     "Filename": "rime98wb_1.0.5_amd64.deb",
@@ -2747,20 +2761,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/13/0e7a13d0-1af3-11ed-be90-b3ed8091373f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/13/f76088a0-1af2-11ed-be90-b3ed8091373f.png"
 }
-,
-{
-   "Name":"海天鹰屏幕画笔",
-   "Version":"1.2",
-   "Filename":"htyscreenpen.deb",
-   "Pkgname":"htyscreenpen",
-   "Author":"sonichy",
-   "Contributor":"shenmo",
-   "Website":" https://github.com/sonichy/HTYScreenPen",
-   "Update":"2020-07-06 21:21",
-   "Size":"347.95KB",
-   "More":"海天翼屏幕画笔，在屏幕上画图，配合腾讯会议上网课，岂不美哉～"
-}
-
 ,
 {
     "Name": "黑阈激活器",
@@ -2915,6 +2915,23 @@
 }
 ,
 {
+    "Name": "DropPoint",
+    "Version": "1.2.0~spark",
+    "Filename": "app.netlify.droppoint.spark_1.2.0~spark_amd64.deb",
+    "Torrent_address": "app.netlify.droppoint.spark_1.2.0~spark_amd64.deb.torrent",
+    "Pkgname": "app.netlify.droppoint.spark",
+    "Author": "spark-store",
+    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
+    "Website": "https://droppoint.netlify.app/",
+    "Update": "2022-10-15 10:45:13",
+    "Size": "75.35 MB",
+    "More": "DropPoint 是一款用来提高复制粘贴文件效率的跨平台工具，支持 Windows、macOS、Linux，它会给你一个临时中转悬浮框，只需要将一处或多处想要复制的文件拖拽到这个悬浮框，再一次性拖拽至目的地文件夹，就能高效完成复制粘贴。",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/bfa46a61-610d-4e9d-b0b6-0ef0aaabf5fc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/2d8533c7-5af6-464d-a00c-186290900a8a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/15/41e83698-b321-44a0-ba07-e26efa706966.png"
+}
+,
+{
     "Name": "超级标签栏",
     "Version": "0.1.0",
     "Filename": "top.yzzi.supertabbar_0.1.0_amd64.deb",
@@ -2979,23 +2996,6 @@
     "Tags": "community;ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/26522e341b95469988119147e14d057c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/c2fbb5c4b55b4b739acef706d1b2dff3.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/08/3cb1607e5d7c424ea3c7fbbc1407de64.png"
-}
-,
-{
-    "Name": "DropPoint",
-    "Version": "1.2.0~spark",
-    "Filename": "app.netlify.droppoint.spark_1.2.0~spark_amd64.deb",
-    "Torrent_address": "app.netlify.droppoint.spark_1.2.0~spark_amd64.deb.torrent",
-    "Pkgname": "app.netlify.droppoint.spark",
-    "Author": "spark-store",
-    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
-    "Website": "https://droppoint.netlify.app/",
-    "Update": "2022-10-15 10:45:13",
-    "Size": "75.35 MB",
-    "More": "DropPoint 是一款用来提高复制粘贴文件效率的跨平台工具，支持 Windows、macOS、Linux，它会给你一个临时中转悬浮框，只需要将一处或多处想要复制的文件拖拽到这个悬浮框，再一次性拖拽至目的地文件夹，就能高效完成复制粘贴。",
-    "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/bfa46a61-610d-4e9d-b0b6-0ef0aaabf5fc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/2d8533c7-5af6-464d-a00c-186290900a8a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/15/41e83698-b321-44a0-ba07-e26efa706966.png"
 }
 ,
 {
@@ -3202,6 +3202,23 @@
 }
 ,
 {
+    "Name": "CPU-Z（Wine）",
+    "Version": "2.09spark0",
+    "Filename": "com.cpuz.spark_2.09spark0_all.deb",
+    "Torrent_address": "com.cpuz.spark_2.09spark0_all.deb.torrent",
+    "Pkgname": "com.cpuz.spark",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.cpuid.com/",
+    "Update": "2024-04-26 22:50:38",
+    "Size": "6.22 MB",
+    "More": "免费的 CPU 信息检测软件。这些信息包括：CPU 名称、厂商、性能、当前电压、L1 L2 cache情况；内核进程；内部和外部时钟等，支持全系列的Intel以及AMD品牌的CPU。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
+}
+,
+{
     "Name": "CPU 排名搜索工具",
     "Version": "0.1-20231206",
     "Filename": "cpu-rank-search_0.1-20231206_amd64.deb",
@@ -3233,23 +3250,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/09/ce383090-d69a-11ed-8a97-15d378a127b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/09/ce5380c0-d69a-11ed-8a97-15d378a127b8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/09/c066e5b0-d69a-11ed-8a97-15d378a127b8.png"
-}
-,
-{
-    "Name": "CPU-Z（Wine）",
-    "Version": "2.09spark0",
-    "Filename": "com.cpuz.spark_2.09spark0_all.deb",
-    "Torrent_address": "com.cpuz.spark_2.09spark0_all.deb.torrent",
-    "Pkgname": "com.cpuz.spark",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.cpuid.com/",
-    "Update": "2024-04-26 22:50:38",
-    "Size": "6.22 MB",
-    "More": "免费的 CPU 信息检测软件。这些信息包括：CPU 名称、厂商、性能、当前电压、L1 L2 cache情况；内核进程；内部和外部时钟等，支持全系列的Intel以及AMD品牌的CPU。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
 }
 ,
 {
@@ -3287,22 +3287,6 @@
 }
 ,
 {
-    "Name": "无线鼠标",
-    "Version": "1.1.0",
-    "Filename": "mousemove_1.1.0_amd64.deb",
-    "Pkgname": "mousemove",
-    "Author": "zhangyongwei10",
-    "Contributor": "zhangyongwei10",
-    "Website": "https://gitee.com/zhangyongwei11/mousemove/releases/1.0.0",
-    "Update": "2021-07-08 22:14:56",
-    "Size": "60.06 MB",
-    "More": "通过蓝牙或者无线网络，连接手机和电脑，使得手机可以控制电脑鼠标。\n手机体验版app获取方式，点击官网下载apk文件或者在软件打开的主窗口中扫描二维码下载；\n手机正式版app获取方式，手机华为应用商店搜索无线鼠标；\n使用蓝牙方式连接手机和电脑时，需要做以下准备：首先要安装libbluetooth-dev，必须安装(依赖关系)；其次需要设置蓝牙服务运行状态为兼容模式，到/etc/systemd/system/bluetooth.target.wants/目录下，以管理员权限打开bluetooth.service文件，在ExecStart=***这一行最后面添加 -C参数（记得添加空格），-C即-compat兼容性参数，然后重启电脑或者重新载入systemctl配置（sudo systemctl daemon-reload）并重启蓝牙服务（sudo systemctl restart bluetooth)。\n软件包安装后生成两个图标。带有root字样的图标点击后需要输入管理员密码，可以使用蓝牙连接方式；另一个图标点击进入后可以使用wifi连接方式。",
-    "Tags": "uos;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/699f79a0-dff6-11eb-8d27-75bc4085fde2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/9201c330-dff6-11eb-8d27-75bc4085fde2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/971d49c0-dff6-11eb-8d27-75bc4085fde2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/a1057390-dff6-11eb-8d27-75bc4085fde2.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/08/99cd4400-dff5-11eb-8d27-75bc4085fde2.svg"
-}
-,
-{
     "Name": "magnetw",
     "Version": "3.1.1-linux",
     "Filename": "magnetw-3.1.1-linux_3.1.1-linux_all.deb",
@@ -3317,6 +3301,22 @@
     "Tags": "community;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png"
+}
+,
+{
+    "Name": "无线鼠标",
+    "Version": "1.1.0",
+    "Filename": "mousemove_1.1.0_amd64.deb",
+    "Pkgname": "mousemove",
+    "Author": "zhangyongwei10",
+    "Contributor": "zhangyongwei10",
+    "Website": "https://gitee.com/zhangyongwei11/mousemove/releases/1.0.0",
+    "Update": "2021-07-08 22:14:56",
+    "Size": "60.06 MB",
+    "More": "通过蓝牙或者无线网络，连接手机和电脑，使得手机可以控制电脑鼠标。\n手机体验版app获取方式，点击官网下载apk文件或者在软件打开的主窗口中扫描二维码下载；\n手机正式版app获取方式，手机华为应用商店搜索无线鼠标；\n使用蓝牙方式连接手机和电脑时，需要做以下准备：首先要安装libbluetooth-dev，必须安装(依赖关系)；其次需要设置蓝牙服务运行状态为兼容模式，到/etc/systemd/system/bluetooth.target.wants/目录下，以管理员权限打开bluetooth.service文件，在ExecStart=***这一行最后面添加 -C参数（记得添加空格），-C即-compat兼容性参数，然后重启电脑或者重新载入systemctl配置（sudo systemctl daemon-reload）并重启蓝牙服务（sudo systemctl restart bluetooth)。\n软件包安装后生成两个图标。带有root字样的图标点击后需要输入管理员密码，可以使用蓝牙连接方式；另一个图标点击进入后可以使用wifi连接方式。",
+    "Tags": "uos;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/699f79a0-dff6-11eb-8d27-75bc4085fde2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/9201c330-dff6-11eb-8d27-75bc4085fde2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/971d49c0-dff6-11eb-8d27-75bc4085fde2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/a1057390-dff6-11eb-8d27-75bc4085fde2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/08/99cd4400-dff5-11eb-8d27-75bc4085fde2.svg"
 }
 ,
 {

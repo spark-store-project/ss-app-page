@@ -253,23 +253,6 @@
 }
 ,
 {
-    "Name": "看图纸（wine）",
-    "Version": "8.3.1spark1",
-    "Filename": "com.kantuzhi.cadsee.spark_8.3.1spark1_i386.deb",
-    "Torrent_address": "com.kantuzhi.cadsee.spark_8.3.1spark1_i386.deb.torrent",
-    "Pkgname": "com.kantuzhi.cadsee.spark",
-    "Author": "凯德西普(北京)软件有限公司",
-    "Contributor": "sgb76",
-    "Website": "http://www.kantuzhi.com/CADSee/chs/default.asp",
-    "Update": "2023-01-11 17:51:58",
-    "Size": "33.39 MB",
-    "More": "一款专业级CAD图纸查看、打印、编辑、转换的集成工具软件，格式支持AutoCAD R14-2021的DWG/DWF/DXF和MicroStation DGN文件",
-    "Tags": "ubuntu;deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/11/4245a4012d6a433682b8e0c8b6c229a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/11/bd1f487e47ef41e6963414d804087d61.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/11/63777af73d2540a89b8347d56376ffe3.png"
-}
-,
-{
     "Name": "Sunny 截图",
     "Version": "1.6.3",
     "Filename": "sunny_1.6.3_amd64.deb",
@@ -284,6 +267,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/0697ed3b0cd74a318bb029cc5fcb7dba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/7ecd11270e8b49258bb535cd80ad7f2e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/f577e1db22844066926730b835008c15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/baf4c1ea15bc413f996f67b4d1b8a478.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/1099a098771243968ad411e1455cada1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/dc8a20e95f85431cb03b556b87eff892.png"
+}
+,
+{
+    "Name": "看图纸（wine）",
+    "Version": "8.3.1spark1",
+    "Filename": "com.kantuzhi.cadsee.spark_8.3.1spark1_i386.deb",
+    "Torrent_address": "com.kantuzhi.cadsee.spark_8.3.1spark1_i386.deb.torrent",
+    "Pkgname": "com.kantuzhi.cadsee.spark",
+    "Author": "凯德西普(北京)软件有限公司",
+    "Contributor": "sgb76",
+    "Website": "http://www.kantuzhi.com/CADSee/chs/default.asp",
+    "Update": "2023-01-11 17:51:58",
+    "Size": "33.39 MB",
+    "More": "一款专业级CAD图纸查看、打印、编辑、转换的集成工具软件，格式支持AutoCAD R14-2021的DWG/DWF/DXF和MicroStation DGN文件",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/11/4245a4012d6a433682b8e0c8b6c229a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/11/bd1f487e47ef41e6963414d804087d61.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/11/63777af73d2540a89b8347d56376ffe3.png"
 }
 ,
 {
@@ -850,23 +850,6 @@
 }
 ,
 {
-    "Name": "洋芋田图像工具箱",
-    "Version": "3.5.1spark3",
-    "Filename": "cn.imagetoolkit.potatofield.spark_3.5.1spark3_amd64.deb",
-    "Torrent_address": "cn.imagetoolkit.potatofield.spark_3.5.1spark3_amd64.deb.torrent",
-    "Pkgname": "cn.imagetoolkit.potatofield.spark",
-    "Author": "张志毅",
-    "Contributor": "sgb76",
-    "Website": "https://imagetoolkit.potatofield.cn/",
-    "Update": "2022-08-05 20:22:22",
-    "Size": "92.29 MB",
-    "More": "一款实用的图像处理工具箱",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/05/18074bb0-14b9-11ed-b3d0-b1d9cc578292.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/05/1a597910-14b9-11ed-b3d0-b1d9cc578292.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/05/13e7b150-14b9-11ed-b3d0-b1d9cc578292.png"
-}
-,
-{
     "Name": "浩辰CAD For Linux",
     "Version": "24.1",
     "Filename": "com.gstarcad.cad_24.1_amd64.deb",
@@ -881,6 +864,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/061c7a6fa1d84c2ab02a55cdfd24a567.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/fa6372503fcb4fa9a352175b4ea39cef.png"
+}
+,
+{
+    "Name": "洋芋田图像工具箱",
+    "Version": "3.5.1spark3",
+    "Filename": "cn.imagetoolkit.potatofield.spark_3.5.1spark3_amd64.deb",
+    "Torrent_address": "cn.imagetoolkit.potatofield.spark_3.5.1spark3_amd64.deb.torrent",
+    "Pkgname": "cn.imagetoolkit.potatofield.spark",
+    "Author": "张志毅",
+    "Contributor": "sgb76",
+    "Website": "https://imagetoolkit.potatofield.cn/",
+    "Update": "2022-08-05 20:22:22",
+    "Size": "92.29 MB",
+    "More": "一款实用的图像处理工具箱",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/05/18074bb0-14b9-11ed-b3d0-b1d9cc578292.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/05/1a597910-14b9-11ed-b3d0-b1d9cc578292.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/05/13e7b150-14b9-11ed-b3d0-b1d9cc578292.png"
 }
 ,
 {
@@ -950,6 +950,23 @@
 }
 ,
 {
+    "Name": "云图三维 For Linux",
+    "Version": "0.0.2.1",
+    "Filename": "com.yuntucad.cloudcad_0.0.2.1_amd64.deb",
+    "Torrent_address": "com.yuntucad.cloudcad_0.0.2.1_amd64.deb.torrent",
+    "Pkgname": "com.yuntucad.cloudcad",
+    "Author": "yuntucad <yuntucad@163.com>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "<https://www.yuntucad.com>",
+    "Update": "2022-11-25 22:43:49",
+    "Size": "59.15 MB",
+    "More": "云图三维 For Linux\n\n云图三维是新一代自主可控的3D云原生工业设计平台，为制造业提供云端设计、协同于一体的行业解决方案。集成企业协作平台为团队提供操作更流畅、沟通更高效的创新工作模式，打造设计、装配、渲染、出图为一体的全新 All-in-one 体验。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/25/421258f2-1c20-4969-8aa5-7145b04055ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/25/c64064c1-8d70-4fc6-8b03-d10a56288006.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/25/beef8354-5294-4f3d-be13-66b5f1589ef7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/25/ec2595c8-4dcc-46fb-aec4-e44beb2b2bc1.png"
+}
+,
+{
     "Name": "简单图像处理工具",
     "Version": "1.0.9",
     "Filename": "simple-image-filter_1.0.9_amd64.deb",
@@ -994,23 +1011,6 @@
     "Tags": "community;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/08/04afd740-5f18-11ed-89e1-5799b8905b05.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/08/fe4cdc90-5f17-11ed-89e1-5799b8905b05.png"
-}
-,
-{
-    "Name": "云图三维 For Linux",
-    "Version": "0.0.2.1",
-    "Filename": "com.yuntucad.cloudcad_0.0.2.1_amd64.deb",
-    "Torrent_address": "com.yuntucad.cloudcad_0.0.2.1_amd64.deb.torrent",
-    "Pkgname": "com.yuntucad.cloudcad",
-    "Author": "yuntucad <yuntucad@163.com>",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "<https://www.yuntucad.com>",
-    "Update": "2022-11-25 22:43:49",
-    "Size": "59.15 MB",
-    "More": "云图三维 For Linux\n\n云图三维是新一代自主可控的3D云原生工业设计平台，为制造业提供云端设计、协同于一体的行业解决方案。集成企业协作平台为团队提供操作更流畅、沟通更高效的创新工作模式，打造设计、装配、渲染、出图为一体的全新 All-in-one 体验。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/25/421258f2-1c20-4969-8aa5-7145b04055ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/25/c64064c1-8d70-4fc6-8b03-d10a56288006.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/25/beef8354-5294-4f3d-be13-66b5f1589ef7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/25/ec2595c8-4dcc-46fb-aec4-e44beb2b2bc1.png"
 }
 ,
 {
@@ -1178,23 +1178,6 @@
 }
 ,
 {
-    "Name": "美图秀秀7.0",
-    "Version": "7.0",
-    "Filename": "com.mtxx.wine_7.0_all.deb",
-    "Torrent_address": "com.mtxx.wine_7.0_all.deb.torrent",
-    "Pkgname": "com.mtxx.wine",
-    "Author": "LFRon",
-    "Contributor": "LFRon",
-    "Website": "https://pc.meitu.com/",
-    "Update": "2024-02-15 21:34:33",
-    "Size": "284.7 MB",
-    "More": "Deepin-wine8运行的美图秀秀7.0-AI版本(64位)\n\n目前除了批处理会一直加载无法进入以外,没有其它问题,若发现其它问题欢迎反馈~",
-    "Tags": "ubuntu;deepin;uos;dwine2;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/666a8eddba6e4fdd84772e3fd1146aed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/f7329e7568ff46a3b6dcdba54920bba8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/e8957517f0704012b3a5479b805a217d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/c85b0409a52b461fa0fd777d171d6293.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/15/aa929c369b724442b9969f8bb7fa63fb.png"
-}
-,
-{
     "Name": "Inpaint",
     "Version": "9.2spark1",
     "Filename": "com.inpaint.spark_9.2spark1_amd64.deb",
@@ -1209,6 +1192,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/19/7f1b126d1d8347aa921bbdf95edcd9c3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/19/8bf4fa08ef4e4f7cbb8234ede1da9a7b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/19/eb1824c2f8b340fc86934b2be1bd3445.png"
+}
+,
+{
+    "Name": "美图秀秀7.0",
+    "Version": "7.0",
+    "Filename": "com.mtxx.wine_7.0_all.deb",
+    "Torrent_address": "com.mtxx.wine_7.0_all.deb.torrent",
+    "Pkgname": "com.mtxx.wine",
+    "Author": "LFRon",
+    "Contributor": "LFRon",
+    "Website": "https://pc.meitu.com/",
+    "Update": "2024-02-15 21:34:33",
+    "Size": "284.7 MB",
+    "More": "Deepin-wine8运行的美图秀秀7.0-AI版本(64位)\n\n目前除了批处理会一直加载无法进入以外,没有其它问题,若发现其它问题欢迎反馈~",
+    "Tags": "ubuntu;deepin;uos;dwine2;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/666a8eddba6e4fdd84772e3fd1146aed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/f7329e7568ff46a3b6dcdba54920bba8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/e8957517f0704012b3a5479b805a217d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/c85b0409a52b461fa0fd777d171d6293.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/15/aa929c369b724442b9969f8bb7fa63fb.png"
 }
 ,
 {

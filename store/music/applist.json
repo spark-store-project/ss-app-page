@@ -70,19 +70,19 @@
 ,
 {
     "Name": "listen1",
-    "Version": "2.31.0",
-    "Filename": "listen1_2.31.0_amd64.deb",
-    "Torrent_address": "listen1_2.31.0_amd64.deb.torrent",
+    "Version": "2.32.0",
+    "Filename": "listen1_2.32.0_amd64.deb",
+    "Torrent_address": "listen1_2.32.0_amd64.deb.torrent",
     "Pkgname": "listen1",
-    "Author": "Listen 1 <githublisten1@gmail.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Author": "Listen 1",
+    "Contributor": "sgb76",
     "Website": "https://github.com/listen1/listen1_desktop#readme",
-    "Update": "2023-10-21 14:49:42",
-    "Size": "54.46 MB",
+    "Update": "2024-06-02 23:11:34",
+    "Size": "54.45 MB",
     "More": "Listen1可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单。",
     "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/21/3f6bd5fe5fa84bb5b3fb71fc5d44ea0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/21/98bf022d581c4967b332435060861198.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/21/8b1dccfb6d6d4d859fd6a30228b1c42d.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/316d31bfc71b4d048cc9d301f212dc6a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/262ea6ddb59446879993f39d84e2936e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/fbec18d2f0c94a8f980900b7728a5923.png"
 }
 ,
 {
@@ -374,23 +374,6 @@
 }
 ,
 {
-    "Name": "Cider",
-    "Version": "1.6.2-20230701.1",
-    "Filename": "cider_1.6.2-20230701.1_amd64.deb",
-    "Torrent_address": "cider_1.6.2-20230701.1_amd64.deb.torrent",
-    "Pkgname": "cider",
-    "Author": "Cider Collective <cryptofyre@cider.sh>",
-    "Contributor": "Cider Collective <cryptofyre@cider.sh>",
-    "Website": "https://cider.sh/",
-    "Update": "2024-01-15 17:54:48",
-    "Size": "91.35 MB",
-    "More": "一款开源的Apple Music播放器，支持Windows/Linux/macOS\nA new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind.",
-    "Tags": "ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/15/bd8b09c2360345b7b9f99d7865cb9466.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/15/191eb602df5f4d4e877af33cfee3d969.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/15/36f47381cb1348b7a2ac20ebe43d856a.png"
-}
-,
-{
     "Name": "MusicFree",
     "Version": "0.0.3",
     "Filename": "musicfree_0.0.3_amd64.deb",
@@ -405,6 +388,23 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/29/ba6c2cadec0b4c5bae57b84cc544fc4c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/29/310348f39ffb4c2684492f9e0b36d84b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/29/5c520b4f879a44b3a2dc81f877a6bf59.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/29/3c768e2486af42e0b5691b444150d85a.png"
+}
+,
+{
+    "Name": "Cider",
+    "Version": "1.6.2-20230701.1",
+    "Filename": "cider_1.6.2-20230701.1_amd64.deb",
+    "Torrent_address": "cider_1.6.2-20230701.1_amd64.deb.torrent",
+    "Pkgname": "cider",
+    "Author": "Cider Collective <cryptofyre@cider.sh>",
+    "Contributor": "Cider Collective <cryptofyre@cider.sh>",
+    "Website": "https://cider.sh/",
+    "Update": "2024-01-15 17:54:48",
+    "Size": "91.35 MB",
+    "More": "一款开源的Apple Music播放器，支持Windows/Linux/macOS\nA new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind.",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/15/bd8b09c2360345b7b9f99d7865cb9466.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/15/191eb602df5f4d4e877af33cfee3d969.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/15/36f47381cb1348b7a2ac20ebe43d856a.png"
 }
 ,
 {
@@ -771,23 +771,6 @@
 }
 ,
 {
-    "Name": "TuxGuitar",
-    "Version": "1.5.6spark0",
-    "Filename": "ar.com.tuxguitar.spark_1.5.6spark0_amd64.deb",
-    "Torrent_address": "ar.com.tuxguitar.spark_1.5.6spark0_amd64.deb.torrent",
-    "Pkgname": "ar.com.tuxguitar.spark",
-    "Author": "TuxGuitar Team",
-    "Contributor": "sgb76",
-    "Website": "http://tuxguitar.com.ar/",
-    "Update": "2022-05-01 01:16:41",
-    "Size": "165.71 MB",
-    "More": "一款开源乐谱编辑器，TuxGuitar 提供了一个多轨指法编辑器和乐谱查看器，它附带了将音乐愿景变为现实所需的所有数字工具。\n\n中文界面设置：Tools-->Settings-->Language",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/01/dd2dccf0-c8a8-11ec-902d-03d517a405c6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/01/dfbeb100-c8a8-11ec-902d-03d517a405c6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/01/da28a340-c8a8-11ec-902d-03d517a405c6.png"
-}
-,
-{
     "Name": "Lyricify 4",
     "Version": "4.2.28.240502-release-wpack240503.01",
     "Filename": "com.wxriw.lyricify4_4.2.28.240502-release-wpack240503.01_amd64.deb",
@@ -802,6 +785,23 @@
     "Tags": "community;ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/95bc45d6bbb64c088a64f617fe9c1122.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/526ece2c06b14e5a8eeb0b0e53328aed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/21193eb5408b4165a7fc8dcbdbd5789e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/62aeff5a81804ab49fcd01f3af34edbf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/41aa2d3e5b5048108d3be6dbbcd86a6e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/03/cda9da7c46784982add7568172dcdab6.png"
+}
+,
+{
+    "Name": "TuxGuitar",
+    "Version": "1.5.6spark0",
+    "Filename": "ar.com.tuxguitar.spark_1.5.6spark0_amd64.deb",
+    "Torrent_address": "ar.com.tuxguitar.spark_1.5.6spark0_amd64.deb.torrent",
+    "Pkgname": "ar.com.tuxguitar.spark",
+    "Author": "TuxGuitar Team",
+    "Contributor": "sgb76",
+    "Website": "http://tuxguitar.com.ar/",
+    "Update": "2022-05-01 01:16:41",
+    "Size": "165.71 MB",
+    "More": "一款开源乐谱编辑器，TuxGuitar 提供了一个多轨指法编辑器和乐谱查看器，它附带了将音乐愿景变为现实所需的所有数字工具。\n\n中文界面设置：Tools-->Settings-->Language",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/01/dd2dccf0-c8a8-11ec-902d-03d517a405c6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/01/dfbeb100-c8a8-11ec-902d-03d517a405c6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/01/da28a340-c8a8-11ec-902d-03d517a405c6.png"
 }
 ,
 {

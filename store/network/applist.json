@@ -477,22 +477,6 @@
 }
 ,
 {
-    "Name": "天翼云盘(Linux版)",
-    "Version": "1.1.0-1_plus_a1",
-    "Filename": "com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb",
-    "Pkgname": "com.cloud.21cn",
-    "Author": "21CN Corporation Limited",
-    "Contributor": "fredoong",
-    "Website": "https://cloud.189.cn/",
-    "Update": "2021-07-06 06:06:28",
-    "Size": "55.56 MB",
-    "More": "A project of Tianyi Cloud Disk\n天翼云盘Linux版",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/06/26bc07e0-dddd-11eb-a494-017e838ccdaa.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/06/1c52a020-dddd-11eb-a494-017e838ccdaa.png"
-}
-,
-{
     "Name": "网易邮箱大师(wine)",
     "Version": "5.0.9.1015",
     "Filename": "com.163.dashi.mailmaster.spark_5.0.9.1015_all.deb",
@@ -507,6 +491,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/97ac45d306bf4abaac2e82ced9bc72fd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/1b087d1b85ab4f14a498081adbb45039.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/1943e27afb594baeab615d81baa22646.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/30/2b31c37cd9dc4698a908bedc38387810.png"
+}
+,
+{
+    "Name": "天翼云盘(Linux版)",
+    "Version": "1.1.0-1_plus_a1",
+    "Filename": "com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb",
+    "Pkgname": "com.cloud.21cn",
+    "Author": "21CN Corporation Limited",
+    "Contributor": "fredoong",
+    "Website": "https://cloud.189.cn/",
+    "Update": "2021-07-06 06:06:28",
+    "Size": "55.56 MB",
+    "More": "A project of Tianyi Cloud Disk\n天翼云盘Linux版",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/06/26bc07e0-dddd-11eb-a494-017e838ccdaa.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/06/1c52a020-dddd-11eb-a494-017e838ccdaa.png"
 }
 ,
 {
@@ -679,22 +679,6 @@
 }
 ,
 {
-    "Name": "即刻下载器",
-    "Version": "0.0.3",
-    "Filename": "downow_0.0.3_amd64.deb",
-    "Pkgname": "downow",
-    "Author": "Jaeger   jack  Leng",
-    "Contributor": "jidro",
-    "Website": "https://downow.app/",
-    "Update": "2021-10-12 11:23:51",
-    "Size": "58.34 MB",
-    "More": "即刻下载体验\nDownow\n全平台多线程下载器，让你拥有全新的下载体验\n只为下载 无广告！！！\n速度快\n界面简洁 易操作 易上手\n后台多线程支持下载\nChrome插件安装 自动捕获下载链接\n海量的插件功能即将上线...",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbac3ce0-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbbbcd40-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbd4fa90-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbee4ef0-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cc0ad7a0-2b0b-11ec-86bd-4581e5a372f7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/12/aa1091d0-2b0b-11ec-86bd-4581e5a372f7.png"
-}
-,
-{
     "Name": "迅雷精简版",
     "Version": "1.1",
     "Filename": "spark-thundermini_1.1_all.deb",
@@ -709,6 +693,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/b4d965728c404319984df05890c5ae95.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/504b052993e049e5960fe37f6c84b1f8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/ea9ffbf0ea744b0da5d46048902343cf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/fb422dd5d8bb443f886ddc8d64c444cf.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/503a439b1ade4ca98d1f5c4d28b95b78.png"
+}
+,
+{
+    "Name": "即刻下载器",
+    "Version": "0.0.3",
+    "Filename": "downow_0.0.3_amd64.deb",
+    "Pkgname": "downow",
+    "Author": "Jaeger   jack  Leng",
+    "Contributor": "jidro",
+    "Website": "https://downow.app/",
+    "Update": "2021-10-12 11:23:51",
+    "Size": "58.34 MB",
+    "More": "即刻下载体验\nDownow\n全平台多线程下载器，让你拥有全新的下载体验\n只为下载 无广告！！！\n速度快\n界面简洁 易操作 易上手\n后台多线程支持下载\nChrome插件安装 自动捕获下载链接\n海量的插件功能即将上线...",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbac3ce0-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbbbcd40-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbd4fa90-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbee4ef0-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cc0ad7a0-2b0b-11ec-86bd-4581e5a372f7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/12/aa1091d0-2b0b-11ec-86bd-4581e5a372f7.png"
 }
 ,
 {
@@ -831,23 +831,6 @@
 }
 ,
 {
-    "Name": "RPD远程桌面-寒尘汉化（UEngine）",
-    "Version": "8.1.75.406",
-    "Filename": "uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb",
-    "Torrent_address": "uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.microsoft.rdc.android",
-    "Author": "寒尘工作室",
-    "Contributor": "燕戏竹林",
-    "Website": "抱歉我们联系不到作者，也只能找到这一个版本",
-    "Update": "2023-01-09 14:56:01",
-    "Size": "15.22 MB",
-    "More": "这个是安卓版本的微软远程软件的国内汉化版，虽然部分地方汉化的不是很到位，但是至少不至于不能用",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/09/ab853e77d45d4d4cb63188153d6e78ff.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/09/6bec763bfcd747cdab03f57bb3df183e.png"
-}
-,
-{
     "Name": "QQ 浏览器",
     "Version": "1.70.3538.0",
     "Filename": "com.qq.browser_1.70.3538.0_amd64.deb",
@@ -862,6 +845,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/bb7fdb7d9d824fe7b1bc425572669f9b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/504e5b88d2ff47b2ad04116fa00013fd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/fd63466f3c8e4e28ab7c85221cf5fbb3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/89596a73686045239ca4c4102dcdfc58.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/28/81276e0b81a34970ab56a1db2a7cb12c.png"
+}
+,
+{
+    "Name": "RPD远程桌面-寒尘汉化（UEngine）",
+    "Version": "8.1.75.406",
+    "Filename": "uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb",
+    "Torrent_address": "uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.microsoft.rdc.android",
+    "Author": "寒尘工作室",
+    "Contributor": "燕戏竹林",
+    "Website": "抱歉我们联系不到作者，也只能找到这一个版本",
+    "Update": "2023-01-09 14:56:01",
+    "Size": "15.22 MB",
+    "More": "这个是安卓版本的微软远程软件的国内汉化版，虽然部分地方汉化的不是很到位，但是至少不至于不能用",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/09/ab853e77d45d4d4cb63188153d6e78ff.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/09/6bec763bfcd747cdab03f57bb3df183e.png"
 }
 ,
 {
@@ -983,22 +983,6 @@
 }
 ,
 {
-    "Name": "火狐浏览器开发版",
-    "Version": "82.0b9",
-    "Filename": "org.mozilla.firefox.developer_82.0b9_amd64.deb",
-    "Pkgname": "org.mozilla.firefox.developer",
-    "Author": "Mozilla",
-    "Contributor": "8Mi_Yile",
-    "Website": "https://www.mozilla.org/zh-CN/firefox/developer/",
-    "Update": "2020-10-09 23:13:03",
-    "Size": "56.39 MB",
-    "More": "欢迎您使用 Firefox 开发者版本。使用此版本可获得最新功能、高速性能，以及您打造开放 Web 所需的开发工具。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/cd4d2d00-0a84-11eb-9bb4-c1e398b34f2d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/d39c5190-0a84-11eb-9bb4-c1e398b34f2d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/d9b37630-0a84-11eb-9bb4-c1e398b34f2d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/de1aef00-0a84-11eb-9bb4-c1e398b34f2d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/e1359c80-0a84-11eb-9bb4-c1e398b34f2d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/09/3cc61f30-0a84-11eb-9bb4-c1e398b34f2d.png"
-}
-,
-{
     "Name": "哔哩下载姬",
     "Version": "1.5.9spark1",
     "Filename": "com.github.downkyi.spark_1.5.9spark1_i386.deb",
@@ -1013,6 +997,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/29/7caea2eb4e6842fd88df4f45e08d3045.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/29/7ed169f718fd4467b0a7c985f38332dd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/29/c34f939f8851466a8e021b310d2cad4c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/29/f0076523ce6942dda3550cfa5c68965f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/29/5a5d9e96c0604f3b85e511f44be2c4f8.png"
+}
+,
+{
+    "Name": "火狐浏览器开发版",
+    "Version": "82.0b9",
+    "Filename": "org.mozilla.firefox.developer_82.0b9_amd64.deb",
+    "Pkgname": "org.mozilla.firefox.developer",
+    "Author": "Mozilla",
+    "Contributor": "8Mi_Yile",
+    "Website": "https://www.mozilla.org/zh-CN/firefox/developer/",
+    "Update": "2020-10-09 23:13:03",
+    "Size": "56.39 MB",
+    "More": "欢迎您使用 Firefox 开发者版本。使用此版本可获得最新功能、高速性能，以及您打造开放 Web 所需的开发工具。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/cd4d2d00-0a84-11eb-9bb4-c1e398b34f2d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/d39c5190-0a84-11eb-9bb4-c1e398b34f2d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/d9b37630-0a84-11eb-9bb4-c1e398b34f2d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/de1aef00-0a84-11eb-9bb4-c1e398b34f2d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/e1359c80-0a84-11eb-9bb4-c1e398b34f2d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/09/3cc61f30-0a84-11eb-9bb4-c1e398b34f2d.png"
 }
 ,
 {
@@ -2444,6 +2444,23 @@
 }
 ,
 {
+    "Name": "哔哩下载姬（Linux版）",
+    "Version": "1.0.10-1",
+    "Filename": "downkyi_1.0.10-1_amd64.deb",
+    "Torrent_address": "downkyi_1.0.10-1_amd64.deb.torrent",
+    "Pkgname": "downkyi",
+    "Author": "yaobiao131",
+    "Contributor": "sgb",
+    "Website": "https://github.com/yaobiao131/downkyicore",
+    "Update": "2024-06-02 00:16:32",
+    "Size": "38.66 MB",
+    "More": "基于哔哩下载姬Windows版和AvaloniaUI制作的跨平台版本",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/d127b60f946c4b0a89109dcfb6139167.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/f11ffe9e58e245718abfd4470cadb65c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/49ee9d18432f4d3e92e38ba3a482d5cb.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/46d00e022bc8417eb510e5ca2734cbb6.png"
+}
+,
+{
     "Name": "PDF to DOCX 转换器",
     "Version": "1.1",
     "Filename": "com.pdftodocx.deepin_1.1_all.deb",
@@ -2492,23 +2509,6 @@
     "Tags": "community;ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/01/9b818445cf6045189ac351c0ed2ed0b4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/01/11c559350bc04d349b803457ddd27525.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/01/07badbb2280344a99ddcc1d16d03580b.png"
-}
-,
-{
-    "Name": "哔哩下载姬（Linux版）",
-    "Version": "1.0.10-1",
-    "Filename": "downkyi_1.0.10-1_amd64.deb",
-    "Torrent_address": "downkyi_1.0.10-1_amd64.deb.torrent",
-    "Pkgname": "downkyi",
-    "Author": "yaobiao131",
-    "Contributor": "sgb",
-    "Website": "https://github.com/yaobiao131/downkyicore",
-    "Update": "2024-06-02 00:16:32",
-    "Size": "38.66 MB",
-    "More": "基于哔哩下载姬Windows版和AvaloniaUI制作的跨平台版本",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/d127b60f946c4b0a89109dcfb6139167.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/f11ffe9e58e245718abfd4470cadb65c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/49ee9d18432f4d3e92e38ba3a482d5cb.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/46d00e022bc8417eb510e5ca2734cbb6.png"
 }
 ,
 {

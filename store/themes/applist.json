@@ -276,6 +276,20 @@
 
 ,
 {
+   "Name":"deepin 20风格fcitx皮肤",
+   "Version":"1:0.1-2",
+   "Filename":"fcitx-ui-deepin-v20_all.deb",
+   "Pkgname":"fcitx-ui-deepin-v20",
+   "Author":"maicss",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-06-25 08:42",
+   "Size":"134.36KB",
+   "More":"让sunpinyin从此不同"
+}
+
+,
+{
     "Name": "earth-wallpaper",
     "Version": "2.1.7",
     "Filename": "earth-wallpaper_2.1.7_amd64.deb",
@@ -291,20 +305,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917585670676958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917591394176958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917591566776958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917591881776958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917592379476958200.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917585510176958200.png"
 }
-,
-{
-   "Name":"deepin 20风格fcitx皮肤",
-   "Version":"1:0.1-2",
-   "Filename":"fcitx-ui-deepin-v20_all.deb",
-   "Pkgname":"fcitx-ui-deepin-v20",
-   "Author":"maicss",
-   "Contributor":"shenmo",
-   "Website":" ",
-   "Update":"2020-06-25 08:42",
-   "Size":"134.36KB",
-   "More":"让sunpinyin从此不同"
-}
-
 ,
 {
     "Name": "Candy图标主题",
@@ -697,6 +697,24 @@
 }
 ,
 {
+    "Author": "Tonny",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.uniontech.theme.infinitecontrol_1.0.4_all.deb",
+    "More": "获奖主题作品——‘无限’主题大赛获奖作品",
+    "Name": "T 主题套组",
+    "Pkgname": "com.uniontech.theme.infinitecontrol",
+    "Size": "3325 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "com.uniontech.theme.infinitecontrol_1.0.4_all.deb.torrent",
+    "Update": "2024-06-02 22:00:27",
+    "Version": "1.0.4",
+    "Website": "https://bbs.deepin.org.cn/zh/post/273057",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.infinitecontrol/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.infinitecontrol/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.infinitecontrol/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.infinitecontrol/screen_3.png\"]"
+}
+
+,
+{
     "Name": "JingOS壁纸",
     "Version": "1.0.0",
     "Filename": "jingos-wallpapers_1.0.0_all.deb",
@@ -729,24 +747,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/24/77a70d0bc61b42afb3d1676e70f4fefe.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/24/aa72a742428641808efbf0b5d01bfc45.png"
 }
-,
-{
-    "Author": "Tonny",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.uniontech.theme.infinitecontrol_1.0.4_all.deb",
-    "More": "获奖主题作品——‘无限’主题大赛获奖作品",
-    "Name": "T 主题套组",
-    "Pkgname": "com.uniontech.theme.infinitecontrol",
-    "Size": "3325 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "com.uniontech.theme.infinitecontrol_1.0.4_all.deb.torrent",
-    "Update": "2024-06-02 22:00:27",
-    "Version": "1.0.4",
-    "Website": "https://bbs.deepin.org.cn/zh/post/273057",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.infinitecontrol/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.infinitecontrol/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.infinitecontrol/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.infinitecontrol/screen_3.png\"]"
-}
-
 ,
 {
     "Name": "拟态时钟屏保程序",

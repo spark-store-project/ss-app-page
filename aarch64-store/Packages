@@ -7835,6 +7835,19 @@ SHA256: e6ba1b3bc897c66e0e4dfb1cc65165285d56071923a44196eb2791d8d13a8932
 SHA512: 9f505c47e9c3051da70c7946b19459268cca58154d06735f361006cf21788abff00e1e1bd3bd03566ce0b2a560233c6ce656d160e6d1f463a7fe6708dbe35d6d
 Description: 星耀U社, Build By UEngine Runner Packager
 
+Package: discord-web
+Architecture: arm64
+Version: 1.0
+Maintainer: shenmo
+Depends: spark-webapp-runtime-ace(>=1.5)
+Filename: chat/discord-web/discord-web_1.0_arm64.deb
+Size: 7880
+MD5sum: 40118503806f72c113244cc0c8104316
+SHA1: 06ec37c77309e78dd72b911876d480365bdc7edb
+SHA256: 8050c30cedc9ad437dd01cf7398c29695e249fac5ba7315765871847aa46aa95
+SHA512: 3997842099a4e12f20350b219c158afb55b4d53e346701093bfecc7ecac85b40ba692e31fe19d7fb13ff521cb12d79fe31db347244da448538e70b5b6b4950c1
+Description: A webapp of https://discord.com/app packed by shenmo using spark webapp runtime
+
 Package: com.qq.weixin.spark.ace
 Architecture: arm64
 Version: 3.8.0.41spark23.1
