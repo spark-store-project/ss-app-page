@@ -7841,11 +7841,11 @@ Version: 1.0
 Maintainer: shenmo
 Depends: spark-webapp-runtime-ace(>=1.5)
 Filename: chat/discord-web/discord-web_1.0_arm64.deb
-Size: 7880
-MD5sum: 40118503806f72c113244cc0c8104316
-SHA1: 06ec37c77309e78dd72b911876d480365bdc7edb
-SHA256: 8050c30cedc9ad437dd01cf7398c29695e249fac5ba7315765871847aa46aa95
-SHA512: 3997842099a4e12f20350b219c158afb55b4d53e346701093bfecc7ecac85b40ba692e31fe19d7fb13ff521cb12d79fe31db347244da448538e70b5b6b4950c1
+Size: 7888
+MD5sum: 7f0dc1f35c951ac2f1690a85ee24bc2d
+SHA1: 5b4d3533c0e15c194cbd23b81467dfb529413ef8
+SHA256: da30e777773f80e37fd4dab3d1d6aad3e76ff00bc587ef475b684e86a3137089
+SHA512: 042854df32cf5fc3f64f96180c1207f1f21d970f3c1b4e20ce18dc11e33fd9f01bda01a4c21125774c7cf1a6a2ee12b58604dc5822f166c119a066df0a999a0e
 Description: A webapp of https://discord.com/app packed by shenmo using spark webapp runtime
 
 Package: com.qq.weixin.spark.ace

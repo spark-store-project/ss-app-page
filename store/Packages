@@ -35136,11 +35136,11 @@ Version: 1.0
 Maintainer: shenmo
 Depends: spark-webapp-runtime(>=1.5)
 Filename: chat/discord-web/discord-web_1.0_amd64.deb
-Size: 7876
-MD5sum: 9a420e4fee01ba4f43cde34bc345d864
-SHA1: 1cd78a340f72d6bf3ad680bfdab56fb651e17aef
-SHA256: a3b07f894185785b810131eb3cad646dd687df8e581d23a52c9163a7e9469b0b
-SHA512: 51020dae482be7939eb4166ce8a9b00395e3356df7d13cb61828202e65fbb225e9ba158d834d945eba1ed01c40803c59cef4cf8bd34b03ac7a0cde2d1f1dffe9
+Size: 7884
+MD5sum: 7bd887e1c44577503a3ae0eabcc4b840
+SHA1: d0150b53b06e231f1e43a15ad0b9ea8c2891f582
+SHA256: af92ebb85bf6ffb9df77648b82ae6e67a881576ab50b872eead3471054f13f7b
+SHA512: 3e7d77ae4774fd2190d41024e7c283294e1aeffc183ea5ef51d68779597b09eb991d0eccbd36d26953928520efa022b9088da61b5656048ea542842c90efb6ec
 Description: A webapp of https://discord.com/app packed by shenmo using spark webapp runtime
 
 Package: element-desktop

@@ -8739,11 +8739,11 @@ Version: 1.0
 Maintainer: shenmo
 Depends: spark-webapp-runtime(>=1.5)
 Filename: chat/discord-web/discord-web_1.0_loong64.deb
-Size: 7880
-MD5sum: 78009b3b0dcf7325ec60877823cd9fdf
-SHA1: ca7daece6379293de535ffce6334f0fb968a0a45
-SHA256: ba1f2a256170f1786c21a9b20c51e0380c2fba0087793f6ead0144bef975df60
-SHA512: 9957e3785835cd746c4233e6d2aa1ea1e3f53d969a9cd7f179d776547d49105da792e07a7edc316dc631b34d2a4a06f7cf9b95a108088921d2e479c3ae7f292a
+Size: 7888
+MD5sum: fcb9e23b22050e3cd9e5e3d780c16e40
+SHA1: 0c9ffa9e8cc50e207449d3298043027e838c172e
+SHA256: add0ca36c1dbf775e0dac6ce1e010b67689cdfe107db06a59cbffad85384ccc2
+SHA512: 4b21fa2c1d27bf8be0b00280131443f85d51bc4a2bbc82eefa0e026205dd2a35f84e052fd00c390d46da88f4e26d7972cbde4c61f6cbdbe280512cc5d83b8456
 Description: A webapp of https://discord.com/app packed by shenmo using spark webapp runtime
 
 Package: com.alibabainc.dingtalk
