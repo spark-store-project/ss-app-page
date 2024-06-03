@@ -7519,23 +7519,6 @@ SHA512: 2b4cbf4822d3e6abcee56d1b0ba29098a5f19e06dd94fdf1bc43f8cb830467be3a2af695
 Description: WinRAR on deepin wine6
  一款功能强大的压缩包管理器，可以解开 CAB、ARJ、LZH、TAR、GZ、ACE、UUE、BZ2、JAR、ISO、Z 和 7Z 等多种类型的档案文件、镜像文件和TAR 组合型文件
 
-Package: com.rarlab.winrar.spark
-Architecture: all
-Version: 7.00spark0
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: sgb76 <sgb76@163.com>
-Depends: deepin-wine6-stable:amd64 (>= 6.0.0.42-1), spark-dwine-helper (>= 2.2), fonts-wqy-microhei, fonts-wqy-zenhei
-Filename: tools/com.rarlab.winrar.spark/com.rarlab.winrar.spark_7.00spark0_all.deb
-Size: 17137644
-MD5sum: 7d34e9367c6eb74ecf8ca8ccae268e3a
-SHA1: 42ae7ac53c42ef26b4dde5e5783733a74c3b61d6
-SHA256: d125fdc085a87823c1401d91e0fd0fd3a9b5744810228196b217dbd23898ed55
-SHA512: 5bda203197832f8d1dfc72153631d3dd7822f18a55e55165cf9be56505ce9e24d388817c0d018455b517e6535a110c98983ef152e2e107f62df62b4bfbcc7501
-Description: WinRAR on deepin wine6
- 一款功能强大的压缩包管理器，可以解开 CAB、ARJ、LZH、TAR、GZ、ACE、UUE、BZ2、JAR、ISO、Z 和 7Z 等多种类型的档案文件、镜像文件和TAR 组合型文件
-
 Package: woodbox-desktop
 Architecture: amd64
 Version: 0.1.0
@@ -12013,27 +11996,6 @@ SHA1: a50233711464049b285133b8ef938262864f5026
 SHA256: 778cd010f0b7d1c70f5c935ddcce8bb3ce7e47a96dfb249c123651b6a78a60b8
 SHA512: 0acf1018757a9f6c1c57fc16d2af185e214c17caa83fa0d63d73aaff0217c11501965f69b64bfb9e8eccc4ea0f5cf2da5d9f8894a602ee631f148fe80fed3ed9
 Description: fm.moonfm.spark Software Package created by Appimage2Deb
-
-Package: listen1
-Architecture: amd64
-Version: 2.31.0
-Priority: optional
-Section: default
-Maintainer: Listen 1 <githublisten1@gmail.com>
-Installed-Size: 193175
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: music/listen1/listen1_2.31.0_amd64.deb
-Size: 57102770
-MD5sum: e1defb79c422631309d08083173f2d4f
-SHA1: f44ad5141e8959ff19690fa80e177337b20544e8
-SHA256: 0623e152524477d1015b2619bb1784d82473de6153b8b78a892783fb9e0894f9
-SHA512: 13b4d27b92a76edc8135791cb4d256bfc5c5dad6e95f3fcfe6b273f5a0ea74a45e4758e8bf287ac20ff14e09e88cfec89253685f8fb4ab216d189bdd9f1fe708
-Homepage: https://github.com/listen1/listen1_desktop#readme
-Description: 
-  One for all free music in China
-License: MIT
-Vendor: Listen 1 <githublisten1@gmail.com>
 
 Package: listen1
 Architecture: amd64
@@ -30056,27 +30018,6 @@ Description: 锐捷linux客户端图形界面登录辅助工具，仅供学习�
 
 Package: xbyyunpan
 Architecture: amd64
-Version: 3.13.3
-Priority: optional
-Section: default
-Maintainer: gaozhangmin <gaozhangmin@gmail.com>
-Installed-Size: 260275
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: network/xbyyunpan/xbyyunpan_3.13.3_amd64.deb
-Size: 87281328
-MD5sum: 44aee71f29a01929b82bc0df17357d4a
-SHA1: 0435aba4fe770383f29ac8ee1a46562f1ebc1004
-SHA256: ee8bbf1f387c3bf6ba5f1dfbb743ef13386b4687a8fffb9b3a9285ef89b22179
-SHA512: 27ade18e42a64b5662a1f8af8ce74cd20f7c5e516c9184973e1c77f895dafe0d2fcd3434f9b943bc243d2faea7b192d0b2c580aa305a235682e11821b301faeb
-Homepage: https://github.com/liupan1890/aliyunpan
-Description: 
-  小白羊云盘
-License: MIT
-Vendor: gaozhangmin <gaozhangmin@gmail.com>
-
-Package: xbyyunpan
-Architecture: amd64
 Version: 3.13.5
 Priority: optional
 Section: default
@@ -31399,19 +31340,6 @@ Description:
   腾讯视频通用版
 License: CC0-1.0
 Vendor: 腾讯视频 <video@tencent.com>
-
-Package: com.qmplay2.spark
-Architecture: amd64
-Version: 23.06.17spark4
-Section: video
-Maintainer: sgb76 <sgb76@163.com>
-Filename: video/com.qmplay2.spark/com.qmplay2.spark_23.06.17spark4_amd64.deb
-Size: 22681376
-MD5sum: a161bb2c553abeea684564aa67ce152d
-SHA1: 2c1c6906a7c905de65ccfd05c6ce438ba7e7adfd
-SHA256: 9ed6e760d363bd80a0181e8f6519b3f1476faae5b63c097a2063f9c5268a917a
-SHA512: 1baf05603a072a0cd4a753d7ac39e700ae38b47382ffd90a9d16fd7c717776d7bfb407386d71a31d88f5225b3612558e8fbf890c99ba6215d84303f979009046
-Description: Watching movies and listening to music
 
 Package: com.qmplay2.spark
 Architecture: amd64

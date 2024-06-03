@@ -161,6 +161,23 @@
 
 ,
 {
+    "Name": "WinRAR",
+    "Version": "7.00spark0",
+    "Filename": "com.rarlab.winrar.spark_7.00spark0_all.deb",
+    "Torrent_address": "com.rarlab.winrar.spark_7.00spark0_all.deb.torrent",
+    "Pkgname": "com.rarlab.winrar.spark",
+    "Author": "Alexander Roshal",
+    "Contributor": "sgb76",
+    "Website": "https://www.rarlab.com/",
+    "Update": "2023-12-09 20:42:47",
+    "Size": "16.34 MB",
+    "More": "一款功能强大的压缩包管理器，可以解开 CAB、ARJ、LZH、TAR、GZ、ACE、UUE、BZ2、JAR、ISO、Z 和 7Z 等多种类型的档案文件、镜像文件和TAR 组合型文件\n \n--说明--\ndeepin下可以通过右键菜单选择WinRAR打开支持的压缩文件",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/4aa9b8c1520244c6887da7417380f2d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/2f79116ffa7a49429dc9130fa42fd19b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/2f048e1bb3a1431ab99152b2d0b6023d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/09/a015fc0e07f84f00aefd5ee775f78d04.png"
+}
+,
+{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "open-in-terminal-tool_1.0.1_all.deb",
@@ -193,23 +210,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/65fdb0f0-354e-11ee-a987-4f47b34b2038.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/08/6787fa70-354e-11ee-a987-4f47b34b2038.png"
-}
-,
-{
-    "Name": "WinRAR",
-    "Version": "7.00spark0",
-    "Filename": "com.rarlab.winrar.spark_7.00spark0_all.deb",
-    "Torrent_address": "com.rarlab.winrar.spark_7.00spark0_all.deb.torrent",
-    "Pkgname": "com.rarlab.winrar.spark",
-    "Author": "Alexander Roshal",
-    "Contributor": "sgb76",
-    "Website": "https://www.rarlab.com/",
-    "Update": "2023-12-09 20:42:47",
-    "Size": "16.34 MB",
-    "More": "一款功能强大的压缩包管理器，可以解开 CAB、ARJ、LZH、TAR、GZ、ACE、UUE、BZ2、JAR、ISO、Z 和 7Z 等多种类型的档案文件、镜像文件和TAR 组合型文件\n \n--说明--\ndeepin下可以通过右键菜单选择WinRAR打开支持的压缩文件",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/4aa9b8c1520244c6887da7417380f2d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/2f79116ffa7a49429dc9130fa42fd19b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/2f048e1bb3a1431ab99152b2d0b6023d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/09/a015fc0e07f84f00aefd5ee775f78d04.png"
 }
 ,
 {
@@ -263,24 +263,6 @@
 
 ,
 {
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "spark-store_4.2.12.1_loong64.deb",
-    "More": "  * 修复：龙芯自动--no-sandbox\n  * 修复：飞腾部分设备上白屏的问题\n  * 修复：下载开始时长时等待（降低链接超时时长）\n",
-    "Name": "星火应用商店",
-    "Pkgname": "spark-store",
-    "Size": "705 Kb",
-    "Tags": "community;deepin;ubuntu;dtk5",
-    "Torrent_address": "spark-store_4.2.12.1_loong64.deb.torrent",
-    "Update": "2024-04-29 18:00:12",
-    "Version": "4.2.12.1",
-    "Website": "https://www.spark-app.store/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_4.png\"]"
-}
-
-,
-{
     "Author": "zinface <zinface@163.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "z-tools-aptmanager_0.7.9-20240324_loong64.deb",
@@ -295,6 +277,24 @@
     "Website": "https://gitee.com/zinface/z-tools",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-store_4.2.12.1_loong64.deb",
+    "More": "  * 修复：龙芯自动--no-sandbox\n  * 修复：飞腾部分设备上白屏的问题\n  * 修复：下载开始时长时等待（降低链接超时时长）\n",
+    "Name": "星火应用商店",
+    "Pkgname": "spark-store",
+    "Size": "705 Kb",
+    "Tags": "community;deepin;ubuntu;dtk5",
+    "Torrent_address": "spark-store_4.2.12.1_loong64.deb.torrent",
+    "Update": "2024-04-29 18:00:12",
+    "Version": "4.2.12.1",
+    "Website": "https://www.spark-app.store/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_4.png\"]"
 }
 
 ,
@@ -600,6 +600,23 @@
 
 ,
 {
+    "Name": "spark-webapp-runtime 运行器",
+    "Version": "1.1.0",
+    "Filename": "spark-webapp-runtime-runner_1.1.0_all.deb",
+    "Torrent_address": "spark-webapp-runtime-runner_1.1.0_all.deb.torrent",
+    "Pkgname": "spark-webapp-runtime-runner",
+    "Author": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Contributor": "gfdgd xi",
+    "Website": "https://gitee.com/gfdgd-xi/spark-webapp-runtime-runner",
+    "Update": "2022-08-09 09:38:08",
+    "Size": "41.07 KB",
+    "More": "一个 spark-webapp-runtime（星火网页应用运行环境）图形化运行器，可以让你更加方便的使用星火网页应用运行环境\n\n更新内容：\n※1、程序全部重构，语言从 Python 转 C++、GUI 从 Tkinter 转 DTK、布局大改，参考了 sgb76 大佬的 Wine 运行器设计图、zty79的桌面快捷方式编辑器的参考布局\n※2、程序新增打包功能",
+    "Tags": "community;deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/09/e44eaf70-1783-11ed-b704-136e1b5b46da.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/09/dfa2daa0-1783-11ed-b704-136e1b5b46da.png"
+}
+,
+{
     "Name": "星火构建服务 SBS",
     "Version": "0.3",
     "Filename": "spark-building-service_0.3_all.deb",
@@ -791,23 +808,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-web-packer/screen_1.png\"]"
 }
 
-,
-{
-    "Name": "spark-webapp-runtime 运行器",
-    "Version": "1.1.0",
-    "Filename": "spark-webapp-runtime-runner_1.1.0_all.deb",
-    "Torrent_address": "spark-webapp-runtime-runner_1.1.0_all.deb.torrent",
-    "Pkgname": "spark-webapp-runtime-runner",
-    "Author": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Contributor": "gfdgd xi",
-    "Website": "https://gitee.com/gfdgd-xi/spark-webapp-runtime-runner",
-    "Update": "2022-08-09 09:38:08",
-    "Size": "41.07 KB",
-    "More": "一个 spark-webapp-runtime（星火网页应用运行环境）图形化运行器，可以让你更加方便的使用星火网页应用运行环境\n\n更新内容：\n※1、程序全部重构，语言从 Python 转 C++、GUI 从 Tkinter 转 DTK、布局大改，参考了 sgb76 大佬的 Wine 运行器设计图、zty79的桌面快捷方式编辑器的参考布局\n※2、程序新增打包功能",
-    "Tags": "community;deepin;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/09/e44eaf70-1783-11ed-b704-136e1b5b46da.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/09/dfa2daa0-1783-11ed-b704-136e1b5b46da.png"
-}
 ,
 {
     "Name": "光驱托盘控制",
