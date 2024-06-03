@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="xbyyunpan_3.13.5_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">88f776ca1ff5e43c7ca891ba4843b3e2</hash>
+				  
+				<hash type="sha1">71db81670c8d267fa14771e921f6f8aa13c45541</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/network/xbyyunpan/xbyyunpan_3.13.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/xbyyunpan/xbyyunpan_3.13.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/xbyyunpan/xbyyunpan_3.13.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/xbyyunpan/xbyyunpan_3.13.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/xbyyunpan/xbyyunpan_3.13.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/xbyyunpan/xbyyunpan_3.13.5_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

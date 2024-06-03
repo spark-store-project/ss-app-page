@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.pixso.deepin_1.34.1.0deepin0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7bd4f7598310434874c7a3ccb7cbd992</hash>
+				  
+				<hash type="sha1">d999e6b24e0d115d96e635b8e060eb3e437f418a</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/network/cn.pixso.deepin/cn.pixso.deepin_1.34.1.0deepin0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/cn.pixso.deepin/cn.pixso.deepin_1.34.1.0deepin0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/cn.pixso.deepin/cn.pixso.deepin_1.34.1.0deepin0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/cn.pixso.deepin/cn.pixso.deepin_1.34.1.0deepin0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/cn.pixso.deepin/cn.pixso.deepin_1.34.1.0deepin0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/cn.pixso.deepin/cn.pixso.deepin_1.34.1.0deepin0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>
