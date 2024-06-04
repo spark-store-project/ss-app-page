@@ -717,6 +717,24 @@
 
 ,
 {
+    "Author": "zzzgydi, wonfen, MystiPanda",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "clash-verge_1.6.5_arm64.deb",
+    "More": "A Clash Meta GUI based on tauri.\nClash Verge的新维护者版本,支持Linux发行版下开启系统代理",
+    "Name": "Clash Verge",
+    "Pkgname": "clash-verge",
+    "Size": "43 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "clash-verge_1.6.5_arm64.deb.torrent",
+    "Update": "2024-06-04 22:36:40",
+    "Version": "1.6.5",
+    "Website": "https://clash-verge-rev.github.io/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_3.png\"]"
+}
+
+,
+{
     "Author": "lon <lon83129@126.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "gwakeonlan_0.8.5-3lon_all.deb",
@@ -749,24 +767,6 @@
     "Website": "https://github.com/chenhb23/lanzouyun-disk",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/screen_3.png\"]"
-}
-
-,
-{
-    "Author": "zzzgydi, wonfen, MystiPanda",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "clash-verge_1.6.4_arm64.deb",
-    "More": "A Clash Meta GUI based on tauri.\nClash Verge的新维护者版本,支持Linux发行版下开启系统代理",
-    "Name": "Clash Verge",
-    "Pkgname": "clash-verge",
-    "Size": "42 Mb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "clash-verge_1.6.4_arm64.deb.torrent",
-    "Update": "2024-06-02 22:32:00",
-    "Version": "1.6.4",
-    "Website": "https://clash-verge-rev.github.io/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_3.png\"]"
 }
 
 ,

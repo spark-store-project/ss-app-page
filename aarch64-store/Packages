@@ -6782,6 +6782,25 @@ Description: 一个基于 dtk 制作的一个简易远程桌面连接软件
 
 Package: clash-verge
 Architecture: arm64
+Version: 1.6.5
+Priority: optional
+Maintainer: zzzgydi, wonfen, MystiPanda
+Installed-Size: 108789
+Provides: clash-verge, clash-meta
+Depends: openssl, libayatana-appindicator3-1, libwebkit2gtk-4.0-37, libgtk-3-0
+Conflicts: clash-verge, clash-meta
+Replaces: clash-verge, clash-meta
+Filename: network/clash-verge/clash-verge_1.6.5_arm64.deb
+Size: 43501880
+MD5sum: 79ec5199d4665ae4bdd0a9cca0285079
+SHA1: 5e1f8827b8972e97b348bc352499052f890e267d
+SHA256: ed101320273542efb0c378ce54182acc416ca0072393da541602574650ff9d6b
+SHA512: 4181c538b5bbaa46dda88c8b093f46a9c34d1f890a3a7124f14c2abbd9ccab35a4cf62adff3a48d2041c0d4a58ba61930262f3e6aee69f91cc105468e9d47e2f
+Description: A Clash Meta GUI based on tauri.
+ A Clash Meta GUI based on tauri.
+
+Package: clash-verge
+Architecture: arm64
 Version: 1.6.4
 Priority: optional
 Maintainer: zzzgydi, wonfen, MystiPanda
