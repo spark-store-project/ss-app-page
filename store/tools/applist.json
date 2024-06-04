@@ -438,23 +438,6 @@
 }
 ,
 {
-    "Name": "UltraISO",
-    "Version": "9.7.6.3860spark0",
-    "Filename": "spark-ultraliso_9.7.6.3860spark0_all.deb",
-    "Torrent_address": "spark-ultraliso_9.7.6.3860spark0_all.deb.torrent",
-    "Pkgname": "spark-ultraliso",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://cn.ultraiso.net/",
-    "Update": "2024-04-26 20:22:29",
-    "Size": "22.75 MB",
-    "More": "一个 ISO 镜像工具（deepin-wine6）——ultraiso",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/6cc56f6d4fe741e59d1b5f4752e5981a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/5dd97c5922c644b7814c5f71010b1fc1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/5a4a845a8f86414d9c2c54e519bfbbe8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/d123ea0bd4234a6bbabbf88ce7722922.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/5ee8e62a00ae4660aaa500e2e333c4dd.png"
-}
-,
-{
     "Name": "Oracle VM VirtualBox",
     "Version": "2.7",
     "Filename": "virtualbox-6.1_2.7_amd64.deb",
@@ -469,6 +452,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/03/42b968e9ec6641af9b970fabd0b9f2fe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/03/ed9b9572a14441059c6495fe4ee7daf2.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/03/4b7986ff153545f68321c185b33bbdf4.png"
+}
+,
+{
+    "Name": "UltraISO",
+    "Version": "9.7.6.3860spark0",
+    "Filename": "spark-ultraliso_9.7.6.3860spark0_all.deb",
+    "Torrent_address": "spark-ultraliso_9.7.6.3860spark0_all.deb.torrent",
+    "Pkgname": "spark-ultraliso",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://cn.ultraiso.net/",
+    "Update": "2024-04-26 20:22:29",
+    "Size": "22.75 MB",
+    "More": "一个 ISO 镜像工具（deepin-wine6）——ultraiso",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/6cc56f6d4fe741e59d1b5f4752e5981a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/5dd97c5922c644b7814c5f71010b1fc1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/5a4a845a8f86414d9c2c54e519bfbbe8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/d123ea0bd4234a6bbabbf88ce7722922.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/5ee8e62a00ae4660aaa500e2e333c4dd.png"
 }
 ,
 {
@@ -2499,6 +2499,23 @@
 }
 ,
 {
+    "Name": "GXDE 内核管理器 1.1.0",
+    "Version": "1.1.0",
+    "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
+    "Torrent_address": "gxde-kernel-manager_1.1.0_amd64.deb.torrent",
+    "Pkgname": "gxde-kernel-manager",
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
+    "Update": "2024-05-12 17:25:58",
+    "Size": "1.07 MB",
+    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \n\n\nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
+}
+,
+{
     "Name": "Additional Base lib",
     "Version": "2.36-9+deb12u3-9",
     "Filename": "additional-base-lib_2.36-9_plus_deb12u3-9_amd64.deb",
@@ -2530,23 +2547,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/ef47a4cb336141df8eb993963fa2df63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/2be514f2364a45f195cb6181f57d205f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/9cad5d8694c74e1888a3f91faf7d7319.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/2faabf82fca341068dfce93d83e0e824.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/7ca47916afe545e592e32cf8c14b2b72.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/15/4602ae8e6a33439a988e9a2cda17ccfa.png"
-}
-,
-{
-    "Name": "GXDE 内核管理器 1.1.0",
-    "Version": "1.1.0",
-    "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
-    "Torrent_address": "gxde-kernel-manager_1.1.0_amd64.deb.torrent",
-    "Pkgname": "gxde-kernel-manager",
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
-    "Update": "2024-05-12 17:25:58",
-    "Size": "1.07 MB",
-    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \n\n\nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
 }
 ,
 {
@@ -3116,6 +3116,23 @@
 }
 ,
 {
+    "Name": "CPU-Z（Wine）",
+    "Version": "2.09spark0",
+    "Filename": "com.cpuz.spark_2.09spark0_all.deb",
+    "Torrent_address": "com.cpuz.spark_2.09spark0_all.deb.torrent",
+    "Pkgname": "com.cpuz.spark",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.cpuid.com/",
+    "Update": "2024-04-26 22:50:38",
+    "Size": "6.22 MB",
+    "More": "免费的 CPU 信息检测软件。这些信息包括：CPU 名称、厂商、性能、当前电压、L1 L2 cache情况；内核进程；内部和外部时钟等，支持全系列的Intel以及AMD品牌的CPU。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
+}
+,
+{
     "Name": "XCursor Viewer(光标查看器)",
     "Version": "1.1.1",
     "Filename": "xcursor-viewer_1.1.1_amd64.deb",
@@ -3165,23 +3182,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/24/100448a3261d4c9983d06dee8c9aad12.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/24/df07c4c56d8340479560959b63dbca84.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/24/e88bb80db7844bc48f7ebca746450781.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/24/a8673f2af7954861af91dad7d0f750b7.png"
-}
-,
-{
-    "Name": "CPU-Z（Wine）",
-    "Version": "2.09spark0",
-    "Filename": "com.cpuz.spark_2.09spark0_all.deb",
-    "Torrent_address": "com.cpuz.spark_2.09spark0_all.deb.torrent",
-    "Pkgname": "com.cpuz.spark",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.cpuid.com/",
-    "Update": "2024-04-26 22:50:38",
-    "Size": "6.22 MB",
-    "More": "免费的 CPU 信息检测软件。这些信息包括：CPU 名称、厂商、性能、当前电压、L1 L2 cache情况；内核进程；内部和外部时钟等，支持全系列的Intel以及AMD品牌的CPU。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
 }
 ,
 {

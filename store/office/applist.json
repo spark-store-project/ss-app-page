@@ -1383,23 +1383,6 @@
 }
 ,
 {
-    "Name": "Kuro(第三方微软 Todo)",
-    "Version": "9.0.0",
-    "Filename": "kuro_9.0.0_amd64.deb",
-    "Torrent_address": "kuro_9.0.0_amd64.deb.torrent",
-    "Pkgname": "kuro",
-    "Author": "davidsmorais <david@dsmorais.com>",
-    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
-    "Website": "https://github.com/davidsmorais/kuro#readme",
-    "Update": "2023-03-31 16:52:04",
-    "Size": "64.91 MB",
-    "More": "一个微软to-do的第三方客户端\n  Kuro is an unofficial, featureful, open source, community-driven, free Microsoft To-Do app, used by people in more than 120 countries. (Ao fork)",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/31/0decdf5e58284e4592f2e4c309cf88ab.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/31/ecd5b9d3ed5744cfa54bac952d8e4705.png"
-}
-,
-{
     "Name": "PDFsam Basic",
     "Version": "5.2.0-1",
     "Filename": "pdfsam-basic_5.2.0-1_all.deb",
@@ -1414,6 +1397,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/4d116650b3a34d50a2f7a33e8dd41479.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/a327e6c7c7b549328f1e0da8e713aef0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/39b2e53f7e5d431c95ef4c95a92a38c0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/59ea48faaae04c7a9ad37d977d395a1c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/07/631f465473f1472fbb934eb7ed709f8c.png"
+}
+,
+{
+    "Name": "Kuro(第三方微软 Todo)",
+    "Version": "9.0.0",
+    "Filename": "kuro_9.0.0_amd64.deb",
+    "Torrent_address": "kuro_9.0.0_amd64.deb.torrent",
+    "Pkgname": "kuro",
+    "Author": "davidsmorais <david@dsmorais.com>",
+    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
+    "Website": "https://github.com/davidsmorais/kuro#readme",
+    "Update": "2023-03-31 16:52:04",
+    "Size": "64.91 MB",
+    "More": "一个微软to-do的第三方客户端\n  Kuro is an unofficial, featureful, open source, community-driven, free Microsoft To-Do app, used by people in more than 120 countries. (Ao fork)",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/31/0decdf5e58284e4592f2e4c309cf88ab.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/31/ecd5b9d3ed5744cfa54bac952d8e4705.png"
 }
 ,
 {
@@ -1967,6 +1967,23 @@
 }
 ,
 {
+    "Name": "滴答清单",
+    "Version": "1.0.80",
+    "Filename": "cn.ticktick.task_1.0.80_amd64.deb",
+    "Torrent_address": "cn.ticktick.task_1.0.80_amd64.deb.torrent",
+    "Pkgname": "cn.ticktick.task",
+    "Author": "Appest Inc <dev@suibiji.com>",
+    "Contributor": "gfdgd-xi <3025613752@qq.com>",
+    "Website": "https://www.dida365.com/home",
+    "Update": "2023-09-08 11:22:40",
+    "Size": "85.81 MB",
+    "More": "你可以在电脑、手机甚至智能手表中使用滴答清单管理一切，你的所有任务都能在 10+ 个平台间无缝同步。\n（第一次传得太急了，截图传错了/捂脸）",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/08/61c119f51cab4bdabb58ff10a596efc0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/08/ce60e852737e4f22b54c07239273ca9f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/08/d9413ff4860d4a66ac94b5bec1857995.png"
+}
+,
+{
    "Name":"一只番茄",
    "Version":"1.0.4",
    "Filename":"top.yzzi.tomato_1.0.4_amd64.deb",
@@ -1995,23 +2012,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/03/75403de9aea640a6ba090918055b3111.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/03/30bd0bdcddbc4371aaa9b2624c6cb9c7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/03/80fd4161cac74bcea4cfa5acb19994ba.png"
-}
-,
-{
-    "Name": "滴答清单",
-    "Version": "1.0.80",
-    "Filename": "cn.ticktick.task_1.0.80_amd64.deb",
-    "Torrent_address": "cn.ticktick.task_1.0.80_amd64.deb.torrent",
-    "Pkgname": "cn.ticktick.task",
-    "Author": "Appest Inc <dev@suibiji.com>",
-    "Contributor": "gfdgd-xi <3025613752@qq.com>",
-    "Website": "https://www.dida365.com/home",
-    "Update": "2023-09-08 11:22:40",
-    "Size": "85.81 MB",
-    "More": "你可以在电脑、手机甚至智能手表中使用滴答清单管理一切，你的所有任务都能在 10+ 个平台间无缝同步。\n（第一次传得太急了，截图传错了/捂脸）",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/08/61c119f51cab4bdabb58ff10a596efc0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/08/ce60e852737e4f22b54c07239273ca9f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/08/d9413ff4860d4a66ac94b5bec1857995.png"
 }
 ,
 {
@@ -2118,6 +2118,22 @@
 }
 ,
 {
+    "Name": "Simplenote",
+    "Version": "2.12.0-24095",
+    "Filename": "simplenote_2.12.0-24095_amd64.deb",
+    "Pkgname": "simplenote",
+    "Author": "Automattic",
+    "Contributor": "Vlary; OkayPJ",
+    "Website": "https://simplenote.com/",
+    "Update": "2021-06-07 12:07:49",
+    "Size": "97.64 MB",
+    "More": "The simplest way to keep notes\n\nAll your notes, synced on all your devices. Get Simplenote now for iOS, Android, Mac, Windows, Linux, or in your browser.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/733a8d20-c745-11eb-a819-235b7a0b48f4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/07/406a9610-c745-11eb-a819-235b7a0b48f4.png"
+}
+,
+{
     "Name": "Axmath",
     "Version": "2.7.0.520",
     "Filename": "com.axmath.spark_2.7.0.520_i386.deb",
@@ -2132,22 +2148,6 @@
     "Tags": "deepin;ubuntu;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/6cbef14332514ebbac31c99007d29e3b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/30/6826d906705f4e2d8a12a84e6b266a15.png"
-}
-,
-{
-    "Name": "Simplenote",
-    "Version": "2.12.0-24095",
-    "Filename": "simplenote_2.12.0-24095_amd64.deb",
-    "Pkgname": "simplenote",
-    "Author": "Automattic",
-    "Contributor": "Vlary; OkayPJ",
-    "Website": "https://simplenote.com/",
-    "Update": "2021-06-07 12:07:49",
-    "Size": "97.64 MB",
-    "More": "The simplest way to keep notes\n\nAll your notes, synced on all your devices. Get Simplenote now for iOS, Android, Mac, Windows, Linux, or in your browser.",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/733a8d20-c745-11eb-a819-235b7a0b48f4.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/07/406a9610-c745-11eb-a819-235b7a0b48f4.png"
 }
 ,
 {

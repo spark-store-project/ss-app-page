@@ -27786,25 +27786,6 @@ Description: IDM For dwine6
 
 Package: microsoft-edge-stable
 Architecture: amd64
-Version: 123.0.2420.81-1
-Priority: optional
-Section: web
-Maintainer: Microsoft Edge for Linux Team <EdgeLinuxDev@microsoft.com>
-Installed-Size: 572139
-Provides: www-browser
-Pre-Depends: dpkg (>= 1.14.0)
-Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.75), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libu2f-udev, libuuid1 (>= 2.16), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Filename: network/microsoft-edge-stable/microsoft-edge-stable_123.0.2420.81-1_amd64.deb
-Size: 166576286
-MD5sum: 86bed0e1711c7e42d7712b845789ddbe
-SHA1: d60ec9a60edca5e4f1f64ebf76ed064e41a0dfeb
-SHA256: ddce031ecd29d980d6d7b9f309707e3ba3d1f704cc6fd87df04bcdd758a6bec3
-SHA512: 11fb076ac3ee2c83cc94647359f73efbfbfc5ccec2b57656843a4345ace3cc7846f32eec143751a3454a46fa67ca5e0349beb53ccb1d3792d914bc457d0c8c2c
-Description: The web browser from Microsoft
- Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
-
-Package: microsoft-edge-stable
-Architecture: amd64
 Version: 125.0.2535.79-1
 Priority: optional
 Section: web
@@ -29380,22 +29361,6 @@ SHA1: 571449906c83739c944efb3bd3fe80a6776f844c
 SHA256: 7e3a0cbb3d04a6c4a90adf18203aff04d5020f492f28fa91935a76b3a2832f42
 SHA512: 5e29da87c895c6f98a0f730279a82e644edbb12a7685edacab87c39324727a8372cb956d4dff5358157b30264a369bda3304ac8fd4f54f3396f010fdef47745f
 Description: LIII BitTorrent Client on Deepin Wine6
-
-Package: clash-verge
-Architecture: amd64
-Version: 1.6.4
-Priority: optional
-Maintainer: zzzgydi, wonfen, MystiPanda
-Installed-Size: 110205
-Depends: openssl, libayatana-appindicator3-1, libwebkit2gtk-4.0-37, libgtk-3-0
-Filename: network/clash-verge/clash-verge_1.6.4_amd64.deb
-Size: 43581684
-MD5sum: 008a6d23dcc479ba5365712c8ad55fab
-SHA1: 639023b2b0f517498c68d921a91ed8716d7e5a77
-SHA256: 3a1ac2d2dadc97fcd209949ce13c7d04382a07162220d17af4b195250d101acc
-SHA512: c3d7004039085c54729703af262791b90afae3ddab17572899766fa6fc29997cb17543a3c6c692e2a5642ecc5a53e1b72b1276e141c452f95932c587b055e353
-Description: A Clash Meta GUI based on tauri.
- A Clash Meta GUI based on tauri.
 
 Package: clash-verge
 Architecture: amd64

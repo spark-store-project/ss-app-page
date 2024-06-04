@@ -475,22 +475,6 @@
 }
 ,
 {
-    "Name": "天翼云盘(Linux版)",
-    "Version": "1.1.0-1_plus_a1",
-    "Filename": "com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb",
-    "Pkgname": "com.cloud.21cn",
-    "Author": "21CN Corporation Limited",
-    "Contributor": "fredoong",
-    "Website": "https://cloud.189.cn/",
-    "Update": "2021-07-06 06:06:28",
-    "Size": "55.56 MB",
-    "More": "A project of Tianyi Cloud Disk\n天翼云盘Linux版",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/06/26bc07e0-dddd-11eb-a494-017e838ccdaa.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/06/1c52a020-dddd-11eb-a494-017e838ccdaa.png"
-}
-,
-{
     "Name": "网易邮箱大师(wine)",
     "Version": "5.0.9.1015",
     "Filename": "com.163.dashi.mailmaster.spark_5.0.9.1015_all.deb",
@@ -505,6 +489,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/97ac45d306bf4abaac2e82ced9bc72fd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/1b087d1b85ab4f14a498081adbb45039.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/1943e27afb594baeab615d81baa22646.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/30/2b31c37cd9dc4698a908bedc38387810.png"
+}
+,
+{
+    "Name": "天翼云盘(Linux版)",
+    "Version": "1.1.0-1_plus_a1",
+    "Filename": "com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb",
+    "Pkgname": "com.cloud.21cn",
+    "Author": "21CN Corporation Limited",
+    "Contributor": "fredoong",
+    "Website": "https://cloud.189.cn/",
+    "Update": "2021-07-06 06:06:28",
+    "Size": "55.56 MB",
+    "More": "A project of Tianyi Cloud Disk\n天翼云盘Linux版",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/06/26bc07e0-dddd-11eb-a494-017e838ccdaa.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/06/1c52a020-dddd-11eb-a494-017e838ccdaa.png"
 }
 ,
 {
@@ -1227,23 +1227,6 @@
 
 ,
 {
-    "Name": "在线视频下载器",
-    "Version": "2.8.0-1",
-    "Filename": "media-downloader_2.8.0-1_amd64.deb",
-    "Torrent_address": "media-downloader_2.8.0-1_amd64.deb.torrent",
-    "Pkgname": "media-downloader",
-    "Author": "Mhogo Mchungu <mhogomchungu@gmail.com>",
-    "Contributor": "flutter",
-    "Website": "https://github.com/mhogomchungu/media-downloader",
-    "Update": "2023-02-22 17:36:23",
-    "Size": "499.3 KB",
-    "More": "下载在线视频软件，支持b站等网站",
-    "Tags": "ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/f2d4508a71a74272ade330166f967b46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/ab3c081001d8452cbe08e616e77d0b46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/e5c0410412f14bc0bdf0de36a512f8f4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/6874582326514388bbbee71ad1429450.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/22/fab7a65e5c3e44ef81b8c8eb757e0e22.png"
-}
-,
-{
     "Name": "360企业安全浏览器",
     "Version": "10.5.2002.473-1",
     "Filename": "browser360ent-cn-stable_10.5.2002.473-1_amd64.deb",
@@ -1258,6 +1241,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/e6ff1dc787304065b8a373dcffae87ab.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/73cb9b3ec66d4daa95f9fae36593c012.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/1ad86b5503cf4ef3872b82718189de32.png"
+}
+,
+{
+    "Name": "在线视频下载器",
+    "Version": "2.8.0-1",
+    "Filename": "media-downloader_2.8.0-1_amd64.deb",
+    "Torrent_address": "media-downloader_2.8.0-1_amd64.deb.torrent",
+    "Pkgname": "media-downloader",
+    "Author": "Mhogo Mchungu <mhogomchungu@gmail.com>",
+    "Contributor": "flutter",
+    "Website": "https://github.com/mhogomchungu/media-downloader",
+    "Update": "2023-02-22 17:36:23",
+    "Size": "499.3 KB",
+    "More": "下载在线视频软件，支持b站等网站",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/f2d4508a71a74272ade330166f967b46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/ab3c081001d8452cbe08e616e77d0b46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/e5c0410412f14bc0bdf0de36a512f8f4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/6874582326514388bbbee71ad1429450.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/22/fab7a65e5c3e44ef81b8c8eb757e0e22.png"
 }
 ,
 {
@@ -1359,23 +1359,6 @@
 
 ,
 {
-    "Name": "腾讯微云（wine）",
-    "Version": "5.2.1282spark1",
-    "Filename": "com.weiyun.spark_5.2.1282spark1_i386.deb",
-    "Torrent_address": "com.weiyun.spark_5.2.1282spark1_i386.deb.torrent",
-    "Pkgname": "com.weiyun.spark",
-    "Author": "anima <402844767@139.com>",
-    "Contributor": "anima <402844767@139.com>",
-    "Website": "https://www.weiyun.com/",
-    "Update": "2022-12-24 17:20:31",
-    "Size": "88.13 MB",
-    "More": "档案管理更便捷\n上传下载更稳定",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/24/ba1062f58e0b4b5c8e40c76765553407.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/24/e0a38f76e66b484b9de86a58d3e616ad.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/24/9254114039fc453ab804763abb79f1f8.png"
-}
-,
-{
     "Name": "360安全浏览器Beta版",
     "Version": "13.108.1000.22-1",
     "Filename": "browser360-cn-beta_13.108.1000.22-1_amd64.deb",
@@ -1390,6 +1373,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/a944a7583bce4415944c29fdd9469afe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/f2e6a827db134991bbfa1a62a5f3fbe1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/4e405fa64d764bb68cb9ac50a6707e68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/86a4a2d5af2e4852a806a9d29c3684da.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/27/a17cd46db7d8458190c9b991d48f16fe.png"
+}
+,
+{
+    "Name": "腾讯微云（wine）",
+    "Version": "5.2.1282spark1",
+    "Filename": "com.weiyun.spark_5.2.1282spark1_i386.deb",
+    "Torrent_address": "com.weiyun.spark_5.2.1282spark1_i386.deb.torrent",
+    "Pkgname": "com.weiyun.spark",
+    "Author": "anima <402844767@139.com>",
+    "Contributor": "anima <402844767@139.com>",
+    "Website": "https://www.weiyun.com/",
+    "Update": "2022-12-24 17:20:31",
+    "Size": "88.13 MB",
+    "More": "档案管理更便捷\n上传下载更稳定",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/24/ba1062f58e0b4b5c8e40c76765553407.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/24/e0a38f76e66b484b9de86a58d3e616ad.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/24/9254114039fc453ab804763abb79f1f8.png"
 }
 ,
 {
