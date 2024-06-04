@@ -216,24 +216,6 @@
 
 ,
 {
-    "Author": "Debian Games Team <pkg-games-devel@lists.alioth.debian.org>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "chromium-bsu_0.9.16.1-2_loong64.deb",
-    "More": "Chromium BSU是一款打飞机游戏",
-    "Name": "Chromium BSU",
-    "Pkgname": "chromium-bsu",
-    "Size": "1300 Kb",
-    "Tags": "community;deepin;ubuntu",
-    "Torrent_address": "chromium-bsu_0.9.16.1-2_loong64.deb.torrent",
-    "Update": "2024-03-24 13:05:56",
-    "Version": "0.9.16.1-2",
-    "Website": "http://chromium-bsu.sourceforge.net/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/chromium-bsu/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/chromium-bsu/screen_1.png\"]"
-}
-
-,
-{
     "Author": "shenmo@spark-app.store",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.pvzhz.spark_2.0.88spark2_all.deb",
@@ -248,6 +230,24 @@
     "Website": "https://space.bilibili.com/97213827",
     "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/games/com.pvzhz.spark/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/games/com.pvzhz.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/games/com.pvzhz.spark/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "Debian Games Team <pkg-games-devel@lists.alioth.debian.org>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "chromium-bsu_0.9.16.1-2_loong64.deb",
+    "More": "Chromium BSU是一款打飞机游戏",
+    "Name": "Chromium BSU",
+    "Pkgname": "chromium-bsu",
+    "Size": "1300 Kb",
+    "Tags": "community;deepin;ubuntu",
+    "Torrent_address": "chromium-bsu_0.9.16.1-2_loong64.deb.torrent",
+    "Update": "2024-03-24 13:05:56",
+    "Version": "0.9.16.1-2",
+    "Website": "http://chromium-bsu.sourceforge.net/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/chromium-bsu/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/chromium-bsu/screen_1.png\"]"
 }
 
 ,

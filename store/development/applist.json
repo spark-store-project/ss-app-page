@@ -677,22 +677,6 @@
 }
 ,
 {
-    "Name": "小熊猫C++（第三方devcpp）",
-    "Version": "0.12.5-2",
-    "Filename": "redpanda-ide_0.12.5-2_amd64.deb",
-    "Pkgname": "redpanda-ide",
-    "Author": "royqh1979",
-    "Contributor": "Hibanaw",
-    "Website": "https://royqh.net/devcpp/",
-    "Update": "2022-01-02 19:49:43",
-    "Size": "6.67 MB",
-    "More": "一个轻量的 C/C++ IDE\n基于 Qt5 开发的 Dev-C++ 后继版本\n已补全依赖 libts0 并更改包名为小写",
-    "Tags": "deepin;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/02/ed3c3500-6b7e-11ec-aedd-ed2c9f927cd8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/02/ed533f70-6b7e-11ec-aedd-ed2c9f927cd8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/01/02/e3df3430-6b7e-11ec-aedd-ed2c9f927cd8.png"
-}
-,
-{
     "Name": "QuickRedis",
     "Version": "2.7.1spark1",
     "Filename": "net.quick123.quickredis.spark_2.7.1spark1_amd64.deb",
@@ -707,6 +691,22 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/28/153c8ea25e4a4eebaf34265f57655e14.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/28/e220c9746c704aeab7007eebade60152.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/28/e4f6203ccd4149e7bb7bb34fdb502788.png"
+}
+,
+{
+    "Name": "小熊猫C++（第三方devcpp）",
+    "Version": "0.12.5-2",
+    "Filename": "redpanda-ide_0.12.5-2_amd64.deb",
+    "Pkgname": "redpanda-ide",
+    "Author": "royqh1979",
+    "Contributor": "Hibanaw",
+    "Website": "https://royqh.net/devcpp/",
+    "Update": "2022-01-02 19:49:43",
+    "Size": "6.67 MB",
+    "More": "一个轻量的 C/C++ IDE\n基于 Qt5 开发的 Dev-C++ 后继版本\n已补全依赖 libts0 并更改包名为小写",
+    "Tags": "deepin;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/02/ed3c3500-6b7e-11ec-aedd-ed2c9f927cd8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/02/ed533f70-6b7e-11ec-aedd-ed2c9f927cd8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/01/02/e3df3430-6b7e-11ec-aedd-ed2c9f927cd8.png"
 }
 ,
 {
@@ -960,23 +960,6 @@
 }
 ,
 {
-    "Name": "XTerminal",
-    "Version": "1.8.0",
-    "Filename": "xterminal_1.8.0_amd64.deb",
-    "Torrent_address": "xterminal_1.8.0_amd64.deb.torrent",
-    "Pkgname": "xterminal",
-    "Author": "Xterminal",
-    "Contributor": "sgb76",
-    "Website": "https://xterminal.cn",
-    "Update": "2024-02-03 23:35:11",
-    "Size": "104.76 MB",
-    "More": "一款功能强大的跨平台开发工具，支持 Windows、macOS、Linux 系统，它在 SSH 客户端的基础之上，整合了自动补全、密钥管理、笔记、云端仓库、监控工具，快捷动作等功能。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/03/9dd93d21fc554cdebd3af290c72a9833.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/03/f009fcf19bee4d74a4e8292a972166a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/03/1dabfa919f39420db8c730eb72ce7e4a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/03/2171522cfef7400cb68610b1a54d4aa9.png"
-}
-,
-{
    "Name":"StarUML",
    "Version":"3.0.1",
    "Filename":"staruml_3.0.1_amd64.deb",
@@ -1005,6 +988,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/59d3cf690c4b455a996dba3ea142d6fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/7e70dbd9327149b58832fbbd6e1bc7e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/d080f1859222440b9489046cdb6da95d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/16/f82f8f626b8540d182c9f3841cfe04f5.png"
+}
+,
+{
+    "Name": "XTerminal",
+    "Version": "1.8.0",
+    "Filename": "xterminal_1.8.0_amd64.deb",
+    "Torrent_address": "xterminal_1.8.0_amd64.deb.torrent",
+    "Pkgname": "xterminal",
+    "Author": "Xterminal",
+    "Contributor": "sgb76",
+    "Website": "https://xterminal.cn",
+    "Update": "2024-02-03 23:35:11",
+    "Size": "104.76 MB",
+    "More": "一款功能强大的跨平台开发工具，支持 Windows、macOS、Linux 系统，它在 SSH 客户端的基础之上，整合了自动补全、密钥管理、笔记、云端仓库、监控工具，快捷动作等功能。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/03/9dd93d21fc554cdebd3af290c72a9833.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/03/f009fcf19bee4d74a4e8292a972166a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/03/1dabfa919f39420db8c730eb72ce7e4a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/03/2171522cfef7400cb68610b1a54d4aa9.png"
 }
 ,
 {
@@ -1288,23 +1288,6 @@
 
 ,
 {
-    "Name": "TIny RDM",
-    "Version": "1.1.13",
-    "Filename": "tinyrdm_1.1.13_amd64.deb",
-    "Torrent_address": "tinyrdm_1.1.13_amd64.deb.torrent",
-    "Pkgname": "tinyrdm",
-    "Author": "tiny-craft <lykinhuang@outlook.com>",
-    "Contributor": "tiny-craft <lykinhuang@outlook.com>",
-    "Website": "https://redis.tinycraft.cc/",
-    "Update": "2024-05-27 16:11:29",
-    "Size": "5.81 MB",
-    "More": "有颜也有料，多彩更出彩\n一个更现代化的Redis桌面管理客户端\n\n1.1.13 更新日志\n功能优化\n    移除LIST/HASH/SET/ZSET的格式自动识别，降低条目量大时导致卡死的情况\n    键列表视图增加快捷键支持（方向键进行导航和开关折叠，F5或Cmd+R刷新所选，Ctrl/Cmd+C复制键名，Del删除所选）\n    标签页窗口支持快捷键关闭（Ctrl/Cmd+W）\n    支持非标准的JSON格式化显示(FastJSON等)\n    HASH支持刷新单字段\n问题修复\n    为非当前数据库添加新键时列表错误显示\n    低版本Webview下样式兼容",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/8141a97d28ff442bacd9099fa83f6c9b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/228c715049324f079fb002c5ad03e692.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/0b42601d1db3429e951ee1387ca8b916.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/99e9088f8b034ef5baf9d39148003d2f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/3d335aef49144bc8813d681025dfc083.png"
-}
-,
-{
     "Name": "Distrobox",
     "Version": "1.4.2.1~spark2",
     "Filename": "distrobox_1.4.2.1~spark2_all.deb",
@@ -1322,19 +1305,20 @@
 }
 ,
 {
-    "Name": "CuteCom",
-    "Version": "0.51.0",
-    "Filename": "cutecom_0.51.0_amd64.deb",
-    "Pkgname": "cutecom",
-    "Author": "Roman I Khimov <roman@khimov.ru>",
-    "Contributor": "lidanger",
-    "Website": "https://gitlab.com/cutecom/cutecom",
-    "Update": "2020-11-11 03:45:00",
-    "Size": "389.27 KB",
-    "More": "Graphical serial terminal, like minicom.",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/11/19181330-23d0-11eb-b0d0-23a1d93ced96.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/11/19272e60-23d0-11eb-b0d0-23a1d93ced96.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/11/191f6630-23d0-11eb-b0d0-23a1d93ced96.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/11/15af6cc0-23d0-11eb-b0d0-23a1d93ced96.png"
+    "Name": "TIny RDM",
+    "Version": "1.1.13",
+    "Filename": "tinyrdm_1.1.13_amd64.deb",
+    "Torrent_address": "tinyrdm_1.1.13_amd64.deb.torrent",
+    "Pkgname": "tinyrdm",
+    "Author": "tiny-craft <lykinhuang@outlook.com>",
+    "Contributor": "tiny-craft <lykinhuang@outlook.com>",
+    "Website": "https://redis.tinycraft.cc/",
+    "Update": "2024-05-27 16:11:29",
+    "Size": "5.81 MB",
+    "More": "有颜也有料，多彩更出彩\n一个更现代化的Redis桌面管理客户端\n\n1.1.13 更新日志\n功能优化\n    移除LIST/HASH/SET/ZSET的格式自动识别，降低条目量大时导致卡死的情况\n    键列表视图增加快捷键支持（方向键进行导航和开关折叠，F5或Cmd+R刷新所选，Ctrl/Cmd+C复制键名，Del删除所选）\n    标签页窗口支持快捷键关闭（Ctrl/Cmd+W）\n    支持非标准的JSON格式化显示(FastJSON等)\n    HASH支持刷新单字段\n问题修复\n    为非当前数据库添加新键时列表错误显示\n    低版本Webview下样式兼容",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/8141a97d28ff442bacd9099fa83f6c9b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/228c715049324f079fb002c5ad03e692.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/0b42601d1db3429e951ee1387ca8b916.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/99e9088f8b034ef5baf9d39148003d2f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/3d335aef49144bc8813d681025dfc083.png"
 }
 ,
 {
@@ -1352,6 +1336,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/57b4a16937f942449bf9a877ffcad7a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/1e26957687544b52a99af0460e799493.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/131fcab7df494c08aaee9ba43290a78e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/00f83375a2624bf59bad0b2b92a91aa1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/142dbbb2ee3f46c18f1c9bed7f65b923.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/1aa87b74c1444e05977727db1257fd0a.png"
+}
+,
+{
+    "Name": "CuteCom",
+    "Version": "0.51.0",
+    "Filename": "cutecom_0.51.0_amd64.deb",
+    "Pkgname": "cutecom",
+    "Author": "Roman I Khimov <roman@khimov.ru>",
+    "Contributor": "lidanger",
+    "Website": "https://gitlab.com/cutecom/cutecom",
+    "Update": "2020-11-11 03:45:00",
+    "Size": "389.27 KB",
+    "More": "Graphical serial terminal, like minicom.",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/11/19181330-23d0-11eb-b0d0-23a1d93ced96.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/11/19272e60-23d0-11eb-b0d0-23a1d93ced96.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/11/191f6630-23d0-11eb-b0d0-23a1d93ced96.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/11/15af6cc0-23d0-11eb-b0d0-23a1d93ced96.png"
 }
 ,
 {
@@ -1554,6 +1554,23 @@
 }
 ,
 {
+    "Name": "Ghidra",
+    "Version": "10.4.0",
+    "Filename": "com.nsa.ghidra_10.4.0_amd64.deb",
+    "Torrent_address": "com.nsa.ghidra_10.4.0_amd64.deb.torrent",
+    "Pkgname": "com.nsa.ghidra",
+    "Author": "NationalSecurityAgency",
+    "Contributor": "wingsummer <1326224942@qq.com>",
+    "Website": "https://www.nsa.gov/ghidra",
+    "Update": "2023-10-01 10:55:50",
+    "Size": "323.23 MB",
+    "More": "A software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate. \n由美国国家安全局研究局创建和维护的软件逆向工程（SRE）框架。\n\n【注】本包由寂静的羽夏打包，相对于之前的版本，我把运行时（ jre 17 ）打包进去了，也就是说不需要再安装其他依赖了。于此同时我修改了一下启动脚本，实现安装即可用。",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/93f04bc877e84f8ca81d8dd9fc2de917.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/c6b2ed2ba7d54ce0a343d1cb3e22b054.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/b5b29eca4e20422687ca01caf313ff40.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/01/84c38f7839b14eec939f5f9f23b2073d.png"
+}
+,
+{
     "Name": "CP Editor",
     "Version": "6.10.3",
     "Filename": "cpeditor_6.10.3_amd64.deb",
@@ -1588,20 +1605,20 @@
 }
 ,
 {
-    "Name": "Ghidra",
-    "Version": "10.4.0",
-    "Filename": "com.nsa.ghidra_10.4.0_amd64.deb",
-    "Torrent_address": "com.nsa.ghidra_10.4.0_amd64.deb.torrent",
-    "Pkgname": "com.nsa.ghidra",
-    "Author": "NationalSecurityAgency",
-    "Contributor": "wingsummer <1326224942@qq.com>",
-    "Website": "https://www.nsa.gov/ghidra",
-    "Update": "2023-10-01 10:55:50",
-    "Size": "323.23 MB",
-    "More": "A software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate. \n由美国国家安全局研究局创建和维护的软件逆向工程（SRE）框架。\n\n【注】本包由寂静的羽夏打包，相对于之前的版本，我把运行时（ jre 17 ）打包进去了，也就是说不需要再安装其他依赖了。于此同时我修改了一下启动脚本，实现安装即可用。",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/93f04bc877e84f8ca81d8dd9fc2de917.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/c6b2ed2ba7d54ce0a343d1cb3e22b054.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/b5b29eca4e20422687ca01caf313ff40.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/01/84c38f7839b14eec939f5f9f23b2073d.png"
+    "Name": "netbeans",
+    "Version": "17-1",
+    "Filename": "apache-netbeans_17-1_all.deb",
+    "Torrent_address": "apache-netbeans_17-1_all.deb.torrent",
+    "Pkgname": "apache-netbeans",
+    "Author": "Apache Software Foundation",
+    "Contributor": "freeor",
+    "Website": "https://netbeans.apache.org/",
+    "Update": "2023-03-11 11:02:27",
+    "Size": "382.05 MB",
+    "More": "开发环境、工具平台和应用程序框架。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f647c620-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f66c8c30-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f65a15a0-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f67f29d0-bfb8-11ed-9b62-5f2349990689.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/11/bd7fcb30-bfb8-11ed-9b62-5f2349990689.png"
 }
 ,
 {
@@ -1618,23 +1635,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/47f77200-1691-11eb-9164-d95c0156863b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/4806db50-1691-11eb-9164-d95c0156863b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/4800e7e0-1691-11eb-9164-d95c0156863b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/25/1bcfe310-1691-11eb-9164-d95c0156863b.png"
-}
-,
-{
-    "Name": "netbeans",
-    "Version": "17-1",
-    "Filename": "apache-netbeans_17-1_all.deb",
-    "Torrent_address": "apache-netbeans_17-1_all.deb.torrent",
-    "Pkgname": "apache-netbeans",
-    "Author": "Apache Software Foundation",
-    "Contributor": "freeor",
-    "Website": "https://netbeans.apache.org/",
-    "Update": "2023-03-11 11:02:27",
-    "Size": "382.05 MB",
-    "More": "开发环境、工具平台和应用程序框架。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f647c620-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f66c8c30-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f65a15a0-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f67f29d0-bfb8-11ed-9b62-5f2349990689.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/11/bd7fcb30-bfb8-11ed-9b62-5f2349990689.png"
 }
 ,
 {
@@ -1688,23 +1688,6 @@
 }
 ,
 {
-    "Name": "turbowarp",
-    "Version": "1.11.0~beta.6",
-    "Filename": "turbowarp-desktop_1.11.0~beta.6_amd64.deb",
-    "Torrent_address": "turbowarp-desktop_1.11.0~beta.6_amd64.deb.torrent",
-    "Pkgname": "turbowarp-desktop",
-    "Author": "Thomas Weber <contact@turbowarp.org>",
-    "Contributor": "he",
-    "Website": "https://desktop.turbowarp.org/",
-    "Update": "2024-04-05 15:04:31",
-    "Size": "116.49 MB",
-    "More": "TurboWarp 是一款 Scratch高级编辑器，其中包含一个可更快运行项目的编译器、一个保护眼睛的暗色模式、一堆可改进编辑器的附加组件等。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/1f663da5df5f46d787cdf4e019cb891c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/9d4809c70b7d402e8b73ea3b63f0b493.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/0f550c10188c45d298395c7a671b1ad3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/7b90057b081843c0b31b7eaaabc8f521.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/c47451cc63c6487fb7f7ca56909a82a8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/05/0aecbba12db04d92a67c10f20dbcaf2a.png"
-}
-,
-{
     "Name": "finalshell-2024年更新版",
     "Version": "4.3.10",
     "Filename": "finalshell_4.3.10_amd64.deb",
@@ -1719,6 +1702,23 @@
     "Tags": "deepin;ubuntu;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/8bf86c80-0377-11ef-ab63-e103c5305d10.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/6933f8e0-0377-11ef-ab63-e103c5305d10.desktop"
+}
+,
+{
+    "Name": "turbowarp",
+    "Version": "1.11.0~beta.6",
+    "Filename": "turbowarp-desktop_1.11.0~beta.6_amd64.deb",
+    "Torrent_address": "turbowarp-desktop_1.11.0~beta.6_amd64.deb.torrent",
+    "Pkgname": "turbowarp-desktop",
+    "Author": "Thomas Weber <contact@turbowarp.org>",
+    "Contributor": "he",
+    "Website": "https://desktop.turbowarp.org/",
+    "Update": "2024-04-05 15:04:31",
+    "Size": "116.49 MB",
+    "More": "TurboWarp 是一款 Scratch高级编辑器，其中包含一个可更快运行项目的编译器、一个保护眼睛的暗色模式、一堆可改进编辑器的附加组件等。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/1f663da5df5f46d787cdf4e019cb891c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/9d4809c70b7d402e8b73ea3b63f0b493.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/0f550c10188c45d298395c7a671b1ad3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/7b90057b081843c0b31b7eaaabc8f521.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/c47451cc63c6487fb7f7ca56909a82a8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/05/0aecbba12db04d92a67c10f20dbcaf2a.png"
 }
 ,
 {
@@ -1789,23 +1789,6 @@
 }
 ,
 {
-    "Name": "Kylin Code",
-    "Version": "0.1.2-1688091648",
-    "Filename": "kylin-code_0.1.2-1688091648_amd64.deb",
-    "Torrent_address": "kylin-code_0.1.2-1688091648_amd64.deb.torrent",
-    "Pkgname": "kylin-code",
-    "Author": "KylinIdeTeam https://gitee.com/openkylin/kylin-code/contributors?ref=master",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gitee.com/openkylin/kylin-code",
-    "Update": "2023-07-06 14:22:41",
-    "Size": "80.86 MB",
-    "More": "kylin-code fork 自 Code OSS 项目，集成了一些 openKylin 的特色插件以及 openvsx 插件商店。致力于为 openKylin 社区提供集程序编辑、编译、调试、发布、分析等全套开发流程的编程环境，后续将支持C、C++、Java、Go多种等编程语言，以满足 openKylin 平台上的软件开发需求。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/06/83c9a2b8917b4b21b3030bcb96f5a8d3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/06/a58f04246a674ea18a323c06dcf89e85.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/06/616da2790340496fa360ab5e0cd0e870.png"
-}
-,
-{
     "Name": "quardCRT",
     "Version": "0.46",
     "Filename": "quardcrt_0.46_amd64.deb",
@@ -1820,6 +1803,23 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/083c41d528b94b74bbe88b02b5c762c2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/80efa5772d074711bd37fad1cc4f1870.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/e037050630fd45808e455309f8d59fb7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/4520a1b647994db28e33af9f0b12a14b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/33b0de7fe3a04975852b9b75a5ca9699.png"
+}
+,
+{
+    "Name": "Kylin Code",
+    "Version": "0.1.2-1688091648",
+    "Filename": "kylin-code_0.1.2-1688091648_amd64.deb",
+    "Torrent_address": "kylin-code_0.1.2-1688091648_amd64.deb.torrent",
+    "Pkgname": "kylin-code",
+    "Author": "KylinIdeTeam https://gitee.com/openkylin/kylin-code/contributors?ref=master",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gitee.com/openkylin/kylin-code",
+    "Update": "2023-07-06 14:22:41",
+    "Size": "80.86 MB",
+    "More": "kylin-code fork 自 Code OSS 项目，集成了一些 openKylin 的特色插件以及 openvsx 插件商店。致力于为 openKylin 社区提供集程序编辑、编译、调试、发布、分析等全套开发流程的编程环境，后续将支持C、C++、Java、Go多种等编程语言，以满足 openKylin 平台上的软件开发需求。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/06/83c9a2b8917b4b21b3030bcb96f5a8d3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/06/a58f04246a674ea18a323c06dcf89e85.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/06/616da2790340496fa360ab5e0cd0e870.png"
 }
 ,
 {
@@ -2408,6 +2408,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/19/d722996b-ee34-4f59-84c3-55186b7cd490.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/19/f1b35f59-8a7c-4ae9-810e-156982eb0218.png"
+}
+,
+{
+    "Name": "myled",
+    "Version": "2024.06.02",
+    "Filename": "myled_2024.06.02_amd64.deb",
+    "Torrent_address": "myled_2024.06.02_amd64.deb.torrent",
+    "Pkgname": "myled",
+    "Author": "Eric <gasensor@sina.com>",
+    "Contributor": "Eric <gasensor@sina.com>",
+    "Website": "www.gasensor.net",
+    "Update": "2024-06-04 03:23:07",
+    "Size": "1.92 MB",
+    "More": "数码管段码生成器",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/04/7eed6c40-21de-11ef-99bd-d9f30b93d9e4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/04/6415eeb0-21de-11ef-99bd-d9f30b93d9e4.png"
 }
 ,
 {

@@ -1,19 +1,19 @@
 [
 {
     "Name": "Microsoft Edge",
-    "Version": "123.0.2420.81-1",
-    "Filename": "microsoft-edge-stable_123.0.2420.81-1_amd64.deb",
-    "Torrent_address": "microsoft-edge-stable_123.0.2420.81-1_amd64.deb.torrent",
+    "Version": "125.0.2535.79-1",
+    "Filename": "microsoft-edge-stable_125.0.2535.79-1_amd64.deb",
+    "Torrent_address": "microsoft-edge-stable_125.0.2535.79-1_amd64.deb.torrent",
     "Pkgname": "microsoft-edge-stable",
     "Author": "Microsoft Edge for Linux Team <EdgeLinuxDev@microsoft.com>",
-    "Contributor": "microsoft",
+    "Contributor": "Microsoft Edge for Linux Team <EdgeLinuxDev@microsoft.com>",
     "Website": "https://www.microsoft.com/zh-cn/edge",
-    "Update": "2024-04-12 15:14:08",
-    "Size": "158.86 MB",
+    "Update": "2024-06-03 22:08:45",
+    "Size": "160.09 MB",
     "More": "Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.\n翻译：\nMicrosoft Edge 是一款将简约设计与先进技术相结合的浏览器，使网络更快、更安全、更轻松。",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/4d76a774c5884c48a81a56046c319419.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/5cd7f816614948d3a367998a77f04586.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/f0faa6709a2847dcbd2308b90cb28cb2.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/b8bfaff4a69f4364b5b7557cc30c4059.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/f6c071749fbd4d599ab45b1be75193b6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/03/1660722f618b4dd6a37bd2fffb3b7cd8.png"
 }
 ,
 {
@@ -205,22 +205,21 @@
 }
 ,
 {
+    "Name": "Clash Verge",
+    "Version": "1.6.5",
+    "Filename": "clash-verge_1.6.5_amd64.deb",
+    "Torrent_address": "clash-verge_1.6.5_amd64.deb.torrent",
+    "Pkgname": "clash-verge",
     "Author": "zzzgydi, wonfen, MystiPanda",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "clash-verge_1.6.4_amd64.deb",
-    "More": "A Clash Meta GUI based on tauri.\nClash Verge的新维护者版本,支持Linux发行版下开启系统代理",
-    "Name": "Clash Verge",
-    "Pkgname": "clash-verge",
-    "Size": "43 Mb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "clash-verge_1.6.4_amd64.deb.torrent",
-    "Update": "2024-06-02 22:33:26",
-    "Version": "1.6.4",
     "Website": "https://clash-verge-rev.github.io/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/clash-verge/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/clash-verge/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/clash-verge/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/clash-verge/screen_3.png\"]"
+    "Update": "2024-06-04 22:38:14",
+    "Size": "42.95 MB",
+    "More": "A Clash Meta GUI based on tauri.\nClash Verge的新维护者版本,支持Linux发行版下开启系统代理",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/04/b5a96a095ec340629275306c1a3d30f5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/04/7053e1fe86184e1ea5c7a4f17dc13b89.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/04/c7fec335724f47b3bac77f241fd28eef.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/04/06d90c8c26bd466da7c031b67fbf5022.png"
 }
-
 ,
 {
     "Name": "Tor 浏览器",
@@ -291,20 +290,6 @@
 }
 ,
 {
-   "Name":"XDM",
-   "Version":"7.2.11",
-   "Filename":"xtreme-download-manager_7.2.11_amd64.deb",
-   "Pkgname":"xtreme-download-manager",
-   "Author":" ",
-   "Contributor":"sgb76",
-   "Website":"https://subhra74.github.io/xdm/",
-   "Update":"2020-08-17 19:08",
-   "Size":"50.46MB",
-   "More":"一款强大的下载加速器和视频下载器"
-}
-
-,
-{
     "Name": "网易邮箱大师（Linux）",
     "Version": "5.0.2.1011",
     "Filename": "mailmaster_5.0.2.1011_amd64.deb",
@@ -320,6 +305,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/ce925ab768b24129b8a53042e58fa39e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/3ee1b3f5b93e4040afb442b3c5c19bfa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/521981003e154640bb1e0a39931c049d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/20/e2430b72d33b403a8053aa4b2ad5d249.png"
 }
+,
+{
+   "Name":"XDM",
+   "Version":"7.2.11",
+   "Filename":"xtreme-download-manager_7.2.11_amd64.deb",
+   "Pkgname":"xtreme-download-manager",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://subhra74.github.io/xdm/",
+   "Update":"2020-08-17 19:08",
+   "Size":"50.46MB",
+   "More":"一款强大的下载加速器和视频下载器"
+}
+
 ,
 {
     "Name": "迅雷极速版",
@@ -344,17 +343,16 @@
     "Filename": "xbyyunpan_3.13.5_amd64.deb",
     "Torrent_address": "xbyyunpan_3.13.5_amd64.deb.torrent",
     "Pkgname": "xbyyunpan",
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo<shenmo@spark-app.store>",
+    "Author": "gavingaozhangmin <gaozhangmin@gmail.com>",
+    "Contributor": "gavingaozhangmin <gaozhangmin@gmail.com>",
     "Website": "https://github.com/gaozhangmin/aliyunpan",
-    "Update": "2024-06-03 14:29:51",
-    "Size": "84M",
+    "Update": "2024-06-03 22:16:54",
+    "Size": "83.83 MB",
     "More": "修复版小白羊云盘\n基于阿里云盘网页版开发的第三方Linux客户端(超好用)。\n***关于安装后应用没有图标问题：\n0.打开终端，依次输入以下命令：\n1.sudo gedit /usr/share/applications/xbyyunpan.desktop\n(deepin和uos需要将gedit换为vim，vim用法请自行百度\n2.将“Icon=xbyyunpan”一行改为\n“Icon=/opt/小白羊云盘/resources/images/icon_256x256.png”\n3.保存退出",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_5.png\"]",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/icon.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/6ffd0e16d96846c6aa99c37588a66c0d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/bf3ba2b5bca440d892afe20e3a502a08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/8e851d2961644d4ba1c5e2cd4f1fda14.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/1d2b3f9ce4d740ea8d509d347246da1d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/c8589c3ed82f4b0e92dd72aca1e4b678.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/03/9869ae3f054f4adc85f6ef75d3adf574.png"
 }
-
 ,
 {
     "Name": "qBittorrent",
@@ -477,6 +475,22 @@
 }
 ,
 {
+    "Name": "天翼云盘(Linux版)",
+    "Version": "1.1.0-1_plus_a1",
+    "Filename": "com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb",
+    "Pkgname": "com.cloud.21cn",
+    "Author": "21CN Corporation Limited",
+    "Contributor": "fredoong",
+    "Website": "https://cloud.189.cn/",
+    "Update": "2021-07-06 06:06:28",
+    "Size": "55.56 MB",
+    "More": "A project of Tianyi Cloud Disk\n天翼云盘Linux版",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/06/26bc07e0-dddd-11eb-a494-017e838ccdaa.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/06/1c52a020-dddd-11eb-a494-017e838ccdaa.png"
+}
+,
+{
     "Name": "网易邮箱大师(wine)",
     "Version": "5.0.9.1015",
     "Filename": "com.163.dashi.mailmaster.spark_5.0.9.1015_all.deb",
@@ -491,22 +505,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/97ac45d306bf4abaac2e82ced9bc72fd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/1b087d1b85ab4f14a498081adbb45039.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/1943e27afb594baeab615d81baa22646.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/30/2b31c37cd9dc4698a908bedc38387810.png"
-}
-,
-{
-    "Name": "天翼云盘(Linux版)",
-    "Version": "1.1.0-1_plus_a1",
-    "Filename": "com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb",
-    "Pkgname": "com.cloud.21cn",
-    "Author": "21CN Corporation Limited",
-    "Contributor": "fredoong",
-    "Website": "https://cloud.189.cn/",
-    "Update": "2021-07-06 06:06:28",
-    "Size": "55.56 MB",
-    "More": "A project of Tianyi Cloud Disk\n天翼云盘Linux版",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/06/26bc07e0-dddd-11eb-a494-017e838ccdaa.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/06/1c52a020-dddd-11eb-a494-017e838ccdaa.png"
 }
 ,
 {
@@ -898,23 +896,6 @@
 }
 ,
 {
-    "Name": "奇安信浏览器 1.0.1365.3-1（带 Flash）",
-    "Version": "1.0.1365.3-1",
-    "Filename": "com.qianxin.browser-stable-1.0.1365.3-1_1.0.1365.3-1_amd64.deb",
-    "Torrent_address": "com.qianxin.browser-stable-1.0.1365.3-1_1.0.1365.3-1_amd64.deb.torrent",
-    "Pkgname": "com.qianxin.browser-stable-1.0.1365.3-1",
-    "Author": "Qaxbrowser Team <qaxbrowser@qianxin.com>",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://www.qianxin.com/",
-    "Update": "2023-01-19 22:36:06",
-    "Size": "61.78 MB",
-    "More": "奇安信可信浏览器\n 奇安信可信浏览器是基于Blink内核，专为政企定制的安全浏览器产品。简便快捷、兼容性高，满足政企互联网安全接入需求，是政企上网办公首选。\n此版本有 Flash，已修改包名防止被官方应用商店的升级到无 Flash 版本\n与官方应用商店和星火应用商店的奇安信浏览器基础版冲突",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/19/953761721f1a44d4826165de612ecbc8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/19/7d7cff45df9a45eda0ca5a9ab5cf6e98.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/19/7f716509db8a4b379c0b2589b1eb04d9.png"
-}
-,
-{
     "Name": "Google Chrome 开发者版",
     "Version": "124.0.6342.3-1",
     "Filename": "google-chrome-unstable_124.0.6342.3-1_amd64.deb",
@@ -929,6 +910,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/925f44f2e7e449f7b610d91a7ca8d0db.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/10/512bdbf92b024712b8b19aa9310d2cb7.png"
+}
+,
+{
+    "Name": "奇安信浏览器 1.0.1365.3-1（带 Flash）",
+    "Version": "1.0.1365.3-1",
+    "Filename": "com.qianxin.browser-stable-1.0.1365.3-1_1.0.1365.3-1_amd64.deb",
+    "Torrent_address": "com.qianxin.browser-stable-1.0.1365.3-1_1.0.1365.3-1_amd64.deb.torrent",
+    "Pkgname": "com.qianxin.browser-stable-1.0.1365.3-1",
+    "Author": "Qaxbrowser Team <qaxbrowser@qianxin.com>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://www.qianxin.com/",
+    "Update": "2023-01-19 22:36:06",
+    "Size": "61.78 MB",
+    "More": "奇安信可信浏览器\n 奇安信可信浏览器是基于Blink内核，专为政企定制的安全浏览器产品。简便快捷、兼容性高，满足政企互联网安全接入需求，是政企上网办公首选。\n此版本有 Flash，已修改包名防止被官方应用商店的升级到无 Flash 版本\n与官方应用商店和星火应用商店的奇安信浏览器基础版冲突",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/19/953761721f1a44d4826165de612ecbc8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/19/7d7cff45df9a45eda0ca5a9ab5cf6e98.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/19/7f716509db8a4b379c0b2589b1eb04d9.png"
 }
 ,
 {
@@ -1246,22 +1244,6 @@
 }
 ,
 {
-    "Name": "Yandex浏览器",
-    "Version": "21.3.3.1195-1",
-    "Filename": "yandex-browser-beta_21.3.3.1195-1_amd64.deb",
-    "Pkgname": "yandex-browser-beta",
-    "Author": "Yandex",
-    "Contributor": "Yandex",
-    "Website": "www.yandex.com",
-    "Update": "2021-05-22 20:52:10",
-    "Size": "93.01 MB",
-    "More": "一个非常漂亮的浏览器～",
-    "Tags": "uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/22/732128d0-bafc-11eb-95ff-5bfa1a237cf6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/22/1261b410-bafc-11eb-95ff-5bfa1a237cf6.jpeg"
-}
-,
-{
     "Name": "360企业安全浏览器",
     "Version": "10.5.2002.473-1",
     "Filename": "browser360ent-cn-stable_10.5.2002.473-1_amd64.deb",
@@ -1276,6 +1258,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/e6ff1dc787304065b8a373dcffae87ab.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/73cb9b3ec66d4daa95f9fae36593c012.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/1ad86b5503cf4ef3872b82718189de32.png"
+}
+,
+{
+    "Name": "Yandex浏览器",
+    "Version": "21.3.3.1195-1",
+    "Filename": "yandex-browser-beta_21.3.3.1195-1_amd64.deb",
+    "Pkgname": "yandex-browser-beta",
+    "Author": "Yandex",
+    "Contributor": "Yandex",
+    "Website": "www.yandex.com",
+    "Update": "2021-05-22 20:52:10",
+    "Size": "93.01 MB",
+    "More": "一个非常漂亮的浏览器～",
+    "Tags": "uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/22/732128d0-bafc-11eb-95ff-5bfa1a237cf6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/22/1261b410-bafc-11eb-95ff-5bfa1a237cf6.jpeg"
 }
 ,
 {
@@ -1593,23 +1591,6 @@
 }
 ,
 {
-    "Name": "Internet Download Manager（IDM）（Wine）",
-    "Version": "6.42",
-    "Filename": "com.idm.spark_6.42_all.deb",
-    "Torrent_address": "com.idm.spark_6.42_all.deb.torrent",
-    "Pkgname": "com.idm.spark",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.internetdownloadmanager.com/",
-    "Update": "2024-04-27 10:59:51",
-    "Size": "31.53 MB",
-    "More": "提升下载速度并有续传功能的下载工具。可以恢复因为断线、网络问题、计算机当机甚至无预警的停电导致下传到一半的软件。此程序具有动态档案分割、多重下载点技术，而且它会重复使用现有的联机，而不需再重新联机登入一遍。聪明的in-speed技术会动态地将所有设定应用到某种联机类型，以充分利用下载速度。支持下载队列、防火墙、代理服务器和映摄服务器、重新导向、cookies、需要验证的目录，以及各种不同的服务器平台。此程序紧密地与任何浏览器结合，自动地处理你的下载需求。此程序还具有下载逻辑化功能、检查病毒，以及多种偏好设定。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/8da80a4f6389437399b734b10eebb56f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/b5c164cfb2d64bb4ababf896c417f933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/de699bb572b2487a8bc2502aed6426da.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/27/e0f739bbd02a41079a34bfcc01df547d.png"
-}
-,
-{
     "Name": "Clash Nyanpasu～(∠・ω< )⌒☆​ ",
     "Version": "1.5.1",
     "Filename": "clash-nyanpasu_1.5.1_amd64.deb",
@@ -1624,6 +1605,23 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/e7122150-f8dd-11ee-94b3-3598cf0b4d68.gif\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/d8f3eef0-f8dd-11ee-94b3-3598cf0b4d68.png"
+}
+,
+{
+    "Name": "Internet Download Manager（IDM）（Wine）",
+    "Version": "6.42",
+    "Filename": "com.idm.spark_6.42_all.deb",
+    "Torrent_address": "com.idm.spark_6.42_all.deb.torrent",
+    "Pkgname": "com.idm.spark",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.internetdownloadmanager.com/",
+    "Update": "2024-04-27 10:59:51",
+    "Size": "31.53 MB",
+    "More": "提升下载速度并有续传功能的下载工具。可以恢复因为断线、网络问题、计算机当机甚至无预警的停电导致下传到一半的软件。此程序具有动态档案分割、多重下载点技术，而且它会重复使用现有的联机，而不需再重新联机登入一遍。聪明的in-speed技术会动态地将所有设定应用到某种联机类型，以充分利用下载速度。支持下载队列、防火墙、代理服务器和映摄服务器、重新导向、cookies、需要验证的目录，以及各种不同的服务器平台。此程序紧密地与任何浏览器结合，自动地处理你的下载需求。此程序还具有下载逻辑化功能、检查病毒，以及多种偏好设定。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/8da80a4f6389437399b734b10eebb56f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/b5c164cfb2d64bb4ababf896c417f933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/de699bb572b2487a8bc2502aed6426da.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/27/e0f739bbd02a41079a34bfcc01df547d.png"
 }
 ,
 {
@@ -1842,22 +1840,6 @@
 }
 ,
 {
-    "Name": "摸鱼股票球",
-    "Version": "0.3.0",
-    "Filename": "findfish-stockball_0.3.0_amd64.deb",
-    "Pkgname": "findfish-stockball",
-    "Author": "depend",
-    "Contributor": "depend",
-    "Website": "https://github.com/dependon/Stock-Ball",
-    "Update": "2022-03-16 10:04:52",
-    "Size": "120.11 KB",
-    "More": "上班摸鱼用，实时查看股票情况",
-    "Tags": "deepin;uos;ubuntu;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/16/70beb4c0-a4cd-11ec-b6f1-21d05ca1ff21.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/16/70bf7810-a4cd-11ec-b6f1-21d05ca1ff21.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/16/6d97d240-a4cd-11ec-b6f1-21d05ca1ff21.png"
-}
-,
-{
     "Name": "Thorium 浏览器",
     "Version": "122.0.6261.132-1",
     "Filename": "thorium-browser_122.0.6261.132-1_amd64.deb",
@@ -1872,6 +1854,22 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/08723f6d3bef48d5a8845a9e6911b372.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/31452c605637485f86633664ee842ef3.png"
+}
+,
+{
+    "Name": "摸鱼股票球",
+    "Version": "0.3.0",
+    "Filename": "findfish-stockball_0.3.0_amd64.deb",
+    "Pkgname": "findfish-stockball",
+    "Author": "depend",
+    "Contributor": "depend",
+    "Website": "https://github.com/dependon/Stock-Ball",
+    "Update": "2022-03-16 10:04:52",
+    "Size": "120.11 KB",
+    "More": "上班摸鱼用，实时查看股票情况",
+    "Tags": "deepin;uos;ubuntu;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/16/70beb4c0-a4cd-11ec-b6f1-21d05ca1ff21.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/16/70bf7810-a4cd-11ec-b6f1-21d05ca1ff21.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/16/6d97d240-a4cd-11ec-b6f1-21d05ca1ff21.png"
 }
 ,
 {
@@ -2410,23 +2408,6 @@
 }
 ,
 {
-    "Name": "ODE 多功能助手",
-    "Version": "0.7.0deepin0",
-    "Filename": "com.ode.deepin_0.7.0deepin0_amd64.deb",
-    "Torrent_address": "com.ode.deepin_0.7.0deepin0_amd64.deb.torrent",
-    "Pkgname": "com.ode.deepin",
-    "Author": "蚂蚁爱生活",
-    "Contributor": "wang",
-    "Website": "https://www.123pan.com/s/qEbeVv-Zh663.html",
-    "Update": "2024-05-22 23:08:00",
-    "Size": "134.74 MB",
-    "More": "这是一款电脑端下载工具，其实它的主要功能是链接下载，和迅雷、idm是一样类型的下载软件，支持链接下载和网盘链接解析下载。如遇启动白板请重启电脑。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/be694ac0-184b-11ef-95c3-1f03db4e195c.PNG\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/be83d7a0-184b-11ef-95c3-1f03db4e195c.PNG\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/be9bcc70-184b-11ef-95c3-1f03db4e195c.PNG\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/beb5bd10-184b-11ef-95c3-1f03db4e195c.PNG\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/b57fcc40-184b-11ef-95c3-1f03db4e195c.png"
-}
-,
-{
     "Name": "网易灵犀办公",
     "Version": "1.38.3",
     "Filename": "sirius-desktop_1.38.3_amd64.deb",
@@ -2441,6 +2422,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9b83590c8e46468ba20d81e7d3dcf887.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/595847b04c0f4978963d787dd47d8f57.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/e04282b0345a4859a3b3ba8e5a2e0f85.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/21/f51f8faa6b7b408fb660872d3d3e779d.png"
+}
+,
+{
+    "Name": "ODE 多功能助手",
+    "Version": "0.7.0deepin0",
+    "Filename": "com.ode.deepin_0.7.0deepin0_amd64.deb",
+    "Torrent_address": "com.ode.deepin_0.7.0deepin0_amd64.deb.torrent",
+    "Pkgname": "com.ode.deepin",
+    "Author": "蚂蚁爱生活",
+    "Contributor": "wang",
+    "Website": "https://www.123pan.com/s/qEbeVv-Zh663.html",
+    "Update": "2024-05-22 23:08:00",
+    "Size": "134.74 MB",
+    "More": "这是一款电脑端下载工具，其实它的主要功能是链接下载，和迅雷、idm是一样类型的下载软件，支持链接下载和网盘链接解析下载。如遇启动白板请重启电脑。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/be694ac0-184b-11ef-95c3-1f03db4e195c.PNG\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/be83d7a0-184b-11ef-95c3-1f03db4e195c.PNG\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/be9bcc70-184b-11ef-95c3-1f03db4e195c.PNG\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/beb5bd10-184b-11ef-95c3-1f03db4e195c.PNG\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/b57fcc40-184b-11ef-95c3-1f03db4e195c.png"
 }
 ,
 {
@@ -2492,6 +2490,23 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/76f975593fa64114944c0d15bb37c439.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/fcd7bd1efccf47d096899ed9eb68019d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/799c32d36e5c4d12af9994133c82f06f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/30/39c35facca4c4456ab7f2e4efbd2f6ab.png"
+}
+,
+{
+    "Name": "Pixso",
+    "Version": "1.34.1.0deepin0",
+    "Filename": "cn.pixso.deepin_1.34.1.0deepin0_all.deb",
+    "Torrent_address": "cn.pixso.deepin_1.34.1.0deepin0_all.deb.torrent",
+    "Pkgname": "cn.pixso.deepin",
+    "Author": "wang",
+    "Contributor": "wang",
+    "Website": "https://pixso.cn/",
+    "Update": "2024-06-03 21:03:26",
+    "Size": "153.13 MB",
+    "More": "pixso是一体化设计协作工具,助力产研设团队制作原型,ui/ux设计,视觉设计,低代码交付时获得更轻松流畅的工作体验,让团队协作更高效。支持sketch,figma格式。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/7a0bafbe06614fbcbf06fdff6b0ce383.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/4e021c1100e042ffbc569ebe3be505af.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/53c5ba918ec34951856cb0efcf25c5fe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/19eff2add87d4587aa32e377dc26d280.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/03/4c6b0778b67940ff90c7a85db23a5453.png"
 }
 ,
 {
@@ -2578,22 +2593,5 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/8b43129c3fd846f685fea3bb078a3f83.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/30/9c14e513113547e6b5bb90979fcfb70d.png"
-}
-,
-{
-    "Name": "Pixso",
-    "Version": "1.34.1.0deepin0",
-    "Filename": "cn.pixso.deepin_1.34.1.0deepin0_all.deb",
-    "Torrent_address": "cn.pixso.deepin_1.34.1.0deepin0_all.deb.torrent",
-    "Pkgname": "cn.pixso.deepin",
-    "Author": "wang",
-    "Contributor": "wang",
-    "Website": "https://pixso.cn/",
-    "Update": "2024-06-03 21:03:26",
-    "Size": "153.13 MB",
-    "More": "pixso是一体化设计协作工具,助力产研设团队制作原型,ui/ux设计,视觉设计,低代码交付时获得更轻松流畅的工作体验,让团队协作更高效。支持sketch,figma格式。",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/7a0bafbe06614fbcbf06fdff6b0ce383.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/4e021c1100e042ffbc569ebe3be505af.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/53c5ba918ec34951856cb0efcf25c5fe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/19eff2add87d4587aa32e377dc26d280.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/03/4c6b0778b67940ff90c7a85db23a5453.png"
 }
 ]

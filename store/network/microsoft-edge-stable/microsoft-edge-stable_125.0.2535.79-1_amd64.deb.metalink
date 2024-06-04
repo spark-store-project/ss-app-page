@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="microsoft-edge-stable_125.0.2535.79-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">6bdbc8489db622fcaf371817b3037244</hash>
+				  
+				<hash type="sha1">08b939435f9d7e6746298c0d16402999fb4560fb</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/network/microsoft-edge-stable/microsoft-edge-stable_125.0.2535.79-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/microsoft-edge-stable/microsoft-edge-stable_125.0.2535.79-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/microsoft-edge-stable/microsoft-edge-stable_125.0.2535.79-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/microsoft-edge-stable/microsoft-edge-stable_125.0.2535.79-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/network/microsoft-edge-stable/microsoft-edge-stable_125.0.2535.79-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/network/microsoft-edge-stable/microsoft-edge-stable_125.0.2535.79-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

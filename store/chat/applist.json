@@ -1007,23 +1007,6 @@
 }
 ,
 {
-    "Name": "野火IM",
-    "Version": "0.6.4",
-    "Filename": "cn.wildfirechat.pcclient_0.6.4_amd64.deb",
-    "Torrent_address": "cn.wildfirechat.pcclient_0.6.4_amd64.deb.torrent",
-    "Pkgname": "cn.wildfirechat.pcclient",
-    "Author": "imndx <imndxx@wildirechat.cn>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://wildfirechat.cn",
-    "Update": "2023-05-30 22:22:10",
-    "Size": "66.66 MB",
-    "More": "安全可靠的政企沟通平台，支持手机端、网页端和电脑端同时在线，支持国产化系统。支持聊天、音视频通话和会议功能。源码开源率高，方便二开和系统对接。可以纯内网私有部署，不依赖第三方服务。私有部署请微信联系wildfirechat或者wfchat。",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/8b29bc8b3069455a85d19da6196db1bb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/dc7fbb5fe509470c995ce4b496a5d190.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/5d4d79f8e7ed4bd0928afbdc957b606f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/30/6c17a454816b4d6da7e6e7675b18c4d8.png"
-}
-,
-{
     "Author": "shenmo",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "discord-web_1.0_amd64.deb",
@@ -1040,4 +1023,21 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/chat/discord-web/screen_1.png\"]"
 }
 
+,
+{
+    "Name": "野火IM",
+    "Version": "0.6.4",
+    "Filename": "cn.wildfirechat.pcclient_0.6.4_amd64.deb",
+    "Torrent_address": "cn.wildfirechat.pcclient_0.6.4_amd64.deb.torrent",
+    "Pkgname": "cn.wildfirechat.pcclient",
+    "Author": "imndx <imndxx@wildirechat.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://wildfirechat.cn",
+    "Update": "2023-05-30 22:22:10",
+    "Size": "66.66 MB",
+    "More": "安全可靠的政企沟通平台，支持手机端、网页端和电脑端同时在线，支持国产化系统。支持聊天、音视频通话和会议功能。源码开源率高，方便二开和系统对接。可以纯内网私有部署，不依赖第三方服务。私有部署请微信联系wildfirechat或者wfchat。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/8b29bc8b3069455a85d19da6196db1bb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/dc7fbb5fe509470c995ce4b496a5d190.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/5d4d79f8e7ed4bd0928afbdc957b606f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/30/6c17a454816b4d6da7e6e7675b18c4d8.png"
+}
 ]

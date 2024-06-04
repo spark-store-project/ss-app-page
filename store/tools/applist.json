@@ -636,22 +636,6 @@
 
 ,
 {
-    "Name": "桌面快捷方式编辑器",
-    "Version": "1.4.5+1",
-    "Filename": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.5_plus_1_amd64.deb",
-    "Pkgname": "com.gitee.deepin-opensource.desktop-entry-editor",
-    "Author": "linuxdeepin / zty199",
-    "Contributor": "zty199",
-    "Website": "https://gitee.com/deepin-opensource/desktop-entry-editor",
-    "Update": "2021-04-19 03:26:08",
-    "Size": "71.16 KB",
-    "More": "桌面快捷方式编辑器，帮助你快速创建桌面快捷方式，支持修改、另存为等基本文件操作。\n\n【更新日志】\nv1.4.5\n1. 重构部分代码，使用信号槽函数取代直接操作私有成员；\n2. 重新在 UOS 个人版 1030 系统中使用 Qt 5.11.3 进行编译，修复兼容性。",
-    "Tags": "community;deepin;uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a3938df0-a07b-11eb-82a7-f56bde74eca0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a5aeccd0-a07b-11eb-82a7-f56bde74eca0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a79a7030-a07b-11eb-82a7-f56bde74eca0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/19/9f9229f0-a07b-11eb-82a7-f56bde74eca0.png"
-}
-,
-{
     "Author": "DebuggerX <dx8913712@163.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.debuggerx.fcitx5-customizer_1.0.6_all.deb",
@@ -668,6 +652,22 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_4.png\"]"
 }
 
+,
+{
+    "Name": "桌面快捷方式编辑器",
+    "Version": "1.4.5+1",
+    "Filename": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.5_plus_1_amd64.deb",
+    "Pkgname": "com.gitee.deepin-opensource.desktop-entry-editor",
+    "Author": "linuxdeepin / zty199",
+    "Contributor": "zty199",
+    "Website": "https://gitee.com/deepin-opensource/desktop-entry-editor",
+    "Update": "2021-04-19 03:26:08",
+    "Size": "71.16 KB",
+    "More": "桌面快捷方式编辑器，帮助你快速创建桌面快捷方式，支持修改、另存为等基本文件操作。\n\n【更新日志】\nv1.4.5\n1. 重构部分代码，使用信号槽函数取代直接操作私有成员；\n2. 重新在 UOS 个人版 1030 系统中使用 Qt 5.11.3 进行编译，修复兼容性。",
+    "Tags": "community;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a3938df0-a07b-11eb-82a7-f56bde74eca0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a5aeccd0-a07b-11eb-82a7-f56bde74eca0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a79a7030-a07b-11eb-82a7-f56bde74eca0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/19/9f9229f0-a07b-11eb-82a7-f56bde74eca0.png"
+}
 ,
 {
     "Name": "WinRAR for deepin-wine",
@@ -1079,6 +1079,22 @@
 }
 ,
 {
+    "Name": "深度云打印配置助手",
+    "Version": "1.2.5.2-spark0",
+    "Filename": "spark-deepin-cloud-print_1.2.5.2-spark0_amd64.deb",
+    "Pkgname": "spark-deepin-cloud-print",
+    "Author": "linuxdeepin",
+    "Contributor": "shenmo",
+    "Website": "https://www.deepin.org/original/deepin-cloud-print/",
+    "Update": "2021-04-09 12:29:44",
+    "Size": "296.99 KB",
+    "More": "深度云打印是由深度科技团队开发的一种新型打印解决方案，它可以将您的打印机连接到网络，借助深度云打印，您可以通过日常使用的应用程序进行网络打印。同时深度云打印适用于台式机、笔记本电脑、部分平板电脑以及其他所有您已授权打印的联网设备。\n\n【安装提示】\n建议使用“星火内置安装器”安装",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/09/1e209e10-98ec-11eb-83e4-07d70af35066.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/09/20f62c40-98ec-11eb-83e4-07d70af35066.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/09/eaa6d270-98eb-11eb-83e4-07d70af35066.png"
+}
+,
+{
     "Name": "360终端安全防护系统",
     "Version": "10.0.0.6278",
     "Filename": "com.360.epp_10.0.0.6278_amd64.deb",
@@ -1093,22 +1109,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/8698c2967e4c46369da663bd7efddd38.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/bb5d2e19d4894aed9d261d3c537477c1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/91bdb04b8c95495e88d3f05fa8844e3d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/bbaf4add7cb34e548ab4ddf033e9f99d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/85e4a7dacacb433e988d183728a24040.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/dcd6a7557b104091b1b79da9a08852e8.png"
-}
-,
-{
-    "Name": "深度云打印配置助手",
-    "Version": "1.2.5.2-spark0",
-    "Filename": "spark-deepin-cloud-print_1.2.5.2-spark0_amd64.deb",
-    "Pkgname": "spark-deepin-cloud-print",
-    "Author": "linuxdeepin",
-    "Contributor": "shenmo",
-    "Website": "https://www.deepin.org/original/deepin-cloud-print/",
-    "Update": "2021-04-09 12:29:44",
-    "Size": "296.99 KB",
-    "More": "深度云打印是由深度科技团队开发的一种新型打印解决方案，它可以将您的打印机连接到网络，借助深度云打印，您可以通过日常使用的应用程序进行网络打印。同时深度云打印适用于台式机、笔记本电脑、部分平板电脑以及其他所有您已授权打印的联网设备。\n\n【安装提示】\n建议使用“星火内置安装器”安装",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/09/1e209e10-98ec-11eb-83e4-07d70af35066.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/09/20f62c40-98ec-11eb-83e4-07d70af35066.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/09/eaa6d270-98eb-11eb-83e4-07d70af35066.png"
 }
 ,
 {
@@ -1862,22 +1862,6 @@
 }
 ,
 {
-    "Name": "lfxNet",
-    "Version": "1.0.0-1",
-    "Filename": "lfxnet_1.0.0-1_amd64.deb",
-    "Pkgname": "lfxnet",
-    "Author": "偕臧<xmuli>",
-    "Contributor": "偕臧<xmuli>",
-    "Website": "https://xmuli.tech",
-    "Update": "2021-02-02 19:20:35",
-    "Size": "145.43 KB",
-    "More": "lfxNet 是一款轻量、快速的实时显示系统资源信息的应用程序, 是 dde-dock 的网速插件； 项目地址 https://github.com/xmuli/lfxNet",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/86733540-6548-11eb-a7d4-295ea2f68a3b.gif\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/868d25e0-6548-11eb-a7d4-295ea2f68a3b.gif\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/9a390190-6548-11eb-a7d4-295ea2f68a3b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/9a55ff70-6548-11eb-a7d4-295ea2f68a3b.gif\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/02/43a77230-6548-11eb-a7d4-295ea2f68a3b.png"
-}
-,
-{
     "Name": "设备网络搜索（密码重置）",
     "Version": "1.0",
     "Filename": "com.sadptool.spark_1.0_all.deb",
@@ -1892,6 +1876,22 @@
     "Tags": "uos;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/bd89b5baf28046beb88b69b9c594cf89.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/19fc190679384ca384141096be86513e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/3fa525465aab482aa74a96e651016077.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/08/0aa48cdde37746a38b1f179502d8891b.png"
+}
+,
+{
+    "Name": "lfxNet",
+    "Version": "1.0.0-1",
+    "Filename": "lfxnet_1.0.0-1_amd64.deb",
+    "Pkgname": "lfxnet",
+    "Author": "偕臧<xmuli>",
+    "Contributor": "偕臧<xmuli>",
+    "Website": "https://xmuli.tech",
+    "Update": "2021-02-02 19:20:35",
+    "Size": "145.43 KB",
+    "More": "lfxNet 是一款轻量、快速的实时显示系统资源信息的应用程序, 是 dde-dock 的网速插件； 项目地址 https://github.com/xmuli/lfxNet",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/86733540-6548-11eb-a7d4-295ea2f68a3b.gif\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/868d25e0-6548-11eb-a7d4-295ea2f68a3b.gif\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/9a390190-6548-11eb-a7d4-295ea2f68a3b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/9a55ff70-6548-11eb-a7d4-295ea2f68a3b.gif\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/02/43a77230-6548-11eb-a7d4-295ea2f68a3b.png"
 }
 ,
 {
@@ -2144,23 +2144,6 @@
 }
 ,
 {
-    "Name": "速享 局域网文件分享",
-    "Version": "1.3.1-1",
-    "Filename": "speed-share_1.3.1-1_amd64.deb",
-    "Torrent_address": "speed-share_1.3.1-1_amd64.deb.torrent",
-    "Pkgname": "speed-share",
-    "Author": "@Nightmare",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "http://nightmare.fun/YanTool/resources/SpeedShare/",
-    "Update": "2022-10-09 18:12:05",
-    "Size": "9.94 MB",
-    "More": "速享\n快速在全平台进行文件共享\n\n需要下载对应平台的客户端\n点击官网按钮下载\n\n这里有一个安卓版本的下载连接\n\nhttp://nightmare.fun/YanTool/resources/SpeedShare/",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/09/a99dfdfb-bb09-4c15-9239-85a09a955d35.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/09/3d6d9328-a381-4105-b046-5c96ae64218a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/09/03545a03-e7b1-4650-b708-c5ff785d61c4.png"
-}
-,
-{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "spark-dwine-helper_5.6.4.1-5.3.14_all.deb",
@@ -2177,6 +2160,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/screen_1.png\"]"
 }
 
+,
+{
+    "Name": "速享 局域网文件分享",
+    "Version": "1.3.1-1",
+    "Filename": "speed-share_1.3.1-1_amd64.deb",
+    "Torrent_address": "speed-share_1.3.1-1_amd64.deb.torrent",
+    "Pkgname": "speed-share",
+    "Author": "@Nightmare",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "http://nightmare.fun/YanTool/resources/SpeedShare/",
+    "Update": "2022-10-09 18:12:05",
+    "Size": "9.94 MB",
+    "More": "速享\n快速在全平台进行文件共享\n\n需要下载对应平台的客户端\n点击官网按钮下载\n\n这里有一个安卓版本的下载连接\n\nhttp://nightmare.fun/YanTool/resources/SpeedShare/",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/09/a99dfdfb-bb09-4c15-9239-85a09a955d35.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/09/3d6d9328-a381-4105-b046-5c96ae64218a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/09/03545a03-e7b1-4650-b708-c5ff785d61c4.png"
+}
 ,
 {
     "Name": "樱花助手",
@@ -2331,23 +2331,6 @@
 }
 ,
 {
-    "Name": "GitHub 访问加速包",
-    "Version": "0.0.1-20240206",
-    "Filename": "github-fast-access_0.0.1-20240206_all.deb",
-    "Torrent_address": "github-fast-access_0.0.1-20240206_all.deb.torrent",
-    "Pkgname": "github-fast-access",
-    "Author": "麻本法 <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface",
-    "Update": "2024-02-06 11:12:21",
-    "Size": "1.14 KB",
-    "More": "通过使用 iptables 进行 DNAT 操作将 ;即将要访问错误ip的流量导向正确的ip;\n .\n 安装时:\n iptables -t nat -A OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n 卸载时:\n iptables -t nat -D OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n Build for Deepin20.9 through spark-deb-build.",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/7cb23da7c5c84dd3a56fe99527159868.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/b08881f8c2ea4c859fb42422748a8370.png"
-}
-,
-{
     "Name": "系统传感器显示工具",
     "Version": "1.2-20240429",
     "Filename": "simple-sensor-monitor_1.2-20240429_amd64.deb",
@@ -2382,6 +2365,23 @@
 }
 ,
 {
+    "Name": "GitHub 访问加速包",
+    "Version": "0.0.1-20240206",
+    "Filename": "github-fast-access_0.0.1-20240206_all.deb",
+    "Torrent_address": "github-fast-access_0.0.1-20240206_all.deb.torrent",
+    "Pkgname": "github-fast-access",
+    "Author": "麻本法 <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface",
+    "Update": "2024-02-06 11:12:21",
+    "Size": "1.14 KB",
+    "More": "通过使用 iptables 进行 DNAT 操作将 ;即将要访问错误ip的流量导向正确的ip;\n .\n 安装时:\n iptables -t nat -A OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n 卸载时:\n iptables -t nat -D OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n Build for Deepin20.9 through spark-deb-build.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/7cb23da7c5c84dd3a56fe99527159868.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/b08881f8c2ea4c859fb42422748a8370.png"
+}
+,
+{
     "Name": "钉钉视频会议日志清理",
     "Version": "1.2.3-0.1",
     "Filename": "dinglivelogclean_1.2.3-0.1_all.deb",
@@ -2399,22 +2399,6 @@
 }
 ,
 {
-    "Name": "Komorebi",
-    "Version": "2.2.0-1",
-    "Filename": "komorebi_2.2.1-1_amd64.deb",
-    "Pkgname": "komorebi",
-    "Author": "Komorebi-Fork",
-    "Contributor": "anima",
-    "Website": "https://github.com/Komorebi-Fork/komorebi",
-    "Update": "2020-10-25 02:57:31",
-    "Size": "30.79 MB",
-    "More": "Komorebi - Animated Wallpapers for Linux",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/2356ceb0-166d-11eb-a815-b9186224f79a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/25/67e77340-166d-11eb-a815-b9186224f79a.png"
-}
-,
-{
     "Name": "QGIS(书虫版)",
     "Version": "3.32.1-fix1-cursor",
     "Filename": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb",
@@ -2429,6 +2413,22 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/0242916c1eca488e98137daf10193c4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/74a9c8eefd83424490112c7fd3e4c1f1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/20/cc2dabfeb636416fa76e62ba58a53540.png"
+}
+,
+{
+    "Name": "Komorebi",
+    "Version": "2.2.0-1",
+    "Filename": "komorebi_2.2.1-1_amd64.deb",
+    "Pkgname": "komorebi",
+    "Author": "Komorebi-Fork",
+    "Contributor": "anima",
+    "Website": "https://github.com/Komorebi-Fork/komorebi",
+    "Update": "2020-10-25 02:57:31",
+    "Size": "30.79 MB",
+    "More": "Komorebi - Animated Wallpapers for Linux",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/2356ceb0-166d-11eb-a815-b9186224f79a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/25/67e77340-166d-11eb-a815-b9186224f79a.png"
 }
 ,
 {
@@ -3168,6 +3168,23 @@
 }
 ,
 {
+    "Name": "CPU-Z（Wine）",
+    "Version": "2.09spark0",
+    "Filename": "com.cpuz.spark_2.09spark0_all.deb",
+    "Torrent_address": "com.cpuz.spark_2.09spark0_all.deb.torrent",
+    "Pkgname": "com.cpuz.spark",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.cpuid.com/",
+    "Update": "2024-04-26 22:50:38",
+    "Size": "6.22 MB",
+    "More": "免费的 CPU 信息检测软件。这些信息包括：CPU 名称、厂商、性能、当前电压、L1 L2 cache情况；内核进程；内部和外部时钟等，支持全系列的Intel以及AMD品牌的CPU。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
+}
+,
+{
     "Name": "通知中心天气小组件",
     "Version": "0.1-1",
     "Filename": "dde-widgets-weather-plugin_0.1-1_amd64.deb",
@@ -3199,23 +3216,6 @@
     "Tags": "community;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/31b6b713b891428dbf6cd1ac3b12376f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/e2801c76dcd24fe68f7118439cb073d7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/6e3b4b484adb44e19998b2f413b0a0f4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/08f655712b4441bbb59256f7e049c2c9.png"
-}
-,
-{
-    "Name": "CPU-Z（Wine）",
-    "Version": "2.09spark0",
-    "Filename": "com.cpuz.spark_2.09spark0_all.deb",
-    "Torrent_address": "com.cpuz.spark_2.09spark0_all.deb.torrent",
-    "Pkgname": "com.cpuz.spark",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.cpuid.com/",
-    "Update": "2024-04-26 22:50:38",
-    "Size": "6.22 MB",
-    "More": "免费的 CPU 信息检测软件。这些信息包括：CPU 名称、厂商、性能、当前电压、L1 L2 cache情况；内核进程；内部和外部时钟等，支持全系列的Intel以及AMD品牌的CPU。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
 }
 ,
 {
@@ -3354,6 +3354,23 @@
 }
 ,
 {
+    "Name": "文件加密",
+    "Version": "1.1",
+    "Filename": "mycrypto_1.1_amd64.deb",
+    "Torrent_address": "mycrypto_1.1_amd64.deb.torrent",
+    "Pkgname": "mycrypto",
+    "Author": "MMHMM <1982552008@qq.com>",
+    "Contributor": "MMHMM <1982552008@qq.com>",
+    "Website": "https://gitee.com/rocket049/mycrypto",
+    "Update": "2023-01-25 15:16:06",
+    "Size": "27.77 MB",
+    "More": "用 AES256 算法加密、解密文件，支持Linux、Windows。\nMyCrypto-QT用于加密、解密文件，主要用于网络传输文件时防止泄密。\n加密后的文件可以放心的存放到网盘上。\n加密后的文件可以放心的使用电子邮件、QQ、微信等社交工具发送给朋友。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/677526dfa5b643238b02e640023db9a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/f2ade5e5cb424665b2980dee7b91b263.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/dc6246ac4b514bbcad7c0f9f679daf8c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/cb30b899be3c4fadb2b2f17c7fd7aa03.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/bfe2060a802f4fa9b9ea12b732e32f85.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/25/e827631082be42118c35aeb111f45ad2.png"
+}
+,
+{
     "Name": "2345好压（Wine）",
     "Version": "6.4spark0",
     "Filename": "com.2345haoya.spark_6.4spark0_all.deb",
@@ -3371,20 +3388,20 @@
 }
 ,
 {
-    "Name": "文件加密",
-    "Version": "1.1",
-    "Filename": "mycrypto_1.1_amd64.deb",
-    "Torrent_address": "mycrypto_1.1_amd64.deb.torrent",
-    "Pkgname": "mycrypto",
-    "Author": "MMHMM <1982552008@qq.com>",
-    "Contributor": "MMHMM <1982552008@qq.com>",
-    "Website": "https://gitee.com/rocket049/mycrypto",
-    "Update": "2023-01-25 15:16:06",
-    "Size": "27.77 MB",
-    "More": "用 AES256 算法加密、解密文件，支持Linux、Windows。\nMyCrypto-QT用于加密、解密文件，主要用于网络传输文件时防止泄密。\n加密后的文件可以放心的存放到网盘上。\n加密后的文件可以放心的使用电子邮件、QQ、微信等社交工具发送给朋友。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/677526dfa5b643238b02e640023db9a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/f2ade5e5cb424665b2980dee7b91b263.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/dc6246ac4b514bbcad7c0f9f679daf8c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/cb30b899be3c4fadb2b2f17c7fd7aa03.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/bfe2060a802f4fa9b9ea12b732e32f85.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/25/e827631082be42118c35aeb111f45ad2.png"
+    "Name": "Termux（UEngine）",
+    "Version": "0.118.0",
+    "Filename": "uengine-dc-com.termux_0.118.0_all.deb",
+    "Torrent_address": "uengine-dc-com.termux_0.118.0_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.termux",
+    "Author": "Termux",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://github.com/termux/termux-app",
+    "Update": "2023-05-21 13:07:19",
+    "Size": "30.22 MB",
+    "More": "（你可以使用 UEngine 的 termux 整活/适配）\nTermux is an Android terminal application and Linux environment.\nNote that this repository is for the app itself (the user interface and the terminal emulation). For the packages installable inside the app, see termux/termux-packages.\nQuick how-to about Termux package management is available at Package Management. It also has info on how to fix repository is under maintenance or down errors when running apt or pkg commands.",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/0dd069f79b0840a8ab0885986221031a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/45cefc7283bc49b69d11a8360afec15d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/21/d3492f1d6bee4879a5c33c2b635ec43b.png"
 }
 ,
 {
@@ -3419,23 +3436,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/f9bb666ac4c94bcc885de2c8d55870b9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/52f30c5a409d412ea461d656ee5b5b80.png"
-}
-,
-{
-    "Name": "Termux（UEngine）",
-    "Version": "0.118.0",
-    "Filename": "uengine-dc-com.termux_0.118.0_all.deb",
-    "Torrent_address": "uengine-dc-com.termux_0.118.0_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.termux",
-    "Author": "Termux",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://github.com/termux/termux-app",
-    "Update": "2023-05-21 13:07:19",
-    "Size": "30.22 MB",
-    "More": "（你可以使用 UEngine 的 termux 整活/适配）\nTermux is an Android terminal application and Linux environment.\nNote that this repository is for the app itself (the user interface and the terminal emulation). For the packages installable inside the app, see termux/termux-packages.\nQuick how-to about Termux package management is available at Package Management. It also has info on how to fix repository is under maintenance or down errors when running apt or pkg commands.",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/0dd069f79b0840a8ab0885986221031a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/45cefc7283bc49b69d11a8360afec15d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/21/d3492f1d6bee4879a5c33c2b635ec43b.png"
 }
 ,
 {
@@ -4517,23 +4517,6 @@
 }
 ,
 {
-    "Name": "Advanced PassGen",
-    "Version": "2.4.0spark0",
-    "Filename": "com.codedead.advanced-passgen.spark_2.4.0spark0_amd64.deb",
-    "Torrent_address": "com.codedead.advanced-passgen.spark_2.4.0spark0_amd64.deb.torrent",
-    "Pkgname": "com.codedead.advanced-passgen.spark",
-    "Author": "CodeDead",
-    "Contributor": "sgb76",
-    "Website": "https://codedead.com/software/advanced-passgen",
-    "Update": "2023-03-08 21:19:32",
-    "Size": "55.56 MB",
-    "More": "一款可以快速、便捷生成密码，并对密码进行管理的开源免费工具\n\n说明：该应用适用于Ubuntu，deepin下测试无法运行",
-    "Tags": "ubuntu;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/7883f547bf204084b0e4ff1e2e8ffe33.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/b0048b8ee54a4c2ab046bce26ef24be1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/f541ab1caf754b1c86782f99312cdc2e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/08/5a167e64be0f4fe0aeaef2ef3790531f.png"
-}
-,
-{
     "Name": "GtkHash-哈希计算工具",
     "Version": "1.5-1",
     "Filename": "gtkhash_1.5-1_amd64.deb",
@@ -4548,6 +4531,23 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/3c0466ee8c894032932cf06b323aa9ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/b99da6009db640cdadd419b107f2627e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/fc0ed7cb39204a06b0ba8398ea2783a9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/04/d6506139cb2245688bd6f60bb7aacdbf.png"
+}
+,
+{
+    "Name": "Advanced PassGen",
+    "Version": "2.4.0spark0",
+    "Filename": "com.codedead.advanced-passgen.spark_2.4.0spark0_amd64.deb",
+    "Torrent_address": "com.codedead.advanced-passgen.spark_2.4.0spark0_amd64.deb.torrent",
+    "Pkgname": "com.codedead.advanced-passgen.spark",
+    "Author": "CodeDead",
+    "Contributor": "sgb76",
+    "Website": "https://codedead.com/software/advanced-passgen",
+    "Update": "2023-03-08 21:19:32",
+    "Size": "55.56 MB",
+    "More": "一款可以快速、便捷生成密码，并对密码进行管理的开源免费工具\n\n说明：该应用适用于Ubuntu，deepin下测试无法运行",
+    "Tags": "ubuntu;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/7883f547bf204084b0e4ff1e2e8ffe33.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/b0048b8ee54a4c2ab046bce26ef24be1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/f541ab1caf754b1c86782f99312cdc2e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/08/5a167e64be0f4fe0aeaef2ef3790531f.png"
 }
 ,
 {

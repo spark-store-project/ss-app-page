@@ -799,23 +799,6 @@
 }
 ,
 {
-    "Name": "扫雷",
-    "Version": "1.0.1",
-    "Filename": "minesweep_1.0.1_amd64.deb",
-    "Torrent_address": "minesweep_1.0.1_amd64.deb.torrent",
-    "Pkgname": "minesweep",
-    "Author": "未知",
-    "Contributor": "depend",
-    "Website": "https://github.com/dependon/MineSweep",
-    "Update": "2022-06-02 17:47:15",
-    "Size": "23.6 KB",
-    "More": "经典扫雷",
-    "Tags": "ubuntu;community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/02/f373ba50-e258-11ec-b925-7f858d779ce8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/02/f3915470-e258-11ec-b925-7f858d779ce8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/02/f3a97050-e258-11ec-b925-7f858d779ce8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/02/f3b9c400-e258-11ec-b925-7f858d779ce8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/02/f3c95460-e258-11ec-b925-7f858d779ce8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/02/f01af260-e258-11ec-b925-7f858d779ce8.png"
-}
-,
-{
     "Name": "红色警戒2:兵临城下4",
     "Version": "1.2.0",
     "Filename": "deepin.ra2.enemyag4_1.2.0_all.deb",
@@ -830,6 +813,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/09/5c2696a1701744fea9346d8cd0406801.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/09/3beae462e60f4a0fa9d9122393d97ed0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/09/2db6e83df1d14f5bb391c120ae82c510.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/09/17220bc424054ec98139d9a793012049.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/09/5c6b9f860a244636a59c3707d2debbd5.png"
+}
+,
+{
+    "Name": "扫雷",
+    "Version": "1.0.1",
+    "Filename": "minesweep_1.0.1_amd64.deb",
+    "Torrent_address": "minesweep_1.0.1_amd64.deb.torrent",
+    "Pkgname": "minesweep",
+    "Author": "未知",
+    "Contributor": "depend",
+    "Website": "https://github.com/dependon/MineSweep",
+    "Update": "2022-06-02 17:47:15",
+    "Size": "23.6 KB",
+    "More": "经典扫雷",
+    "Tags": "ubuntu;community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/02/f373ba50-e258-11ec-b925-7f858d779ce8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/02/f3915470-e258-11ec-b925-7f858d779ce8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/02/f3a97050-e258-11ec-b925-7f858d779ce8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/02/f3b9c400-e258-11ec-b925-7f858d779ce8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/02/f3c95460-e258-11ec-b925-7f858d779ce8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/02/f01af260-e258-11ec-b925-7f858d779ce8.png"
 }
 ,
 {
@@ -1336,23 +1336,6 @@
 }
 ,
 {
-    "Name": "秦殇",
-    "Version": "1.0spark0",
-    "Filename": "com.qinshang.spark_1.0spark0_amd64.deb",
-    "Torrent_address": "com.qinshang.spark_1.0spark0_amd64.deb.torrent",
-    "Pkgname": "com.qinshang.spark",
-    "Author": "目标软件",
-    "Contributor": "sgb76 <sgb76@163.com>",
-    "Website": "no",
-    "Update": "2023-06-27 23:54:38",
-    "Size": "850.64 MB",
-    "More": "一款场面非常宏大的国产ARPG游戏，游戏中你将扮演秦始皇嬴政的长子扶苏公子，你本来是一个心地善良的人，一心想匡扶皇室，力挽狂澜，无奈动荡时局让你的一切努力都成空，演绎出了一曲感人肺腑的历史悲歌\n\n--说明--\n游戏默认分辨率为800X600，游戏打包时已自带了高分辨补丁。如选择其他分辨率，可退出游戏后，进入\"~/.deepinwine/Spark-qinshang/drive_c/Program Files/qinshang/更多分辨率\"文件夹，选择适合自己电脑的分辨率目录，将里面的Poq.exe文件拷贝到游戏所在目录，覆盖同名文件即可",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/27/02c1c314789d4eb8a333a43e77ab3860.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/27/5365d3705b3748b799ed17df5ac47da6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/27/cc17d99ecdf84a56a66b6406f4a161a9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/27/123c567be8a948079ad42c99d194842c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/27/07cfc2951b2443769e4497cb48dec2ad.png"
-}
-,
-{
     "Name": "Windows XP 扫雷",
     "Version": "5.1.2600.0",
     "Filename": "spark-winmine_5.1.2600.0_i386.deb",
@@ -1367,6 +1350,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/04/a50a224d081c45c392e36b3f1319b2fc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/04/8cd86918399f4168822f0f1aca01342c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/04/c5e5ab5ad4fb4a32bb8bbc87bf400df2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/04/2aace259e3b7498eb36a30032f2e4b02.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/04/dd0c4d8ea9804241b6eb6f09bcf7e1c0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/04/2714ea4f643342fbb285f8d421dc09b2.png"
+}
+,
+{
+    "Name": "秦殇",
+    "Version": "1.0spark0",
+    "Filename": "com.qinshang.spark_1.0spark0_amd64.deb",
+    "Torrent_address": "com.qinshang.spark_1.0spark0_amd64.deb.torrent",
+    "Pkgname": "com.qinshang.spark",
+    "Author": "目标软件",
+    "Contributor": "sgb76 <sgb76@163.com>",
+    "Website": "no",
+    "Update": "2023-06-27 23:54:38",
+    "Size": "850.64 MB",
+    "More": "一款场面非常宏大的国产ARPG游戏，游戏中你将扮演秦始皇嬴政的长子扶苏公子，你本来是一个心地善良的人，一心想匡扶皇室，力挽狂澜，无奈动荡时局让你的一切努力都成空，演绎出了一曲感人肺腑的历史悲歌\n\n--说明--\n游戏默认分辨率为800X600，游戏打包时已自带了高分辨补丁。如选择其他分辨率，可退出游戏后，进入\"~/.deepinwine/Spark-qinshang/drive_c/Program Files/qinshang/更多分辨率\"文件夹，选择适合自己电脑的分辨率目录，将里面的Poq.exe文件拷贝到游戏所在目录，覆盖同名文件即可",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/27/02c1c314789d4eb8a333a43e77ab3860.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/27/5365d3705b3748b799ed17df5ac47da6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/27/cc17d99ecdf84a56a66b6406f4a161a9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/27/123c567be8a948079ad42c99d194842c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/27/07cfc2951b2443769e4497cb48dec2ad.png"
 }
 ,
 {
@@ -1387,23 +1387,6 @@
 }
 ,
 {
-    "Name": "盟军敢死队3：目标柏林",
-    "Version": "1.0spark0",
-    "Filename": "com.commandos3.spark_1.0spark0_amd64.deb",
-    "Torrent_address": "com.commandos3.spark_1.0spark0_amd64.deb.torrent",
-    "Pkgname": "com.commandos3.spark",
-    "Author": "Pyro Studios",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-04-29 19:43:29",
-    "Size": "1.31 GB",
-    "More": "一款基于二战背景开发的即时策略类游戏，玩家可控制拥有不同技能的队员，在复杂的关卡中完成各种难度的任务",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/29/9a07527a0ea34490bf20441f849579b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/29/137350a86ad6420489ebc4c407e0766a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/29/77f44b1342f5482e871c5fec9eaf7a64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/29/ee82a26b826e42ffb719e350dde0f920.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/29/917454ecb2eb4b598ab46f80969ce03a.png"
-}
-,
-{
     "Name": "三维弹球(Linux)",
     "Version": "2.0.1",
     "Filename": "com.spacecadetpinball.deepin_2.0.1_amd64.deb",
@@ -1418,6 +1401,23 @@
     "Tags": "deepin;uos;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/605bd90ccb604cc0a35720cb97be80a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/0db7f9c6736a48e6b73ac26b9b512a92.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/41df8651b5f243d98a9646ef2e7ebc8a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/13/6605a19d8ac543d2a24bfe3e1b4989fe.png"
+}
+,
+{
+    "Name": "盟军敢死队3：目标柏林",
+    "Version": "1.0spark0",
+    "Filename": "com.commandos3.spark_1.0spark0_amd64.deb",
+    "Torrent_address": "com.commandos3.spark_1.0spark0_amd64.deb.torrent",
+    "Pkgname": "com.commandos3.spark",
+    "Author": "Pyro Studios",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-04-29 19:43:29",
+    "Size": "1.31 GB",
+    "More": "一款基于二战背景开发的即时策略类游戏，玩家可控制拥有不同技能的队员，在复杂的关卡中完成各种难度的任务",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/29/9a07527a0ea34490bf20441f849579b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/29/137350a86ad6420489ebc4c407e0766a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/29/77f44b1342f5482e871c5fec9eaf7a64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/29/ee82a26b826e42ffb719e350dde0f920.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/29/917454ecb2eb4b598ab46f80969ce03a.png"
 }
 ,
 {
@@ -1537,6 +1537,24 @@
 }
 ,
 {
+    "Author": "shenmo@spark-app.store",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.pvzhz.spark_2.0.88spark2_all.deb",
+    "More": "一个植物大战僵尸改版\n详细可见：https://www.bilibili.com/video/BV15z42127up",
+    "Name": "植物大战僵尸杂交版（潜艇伟伟迷）（Wine）",
+    "Pkgname": "com.pvzhz.spark",
+    "Size": "377 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.pvzhz.spark_2.0.88spark2_all.deb.torrent",
+    "Update": "2024-05-28 20:22:13",
+    "Version": "2.0.88spark2",
+    "Website": "https://space.bilibili.com/97213827",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_2.png\"]"
+}
+
+,
+{
     "Name": "荣誉勋章：血战太平洋",
     "Version": "1.0spark1",
     "Filename": "com.mohpa.spark_1.0spark1_all.deb",
@@ -1600,24 +1618,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/10/f9a4e91a43864ad3bbb5d09f935d73c1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/10/b873cf33fdd74a86a1719ce093e72a09.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/10/135fe64df7db4525a84bea7b26867b6a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/10/19483e1b306b42f981e1d5564dd1487d.png"
 }
-,
-{
-    "Author": "shenmo@spark-app.store",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.pvzhz.spark_2.0.88spark2_all.deb",
-    "More": "一个植物大战僵尸改版\n详细可见：https://www.bilibili.com/video/BV15z42127up",
-    "Name": "植物大战僵尸杂交版（潜艇伟伟迷）（Wine）",
-    "Pkgname": "com.pvzhz.spark",
-    "Size": "377 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "com.pvzhz.spark_2.0.88spark2_all.deb.torrent",
-    "Update": "2024-05-28 20:22:13",
-    "Version": "2.0.88spark2",
-    "Website": "https://space.bilibili.com/97213827",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_2.png\"]"
-}
-
 ,
 {
     "Name": "宝石迷阵3",
@@ -1704,23 +1704,6 @@
 }
 ,
 {
-    "Name": "Sans模拟器",
-    "Version": "1.5.1",
-    "Filename": "c2-sans-fight_1.5.1_all.deb",
-    "Torrent_address": "c2-sans-fight_1.5.1_all.deb.torrent",
-    "Pkgname": "c2-sans-fight",
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://github.com/Jcw87/c2-sans-fight",
-    "Update": "2023-03-12 09:57:23",
-    "Size": "4.43 MB",
-    "More": "Sans模拟器，本地网页版。\n运行时38326端口会被占用！",
-    "Tags": "community;ubuntu;deepin;uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/4ca7d3f55f904dcba79e201e00fde815.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/b7bc84e93fe9475aa8edd52c8a67ca69.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/acd9f1767f054f58b14af2afe70d3fca.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/ff51faee93f14b2fb26b9134990836de.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/12/76217072160840d8b17a9c5e395e16b5.png"
-}
-,
-{
     "Name": "孤岛惊魂",
     "Version": "1.0spark1",
     "Filename": "com.farcry.spark_1.0spark1_all.deb",
@@ -1735,6 +1718,23 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/335a7030-5ec4-11ee-9c5f-6b1787933f50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/3500cd30-5ec4-11ee-9c5f-6b1787933f50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/36a380b0-5ec4-11ee-9c5f-6b1787933f50.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/29/30f81630-5ec4-11ee-9c5f-6b1787933f50.png"
+}
+,
+{
+    "Name": "Sans模拟器",
+    "Version": "1.5.1",
+    "Filename": "c2-sans-fight_1.5.1_all.deb",
+    "Torrent_address": "c2-sans-fight_1.5.1_all.deb.torrent",
+    "Pkgname": "c2-sans-fight",
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://github.com/Jcw87/c2-sans-fight",
+    "Update": "2023-03-12 09:57:23",
+    "Size": "4.43 MB",
+    "More": "Sans模拟器，本地网页版。\n运行时38326端口会被占用！",
+    "Tags": "community;ubuntu;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/4ca7d3f55f904dcba79e201e00fde815.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/b7bc84e93fe9475aa8edd52c8a67ca69.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/acd9f1767f054f58b14af2afe70d3fca.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/ff51faee93f14b2fb26b9134990836de.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/12/76217072160840d8b17a9c5e395e16b5.png"
 }
 ,
 {
@@ -1856,23 +1856,6 @@
 }
 ,
 {
-    "Name": "终端贪吃蛇游戏 (csnaketerm)",
-    "Version": "0.2.0~spark4",
-    "Filename": "csnaketerm_0.2.0~spark4_all.deb",
-    "Torrent_address": "csnaketerm_0.2.0~spark4_all.deb.torrent",
-    "Pkgname": "csnaketerm",
-    "Author": "Donald Sebastian Leung",
-    "Contributor": "Donald Sebastian Leung",
-    "Website": "https://github.com/DonaldKellett/csnaketerm",
-    "Update": "2023-01-14 12:59:24",
-    "Size": "12.81 KB",
-    "More": "经典终端贪食蛇游戏 csnaketerm 是一个以 Node.js 实现的贪食蛇游戏：\n\n- 可选择三个版图：旷野、围墙、迷宫\n- 可选择四种难度：初级、中级、高级、疯狂\n- 能记录您每个 版图+难度 组合所得的最高分数\n\n详情请参考原 GitHub 仓库：https://github.com/DonaldKellett/csnaketerm\n\n如有问题，请发邮件给 donaldsebleung@qq.com 或于 https://gitee.com/donaldsebleung/csnaketerm-spark-store 建工单。",
-    "Tags": "community;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/329bd890-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32c00260-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32d278f0-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32aca170-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32e4a160-93c8-11ed-8dce-1fec4c93e3a4.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/14/306dd500-93c8-11ed-8dce-1fec4c93e3a4.png"
-}
-,
-{
     "Name": "卡车司机",
     "Version": "1.0spark0",
     "Filename": "com.truckdriver.spark_1.0spark0_amd64.deb",
@@ -1904,6 +1887,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/19/274802dd9134409f9c0c73ee6157b9bd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/19/13d1494d71954179a1ea367bba31d7ac.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/19/39a14c9f75944a32bdd55def5bd50b61.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/19/545647b75ddd4cb6a018634c9b3077a1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/19/cead297bc1464e09939403740a6d8726.png"
+}
+,
+{
+    "Name": "终端贪吃蛇游戏 (csnaketerm)",
+    "Version": "0.2.0~spark4",
+    "Filename": "csnaketerm_0.2.0~spark4_all.deb",
+    "Torrent_address": "csnaketerm_0.2.0~spark4_all.deb.torrent",
+    "Pkgname": "csnaketerm",
+    "Author": "Donald Sebastian Leung",
+    "Contributor": "Donald Sebastian Leung",
+    "Website": "https://github.com/DonaldKellett/csnaketerm",
+    "Update": "2023-01-14 12:59:24",
+    "Size": "12.81 KB",
+    "More": "经典终端贪食蛇游戏 csnaketerm 是一个以 Node.js 实现的贪食蛇游戏：\n\n- 可选择三个版图：旷野、围墙、迷宫\n- 可选择四种难度：初级、中级、高级、疯狂\n- 能记录您每个 版图+难度 组合所得的最高分数\n\n详情请参考原 GitHub 仓库：https://github.com/DonaldKellett/csnaketerm\n\n如有问题，请发邮件给 donaldsebleung@qq.com 或于 https://gitee.com/donaldsebleung/csnaketerm-spark-store 建工单。",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/329bd890-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32c00260-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32d278f0-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32aca170-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32e4a160-93c8-11ed-8dce-1fec4c93e3a4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/14/306dd500-93c8-11ed-8dce-1fec4c93e3a4.png"
 }
 ,
 {
@@ -2794,22 +2794,6 @@
 }
 ,
 {
-    "Name": "emoji版扫雷（本地网页版）",
-    "Version": "1.0",
-    "Filename": "com.github.muan.emoji-minesweeper.web_1.0_amd64.deb",
-    "Pkgname": "com.github.muan.emoji-minesweeper.web",
-    "Author": "muan",
-    "Contributor": "shenmo",
-    "Website": "https://github.com/muan/emoji-minesweeper",
-    "Update": "2021-12-30 00:16:09",
-    "Size": "27.25 KB",
-    "More": "emoji版本的扫雷，本地网页版\n如果你使用非UOS/deepin且无法打开此应用，尝试以下解决办法：\n1. 升级dtk版本\n2. 执行sudo apt remove spark-webapp-runtime -y && sudo apt install swrt-lite -y",
-    "Tags": "community;ubuntu;deepin;uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/30/9fa53030-68c2-11ec-9ace-e1474fb35f60.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/30/9a3017f0-68c2-11ec-9ace-e1474fb35f60.png"
-}
-,
-{
     "Name": "僵尸困境",
     "Version": "1.0spark1",
     "Filename": "com.trappeddead.spark_1.0spark1_all.deb",
@@ -2824,6 +2808,22 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/958815d780794e559cdf3c5b940b9024.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/4ce1c0b261f948dca95e80e37d9828da.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/aa37fa8dc63b47698409cbff224e5beb.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/06/f3ba28aa98474980b8aa15fef51155e3.png"
+}
+,
+{
+    "Name": "emoji版扫雷（本地网页版）",
+    "Version": "1.0",
+    "Filename": "com.github.muan.emoji-minesweeper.web_1.0_amd64.deb",
+    "Pkgname": "com.github.muan.emoji-minesweeper.web",
+    "Author": "muan",
+    "Contributor": "shenmo",
+    "Website": "https://github.com/muan/emoji-minesweeper",
+    "Update": "2021-12-30 00:16:09",
+    "Size": "27.25 KB",
+    "More": "emoji版本的扫雷，本地网页版\n如果你使用非UOS/deepin且无法打开此应用，尝试以下解决办法：\n1. 升级dtk版本\n2. 执行sudo apt remove spark-webapp-runtime -y && sudo apt install swrt-lite -y",
+    "Tags": "community;ubuntu;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/30/9fa53030-68c2-11ec-9ace-e1474fb35f60.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/30/9a3017f0-68c2-11ec-9ace-e1474fb35f60.png"
 }
 ,
 {
@@ -2946,6 +2946,23 @@
 }
 ,
 {
+    "Name": "帝国时代2高清版",
+    "Version": "1.0spark0",
+    "Filename": "com.ageofempires2hd.spark_1.0spark0_all.deb",
+    "Torrent_address": "com.ageofempires2hd.spark_1.0spark0_all.deb.torrent",
+    "Pkgname": "com.ageofempires2hd.spark",
+    "Author": "微软",
+    "Contributor": "sgb76",
+    "Website": "www.ageofempires.com",
+    "Update": "2024-05-02 00:10:23",
+    "Size": "893.99 MB",
+    "More": "帝国时代2高清版",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/52ffee28a4bb4aae890e4cf2fa067107.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/47c862c80535475cb0d6975745d3cb55.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/dae90fa02c78421b9e044e31d35cd429.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/02/46736fd4ef564a9aaced11e2d6af26fc.png"
+}
+,
+{
     "Name": "Bash Shell RPG",
     "Version": "1.1~spark3",
     "Filename": "bash-shell-rpg_1.1~spark3_all.deb",
@@ -2994,23 +3011,6 @@
     "Tags": "deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/01/86e56d97ba364d6481f788e296716761.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/01/75ba8044bd3841d2af5006d1f22a8245.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/01/b803de98e9d0439197756e4aa4992e36.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/01/e1e2426a607740828289155cce3d8ed9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/01/fb00df83503e425fb88300cccfcb35dd.png"
-}
-,
-{
-    "Name": "帝国时代2高清版",
-    "Version": "1.0spark0",
-    "Filename": "com.ageofempires2hd.spark_1.0spark0_all.deb",
-    "Torrent_address": "com.ageofempires2hd.spark_1.0spark0_all.deb.torrent",
-    "Pkgname": "com.ageofempires2hd.spark",
-    "Author": "微软",
-    "Contributor": "sgb76",
-    "Website": "www.ageofempires.com",
-    "Update": "2024-05-02 00:10:23",
-    "Size": "893.99 MB",
-    "More": "帝国时代2高清版",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/52ffee28a4bb4aae890e4cf2fa067107.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/47c862c80535475cb0d6975745d3cb55.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/dae90fa02c78421b9e044e31d35cd429.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/02/46736fd4ef564a9aaced11e2d6af26fc.png"
 }
 ,
 {
@@ -3317,6 +3317,23 @@
 }
 ,
 {
+    "Name": "yuzu",
+    "Version": "1.5",
+    "Filename": "yuzu-emu_1.5_amd64.deb",
+    "Torrent_address": "yuzu-emu_1.5_amd64.deb.torrent",
+    "Pkgname": "yuzu-emu",
+    "Author": "Aphcity",
+    "Contributor": "Aphcity",
+    "Website": "https://github.com/Aphcity/yuzu",
+    "Update": "2024-04-12 23:32:45",
+    "Size": "44.86 MB",
+    "More": "yuzu是一款优秀的Nintendo Switch模拟器。\n该上传版是yuzu的改版，在兼容新特性的同时修复了yuzu的贴图问题（比如月姬R汉化贴图花屏）。",
+    "Tags": "ubuntu;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/a2f74c30-f8e1-11ee-94b3-3598cf0b4d68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/a4b63a40-f8e1-11ee-94b3-3598cf0b4d68.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/9924a630-f8e1-11ee-94b3-3598cf0b4d68.png"
+}
+,
+{
     "Name": "预防性打击",
     "Version": "1.0spark0",
     "Filename": "com.preventivestrike.spark_1.0spark0_amd64.deb",
@@ -3381,23 +3398,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/16/503ffbac49ce4d3aab00db48af99628e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/16/fc1afdc475c54ad79d3ac88cba417dfb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/16/4957a9e0a4a3479695c7b07e1c2f166c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/16/953659e81fcc4cf594c1797b7060eee6.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/16/0866fc5b5c284a24a8e147ad6fdc896b.png"
-}
-,
-{
-    "Name": "yuzu",
-    "Version": "1.5",
-    "Filename": "yuzu-emu_1.5_amd64.deb",
-    "Torrent_address": "yuzu-emu_1.5_amd64.deb.torrent",
-    "Pkgname": "yuzu-emu",
-    "Author": "Aphcity",
-    "Contributor": "Aphcity",
-    "Website": "https://github.com/Aphcity/yuzu",
-    "Update": "2024-04-12 23:32:45",
-    "Size": "44.86 MB",
-    "More": "yuzu是一款优秀的Nintendo Switch模拟器。\n该上传版是yuzu的改版，在兼容新特性的同时修复了yuzu的贴图问题（比如月姬R汉化贴图花屏）。",
-    "Tags": "ubuntu;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/a2f74c30-f8e1-11ee-94b3-3598cf0b4d68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/a4b63a40-f8e1-11ee-94b3-3598cf0b4d68.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/9924a630-f8e1-11ee-94b3-3598cf0b4d68.png"
 }
 ,
 {
@@ -4044,6 +4044,23 @@
 }
 ,
 {
+    "Name": "帝国时代3：神话时代",
+    "Version": "1.0spark0",
+    "Filename": "com.aom.spark_1.0spark0_all.deb",
+    "Torrent_address": "com.aom.spark_1.0spark0_all.deb.torrent",
+    "Pkgname": "com.aom.spark",
+    "Author": "微软",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2024-05-19 13:21:06",
+    "Size": "224.68 MB",
+    "More": "帝国时代3：神话时代",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/f34c0e0bff1449f5a9cff3dda6a150d6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/419dbf53e4d2416882d630b0e375e397.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/bd58cbf77cfc4244a6c9bd597aeefbac.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/d1056559e46943119e520a2f6d333a9d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/994551f213844664805b2063918f4fe4.png"
+}
+,
+{
     "Name": "青春永驻",
     "Version": "1.0spark0",
     "Filename": "com.ageless.spark_1.0spark0_amd64.deb",
@@ -4207,23 +4224,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/27/c5396c5f2a074538b1419599f9936148.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/27/a92651ca3165419981fdfe2bf8bda878.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/27/fd83356b39cb4909a4eb5a678bdcfdbf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/27/d8fab57a2abb4bf3bb1daa2427f03baf.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/27/f1c271b0c2af416dbf4454ab31ee124c.png"
-}
-,
-{
-    "Name": "帝国时代3：神话时代",
-    "Version": "1.0spark0",
-    "Filename": "com.aom.spark_1.0spark0_all.deb",
-    "Torrent_address": "com.aom.spark_1.0spark0_all.deb.torrent",
-    "Pkgname": "com.aom.spark",
-    "Author": "微软",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2024-05-19 13:21:06",
-    "Size": "224.68 MB",
-    "More": "帝国时代3：神话时代",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/f34c0e0bff1449f5a9cff3dda6a150d6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/419dbf53e4d2416882d630b0e375e397.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/bd58cbf77cfc4244a6c9bd597aeefbac.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/d1056559e46943119e520a2f6d333a9d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/994551f213844664805b2063918f4fe4.png"
 }
 ,
 {

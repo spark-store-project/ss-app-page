@@ -287,23 +287,6 @@
 }
 ,
 {
-    "Name": "榴莲-OCR",
-    "Version": "1.0",
-    "Filename": "durian-ocr_1.0_amd64.deb",
-    "Torrent_address": "durian-ocr_1.0_amd64.deb.torrent",
-    "Pkgname": "durian-ocr",
-    "Author": "depend",
-    "Contributor": "depend",
-    "Website": "https://github.com/dependon/durian-ocr",
-    "Update": "2022-09-21 21:20:01",
-    "Size": "18.56 MB",
-    "More": "deepin-ocr的无dtk版本，可以在ubuntu20.04和debian10以上系统使用，增加了一个小界面和切换识别语言，使用方法:命令行使用:durian-ocr +路径  ，界面使用",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/21/e0240370-39af-11ed-ba22-1351aed8a195.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/21/e047df20-39af-11ed-ba22-1351aed8a195.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/21/d733a720-39af-11ed-ba22-1351aed8a195.png"
-}
-,
-{
     "Name": "FreeCAD",
     "Version": "0.21.0spark1",
     "Filename": "org.freecad.spark_0.21.0spark1_amd64.deb",
@@ -318,6 +301,23 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/05/f5e59d59bdb14414bbd79a3155b9fc0e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/05/48d4fe742fa745ac823e3dc382e37fa8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/05/452a4692e791482bbbc5fb29c7ae8673.png"
+}
+,
+{
+    "Name": "榴莲-OCR",
+    "Version": "1.0",
+    "Filename": "durian-ocr_1.0_amd64.deb",
+    "Torrent_address": "durian-ocr_1.0_amd64.deb.torrent",
+    "Pkgname": "durian-ocr",
+    "Author": "depend",
+    "Contributor": "depend",
+    "Website": "https://github.com/dependon/durian-ocr",
+    "Update": "2022-09-21 21:20:01",
+    "Size": "18.56 MB",
+    "More": "deepin-ocr的无dtk版本，可以在ubuntu20.04和debian10以上系统使用，增加了一个小界面和切换识别语言，使用方法:命令行使用:durian-ocr +路径  ，界面使用",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/21/e0240370-39af-11ed-ba22-1351aed8a195.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/21/e047df20-39af-11ed-ba22-1351aed8a195.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/21/d733a720-39af-11ed-ba22-1351aed8a195.png"
 }
 ,
 {
@@ -1161,6 +1161,23 @@
 }
 ,
 {
+    "Name": "美图秀秀7.0",
+    "Version": "7.0",
+    "Filename": "com.mtxx.wine_7.0_all.deb",
+    "Torrent_address": "com.mtxx.wine_7.0_all.deb.torrent",
+    "Pkgname": "com.mtxx.wine",
+    "Author": "LFRon",
+    "Contributor": "LFRon",
+    "Website": "https://pc.meitu.com/",
+    "Update": "2024-02-15 21:34:33",
+    "Size": "284.7 MB",
+    "More": "Deepin-wine8运行的美图秀秀7.0-AI版本(64位)\n\n目前除了批处理会一直加载无法进入以外,没有其它问题,若发现其它问题欢迎反馈~",
+    "Tags": "ubuntu;deepin;uos;dwine2;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/666a8eddba6e4fdd84772e3fd1146aed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/f7329e7568ff46a3b6dcdba54920bba8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/e8957517f0704012b3a5479b805a217d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/c85b0409a52b461fa0fd777d171d6293.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/15/aa929c369b724442b9969f8bb7fa63fb.png"
+}
+,
+{
     "Name": "中望CAD2021",
     "Version": "2021.1.4523-1",
     "Filename": "com.zwsoft.zwcad2021_2021.1.4523-1_amd64.deb",
@@ -1192,23 +1209,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/19/7f1b126d1d8347aa921bbdf95edcd9c3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/19/8bf4fa08ef4e4f7cbb8234ede1da9a7b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/19/eb1824c2f8b340fc86934b2be1bd3445.png"
-}
-,
-{
-    "Name": "美图秀秀7.0",
-    "Version": "7.0",
-    "Filename": "com.mtxx.wine_7.0_all.deb",
-    "Torrent_address": "com.mtxx.wine_7.0_all.deb.torrent",
-    "Pkgname": "com.mtxx.wine",
-    "Author": "LFRon",
-    "Contributor": "LFRon",
-    "Website": "https://pc.meitu.com/",
-    "Update": "2024-02-15 21:34:33",
-    "Size": "284.7 MB",
-    "More": "Deepin-wine8运行的美图秀秀7.0-AI版本(64位)\n\n目前除了批处理会一直加载无法进入以外,没有其它问题,若发现其它问题欢迎反馈~",
-    "Tags": "ubuntu;deepin;uos;dwine2;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/666a8eddba6e4fdd84772e3fd1146aed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/f7329e7568ff46a3b6dcdba54920bba8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/e8957517f0704012b3a5479b805a217d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/c85b0409a52b461fa0fd777d171d6293.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/15/aa929c369b724442b9969f8bb7fa63fb.png"
 }
 ,
 {
@@ -1507,23 +1507,6 @@
 }
 ,
 {
-    "Name": "富怡服装CAD",
-    "Version": "8.0.0",
-    "Filename": "fuyicad_8.0.0_i386.deb",
-    "Torrent_address": "fuyicad_8.0.0_i386.deb.torrent",
-    "Pkgname": "fuyicad",
-    "Author": "盈瑞恒公司",
-    "Contributor": "tasuo",
-    "Website": "https://www.richforever.cn/",
-    "Update": "2023-02-25 10:32:34",
-    "Size": "61.21 MB",
-    "More": "这是一个旧版本打包",
-    "Tags": "deepin;ubuntu;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/25/be1d3670-b4b1-11ed-b5e0-55ad994f62a8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/25/a6523590-b4b1-11ed-b5e0-55ad994f62a8.png"
-}
-,
-{
     "Name": "qView",
     "Version": "5.0-2",
     "Filename": "com.interversehq.qview_5.0-2_amd64.deb",
@@ -1538,6 +1521,23 @@
     "Tags": "deepin;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/23/7d5d1e004f0f41d9bd695e30460d4fed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/23/d5df38223bee4b52bb133aa3e9492c56.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/23/2f88a288b49d4f758f6ca9872466a969.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/23/be5651111ded45958c3d4b940541916d.png"
+}
+,
+{
+    "Name": "富怡服装CAD",
+    "Version": "8.0.0",
+    "Filename": "fuyicad_8.0.0_i386.deb",
+    "Torrent_address": "fuyicad_8.0.0_i386.deb.torrent",
+    "Pkgname": "fuyicad",
+    "Author": "盈瑞恒公司",
+    "Contributor": "tasuo",
+    "Website": "https://www.richforever.cn/",
+    "Update": "2023-02-25 10:32:34",
+    "Size": "61.21 MB",
+    "More": "这是一个旧版本打包",
+    "Tags": "deepin;ubuntu;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/25/be1d3670-b4b1-11ed-b5e0-55ad994f62a8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/25/a6523590-b4b1-11ed-b5e0-55ad994f62a8.png"
 }
 ,
 {

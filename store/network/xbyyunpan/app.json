@@ -4,13 +4,13 @@
     "Filename": "xbyyunpan_3.13.5_amd64.deb",
     "Torrent_address": "xbyyunpan_3.13.5_amd64.deb.torrent",
     "Pkgname": "xbyyunpan",
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo<shenmo@spark-app.store>",
+    "Author": "gavingaozhangmin <gaozhangmin@gmail.com>",
+    "Contributor": "gavingaozhangmin <gaozhangmin@gmail.com>",
     "Website": "https://github.com/gaozhangmin/aliyunpan",
-    "Update": "2024-06-03 14:29:51",
-    "Size": "84M",
+    "Update": "2024-06-03 22:16:54",
+    "Size": "83.83 MB",
     "More": "修复版小白羊云盘\n基于阿里云盘网页版开发的第三方Linux客户端(超好用)。\n***关于安装后应用没有图标问题：\n0.打开终端，依次输入以下命令：\n1.sudo gedit /usr/share/applications/xbyyunpan.desktop\n(deepin和uos需要将gedit换为vim，vim用法请自行百度\n2.将“Icon=xbyyunpan”一行改为\n“Icon=/opt/小白羊云盘/resources/images/icon_256x256.png”\n3.保存退出",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_5.png\"]",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/icon.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/6ffd0e16d96846c6aa99c37588a66c0d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/bf3ba2b5bca440d892afe20e3a502a08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/8e851d2961644d4ba1c5e2cd4f1fda14.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/1d2b3f9ce4d740ea8d509d347246da1d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/c8589c3ed82f4b0e92dd72aca1e4b678.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/03/9869ae3f054f4adc85f6ef75d3adf574.png"
 }

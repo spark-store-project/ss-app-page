@@ -108,20 +108,20 @@
 
 ,
 {
-    "Author": "shenmo <shenmo@spark-app.store>",
+    "Author": "zzzgydi, wonfen, MystiPanda",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "clash-verge_1.6.4_loong64.deb",
-    "More": "A Clash Meta GUI based on tauri.\nClash Verge的新维护者版本,支持Linux发行版下开启系统代理\n感谢 AOSC 社区的付出",
+    "Filename": "clash-verge_1.6.5_arm64.deb",
+    "More": "A Clash Meta GUI based on tauri.\nClash Verge的新维护者版本,支持Linux发行版下开启系统代理",
     "Name": "Clash Verge",
     "Pkgname": "clash-verge",
-    "Size": "7201 Kb",
-    "Tags": "community;deepin",
-    "Torrent_address": "clash-verge_1.6.4_loong64.deb.torrent",
-    "Update": "2024-04-03 18:53:52",
-    "Version": "1.6.4",
+    "Size": "43 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "clash-verge_1.6.5_arm64.deb.torrent",
+    "Update": "2024-06-04 22:36:40",
+    "Version": "1.6.5",
     "Website": "https://clash-verge-rev.github.io/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/clash-verge/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/clash-verge/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/clash-verge/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/clash-verge/screen_3.png\"]"
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_3.png\"]"
 }
 
 ,
@@ -213,6 +213,23 @@
 }
 ,
 {
+    "Name": "夸克网盘",
+    "Version": "3.0.5spark3",
+    "Filename": "cn.quarkclouddrive.spark_3.0.5spark3_all.deb",
+    "Torrent_address": "cn.quarkclouddrive.spark_3.0.5spark3_all.deb.torrent",
+    "Pkgname": "cn.quarkclouddrive.spark",
+    "Author": "广州市动景计算机科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://pan.quark.cn/",
+    "Update": "2023-12-06 17:31:48",
+    "Size": "120.51 MB",
+    "More": "夸克网盘\n电脑高效拍档 一键存爽快看",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/0fddfb487a654dccbb32bd10b3935239.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/459c4e1867f84f33895f68e1098eeca7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/cb278791ff2c4c5693d2a79b5780cba7.png"
+}
+,
+{
     "Author": "shenmo",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "deepin-wine-thunders_20200711.s3.2_all.deb",
@@ -229,23 +246,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/screen_2.png\"]"
 }
 
-,
-{
-    "Name": "夸克网盘",
-    "Version": "3.0.5spark3",
-    "Filename": "cn.quarkclouddrive.spark_3.0.5spark3_all.deb",
-    "Torrent_address": "cn.quarkclouddrive.spark_3.0.5spark3_all.deb.torrent",
-    "Pkgname": "cn.quarkclouddrive.spark",
-    "Author": "广州市动景计算机科技有限公司",
-    "Contributor": "sgb76",
-    "Website": "https://pan.quark.cn/",
-    "Update": "2023-12-06 17:31:48",
-    "Size": "120.51 MB",
-    "More": "夸克网盘\n电脑高效拍档 一键存爽快看",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/0fddfb487a654dccbb32bd10b3935239.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/459c4e1867f84f33895f68e1098eeca7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/cb278791ff2c4c5693d2a79b5780cba7.png"
-}
 ,
 {
     "Author": "Kingtous",
@@ -280,6 +280,24 @@
     "Website": "https://gitee.com/spark-building-service/ace-host-package-creator",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/network/qbittorrent/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/qbittorrent/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "Dr_rOot <agalwood.net@gmail.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "motrix_1.8.19_loong64.deb",
+    "More": "Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源。",
+    "Name": "Motrix",
+    "Pkgname": "motrix",
+    "Size": "115 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "motrix_1.8.19_loong64.deb.torrent",
+    "Update": "2024-04-12 00:08:44",
+    "Version": "1.8.19",
+    "Website": "https://motrix.app",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/network/motrix/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/network/motrix/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/network/motrix/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/network/motrix/screen_3.png\"]"
 }
 
 ,
@@ -337,24 +355,6 @@
 
 ,
 {
-    "Author": "Dr_rOot <agalwood.net@gmail.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "motrix_1.8.19_loong64.deb",
-    "More": "Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源。",
-    "Name": "Motrix",
-    "Pkgname": "motrix",
-    "Size": "115 Mb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "motrix_1.8.19_loong64.deb.torrent",
-    "Update": "2024-04-12 00:08:44",
-    "Version": "1.8.19",
-    "Website": "https://motrix.app",
-    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/network/motrix/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/network/motrix/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/network/motrix/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/network/motrix/screen_3.png\"]"
-}
-
-,
-{
     "Author": "Qaxbrowser Team <qaxbrowser@qianxin.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.qianxin.browser-stable_1.0.45346.3-1_loong64.deb",
@@ -387,6 +387,24 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/09/3fa2b910-9f58-11ec-9382-494a05cbaed9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/09/41e492c0-9f58-11ec-9382-494a05cbaed9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/09/45ee0d10-9f58-11ec-9382-494a05cbaed9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/09/34c64430-9f58-11ec-9382-494a05cbaed9.png"
 }
+,
+{
+    "Author": "wang",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.pdftodocx.deepin_1.1_all.deb",
+    "More": "PDF to DOCX 转换器是个PDF转成Word的转换器，这是吾爱大佬开发的，有非常多的人使用，软件界面非常简单。软件转换过程没有进度显示，只有转换完了才会有提示，它不支持纯图片的PDF，对表格等格式的转换效果非常好。",
+    "Name": "PDF to DOCX 转换器",
+    "Pkgname": "com.pdftodocx.deepin",
+    "Size": "146 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.pdftodocx.deepin_1.1_all.deb.torrent",
+    "Update": "2024-05-29 16:29:11",
+    "Version": "1.1",
+    "Website": "https://www.52pojie.cn/thread-1799014-1-1.html",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/screen_2.png\"]"
+}
+
 ,
 {
     "Author": "sgb76 <sgb76@163.com>",
@@ -473,24 +491,6 @@
     "Website": "",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/screen_1.png\"]"
-}
-
-,
-{
-    "Author": "wang",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.pdftodocx.deepin_1.1_all.deb",
-    "More": "PDF to DOCX 转换器是个PDF转成Word的转换器，这是吾爱大佬开发的，有非常多的人使用，软件界面非常简单。软件转换过程没有进度显示，只有转换完了才会有提示，它不支持纯图片的PDF，对表格等格式的转换效果非常好。",
-    "Name": "PDF to DOCX 转换器",
-    "Pkgname": "com.pdftodocx.deepin",
-    "Size": "146 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "com.pdftodocx.deepin_1.1_all.deb.torrent",
-    "Update": "2024-05-29 16:29:11",
-    "Version": "1.1",
-    "Website": "https://www.52pojie.cn/thread-1799014-1-1.html",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/screen_2.png\"]"
 }
 
 ,
