@@ -833,23 +833,6 @@
 }
 ,
 {
-    "Name": "即时设计",
-    "Version": "1.0.6spark2",
-    "Filename": "design.js.spark_1.0.6spark2_amd64.deb",
-    "Torrent_address": "design.js.spark_1.0.6spark2_amd64.deb.torrent",
-    "Pkgname": "design.js.spark",
-    "Author": "北京雪云锐创科技有限公司",
-    "Contributor": "sgb76",
-    "Website": "https://js.design/",
-    "Update": "2023-08-31 22:59:35",
-    "Size": "62.56 MB",
-    "More": "可云端编辑的专业级UI设计工具，为中国设计师量身打造",
-    "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/31/e927d6ecb67340518a2eb4478ae53ce0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/31/aa49430240944c56839173f1d262be32.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/31/380760cf1335457bab0f31ec391d2504.png"
-}
-,
-{
     "Name": "浩辰CAD For Linux",
     "Version": "24.1",
     "Filename": "com.gstarcad.cad_24.1_amd64.deb",
@@ -864,6 +847,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/061c7a6fa1d84c2ab02a55cdfd24a567.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/fa6372503fcb4fa9a352175b4ea39cef.png"
+}
+,
+{
+    "Name": "即时设计",
+    "Version": "1.0.6spark2",
+    "Filename": "design.js.spark_1.0.6spark2_amd64.deb",
+    "Torrent_address": "design.js.spark_1.0.6spark2_amd64.deb.torrent",
+    "Pkgname": "design.js.spark",
+    "Author": "北京雪云锐创科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://js.design/",
+    "Update": "2023-08-31 22:59:35",
+    "Size": "62.56 MB",
+    "More": "可云端编辑的专业级UI设计工具，为中国设计师量身打造",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/31/e927d6ecb67340518a2eb4478ae53ce0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/31/aa49430240944c56839173f1d262be32.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/31/380760cf1335457bab0f31ec391d2504.png"
 }
 ,
 {
@@ -2371,6 +2371,40 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/30/f19b9a8fbab24c00bd2e53f26515518a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/30/00ad3ee8e8db4202b197705ffb1cade6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/30/7c4779669fd148b0b5ff3e418748ee4e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/30/930a3567e9854aba87197ab867ce6c28.png"
+}
+,
+{
+    "Name": "七彩色图片批量处理工具",
+    "Version": "16.1",
+    "Filename": "com.qicase.tupian.deepin_16.1_all.deb",
+    "Torrent_address": "com.qicase.tupian.deepin_16.1_all.deb.torrent",
+    "Pkgname": "com.qicase.tupian.deepin",
+    "Author": "爱在美丽的世界",
+    "Contributor": "wang",
+    "Website": "http://tupian.qicaise.com/",
+    "Update": "2024-06-05 20:23:36",
+    "Size": "6.36 MB",
+    "More": ".主要功能：图片压缩，缩小图片尺寸，图片旋转，图片加文字或图片水印，调整亮度与对比度，图片去色，去除图片Exif信息(拍摄时间，相机型号信息)，CMYK转RGB等，全部支持批量处理。支持处理的图片格式。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/05/97960de667744503aded15bf16d9d9de.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/05/c56d77b33b9e42e78d293093024f804e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/05/eb11837404ba40179db09bf179391cf4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/05/cbb4d99319e74275b0433e2fa1be204c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/05/cb89f5ca587044dea0222d4afe1c176f.png"
+}
+,
+{
+    "Name": "七彩色淘宝主图视频制作工具",
+    "Version": "11.1",
+    "Filename": "com.qicaise.v.deepin_11.1_all.deb",
+    "Torrent_address": "com.qicaise.v.deepin_11.1_all.deb.torrent",
+    "Pkgname": "com.qicaise.v.deepin",
+    "Author": "爱在美丽的世界",
+    "Contributor": "wang",
+    "Website": "http://v.qicaise.com/",
+    "Update": "2024-06-05 22:03:32",
+    "Size": "38.68 MB",
+    "More": "七彩色淘宝主图视频制作工具，制作主图视频很方便！将多张宝贝图片合并成拥有多种动画展示效果的主图视频。支持在制作的淘宝主图视频上添加文字和图标。提示：由正方形的图片输出的视频展示效果最好。 详细使用教程见：http://v.qicaise.com/",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/05/71e41888518547aea38167d752a31083.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/05/2accaff892ec4468b429f42e7429a160.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/05/76a5d073133649d99befbe2404e1fa02.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/05/1017bacb66d64a6ebebcd5dbe31aec54.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/05/3ea6163ae4e5490bbc924b58a664397b.png"
 }
 ,
 {

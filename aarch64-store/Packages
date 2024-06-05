@@ -2002,21 +2002,6 @@ SHA256: 1530bc216571e3dbbcbd85b5b4a0d7246f44d7a9762e520976eb6c15377b850a
 SHA512: 2db3ed04086d997c609980100ad1a70199aaeea4f317b3970a0cd02fb6c8c2b84adc6f8d2c7f7331e4d43f56ebeddff8137f43e457278e0b5af8e34d9cea6461
 Description: Transaction package to amber-ce-bookworm
 
-Package: cn.flamescion.bookworm-compatibility-mode
-Architecture: arm64
-Version: 12.4.12.2
-Priority: optional
-Section: misc
-Maintainer: shenmo <shenmo@spark-app.store>
-Depends: bubblewrap,flatpak,zenity,policykit-1,gcc,systemd
-Filename: tools/cn.flamescion.bookworm-compatibility-mode/cn.flamescion.bookworm-compatibility-mode_12.4.12.2_arm64.deb
-Size: 146633436
-MD5sum: 93e09dbd4f88958e8b65dbfa6148c771
-SHA1: 716de945e82a562247b534bdbdad05028079b04a
-SHA256: dda3c7fe7f6ac8d3836f78dd62c5df5683032c924b55a444351d103e726389b8
-SHA512: 9d88a5efb623b3595a39ad7f161c5e2dd57a30fcbca6e11d5b5efcdc697ea96f4b2693ab1cf7a15c449932acf5f19bbfe669798d4116ae045c6ab7c47ec59a5f
-Description: bwrap wrapper for install and running debs inside a bookworm container
-
 Package: icalingua-autoservice
 Architecture: all
 Version: 0.0.1

@@ -1345,20 +1345,6 @@
 }
 ,
 {
-   "Name":"云日历",
-   "Version":"1.0.2",
-   "Filename":"mytime_linux_1.02_amd64.deb",
-   "Pkgname":"mytime",
-   "Author":" ",
-   "Contributor":"anima",
-   "Website":"https://mytime.ruanmei.com/",
-   "Update":"2020-06-25 18:06",
-   "Size":"52.42MB",
-   "More":"使用云日历管理日程、记录生活、订阅精彩，还有各种小工具使您的生活更便捷。"
-}
-
-,
-{
     "Name": "360安全浏览器Beta版",
     "Version": "13.108.1000.22-1",
     "Filename": "browser360-cn-beta_13.108.1000.22-1_amd64.deb",
@@ -1374,6 +1360,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/a944a7583bce4415944c29fdd9469afe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/f2e6a827db134991bbfa1a62a5f3fbe1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/4e405fa64d764bb68cb9ac50a6707e68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/86a4a2d5af2e4852a806a9d29c3684da.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/27/a17cd46db7d8458190c9b991d48f16fe.png"
 }
+,
+{
+   "Name":"云日历",
+   "Version":"1.0.2",
+   "Filename":"mytime_linux_1.02_amd64.deb",
+   "Pkgname":"mytime",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":"https://mytime.ruanmei.com/",
+   "Update":"2020-06-25 18:06",
+   "Size":"52.42MB",
+   "More":"使用云日历管理日程、记录生活、订阅精彩，还有各种小工具使您的生活更便捷。"
+}
+
 ,
 {
     "Name": "腾讯微云（wine）",
@@ -2374,23 +2374,6 @@
 }
 ,
 {
-    "Name": "QNAP QSync 自动同步软件",
-    "Version": "1.0.9.1627",
-    "Filename": "qnapqsyncclient_1.0.9.1627_amd64.deb",
-    "Torrent_address": "qnapqsyncclient_1.0.9.1627_amd64.deb.torrent",
-    "Pkgname": "qnapqsyncclient",
-    "Author": "QNAP Systems, Inc.",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://www.qnap.com.cn/zh-cn/utilities/essentials",
-    "Update": "2024-05-07 14:35:12",
-    "Size": "69.28 MB",
-    "More": "通过QNAP 应用工具发掘更多崭新便捷的NAS 使用方式。从快速设定、便利存取、安全备份、迅速复原、到简易档案分享及同步：QNAP应用工具帮您轻松完成每项日常工作。还有专为虚拟化环境及监视系统打造的优化管理工具。来看看 QNAP 为您准备哪些应用工具吧。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/5ffc6ea9694c47e485f87329d51d68bf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/697d397df78245849367de8c098e5586.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/d6944e2b85da47f396011d71e2249325.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/07/8b51b5bebe9b4d8cbce82e8478582148.png"
-}
-,
-{
     "Name": "哔哩下载姬（Linux版）",
     "Version": "1.0.10-1",
     "Filename": "downkyi_1.0.10-1_amd64.deb",
@@ -2405,6 +2388,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/d127b60f946c4b0a89109dcfb6139167.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/f11ffe9e58e245718abfd4470cadb65c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/49ee9d18432f4d3e92e38ba3a482d5cb.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/46d00e022bc8417eb510e5ca2734cbb6.png"
+}
+,
+{
+    "Name": "QNAP QSync 自动同步软件",
+    "Version": "1.0.9.1627",
+    "Filename": "qnapqsyncclient_1.0.9.1627_amd64.deb",
+    "Torrent_address": "qnapqsyncclient_1.0.9.1627_amd64.deb.torrent",
+    "Pkgname": "qnapqsyncclient",
+    "Author": "QNAP Systems, Inc.",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.qnap.com.cn/zh-cn/utilities/essentials",
+    "Update": "2024-05-07 14:35:12",
+    "Size": "69.28 MB",
+    "More": "通过QNAP 应用工具发掘更多崭新便捷的NAS 使用方式。从快速设定、便利存取、安全备份、迅速复原、到简易档案分享及同步：QNAP应用工具帮您轻松完成每项日常工作。还有专为虚拟化环境及监视系统打造的优化管理工具。来看看 QNAP 为您准备哪些应用工具吧。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/5ffc6ea9694c47e485f87329d51d68bf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/697d397df78245849367de8c098e5586.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/d6944e2b85da47f396011d71e2249325.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/07/8b51b5bebe9b4d8cbce82e8478582148.png"
 }
 ,
 {

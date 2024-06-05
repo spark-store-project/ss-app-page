@@ -5003,21 +5003,6 @@ SHA256: 1530bc216571e3dbbcbd85b5b4a0d7246f44d7a9762e520976eb6c15377b850a
 SHA512: 2db3ed04086d997c609980100ad1a70199aaeea4f317b3970a0cd02fb6c8c2b84adc6f8d2c7f7331e4d43f56ebeddff8137f43e457278e0b5af8e34d9cea6461
 Description: Transaction package to amber-ce-bookworm
 
-Package: cn.flamescion.bookworm-compatibility-mode
-Architecture: amd64
-Version: 12.4.13.1
-Priority: optional
-Section: misc
-Maintainer: shenmo <shenmo@spark-app.store>
-Depends: bubblewrap,flatpak,zenity,policykit-1,gcc,systemd,procps
-Filename: tools/cn.flamescion.bookworm-compatibility-mode/cn.flamescion.bookworm-compatibility-mode_12.4.13.1_amd64.deb
-Size: 154840528
-MD5sum: b113cdbaac559f1ec402dde909264096
-SHA1: 8fe9b8f3042a4f3c50eec7ba06ee05ccbec95dc3
-SHA256: bd2c7ff1ed892a77d6cddf8b3a8ca8975c881a152a308300faee37857d2c508a
-SHA512: ee6f4226a940bfb4204bfe39c1b2301a15eacbbb4b1606abb8bf9c9b03f0d12d7028d94bb60581c532f2f1f11dee083ec595537d601c779ad19ac7d740ef4914
-Description: bwrap wrapper for install and running debs inside a bookworm container
-
 Package: electerm
 Architecture: amd64
 Version: 1.38.30-1
@@ -13130,6 +13115,23 @@ SHA512: 723acd61e880f06a0375e51c38b237a13cbf50ef7ef0577711b5b06a6fa5e694cc2d3731
 Homepage: simple-image-filter
 Description: simple image filter.
 
+Package: com.qicase.tupian.deepin
+Architecture: all
+Version: 16.1
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: wang
+Installed-Size: 6658
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: image_graphics/com.qicase.tupian.deepin/com.qicase.tupian.deepin_16.1_all.deb
+Size: 6665252
+MD5sum: 31ea09eee5dacbfbdedf04dddbba2685
+SHA1: 99b281b56d247631db8a82e0bf28d6b539fdbcf4
+SHA256: fbd0711b9451cfdbabafcb498edbdb1586e8f11d49faa9ab60128491066c09b5
+SHA512: 3b61110e6d4289c8aa8d133c9b15eefcb8887f872977051e0645bf9fcbdb2e4e066cf1ee5596cb211785fd14dbc0deeb9db89226fcb163b3af289b7cffc737da
+Description: .主要功能：图片压缩，缩小图片尺寸，图片旋转，图片加文字或图片水印，调整亮度与对比度，图片去色，去除图片Exif信息(拍摄时间，相机型号信息)，CMYK转RGB等，全部支持批量处理。支持处理的图片格式：JPG, PNG, BMP, GIF(静态), PSD, TBI。
+
 Package: com.vieas.deepin
 Architecture: all
 Version: 5.4.6.0
@@ -13496,6 +13498,23 @@ Description:
   IA流程软件
 License: unknown
 Vendor: Iauto <1175093265@qq.com>
+
+Package: com.qicaise.v.deepin
+Architecture: all
+Version: 11.1
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: wang
+Installed-Size: 40548
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: image_graphics/com.qicaise.v.deepin/com.qicaise.v.deepin_11.1_all.deb
+Size: 40557736
+MD5sum: 070dd4d84a9dd614615c89485f966183
+SHA1: d7b2f65575e33e3bc572f465da28c47f2973336f
+SHA256: 9ba7c820144fc468a7d4ebe703f66681baf4f4b253f534d803fb97de8467187d
+SHA512: 67819dbf06c6dfe4cf612dd9a05628cc942bd7304b20090f7faf472efd6c310725b16aa0025995edc4ea601a56965e7bd6426b5e6d0a572f904178362ad26902
+Description: .七彩色淘宝主图视频制作工具，制作主图视频很方便！将多张宝贝图片合并成拥有多种动画展示效果的主图视频。支持在制作的淘宝主图视频上添加文字和图标。提示：由正方形的图片输出的视频展示效果最好。
 
 Package: com.photopea.spark
 Architecture: amd64

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.qicaise.v.deepin_11.1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">070dd4d84a9dd614615c89485f966183</hash>
+				  
+				<hash type="sha1">d7b2f65575e33e3bc572f465da28c47f2973336f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/image_graphics/com.qicaise.v.deepin/com.qicaise.v.deepin_11.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/image_graphics/com.qicaise.v.deepin/com.qicaise.v.deepin_11.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/image_graphics/com.qicaise.v.deepin/com.qicaise.v.deepin_11.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/com.qicaise.v.deepin/com.qicaise.v.deepin_11.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/image_graphics/com.qicaise.v.deepin/com.qicaise.v.deepin_11.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/image_graphics/com.qicaise.v.deepin/com.qicaise.v.deepin_11.1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>
