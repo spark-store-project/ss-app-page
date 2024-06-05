@@ -546,23 +546,6 @@
 }
 ,
 {
-    "Name": "jellyfin",
-    "Version": "10.8.8-1",
-    "Filename": "jellyfin_10.8.8-1_all.deb",
-    "Torrent_address": "jellyfin_10.8.8-1_all.deb.torrent",
-    "Pkgname": "jellyfin",
-    "Author": "Jellyfin Packaging Team <packaging@jellyfin.org>",
-    "Contributor": "fallingstar",
-    "Website": "https://jellyfin.org",
-    "Update": "2023-01-08 13:33:59",
-    "Size": "2.23 KB",
-    "More": "开源的影音系统，局域网内的影视、音乐、书籍管理，将你的linux系统拥有Nas般的体验，依赖：依赖：jellyfin-server, jellyfin-web, jellyfin-ffmpeg，安装后运行“jellyfin”，忽略初次运行的报错，浏览器访问http://localhost:8096/使用",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/08/c4673fc5f85a4bbf95691d43af173c14.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/08/592f1957463744f7858820ccbcd8fda0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/08/e1b7ba0f3c1745d38e7a06d1da065d0a.png"
-}
-,
-{
     "Name": "360万能播放器",
     "Version": "1.0.0.111",
     "Filename": "cn.360.360player_1.0.0.111_amd64.deb",
@@ -577,6 +560,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/01/c436616dbe884ff08946b345460fc198.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/01/49afee443a6f4cff981b3c1e75b8be73.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/01/5ff25d43c6db437fbfb6b59ab95c927e.png"
+}
+,
+{
+    "Name": "jellyfin",
+    "Version": "10.8.8-1",
+    "Filename": "jellyfin_10.8.8-1_all.deb",
+    "Torrent_address": "jellyfin_10.8.8-1_all.deb.torrent",
+    "Pkgname": "jellyfin",
+    "Author": "Jellyfin Packaging Team <packaging@jellyfin.org>",
+    "Contributor": "fallingstar",
+    "Website": "https://jellyfin.org",
+    "Update": "2023-01-08 13:33:59",
+    "Size": "2.23 KB",
+    "More": "开源的影音系统，局域网内的影视、音乐、书籍管理，将你的linux系统拥有Nas般的体验，依赖：依赖：jellyfin-server, jellyfin-web, jellyfin-ffmpeg，安装后运行“jellyfin”，忽略初次运行的报错，浏览器访问http://localhost:8096/使用",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/08/c4673fc5f85a4bbf95691d43af173c14.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/08/592f1957463744f7858820ccbcd8fda0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/08/e1b7ba0f3c1745d38e7a06d1da065d0a.png"
 }
 ,
 {
@@ -847,23 +847,6 @@
 }
 ,
 {
-    "Name": "KikoPlay",
-    "Version": "1.0.0spark1",
-    "Filename": "fun.kikoplay.spark_1.0.0spark1_all.deb",
-    "Torrent_address": "fun.kikoplay.spark_1.0.0spark1_all.deb.torrent",
-    "Pkgname": "fun.kikoplay.spark",
-    "Author": "Jekyll",
-    "Contributor": "sgb76",
-    "Website": "https://kikoplay.fun/",
-    "Update": "2023-11-24 16:35:22",
-    "Size": "87.29 MB",
-    "More": "KikoPlay 是一款全功能的开源弹幕播放器。主要功能就是在播放本地视频的同时，显示网络弹幕，支持从 A 站、B 站、动画疯、Dandan、爱奇艺、腾讯视频、Tucao 获取弹幕。另外还能获取动画资料、番组日历、搜索下载资源",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/24/5ddda2639713441899d4c284bbfb8139.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/24/25ffdf89512b409c866a13c07b94c493.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/24/090d0208183e4da9a7cc4ad2bc90991e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/24/fb024b53492d4380a94a3e0215d4844c.png"
-}
-,
-{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "co.jianpian8.player_4.2.3.48_all.deb",
@@ -880,6 +863,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/co.jianpian8.player/screen_1.png\"]"
 }
 
+,
+{
+    "Name": "KikoPlay",
+    "Version": "1.0.0spark1",
+    "Filename": "fun.kikoplay.spark_1.0.0spark1_all.deb",
+    "Torrent_address": "fun.kikoplay.spark_1.0.0spark1_all.deb.torrent",
+    "Pkgname": "fun.kikoplay.spark",
+    "Author": "Jekyll",
+    "Contributor": "sgb76",
+    "Website": "https://kikoplay.fun/",
+    "Update": "2023-11-24 16:35:22",
+    "Size": "87.29 MB",
+    "More": "KikoPlay 是一款全功能的开源弹幕播放器。主要功能就是在播放本地视频的同时，显示网络弹幕，支持从 A 站、B 站、动画疯、Dandan、爱奇艺、腾讯视频、Tucao 获取弹幕。另外还能获取动画资料、番组日历、搜索下载资源",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/24/5ddda2639713441899d4c284bbfb8139.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/24/25ffdf89512b409c866a13c07b94c493.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/24/090d0208183e4da9a7cc4ad2bc90991e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/24/fb024b53492d4380a94a3e0215d4844c.png"
+}
 ,
 {
     "Name": "WebTorrent",

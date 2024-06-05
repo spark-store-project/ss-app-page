@@ -473,22 +473,6 @@
 }
 ,
 {
-    "Name": "Scratch Desktop",
-    "Version": "3.20.1",
-    "Filename": "scratch-desktop_3.20.1_amd64.deb",
-    "Pkgname": "scratch-desktop",
-    "Author": "麻省理工学院“终身幼儿园团队”",
-    "Contributor": "chaodn",
-    "Website": "https://scratch.mit.edu",
-    "Update": "2021-07-09 13:59:48",
-    "Size": "157.69 MB",
-    "More": "Scratch是麻省理工学院的“终身幼儿园团队”开发的图形化编程工具，主要面对青少年开放。\n此包使用使用electron打包。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/519c45c0-e07a-11eb-87c9-f16cde60c6d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/53ceb620-e07a-11eb-87c9-f16cde60c6d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/571c3370-e07a-11eb-87c9-f16cde60c6d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/5a30c670-e07a-11eb-87c9-f16cde60c6d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/5cbf6090-e07a-11eb-87c9-f16cde60c6d8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/09/4ee9cff0-e07a-11eb-87c9-f16cde60c6d8.png"
-}
-,
-{
     "Name": "微信开发者工具 Linux版",
     "Version": "1.06.2307260-1",
     "Filename": "io.github.msojocs.wechat-devtools-linux_1.06.2307260-1_amd64.deb",
@@ -503,6 +487,22 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/17/09c0ee7953544b7b8e72d7150e7b511d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/17/38d728f74d3542bb98a2cfe876ff4a5c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/17/6b3754ae66ef412980fc5b56d5336eb8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/17/db0e66832f174ee1951957c614ac591f.png"
+}
+,
+{
+    "Name": "Scratch Desktop",
+    "Version": "3.20.1",
+    "Filename": "scratch-desktop_3.20.1_amd64.deb",
+    "Pkgname": "scratch-desktop",
+    "Author": "麻省理工学院“终身幼儿园团队”",
+    "Contributor": "chaodn",
+    "Website": "https://scratch.mit.edu",
+    "Update": "2021-07-09 13:59:48",
+    "Size": "157.69 MB",
+    "More": "Scratch是麻省理工学院的“终身幼儿园团队”开发的图形化编程工具，主要面对青少年开放。\n此包使用使用electron打包。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/519c45c0-e07a-11eb-87c9-f16cde60c6d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/53ceb620-e07a-11eb-87c9-f16cde60c6d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/571c3370-e07a-11eb-87c9-f16cde60c6d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/5a30c670-e07a-11eb-87c9-f16cde60c6d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/5cbf6090-e07a-11eb-87c9-f16cde60c6d8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/09/4ee9cff0-e07a-11eb-87c9-f16cde60c6d8.png"
 }
 ,
 {
@@ -777,22 +777,6 @@
 }
 ,
 {
-    "Name": "Atom",
-    "Version": "1.60.0",
-    "Filename": "atom_1.60.0_amd64.deb",
-    "Pkgname": "atom",
-    "Author": "atom",
-    "Contributor": "sgb76",
-    "Website": "https://atom.io/",
-    "Update": "2022-03-24 15:05:20",
-    "Size": "132.28 MB",
-    "More": "A hackable text editor for the 21st Century",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/24/95ba1660-ab40-11ec-9d88-c35843a2e64d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/24/9952f490-ab40-11ec-9d88-c35843a2e64d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/24/8f0e04c0-ab40-11ec-9d88-c35843a2e64d.png"
-}
-,
-{
     "Name": "Docker Desktop",
     "Version": "4.29.0-145265",
     "Filename": "docker-desktop_4.29.0-145265_amd64.deb",
@@ -807,6 +791,22 @@
     "Tags": "deepin;uos;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/25/fcab8d40-0282-11ef-b012-5b232c21a0f3.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/25/f4f16700-0282-11ef-b012-5b232c21a0f3.png"
+}
+,
+{
+    "Name": "Atom",
+    "Version": "1.60.0",
+    "Filename": "atom_1.60.0_amd64.deb",
+    "Pkgname": "atom",
+    "Author": "atom",
+    "Contributor": "sgb76",
+    "Website": "https://atom.io/",
+    "Update": "2022-03-24 15:05:20",
+    "Size": "132.28 MB",
+    "More": "A hackable text editor for the 21st Century",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/24/95ba1660-ab40-11ec-9d88-c35843a2e64d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/24/9952f490-ab40-11ec-9d88-c35843a2e64d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/24/8f0e04c0-ab40-11ec-9d88-c35843a2e64d.png"
 }
 ,
 {
@@ -960,6 +960,23 @@
 }
 ,
 {
+    "Name": "通义千问（5亿参数版）",
+    "Version": "0.15.1",
+    "Filename": "com.qwen.chat.0dot5b_0.15.1_amd64.deb",
+    "Torrent_address": "com.qwen.chat.0dot5b_0.15.1_amd64.deb.torrent",
+    "Pkgname": "com.qwen.chat.0dot5b",
+    "Author": "Aliyun | tongyi@service.aliyun.com",
+    "Contributor": "Tlntin <TlntinDeng01@Gmail.com>",
+    "Website": "https://www.modelscope.cn/models/qwen/Qwen1.5-0.5B-Chat-GGUF/summary",
+    "Update": "2024-03-16 00:24:55",
+    "Size": "377.12 MB",
+    "More": "\"通义千问\"，阿里云通义的尖端产品，是一款具有强大理解和生成人类语言能力的人工智能模型。它不仅能在您的日常生活和工作中提供卓越的帮助，更是一款强大的智能助手。值得一提的是，这款模型无需网络连接，可以在普通的CPU上顺畅运行，有效地保护您的隐私安全。我们诚挚邀请您来体验这款产品的卓越性能和高效服务。本模型是其0.5b（即5亿）参数的开源版本，经过int4量化处理和llamafiles打包。一旦启动，它将自动在您的浏览器中打开并跳转至http://localhost:8080",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/59d3cf690c4b455a996dba3ea142d6fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/7e70dbd9327149b58832fbbd6e1bc7e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/d080f1859222440b9489046cdb6da95d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/16/f82f8f626b8540d182c9f3841cfe04f5.png"
+}
+,
+{
     "Name": "XTerminal",
     "Version": "1.8.0",
     "Filename": "xterminal_1.8.0_amd64.deb",
@@ -989,23 +1006,6 @@
    "More":"StarUML是一款制作程序结构图和程序流程图的软件。"
 }
 
-,
-{
-    "Name": "通义千问（5亿参数版）",
-    "Version": "0.15.1",
-    "Filename": "com.qwen.chat.0dot5b_0.15.1_amd64.deb",
-    "Torrent_address": "com.qwen.chat.0dot5b_0.15.1_amd64.deb.torrent",
-    "Pkgname": "com.qwen.chat.0dot5b",
-    "Author": "Aliyun | tongyi@service.aliyun.com",
-    "Contributor": "Tlntin <TlntinDeng01@Gmail.com>",
-    "Website": "https://www.modelscope.cn/models/qwen/Qwen1.5-0.5B-Chat-GGUF/summary",
-    "Update": "2024-03-16 00:24:55",
-    "Size": "377.12 MB",
-    "More": "\"通义千问\"，阿里云通义的尖端产品，是一款具有强大理解和生成人类语言能力的人工智能模型。它不仅能在您的日常生活和工作中提供卓越的帮助，更是一款强大的智能助手。值得一提的是，这款模型无需网络连接，可以在普通的CPU上顺畅运行，有效地保护您的隐私安全。我们诚挚邀请您来体验这款产品的卓越性能和高效服务。本模型是其0.5b（即5亿）参数的开源版本，经过int4量化处理和llamafiles打包。一旦启动，它将自动在您的浏览器中打开并跳转至http://localhost:8080",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/59d3cf690c4b455a996dba3ea142d6fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/7e70dbd9327149b58832fbbd6e1bc7e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/d080f1859222440b9489046cdb6da95d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/16/f82f8f626b8540d182c9f3841cfe04f5.png"
-}
 ,
 {
     "Name": "PDMan",
@@ -2311,6 +2311,23 @@
 }
 ,
 {
+    "Name": "Liberica JDK 21 Full",
+    "Version": "21.0.3+10",
+    "Filename": "bellsoft-java21-full_21.0.3_plus10_amd64.deb",
+    "Torrent_address": "bellsoft-java21-full_21.0.3_plus10_amd64.deb.torrent",
+    "Pkgname": "bellsoft-java21-full",
+    "Author": "BellSoft <info@bell-sw.com>",
+    "Contributor": "ThinkYoung",
+    "Website": "https://bell-sw.com/pages/libericajdk/",
+    "Update": "2024-05-09 11:09:43",
+    "Size": "281.55 MB",
+    "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/b0baff509e8f476285b670841a2d2e18.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/fe4c5ef81af045ffb930cbe83f1b26f4.png"
+}
+,
+{
     "Name": "nteract",
     "Version": "0.28.0",
     "Filename": "nteract_0.28.0_amd64.deb",
@@ -2340,23 +2357,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/04/0a4a5630-5519-11ec-8ef0-259c1170c3c7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/04/10591660-5519-11ec-8ef0-259c1170c3c7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/04/13ad9890-5519-11ec-8ef0-259c1170c3c7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/04/03831b70-5519-11ec-8ef0-259c1170c3c7.png"
-}
-,
-{
-    "Name": "Liberica JDK 21 Full",
-    "Version": "21.0.3+10",
-    "Filename": "bellsoft-java21-full_21.0.3_plus10_amd64.deb",
-    "Torrent_address": "bellsoft-java21-full_21.0.3_plus10_amd64.deb.torrent",
-    "Pkgname": "bellsoft-java21-full",
-    "Author": "BellSoft <info@bell-sw.com>",
-    "Contributor": "ThinkYoung",
-    "Website": "https://bell-sw.com/pages/libericajdk/",
-    "Update": "2024-05-09 11:09:43",
-    "Size": "281.55 MB",
-    "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/b0baff509e8f476285b670841a2d2e18.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/fe4c5ef81af045ffb930cbe83f1b26f4.png"
 }
 ,
 {

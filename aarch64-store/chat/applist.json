@@ -198,24 +198,6 @@
 
 ,
 {
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.qq.weixin.work.uk.spark_3.1.6.3605spark2_arm64.deb",
-    "More": "从优麒麟转制的旧版企业微信，旧不旧的，你就说他能不能用吧。。。 千万别点更新",
-    "Name": "企业微信3.1.6(swine8)",
-    "Pkgname": "com.qq.weixin.work.uk.spark",
-    "Size": "382 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "com.qq.weixin.work.uk.spark_3.1.6.3605spark2_arm64.deb.torrent",
-    "Update": "2023-04-13 00:47:58",
-    "Version": "3.1.6.3605spark2",
-    "Website": "https://www.ubuntukylin.com/applications/108-cn.html",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/com.qq.weixin.work.uk.spark/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/com.qq.weixin.work.uk.spark/screen_1.png\"]"
-}
-
-,
-{
     "Author": "Feishu Linux Team <contact@feishu.cn>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "bytedance-feishu-stable_6.5.11-0_arm64.deb",
@@ -230,6 +212,24 @@
     "Website": "https://www.feishu.cn",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/bytedance-feishu-stable/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/bytedance-feishu-stable/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/bytedance-feishu-stable/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/bytedance-feishu-stable/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.qq.weixin.work.uk.spark_3.1.6.3605spark2_arm64.deb",
+    "More": "从优麒麟转制的旧版企业微信，旧不旧的，你就说他能不能用吧。。。 千万别点更新",
+    "Name": "企业微信3.1.6(swine8)",
+    "Pkgname": "com.qq.weixin.work.uk.spark",
+    "Size": "382 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.qq.weixin.work.uk.spark_3.1.6.3605spark2_arm64.deb.torrent",
+    "Update": "2023-04-13 00:47:58",
+    "Version": "3.1.6.3605spark2",
+    "Website": "https://www.ubuntukylin.com/applications/108-cn.html",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/com.qq.weixin.work.uk.spark/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/com.qq.weixin.work.uk.spark/screen_1.png\"]"
 }
 
 ,
@@ -323,6 +323,21 @@
 }
 ,
 {
+    "Author": "mygzb.com <pc@mygzb.com>",
+    "Contributor": "shenmo <shenmo@spark-app.store>",
+    "Filename": "gzb_8.1.21_arm64.deb",
+    "More": "工作宝",
+    "Name": "工作宝",
+    "Pkgname": "gzb",
+    "Size": "102Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Update": "2023-04-20 18:41:53",
+    "Version": "8.1.21",
+    "Website": "https://www.mygzb.com/download.html"
+}
+
+,
+{
     "Author": "som@baidu.com",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "infoflow_1.1.1_arm64.deb",
@@ -337,21 +352,6 @@
     "Website": "",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/chat/infoflow/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/chat/infoflow/screen_1.png\"]"
-}
-
-,
-{
-    "Author": "mygzb.com <pc@mygzb.com>",
-    "Contributor": "shenmo <shenmo@spark-app.store>",
-    "Filename": "gzb_8.1.21_arm64.deb",
-    "More": "工作宝",
-    "Name": "工作宝",
-    "Pkgname": "gzb",
-    "Size": "102Mb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Update": "2023-04-20 18:41:53",
-    "Version": "8.1.21",
-    "Website": "https://www.mygzb.com/download.html"
 }
 
 ,

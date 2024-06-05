@@ -108,22 +108,6 @@
 
 ,
 {
-    "Author": "shenmo <jifengshenmo@outlook.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "org.mozilla.firefox-esr.spark_1.0_all.deb",
-    "More": "firefox-esr的虚包，安装后会自动安装适合版本的firefox-esr",
-    "Name": "Firefox ESR",
-    "Pkgname": "org.mozilla.firefox-esr.spark",
-    "Size": "1 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "org.mozilla.firefox-esr.spark_1.0_all.deb.torrent",
-    "Update": "2023-05-02 20:20:09",
-    "Version": "1.0",
-    "Website": "https://shenmo7192.gitee.io/"
-}
-
-,
-{
     "Author": "Deepin Browser <browser@deepin.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "org.deepin.browser_6.3.16-1_arm64.deb",
@@ -138,6 +122,22 @@
     "Website": "https://www.deepin.com/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/org.deepin.browser/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/org.deepin.browser/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <jifengshenmo@outlook.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "org.mozilla.firefox-esr.spark_1.0_all.deb",
+    "More": "firefox-esr的虚包，安装后会自动安装适合版本的firefox-esr",
+    "Name": "Firefox ESR",
+    "Pkgname": "org.mozilla.firefox-esr.spark",
+    "Size": "1 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "org.mozilla.firefox-esr.spark_1.0_all.deb.torrent",
+    "Update": "2023-05-02 20:20:09",
+    "Version": "1.0",
+    "Website": "https://shenmo7192.gitee.io/"
 }
 
 ,
@@ -465,24 +465,6 @@
 
 ,
 {
-    "Author": "sgb76 <sgb76@163.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "vip.zhouql.bilidown.spark_1.0.5spark0_all.deb",
-    "More": "一款简洁好用的B站视频下载工具。支持由UP主上传的单集，多集及相关封面，弹幕，字幕，音乐，刮削等等。支持任意粒度批量组合，登录后支持到1080P，大会员可获取所有音质及画质。",
-    "Name": "bilidown",
-    "Pkgname": "vip.zhouql.bilidown.spark",
-    "Size": "102 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "vip.zhouql.bilidown.spark_1.0.5spark0_all.deb.torrent",
-    "Update": "2023-10-15 02:36:06",
-    "Version": "1.0.5spark0",
-    "Website": "http://zhouql.vip/bilibili/pc/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_4.png\"]"
-}
-
-,
-{
     "Author": "Qaxbrowser Team <qaxbrowser@qianxin.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.qianxin.browser-stable_1.0.45276.3-1_arm64.deb",
@@ -497,6 +479,24 @@
     "Website": "https://www.qianxin.com/",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qianxin.browser-stable/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qianxin.browser-stable/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qianxin.browser-stable/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qianxin.browser-stable/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "vip.zhouql.bilidown.spark_1.0.5spark0_all.deb",
+    "More": "一款简洁好用的B站视频下载工具。支持由UP主上传的单集，多集及相关封面，弹幕，字幕，音乐，刮削等等。支持任意粒度批量组合，登录后支持到1080P，大会员可获取所有音质及画质。",
+    "Name": "bilidown",
+    "Pkgname": "vip.zhouql.bilidown.spark",
+    "Size": "102 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "vip.zhouql.bilidown.spark_1.0.5spark0_all.deb.torrent",
+    "Update": "2023-10-15 02:36:06",
+    "Version": "1.0.5spark0",
+    "Website": "http://zhouql.vip/bilibili/pc/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_4.png\"]"
 }
 
 ,
@@ -753,6 +753,24 @@
 
 ,
 {
+    "Author": "wang",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.pdftodocx.deepin_1.1_all.deb",
+    "More": "PDF to DOCX 转换器是个PDF转成Word的转换器，这是吾爱大佬开发的，有非常多的人使用，软件界面非常简单。软件转换过程没有进度显示，只有转换完了才会有提示，它不支持纯图片的PDF，对表格等格式的转换效果非常好。",
+    "Name": "PDF to DOCX 转换器",
+    "Pkgname": "com.pdftodocx.deepin",
+    "Size": "146 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.pdftodocx.deepin_1.1_all.deb.torrent",
+    "Update": "2024-05-29 16:29:11",
+    "Version": "1.1",
+    "Website": "https://www.52pojie.cn/thread-1799014-1-1.html",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/screen_2.png\"]"
+}
+
+,
+{
     "Author": "sgb76 <sgb76@163.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.lanzou.spark_3.4.8spark2_all.deb",
@@ -785,24 +803,6 @@
     "Website": "https://www.xunlei.com/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/screen_3.png\"]"
-}
-
-,
-{
-    "Author": "wang",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.pdftodocx.deepin_1.1_all.deb",
-    "More": "PDF to DOCX 转换器是个PDF转成Word的转换器，这是吾爱大佬开发的，有非常多的人使用，软件界面非常简单。软件转换过程没有进度显示，只有转换完了才会有提示，它不支持纯图片的PDF，对表格等格式的转换效果非常好。",
-    "Name": "PDF to DOCX 转换器",
-    "Pkgname": "com.pdftodocx.deepin",
-    "Size": "146 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "com.pdftodocx.deepin_1.1_all.deb.torrent",
-    "Update": "2024-05-29 16:29:11",
-    "Version": "1.1",
-    "Website": "https://www.52pojie.cn/thread-1799014-1-1.html",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/screen_2.png\"]"
 }
 
 ,

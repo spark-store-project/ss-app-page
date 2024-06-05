@@ -2341,6 +2341,21 @@ Homepage: https://www.spark-app.store/
 Description: Spark Store
  A community powered app store, based on DTK.
 
+Package: cn.flamescion.bookworm-compatibility-mode
+Architecture: loong64
+Version: 12.4.14
+Priority: optional
+Section: misc
+Maintainer: shenmo <shenmo@spark-app.store>
+Depends: bubblewrap,flatpak,zenity,policykit-1,systemd,procps
+Filename: tools/cn.flamescion.bookworm-compatibility-mode/cn.flamescion.bookworm-compatibility-mode_12.4.14_loong64.deb
+Size: 231807376
+MD5sum: 12ae0e6e532d3e92a91dd238c3b40f01
+SHA1: a407ef54f5bb456da2138ec3bd82fb2ac5a92271
+SHA256: d69efe5f634b9e2db296270a630f80972e204f5a5363733059017d6744c4e6cb
+SHA512: e4f004a6535540893ff157c1d2db88c6161831fcc9cd4c357d0872ac1b5410b86fa9e18959c19632cc76bfc7d10d209b0aaddf2fbedf0c9dbc7bfead26e68210
+Description: bwrap wrapper for install and running debs inside a bookworm container
+
 Package: amber-ce-bookworm
 Architecture: all
 Version: 12.4.11

@@ -4973,6 +4973,21 @@ SHA256: b82107448d29cc3e86a28c71b8b45ac225f9783a337cc345bbb1c12d3059db95
 SHA512: 352458da8a8f14b77b41ef805c6f8623a1df7e1fa70cbd052285d23e82eda250a72266eb34f018b4558fab880e8b8c528ac4fd7759bc0830ef4794d48b3cfa6d
 Description: FurMark 2 For dwine8
 
+Package: cn.flamescion.bookworm-compatibility-mode
+Architecture: amd64
+Version: 12.4.14
+Priority: optional
+Section: misc
+Maintainer: shenmo <shenmo@spark-app.store>
+Depends: bubblewrap,flatpak,zenity,policykit-1,systemd,procps
+Filename: tools/cn.flamescion.bookworm-compatibility-mode/cn.flamescion.bookworm-compatibility-mode_12.4.14_amd64.deb
+Size: 158419780
+MD5sum: 407cbde948c78b07a03d8f9edba6bf7e
+SHA1: b57348d908d77dd641fd707ed3101c343e769a8d
+SHA256: fd232f8ac8f240de71b16d375fd68111b843731d3bd5279cad277f8238729bcf
+SHA512: 741ecdb25ba539657978fb085aded7661038302e5d718f6b4abf7433bddd5d3bbaca4d7129fa7ad962ceb131047e79e6d9030c89e7ecf519c9c2d08d3d3aa811
+Description: bwrap wrapper for install and running debs inside a bookworm container
+
 Package: amber-ce-bookworm
 Architecture: all
 Version: 12.4.11
@@ -13280,6 +13295,23 @@ SHA1: f1c0ebd928371d13b2e39445ce054f2cd3e24059
 SHA256: c785a5396728b2a7a528015f496a560fa4bf4f42a36a52a675e0c821b09b9397
 SHA512: 760bf398cdded64d47a537ba4e642f33b69612e9396488f9e13c891c739b1b9772b0130a97b4c634d9ff8f4ab3bf13adf3c79b10cf0db3151a309df1fe051d08
 Description: 富怡cad
+
+Package: com.qicaise.gif.deepin
+Architecture: all
+Version: 6.8
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: wang
+Installed-Size: 16658
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: image_graphics/com.qicaise.gif.deepin/com.qicaise.gif.deepin_6.8_all.deb
+Size: 16665968
+MD5sum: c1c254901228ffbd276b6833fc4c44f4
+SHA1: 6f4e6068e15691beb6efa2381dc6ea812d4e462e
+SHA256: 250a32be9b49792c960d857f5651c7e25f77a1a7082262644926479f110f53d7
+SHA512: be86e654c1bd70992a79752a1f4737b216c97304cdbeb0cf5680b1be7492f80c48240da0332ed62e2cbc945f3a542baed7ff71d0e4798e21e03dd491f0eb9d17
+Description: . 七彩色gif动态图制作工具是一款专业的gif动态图制作软件，内置图片过渡动画，支持导入视频转gif动态图和gif动态图色彩优化。制作微信动态图、微博动态图、淘宝宝贝gif动态图、网页动画等。
 
 Package: org.tropy.spark
 Architecture: amd64

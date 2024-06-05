@@ -287,23 +287,6 @@
 }
 ,
 {
-    "Name": "FreeCAD",
-    "Version": "0.21.0spark1",
-    "Filename": "org.freecad.spark_0.21.0spark1_amd64.deb",
-    "Torrent_address": "org.freecad.spark_0.21.0spark1_amd64.deb.torrent",
-    "Pkgname": "org.freecad.spark",
-    "Author": "FreeCAD Team",
-    "Contributor": "sgb76",
-    "Website": "https://www.freecad.org/",
-    "Update": "2023-08-05 18:04:36",
-    "Size": "648.46 MB",
-    "More": "FreeCAD 是一个开源的参数化 3D 建模软件， 主要用于设计任意尺寸 的现实生活对象",
-    "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/05/f5e59d59bdb14414bbd79a3155b9fc0e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/05/48d4fe742fa745ac823e3dc382e37fa8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/05/452a4692e791482bbbc5fb29c7ae8673.png"
-}
-,
-{
     "Name": "榴莲-OCR",
     "Version": "1.0",
     "Filename": "durian-ocr_1.0_amd64.deb",
@@ -318,6 +301,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/21/e0240370-39af-11ed-ba22-1351aed8a195.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/21/e047df20-39af-11ed-ba22-1351aed8a195.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/21/d733a720-39af-11ed-ba22-1351aed8a195.png"
+}
+,
+{
+    "Name": "FreeCAD",
+    "Version": "0.21.0spark1",
+    "Filename": "org.freecad.spark_0.21.0spark1_amd64.deb",
+    "Torrent_address": "org.freecad.spark_0.21.0spark1_amd64.deb.torrent",
+    "Pkgname": "org.freecad.spark",
+    "Author": "FreeCAD Team",
+    "Contributor": "sgb76",
+    "Website": "https://www.freecad.org/",
+    "Update": "2023-08-05 18:04:36",
+    "Size": "648.46 MB",
+    "More": "FreeCAD 是一个开源的参数化 3D 建模软件， 主要用于设计任意尺寸 的现实生活对象",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/05/f5e59d59bdb14414bbd79a3155b9fc0e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/05/48d4fe742fa745ac823e3dc382e37fa8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/05/452a4692e791482bbbc5fb29c7ae8673.png"
 }
 ,
 {
@@ -523,22 +523,6 @@
 }
 ,
 {
-    "Name": "H5太阳系",
-    "Version": "1.0",
-    "Filename": "solar_1.0_amd64.deb",
-    "Pkgname": "solar",
-    "Author": "Habrahabr.ru",
-    "Contributor": "shenmo",
-    "Website": "http://habrahabr.ru/post/164899/",
-    "Update": "2020-11-02 07:13:28",
-    "Size": "275.41 KB",
-    "More": "HTML5写成的太阳系模型",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/02/e44afce0-1cda-11eb-ac9a-e1d96d4320c3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/02/e4558430-1cda-11eb-ac9a-e1d96d4320c3.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/02/cdac9520-1cda-11eb-ac9a-e1d96d4320c3.png"
-}
-,
-{
     "Name": "Iriun 电脑使用手机摄像头",
     "Version": "2.7",
     "Filename": "iriunwebcam_2.7_all.deb",
@@ -553,6 +537,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/29/929f7b51d32d4dbebc4ce2a7042bccea.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/29/2b3e288ce42545ef9d2981d1eb4a9328.png"
+}
+,
+{
+    "Name": "H5太阳系",
+    "Version": "1.0",
+    "Filename": "solar_1.0_amd64.deb",
+    "Pkgname": "solar",
+    "Author": "Habrahabr.ru",
+    "Contributor": "shenmo",
+    "Website": "http://habrahabr.ru/post/164899/",
+    "Update": "2020-11-02 07:13:28",
+    "Size": "275.41 KB",
+    "More": "HTML5写成的太阳系模型",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/02/e44afce0-1cda-11eb-ac9a-e1d96d4320c3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/02/e4558430-1cda-11eb-ac9a-e1d96d4320c3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/02/cdac9520-1cda-11eb-ac9a-e1d96d4320c3.png"
 }
 ,
 {
@@ -654,20 +654,6 @@
 }
 ,
 {
-   "Name":"大雄CAD（wine）",
-   "Version":"2019.03.5spark0",
-   "Filename":"com.321cad.spark_2019.03.5spark0_i386.deb",
-   "Pkgname":"com.321cad.spark",
-   "Author":"廖达雄",
-   "Contributor":"anima",
-   "Website":"http://www.321cad.com/",
-   "Update":"2020-09-03 13:46",
-   "Size":"16.85MB",
-   "More":"一款简单好用的CAD绘图工具，具有许多特色功能。"
-}
-
-,
-{
     "Name": "中望 CAD 2024",
     "Version": "24.1.3.4",
     "Filename": "com.zwsoft.zwcad2024_24.1.3.4_amd64.deb",
@@ -683,6 +669,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/ed9410e050b3420caac2b48416ac7289.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/85abd1a315da49a288f5e5eac03b8800.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/57b1d030976a43cd8352d9ddfbc30e21.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/5c52e8a1e7614ee1bfb09d30a72bbdde.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/e066af2fbca448f798addb73322fc051.png"
 }
+,
+{
+   "Name":"大雄CAD（wine）",
+   "Version":"2019.03.5spark0",
+   "Filename":"com.321cad.spark_2019.03.5spark0_i386.deb",
+   "Pkgname":"com.321cad.spark",
+   "Author":"廖达雄",
+   "Contributor":"anima",
+   "Website":"http://www.321cad.com/",
+   "Update":"2020-09-03 13:46",
+   "Size":"16.85MB",
+   "More":"一款简单好用的CAD绘图工具，具有许多特色功能。"
+}
+
 ,
 {
     "Name": "海天鹰取色器",
@@ -715,22 +715,6 @@
 
 ,
 {
-    "Name": "Pointofix屏幕画笔（wine）",
-    "Version": "1.8.0spark0",
-    "Filename": "de.pointofix.spark_1.8.0spark0_i386.deb",
-    "Pkgname": "de.pointofix.spark",
-    "Author": "www.pointofix.de",
-    "Contributor": "sgb76",
-    "Website": "http://www.pointofix.de/",
-    "Update": "2021-08-10 15:09:05",
-    "Size": "10.92 MB",
-    "More": "Pointofix是一款用来在屏幕上作文字标记和画图的工具，可用于讲座、培训和演示。",
-    "Tags": "ubuntu;deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/10/b7db6490-f9a9-11eb-aa35-2b99631d5afc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/10/bd8680f0-f9a9-11eb-aa35-2b99631d5afc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/10/c2270b20-f9a9-11eb-aa35-2b99631d5afc.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/10/b195dcf0-f9a9-11eb-aa35-2b99631d5afc.png"
-}
-,
-{
     "Name": "汉王 PDF OCR（Wine）",
     "Version": "8.1.4.16deepin4",
     "Filename": "com.hwpdfocr.spark_8.1.4.16deepin4_all.deb",
@@ -745,6 +729,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/12/710677c2488b490d8b3d63ab3007bdd0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/12/88e1c391b8f546eaa800f60e1e495c58.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/12/51b3008f9a364fdcb0f050e0ac278d16.png"
+}
+,
+{
+    "Name": "Pointofix屏幕画笔（wine）",
+    "Version": "1.8.0spark0",
+    "Filename": "de.pointofix.spark_1.8.0spark0_i386.deb",
+    "Pkgname": "de.pointofix.spark",
+    "Author": "www.pointofix.de",
+    "Contributor": "sgb76",
+    "Website": "http://www.pointofix.de/",
+    "Update": "2021-08-10 15:09:05",
+    "Size": "10.92 MB",
+    "More": "Pointofix是一款用来在屏幕上作文字标记和画图的工具，可用于讲座、培训和演示。",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/10/b7db6490-f9a9-11eb-aa35-2b99631d5afc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/10/bd8680f0-f9a9-11eb-aa35-2b99631d5afc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/10/c2270b20-f9a9-11eb-aa35-2b99631d5afc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/10/b195dcf0-f9a9-11eb-aa35-2b99631d5afc.png"
 }
 ,
 {
@@ -1374,6 +1374,22 @@
 }
 ,
 {
+    "Name": "Lunacy",
+    "Version": "8.4.0",
+    "Filename": "lunacy_8.4.0_amd64.deb",
+    "Pkgname": "lunacy",
+    "Author": "Icons8",
+    "Contributor": "sgb76",
+    "Website": "https://icons8.com/lunacy",
+    "Update": "2022-03-20 17:30:19",
+    "Size": "200.03 MB",
+    "More": "一款免费的平面设计软件\n\n注：软件内选择多语言（中文）似乎无效，估计是软件的问题",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/20/37095da0-a830-11ec-b4ee-0fec89eef69f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/20/3cbd53a0-a830-11ec-b4ee-0fec89eef69f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/20/2bb15020-a830-11ec-b4ee-0fec89eef69f.png"
+}
+,
+{
     "Name": "浩辰CAD机械 Linux版 2023",
     "Version": "23sp",
     "Filename": "com.gstarmechcad2023.cad_23sp_amd64.deb",
@@ -1438,22 +1454,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/25/d56476a0-771d-11eb-99d7-a504fc0df4c1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/25/dcedc8e0-771d-11eb-99d7-a504fc0df4c1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/25/cdb48990-771d-11eb-99d7-a504fc0df4c1.png"
-}
-,
-{
-    "Name": "Lunacy",
-    "Version": "8.4.0",
-    "Filename": "lunacy_8.4.0_amd64.deb",
-    "Pkgname": "lunacy",
-    "Author": "Icons8",
-    "Contributor": "sgb76",
-    "Website": "https://icons8.com/lunacy",
-    "Update": "2022-03-20 17:30:19",
-    "Size": "200.03 MB",
-    "More": "一款免费的平面设计软件\n\n注：软件内选择多语言（中文）似乎无效，估计是软件的问题",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/20/37095da0-a830-11ec-b4ee-0fec89eef69f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/20/3cbd53a0-a830-11ec-b4ee-0fec89eef69f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/20/2bb15020-a830-11ec-b4ee-0fec89eef69f.png"
 }
 ,
 {
@@ -2371,6 +2371,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/30/f19b9a8fbab24c00bd2e53f26515518a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/30/00ad3ee8e8db4202b197705ffb1cade6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/30/7c4779669fd148b0b5ff3e418748ee4e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/30/930a3567e9854aba87197ab867ce6c28.png"
+}
+,
+{
+    "Name": "七彩色gif动态图制作工具",
+    "Version": "6.8",
+    "Filename": "com.qicaise.gif.deepin_6.8_all.deb",
+    "Torrent_address": "com.qicaise.gif.deepin_6.8_all.deb.torrent",
+    "Pkgname": "com.qicaise.gif.deepin",
+    "Author": "爱在美丽的世界",
+    "Contributor": "wang",
+    "Website": "http://gif.qicaise.com/",
+    "Update": "2024-06-05 18:54:35",
+    "Size": "15.89 MB",
+    "More": "七彩色gif动态图制作工具是一款专业的gif动态图制作软件，内置图片过渡动画，支持导入视频转gif动态图和gif动态图色彩优化。制作微信动态图、微博动态图、淘宝宝贝gif动态图、网页动画等。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/05/320a67e7b109481a8e3bed90cd2bb451.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/05/dc9dd6a20cd144d8acc1c5ed06ce86e1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/05/353b7a2f84324f1496eee13db420234d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/05/0f2d12c5ce69454795f0940b3065f86e.png"
 }
 ,
 {

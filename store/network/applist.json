@@ -475,6 +475,22 @@
 }
 ,
 {
+    "Name": "天翼云盘(Linux版)",
+    "Version": "1.1.0-1_plus_a1",
+    "Filename": "com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb",
+    "Pkgname": "com.cloud.21cn",
+    "Author": "21CN Corporation Limited",
+    "Contributor": "fredoong",
+    "Website": "https://cloud.189.cn/",
+    "Update": "2021-07-06 06:06:28",
+    "Size": "55.56 MB",
+    "More": "A project of Tianyi Cloud Disk\n天翼云盘Linux版",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/06/26bc07e0-dddd-11eb-a494-017e838ccdaa.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/06/1c52a020-dddd-11eb-a494-017e838ccdaa.png"
+}
+,
+{
     "Name": "网易邮箱大师(wine)",
     "Version": "5.0.9.1015",
     "Filename": "com.163.dashi.mailmaster.spark_5.0.9.1015_all.deb",
@@ -489,22 +505,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/97ac45d306bf4abaac2e82ced9bc72fd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/1b087d1b85ab4f14a498081adbb45039.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/1943e27afb594baeab615d81baa22646.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/30/2b31c37cd9dc4698a908bedc38387810.png"
-}
-,
-{
-    "Name": "天翼云盘(Linux版)",
-    "Version": "1.1.0-1_plus_a1",
-    "Filename": "com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb",
-    "Pkgname": "com.cloud.21cn",
-    "Author": "21CN Corporation Limited",
-    "Contributor": "fredoong",
-    "Website": "https://cloud.189.cn/",
-    "Update": "2021-07-06 06:06:28",
-    "Size": "55.56 MB",
-    "More": "A project of Tianyi Cloud Disk\n天翼云盘Linux版",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/06/26bc07e0-dddd-11eb-a494-017e838ccdaa.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/06/1c52a020-dddd-11eb-a494-017e838ccdaa.png"
 }
 ,
 {
@@ -812,23 +812,6 @@
 }
 ,
 {
-    "Name": "文件蜈蚣",
-    "Version": "2.02",
-    "Filename": "com.filecxx.filecxx_2.02_amd64.deb",
-    "Torrent_address": "com.filecxx.filecxx_2.02_amd64.deb.torrent",
-    "Pkgname": "com.filecxx.filecxx",
-    "Author": "filecxx",
-    "Contributor": "shenmo",
-    "Website": "http://www.filecxx.com/zh_CN/index.html",
-    "Update": "2022-06-27 20:34:12",
-    "Size": "27.99 MB",
-    "More": "文件蜈蚣是一个网络文件下载管理器, WebDAV客户端, FTP客户端, 和SSH客户端.\n它快速, 可定制, 用户友好, 多协议支持, 并且免费无广告.\n同时也包含了很多有用的辅助工具如: HTTP请求器, 文件合并工具, 编码/解码工具等.\n和网页浏览器进行集成, 你可以从网页上下载音频和视频, 甚至是加密视频.\n文件蜈蚣让一切变得简单和高效, 这是你能找到的最好的互联网下载管理器.\n\n首次使用请更改文件保存路径，否则所有内容会被保存到/root 下\n免费序列号：http://www.filecxx.com/zh_CN/activation_code.html\n（不是破解）",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/27/ecd5dbe0-f614-11ec-8e3f-63bd0205a602.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/27/ef5ea9a0-f614-11ec-8e3f-63bd0205a602.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/27/ce1e16e0-f614-11ec-8e3f-63bd0205a602.png"
-}
-,
-{
     "Name": "QQ 浏览器",
     "Version": "1.70.3538.0",
     "Filename": "com.qq.browser_1.70.3538.0_amd64.deb",
@@ -843,6 +826,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/bb7fdb7d9d824fe7b1bc425572669f9b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/504e5b88d2ff47b2ad04116fa00013fd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/fd63466f3c8e4e28ab7c85221cf5fbb3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/89596a73686045239ca4c4102dcdfc58.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/28/81276e0b81a34970ab56a1db2a7cb12c.png"
+}
+,
+{
+    "Name": "文件蜈蚣",
+    "Version": "2.02",
+    "Filename": "com.filecxx.filecxx_2.02_amd64.deb",
+    "Torrent_address": "com.filecxx.filecxx_2.02_amd64.deb.torrent",
+    "Pkgname": "com.filecxx.filecxx",
+    "Author": "filecxx",
+    "Contributor": "shenmo",
+    "Website": "http://www.filecxx.com/zh_CN/index.html",
+    "Update": "2022-06-27 20:34:12",
+    "Size": "27.99 MB",
+    "More": "文件蜈蚣是一个网络文件下载管理器, WebDAV客户端, FTP客户端, 和SSH客户端.\n它快速, 可定制, 用户友好, 多协议支持, 并且免费无广告.\n同时也包含了很多有用的辅助工具如: HTTP请求器, 文件合并工具, 编码/解码工具等.\n和网页浏览器进行集成, 你可以从网页上下载音频和视频, 甚至是加密视频.\n文件蜈蚣让一切变得简单和高效, 这是你能找到的最好的互联网下载管理器.\n\n首次使用请更改文件保存路径，否则所有内容会被保存到/root 下\n免费序列号：http://www.filecxx.com/zh_CN/activation_code.html\n（不是破解）",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/27/ecd5dbe0-f614-11ec-8e3f-63bd0205a602.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/27/ef5ea9a0-f614-11ec-8e3f-63bd0205a602.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/27/ce1e16e0-f614-11ec-8e3f-63bd0205a602.png"
 }
 ,
 {
@@ -896,23 +896,6 @@
 }
 ,
 {
-    "Name": "Google Chrome 开发者版",
-    "Version": "124.0.6342.3-1",
-    "Filename": "google-chrome-unstable_124.0.6342.3-1_amd64.deb",
-    "Torrent_address": "google-chrome-unstable_124.0.6342.3-1_amd64.deb.torrent",
-    "Pkgname": "google-chrome-unstable",
-    "Author": "Chrome Linux Team <chromium-dev@chromium.org>",
-    "Contributor": "he",
-    "Website": "https://www.google.cn/intl/zh-CN/chrome/dev/",
-    "Update": "2024-03-10 08:52:58",
-    "Size": "101.86 MB",
-    "More": "来自谷歌的网络浏览器\n谷歌浏览器是一款将极简设计与先进技术相结合的浏览器，使网络更快、更安全、更容易。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/925f44f2e7e449f7b610d91a7ca8d0db.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/10/512bdbf92b024712b8b19aa9310d2cb7.png"
-}
-,
-{
     "Name": "奇安信浏览器 1.0.1365.3-1（带 Flash）",
     "Version": "1.0.1365.3-1",
     "Filename": "com.qianxin.browser-stable-1.0.1365.3-1_1.0.1365.3-1_amd64.deb",
@@ -927,6 +910,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/19/953761721f1a44d4826165de612ecbc8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/19/7d7cff45df9a45eda0ca5a9ab5cf6e98.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/19/7f716509db8a4b379c0b2589b1eb04d9.png"
+}
+,
+{
+    "Name": "Google Chrome 开发者版",
+    "Version": "124.0.6342.3-1",
+    "Filename": "google-chrome-unstable_124.0.6342.3-1_amd64.deb",
+    "Torrent_address": "google-chrome-unstable_124.0.6342.3-1_amd64.deb.torrent",
+    "Pkgname": "google-chrome-unstable",
+    "Author": "Chrome Linux Team <chromium-dev@chromium.org>",
+    "Contributor": "he",
+    "Website": "https://www.google.cn/intl/zh-CN/chrome/dev/",
+    "Update": "2024-03-10 08:52:58",
+    "Size": "101.86 MB",
+    "More": "来自谷歌的网络浏览器\n谷歌浏览器是一款将极简设计与先进技术相结合的浏览器，使网络更快、更安全、更容易。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/925f44f2e7e449f7b610d91a7ca8d0db.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/10/512bdbf92b024712b8b19aa9310d2cb7.png"
 }
 ,
 {
@@ -1542,6 +1542,23 @@
 }
 ,
 {
+    "Name": "115网盘",
+    "Version": "2.0.7.9",
+    "Filename": "115_2.0.7.9_amd64.deb",
+    "Torrent_address": "115_2.0.7.9_amd64.deb.torrent",
+    "Pkgname": "115",
+    "Author": "115 <dev@115.com>",
+    "Contributor": "115 <dev@115.com>",
+    "Website": "https://115.com/",
+    "Update": "2024-02-25 17:23:29",
+    "Size": "101.68 MB",
+    "More": "115电脑版支持115账号快捷登录、收藏夹云同步、文件拖拽备份、批量上传下载等功能，为用户提供安全、稳定、高效和智能的云存储服务。\n文件分门别类，支持全局搜索与批量操作，并有略缩图展示模式，帮助你全面掌控文件资源，随心所欲。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/25/478fe28f948541f98f12f4ff2c8c9b3d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/25/5334aad048ad4ad2a38b1215ee144e1a.png"
+}
+,
+{
     "Name": "水狐",
     "Version": "3.1.0",
     "Filename": "waterfox_3.1.0_amd64.deb",
@@ -1571,23 +1588,6 @@
     "Tags": "ubuntu;deepin;uos;community",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/f3c05e40-4d13-11eb-92f3-bbda55832fa7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/02/f1376970-4d13-11eb-92f3-bbda55832fa7.png"
-}
-,
-{
-    "Name": "115网盘",
-    "Version": "2.0.7.9",
-    "Filename": "115_2.0.7.9_amd64.deb",
-    "Torrent_address": "115_2.0.7.9_amd64.deb.torrent",
-    "Pkgname": "115",
-    "Author": "115 <dev@115.com>",
-    "Contributor": "115 <dev@115.com>",
-    "Website": "https://115.com/",
-    "Update": "2024-02-25 17:23:29",
-    "Size": "101.68 MB",
-    "More": "115电脑版支持115账号快捷登录、收藏夹云同步、文件拖拽备份、批量上传下载等功能，为用户提供安全、稳定、高效和智能的云存储服务。\n文件分门别类，支持全局搜索与批量操作，并有略缩图展示模式，帮助你全面掌控文件资源，随心所欲。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/25/478fe28f948541f98f12f4ff2c8c9b3d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/25/5334aad048ad4ad2a38b1215ee144e1a.png"
 }
 ,
 {
@@ -2391,6 +2391,23 @@
 }
 ,
 {
+    "Name": "哔哩下载姬（Linux版）",
+    "Version": "1.0.10-1",
+    "Filename": "downkyi_1.0.10-1_amd64.deb",
+    "Torrent_address": "downkyi_1.0.10-1_amd64.deb.torrent",
+    "Pkgname": "downkyi",
+    "Author": "yaobiao131",
+    "Contributor": "sgb",
+    "Website": "https://github.com/yaobiao131/downkyicore",
+    "Update": "2024-06-02 00:16:32",
+    "Size": "38.66 MB",
+    "More": "基于哔哩下载姬Windows版和AvaloniaUI制作的跨平台版本",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/d127b60f946c4b0a89109dcfb6139167.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/f11ffe9e58e245718abfd4470cadb65c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/49ee9d18432f4d3e92e38ba3a482d5cb.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/46d00e022bc8417eb510e5ca2734cbb6.png"
+}
+,
+{
     "Name": "BT种子编辑器",
     "Version": "0.3.18-master-20240415",
     "Filename": "torrent-file-editor_0.3.18-master-20240415_amd64.deb",
@@ -2442,20 +2459,20 @@
 }
 ,
 {
-    "Name": "哔哩下载姬（Linux版）",
-    "Version": "1.0.10-1",
-    "Filename": "downkyi_1.0.10-1_amd64.deb",
-    "Torrent_address": "downkyi_1.0.10-1_amd64.deb.torrent",
-    "Pkgname": "downkyi",
-    "Author": "yaobiao131",
-    "Contributor": "sgb",
-    "Website": "https://github.com/yaobiao131/downkyicore",
-    "Update": "2024-06-02 00:16:32",
-    "Size": "38.66 MB",
-    "More": "基于哔哩下载姬Windows版和AvaloniaUI制作的跨平台版本",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/d127b60f946c4b0a89109dcfb6139167.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/f11ffe9e58e245718abfd4470cadb65c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/49ee9d18432f4d3e92e38ba3a482d5cb.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/46d00e022bc8417eb510e5ca2734cbb6.png"
+    "Name": "Pixso",
+    "Version": "1.34.1.0deepin0",
+    "Filename": "cn.pixso.deepin_1.34.1.0deepin0_all.deb",
+    "Torrent_address": "cn.pixso.deepin_1.34.1.0deepin0_all.deb.torrent",
+    "Pkgname": "cn.pixso.deepin",
+    "Author": "wang",
+    "Contributor": "wang",
+    "Website": "https://pixso.cn/",
+    "Update": "2024-06-03 21:03:26",
+    "Size": "153.13 MB",
+    "More": "pixso是一体化设计协作工具,助力产研设团队制作原型,ui/ux设计,视觉设计,低代码交付时获得更轻松流畅的工作体验,让团队协作更高效。支持sketch,figma格式。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/7a0bafbe06614fbcbf06fdff6b0ce383.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/4e021c1100e042ffbc569ebe3be505af.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/53c5ba918ec34951856cb0efcf25c5fe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/19eff2add87d4587aa32e377dc26d280.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/03/4c6b0778b67940ff90c7a85db23a5453.png"
 }
 ,
 {
@@ -2490,23 +2507,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/76f975593fa64114944c0d15bb37c439.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/fcd7bd1efccf47d096899ed9eb68019d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/799c32d36e5c4d12af9994133c82f06f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/30/39c35facca4c4456ab7f2e4efbd2f6ab.png"
-}
-,
-{
-    "Name": "Pixso",
-    "Version": "1.34.1.0deepin0",
-    "Filename": "cn.pixso.deepin_1.34.1.0deepin0_all.deb",
-    "Torrent_address": "cn.pixso.deepin_1.34.1.0deepin0_all.deb.torrent",
-    "Pkgname": "cn.pixso.deepin",
-    "Author": "wang",
-    "Contributor": "wang",
-    "Website": "https://pixso.cn/",
-    "Update": "2024-06-03 21:03:26",
-    "Size": "153.13 MB",
-    "More": "pixso是一体化设计协作工具,助力产研设团队制作原型,ui/ux设计,视觉设计,低代码交付时获得更轻松流畅的工作体验,让团队协作更高效。支持sketch,figma格式。",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/7a0bafbe06614fbcbf06fdff6b0ce383.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/4e021c1100e042ffbc569ebe3be505af.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/53c5ba918ec34951856cb0efcf25c5fe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/19eff2add87d4587aa32e377dc26d280.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/03/4c6b0778b67940ff90c7a85db23a5453.png"
 }
 ,
 {

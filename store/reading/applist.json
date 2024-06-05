@@ -486,20 +486,6 @@
 }
 ,
 {
-   "Name":"saladict-desktop",
-   "Version":"1.0.0-14",
-   "Filename":"saladict-desktop_1.0.0_amd64.deb",
-   "Pkgname":"saladict-desktop",
-   "Author":"zenghongtu",
-   "Contributor":"anima",
-   "Website":"https://github.com/zenghongtu/saladict-desktop/",
-   "Update":"2020-09-02 08:18",
-   "Size":"49.09MB",
-   "More":"基于crimxext-saladict，聚合了 N 多词典的桌面翻译与划词工具，功能强大，支持 Windows 、 Mac 和 Linux。"
-}
-
-,
-{
     "Name": "ePUBee电子书管理器（wine）",
     "Version": "2.0.8.1021spark1",
     "Filename": "com.epubee.spark_2.0.8.1021spark1_i386.deb",
@@ -514,6 +500,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/08/88904550-3908-11eb-a40f-89c5dde8e550.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/08/8e1c40f0-3908-11eb-a40f-89c5dde8e550.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/08/7c80a7a0-3908-11eb-a40f-89c5dde8e550.png"
 }
+,
+{
+   "Name":"saladict-desktop",
+   "Version":"1.0.0-14",
+   "Filename":"saladict-desktop_1.0.0_amd64.deb",
+   "Pkgname":"saladict-desktop",
+   "Author":"zenghongtu",
+   "Contributor":"anima",
+   "Website":"https://github.com/zenghongtu/saladict-desktop/",
+   "Update":"2020-09-02 08:18",
+   "Size":"49.09MB",
+   "More":"基于crimxext-saladict，聚合了 N 多词典的桌面翻译与划词工具，功能强大，支持 Windows 、 Mac 和 Linux。"
+}
+
 ,
 {
     "Name": "eSearch",

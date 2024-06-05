@@ -92,15 +92,15 @@
 {
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "cn.flamescion.bookworm-compatibility-mode_12.4.12.2_arm64.deb",
-    "More": "ACE兼容环境，使用bwrap容器在deepin或UOS上使用Debian 12的应用，为你带来更好的使用体验！\n使用教程： https://bbs.deepin.org/post/261794 \n更新内容：\n* adjust: 废弃了bookworm-run-root，重制了bookworm-run以提升代码质量\n* fix: 部分应用卸载失败的问题\n* fix: 光标主题失效的问题\n* fix: 时区失效\n* 修复v23下无法切换主题的问题",
+    "Filename": "cn.flamescion.bookworm-compatibility-mode_12.4.14_arm64.deb",
+    "More": "ACE兼容环境，使用bwrap容器在deepin或UOS上使用Debian 12的应用，为你带来更好的使用体验！\n使用教程： https://bbs.deepin.org/post/261794 \n更新内容：\n\n\n    feat: UOS 1070 /data直通\n    adjust: localtime不再直通，而是首次Init复制，避免部分包配置问题\n    adjust: 移除依赖gcc\n",
     "Name": "ACE兼容环境",
     "Pkgname": "cn.flamescion.bookworm-compatibility-mode",
     "Size": "146 Mb",
     "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "cn.flamescion.bookworm-compatibility-mode_12.4.12.2_arm64.deb.torrent",
-    "Update": "2024-04-19 19:47:28",
-    "Version": "12.4.12.2",
+    "Torrent_address": "cn.flamescion.bookworm-compatibility-mode_12.4.14_arm64.deb.torrent",
+    "Update": "2024-06-05 20:05:54",
+    "Version": "12.4.14",
     "Website": "https://gitee.com/amber-compatability-environment/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.flamescion.bookworm-compatibility-mode/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.flamescion.bookworm-compatibility-mode/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.flamescion.bookworm-compatibility-mode/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.flamescion.bookworm-compatibility-mode/screen_3.png\"]"
@@ -498,24 +498,6 @@
 
 ,
 {
-    "Author": "MT管理器",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "uengine-dc-bin.mt.plus_2.12.3_all.deb",
-    "More": "Android 平台文件管理 & 逆向修改神器",
-    "Name": "MT管理器（UEngine）",
-    "Pkgname": "uengine-dc-bin.mt.plus",
-    "Size": "18 Mb",
-    "Tags": "deepin;uos",
-    "Torrent_address": "uengine-dc-bin.mt.plus_2.12.3_all.deb.torrent",
-    "Update": "2023-03-05 21:05:25",
-    "Version": "2.12.3",
-    "Website": "https://mt2.cn/",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/screen_2.png\"]"
-}
-
-,
-{
     "Author": "gfdgd xi<3025613752@qq.com>、为什么您不喜欢熊出没和阿布呢",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "spark-ultraliso_1.2_arm64.deb",
@@ -530,6 +512,24 @@
     "Website": "https://cn.ultraiso.net/",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/spark-ultraliso/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/spark-ultraliso/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/spark-ultraliso/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/spark-ultraliso/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/spark-ultraliso/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "MT管理器",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "uengine-dc-bin.mt.plus_2.12.3_all.deb",
+    "More": "Android 平台文件管理 & 逆向修改神器",
+    "Name": "MT管理器（UEngine）",
+    "Pkgname": "uengine-dc-bin.mt.plus",
+    "Size": "18 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "uengine-dc-bin.mt.plus_2.12.3_all.deb.torrent",
+    "Update": "2023-03-05 21:05:25",
+    "Version": "2.12.3",
+    "Website": "https://mt2.cn/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/screen_2.png\"]"
 }
 
 ,
@@ -624,24 +624,6 @@
 
 ,
 {
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "spark-store-submitter_1.5.6.4-20240410_arm64.deb",
-    "More": "社区商店投稿器 \n1. 优雅的点线效果的背景\n2. 优雅的自由角度的通知与问候\n3. 优雅的可应用信息显示对话框\n4. 优雅的将可应用信息自动填充\n5. 优雅的可多选的下拉列表\n6. 优雅的微型加载控件效果\n7. 优雅的添加默认的空图标\n---\n旨为高效投稿而设计的软件\n\n2023/07/06: 在主面板右上角 + 部分增加右击添加默认空图标功能\n2023/08/31: 前端面板加入长文本编辑器实现，双击应用介绍框可弹出\n2023/09/12: 使用 Cdn 扫描方式实现根据包名查询应用信息(原接口过时)\n2023/11/06: 正式开始支持 DDE/KDE 桌面环境 dart 主题模式兼容",
-    "Name": "星火商店投稿器",
-    "Pkgname": "spark-store-submitter",
-    "Size": "2864 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "spark-store-submitter_1.5.6.4-20240410_arm64.deb.torrent",
-    "Update": "2024-04-10 18:46:21",
-    "Version": "1.5.6.4-20240410",
-    "Website": "https://gitee.com/deepin-community-store/dcs-submitter",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store-submitter/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store-submitter/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store-submitter/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store-submitter/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store-submitter/screen_4.png\"]"
-}
-
-,
-{
     "Author": "DebuggerX <dx8913712@163.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.debuggerx.fcitx5-customizer_1.0.6_all.deb",
@@ -660,20 +642,20 @@
 
 ,
 {
-    "Author": "qihu360 company <support@360.cn>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "360sd_1.0.0.1012_arm64.deb",
-    "More": "360杀毒",
-    "Name": "360杀毒",
-    "Pkgname": "360sd",
-    "Size": "33 Mb",
-    "Tags": "deepin;uos",
-    "Torrent_address": "360sd_1.0.0.1012_arm64.deb.torrent",
-    "Update": "2023-03-05 18:28:39",
-    "Version": "1.0.0.1012",
-    "Website": "http://www.360.cn/",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/360sd/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/360sd/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/360sd/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/360sd/screen_3.png\"]"
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-store-submitter_1.5.6.4-20240410_arm64.deb",
+    "More": "社区商店投稿器 \n1. 优雅的点线效果的背景\n2. 优雅的自由角度的通知与问候\n3. 优雅的可应用信息显示对话框\n4. 优雅的将可应用信息自动填充\n5. 优雅的可多选的下拉列表\n6. 优雅的微型加载控件效果\n7. 优雅的添加默认的空图标\n---\n旨为高效投稿而设计的软件\n\n2023/07/06: 在主面板右上角 + 部分增加右击添加默认空图标功能\n2023/08/31: 前端面板加入长文本编辑器实现，双击应用介绍框可弹出\n2023/09/12: 使用 Cdn 扫描方式实现根据包名查询应用信息(原接口过时)\n2023/11/06: 正式开始支持 DDE/KDE 桌面环境 dart 主题模式兼容",
+    "Name": "星火商店投稿器",
+    "Pkgname": "spark-store-submitter",
+    "Size": "2864 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "spark-store-submitter_1.5.6.4-20240410_arm64.deb.torrent",
+    "Update": "2024-04-10 18:46:21",
+    "Version": "1.5.6.4-20240410",
+    "Website": "https://gitee.com/deepin-community-store/dcs-submitter",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store-submitter/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store-submitter/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store-submitter/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store-submitter/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store-submitter/screen_4.png\"]"
 }
 
 ,
@@ -692,6 +674,24 @@
     "Website": "https://gitee.com/deepin-community-store/spark-wine",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "qihu360 company <support@360.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "360sd_1.0.0.1012_arm64.deb",
+    "More": "360杀毒",
+    "Name": "360杀毒",
+    "Pkgname": "360sd",
+    "Size": "33 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "360sd_1.0.0.1012_arm64.deb.torrent",
+    "Update": "2023-03-05 18:28:39",
+    "Version": "1.0.0.1012",
+    "Website": "http://www.360.cn/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/360sd/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/360sd/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/360sd/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/360sd/screen_3.png\"]"
 }
 
 ,
