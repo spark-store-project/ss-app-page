@@ -3848,6 +3848,23 @@ SHA512: 5faf11d0a57a5d2902a77432107ce6cd257f95f07dd930a80ecacecacf507f74dc2ebfda
 Homepage: simple-image-filter
 Description: simple image filter.
 
+Package: com.qicase.tupian.deepin
+Architecture: all
+Version: 16.1
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: wang
+Installed-Size: 6658
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: image_graphics/com.qicase.tupian.deepin/com.qicase.tupian.deepin_16.1_all.deb
+Size: 6664968
+MD5sum: 8e174e44ffa760a1fc183be8910ead74
+SHA1: a4cdd8ae9237445ac1c8a03c280900be063314ff
+SHA256: 025423128765cfa6f3faff6b4ec5a8a6790fc0a18830ccefc35b6e3ee604430b
+SHA512: f00b4cbb089eb9f63cafdb72d64fa4944bbf806610a89ddb4221fad8a49e13f5b1379ada2071c8d39b1d568d80c97668ff4e87673fe4ae2a7b31cd55a908c8b7
+Description: .主要功能：图片压缩，缩小图片尺寸，图片旋转，图片加文字或图片水印，调整亮度与对比度，图片去色，去除图片Exif信息(拍摄时间，相机型号信息)，CMYK转RGB等，全部支持批量处理。支持处理的图片格式：JPG, PNG, BMP, GIF(静态), PSD, TBI。
+
 Package: cn.lceda
 Architecture: arm64
 Version: 6.5.39
@@ -3883,6 +3900,23 @@ Description:
   draw.io desktop
 License: Apache-2.0
 Vendor: JGraph <support@draw.io>
+
+Package: com.qicaise.v.deepin
+Architecture: all
+Version: 11.1
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: wang
+Installed-Size: 40548
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: image_graphics/com.qicaise.v.deepin/com.qicaise.v.deepin_11.1_all.deb
+Size: 40556384
+MD5sum: 049e457f6e098cd709ce248fec86e1ed
+SHA1: acfd42f4c2150f1273c7a8f932602c0d1a18a9cb
+SHA256: 087fc9aa96449a0288a5560627724905e0e7f23f5f7c7b4c2868a82b195f7247
+SHA512: fa08085e4f2701ce55592421df7b87e140e193b1560b41c7b6e43592928a322ed3cfa946f7212403ca65e248c0db200c89b8691209fe69cbf0c85189e45b7fae
+Description: .七彩色淘宝主图视频制作工具，制作主图视频很方便！将多张宝贝图片合并成拥有多种动画展示效果的主图视频。支持在制作的淘宝主图视频上添加文字和图标。提示：由正方形的图片输出的视频展示效果最好。
 
 Package: com.zwsoft.zwcad2023
 Architecture: arm64
@@ -5753,6 +5787,38 @@ Description: Business Sogou Input Method
  engines in terms of the volume of the vocabulary database and its
  accuracy. Sogou input method is the most popular input methods in
  China, and Sogou promises it will always be free of charge.
+
+Package: wps-office
+Architecture: arm64
+Version: 12.8.2.16969.AK.preload.sw
+Multi-Arch: foreign
+Priority: optional
+Section: editors
+Maintainer: WPS Office Community Team <wps_linux@kingsoft.com>
+Installed-Size: 2830832
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, libc6 (>= 2.15) | libc6.1, libfreetype6 (>= 2.4),
+         libcups2, libglib2.0-0, libglu1-mesa,
+         libsm6, libxrender1, libfontconfig1,
+         libxext6, libxcb1, libbz2-1.0
+Recommends: ttf-mscorefonts-installer
+Replaces: kingsoft-office
+Filename: office/wps-office/wps-office_12.8.2.16969.AK.preload.sw_arm64.deb
+Size: 719320480
+MD5sum: 5e4819cf6ca849f4aae9b707fe481c0a
+SHA1: b428fcbbbacdf0b7b30f237f98460266662c8b69
+SHA256: e6ee4ed7b1055fd99e75c8a335cdefbebb3be1bf6a69b8f71aef6e6482ea09ff
+SHA512: 6e1c7a9fe9458dc23352ed24ecdb9d55c7c596a59f620cd2310362fe8132515699b445d9d5863b71e269e7dbc76462800332ba4a066ee9e8ff63e06f13118bfd
+Homepage: http://wps-community.org
+Description: WPS Office, is an office productivity suite.
+ WPS Office including Writer, Presentation
+ and Spreadsheets, is a powerful office suite, which is able to process
+ word file, produce wonderful slides, and analyze data as well. It is
+ deeply compatible with all of the latest Microsoft Office file formats. 
+ It can easily open and read the documents created with Microsoft Office.
+ This is the Linux version, and it's now a TESTING package.
+ Welcome to our website: http://wps-community.org
+Name: wps-office
+Relocations: /opt/kingsoft
 
 Package: wps-office
 Architecture: arm64
@@ -7931,6 +7997,27 @@ MD5sum: 0bd92af5145245aa81bcb1de07de945b
 SHA1: f0b7df3e861a29361782768e1e90e2419df99a79
 SHA256: b46ae2d8d7509094df0c5d2f202d4f65e94088b3ccb168285a7728b023ee60ab
 SHA512: 932dbdb326b94765ad4b268b377add1dd42f64764c77b190bf284cdb1d4963f4123d518cc479e76bc0d6d49aaaa221a119f663d0e7300d584f8ae315ba04acee
+Homepage: https://im.qq.com
+Description: 
+  QQ
+License: unknown
+Vendor: Tencent <QQ-Team@tencent.com>
+
+Package: linuxqq
+Architecture: arm64
+Version: 3.2.9-24568
+Priority: optional
+Section: default
+Maintainer: Tencent <QQ-Team@tencent.com>
+Installed-Size: 533695
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: chat/linuxqq/linuxqq_3.2.9-24568_arm64.deb
+Size: 145934128
+MD5sum: 01d6e0e617e330d15123a30efe008494
+SHA1: fc0a6a45b2211a52f8b3116500979de9988b5d31
+SHA256: c19c9a22425d183bc8c3c3eb4653a22a9a37add7842e5c5804fc92ea595b2f8c
+SHA512: 930a190afac76da315385dde004ace0cb1982b5dc3d3729a17450fc11bc155b509d25ea517861662cb55cb726d61097b46ca17cf04b46868f60f66bbf442c622
 Homepage: https://im.qq.com
 Description: 
   QQ

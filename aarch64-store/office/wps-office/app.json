@@ -1,16 +1,16 @@
 {
     "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "wps-office_11.1.0.11719_arm64.deb",
-    "More": "WPS Office\n\n懵仙兔兔补丁版的WPS Office\n- 1.修复了pdf相关功能失效的问题\n- 2.修复了字体显示异常粗壮的问题\n\n注：\n补丁是根据你本地系统依赖环境全自动处理是否需要补丁介入\n\n兼容性测试：\ndebian testing：功能全部正常\ndebian 12：功能全部正常\nubuntu 22.04：功能全部正常\ndeepin 23b3：功能全部正常\ndeepin 20.9：功能全部正常",
+    "Filename": "wps-office_12.8.2.16969.AK.preload.sw_arm64.deb",
+    "More": "WPS Office 365\n\n",
     "Name": "WPS Office",
     "Pkgname": "wps-office",
-    "Size": "362 Mb",
+    "Size": "719 Mb",
     "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "wps-office_11.1.0.11719_arm64.deb.torrent",
-    "Update": "2024-02-23 16:35:29",
-    "Version": "11.1.0.11719",
+    "Torrent_address": "wps-office_12.8.2.16969.AK.preload.sw_arm64.deb.torrent",
+    "Update": "2024-06-06 12:39:02",
+    "Version": "12.8.2.16969.AK.preload.sw",
     "Website": "http://wps-community.org",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/wps-office/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/wps-office/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/wps-office/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/wps-office/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/wps-office/screen_4.png\"]"
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/office/wps-office/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/wps-office/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/wps-office/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/wps-office/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/wps-office/screen_4.png\"]"
 }

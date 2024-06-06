@@ -252,24 +252,6 @@
 
 ,
 {
-    "Author": "shenmo <jifengshenmo@outlook.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "shirodeb_0.1.2.1_all.deb",
-    "More": "ShiroDEB 是一个方便的脚本集，用于按照 UOS 规范将软件快速打包成 deb 包。",
-    "Name": "Shirodeb",
-    "Pkgname": "shirodeb",
-    "Size": "10 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "shirodeb_0.1.2.1_all.deb.torrent",
-    "Update": "2023-10-24 14:27:52",
-    "Version": "0.1.2.1",
-    "Website": "https://gitee.com/spark-community-works-collections/shirodeb",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/development/shirodeb/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/shirodeb/screen_1.png\"]"
-}
-
-,
-{
     "Author": "sgb76 <sgb76@163.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.github.skylark.spark_4.0.4spark1_all.deb",
@@ -284,6 +266,24 @@
     "Website": "https://github.com/adonais/skylark",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/development/com.github.skylark.spark/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/com.github.skylark.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/com.github.skylark.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/com.github.skylark.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <jifengshenmo@outlook.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "shirodeb_0.1.2.1_all.deb",
+    "More": "ShiroDEB 是一个方便的脚本集，用于按照 UOS 规范将软件快速打包成 deb 包。",
+    "Name": "Shirodeb",
+    "Pkgname": "shirodeb",
+    "Size": "10 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "shirodeb_0.1.2.1_all.deb.torrent",
+    "Update": "2023-10-24 14:27:52",
+    "Version": "0.1.2.1",
+    "Website": "https://gitee.com/spark-community-works-collections/shirodeb",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/development/shirodeb/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/shirodeb/screen_1.png\"]"
 }
 
 ,

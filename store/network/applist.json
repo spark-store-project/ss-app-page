@@ -160,14 +160,14 @@
     "Torrent_address": "browser360-cn-stable_13.3.1013.59-1_amd64.deb.torrent",
     "Pkgname": "browser360-cn-stable",
     "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
-    "Contributor": "Fredoong",
+    "Contributor": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
     "Website": "https://browser.360.net/gc/",
-    "Update": "2024-05-31 03:59:35",
+    "Update": "2024-06-06 11:34:55",
     "Size": "128.06 MB",
     "More": "360安全浏览器\n360安全浏览器结合最新的Chromium内核，领先的国密套件支持，完整的信创迁移方案，为政企客户提供最极速、最安全、最易用的浏览器。",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/935582e5687b40dca097d0a2f352a310.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/31/7f42d1bdc324448c93afba6a0c8f0905.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/06/daa155725b2a4e348fcf5f2a7cab7713.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/06/e67b24c6e7a74373965ac852c64d92e0.png"
 }
 ,
 {
@@ -1345,6 +1345,20 @@
 }
 ,
 {
+   "Name":"云日历",
+   "Version":"1.0.2",
+   "Filename":"mytime_linux_1.02_amd64.deb",
+   "Pkgname":"mytime",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":"https://mytime.ruanmei.com/",
+   "Update":"2020-06-25 18:06",
+   "Size":"52.42MB",
+   "More":"使用云日历管理日程、记录生活、订阅精彩，还有各种小工具使您的生活更便捷。"
+}
+
+,
+{
     "Name": "360安全浏览器Beta版",
     "Version": "13.108.1000.22-1",
     "Filename": "browser360-cn-beta_13.108.1000.22-1_amd64.deb",
@@ -1360,20 +1374,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/a944a7583bce4415944c29fdd9469afe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/f2e6a827db134991bbfa1a62a5f3fbe1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/4e405fa64d764bb68cb9ac50a6707e68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/86a4a2d5af2e4852a806a9d29c3684da.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/27/a17cd46db7d8458190c9b991d48f16fe.png"
 }
-,
-{
-   "Name":"云日历",
-   "Version":"1.0.2",
-   "Filename":"mytime_linux_1.02_amd64.deb",
-   "Pkgname":"mytime",
-   "Author":" ",
-   "Contributor":"anima",
-   "Website":"https://mytime.ruanmei.com/",
-   "Update":"2020-06-25 18:06",
-   "Size":"52.42MB",
-   "More":"使用云日历管理日程、记录生活、订阅精彩，还有各种小工具使您的生活更便捷。"
-}
-
 ,
 {
     "Name": "腾讯微云（wine）",
@@ -1575,22 +1575,6 @@
 }
 ,
 {
-    "Name": "megasync",
-    "Version": "4.3.8-1.1",
-    "Filename": "MEGASync.deb",
-    "Pkgname": "megasync",
-    "Author": "MEGA Linux Team <linux@mega.co.nz>",
-    "Contributor": "neko",
-    "Website": "https://mega.nz",
-    "Update": "2021-01-02 16:03:12",
-    "Size": "12.29 MB",
-    "More": "linux下最好用的网盘",
-    "Tags": "ubuntu;deepin;uos;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/f3c05e40-4d13-11eb-92f3-bbda55832fa7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/02/f1376970-4d13-11eb-92f3-bbda55832fa7.png"
-}
-,
-{
     "Name": "Clash Nyanpasu～(∠・ω< )⌒☆​ ",
     "Version": "1.5.1",
     "Filename": "clash-nyanpasu_1.5.1_amd64.deb",
@@ -1605,6 +1589,22 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/e7122150-f8dd-11ee-94b3-3598cf0b4d68.gif\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/d8f3eef0-f8dd-11ee-94b3-3598cf0b4d68.png"
+}
+,
+{
+    "Name": "megasync",
+    "Version": "4.3.8-1.1",
+    "Filename": "MEGASync.deb",
+    "Pkgname": "megasync",
+    "Author": "MEGA Linux Team <linux@mega.co.nz>",
+    "Contributor": "neko",
+    "Website": "https://mega.nz",
+    "Update": "2021-01-02 16:03:12",
+    "Size": "12.29 MB",
+    "More": "linux下最好用的网盘",
+    "Tags": "ubuntu;deepin;uos;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/f3c05e40-4d13-11eb-92f3-bbda55832fa7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/02/f1376970-4d13-11eb-92f3-bbda55832fa7.png"
 }
 ,
 {

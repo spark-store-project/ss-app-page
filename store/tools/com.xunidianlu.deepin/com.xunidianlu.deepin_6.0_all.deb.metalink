@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.xunidianlu.deepin_6.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">47a95e0f84ed44d4a008990acbeec630</hash>
+				  
+				<hash type="sha1">73c35ba8ecc25d47c951e11df273cc40c9b356d1</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/tools/com.xunidianlu.deepin/com.xunidianlu.deepin_6.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/com.xunidianlu.deepin/com.xunidianlu.deepin_6.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/com.xunidianlu.deepin/com.xunidianlu.deepin_6.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/com.xunidianlu.deepin/com.xunidianlu.deepin_6.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/tools/com.xunidianlu.deepin/com.xunidianlu.deepin_6.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/tools/com.xunidianlu.deepin/com.xunidianlu.deepin_6.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

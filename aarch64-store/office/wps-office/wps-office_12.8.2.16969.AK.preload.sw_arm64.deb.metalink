@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="wps-office_12.8.2.16969.AK.preload.sw_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5e4819cf6ca849f4aae9b707fe481c0a</hash>
+				  
+				<hash type="sha1">b428fcbbbacdf0b7b30f237f98460266662c8b69</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/aarch64-store/office/wps-office/wps-office_12.8.2.16969.AK.preload.sw_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/office/wps-office/wps-office_12.8.2.16969.AK.preload.sw_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/office/wps-office/wps-office_12.8.2.16969.AK.preload.sw_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/office/wps-office/wps-office_12.8.2.16969.AK.preload.sw_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/office/wps-office/wps-office_12.8.2.16969.AK.preload.sw_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/office/wps-office/wps-office_12.8.2.16969.AK.preload.sw_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

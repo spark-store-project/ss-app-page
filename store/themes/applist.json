@@ -749,20 +749,20 @@
 }
 ,
 {
-    "Name": "拟态时钟屏保程序",
-    "Version": "0.0.2-20221003",
-    "Filename": "mimicry-clock-screensaver_0.0.2-20221003_amd64.deb",
-    "Torrent_address": "mimicry-clock-screensaver_0.0.2-20221003_amd64.deb.torrent",
+    "Name": "拟态时钟屏保程序(升级多屏适配)",
+    "Version": "1.0.0-20240606",
+    "Filename": "mimicry-clock-screensaver_1.0.0-20240606_amd64.deb",
+    "Torrent_address": "mimicry-clock-screensaver_1.0.0-20240606_amd64.deb.torrent",
     "Pkgname": "mimicry-clock-screensaver",
     "Author": "zinface <zinface@163.com>",
     "Contributor": "zinface <zinface@163.com>",
     "Website": "https://gitee.com/zinface/qt.mimicry-clock-screensaver",
-    "Update": "2022-10-03 17:06:02",
-    "Size": "489.08 KB",
-    "More": "适用于深度操作系统的拟态时钟屏保程序",
+    "Update": "2024-06-06 11:47:31",
+    "Size": "491.01 KB",
+    "More": "适用于深度操作系统的拟态时钟屏保程序\n\nv1.0.0: 支持多个显示器预览屏保",
     "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/03/c35a810a-70dd-4757-9c11-2601b5c7cb14.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/03/c54334b8-7596-41bc-a492-5a94a2ba287c.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/06/bbdedf6627c94966aca0f0b26b7d4c75.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/06/7e7fce91b26d44c48987e1477ac72c62.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/06/3ab73b745967403cbbaa1bf5da4606ea.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/06/68fae0d992d945beb4146288e605a95c.png"
 }
 ,
 {

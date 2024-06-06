@@ -649,22 +649,6 @@
 }
 ,
 {
-    "Name": "海天鹰PDF",
-    "Version": "1.0",
-    "Filename": "com.htypdf.spark_1.0_all.deb",
-    "Pkgname": "com.htypdf.spark",
-    "Author": "海天鹰",
-    "Contributor": "gfdgd xi",
-    "Website": "https://github.com/sonichy/HTYPDF",
-    "Update": "2020-11-08 09:11:01",
-    "Size": "1.48 MB",
-    "More": "用于查看PDF文件的小巧工具",
-    "Tags": "deepin;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/08/4a1e2440-21a2-11eb-81a1-d36988dc9d6e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/08/447d4110-21a2-11eb-81a1-d36988dc9d6e.png"
-}
-,
-{
     "Name": "金税odf阅读器",
     "Version": "1.0.32.06spark0",
     "Filename": "com.jsofd.ivyofdreader.spark_1.0.32.06spark0_i386.deb",
@@ -679,6 +663,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/3db11c5baf1c4b719cc42f50dc7d3c5f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/d73f2db4a5e0481aadd0180d75025755.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/10/58670fd2437a4375982d4cc9017dfbed.png"
+}
+,
+{
+    "Name": "海天鹰PDF",
+    "Version": "1.0",
+    "Filename": "com.htypdf.spark_1.0_all.deb",
+    "Pkgname": "com.htypdf.spark",
+    "Author": "海天鹰",
+    "Contributor": "gfdgd xi",
+    "Website": "https://github.com/sonichy/HTYPDF",
+    "Update": "2020-11-08 09:11:01",
+    "Size": "1.48 MB",
+    "More": "用于查看PDF文件的小巧工具",
+    "Tags": "deepin;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/08/4a1e2440-21a2-11eb-81a1-d36988dc9d6e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/08/447d4110-21a2-11eb-81a1-d36988dc9d6e.png"
 }
 ,
 {

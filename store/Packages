@@ -6801,6 +6801,23 @@ SHA256: 87e5ebfd7638e877858561b81026c8fe76794937d42aaf0b101837ba759470a0
 SHA512: 30f27f94bfef61ecb0a1f37aa51821fc69e8976c2e50f794bf4b4bb7b5e9233dc4ffba9167637e494af7ffa3c37489707c3dc06c380fb7b6c1335b9ad4282649
 Description: CPU-Z for dwine6
 
+Package: com.xunidianlu.deepin
+Architecture: all
+Version: 6.0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: wang
+Installed-Size: 8742
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: tools/com.xunidianlu.deepin/com.xunidianlu.deepin_6.0_all.deb
+Size: 8749872
+MD5sum: 47a95e0f84ed44d4a008990acbeec630
+SHA1: 73c35ba8ecc25d47c951e11df273cc40c9b356d1
+SHA256: 70f4621787d5e77b2035ae1f94f066559d843f78cb5e75debabf324bf7858f7c
+SHA512: b5279214ba8a8c99d1d21d707fe1ae0feb9d6842e11c88c9412693427ac93eb7509a9deca226d07a3e8c875058a4b45c168c7ff9d0f8db7f6dc223b20e6bf0a0
+Description: .为中学物理电路仿真模拟（虚拟）软件，能象真实实验一样随意连接试验元件和导线，支持任意结构的单电源串联并联电路以及各种复杂电路实验的仿真模拟，有先进的画标准电路图功能，有多种强大而体贴的功能，是中学物理电路教学与学习的好工具，能增强中学生学习兴趣和效率，也可用于启蒙教育或作益智游戏。
+
 Package: linuxqq-autoservice
 Architecture: all
 Version: 0.0.1
@@ -10157,6 +10174,24 @@ SHA256: 6bf42622d73a600edcee33f69e9b72247abcd2952b1aa340100b23d8a7c0ba0d
 SHA512: aedb7f7cf3a652844cadb47336de6b94e3044cc2646e924b0b6a6df3ebcb7eb464c83c020bb1a18caa3c9cf159986d7c5d63e788c1c2788a8fdc2eb313d6254a
 Description: 拟态时钟屏保
  适用于深度操作系统的拟态时钟屏保程序
+
+Package: mimicry-clock-screensaver
+Architecture: amd64
+Version: 1.0.0-20240606
+Priority: optional
+Section: devel
+Maintainer: zinface <zinface@163.com>
+Installed-Size: 535
+Filename: themes/mimicry-clock-screensaver/mimicry-clock-screensaver_1.0.0-20240606_amd64.deb
+Size: 502796
+MD5sum: 8773a01dc35015e8995ef59faddc9d95
+SHA1: 7ea9977c3b192b3f688be37fe16148a524849efb
+SHA256: a85938ac4266ca025b2b23e037f07162af1f16bfcf0b57bb51e322bac726fbfc
+SHA512: 5c9f30c37ae26a97a9ac25c0bf86816e05c28ae45084bfd4dade707f40747489e92398ddd91517a026946098210fb908658cfd295e3c1595ff4bca1fbcf278ac
+Description: 拟态时钟屏保
+ 适用于深度操作系统的拟态时钟屏保程序;
+ .
+ Build for Deepin20.9 through spark-deb-build.
 
 Package: fcitx5-ui-deepin-terminal
 Architecture: all
@@ -18655,6 +18690,21 @@ SHA512: f7a4e91b9e8af03e7ab949dfef3ec09ebfde62eed8e33fbcdf12a3ad8eb6a7af224f9910
 Description: The Haunted：Hells Reach on spark-wine8
  一款第三人称射击类游戏，游戏以一群来自于地狱的恶魔开始入侵地球，而拯救世界的责任落在了四个人的手中以及他们手里的武器。游戏风格与求生之路跟英雄萨姆有点相似。
 
+Package: com.cnvcs.xiangqi
+Architecture: all
+Version: 1.82
+Priority: optional
+Section: utils
+Maintainer: 中国象棋
+Depends: deepin-elf-verify, uengine (>= 1.0.1)
+Filename: games/com.cnvcs.xiangqi/com.cnvcs.xiangqi_1.82_all.deb
+Size: 16846076
+MD5sum: 426ff6e1f490e2f764d6b94d9111a7fa
+SHA1: b2bac9d312d7c615203ddd7ad384662167631c9f
+SHA256: da3668d1d12f4aa5f694cd972a213531f5fd346c49a83486650ee1fd99463d75
+SHA512: c62ae27e92c8533d44c63caee6a2bdfbcae6272ecbbd95ad71f7adf49e29ca40d8c835ef50766670231f47e1030d7a6bdb201b6b3b4a61688f35e7902737126e
+Description: 中国象棋, Build By UEngine Runner Packager
+
 Package: yuzu-emu
 Architecture: amd64
 Version: 1.5
@@ -24923,6 +24973,23 @@ SHA512: 2c59c4774416f0b01d8020dcf442b469e78aba50001c2c1f84de8083749250778f331eef
 Homepage: https://www.foxitsoftware.cn
 Description: 福昕高级PDF编辑器，提供PDF阅读、创建、编辑、保护和PDF页面管理等功能，帮助用户高效处理PDF文档和表单。
 
+Package: com.foxit.foxitpdfeditor
+Architecture: amd64
+Version: 12.2.2.0408
+Priority: optional
+Section: editors
+Maintainer: foxit <zhizhong_chen@foxitsoftware.com>
+Installed-Size: 734725
+Depends: deepin-elf-verify
+Filename: office/com.foxit.foxitpdfeditor/com.foxit.foxitpdfeditor_12.2.2.0408_amd64.deb
+Size: 201429292
+MD5sum: 349a573c145bd1aca1e37670cfa62844
+SHA1: f1dc0a05796671bf00f7e6dfca86fe93280013e3
+SHA256: ce8bf79a7a2751d60f8627ad0cc8cc9c8e030ef73cae734f8452ddb10205c8ed
+SHA512: 9595510b03dfba40ed8a884c6d7f9d732252dbbd08bd01ea6d3f2a61eeb94e9d09231ded983a44909758aba060f231f37f62bf9d8dc24f68083f2590ebe521da
+Homepage: https://www.foxitsoftware.cn
+Description: 福昕高级PDF编辑器，提供PDF阅读、创建、编辑、保护和PDF页面管理等功能，帮助用户高效处理PDF文档和表单。
+
 Package: web-outlook.com
 Architecture: amd64
 Version: 1.0
@@ -25552,6 +25619,38 @@ SHA256: 0d718c587e60401f142fe092480cc003df7216dfa14442f4c8233047ba1a2bec
 SHA512: 0c5897b6e1f0d3de8ec6f054a3bfce1df866afa3405bd6bac9a827431f13f2146a02eff44d35c83ac1d7f12c5a90810b518b9a9860607cc8317615a04c9358f3
 Homepage: https://www.rishiqing.com
 Description: 日事情 高效能团队管理专家
+
+Package: wps-office
+Architecture: amd64
+Version: 12.8.2.16969.AK.preload.sw-spark1
+Multi-Arch: foreign
+Priority: optional
+Section: editors
+Maintainer: WPS Office Community Team <wps_linux@kingsoft.com>
+Installed-Size: 2745500
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, libc6 (>= 2.15) | libc6.1, libfreetype6 (>= 2.4),
+         libcups2, libglib2.0-0, libglu1-mesa,
+         libsm6, libxrender1, libfontconfig1,
+         libxext6, libxcb1, libbz2-1.0
+Recommends: ttf-mscorefonts-installer
+Replaces: kingsoft-office
+Filename: office/wps-office/wps-office_12.8.2.16969.AK.preload.sw-spark1_amd64.deb
+Size: 757263956
+MD5sum: 830ce212ee992f7d9fb15796c1384359
+SHA1: cba8ea063e429759283e9ddc72c8c661f8cb3f43
+SHA256: 3ef6ecece789e871ae1f551aa7f7c38dfa7cb29c5843a8dc0b4e2a1bd303f6c3
+SHA512: 51aa4fdadb6a94791fe3767c6a0a22656febe8a60b9fdf06dec97d3ace8acf9f37f3413fca69d04e233ab771dbd6ee2f62120dce69e99ab4e7d9d47a7c0d33e3
+Homepage: http://wps-community.org
+Description: WPS Office, is an office productivity suite.
+ WPS Office including Writer, Presentation
+ and Spreadsheets, is a powerful office suite, which is able to process
+ word file, produce wonderful slides, and analyze data as well. It is
+ deeply compatible with all of the latest Microsoft Office file formats. 
+ It can easily open and read the documents created with Microsoft Office.
+ This is the Linux version, and it's now a TESTING package.
+ Welcome to our website: http://wps-community.org
+Name: wps-office
+Relocations: /opt/kingsoft
 
 Package: wps-office
 Architecture: amd64
@@ -26754,6 +26853,27 @@ MD5sum: c0346cfa75370d155fe1aadff560d79f
 SHA1: 6e8b60df82b077972397ab9695190788c8a71aa6
 SHA256: ca4077a75f21605123c6eecf89e023f10f7d39eb434d99391c64e5326c9915f9
 SHA512: d2f3d7639e46f6fecac93059974b099dbaa0add0864357c56cf36869e50109c737d0473b901287e679355882316b4500f8f2aaa204e397cd8387138ed372815f
+Homepage: https://docs.qq.com/home
+Description: 
+  腾讯文档
+License: MIT
+Vendor: TencentDocs
+
+Package: tdappdesktop
+Architecture: amd64
+Version: 3.5.3
+Priority: optional
+Section: default
+Maintainer: TencentDocs
+Installed-Size: 646852
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: office/tdappdesktop/tdappdesktop_3.5.3_amd64.deb
+Size: 148229372
+MD5sum: 0610a8c62fb02138d532ffc14f1ad65b
+SHA1: d1e473ab5d86f7983447b2de001b89fbb507cf1b
+SHA256: 078ef22b4f5eedf0ee42dc82e67dfdc39bdd0db41b0843ed51d046accf40e283
+SHA512: ff7c475ac09430d7a6e224fc0cad5997d8e85a48844971538a18ee94a65da75caa235b329cd2ed027e8e4a244efe691a839dfb617b1d806e53b9e04663066c3d
 Homepage: https://docs.qq.com/home
 Description: 
   腾讯文档
@@ -35527,6 +35647,27 @@ Description: Mail is an easy-to-use desktop mail client that can manage multiple
 
 Package: linuxqq
 Architecture: amd64
+Version: 3.2.9-24568
+Priority: optional
+Section: default
+Maintainer: Tencent <QQ-Team@tencent.com>
+Installed-Size: 505154
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: chat/linuxqq/linuxqq_3.2.9-24568_amd64.deb
+Size: 146940776
+MD5sum: a663aa83ae2ec6fcd18639ca2198aaf6
+SHA1: ca828053ee0c8cebc26c162d9e8556f4843a3a15
+SHA256: 0dc416c1ea78a78696500a01350f467b5401882c64e8185cce24c3487991a606
+SHA512: 193036fa7c0b07c11e0a7895fcc0994898be9132ffdb557238b319fc4c98b17ee4660ca8c8785fe363adc3a66ee0c4fa4f4f4efeac705ff38b9b89a8bc9a0a92
+Homepage: https://im.qq.com
+Description: 
+  QQ
+License: unknown
+Vendor: Tencent <QQ-Team@tencent.com>
+
+Package: linuxqq
+Architecture: amd64
 Version: 3.2.9-24402
 Priority: optional
 Section: default
@@ -35639,6 +35780,26 @@ SHA256: 8b950761977001a0b3ce2df46c5d00c592731515752433548b314d320ce63292
 SHA512: fcc22799bffaf077a2c0d43d773971a9c58e7ae037dcc5f086f4d63ad3cb748275efdc0826cec161dfc47b475db8ea1cfc9f6500770a4b1302fcbc940a5807c7
 Homepage: https://im.qq.com/linuxqq
 Description: 腾讯QQ Linux版本。
+
+Package: discord
+Architecture: amd64
+Version: 0.0.55
+Priority: optional
+Section: net
+Maintainer: Discord Maintainer Team <native-team@discord.com>
+Installed-Size: 248440
+Depends: libc6, libasound2, libatomic1, libnotify4, libnspr4, libnss3, libstdc++6, libxss1, libxtst6
+Recommends: libappindicator1 | libayatana-appindicator1
+Filename: chat/discord/discord_0.0.55_amd64.deb
+Size: 74857660
+MD5sum: e57ed2fdf37effd0f2a3acdbce68dcb9
+SHA1: 4e382c9cd5a185aabd6cbb29878f9cef64f5ef25
+SHA256: 1867d5c86618fbefa2699c4fbff03caa1458164d942b978f4865eb799aa8d928
+SHA512: dc46bbbdf31e86e460180e9fa51a5e8cf7664eb7da0a9ac874dfd54da48e1c71249bea83f6df56b4ea662c4a9d671adc45e243b4ff900ed75479e20d57f669cb
+Homepage: https://discord.com
+Description: Chat for Communities and Friends
+ Discord is the easiest way to communicate over voice, video, and text. Chat,
+ hang out, and stay close with your friends and communities.
 
 Package: discord
 Architecture: amd64

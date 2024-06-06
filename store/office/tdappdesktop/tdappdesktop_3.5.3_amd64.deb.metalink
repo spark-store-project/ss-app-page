@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="tdappdesktop_3.5.3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">0610a8c62fb02138d532ffc14f1ad65b</hash>
+				  
+				<hash type="sha1">d1e473ab5d86f7983447b2de001b89fbb507cf1b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/office/tdappdesktop/tdappdesktop_3.5.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/tdappdesktop/tdappdesktop_3.5.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/tdappdesktop/tdappdesktop_3.5.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/tdappdesktop/tdappdesktop_3.5.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/office/tdappdesktop/tdappdesktop_3.5.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/office/tdappdesktop/tdappdesktop_3.5.3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

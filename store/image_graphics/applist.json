@@ -685,6 +685,20 @@
 
 ,
 {
+   "Name":"Pinta",
+   "Version":"1.7",
+   "Filename":"pinta_1.7-0ppa1_bionic1_all.deb",
+   "Pkgname":"pinta",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://www.pinta-project.com/",
+   "Update":"2020-08-10 18:37",
+   "Size":"763.28KB",
+   "More":"Pinta是一个免费的开源程序，用于绘图和图像编辑。"
+}
+
+,
+{
     "Name": "海天鹰取色器",
     "Version": "1.0",
     "Filename": "htycolorpicker_1.3_amd64.deb",
@@ -699,20 +713,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/213b9af0-405e-11eb-a83d-a3d68b0c0a4e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/17/ccc87ec0-405d-11eb-a83d-a3d68b0c0a4e.png"
 }
-,
-{
-   "Name":"Pinta",
-   "Version":"1.7",
-   "Filename":"pinta_1.7-0ppa1_bionic1_all.deb",
-   "Pkgname":"pinta",
-   "Author":" ",
-   "Contributor":"sgb76",
-   "Website":"https://www.pinta-project.com/",
-   "Update":"2020-08-10 18:37",
-   "Size":"763.28KB",
-   "More":"Pinta是一个免费的开源程序，用于绘图和图像编辑。"
-}
-
 ,
 {
     "Name": "汉王 PDF OCR（Wine）",
@@ -1262,6 +1262,23 @@
 }
 ,
 {
+    "Name": "布易服装CAD",
+    "Version": "1.0.0",
+    "Filename": "etcadyu_1.0.0_i386.deb",
+    "Torrent_address": "etcadyu_1.0.0_i386.deb.torrent",
+    "Pkgname": "etcadyu",
+    "Author": "布易服装cad",
+    "Contributor": "ta suo",
+    "Website": "http://www.etsystem.cn/",
+    "Update": "2023-06-16 15:28:24",
+    "Size": "95.44 MB",
+    "More": "旧版本打包",
+    "Tags": "uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/16/1abe11c0-0c13-11ee-88e1-5f1c59cb46de.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/16/1cd495b0-0c13-11ee-88e1-5f1c59cb46de.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/16/1f26c310-0c13-11ee-88e1-5f1c59cb46de.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/16/0fa04e20-0c13-11ee-88e1-5f1c59cb46de.png"
+}
+,
+{
     "Name": "中望建筑 2023 For Linux",
     "Version": "23.2.3.4",
     "Filename": "com.zwsoft.zwcada2023_23.2.3.4_amd64.deb",
@@ -1292,23 +1309,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/27434e70-4d10-11eb-864b-0311b8eb4f72.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/2eeb2530-4d10-11eb-864b-0311b8eb4f72.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/39dc3380-4d10-11eb-864b-0311b8eb4f72.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/3f3d0070-4d10-11eb-864b-0311b8eb4f72.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/02/20351fa0-4d10-11eb-864b-0311b8eb4f72.png"
-}
-,
-{
-    "Name": "布易服装CAD",
-    "Version": "1.0.0",
-    "Filename": "etcadyu_1.0.0_i386.deb",
-    "Torrent_address": "etcadyu_1.0.0_i386.deb.torrent",
-    "Pkgname": "etcadyu",
-    "Author": "布易服装cad",
-    "Contributor": "ta suo",
-    "Website": "http://www.etsystem.cn/",
-    "Update": "2023-06-16 15:28:24",
-    "Size": "95.44 MB",
-    "More": "旧版本打包",
-    "Tags": "uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/16/1abe11c0-0c13-11ee-88e1-5f1c59cb46de.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/16/1cd495b0-0c13-11ee-88e1-5f1c59cb46de.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/16/1f26c310-0c13-11ee-88e1-5f1c59cb46de.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/16/0fa04e20-0c13-11ee-88e1-5f1c59cb46de.png"
 }
 ,
 {

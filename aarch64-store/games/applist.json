@@ -143,24 +143,6 @@
 
 ,
 {
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "spark-pinball_1.1_plus_2_arm64.deb",
-    "More": "一个 Windows XP 自带的一款游戏，后面的 Windows 版本已经没有，是一代人的回忆",
-    "Name": "Windows 三维弹球",
-    "Pkgname": "spark-pinball",
-    "Size": "13 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "spark-pinball_1.1_plus_2_arm64.deb.torrent",
-    "Update": "2023-04-14 11:16:49",
-    "Version": "1.1+2",
-    "Website": "http://www.microsoft.com/",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/spark-pinball/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/spark-pinball/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/spark-pinball/screen_2.png\"]"
-}
-
-,
-{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.steampowered.steam_1.0_all.deb",
@@ -175,6 +157,24 @@
     "Website": "https://s.team",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.steampowered.steam/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.steampowered.steam/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-pinball_1.1_plus_2_arm64.deb",
+    "More": "一个 Windows XP 自带的一款游戏，后面的 Windows 版本已经没有，是一代人的回忆",
+    "Name": "Windows 三维弹球",
+    "Pkgname": "spark-pinball",
+    "Size": "13 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "spark-pinball_1.1_plus_2_arm64.deb.torrent",
+    "Update": "2023-04-14 11:16:49",
+    "Version": "1.1+2",
+    "Website": "http://www.microsoft.com/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/spark-pinball/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/spark-pinball/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/spark-pinball/screen_2.png\"]"
 }
 
 ,
@@ -395,24 +395,6 @@
 
 ,
 {
-    "Author": "”daya” <”admin@yzzi.icu”>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "icu.yzzi.24points_0.1.0_arm64.deb",
-    "More": "棋牌类益智游戏，要求四个数字运算结果等于二十四，一起来玩玩吧！这个游戏用扑克牌更容易来开展。拿一副牌，抽去大小王后(初练也可以把J/Q/K/大小王也拿去)，剩下1～10这40张牌(以下用1代替A)。任意抽取4张牌(称为牌组)，用加、减、乘、除(可加括号，高级玩家也可用乘方开方与阶乘运算)把牌面上的数算成24。每张牌必须用且只能用一次。如抽出的牌是3、8、8、9，那么算式为(9-8)×8×3=24。",
-    "Name": "24点",
-    "Pkgname": "icu.yzzi.24points",
-    "Size": "31 Kb",
-    "Tags": "community;deepin;uos;dtk5",
-    "Torrent_address": "icu.yzzi.24points_0.1.0_arm64.deb.torrent",
-    "Update": "2023-03-05 18:55:10",
-    "Version": "0.1.0",
-    "Website": "https://www.yzzi.icu",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/icu.yzzi.24points/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/icu.yzzi.24points/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/icu.yzzi.24points/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/icu.yzzi.24points/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/icu.yzzi.24points/screen_4.png\"]"
-}
-
-,
-{
     "Author": "sgb76 <sgb76@163.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.scrap-garden.spark_1.0spark0_all.deb",
@@ -427,6 +409,24 @@
     "Website": "no",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.scrap-garden.spark/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.scrap-garden.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.scrap-garden.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.scrap-garden.spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.scrap-garden.spark/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "”daya” <”admin@yzzi.icu”>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "icu.yzzi.24points_0.1.0_arm64.deb",
+    "More": "棋牌类益智游戏，要求四个数字运算结果等于二十四，一起来玩玩吧！这个游戏用扑克牌更容易来开展。拿一副牌，抽去大小王后(初练也可以把J/Q/K/大小王也拿去)，剩下1～10这40张牌(以下用1代替A)。任意抽取4张牌(称为牌组)，用加、减、乘、除(可加括号，高级玩家也可用乘方开方与阶乘运算)把牌面上的数算成24。每张牌必须用且只能用一次。如抽出的牌是3、8、8、9，那么算式为(9-8)×8×3=24。",
+    "Name": "24点",
+    "Pkgname": "icu.yzzi.24points",
+    "Size": "31 Kb",
+    "Tags": "community;deepin;uos;dtk5",
+    "Torrent_address": "icu.yzzi.24points_0.1.0_arm64.deb.torrent",
+    "Update": "2023-03-05 18:55:10",
+    "Version": "0.1.0",
+    "Website": "https://www.yzzi.icu",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/icu.yzzi.24points/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/icu.yzzi.24points/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/icu.yzzi.24points/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/icu.yzzi.24points/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/icu.yzzi.24points/screen_4.png\"]"
 }
 
 ,
