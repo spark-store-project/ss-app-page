@@ -10161,22 +10161,6 @@ Description: 自定义主题打包工具
 
 Package: mimicry-clock-screensaver
 Architecture: amd64
-Version: 0.0.2-20221003
-Priority: optional
-Section: devel
-Maintainer: zinface <zinface@163.com>
-Installed-Size: 529
-Filename: themes/mimicry-clock-screensaver/mimicry-clock-screensaver_0.0.2-20221003_amd64.deb
-Size: 500816
-MD5sum: cda71fae3a6ec8c5e878ef8415d6ccde
-SHA1: 8b753d0bcedfd509447b3315a669425135c31ea8
-SHA256: 6bf42622d73a600edcee33f69e9b72247abcd2952b1aa340100b23d8a7c0ba0d
-SHA512: aedb7f7cf3a652844cadb47336de6b94e3044cc2646e924b0b6a6df3ebcb7eb464c83c020bb1a18caa3c9cf159986d7c5d63e788c1c2788a8fdc2eb313d6254a
-Description: 拟态时钟屏保
- 适用于深度操作系统的拟态时钟屏保程序
-
-Package: mimicry-clock-screensaver
-Architecture: amd64
 Version: 1.0.0-20240606
 Priority: optional
 Section: devel
@@ -24958,23 +24942,6 @@ Description: Fcitx wrapper for Baidu Pinyin IM engine
 
 Package: com.foxit.foxitpdfeditor
 Architecture: amd64
-Version: 12.1.4.1012
-Priority: optional
-Section: editors
-Maintainer: foxit <zhizhong_chen@foxitsoftware.com>
-Installed-Size: 761188
-Depends: deepin-elf-verify
-Filename: office/com.foxit.foxitpdfeditor/com.foxit.foxitpdfeditor_12.1.4.1012_amd64.deb
-Size: 222108748
-MD5sum: c92bfef296acc828c7450280c8f3ec00
-SHA1: 2e9b3158845ba7526afab2cd2f179a5a77c6a427
-SHA256: f7f30c539d04fb765ec47def21f37313b66051ecd271497c1db9c34888f8ee66
-SHA512: 2c59c4774416f0b01d8020dcf442b469e78aba50001c2c1f84de8083749250778f331eef0678ef7028050912bcd800bab776058c227666d9060c0e02501cb663
-Homepage: https://www.foxitsoftware.cn
-Description: 福昕高级PDF编辑器，提供PDF阅读、创建、编辑、保护和PDF页面管理等功能，帮助用户高效处理PDF文档和表单。
-
-Package: com.foxit.foxitpdfeditor
-Architecture: amd64
 Version: 12.2.2.0408
 Priority: optional
 Section: editors
@@ -25640,38 +25607,6 @@ MD5sum: 830ce212ee992f7d9fb15796c1384359
 SHA1: cba8ea063e429759283e9ddc72c8c661f8cb3f43
 SHA256: 3ef6ecece789e871ae1f551aa7f7c38dfa7cb29c5843a8dc0b4e2a1bd303f6c3
 SHA512: 51aa4fdadb6a94791fe3767c6a0a22656febe8a60b9fdf06dec97d3ace8acf9f37f3413fca69d04e233ab771dbd6ee2f62120dce69e99ab4e7d9d47a7c0d33e3
-Homepage: http://wps-community.org
-Description: WPS Office, is an office productivity suite.
- WPS Office including Writer, Presentation
- and Spreadsheets, is a powerful office suite, which is able to process
- word file, produce wonderful slides, and analyze data as well. It is
- deeply compatible with all of the latest Microsoft Office file formats. 
- It can easily open and read the documents created with Microsoft Office.
- This is the Linux version, and it's now a TESTING package.
- Welcome to our website: http://wps-community.org
-Name: wps-office
-Relocations: /opt/kingsoft
-
-Package: wps-office
-Architecture: amd64
-Version: 11.1.0.11719.1+ACE-fix1
-Multi-Arch: foreign
-Priority: optional
-Section: editors
-Maintainer: 懵仙兔兔 <acgm@qq.com>
-Installed-Size: 1577511
-Depends: libc6 (>= 2.15) | libc6.1, libstdc++6 (>= 4.6), libfreetype6 (>= 2.4),
-         libcups2, libglib2.0-0, libglu1-mesa,
-         libsm6, libxrender1, libfontconfig1,
-         libxext6, libxcb1, libbz2-1.0,xdg-utils,bsdmainutils
-Recommends: ttf-mscorefonts-installer
-Replaces: kingsoft-office
-Filename: office/wps-office/wps-office_11.1.0.11719.1_plus_ACE-fix1_amd64.deb
-Size: 449842660
-MD5sum: 739d6503e8de689b744ceb73dd418e64
-SHA1: 98ad0b28b4684d0d4c2909af4504e906e72d9e99
-SHA256: 1c5044883c96ddd9132e6da141eec6f386490169e620b160ac210552bd633a6e
-SHA512: 5850a3638b58835b1b8c355f18628d89eebfc568926f1bf6ba6ef617345d7f0e49eafbf12fea529a2f31f506ddb0840cf5b6abb8edae0c66c96ddada25b75188
 Homepage: http://wps-community.org
 Description: WPS Office, is an office productivity suite.
  WPS Office including Writer, Presentation
@@ -26837,27 +26772,6 @@ SHA1: 45d813dddf2d8d2e48efce975705fb043713c712
 SHA256: 6430d0b83c429d7d1e04cf4678be49becf3c5fc916026b31a17a6a8672a4c43d
 SHA512: cabdb09e0820cfc3f7305934f8d71eb4045b55cd9989eaa777ee4e3cdf98cccd9b7c2c32a89dc5585ad915eadba205acb513e260e8421e3d369d080390f0e817
 Description: yidongbangong Client on Deepin Wine6
-
-Package: tdappdesktop
-Architecture: amd64
-Version: 3.2.3
-Priority: optional
-Section: default
-Maintainer: TencentDocs
-Installed-Size: 476475
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: office/tdappdesktop/tdappdesktop_3.2.3_amd64.deb
-Size: 108592172
-MD5sum: c0346cfa75370d155fe1aadff560d79f
-SHA1: 6e8b60df82b077972397ab9695190788c8a71aa6
-SHA256: ca4077a75f21605123c6eecf89e023f10f7d39eb434d99391c64e5326c9915f9
-SHA512: d2f3d7639e46f6fecac93059974b099dbaa0add0864357c56cf36869e50109c737d0473b901287e679355882316b4500f8f2aaa204e397cd8387138ed372815f
-Homepage: https://docs.qq.com/home
-Description: 
-  腾讯文档
-License: MIT
-Vendor: TencentDocs
 
 Package: tdappdesktop
 Architecture: amd64
@@ -35666,27 +35580,6 @@ Description:
 License: unknown
 Vendor: Tencent <QQ-Team@tencent.com>
 
-Package: linuxqq
-Architecture: amd64
-Version: 3.2.9-24402
-Priority: optional
-Section: default
-Maintainer: Tencent <QQ-Team@tencent.com>
-Installed-Size: 505151
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: chat/linuxqq/linuxqq_3.2.9-24402_amd64.deb
-Size: 146942428
-MD5sum: 442cbbb1a86f1a77e151a9e5a35f9a24
-SHA1: 42ee47db2b9e1870fe0007be326900d540de3ee5
-SHA256: 9f4bacc71f2756b120ea3532ee93396501ef2965d7749d187dffaf12c65bf10c
-SHA512: abc5fff9c9e81798611124ab12bc690693e25b61d7a7f965668f19cf57f0858b0a3162f3c727fe92ef8abd6808ef6c126768ef52c1968bc77e705eac4834f3ea
-Homepage: https://im.qq.com
-Description: 
-  QQ
-License: unknown
-Vendor: Tencent <QQ-Team@tencent.com>
-
 Package: com.qq.tim.spark
 Architecture: all
 Version: 3.4.3.22064spark6
@@ -35796,26 +35689,6 @@ MD5sum: e57ed2fdf37effd0f2a3acdbce68dcb9
 SHA1: 4e382c9cd5a185aabd6cbb29878f9cef64f5ef25
 SHA256: 1867d5c86618fbefa2699c4fbff03caa1458164d942b978f4865eb799aa8d928
 SHA512: dc46bbbdf31e86e460180e9fa51a5e8cf7664eb7da0a9ac874dfd54da48e1c71249bea83f6df56b4ea662c4a9d671adc45e243b4ff900ed75479e20d57f669cb
-Homepage: https://discord.com
-Description: Chat for Communities and Friends
- Discord is the easiest way to communicate over voice, video, and text. Chat,
- hang out, and stay close with your friends and communities.
-
-Package: discord
-Architecture: amd64
-Version: 0.0.54
-Priority: optional
-Section: net
-Maintainer: Discord Maintainer Team <native-team@discord.com>
-Installed-Size: 248444
-Depends: libc6, libasound2, libatomic1, libnotify4, libnspr4, libnss3, libstdc++6, libxss1, libxtst6
-Recommends: libappindicator1 | libayatana-appindicator1
-Filename: chat/discord/discord_0.0.54_amd64.deb
-Size: 100957696
-MD5sum: dc56f1c1a788848d31893e2a273c424e
-SHA1: 925f33a8d81245035d18b90e3beedd60c8615d18
-SHA256: 6d7f68bca6e619657f240de0edd63e229b3fb34c781ff5cd85ec4c0f29da0acc
-SHA512: ee58d67d3b25739e875ff4ec3088fab33c73d8a729fc2dce20408cfd07b97bd06e3fa0c5d83d23ffab59f774ced3db7d57b45a1a2d30c5b9f39daba67718b082
 Homepage: https://discord.com
 Description: Chat for Communities and Friends
  Discord is the easiest way to communicate over voice, video, and text. Chat,

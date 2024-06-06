@@ -5820,38 +5820,6 @@ Description: WPS Office, is an office productivity suite.
 Name: wps-office
 Relocations: /opt/kingsoft
 
-Package: wps-office
-Architecture: arm64
-Version: 11.1.0.11719
-Multi-Arch: foreign
-Priority: optional
-Section: editors
-Maintainer: WPS Office Community Team <wps_linux@kingsoft.com>
-Installed-Size: 1481976
-Depends: libc6 (>= 2.15) | libc6.1, libstdc++6 (>= 4.6), libfreetype6 (>= 2.4),
-         libcups2, libglib2.0-0, libglu1-mesa,
-         libsm6, libxrender1, libfontconfig1,
-         libxext6, libxcb1, libbz2-1.0
-Recommends: ttf-mscorefonts-installer
-Replaces: kingsoft-office
-Filename: office/wps-office/wps-office_11.1.0.11719_arm64.deb
-Size: 362817038
-MD5sum: 5fba077f98811644c40e8fb72a28ae5f
-SHA1: 990c3dcc276118d31907e6d17ac3c1d3f304b6c1
-SHA256: 60bf443615ea838e7fdb3b4986a5e05fcdf4150bfdfc245c017798451339b3f2
-SHA512: cc468aaf9769a3dfa3e897329241d4493e49e6cf70d440fc259e6dc56f5d83b6f9c2f25e0e0551b1c70ab744909b29688ee80abf96bd4e74b373f2512f680889
-Homepage: http://wps-community.org
-Description: WPS Office, is an office productivity suite.
- WPS Office including Writer, Presentation
- and Spreadsheets, is a powerful office suite, which is able to process
- word file, produce wonderful slides, and analyze data as well. It is
- deeply compatible with all of the latest Microsoft Office file formats. 
- It can easily open and read the documents created with Microsoft Office.
- This is the Linux version, and it's now a TESTING package.
- Welcome to our website: http://wps-community.org
-Name: wps-office
-Relocations: /opt/kingsoft
-
 Package: ofdview
 Architecture: all
 Version: 1.0
@@ -7981,27 +7949,6 @@ SHA256: b8b1bfd030e49e0fa58cd3909c46d413bbb26011b790fd04e3fb818c7489bc18
 SHA512: eb0f290cb4beef31afd5b89dcb818e167a0068135da7ecdccc357f9e777a08b5f69629a97a2e09146c875a854dbd303476deead0bba7f994c9d8047083ccc463
 Homepage: https://gov.dingtalk.com
 Description: 钉钉
-
-Package: linuxqq
-Architecture: arm64
-Version: 3.2.9-24402
-Priority: optional
-Section: default
-Maintainer: Tencent <QQ-Team@tencent.com>
-Installed-Size: 533693
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: chat/linuxqq/linuxqq_3.2.9-24402_arm64.deb
-Size: 145941384
-MD5sum: 0bd92af5145245aa81bcb1de07de945b
-SHA1: f0b7df3e861a29361782768e1e90e2419df99a79
-SHA256: b46ae2d8d7509094df0c5d2f202d4f65e94088b3ccb168285a7728b023ee60ab
-SHA512: 932dbdb326b94765ad4b268b377add1dd42f64764c77b190bf284cdb1d4963f4123d518cc479e76bc0d6d49aaaa221a119f663d0e7300d584f8ae315ba04acee
-Homepage: https://im.qq.com
-Description: 
-  QQ
-License: unknown
-Vendor: Tencent <QQ-Team@tencent.com>
 
 Package: linuxqq
 Architecture: arm64

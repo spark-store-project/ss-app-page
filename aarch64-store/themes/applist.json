@@ -160,24 +160,6 @@
 }
 ,
 {
-    "Author": "liuminghang  <liuminghang0821@gmail.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "panda-dock_1.0.0_arm64.deb",
-    "More": "CutefishOS的前身Pandaos的dock栏，由depend在uos下打包，可直接打包代码可从https://github.com/dependon/panda-dock拉取",
-    "Name": "熊猫Dock",
-    "Pkgname": "panda-dock",
-    "Size": "66 Kb",
-    "Tags": "deepin;uos",
-    "Torrent_address": "panda-dock_1.0.0_arm64.deb.torrent",
-    "Update": "2023-03-05 21:03:29",
-    "Version": "1.0.0",
-    "Website": "panda-dock",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/panda-dock/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/panda-dock/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/panda-dock/screen_2.png\"]"
-}
-
-,
-{
     "Author": "Deepin Packages Builder <packages@deepin.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "sea-icon-theme_2020.04.13-1_all.deb",
@@ -192,6 +174,24 @@
     "Website": " ",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/sea-icon-theme/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/sea-icon-theme/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "liuminghang  <liuminghang0821@gmail.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "panda-dock_1.0.0_arm64.deb",
+    "More": "CutefishOS的前身Pandaos的dock栏，由depend在uos下打包，可直接打包代码可从https://github.com/dependon/panda-dock拉取",
+    "Name": "熊猫Dock",
+    "Pkgname": "panda-dock",
+    "Size": "66 Kb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "panda-dock_1.0.0_arm64.deb.torrent",
+    "Update": "2023-03-05 21:03:29",
+    "Version": "1.0.0",
+    "Website": "panda-dock",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/panda-dock/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/panda-dock/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/panda-dock/screen_2.png\"]"
 }
 
 ,

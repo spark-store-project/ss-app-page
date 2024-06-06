@@ -119,6 +119,23 @@
 }
 ,
 {
+    "Name": "迅雷",
+    "Version": "1.0.0.3spark2",
+    "Filename": "com.xunlei.download_1.0.0.3spark2_amd64.deb",
+    "Torrent_address": "com.xunlei.download_1.0.0.3spark2_amd64.deb.torrent",
+    "Pkgname": "com.xunlei.download",
+    "Author": "xunlei",
+    "Contributor": "xunlei",
+    "Website": "https://www.xunlei.com/",
+    "Update": "2023-11-18 02:18:44",
+    "Size": "44.12 MB",
+    "More": "迅雷\n修复因缺失依赖问题导致软件无法打开\n迅雷官方推出的linux版下载工具，不知为何不在官网上架\n修复Ubuntu 23软件无法打开\",",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/b79e5242107e4b638062c264a1195224.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/f2f7cbed6fbd416b9b568a7eb6dc5015.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/18/6efec4896f3f476c8931e3ca26db274e.png"
+}
+,
+{
     "Name": "火狐浏览器国际版 Firefox",
     "Version": "126.0.1",
     "Filename": "firefox-spark_126.0.1_amd64.deb",
@@ -135,23 +152,6 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/30/f4ee46124c644408b6e430c1d38aff1f.png"
 }
 
-,
-{
-    "Name": "迅雷",
-    "Version": "1.0.0.3spark2",
-    "Filename": "com.xunlei.download_1.0.0.3spark2_amd64.deb",
-    "Torrent_address": "com.xunlei.download_1.0.0.3spark2_amd64.deb.torrent",
-    "Pkgname": "com.xunlei.download",
-    "Author": "xunlei",
-    "Contributor": "xunlei",
-    "Website": "https://www.xunlei.com/",
-    "Update": "2023-11-18 02:18:44",
-    "Size": "44.12 MB",
-    "More": "迅雷\n修复因缺失依赖问题导致软件无法打开\n迅雷官方推出的linux版下载工具，不知为何不在官网上架\n修复Ubuntu 23软件无法打开\",",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/b79e5242107e4b638062c264a1195224.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/f2f7cbed6fbd416b9b568a7eb6dc5015.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/18/6efec4896f3f476c8931e3ca26db274e.png"
-}
 ,
 {
     "Name": "360安全浏览器(Linux版)",
@@ -1542,6 +1542,23 @@
 }
 ,
 {
+    "Name": "Clash Nyanpasu～(∠・ω< )⌒☆​ ",
+    "Version": "1.5.1",
+    "Filename": "clash-nyanpasu_1.5.1_amd64.deb",
+    "Torrent_address": "clash-nyanpasu_1.5.1_amd64.deb.torrent",
+    "Pkgname": "clash-nyanpasu",
+    "Author": "zzzgydi, keiko233",
+    "Contributor": "idleness",
+    "Website": "https://nyanpasu.elaina.moe/",
+    "Update": "2024-04-12 23:07:19",
+    "Size": "53.19 MB",
+    "More": "基于 Tauri 的偏执 Clash 图形界面。",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/e7122150-f8dd-11ee-94b3-3598cf0b4d68.gif\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/d8f3eef0-f8dd-11ee-94b3-3598cf0b4d68.png"
+}
+,
+{
     "Name": "115网盘",
     "Version": "2.0.7.9",
     "Filename": "115_2.0.7.9_amd64.deb",
@@ -1572,23 +1589,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/04/a35d1af0-66af-11eb-af9a-59029733c48e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/04/b1d57b40-66af-11eb-af9a-59029733c48e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/04/bb4d7e20-66af-11eb-af9a-59029733c48e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/04/a47b9530-66ad-11eb-af9a-59029733c48e.png"
-}
-,
-{
-    "Name": "Clash Nyanpasu～(∠・ω< )⌒☆​ ",
-    "Version": "1.5.1",
-    "Filename": "clash-nyanpasu_1.5.1_amd64.deb",
-    "Torrent_address": "clash-nyanpasu_1.5.1_amd64.deb.torrent",
-    "Pkgname": "clash-nyanpasu",
-    "Author": "zzzgydi, keiko233",
-    "Contributor": "idleness",
-    "Website": "https://nyanpasu.elaina.moe/",
-    "Update": "2024-04-12 23:07:19",
-    "Size": "53.19 MB",
-    "More": "基于 Tauri 的偏执 Clash 图形界面。",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/e7122150-f8dd-11ee-94b3-3598cf0b4d68.gif\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/d8f3eef0-f8dd-11ee-94b3-3598cf0b4d68.png"
 }
 ,
 {

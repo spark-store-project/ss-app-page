@@ -950,6 +950,20 @@
 }
 ,
 {
+   "Name":"RawTherapee",
+   "Version":"5.8",
+   "Filename":"rawtherapee_5.8_a2d_amd64.deb",
+   "Pkgname":"rawtherapee",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://rawtherapee.com/",
+   "Update":"2020-07-23 23:41",
+   "Size":"64.79MB",
+   "More":"RawTherapee is a free, cross-platform raw image processing program"
+}
+
+,
+{
     "Name": "云图三维 For Linux",
     "Version": "0.0.2.1",
     "Filename": "com.yuntucad.cloudcad_0.0.2.1_amd64.deb",
@@ -981,20 +995,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/15/60ef0880-15d8-11ec-b68a-f3808113b72c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/15/60fceb30-15d8-11ec-b68a-f3808113b72c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/15/61110f70-15d8-11ec-b68a-f3808113b72c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/09/15/5e004d00-15d8-11ec-b68a-f3808113b72c.png"
 }
-,
-{
-   "Name":"RawTherapee",
-   "Version":"5.8",
-   "Filename":"rawtherapee_5.8_a2d_amd64.deb",
-   "Pkgname":"rawtherapee",
-   "Author":" ",
-   "Contributor":"sgb76",
-   "Website":"https://rawtherapee.com/",
-   "Update":"2020-07-23 23:41",
-   "Size":"64.79MB",
-   "More":"RawTherapee is a free, cross-platform raw image processing program"
-}
-
 ,
 {
     "Name": "Curtail图片压缩工具（汉化版）",
@@ -1312,6 +1312,22 @@
 }
 ,
 {
+    "Name": "蓝山看图王（wine）",
+    "Version": "1.0.1.21809spark0",
+    "Filename": "com.lanshan.lskantu.spark_1.0.1.21809spark0_i386.deb",
+    "Pkgname": "com.lanshan.lskantu.spark",
+    "Author": "上海蓝山办公软件有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.lanshan.com/pic/",
+    "Update": "2021-09-07 12:33:24",
+    "Size": "15.72 MB",
+    "More": "蓝山看图王，快速查看高清大图",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/07/87355ac0-0f94-11ec-b651-c3efbcdf6b03.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/07/8a72d280-0f94-11ec-b651-c3efbcdf6b03.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/07/8cadce60-0f94-11ec-b651-c3efbcdf6b03.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/09/07/839e5150-0f94-11ec-b651-c3efbcdf6b03.png"
+}
+,
+{
    "Name":"qimgv看图",
    "Version":"0.9.1",
    "Filename":"qimgv_0.9.1_amd64.deb",
@@ -1339,22 +1355,6 @@
     "Tags": "deepin;dtk5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/09/e3fea700-b019-11eb-8858-bdd802c51c43.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/09/e5627cc0-b019-11eb-8858-bdd802c51c43.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/09/de7bfa30-b019-11eb-8858-bdd802c51c43.png"
-}
-,
-{
-    "Name": "蓝山看图王（wine）",
-    "Version": "1.0.1.21809spark0",
-    "Filename": "com.lanshan.lskantu.spark_1.0.1.21809spark0_i386.deb",
-    "Pkgname": "com.lanshan.lskantu.spark",
-    "Author": "上海蓝山办公软件有限公司",
-    "Contributor": "sgb76",
-    "Website": "https://www.lanshan.com/pic/",
-    "Update": "2021-09-07 12:33:24",
-    "Size": "15.72 MB",
-    "More": "蓝山看图王，快速查看高清大图",
-    "Tags": "ubuntu;deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/07/87355ac0-0f94-11ec-b651-c3efbcdf6b03.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/07/8a72d280-0f94-11ec-b651-c3efbcdf6b03.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/07/8cadce60-0f94-11ec-b651-c3efbcdf6b03.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/09/07/839e5150-0f94-11ec-b651-c3efbcdf6b03.png"
 }
 ,
 {
