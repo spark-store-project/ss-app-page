@@ -108,24 +108,6 @@
 
 ,
 {
-    "Author": "Liuminghang",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Filename": "durian-ocr_1.0_arm64.deb",
-    "More": "deepin-ocr的无dtk版本，可以在ubuntu20.04和debian10以上系统使用，增加了一个小界面和切换识别语言，使用方法:命令行使用:durian-ocr +路径  ，界面使用",
-    "Name": "榴莲-OCR",
-    "Pkgname": "durian-ocr",
-    "Size": "18 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "durian-ocr_1.0_arm64.deb.torrent",
-    "Update": "2023-03-05 18:14:24",
-    "Version": "1.0",
-    "Website": "http://www.deepin.org/",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/durian-ocr/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/durian-ocr/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/durian-ocr/screen_2.png\"]"
-}
-
-,
-{
     "Author": "weizuxing <weizuxing@photosir.cn>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "cn.photosir.himirage_2.0.6.31228_arm64.deb",
@@ -140,6 +122,24 @@
     "Website": "https://www.photosir.com",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.photosir.himirage/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.photosir.himirage/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.photosir.himirage/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "Liuminghang",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Filename": "durian-ocr_1.0_arm64.deb",
+    "More": "deepin-ocr的无dtk版本，可以在ubuntu20.04和debian10以上系统使用，增加了一个小界面和切换识别语言，使用方法:命令行使用:durian-ocr +路径  ，界面使用",
+    "Name": "榴莲-OCR",
+    "Pkgname": "durian-ocr",
+    "Size": "18 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "durian-ocr_1.0_arm64.deb.torrent",
+    "Update": "2023-03-05 18:14:24",
+    "Version": "1.0",
+    "Website": "http://www.deepin.org/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/durian-ocr/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/durian-ocr/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/durian-ocr/screen_2.png\"]"
 }
 
 ,

@@ -2,15 +2,15 @@
 {
     "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "wps-office_12.8.2.16969.AK.preload.sw_arm64.deb",
+    "Filename": "wps-office_11.1.0.11719_arm64.deb",
     "More": "WPS Office 365\n\n",
     "Name": "WPS Office",
     "Pkgname": "wps-office",
-    "Size": "719 Mb",
+    "Size": "362 Mb",
     "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "wps-office_12.8.2.16969.AK.preload.sw_arm64.deb.torrent",
-    "Update": "2024-06-06 12:39:02",
-    "Version": "12.8.2.16969.AK.preload.sw",
+    "Torrent_address": "wps-office_11.1.0.11719_arm64.deb.torrent",
+    "Update": "2024-06-07 18:12:21",
+    "Version": "11.1.0.11719",
     "Website": "http://wps-community.org",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/office/wps-office/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/wps-office/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/wps-office/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/wps-office/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/wps-office/screen_4.png\"]"
@@ -360,24 +360,6 @@
 
 ,
 {
-    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "com.sogou.sogoupinyin-deepin-sogouvoice_1.0.0_all.deb",
-    "More": "搜狗输入法Deepin版使用语音功能，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一。",
-    "Name": "搜狗输入法Deepin版语言数据包",
-    "Pkgname": "com.sogou.sogoupinyin-deepin-sogouvoice",
-    "Size": "920 Mb",
-    "Tags": "deepin;ubuntu",
-    "Torrent_address": "com.sogou.sogoupinyin-deepin-sogouvoice_1.0.0_all.deb.torrent",
-    "Update": "2023-06-11 12:19:08",
-    "Version": "1.0.0",
-    "Website": "http://pinyin.sogou.com/linux",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-deepin-sogouvoice/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-deepin-sogouvoice/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-deepin-sogouvoice/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-deepin-sogouvoice/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-deepin-sogouvoice/screen_4.png\"]"
-}
-
-,
-{
     "Author": "wondershare PE team",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "cn.wondershare.ofd_2.0.40_arm64.deb",
@@ -392,6 +374,24 @@
     "Website": "https://www.wondershare.cn/",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/cn.wondershare.ofd/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/cn.wondershare.ofd/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/cn.wondershare.ofd/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.sogou.sogoupinyin-deepin-sogouvoice_1.0.0_all.deb",
+    "More": "搜狗输入法Deepin版使用语音功能，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一。",
+    "Name": "搜狗输入法Deepin版语言数据包",
+    "Pkgname": "com.sogou.sogoupinyin-deepin-sogouvoice",
+    "Size": "920 Mb",
+    "Tags": "deepin;ubuntu",
+    "Torrent_address": "com.sogou.sogoupinyin-deepin-sogouvoice_1.0.0_all.deb.torrent",
+    "Update": "2023-06-11 12:19:08",
+    "Version": "1.0.0",
+    "Website": "http://pinyin.sogou.com/linux",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-deepin-sogouvoice/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-deepin-sogouvoice/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-deepin-sogouvoice/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-deepin-sogouvoice/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-deepin-sogouvoice/screen_4.png\"]"
 }
 
 ,
@@ -594,6 +594,24 @@
 
 ,
 {
+    "Author": "武汉初心科技有限公司 <contact@shimo.im>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "shimo_3.3.1_arm64.deb",
+    "More": "为企业和组织打造的国产企业级云端 Office\n全员高效协同｜数据安全管控｜系统集成定制｜轻型应用搭建",
+    "Name": "石墨文档",
+    "Pkgname": "shimo",
+    "Size": "341 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "shimo_3.3.1_arm64.deb.torrent",
+    "Update": "2024-03-08 15:03:41",
+    "Version": "3.3.1",
+    "Website": "https://shimo.im",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/shimo/icon.png",
+    "img_urls": "[]"
+}
+
+,
+{
     "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb",
@@ -644,24 +662,6 @@
     "Website": "https://ulauncher.io/",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/ulauncher/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/ulauncher/screen_1.png\"]"
-}
-
-,
-{
-    "Author": "武汉初心科技有限公司 <contact@shimo.im>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "shimo_3.3.1_arm64.deb",
-    "More": "为企业和组织打造的国产企业级云端 Office\n全员高效协同｜数据安全管控｜系统集成定制｜轻型应用搭建",
-    "Name": "石墨文档",
-    "Pkgname": "shimo",
-    "Size": "341 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "shimo_3.3.1_arm64.deb.torrent",
-    "Update": "2024-03-08 15:03:41",
-    "Version": "3.3.1",
-    "Website": "https://shimo.im",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/shimo/icon.png",
-    "img_urls": "[]"
 }
 
 ,
@@ -828,24 +828,6 @@
 
 ,
 {
-    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "com.sogou.sogoupinyin-uos-tadict_1.0.0_all.deb",
-    "More": "搜狗输入法UOS版输入小语种，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一",
-    "Name": "搜狗输入法UOS版小语种",
-    "Pkgname": "com.sogou.sogoupinyin-uos-tadict",
-    "Size": "171 Mb",
-    "Tags": "uos",
-    "Torrent_address": "com.sogou.sogoupinyin-uos-tadict_1.0.0_all.deb.torrent",
-    "Update": "2023-06-11 12:16:47",
-    "Version": "1.0.0",
-    "Website": "http://pinyin.sogou.com/linux",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_4.png\"]"
-}
-
-,
-{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.classin_5.0.5.2_all.deb",
@@ -860,6 +842,24 @@
     "Website": "https://www.classin.com/",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/office/com.classin.deepin/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.classin.deepin/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.sogou.sogoupinyin-uos-tadict_1.0.0_all.deb",
+    "More": "搜狗输入法UOS版输入小语种，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一",
+    "Name": "搜狗输入法UOS版小语种",
+    "Pkgname": "com.sogou.sogoupinyin-uos-tadict",
+    "Size": "171 Mb",
+    "Tags": "uos",
+    "Torrent_address": "com.sogou.sogoupinyin-uos-tadict_1.0.0_all.deb.torrent",
+    "Update": "2023-06-11 12:16:47",
+    "Version": "1.0.0",
+    "Website": "http://pinyin.sogou.com/linux",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_4.png\"]"
 }
 
 ,

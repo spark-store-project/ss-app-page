@@ -248,6 +248,24 @@
 
 ,
 {
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-store_4.2.12.1_loong64.deb",
+    "More": "  * 修复：龙芯自动--no-sandbox\n  * 修复：飞腾部分设备上白屏的问题\n  * 修复：下载开始时长时等待（降低链接超时时长）\n",
+    "Name": "星火应用商店",
+    "Pkgname": "spark-store",
+    "Size": "705 Kb",
+    "Tags": "community;deepin;ubuntu;dtk5",
+    "Torrent_address": "spark-store_4.2.12.1_loong64.deb.torrent",
+    "Update": "2024-04-29 18:00:12",
+    "Version": "4.2.12.1",
+    "Website": "https://www.spark-app.store/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_4.png\"]"
+}
+
+,
+{
    "Name":"以管理员身份打开文件（夹）",
    "Version":"1.1.1",
    "Filename":"admin-xdg-open_1.1.1_all.deb",
@@ -277,24 +295,6 @@
     "Website": "https://gitee.com/zinface/z-tools",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_5.png\"]"
-}
-
-,
-{
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "spark-store_4.2.12.1_loong64.deb",
-    "More": "  * 修复：龙芯自动--no-sandbox\n  * 修复：飞腾部分设备上白屏的问题\n  * 修复：下载开始时长时等待（降低链接超时时长）\n",
-    "Name": "星火应用商店",
-    "Pkgname": "spark-store",
-    "Size": "705 Kb",
-    "Tags": "community;deepin;ubuntu;dtk5",
-    "Torrent_address": "spark-store_4.2.12.1_loong64.deb.torrent",
-    "Update": "2024-04-29 18:00:12",
-    "Version": "4.2.12.1",
-    "Website": "https://www.spark-app.store/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_4.png\"]"
 }
 
 ,

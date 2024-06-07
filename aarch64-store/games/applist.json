@@ -179,24 +179,6 @@
 
 ,
 {
-    "Author": "shiroko <hanhaoxuan@uniontech.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.mihoyo.ys-cloud_1.0.0_all.deb",
-    "More": "云原神网页版是米哈游（miHoYo）旗下的原神云游戏版本。通过实时云端技术，你无需下载完整原神包体，也可尽享低延迟、高画质、高顿率游戏体验。《原神》是由米哈游自研的一款开放世界冒险RPG。你将在游戏中探索一个被称作「提瓦特」的幻想世界。在这广阔的世界中，你可以踏遍七国，邂逅性格各异、能力独特的同伴，与他们一同对抗强敌，踏上寻回血亲之路；也可以不带目的地漫游，沉浸在充满生机的世界里，让好奇心驱使自己发掘各个角落的奥秘……直到\n你与分离的血亲重聚，在终点见证一切事物的沉淀\n",
-    "Name": "云·原神",
-    "Pkgname": "com.mihoyo.ys-cloud",
-    "Size": "49 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "com.mihoyo.ys-cloud_1.0.0_all.deb.torrent",
-    "Update": "2024-01-05 17:51:54",
-    "Version": "1.0.0",
-    "Website": "https://ys.mihoyo.com/cloud/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_3.png\"]"
-}
-
-,
-{
     "Author": "liuminghang  <liuminghang0821@gmail.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "minesweep_1.0.1_arm64.deb",
@@ -211,6 +193,24 @@
     "Website": "minesweep",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/minesweep/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/minesweep/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/minesweep/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/minesweep/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/minesweep/screen_4.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/minesweep/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "shiroko <hanhaoxuan@uniontech.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.mihoyo.ys-cloud_1.0.0_all.deb",
+    "More": "云原神网页版是米哈游（miHoYo）旗下的原神云游戏版本。通过实时云端技术，你无需下载完整原神包体，也可尽享低延迟、高画质、高顿率游戏体验。《原神》是由米哈游自研的一款开放世界冒险RPG。你将在游戏中探索一个被称作「提瓦特」的幻想世界。在这广阔的世界中，你可以踏遍七国，邂逅性格各异、能力独特的同伴，与他们一同对抗强敌，踏上寻回血亲之路；也可以不带目的地漫游，沉浸在充满生机的世界里，让好奇心驱使自己发掘各个角落的奥秘……直到\n你与分离的血亲重聚，在终点见证一切事物的沉淀\n",
+    "Name": "云·原神",
+    "Pkgname": "com.mihoyo.ys-cloud",
+    "Size": "49 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "com.mihoyo.ys-cloud_1.0.0_all.deb.torrent",
+    "Update": "2024-01-05 17:51:54",
+    "Version": "1.0.0",
+    "Website": "https://ys.mihoyo.com/cloud/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_3.png\"]"
 }
 
 ,
@@ -413,24 +413,6 @@
 
 ,
 {
-    "Author": "”daya” <”admin@yzzi.icu”>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "icu.yzzi.24points_0.1.0_arm64.deb",
-    "More": "棋牌类益智游戏，要求四个数字运算结果等于二十四，一起来玩玩吧！这个游戏用扑克牌更容易来开展。拿一副牌，抽去大小王后(初练也可以把J/Q/K/大小王也拿去)，剩下1～10这40张牌(以下用1代替A)。任意抽取4张牌(称为牌组)，用加、减、乘、除(可加括号，高级玩家也可用乘方开方与阶乘运算)把牌面上的数算成24。每张牌必须用且只能用一次。如抽出的牌是3、8、8、9，那么算式为(9-8)×8×3=24。",
-    "Name": "24点",
-    "Pkgname": "icu.yzzi.24points",
-    "Size": "31 Kb",
-    "Tags": "community;deepin;uos;dtk5",
-    "Torrent_address": "icu.yzzi.24points_0.1.0_arm64.deb.torrent",
-    "Update": "2023-03-05 18:55:10",
-    "Version": "0.1.0",
-    "Website": "https://www.yzzi.icu",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/icu.yzzi.24points/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/icu.yzzi.24points/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/icu.yzzi.24points/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/icu.yzzi.24points/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/icu.yzzi.24points/screen_4.png\"]"
-}
-
-,
-{
     "Author": "shenmo@spark-app.store",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.pvzhz.spark_2.0.88spark2_all.deb",
@@ -445,6 +427,24 @@
     "Website": "https://space.bilibili.com/97213827",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "”daya” <”admin@yzzi.icu”>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "icu.yzzi.24points_0.1.0_arm64.deb",
+    "More": "棋牌类益智游戏，要求四个数字运算结果等于二十四，一起来玩玩吧！这个游戏用扑克牌更容易来开展。拿一副牌，抽去大小王后(初练也可以把J/Q/K/大小王也拿去)，剩下1～10这40张牌(以下用1代替A)。任意抽取4张牌(称为牌组)，用加、减、乘、除(可加括号，高级玩家也可用乘方开方与阶乘运算)把牌面上的数算成24。每张牌必须用且只能用一次。如抽出的牌是3、8、8、9，那么算式为(9-8)×8×3=24。",
+    "Name": "24点",
+    "Pkgname": "icu.yzzi.24points",
+    "Size": "31 Kb",
+    "Tags": "community;deepin;uos;dtk5",
+    "Torrent_address": "icu.yzzi.24points_0.1.0_arm64.deb.torrent",
+    "Update": "2023-03-05 18:55:10",
+    "Version": "0.1.0",
+    "Website": "https://www.yzzi.icu",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/icu.yzzi.24points/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/icu.yzzi.24points/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/icu.yzzi.24points/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/icu.yzzi.24points/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/icu.yzzi.24points/screen_4.png\"]"
 }
 
 ,

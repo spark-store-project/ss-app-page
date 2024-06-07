@@ -1,14 +1,14 @@
 [
 {
     "Name": "Visual Studio Code(vscode)",
-    "Version": "1.89.1-1715060508",
-    "Filename": "code_1.89.1-1715060508_amd64.deb",
-    "Torrent_address": "code_1.89.1-1715060508_amd64.deb.torrent",
+    "Version": "1.90.0-1717531825",
+    "Filename": "code_1.90.0-1717531825_amd64.deb",
+    "Torrent_address": "code_1.90.0-1717531825_amd64.deb.torrent",
     "Pkgname": "code",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://code.visualstudio.com/",
-    "Update": "2024-05-09 22:01:48",
+    "Update": "2024-06-06 22:01:27",
     "Size": "98M",
     "More": "VSCode是一款非常牛逼的编辑器",
     "Tags": "community;ubuntu;deepin;uos",
@@ -1756,6 +1756,23 @@
 }
 ,
 {
+    "Name": "Kylin Code",
+    "Version": "0.1.2-1688091648",
+    "Filename": "kylin-code_0.1.2-1688091648_amd64.deb",
+    "Torrent_address": "kylin-code_0.1.2-1688091648_amd64.deb.torrent",
+    "Pkgname": "kylin-code",
+    "Author": "KylinIdeTeam https://gitee.com/openkylin/kylin-code/contributors?ref=master",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gitee.com/openkylin/kylin-code",
+    "Update": "2023-07-06 14:22:41",
+    "Size": "80.86 MB",
+    "More": "kylin-code fork 自 Code OSS 项目，集成了一些 openKylin 的特色插件以及 openvsx 插件商店。致力于为 openKylin 社区提供集程序编辑、编译、调试、发布、分析等全套开发流程的编程环境，后续将支持C、C++、Java、Go多种等编程语言，以满足 openKylin 平台上的软件开发需求。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/06/83c9a2b8917b4b21b3030bcb96f5a8d3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/06/a58f04246a674ea18a323c06dcf89e85.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/06/616da2790340496fa360ab5e0cd0e870.png"
+}
+,
+{
     "Name": "Adobe Flash Builder 4.2",
     "Version": "4.6deepin1",
     "Filename": "com.adobe.flashbuilder.spark_4.6deepin1_i386.deb",
@@ -1803,23 +1820,6 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/083c41d528b94b74bbe88b02b5c762c2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/80efa5772d074711bd37fad1cc4f1870.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/e037050630fd45808e455309f8d59fb7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/4520a1b647994db28e33af9f0b12a14b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/33b0de7fe3a04975852b9b75a5ca9699.png"
-}
-,
-{
-    "Name": "Kylin Code",
-    "Version": "0.1.2-1688091648",
-    "Filename": "kylin-code_0.1.2-1688091648_amd64.deb",
-    "Torrent_address": "kylin-code_0.1.2-1688091648_amd64.deb.torrent",
-    "Pkgname": "kylin-code",
-    "Author": "KylinIdeTeam https://gitee.com/openkylin/kylin-code/contributors?ref=master",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gitee.com/openkylin/kylin-code",
-    "Update": "2023-07-06 14:22:41",
-    "Size": "80.86 MB",
-    "More": "kylin-code fork 自 Code OSS 项目，集成了一些 openKylin 的特色插件以及 openvsx 插件商店。致力于为 openKylin 社区提供集程序编辑、编译、调试、发布、分析等全套开发流程的编程环境，后续将支持C、C++、Java、Go多种等编程语言，以满足 openKylin 平台上的软件开发需求。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/06/83c9a2b8917b4b21b3030bcb96f5a8d3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/06/a58f04246a674ea18a323c06dcf89e85.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/06/616da2790340496fa360ab5e0cd0e870.png"
 }
 ,
 {
@@ -1974,23 +1974,6 @@
 
 ,
 {
-    "Name": "阿里云命令行工具",
-    "Version": "3.0.161~spark1",
-    "Filename": "aliyun-cli_3.0.161~spark1_amd64.deb",
-    "Torrent_address": "aliyun-cli_3.0.161~spark1_amd64.deb.torrent",
-    "Pkgname": "aliyun-cli",
-    "Author": "阿里云",
-    "Contributor": "Donald Sebastian Leung",
-    "Website": "https://github.com/aliyun/aliyun-cli",
-    "Update": "2023-04-13 22:11:04",
-    "Size": "3.09 MB",
-    "More": "阿里云命令行工具是用 Go 语言编写的, 基于阿里云 OpenAPI 打造的，用于管理阿里云资源的工具。通过下载和配置该工具，您可以在一个命令行方式下管理多个阿里云产品资源。\n\n声明：本软件包并非由阿里云官方提供或支持，如有问题请发邮件到 donaldsebleung@qq.com 或于 https://gitee.com/donaldsebleung/aliyun-cli-spark-store 建工单。",
-    "Tags": "community;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/02fe1110-da05-11ed-84b8-a9e6dfd6bea3.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/13/00b9ed70-da05-11ed-84b8-a9e6dfd6bea3.png"
-}
-,
-{
     "Name": "RubyMine",
     "Version": "2024.1",
     "Filename": "jetbrains-rubymine_2024.1_all.deb",
@@ -2005,6 +1988,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/17dab5b448eb4b12bef925b996a54d9b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/608c7938c203468487a8cd6b730a2234.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/eb2a4b6534cb4db68c35da00efb9611e.png"
+}
+,
+{
+    "Name": "阿里云命令行工具",
+    "Version": "3.0.161~spark1",
+    "Filename": "aliyun-cli_3.0.161~spark1_amd64.deb",
+    "Torrent_address": "aliyun-cli_3.0.161~spark1_amd64.deb.torrent",
+    "Pkgname": "aliyun-cli",
+    "Author": "阿里云",
+    "Contributor": "Donald Sebastian Leung",
+    "Website": "https://github.com/aliyun/aliyun-cli",
+    "Update": "2023-04-13 22:11:04",
+    "Size": "3.09 MB",
+    "More": "阿里云命令行工具是用 Go 语言编写的, 基于阿里云 OpenAPI 打造的，用于管理阿里云资源的工具。通过下载和配置该工具，您可以在一个命令行方式下管理多个阿里云产品资源。\n\n声明：本软件包并非由阿里云官方提供或支持，如有问题请发邮件到 donaldsebleung@qq.com 或于 https://gitee.com/donaldsebleung/aliyun-cli-spark-store 建工单。",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/02fe1110-da05-11ed-84b8-a9e6dfd6bea3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/13/00b9ed70-da05-11ed-84b8-a9e6dfd6bea3.png"
 }
 ,
 {

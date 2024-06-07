@@ -143,23 +143,6 @@
 
 ,
 {
-    "Name": "银狼主题光标",
-    "Version": "1.0.0",
-    "Filename": "silverwolf.cursors_1.0.0_all.deb",
-    "Torrent_address": "silverwolf.cursors_1.0.0_all.deb.torrent",
-    "Pkgname": "silverwolf.cursors",
-    "Author": "唯溯",
-    "Contributor": "阿尼樱奈奈 <kamizotoayaka@163.com>",
-    "Website": "https://space.bilibili.com/436623402",
-    "Update": "2023-11-09 13:18:48",
-    "Size": "21.35 KB",
-    "More": "银狼主题光标，由B站用户@唯溯（https://space.bilibili.com/436623402）制作，由deepin论坛用户@阿尼樱奈奈（https://bbs.deepin.org/user/296995）转换为Linux可用主题光标",
-    "Tags": "deepin;ubuntu;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/6d363d6e13184eea989185caa8e96d7d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/cc99d9071d0e42619591a2f0ec6dc802.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/09/2a68ae47de594a4fa3fcfdf136ef3f99.png"
-}
-,
-{
     "Author": "Deepin Packages Builder <packages@deepin.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "sea-icon-theme_2020.04.13-1_all.deb",
@@ -176,6 +159,23 @@
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/sea-icon-theme/screen_1.png\"]"
 }
 
+,
+{
+    "Name": "银狼主题光标",
+    "Version": "1.0.0",
+    "Filename": "silverwolf.cursors_1.0.0_all.deb",
+    "Torrent_address": "silverwolf.cursors_1.0.0_all.deb.torrent",
+    "Pkgname": "silverwolf.cursors",
+    "Author": "唯溯",
+    "Contributor": "阿尼樱奈奈 <kamizotoayaka@163.com>",
+    "Website": "https://space.bilibili.com/436623402",
+    "Update": "2023-11-09 13:18:48",
+    "Size": "21.35 KB",
+    "More": "银狼主题光标，由B站用户@唯溯（https://space.bilibili.com/436623402）制作，由deepin论坛用户@阿尼樱奈奈（https://bbs.deepin.org/user/296995）转换为Linux可用主题光标",
+    "Tags": "deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/6d363d6e13184eea989185caa8e96d7d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/cc99d9071d0e42619591a2f0ec6dc802.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/09/2a68ae47de594a4fa3fcfdf136ef3f99.png"
+}
 ,
 {
     "Author": "liuminghang  <liuminghang0821@gmail.com>",
@@ -268,24 +268,6 @@
 
 ,
 {
-    "Author": "lidanger <lidanger@xxx.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "fcitx-ui-deepin-v20_1:0.1-2_all.deb",
-    "More": "让sunpinyin从此不同",
-    "Name": "deepin 20风格fcitx皮肤",
-    "Pkgname": "fcitx-ui-deepin-v20",
-    "Size": "137 Kb",
-    "Tags": "",
-    "Torrent_address": "fcitx-ui-deepin-v20_1:0.1-2_all.deb.torrent",
-    "Update": "2023-03-07 22:07:10",
-    "Version": "1:0.1-2",
-    "Website": "https://bbs.deepin.org/forum.php?mod=viewthread&tid=196126",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx-ui-deepin-v20/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx-ui-deepin-v20/screen_1.png\"]"
-}
-
-,
-{
     "Author": "3025613752 <3025613752@qq.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.uniontech.theme.fabulous.beasts_1.0.0_all.deb",
@@ -300,6 +282,24 @@
     "Website": "https://www.bilibili.com/bangumi/media/md28235647",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "lidanger <lidanger@xxx.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "fcitx-ui-deepin-v20_1:0.1-2_all.deb",
+    "More": "让sunpinyin从此不同",
+    "Name": "deepin 20风格fcitx皮肤",
+    "Pkgname": "fcitx-ui-deepin-v20",
+    "Size": "137 Kb",
+    "Tags": "",
+    "Torrent_address": "fcitx-ui-deepin-v20_1:0.1-2_all.deb.torrent",
+    "Update": "2023-03-07 22:07:10",
+    "Version": "1:0.1-2",
+    "Website": "https://bbs.deepin.org/forum.php?mod=viewthread&tid=196126",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx-ui-deepin-v20/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx-ui-deepin-v20/screen_1.png\"]"
 }
 
 ,

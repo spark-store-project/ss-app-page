@@ -374,23 +374,6 @@
 }
 ,
 {
-    "Name": "MusicFree",
-    "Version": "0.0.3",
-    "Filename": "musicfree_0.0.3_amd64.deb",
-    "Torrent_address": "musicfree_0.0.3_amd64.deb.torrent",
-    "Pkgname": "musicfree",
-    "Author": "猫头猫 <lhx_xjtu@163.com>",
-    "Contributor": "IDSGongAo <1462316579@qq.com>",
-    "Website": "https://musicfree.upup.fun/",
-    "Update": "2024-03-29 02:10:19",
-    "Size": "78.94 MB",
-    "More": "一个插件化的音乐播放器,插件链接：https://hub.gitmirror.com/https://raw.githubusercontent.com/IDSGongAo/Music/main/Plug-ins.json",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/29/ba6c2cadec0b4c5bae57b84cc544fc4c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/29/310348f39ffb4c2684492f9e0b36d84b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/29/5c520b4f879a44b3a2dc81f877a6bf59.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/29/3c768e2486af42e0b5691b444150d85a.png"
-}
-,
-{
     "Name": "Cider",
     "Version": "1.6.2-20230701.1",
     "Filename": "cider_1.6.2-20230701.1_amd64.deb",
@@ -405,6 +388,23 @@
     "Tags": "ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/15/bd8b09c2360345b7b9f99d7865cb9466.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/15/191eb602df5f4d4e877af33cfee3d969.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/15/36f47381cb1348b7a2ac20ebe43d856a.png"
+}
+,
+{
+    "Name": "MusicFree",
+    "Version": "0.0.3",
+    "Filename": "musicfree_0.0.3_amd64.deb",
+    "Torrent_address": "musicfree_0.0.3_amd64.deb.torrent",
+    "Pkgname": "musicfree",
+    "Author": "猫头猫 <lhx_xjtu@163.com>",
+    "Contributor": "IDSGongAo <1462316579@qq.com>",
+    "Website": "https://musicfree.upup.fun/",
+    "Update": "2024-03-29 02:10:19",
+    "Size": "78.94 MB",
+    "More": "一个插件化的音乐播放器,插件链接：https://hub.gitmirror.com/https://raw.githubusercontent.com/IDSGongAo/Music/main/Plug-ins.json",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/29/ba6c2cadec0b4c5bae57b84cc544fc4c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/29/310348f39ffb4c2684492f9e0b36d84b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/29/5c520b4f879a44b3a2dc81f877a6bf59.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/29/3c768e2486af42e0b5691b444150d85a.png"
 }
 ,
 {
@@ -1096,6 +1096,23 @@
 
 ,
 {
+    "Name": "musicfox （网易云音乐命令行版）",
+    "Version": "4.4.1-2",
+    "Filename": "go-musicfox_4.4.1-2_amd64.deb",
+    "Torrent_address": "go-musicfox_4.4.1-2_amd64.deb.torrent",
+    "Pkgname": "go-musicfox",
+    "Author": "go-musicfox <abhoder@88.com>",
+    "Contributor": "xmb505 <530060699@qq.com>",
+    "Website": "https://github.com/go-musicfox",
+    "Update": "2024-05-27 21:51:03",
+    "Size": "5.25 MB",
+    "More": "go-musicfox 是用 Go 写的又一款网易云音乐命令行客户端，支持各种音质级别、UnblockNeteaseMusic、Last.fm、MPRIS 和 macOS 交互响应（睡眠暂停、蓝牙耳机连接断开响应和菜单栏控制等）等功能特性。",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/795996e1070e44de8fb335054d0fe27e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/7bb6672d35b3400187ee386911df8a4a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/4f598e56a86e4800b419016ce0e2c903.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/cba58e0d66ae4990bb80f55921ad2dd7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/cf6fa46e339946f6ad7dc5da5c66ecb5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/d82f2ee17ce94603b00f7f9afd17409a.png"
+}
+,
+{
     "Author": "spark-store",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "io.mstream_5.11.4_amd64.deb",
@@ -1114,20 +1131,20 @@
 
 ,
 {
-    "Name": "musicfox （网易云音乐命令行版）",
-    "Version": "4.4.1-2",
-    "Filename": "go-musicfox_4.4.1-2_amd64.deb",
-    "Torrent_address": "go-musicfox_4.4.1-2_amd64.deb.torrent",
-    "Pkgname": "go-musicfox",
+    "Name": "musicfox 源码编译版",
+    "Version": "2024.05.27-2",
+    "Filename": "go-musicfox-git_2024.05.27-2_amd64.deb",
+    "Torrent_address": "go-musicfox-git_2024.05.27-2_amd64.deb.torrent",
+    "Pkgname": "go-musicfox-git",
     "Author": "go-musicfox <abhoder@88.com>",
     "Contributor": "xmb505 <530060699@qq.com>",
     "Website": "https://github.com/go-musicfox",
-    "Update": "2024-05-27 21:51:03",
-    "Size": "5.25 MB",
-    "More": "go-musicfox 是用 Go 写的又一款网易云音乐命令行客户端，支持各种音质级别、UnblockNeteaseMusic、Last.fm、MPRIS 和 macOS 交互响应（睡眠暂停、蓝牙耳机连接断开响应和菜单栏控制等）等功能特性。",
+    "Update": "2024-05-27 21:48:22",
+    "Size": "854 Bytes",
+    "More": "安装前请先添加go语言的ppa源\nsudo add-apt-repository ppa:longsleep/golang-backports\n此软件包为编译包，安装前请保持网络通畅\n\ngo-musicfox 是用 Go 写的又一款网易云音乐命令行客户端，支持各种音质级别、UnblockNeteaseMusic、Last.fm、MPRIS 和 macOS 交互响应（睡眠暂停、蓝牙耳机连接断开响应和菜单栏控制等）等功能特性。",
     "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/795996e1070e44de8fb335054d0fe27e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/7bb6672d35b3400187ee386911df8a4a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/4f598e56a86e4800b419016ce0e2c903.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/cba58e0d66ae4990bb80f55921ad2dd7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/cf6fa46e339946f6ad7dc5da5c66ecb5.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/d82f2ee17ce94603b00f7f9afd17409a.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/e4b0756b4d984118b00e47e7221a2947.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/cb8df42c3a194357a62f49e3ec25fc35.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/5af0f5b0eb91440aaf2be4f307adeb97.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/a90862f202844246aa945464094d35bf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/59eef96031a648429e8cf1a846659c48.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/02f54b0572ad4f698c430777bb9bad5d.png"
 }
 ,
 {
@@ -1161,23 +1178,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/12/05750926dabb49a9a6393e8161323567.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/12/1497c2a4d87945ffbcc1464ec572dfbb.png"
-}
-,
-{
-    "Name": "musicfox 源码编译版",
-    "Version": "2024.05.27-2",
-    "Filename": "go-musicfox-git_2024.05.27-2_amd64.deb",
-    "Torrent_address": "go-musicfox-git_2024.05.27-2_amd64.deb.torrent",
-    "Pkgname": "go-musicfox-git",
-    "Author": "go-musicfox <abhoder@88.com>",
-    "Contributor": "xmb505 <530060699@qq.com>",
-    "Website": "https://github.com/go-musicfox",
-    "Update": "2024-05-27 21:48:22",
-    "Size": "854 Bytes",
-    "More": "安装前请先添加go语言的ppa源\nsudo add-apt-repository ppa:longsleep/golang-backports\n此软件包为编译包，安装前请保持网络通畅\n\ngo-musicfox 是用 Go 写的又一款网易云音乐命令行客户端，支持各种音质级别、UnblockNeteaseMusic、Last.fm、MPRIS 和 macOS 交互响应（睡眠暂停、蓝牙耳机连接断开响应和菜单栏控制等）等功能特性。",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/e4b0756b4d984118b00e47e7221a2947.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/cb8df42c3a194357a62f49e3ec25fc35.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/5af0f5b0eb91440aaf2be4f307adeb97.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/a90862f202844246aa945464094d35bf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/59eef96031a648429e8cf1a846659c48.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/02f54b0572ad4f698c430777bb9bad5d.png"
 }
 ,
 {

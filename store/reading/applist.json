@@ -352,23 +352,6 @@
 }
 ,
 {
-    "Name": "字帖生成器",
-    "Version": "1.0.1089",
-    "Filename": "copybook_1.0.1089_amd64.deb",
-    "Torrent_address": "copybook_1.0.1089_amd64.deb.torrent",
-    "Pkgname": "copybook",
-    "Author": "xxnull@163.com",
-    "Contributor": "allan <xxnull@163.com>",
-    "Website": "https://github.com/xxNull-lsk/Copybook",
-    "Update": "2023-07-29 22:32:39",
-    "Size": "32.26 MB",
-    "More": "一款汉字、拼音、数字字帖生成工具。",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/2cb27b3762104a13a4c24241103ed610.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/944296a644184cc69938d56f3fbbf9ff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/57d0a862b6d441cebeba1ce24a35e8c9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/7ca4e1c861d6451494170b65d6ad3c8d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/6187d7b4df5644909322a18988d28da0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/29/127fae992f9747f1a56bfb080afb370d.png"
-}
-,
-{
     "Name": "BookxNote Pro",
     "Version": "2.0.0.1112",
     "Filename": "com.bookxnote.pro_2.0.0.1112_amd64.deb",
@@ -383,6 +366,23 @@
     "Tags": "deepin;uos;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/07/6f329457df314cd8b399d9c574fe8ca5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/07/78f91fa40c0f45e7ab62e77d2de16538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/07/ad0f5409a75442c187f165095bc23b90.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/07/dbcf84a3986b4084ad3f2a669edc24f9.png"
+}
+,
+{
+    "Name": "字帖生成器",
+    "Version": "1.0.1089",
+    "Filename": "copybook_1.0.1089_amd64.deb",
+    "Torrent_address": "copybook_1.0.1089_amd64.deb.torrent",
+    "Pkgname": "copybook",
+    "Author": "xxnull@163.com",
+    "Contributor": "allan <xxnull@163.com>",
+    "Website": "https://github.com/xxNull-lsk/Copybook",
+    "Update": "2023-07-29 22:32:39",
+    "Size": "32.26 MB",
+    "More": "一款汉字、拼音、数字字帖生成工具。",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/2cb27b3762104a13a4c24241103ed610.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/944296a644184cc69938d56f3fbbf9ff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/57d0a862b6d441cebeba1ce24a35e8c9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/7ca4e1c861d6451494170b65d6ad3c8d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/6187d7b4df5644909322a18988d28da0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/29/127fae992f9747f1a56bfb080afb370d.png"
 }
 ,
 {
@@ -566,22 +566,6 @@
 }
 ,
 {
-    "Name": "csBooks",
-    "Version": "6.1.0",
-    "Filename": "csbooks_6.1.0_amd64.deb",
-    "Pkgname": "csbooks",
-    "Author": "Caesium Studio",
-    "Contributor": "sgb76",
-    "Website": "https://caesiumstudio.com/apps",
-    "Update": "2022-03-08 15:02:30",
-    "Size": "54.38 MB",
-    "More": "轻松管理和阅读您的PDF、ePub和MOBI书籍",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/08/929d35b0-9ead-11ec-be06-69f5523f708c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/08/9608e960-9ead-11ec-be06-69f5523f708c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/08/8d7b1f70-9ead-11ec-be06-69f5523f708c.png"
-}
-,
-{
     "Name": "OCRhelper",
     "Version": "1.1spark0",
     "Filename": "com.ocrhelper.spark_1.1spark0_amd64.deb",
@@ -596,6 +580,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/26/5f0a6f9c3b7e42a9b8e9caab24525df5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/26/52223a091ae84f6e8e3e93fc8c8be374.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/26/0c150ef0b5514940a47f12d6943e847a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/26/f427a6e42bef4fbba4e7cc9f08295998.png"
+}
+,
+{
+    "Name": "csBooks",
+    "Version": "6.1.0",
+    "Filename": "csbooks_6.1.0_amd64.deb",
+    "Pkgname": "csbooks",
+    "Author": "Caesium Studio",
+    "Contributor": "sgb76",
+    "Website": "https://caesiumstudio.com/apps",
+    "Update": "2022-03-08 15:02:30",
+    "Size": "54.38 MB",
+    "More": "轻松管理和阅读您的PDF、ePub和MOBI书籍",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/08/929d35b0-9ead-11ec-be06-69f5523f708c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/08/9608e960-9ead-11ec-be06-69f5523f708c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/08/8d7b1f70-9ead-11ec-be06-69f5523f708c.png"
 }
 ,
 {
@@ -732,23 +732,6 @@
 }
 ,
 {
-    "Name": "Thorium Reader",
-    "Version": "2.2.0",
-    "Filename": "edrlab.thoriumreader_2.2.0_amd64.deb",
-    "Torrent_address": "edrlab.thoriumreader_2.2.0_amd64.deb.torrent",
-    "Pkgname": "edrlab.thoriumreader",
-    "Author": "EDRLab",
-    "Contributor": "sgb76",
-    "Website": "https://github.com/edrlab/readium-desktop",
-    "Update": "2023-02-05 14:21:54",
-    "Size": "69.93 MB",
-    "More": "一款适用于Windows 10、MacOS和Linux的跨平台EPUB阅读器。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/05/35fc48f12d934ca393b3f0fd086e3cad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/05/d413fe570dfd421da559f604160e8ab1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/05/ee06663c99ef441e8b754d774dfcba0d.png"
-}
-,
-{
     "Name": "熊猫 OCR Pro（Wine）",
     "Version": "1.0.0",
     "Filename": "com.pandaocr.pro.spark_1.0.0_i386.deb",
@@ -763,6 +746,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/05/7397c64f10f64e7782d1b6843f0898b7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/05/814a1a9bb52540f790d6bc019caadd44.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/05/c5f7382cb45f4d8797e3ca4162c5d43c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/05/0d50b487cb66477084f31506b512ecec.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/05/84f68181e51a4b389ddd67182403e043.png"
+}
+,
+{
+    "Name": "Thorium Reader",
+    "Version": "2.2.0",
+    "Filename": "edrlab.thoriumreader_2.2.0_amd64.deb",
+    "Torrent_address": "edrlab.thoriumreader_2.2.0_amd64.deb.torrent",
+    "Pkgname": "edrlab.thoriumreader",
+    "Author": "EDRLab",
+    "Contributor": "sgb76",
+    "Website": "https://github.com/edrlab/readium-desktop",
+    "Update": "2023-02-05 14:21:54",
+    "Size": "69.93 MB",
+    "More": "一款适用于Windows 10、MacOS和Linux的跨平台EPUB阅读器。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/05/35fc48f12d934ca393b3f0fd086e3cad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/05/d413fe570dfd421da559f604160e8ab1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/05/ee06663c99ef441e8b754d774dfcba0d.png"
 }
 ,
 {

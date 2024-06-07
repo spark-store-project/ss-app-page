@@ -17,17 +17,17 @@
 }
 ,
 {
-    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Author": "懵仙兔兔 <acgm@qq.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "wps-office_12.8.2.16969.AK.preload.sw-spark1_amd64.deb",
+    "Filename": "wps-office_11.1.0.11719.1+ACE-fix1_amd64.deb",
     "More": "WPS Office\n\n懵仙兔兔补丁版的WPS Office\n- 1.修复了pdf相关功能失效的问题\n- 2.修复了字体显示异常粗壮的问题\n-3. Fix: Can not install on ACE\n注：\n补丁是根据你本地系统依赖环境全自动处理是否需要补丁介入\n\n兼容性测试：\ndebian testing：功能全部正常\ndebian 12：功能全部正常\nubuntu 22.04：功能全部正常\ndeepin 23b3：功能全部正常\ndeepin 20.9：功能全部正常",
     "Name": "WPS Office",
     "Pkgname": "wps-office",
-    "Size": "757 Mb",
+    "Size": "449 Mb",
     "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "wps-office_12.8.2.16969.AK.preload.sw-spark1_amd64.deb.torrent",
-    "Update": "2024-06-06 19:56:21",
-    "Version": "12.8.2.16969.AK.preload.sw-spark1",
+    "Torrent_address": "wps-office_11.1.0.11719.1+ACE-fix1_amd64.deb.torrent",
+    "Update": "2024-06-07 18:10:36",
+    "Version": "11.1.0.11719.1+ACE-fix1",
     "Website": "http://wps-community.org",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/office/wps-office/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/wps-office/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/wps-office/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/wps-office/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/wps-office/screen_4.png\"]"
@@ -1349,23 +1349,6 @@
 }
 ,
 {
-    "Name": "搜狗输入法Deepin版手写数据包",
-    "Version": "1.0.0",
-    "Filename": "com.sogou.sogoupinyin-deepin-sogouhw_1.0.0_all.deb",
-    "Torrent_address": "com.sogou.sogoupinyin-deepin-sogouhw_1.0.0_all.deb.torrent",
-    "Pkgname": "com.sogou.sogoupinyin-deepin-sogouhw",
-    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://pinyin.sogou.com/linux",
-    "Update": "2023-05-20 22:33:43",
-    "Size": "173.73 MB",
-    "More": "搜狗输入法Deepin版使用手写功能，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/b31393dddbc84ac78f09b3c57065f8a1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/295613e79d9e40888132879307f104ed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/e9d6e599712e4597adcd5d809c34f79a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/a9b4cdc1adcb4a25b47335958e4e6a4e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/4b09f48b0d444dedbc8812c9696ca167.png"
-}
-,
-{
     "Name": "Evernote（Linux）",
     "Version": "10.7.6-2321",
     "Filename": "evernote-client_10.7.6-2321_amd64.deb",
@@ -1380,6 +1363,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/05/c1d221fc106243859b15cfc5f24dd75a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/05/d135b2e825a842afb9de4823dea2895e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/05/2de84c1a7b9d49f3aa690d8e80c53ddc.png"
+}
+,
+{
+    "Name": "搜狗输入法Deepin版手写数据包",
+    "Version": "1.0.0",
+    "Filename": "com.sogou.sogoupinyin-deepin-sogouhw_1.0.0_all.deb",
+    "Torrent_address": "com.sogou.sogoupinyin-deepin-sogouhw_1.0.0_all.deb.torrent",
+    "Pkgname": "com.sogou.sogoupinyin-deepin-sogouhw",
+    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://pinyin.sogou.com/linux",
+    "Update": "2023-05-20 22:33:43",
+    "Size": "173.73 MB",
+    "More": "搜狗输入法Deepin版使用手写功能，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/b31393dddbc84ac78f09b3c57065f8a1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/295613e79d9e40888132879307f104ed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/e9d6e599712e4597adcd5d809c34f79a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/a9b4cdc1adcb4a25b47335958e4e6a4e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/4b09f48b0d444dedbc8812c9696ca167.png"
 }
 ,
 {
@@ -1417,6 +1417,22 @@
 }
 ,
 {
+    "Name": "语雀（web）",
+    "Version": "1.0spark0",
+    "Filename": "web-yuque_1.0spark0_amd64.deb",
+    "Pkgname": "web-yuque",
+    "Author": "阿里支付宝",
+    "Contributor": "sgb76",
+    "Website": "https://www.yuque.com/",
+    "Update": "2020-11-25 15:20:51",
+    "Size": "16.29 KB",
+    "More": "专业的云端知识库，面向个人和团队，提供与众不同的知识管理，打造轻松流畅的工作协同。已知问题：打开应用后无法输入中文。临时解决办法：应用内出现输入框界面后，可以先随意打开一个别的应用（比如文件管理器）窗口再关闭，然后就可以正常输入中文了。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/93e4cb00-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/988973e0-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/9c54d3c0-2f31-11eb-afff-ebd060f2ab0f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/25/86050130-2f31-11eb-afff-ebd060f2ab0f.png"
+}
+,
+{
     "Name": "pdf-xchange-wine",
     "Version": "2.5.322.10",
     "Filename": "com.pdf-xchange.spark_2.5.322.10_amd64.deb",
@@ -1431,22 +1447,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/22/d5467390-c202-11ec-854a-efb632f5f553.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/22/d738cdb0-c202-11ec-854a-efb632f5f553.jpg\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/22/c128ea50-c202-11ec-854a-efb632f5f553.png"
-}
-,
-{
-    "Name": "语雀（web）",
-    "Version": "1.0spark0",
-    "Filename": "web-yuque_1.0spark0_amd64.deb",
-    "Pkgname": "web-yuque",
-    "Author": "阿里支付宝",
-    "Contributor": "sgb76",
-    "Website": "https://www.yuque.com/",
-    "Update": "2020-11-25 15:20:51",
-    "Size": "16.29 KB",
-    "More": "专业的云端知识库，面向个人和团队，提供与众不同的知识管理，打造轻松流畅的工作协同。已知问题：打开应用后无法输入中文。临时解决办法：应用内出现输入框界面后，可以先随意打开一个别的应用（比如文件管理器）窗口再关闭，然后就可以正常输入中文了。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/93e4cb00-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/988973e0-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/9c54d3c0-2f31-11eb-afff-ebd060f2ab0f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/25/86050130-2f31-11eb-afff-ebd060f2ab0f.png"
 }
 ,
 {
@@ -1631,22 +1631,6 @@
 }
 ,
 {
-    "Name": "白描OCR（web）",
-    "Version": "1.0spark0",
-    "Filename": "web-baimiaoapp_1.0spark0_amd64.deb",
-    "Pkgname": "web-baimiaoapp",
-    "Author": "优零科技",
-    "Contributor": "sgb76",
-    "Website": "https://web.baimiaoapp.com/",
-    "Update": "2021-08-20 17:45:10",
-    "Size": "12.78 KB",
-    "More": "基于spark-webapp-runtime打包的白描OCR网页版",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/20/17504d20-019b-11ec-b02b-21950ac075ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/20/1bb63f50-019b-11ec-b02b-21950ac075ad.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/20/11c0a800-019b-11ec-b02b-21950ac075ad.png"
-}
-,
-{
     "Name": "石墨文档",
     "Version": "3.3.1",
     "Filename": "shimo_3.3.1_amd64.deb",
@@ -1661,6 +1645,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/9003c4f78eba41548eb106f546521e71.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/08/1057ec4260c04b278f0f04ae53099faf.png"
+}
+,
+{
+    "Name": "白描OCR（web）",
+    "Version": "1.0spark0",
+    "Filename": "web-baimiaoapp_1.0spark0_amd64.deb",
+    "Pkgname": "web-baimiaoapp",
+    "Author": "优零科技",
+    "Contributor": "sgb76",
+    "Website": "https://web.baimiaoapp.com/",
+    "Update": "2021-08-20 17:45:10",
+    "Size": "12.78 KB",
+    "More": "基于spark-webapp-runtime打包的白描OCR网页版",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/20/17504d20-019b-11ec-b02b-21950ac075ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/20/1bb63f50-019b-11ec-b02b-21950ac075ad.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/20/11c0a800-019b-11ec-b02b-21950ac075ad.png"
 }
 ,
 {
@@ -1832,6 +1832,23 @@
 }
 ,
 {
+    "Name": "蓝信",
+    "Version": "7.33.32spark0",
+    "Filename": "org.lanxin.spark_7.33.32spark0_amd64.deb",
+    "Torrent_address": "org.lanxin.spark_7.33.32spark0_amd64.deb.torrent",
+    "Pkgname": "org.lanxin.spark",
+    "Author": "蓝信移动(北京)科技有限公司",
+    "Contributor": "spl",
+    "Website": "https://www.lanxin.cn/",
+    "Update": "2022-06-11 17:45:51",
+    "Size": "404.93 MB",
+    "More": "通讯类，支持文字、语音、表情、位置、图片、文件、音频、视频等消息类型，形式可图文、多图发送，满足多样化的沟通场景和沟通诉求，为沟通创造无限可能。支持一键发起千人超大群组，所有成员实名沟通。私聊、群聊消息支持原文回复、查看已读未读，并可一键@未读成员；如有不能及时处理的已读私聊会话，可重新标记为未读，作为备忘，后续跟进处理。 所有信息安全可控，支持添加水印、防截屏、阅后即焚设置，信息安全多重保障。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/efef5f10-e96a-11ec-a40a-313790704626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/effdde00-e96a-11ec-a40a-313790704626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/f0120240-e96a-11ec-a40a-313790704626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/f0256330-e96a-11ec-a40a-313790704626.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/11/eaec6990-e96a-11ec-a40a-313790704626.png"
+}
+,
+{
     "Name": "中银证券（wine）",
     "Version": "8.14deepin5",
     "Filename": "com.bocichina.zhongyin.spark_8.14deepin5_i386.deb",
@@ -1899,23 +1916,6 @@
 }
 ,
 {
-    "Name": "蓝信",
-    "Version": "7.33.32spark0",
-    "Filename": "org.lanxin.spark_7.33.32spark0_amd64.deb",
-    "Torrent_address": "org.lanxin.spark_7.33.32spark0_amd64.deb.torrent",
-    "Pkgname": "org.lanxin.spark",
-    "Author": "蓝信移动(北京)科技有限公司",
-    "Contributor": "spl",
-    "Website": "https://www.lanxin.cn/",
-    "Update": "2022-06-11 17:45:51",
-    "Size": "404.93 MB",
-    "More": "通讯类，支持文字、语音、表情、位置、图片、文件、音频、视频等消息类型，形式可图文、多图发送，满足多样化的沟通场景和沟通诉求，为沟通创造无限可能。支持一键发起千人超大群组，所有成员实名沟通。私聊、群聊消息支持原文回复、查看已读未读，并可一键@未读成员；如有不能及时处理的已读私聊会话，可重新标记为未读，作为备忘，后续跟进处理。 所有信息安全可控，支持添加水印、防截屏、阅后即焚设置，信息安全多重保障。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/efef5f10-e96a-11ec-a40a-313790704626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/effdde00-e96a-11ec-a40a-313790704626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/f0120240-e96a-11ec-a40a-313790704626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/f0256330-e96a-11ec-a40a-313790704626.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/11/eaec6990-e96a-11ec-a40a-313790704626.png"
-}
-,
-{
     "Name": "文华赢顺Wh6(wine)",
     "Version": "6.8.412spark0",
     "Filename": "com.haqh.wh6.spark_6.8.412spark0_amd64.deb",
@@ -1950,23 +1950,6 @@
 }
 ,
 {
-    "Name": "Mybase Desktop",
-    "Version": "8.2.12",
-    "Filename": "mybase-desktop_8.2.12_amd64.deb",
-    "Torrent_address": "mybase-desktop_8.2.12_amd64.deb.torrent",
-    "Pkgname": "mybase-desktop",
-    "Author": "Wjj Software",
-    "Contributor": "sgb76",
-    "Website": "http://www.wjjsoft.com/",
-    "Update": "2023-03-05 00:17:51",
-    "Size": "31.08 MB",
-    "More": "Mybase Desktop 是一款用于分类存储管理任意格式资料的小型个人数据库软件， 有助于个人用户在（Linux/MacOSX/Windows）桌面电脑系统上实施文档、知识、笔记、日记、图片和网页的分类存储和管理。 借助软件提供的各项功能，创建和维护一个专属于自己的个人知识库将变的相对简单快捷。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/bde7b59ec4ed427e9c34965abb8d195d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/e73baafc652d4e338659f9a209098b46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/83abe4ad8dce46b381761e7675ffd970.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/05/b762b706ebe14202b1294ebaac15471c.png"
-}
-,
-{
     "Name": "金舟PDF编辑器",
     "Version": "4.0.3spark0",
     "Filename": "net.jinzhousoft.jzpdfeditor.spark_4.0.3spark0_all.deb",
@@ -1981,6 +1964,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/03/75403de9aea640a6ba090918055b3111.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/03/30bd0bdcddbc4371aaa9b2624c6cb9c7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/03/80fd4161cac74bcea4cfa5acb19994ba.png"
+}
+,
+{
+    "Name": "Mybase Desktop",
+    "Version": "8.2.12",
+    "Filename": "mybase-desktop_8.2.12_amd64.deb",
+    "Torrent_address": "mybase-desktop_8.2.12_amd64.deb.torrent",
+    "Pkgname": "mybase-desktop",
+    "Author": "Wjj Software",
+    "Contributor": "sgb76",
+    "Website": "http://www.wjjsoft.com/",
+    "Update": "2023-03-05 00:17:51",
+    "Size": "31.08 MB",
+    "More": "Mybase Desktop 是一款用于分类存储管理任意格式资料的小型个人数据库软件， 有助于个人用户在（Linux/MacOSX/Windows）桌面电脑系统上实施文档、知识、笔记、日记、图片和网页的分类存储和管理。 借助软件提供的各项功能，创建和维护一个专属于自己的个人知识库将变的相对简单快捷。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/bde7b59ec4ed427e9c34965abb8d195d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/e73baafc652d4e338659f9a209098b46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/83abe4ad8dce46b381761e7675ffd970.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/05/b762b706ebe14202b1294ebaac15471c.png"
 }
 ,
 {
@@ -2268,23 +2268,6 @@
 }
 ,
 {
-    "Name": "Gregexp",
-    "Version": "0.1.1",
-    "Filename": "gregexp_0.1.1_amd64.deb",
-    "Torrent_address": "gregexp_0.1.1_amd64.deb.torrent",
-    "Pkgname": "gregexp",
-    "Author": "陈陈菌",
-    "Contributor": "陈陈菌 <2670637999@qq.com>",
-    "Website": "https://blog.glumi.cn/",
-    "Update": "2022-10-19 14:12:16",
-    "Size": "4.8 MB",
-    "More": "一个正则表达式测试工具",
-    "Tags": "ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/19/10d44ae6-8e78-4a87-bd4b-343ee2a52485.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/19/99638a75-05e8-414e-ad22-af0e7ee3c2d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/19/a7963bd0-bf9f-40fe-80c4-8c6a7839627d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/19/38a77fe4-ecdc-41f4-abed-3103f9693f55.png"
-}
-,
-{
     "Name": "Maxhub传屏助手",
     "Version": "5.5.72.0",
     "Filename": "com.cvte.exceedshare_5.5.72.0_amd64.deb",
@@ -2299,6 +2282,23 @@
     "Tags": "uos;deepin;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/23/acadacc0-b31d-11ed-8913-95aae9d068e0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/23/8aae84f0-b31d-11ed-8913-95aae9d068e0.png"
+}
+,
+{
+    "Name": "Gregexp",
+    "Version": "0.1.1",
+    "Filename": "gregexp_0.1.1_amd64.deb",
+    "Torrent_address": "gregexp_0.1.1_amd64.deb.torrent",
+    "Pkgname": "gregexp",
+    "Author": "陈陈菌",
+    "Contributor": "陈陈菌 <2670637999@qq.com>",
+    "Website": "https://blog.glumi.cn/",
+    "Update": "2022-10-19 14:12:16",
+    "Size": "4.8 MB",
+    "More": "一个正则表达式测试工具",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/19/10d44ae6-8e78-4a87-bd4b-343ee2a52485.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/19/99638a75-05e8-414e-ad22-af0e7ee3c2d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/19/a7963bd0-bf9f-40fe-80c4-8c6a7839627d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/19/38a77fe4-ecdc-41f4-abed-3103f9693f55.png"
 }
 ,
 {
@@ -2402,6 +2402,22 @@
 }
 ,
 {
+    "Name": "Mendeley Desktop",
+    "Version": "1.19.8",
+    "Filename": "mendeleydesktop_1.19.8_amd64.deb",
+    "Pkgname": "mendeleydesktop",
+    "Author": "Mendeley Ltd.",
+    "Contributor": "sgb76",
+    "Website": "http://www.mendeley.com",
+    "Update": "2021-02-18 14:22:28",
+    "Size": "118.64 MB",
+    "More": "一款用于管理和共享研究的免费学术软件。",
+    "Tags": "deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/638039f0-71b1-11eb-a0c6-abf730c6cbfd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/6968ad70-71b1-11eb-a0c6-abf730c6cbfd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/18/5d04d540-71b1-11eb-a0c6-abf730c6cbfd.png"
+}
+,
+{
     "Name": "极星期货客户端9.3（wine）",
     "Version": "9.3spark0",
     "Filename": "xyz.epolestar.93.spark_9.3spark0_amd64.deb",
@@ -2433,22 +2449,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/17/8c6cc67b2c2443e4b28d30b83afe264e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/17/3b007ee4806b40bbac5e71bb8d9b3d7b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/17/d3da564ed7c747d18bd919505310f5d5.png"
-}
-,
-{
-    "Name": "Mendeley Desktop",
-    "Version": "1.19.8",
-    "Filename": "mendeleydesktop_1.19.8_amd64.deb",
-    "Pkgname": "mendeleydesktop",
-    "Author": "Mendeley Ltd.",
-    "Contributor": "sgb76",
-    "Website": "http://www.mendeley.com",
-    "Update": "2021-02-18 14:22:28",
-    "Size": "118.64 MB",
-    "More": "一款用于管理和共享研究的免费学术软件。",
-    "Tags": "deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/638039f0-71b1-11eb-a0c6-abf730c6cbfd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/6968ad70-71b1-11eb-a0c6-abf730c6cbfd.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/18/5d04d540-71b1-11eb-a0c6-abf730c6cbfd.png"
 }
 ,
 {
@@ -2953,6 +2953,23 @@
 }
 ,
 {
+    "Name": "LyX 排版软件编写的实用表格和文档样例(包含lyx,pdf)",
+    "Version": "2.2.2-6",
+    "Filename": "lyx-examples-zh-cn-careone_2.2.2-6_all.deb",
+    "Torrent_address": "lyx-examples-zh-cn-careone_2.2.2-6_all.deb.torrent",
+    "Pkgname": "lyx-examples-zh-cn-careone",
+    "Author": "Careone <emacslocale@126.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://sourceforge.net/projects/emacslocale/files/lyx-tex/",
+    "Update": "2023-06-03 07:41:35",
+    "Size": "137.29 KB",
+    "More": "本软件包包含 Lyx 文档处理程序的 4 个简体中文模板，以及一些其它的 LyX/pdf\n 样例文件。后续会继续更新、添加一些其它实用文档样例。敬请期待！\n  * 1 1001-xueXiao-学校/1001-keChengBiao-高一课程表-v02 (lyx, pdf)\n  * 2 2001-qiuZhi-求职登记表/2001-qiuZhi-求职登记表-073103v03 (lyx, pdf)\n  * 3 2001-qiuZhi-求职登记表/2002-qiuZhi-求职登记表-075503v03 (lyx, pdf)\n  * ------\n .\n 使用技巧: 在终端或者命令行模式下，\n  * 运行命令 lyx-careone-dir, 可以直接在文件管理器中，打开样例目录\n .\n /usr/share/lyx/examples/zh-中文实用表格和文档/careone/\n  * 也可以运行带选项的命令 lyx-careone-dir -list, 这样可以在终端中查看样例\n 文件列表 (包含 lyx, pdf 两种格式)\n  * ------\n  * 推荐安装的软件包：在 Debian, Ubuntu, Deepin, UOS 等 Linux 操作系统下，\n 强烈建议先安装软件包 texlive-base 或者 完整版的 texlive-full\n .\n (安装命令: sudo apt-get install texlive-base texlive-full )",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/0d4cfd8c8aaf438f821a7f440564019c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/c6b9d4f241d64c79b7e407420639625f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/93be605d5deb4969876ba6a5bb4c71b1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/6999c5758a604d588bfd5b43bee673c6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/03/49bba88f5686402d9e9890bc7d656960.png"
+}
+,
+{
     "Name": "时光序",
     "Version": "0.0.2",
     "Filename": "com.shiguangxu.deepin_0.0.2_i386.deb",
@@ -2983,23 +3000,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/16/48d349f0-57f6-11eb-81be-efeb7e42bb9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/16/4b8a0580-57f6-11eb-81be-efeb7e42bb9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/16/4e77d6a0-57f6-11eb-81be-efeb7e42bb9a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/16/3be5f670-57f6-11eb-81be-efeb7e42bb9a.png"
-}
-,
-{
-    "Name": "LyX 排版软件编写的实用表格和文档样例(包含lyx,pdf)",
-    "Version": "2.2.2-6",
-    "Filename": "lyx-examples-zh-cn-careone_2.2.2-6_all.deb",
-    "Torrent_address": "lyx-examples-zh-cn-careone_2.2.2-6_all.deb.torrent",
-    "Pkgname": "lyx-examples-zh-cn-careone",
-    "Author": "Careone <emacslocale@126.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://sourceforge.net/projects/emacslocale/files/lyx-tex/",
-    "Update": "2023-06-03 07:41:35",
-    "Size": "137.29 KB",
-    "More": "本软件包包含 Lyx 文档处理程序的 4 个简体中文模板，以及一些其它的 LyX/pdf\n 样例文件。后续会继续更新、添加一些其它实用文档样例。敬请期待！\n  * 1 1001-xueXiao-学校/1001-keChengBiao-高一课程表-v02 (lyx, pdf)\n  * 2 2001-qiuZhi-求职登记表/2001-qiuZhi-求职登记表-073103v03 (lyx, pdf)\n  * 3 2001-qiuZhi-求职登记表/2002-qiuZhi-求职登记表-075503v03 (lyx, pdf)\n  * ------\n .\n 使用技巧: 在终端或者命令行模式下，\n  * 运行命令 lyx-careone-dir, 可以直接在文件管理器中，打开样例目录\n .\n /usr/share/lyx/examples/zh-中文实用表格和文档/careone/\n  * 也可以运行带选项的命令 lyx-careone-dir -list, 这样可以在终端中查看样例\n 文件列表 (包含 lyx, pdf 两种格式)\n  * ------\n  * 推荐安装的软件包：在 Debian, Ubuntu, Deepin, UOS 等 Linux 操作系统下，\n 强烈建议先安装软件包 texlive-base 或者 完整版的 texlive-full\n .\n (安装命令: sudo apt-get install texlive-base texlive-full )",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/0d4cfd8c8aaf438f821a7f440564019c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/c6b9d4f241d64c79b7e407420639625f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/93be605d5deb4969876ba6a5bb4c71b1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/6999c5758a604d588bfd5b43bee673c6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/03/49bba88f5686402d9e9890bc7d656960.png"
 }
 ,
 {
@@ -3071,6 +3071,23 @@
 }
 ,
 {
+    "Name": "Qalculate",
+    "Version": "4.8.1",
+    "Filename": "io.github.qalculate_4.8.1_amd64.deb",
+    "Torrent_address": "io.github.qalculate_4.8.1_amd64.deb.torrent",
+    "Pkgname": "io.github.qalculate",
+    "Author": "Alexander<alexanderfromzh@163.com>",
+    "Contributor": "Alexander<alexanderfromzh@163.com>",
+    "Website": "https://qalculate.github.io/",
+    "Update": "2023-10-16 21:41:56",
+    "Size": "20.43 MB",
+    "More": "全宇宙最好的计算器软件",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/16/6f4373be4c1a410980acdfbd99307ea0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/16/a6cccf0c5cb04a86b5bbc99787d061c9.png"
+}
+,
+{
     "Name": "搜狗输入法UOS版手写数据包",
     "Version": "1.0.0",
     "Filename": "com.sogou.sogoupinyin-uos-sogouhw_1.0.0_all.deb",
@@ -3102,23 +3119,6 @@
     "Tags": "deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/15/7e19d511decd4927873793b8b3afabad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/15/00ce668d8e1243498f00070f953ecd7a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/15/0aa20fc0dbf146eabf07f8444c013e5d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/15/23562976a79e4c6f8df915fff86daf1e.png"
-}
-,
-{
-    "Name": "Qalculate",
-    "Version": "4.8.1",
-    "Filename": "io.github.qalculate_4.8.1_amd64.deb",
-    "Torrent_address": "io.github.qalculate_4.8.1_amd64.deb.torrent",
-    "Pkgname": "io.github.qalculate",
-    "Author": "Alexander<alexanderfromzh@163.com>",
-    "Contributor": "Alexander<alexanderfromzh@163.com>",
-    "Website": "https://qalculate.github.io/",
-    "Update": "2023-10-16 21:41:56",
-    "Size": "20.43 MB",
-    "More": "全宇宙最好的计算器软件",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/16/6f4373be4c1a410980acdfbd99307ea0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/16/a6cccf0c5cb04a86b5bbc99787d061c9.png"
 }
 ,
 {
@@ -3469,6 +3469,23 @@
 }
 ,
 {
+    "Name": "WPS Office 2016",
+    "Version": "10.1.0.6757spark1",
+    "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
+    "Torrent_address": "wps-office-2016_10.1.0.6757spark1_amd64.deb.torrent",
+    "Pkgname": "wps-office-2016",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://wps-community.org",
+    "Update": "2024-05-19 16:58:39",
+    "Size": "129.41 MB",
+    "More": "WPS Office 2016 旧版本，三组件分别独立，资源占用更小，支持类 office 2003 经典界面\n云同步功能依旧可用\n与现行的 WPS Office， 2019 冲突",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
+}
+,
+{
     "Name": "番茄作家助手",
     "Version": "2.9.0",
     "Filename": "uengine-dc-com.bytedance.writer-assistant-flutter_2.9.0_all.deb",
@@ -3566,23 +3583,6 @@
     "Tags": "deepin;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/07/e27e1b10-20ca-11eb-8b68-e56d9275241d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/07/ea2dba00-20ca-11eb-8b68-e56d9275241d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/07/d44beb80-20ca-11eb-8b68-e56d9275241d.png"
-}
-,
-{
-    "Name": "WPS Office 2016",
-    "Version": "10.1.0.6757spark1",
-    "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
-    "Torrent_address": "wps-office-2016_10.1.0.6757spark1_amd64.deb.torrent",
-    "Pkgname": "wps-office-2016",
-    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://wps-community.org",
-    "Update": "2024-05-19 16:58:39",
-    "Size": "129.41 MB",
-    "More": "WPS Office 2016 旧版本，三组件分别独立，资源占用更小，支持类 office 2003 经典界面\n云同步功能依旧可用\n与现行的 WPS Office， 2019 冲突",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
 }
 ,
 {
@@ -3816,6 +3816,23 @@
 }
 ,
 {
+    "Name": "希沃白板Web",
+    "Version": "1.14514",
+    "Filename": "wed-seewo_1.14514_all.deb",
+    "Torrent_address": "wed-seewo_1.14514_all.deb.torrent",
+    "Pkgname": "wed-seewo",
+    "Author": "baimacao",
+    "Contributor": "baimacao",
+    "Website": "https://enweb.seewo.com/",
+    "Update": "2024-05-22 17:50:56",
+    "Size": "29.16 KB",
+    "More": "唯一被老师认可的希沃白板，可以正常上课，web应用",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/a0ba4974dee742fcb656146be01cb321.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/49082957d0c64a059f6cadb90be58342.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/b80a658ca0594703ad75bcbd7c0abccb.png"
+}
+,
+{
     "Name": "我来笔记（web）",
     "Version": "1.0spark0",
     "Filename": "web-wolai_1.0spark0_amd64.deb",
@@ -3878,23 +3895,6 @@
     "Tags": "community;ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/876dcf30-c76f-11eb-a635-71e04c3946d8.svg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/895c7fd0-c76f-11eb-a635-71e04c3946d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/8b5e1c30-c76f-11eb-a635-71e04c3946d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/8e383e40-c76f-11eb-a635-71e04c3946d8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/07/81a58de0-c76f-11eb-a635-71e04c3946d8.png"
-}
-,
-{
-    "Name": "希沃白板Web",
-    "Version": "1.14514",
-    "Filename": "wed-seewo_1.14514_all.deb",
-    "Torrent_address": "wed-seewo_1.14514_all.deb.torrent",
-    "Pkgname": "wed-seewo",
-    "Author": "baimacao",
-    "Contributor": "baimacao",
-    "Website": "https://enweb.seewo.com/",
-    "Update": "2024-05-22 17:50:56",
-    "Size": "29.16 KB",
-    "More": "唯一被老师认可的希沃白板，可以正常上课，web应用",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/a0ba4974dee742fcb656146be01cb321.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/49082957d0c64a059f6cadb90be58342.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/b80a658ca0594703ad75bcbd7c0abccb.png"
 }
 ,
 {

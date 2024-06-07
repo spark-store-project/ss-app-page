@@ -715,6 +715,22 @@
 }
 ,
 {
+    "Name": "Pointofix屏幕画笔（wine）",
+    "Version": "1.8.0spark0",
+    "Filename": "de.pointofix.spark_1.8.0spark0_i386.deb",
+    "Pkgname": "de.pointofix.spark",
+    "Author": "www.pointofix.de",
+    "Contributor": "sgb76",
+    "Website": "http://www.pointofix.de/",
+    "Update": "2021-08-10 15:09:05",
+    "Size": "10.92 MB",
+    "More": "Pointofix是一款用来在屏幕上作文字标记和画图的工具，可用于讲座、培训和演示。",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/10/b7db6490-f9a9-11eb-aa35-2b99631d5afc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/10/bd8680f0-f9a9-11eb-aa35-2b99631d5afc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/10/c2270b20-f9a9-11eb-aa35-2b99631d5afc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/10/b195dcf0-f9a9-11eb-aa35-2b99631d5afc.png"
+}
+,
+{
     "Name": "汉王 PDF OCR（Wine）",
     "Version": "8.1.4.16deepin4",
     "Filename": "com.hwpdfocr.spark_8.1.4.16deepin4_all.deb",
@@ -729,22 +745,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/12/710677c2488b490d8b3d63ab3007bdd0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/12/88e1c391b8f546eaa800f60e1e495c58.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/12/51b3008f9a364fdcb0f050e0ac278d16.png"
-}
-,
-{
-    "Name": "Pointofix屏幕画笔（wine）",
-    "Version": "1.8.0spark0",
-    "Filename": "de.pointofix.spark_1.8.0spark0_i386.deb",
-    "Pkgname": "de.pointofix.spark",
-    "Author": "www.pointofix.de",
-    "Contributor": "sgb76",
-    "Website": "http://www.pointofix.de/",
-    "Update": "2021-08-10 15:09:05",
-    "Size": "10.92 MB",
-    "More": "Pointofix是一款用来在屏幕上作文字标记和画图的工具，可用于讲座、培训和演示。",
-    "Tags": "ubuntu;deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/10/b7db6490-f9a9-11eb-aa35-2b99631d5afc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/10/bd8680f0-f9a9-11eb-aa35-2b99631d5afc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/10/c2270b20-f9a9-11eb-aa35-2b99631d5afc.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/10/b195dcf0-f9a9-11eb-aa35-2b99631d5afc.png"
 }
 ,
 {
@@ -1046,6 +1046,23 @@
 }
 ,
 {
+    "Name": "菠萝看图",
+    "Version": "0.6.6",
+    "Filename": "pineapple-pictures_0.6.6_amd64.deb",
+    "Torrent_address": "pineapple-pictures_0.6.6_amd64.deb.torrent",
+    "Pkgname": "pineapple-pictures",
+    "Author": "BLumia",
+    "Contributor": "sgb76",
+    "Website": "https://github.com/BLumia/pineapple-pictures/",
+    "Update": "2023-02-18 23:25:06",
+    "Size": "256.22 KB",
+    "More": "Yet another image viewer\n\n说明：该应用在Ubuntu22.04下运行正常，deepin下运行缺少依赖",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/18/0b8de9ca403a4f92bbedd2d9592a138a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/18/ee8fb5d0c7404a4391a0ca1cc8b6186b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/18/86d54f5f721e494db608f9f0ab7ab27d.png"
+}
+,
+{
     "Name": "LazPaint",
     "Version": "7.1.6",
     "Filename": "lazpaint_7.1.6_amd64.deb",
@@ -1078,23 +1095,6 @@
 }
 ,
 {
-    "Name": "菠萝看图",
-    "Version": "0.6.6",
-    "Filename": "pineapple-pictures_0.6.6_amd64.deb",
-    "Torrent_address": "pineapple-pictures_0.6.6_amd64.deb.torrent",
-    "Pkgname": "pineapple-pictures",
-    "Author": "BLumia",
-    "Contributor": "sgb76",
-    "Website": "https://github.com/BLumia/pineapple-pictures/",
-    "Update": "2023-02-18 23:25:06",
-    "Size": "256.22 KB",
-    "More": "Yet another image viewer\n\n说明：该应用在Ubuntu22.04下运行正常，deepin下运行缺少依赖",
-    "Tags": "ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/18/0b8de9ca403a4f92bbedd2d9592a138a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/18/ee8fb5d0c7404a4391a0ca1cc8b6186b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/18/86d54f5f721e494db608f9f0ab7ab27d.png"
-}
-,
-{
     "Name": "图片吸收器(升级版)",
     "Version": "1.1.0-20240403",
     "Filename": "image-absorber_1.1.0-20240403_amd64.deb",
@@ -1109,6 +1109,23 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/03/bb2750358d4548feaf0958136833807c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/03/2dbad487251447bc8eded1687878becb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/03/9a049ab9e49542a2af02e4fe1bc1425b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/03/e1da53ab4c0d43169ba7005c6159260b.png"
+}
+,
+{
+    "Name": "美图秀秀7.0",
+    "Version": "7.0",
+    "Filename": "com.mtxx.wine_7.0_all.deb",
+    "Torrent_address": "com.mtxx.wine_7.0_all.deb.torrent",
+    "Pkgname": "com.mtxx.wine",
+    "Author": "LFRon",
+    "Contributor": "LFRon",
+    "Website": "https://pc.meitu.com/",
+    "Update": "2024-02-15 21:34:33",
+    "Size": "284.7 MB",
+    "More": "Deepin-wine8运行的美图秀秀7.0-AI版本(64位)\n\n目前除了批处理会一直加载无法进入以外,没有其它问题,若发现其它问题欢迎反馈~",
+    "Tags": "ubuntu;deepin;uos;dwine2;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/666a8eddba6e4fdd84772e3fd1146aed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/f7329e7568ff46a3b6dcdba54920bba8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/e8957517f0704012b3a5479b805a217d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/c85b0409a52b461fa0fd777d171d6293.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/15/aa929c369b724442b9969f8bb7fa63fb.png"
 }
 ,
 {
@@ -1158,23 +1175,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/01/579ba9d1084f4c21b6e64b6a419941e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/01/c4ea97ae04b74e5a827999fe177cbb51.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/01/a7aa56219c964c85956f9c49092a0f86.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/01/fe5458b0a5a64d6e9204d7b5652ed6c3.png"
-}
-,
-{
-    "Name": "美图秀秀7.0",
-    "Version": "7.0",
-    "Filename": "com.mtxx.wine_7.0_all.deb",
-    "Torrent_address": "com.mtxx.wine_7.0_all.deb.torrent",
-    "Pkgname": "com.mtxx.wine",
-    "Author": "LFRon",
-    "Contributor": "LFRon",
-    "Website": "https://pc.meitu.com/",
-    "Update": "2024-02-15 21:34:33",
-    "Size": "284.7 MB",
-    "More": "Deepin-wine8运行的美图秀秀7.0-AI版本(64位)\n\n目前除了批处理会一直加载无法进入以外,没有其它问题,若发现其它问题欢迎反馈~",
-    "Tags": "ubuntu;deepin;uos;dwine2;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/666a8eddba6e4fdd84772e3fd1146aed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/f7329e7568ff46a3b6dcdba54920bba8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/e8957517f0704012b3a5479b805a217d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/c85b0409a52b461fa0fd777d171d6293.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/15/aa929c369b724442b9969f8bb7fa63fb.png"
 }
 ,
 {
@@ -1262,23 +1262,6 @@
 }
 ,
 {
-    "Name": "布易服装CAD",
-    "Version": "1.0.0",
-    "Filename": "etcadyu_1.0.0_i386.deb",
-    "Torrent_address": "etcadyu_1.0.0_i386.deb.torrent",
-    "Pkgname": "etcadyu",
-    "Author": "布易服装cad",
-    "Contributor": "ta suo",
-    "Website": "http://www.etsystem.cn/",
-    "Update": "2023-06-16 15:28:24",
-    "Size": "95.44 MB",
-    "More": "旧版本打包",
-    "Tags": "uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/16/1abe11c0-0c13-11ee-88e1-5f1c59cb46de.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/16/1cd495b0-0c13-11ee-88e1-5f1c59cb46de.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/16/1f26c310-0c13-11ee-88e1-5f1c59cb46de.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/16/0fa04e20-0c13-11ee-88e1-5f1c59cb46de.png"
-}
-,
-{
     "Name": "中望建筑 2023 For Linux",
     "Version": "23.2.3.4",
     "Filename": "com.zwsoft.zwcada2023_23.2.3.4_amd64.deb",
@@ -1293,6 +1276,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/26/baedd275708a4e29a54cd008bbbeef20.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/26/9d22b26db4bc42e0a1912a175cf308d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/26/3d7d1af2a2b84a2cabbe13d0f87f6558.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/26/e7528510664e4a8d920cea8b3386c952.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/26/3d7832e46fa04b6588613e35c80333ce.png"
+}
+,
+{
+    "Name": "布易服装CAD",
+    "Version": "1.0.0",
+    "Filename": "etcadyu_1.0.0_i386.deb",
+    "Torrent_address": "etcadyu_1.0.0_i386.deb.torrent",
+    "Pkgname": "etcadyu",
+    "Author": "布易服装cad",
+    "Contributor": "ta suo",
+    "Website": "http://www.etsystem.cn/",
+    "Update": "2023-06-16 15:28:24",
+    "Size": "95.44 MB",
+    "More": "旧版本打包",
+    "Tags": "uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/16/1abe11c0-0c13-11ee-88e1-5f1c59cb46de.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/16/1cd495b0-0c13-11ee-88e1-5f1c59cb46de.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/16/1f26c310-0c13-11ee-88e1-5f1c59cb46de.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/16/0fa04e20-0c13-11ee-88e1-5f1c59cb46de.png"
 }
 ,
 {
@@ -2019,6 +2019,23 @@
 }
 ,
 {
+    "Name": "图标转换工具",
+    "Version": "1.0.0",
+    "Filename": "icon-convertor_1.0.0_amd64.deb",
+    "Torrent_address": "icon-convertor_1.0.0_amd64.deb.torrent",
+    "Pkgname": "icon-convertor",
+    "Author": "cass",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://github.com/MarsSwimmer/icon-convertor",
+    "Update": "2024-05-07 10:25:10",
+    "Size": "80.21 MB",
+    "More": "支持svg、png图像转Icns，支持全规格icns（ic7，ic8，ic9，ic10，ic11，ic12，ic13，ic14），mac应用打包时不再担心图标不生效问题；\n支持svg、png图像转Ico，可选多种尺寸的图像；\n支持非标svg图像，现有的svg图像库在处理非标svg图像时可能导致颜色丢失（全黑）和颜色不正常（偏紫色）的情况，本软件采用浏览器渲染的方式完美绕过了颜色丢失的问题；\n完全免费。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/0df883e524e04beea57d8787bfae8bfb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/2eaccc58b1364fa59ce28a836710a0c9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/c3d34722192d479bab7909d89bc54010.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/07/6a8c95190842439794b0c078be641b3f.png"
+}
+,
+{
     "Name": "Bforartists",
     "Version": "4.0.1spark0",
     "Filename": "de.bforartists.spark_4.0.1spark0_amd64.deb",
@@ -2067,23 +2084,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/daafea5c5f4c4f2c895c374304168813.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/4638477860754a9286019c546bd23e6c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/03/a0dd19ba253b4ec8a963ffb1b24b29aa.png"
-}
-,
-{
-    "Name": "图标转换工具",
-    "Version": "1.0.0",
-    "Filename": "icon-convertor_1.0.0_amd64.deb",
-    "Torrent_address": "icon-convertor_1.0.0_amd64.deb.torrent",
-    "Pkgname": "icon-convertor",
-    "Author": "cass",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://github.com/MarsSwimmer/icon-convertor",
-    "Update": "2024-05-07 10:25:10",
-    "Size": "80.21 MB",
-    "More": "支持svg、png图像转Icns，支持全规格icns（ic7，ic8，ic9，ic10，ic11，ic12，ic13，ic14），mac应用打包时不再担心图标不生效问题；\n支持svg、png图像转Ico，可选多种尺寸的图像；\n支持非标svg图像，现有的svg图像库在处理非标svg图像时可能导致颜色丢失（全黑）和颜色不正常（偏紫色）的情况，本软件采用浏览器渲染的方式完美绕过了颜色丢失的问题；\n完全免费。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/0df883e524e04beea57d8787bfae8bfb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/2eaccc58b1364fa59ce28a836710a0c9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/c3d34722192d479bab7909d89bc54010.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/07/6a8c95190842439794b0c078be641b3f.png"
 }
 ,
 {
@@ -2136,6 +2136,24 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/14/53d1ba18fbb84a10808b5e53ab6ada82.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/14/cdcb39a8b7fc4283a27886e22734d0ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/14/da4e4b57f8094a35b3d16baecce62ead.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/14/026442c6a5744ed4a6ba650948ad853c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/14/7b2c05b1e6bd491aa57e967d3651e950.png"
 }
+,
+{
+    "Author": "info@ovital.com",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "ovital-map_2.6.8_arm64.deb",
+    "More": "奥维互动地图简称奥维地图，是由北京元生华网软件有限公司开发的跨平台地图浏览软件\n全面支持微软、安卓等主流平台，而且适配统信UOS、深度科技Deepin、银河麒麟等国产主流操作系统",
+    "Name": "奥维互动地图",
+    "Pkgname": "ovital-map",
+    "Size": "103 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "ovital-map_2.6.8_arm64.deb.torrent",
+    "Update": "2024-05-30 16:07:55",
+    "Version": "2.6.8",
+    "Website": "https://www.ovital.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/ovital-map/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/ovital-map/screen_1.png\"]"
+}
+
 ,
 {
     "Name": "Tropy",
@@ -2204,24 +2222,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/27/e51f7c3aee6e4f04adb4d6d43d903be1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/27/2ac37f60706443ca837d206f877f042a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/27/6260f12ce4ab4845a5034dccf0f60d87.png"
 }
-,
-{
-    "Author": "info@ovital.com",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "ovital-map_2.6.8_arm64.deb",
-    "More": "奥维互动地图简称奥维地图，是由北京元生华网软件有限公司开发的跨平台地图浏览软件\n全面支持微软、安卓等主流平台，而且适配统信UOS、深度科技Deepin、银河麒麟等国产主流操作系统",
-    "Name": "奥维互动地图",
-    "Pkgname": "ovital-map",
-    "Size": "103 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "ovital-map_2.6.8_arm64.deb.torrent",
-    "Update": "2024-05-30 16:07:55",
-    "Version": "2.6.8",
-    "Website": "https://www.ovital.com",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/ovital-map/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/ovital-map/screen_1.png\"]"
-}
-
 ,
 {
     "Name": "Slic3r",

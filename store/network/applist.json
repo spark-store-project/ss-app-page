@@ -188,23 +188,6 @@
 }
 ,
 {
-    "Name": "酷安(uengine)",
-    "Version": "13.1.1",
-    "Filename": "uengine-dc-com.coolapk.market_13.1.1_all.deb",
-    "Torrent_address": "uengine-dc-com.coolapk.market_13.1.1_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.coolapk.market",
-    "Author": "酷安",
-    "Contributor": "gfdgd xi",
-    "Website": "https://www.coolapk.com",
-    "Update": "2023-04-01 19:27:05",
-    "Size": "77.06 MB",
-    "More": "酷安，真实有趣的数码社区。\n2000万科技爱好者与你畅聊，科技资讯，新鲜评测，真实体验，玩机宝典，你想要的这里全都有。\n玩数码，就上酷安。\n\n*安装前请确保已安装Uengine",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/01/e35bb2fb3e0e40749cff03f4885ef29a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/01/034c7bc1d71643a9a8bdc89fa440ae1a.png"
-}
-,
-{
     "Name": "Clash Verge",
     "Version": "1.6.5",
     "Filename": "clash-verge_1.6.5_amd64.deb",
@@ -219,6 +202,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/04/b5a96a095ec340629275306c1a3d30f5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/04/7053e1fe86184e1ea5c7a4f17dc13b89.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/04/c7fec335724f47b3bac77f241fd28eef.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/04/06d90c8c26bd466da7c031b67fbf5022.png"
+}
+,
+{
+    "Name": "酷安(uengine)",
+    "Version": "13.1.1",
+    "Filename": "uengine-dc-com.coolapk.market_13.1.1_all.deb",
+    "Torrent_address": "uengine-dc-com.coolapk.market_13.1.1_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.coolapk.market",
+    "Author": "酷安",
+    "Contributor": "gfdgd xi",
+    "Website": "https://www.coolapk.com",
+    "Update": "2023-04-01 19:27:05",
+    "Size": "77.06 MB",
+    "More": "酷安，真实有趣的数码社区。\n2000万科技爱好者与你畅聊，科技资讯，新鲜评测，真实体验，玩机宝典，你想要的这里全都有。\n玩数码，就上酷安。\n\n*安装前请确保已安装Uengine",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/01/e35bb2fb3e0e40749cff03f4885ef29a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/01/034c7bc1d71643a9a8bdc89fa440ae1a.png"
 }
 ,
 {
@@ -1345,20 +1345,6 @@
 }
 ,
 {
-   "Name":"云日历",
-   "Version":"1.0.2",
-   "Filename":"mytime_linux_1.02_amd64.deb",
-   "Pkgname":"mytime",
-   "Author":" ",
-   "Contributor":"anima",
-   "Website":"https://mytime.ruanmei.com/",
-   "Update":"2020-06-25 18:06",
-   "Size":"52.42MB",
-   "More":"使用云日历管理日程、记录生活、订阅精彩，还有各种小工具使您的生活更便捷。"
-}
-
-,
-{
     "Name": "360安全浏览器Beta版",
     "Version": "13.108.1000.22-1",
     "Filename": "browser360-cn-beta_13.108.1000.22-1_amd64.deb",
@@ -1373,6 +1359,37 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/a944a7583bce4415944c29fdd9469afe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/f2e6a827db134991bbfa1a62a5f3fbe1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/4e405fa64d764bb68cb9ac50a6707e68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/86a4a2d5af2e4852a806a9d29c3684da.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/27/a17cd46db7d8458190c9b991d48f16fe.png"
+}
+,
+{
+   "Name":"云日历",
+   "Version":"1.0.2",
+   "Filename":"mytime_linux_1.02_amd64.deb",
+   "Pkgname":"mytime",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":"https://mytime.ruanmei.com/",
+   "Update":"2020-06-25 18:06",
+   "Size":"52.42MB",
+   "More":"使用云日历管理日程、记录生活、订阅精彩，还有各种小工具使您的生活更便捷。"
+}
+
+,
+{
+    "Name": "方德浏览器",
+    "Version": "6.0.0.1",
+    "Filename": "nfs-browser_6.0.0.1_amd64.deb",
+    "Torrent_address": "nfs-browser_6.0.0.1_amd64.deb.torrent",
+    "Pkgname": "nfs-browser",
+    "Author": "www.nfs-china.com <service@nfschina.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "http://browser.nfschina.com/browser/public/",
+    "Update": "2024-02-27 14:01:25",
+    "Size": "77.47 MB",
+    "More": "方德浏览器",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/27/3b722c822f1c434bae7ca7bd5fbe78a1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/27/b4de95ddda204d789422afee791d83dc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/27/2f6d3a4bf3524e7eb8cbacd156b25c2e.png"
 }
 ,
 {
@@ -1409,40 +1426,6 @@
 }
 ,
 {
-    "Name": "方德浏览器",
-    "Version": "6.0.0.1",
-    "Filename": "nfs-browser_6.0.0.1_amd64.deb",
-    "Torrent_address": "nfs-browser_6.0.0.1_amd64.deb.torrent",
-    "Pkgname": "nfs-browser",
-    "Author": "www.nfs-china.com <service@nfschina.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "http://browser.nfschina.com/browser/public/",
-    "Update": "2024-02-27 14:01:25",
-    "Size": "77.47 MB",
-    "More": "方德浏览器",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/27/3b722c822f1c434bae7ca7bd5fbe78a1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/27/b4de95ddda204d789422afee791d83dc.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/27/2f6d3a4bf3524e7eb8cbacd156b25c2e.png"
-}
-,
-{
-    "Name": "畅邮",
-    "Version": "6.6.4.6",
-    "Filename": "com.cy-email.spark_6.6.4.6_i386.deb",
-    "Torrent_address": "com.cy-email.spark_6.6.4.6_i386.deb.torrent",
-    "Pkgname": "com.cy-email.spark",
-    "Author": "DreamMail",
-    "Contributor": "shenmo",
-    "Website": "https://cy-email.com/",
-    "Update": "2022-09-02 15:58:50",
-    "Size": "181.44 MB",
-    "More": "精巧纯净又稳定，集收发、追踪、群发为一身的强大邮件客户端",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7f3340-2a94-11ed-9bd6-8b4709310a39.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7c7420-2a94-11ed-9bd6-8b4709310a39.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7dd3b0-2a94-11ed-9bd6-8b4709310a39.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/02/f87d6fd0-2a94-11ed-9bd6-8b4709310a39.png"
-}
-,
-{
     "Name": "Tailscale",
     "Version": "1.66.4",
     "Filename": "tailscale_1.66.4_amd64.deb",
@@ -1474,6 +1457,40 @@
     "Tags": "deepin;uos;community",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/05/1c0c52f0-dd1a-11eb-bf76-f7677d1b01f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/05/1c03c770-dd1a-11eb-bf76-f7677d1b01f2.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/05/182d9220-dd1a-11eb-bf76-f7677d1b01f2.png"
+}
+,
+{
+    "Name": "畅邮",
+    "Version": "6.6.4.6",
+    "Filename": "com.cy-email.spark_6.6.4.6_i386.deb",
+    "Torrent_address": "com.cy-email.spark_6.6.4.6_i386.deb.torrent",
+    "Pkgname": "com.cy-email.spark",
+    "Author": "DreamMail",
+    "Contributor": "shenmo",
+    "Website": "https://cy-email.com/",
+    "Update": "2022-09-02 15:58:50",
+    "Size": "181.44 MB",
+    "More": "精巧纯净又稳定，集收发、追踪、群发为一身的强大邮件客户端",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7f3340-2a94-11ed-9bd6-8b4709310a39.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7c7420-2a94-11ed-9bd6-8b4709310a39.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7dd3b0-2a94-11ed-9bd6-8b4709310a39.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/02/f87d6fd0-2a94-11ed-9bd6-8b4709310a39.png"
+}
+,
+{
+    "Name": "Clash Nyanpasu～(∠・ω< )⌒☆​ ",
+    "Version": "1.5.1",
+    "Filename": "clash-nyanpasu_1.5.1_amd64.deb",
+    "Torrent_address": "clash-nyanpasu_1.5.1_amd64.deb.torrent",
+    "Pkgname": "clash-nyanpasu",
+    "Author": "zzzgydi, keiko233",
+    "Contributor": "idleness",
+    "Website": "https://nyanpasu.elaina.moe/",
+    "Update": "2024-04-12 23:07:19",
+    "Size": "53.19 MB",
+    "More": "基于 Tauri 的偏执 Clash 图形界面。",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/e7122150-f8dd-11ee-94b3-3598cf0b4d68.gif\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/d8f3eef0-f8dd-11ee-94b3-3598cf0b4d68.png"
 }
 ,
 {
@@ -1539,23 +1556,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/31935c47c88f4b34a8a88668df1e80e6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/b5ac40e9894840f997ea5bf67cc2fe3f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/a237f0c7769b4c379493de03aa3b0669.png"
-}
-,
-{
-    "Name": "Clash Nyanpasu～(∠・ω< )⌒☆​ ",
-    "Version": "1.5.1",
-    "Filename": "clash-nyanpasu_1.5.1_amd64.deb",
-    "Torrent_address": "clash-nyanpasu_1.5.1_amd64.deb.torrent",
-    "Pkgname": "clash-nyanpasu",
-    "Author": "zzzgydi, keiko233",
-    "Contributor": "idleness",
-    "Website": "https://nyanpasu.elaina.moe/",
-    "Update": "2024-04-12 23:07:19",
-    "Size": "53.19 MB",
-    "More": "基于 Tauri 的偏执 Clash 图形界面。",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/e7122150-f8dd-11ee-94b3-3598cf0b4d68.gif\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/d8f3eef0-f8dd-11ee-94b3-3598cf0b4d68.png"
 }
 ,
 {

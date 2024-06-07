@@ -5790,24 +5790,24 @@ Description: Business Sogou Input Method
 
 Package: wps-office
 Architecture: arm64
-Version: 12.8.2.16969.AK.preload.sw
+Version: 11.1.0.11719
 Multi-Arch: foreign
 Priority: optional
 Section: editors
 Maintainer: WPS Office Community Team <wps_linux@kingsoft.com>
-Installed-Size: 2830832
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, libc6 (>= 2.15) | libc6.1, libfreetype6 (>= 2.4),
+Installed-Size: 1481976
+Depends: libc6 (>= 2.15) | libc6.1, libstdc++6 (>= 4.6), libfreetype6 (>= 2.4),
          libcups2, libglib2.0-0, libglu1-mesa,
          libsm6, libxrender1, libfontconfig1,
          libxext6, libxcb1, libbz2-1.0
 Recommends: ttf-mscorefonts-installer
 Replaces: kingsoft-office
-Filename: office/wps-office/wps-office_12.8.2.16969.AK.preload.sw_arm64.deb
-Size: 719320480
-MD5sum: 5e4819cf6ca849f4aae9b707fe481c0a
-SHA1: b428fcbbbacdf0b7b30f237f98460266662c8b69
-SHA256: e6ee4ed7b1055fd99e75c8a335cdefbebb3be1bf6a69b8f71aef6e6482ea09ff
-SHA512: 6e1c7a9fe9458dc23352ed24ecdb9d55c7c596a59f620cd2310362fe8132515699b445d9d5863b71e269e7dbc76462800332ba4a066ee9e8ff63e06f13118bfd
+Filename: office/wps-office/wps-office_11.1.0.11719_arm64.deb
+Size: 362817038
+MD5sum: 5fba077f98811644c40e8fb72a28ae5f
+SHA1: 990c3dcc276118d31907e6d17ac3c1d3f304b6c1
+SHA256: 60bf443615ea838e7fdb3b4986a5e05fcdf4150bfdfc245c017798451339b3f2
+SHA512: cc468aaf9769a3dfa3e897329241d4493e49e6cf70d440fc259e6dc56f5d83b6f9c2f25e0e0551b1c70ab744909b29688ee80abf96bd4e74b373f2512f680889
 Homepage: http://wps-community.org
 Description: WPS Office, is an office productivity suite.
  WPS Office including Writer, Presentation
@@ -7688,22 +7688,22 @@ Vendor: Codemao Ltd
 
 Package: code
 Architecture: arm64
-Version: 1.89.1-1715058876
+Version: 1.90.0-1717529971
 Priority: optional
 Section: devel
 Maintainer: Microsoft Corporation <vscode-linux@microsoft.com>
-Installed-Size: 389464
+Installed-Size: 391958
 Provides: visual-studio-code
 Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libc6 (>= 2.28), libcairo2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.75), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.37.3), libgssapi-krb5-2 (>= 1.17), libgtk-3-0 (>= 3.9.10), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libkrb5-3 (>= 1.6.dfsg.2), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.30), libnss3 (>= 3.26), libpango-1.0-0 (>= 1.14.0), libstdc++6 (>= 4.1.1), libstdc++6 (>= 5), libstdc++6 (>= 5.2), libstdc++6 (>= 6), libx11-6, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxkbfile1 (>= 1:1.1.0), libxrandr2, xdg-utils (>= 1.0.2)
 Recommends: libvulkan1
 Conflicts: visual-studio-code
 Replaces: visual-studio-code
-Filename: development/code/code_1.89.1-1715058876_arm64.deb
-Size: 93561814
-MD5sum: 34662f41def43805b8b6d4722a89caea
-SHA1: de7d22c95f5742db7e638c1b8a913eb2ca5ae768
-SHA256: 4ad88e027bd9ca14b689159f3deab20911a5c7cfcffb2b1228e1670a50955b99
-SHA512: 7349c64c4922bf2a303b4808b11fd91c776a7197a99fc7bfb70b172eebf6118a271338872ac70af5a1b6fb5b5d7c94f61f38bf2e1c6174ae28673e7ad7794c6e
+Filename: development/code/code_1.90.0-1717529971_arm64.deb
+Size: 94514190
+MD5sum: bc863299827c3b490eff4fec5e39cca4
+SHA1: a41169d8f7e335d644246833093d31e72d325daf
+SHA256: 5de0d9a4d2cd57dffa57c87b5d3dea7435b2f82b69e4f01d1b6c7f6290d6e9f5
+SHA512: 113add7450666f7648d3979a18b63209c774c306e39563b3864e82149e19a4a8dd02ac0074a252574e07c45e6009e9763288441a3af6ef010899d8c5e78f1cfe
 Homepage: https://code.visualstudio.com/
 Description: Code editing. Redefined.
  Visual Studio Code is a new choice of tool that combines the simplicity of
