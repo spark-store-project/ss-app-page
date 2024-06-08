@@ -276,6 +276,20 @@
 
 ,
 {
+   "Name":"deepin 20风格fcitx皮肤",
+   "Version":"1:0.1-2",
+   "Filename":"fcitx-ui-deepin-v20_all.deb",
+   "Pkgname":"fcitx-ui-deepin-v20",
+   "Author":"maicss",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-06-25 08:42",
+   "Size":"134.36KB",
+   "More":"让sunpinyin从此不同"
+}
+
+,
+{
     "Name": "earth-wallpaper",
     "Version": "2.1.7",
     "Filename": "earth-wallpaper_2.1.7_amd64.deb",
@@ -291,20 +305,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917585670676958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917591394176958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917591566776958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917591881776958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917592379476958200.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917585510176958200.png"
 }
-,
-{
-   "Name":"deepin 20风格fcitx皮肤",
-   "Version":"1:0.1-2",
-   "Filename":"fcitx-ui-deepin-v20_all.deb",
-   "Pkgname":"fcitx-ui-deepin-v20",
-   "Author":"maicss",
-   "Contributor":"shenmo",
-   "Website":" ",
-   "Update":"2020-06-25 08:42",
-   "Size":"134.36KB",
-   "More":"让sunpinyin从此不同"
-}
-
 ,
 {
     "Name": "Candy图标主题",
@@ -533,20 +533,6 @@
 }
 ,
 {
-   "Name":"一只动态壁纸",
-   "Version":"0.3beta",
-   "Filename":"top.yzzi.wallpaper_0.3beta_amd64.deb",
-   "Pkgname":"top.yzzi.wallpaper",
-   "Author":"一只科技菌",
-   "Contributor":"一只科技菌",
-   "Website":"https://blog.yzzi.top",
-   "Update":"2020-08-08 16:13",
-   "Size":"46.07KB",
-   "More":"一个动态壁纸加载工具，DTK界面哦"
-}
-
-,
-{
     "Name": "melange主题",
     "Version": "1.0",
     "Filename": "custom-theme-melange_1.0_all.deb",
@@ -562,6 +548,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/add581e0-83c9-11ee-8d0f-0f9fb3e2b016.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/addb9c60-83c9-11ee-8d0f-0f9fb3e2b016.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/adcf4050-83c9-11ee-8d0f-0f9fb3e2b016.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/adca1030-83c9-11ee-8d0f-0f9fb3e2b016.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/15/bc808af0-83c9-11ee-8d0f-0f9fb3e2b016.png"
 }
+,
+{
+   "Name":"一只动态壁纸",
+   "Version":"0.3beta",
+   "Filename":"top.yzzi.wallpaper_0.3beta_amd64.deb",
+   "Pkgname":"top.yzzi.wallpaper",
+   "Author":"一只科技菌",
+   "Contributor":"一只科技菌",
+   "Website":"https://blog.yzzi.top",
+   "Update":"2020-08-08 16:13",
+   "Size":"46.07KB",
+   "More":"一个动态壁纸加载工具，DTK界面哦"
+}
+
 ,
 {
     "Name": "简单小企鹅皮肤",
@@ -596,23 +596,6 @@
 
 ,
 {
-    "Name": "银狼主题光标",
-    "Version": "1.0.1",
-    "Filename": "silverwolf.cursors_1.0.1_all.deb",
-    "Torrent_address": "silverwolf.cursors_1.0.1_all.deb.torrent",
-    "Pkgname": "silverwolf.cursors",
-    "Author": "唯溯",
-    "Contributor": "阿尼樱奈奈",
-    "Website": "https://space.bilibili.com/436623402",
-    "Update": "2024-01-24 21:19:01",
-    "Size": "10.92 KB",
-    "More": "2024年1月24日更新：之前的包有点小问题，故重新打包；\n 银狼主题光标，作者为B站用户@唯溯（https://space.bilibili.com/436623402），deepin论坛用户@阿尼樱奈奈 转换为Linux主题可用光标。\n 指针为免费分享，禁止商用。原指针分享视频网址：https://www.bilibili.com/video/BV1xj411Q7g5/\n 下载安装后，需要手动去鼠标主题相关设置项设置（因不同发行版而异）",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/24/e131875ccc8f4434959aed1d69457a86.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/24/2131d11f590b496eba902529b9336980.png"
-}
-,
-{
     "Author": "Tonny",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.uniontech.theme.infinitecontrol_1.0.4_all.deb",
@@ -629,6 +612,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.infinitecontrol/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.infinitecontrol/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.infinitecontrol/screen_3.png\"]"
 }
 
+,
+{
+    "Name": "银狼主题光标",
+    "Version": "1.0.1",
+    "Filename": "silverwolf.cursors_1.0.1_all.deb",
+    "Torrent_address": "silverwolf.cursors_1.0.1_all.deb.torrent",
+    "Pkgname": "silverwolf.cursors",
+    "Author": "唯溯",
+    "Contributor": "阿尼樱奈奈",
+    "Website": "https://space.bilibili.com/436623402",
+    "Update": "2024-01-24 21:19:01",
+    "Size": "10.92 KB",
+    "More": "2024年1月24日更新：之前的包有点小问题，故重新打包；\n 银狼主题光标，作者为B站用户@唯溯（https://space.bilibili.com/436623402），deepin论坛用户@阿尼樱奈奈 转换为Linux主题可用光标。\n 指针为免费分享，禁止商用。原指针分享视频网址：https://www.bilibili.com/video/BV1xj411Q7g5/\n 下载安装后，需要手动去鼠标主题相关设置项设置（因不同发行版而异）",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/24/e131875ccc8f4434959aed1d69457a86.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/24/2131d11f590b496eba902529b9336980.png"
+}
 ,
 {
     "Author": "username <username@uniontech.com>",
@@ -715,23 +715,6 @@
 }
 ,
 {
-    "Name": "JingOS壁纸",
-    "Version": "1.0.0",
-    "Filename": "jingos-wallpapers_1.0.0_all.deb",
-    "Torrent_address": "jingos-wallpapers_1.0.0_all.deb.torrent",
-    "Pkgname": "jingos-wallpapers",
-    "Author": "JingOS-team",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://github.com/JingOS-team/",
-    "Update": "2023-06-15 22:01:51",
-    "Size": "65.95 MB",
-    "More": "JingOS壁纸（提取自 JingOS 镜像）\n安装后在桌面右键壁纸与屏保即可更改",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/15/fd8587bd562c41b089a83c6b53ac0f12.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/15/ea826f0f41c8415589cbdd867f0537aa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/15/d67d5b53903a47088b707840d433e015.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/15/826f396e6aa9419cb5a841600ec9b576.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/15/d59fcd7dc68b40618ea961a276c7e397.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/15/d9ec31a56516496ba829cb66a21e6ca2.png"
-}
-,
-{
     "Name": "荧主题光标",
     "Version": "1.0.1",
     "Filename": "lumine.cursors_1.0.1_all.deb",
@@ -746,6 +729,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/24/77a70d0bc61b42afb3d1676e70f4fefe.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/24/aa72a742428641808efbf0b5d01bfc45.png"
+}
+,
+{
+    "Name": "JingOS壁纸",
+    "Version": "1.0.0",
+    "Filename": "jingos-wallpapers_1.0.0_all.deb",
+    "Torrent_address": "jingos-wallpapers_1.0.0_all.deb.torrent",
+    "Pkgname": "jingos-wallpapers",
+    "Author": "JingOS-team",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://github.com/JingOS-team/",
+    "Update": "2023-06-15 22:01:51",
+    "Size": "65.95 MB",
+    "More": "JingOS壁纸（提取自 JingOS 镜像）\n安装后在桌面右键壁纸与屏保即可更改",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/15/fd8587bd562c41b089a83c6b53ac0f12.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/15/ea826f0f41c8415589cbdd867f0537aa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/15/d67d5b53903a47088b707840d433e015.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/15/826f396e6aa9419cb5a841600ec9b576.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/15/d59fcd7dc68b40618ea961a276c7e397.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/15/d9ec31a56516496ba829cb66a21e6ca2.png"
 }
 ,
 {

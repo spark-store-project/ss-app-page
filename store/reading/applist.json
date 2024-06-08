@@ -186,6 +186,22 @@
 }
 ,
 {
+    "Name": "eRead小说在线阅读器（wine）",
+    "Version": "1.1.21.0826spark0",
+    "Filename": "com.eread.spark_1.1.21.0826spark0_i386.deb",
+    "Pkgname": "com.eread.spark",
+    "Author": "Panda",
+    "Contributor": "sgb76",
+    "Website": "暂无",
+    "Update": "2021-09-21 23:41:40",
+    "Size": "197.9 MB",
+    "More": "eRead是一款主打绿色、安全的在线小说阅读工具，软件为用户提供了一个清爽、干净的无广告阅读环境，您可以在这里自由搜索自己喜欢的小说内容并且直接阅读，包括各种热门、冷门、劲爆小说，还支持添加收藏、自动保存书签等功能",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/21/d81be4f0-1af1-11ec-bd8c-95148728cd57.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/21/e1b4b640-1af1-11ec-bd8c-95148728cd57.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/21/e881bd60-1af1-11ec-bd8c-95148728cd57.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/21/eba5b9b0-1af1-11ec-bd8c-95148728cd57.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/09/21/d22826d0-1af1-11ec-bd8c-95148728cd57.png"
+}
+,
+{
     "Name": "Neat Reader",
     "Version": "8.1.4spark2",
     "Filename": "com.neatreader.spark_8.1.4spark2_amd64.deb",
@@ -200,22 +216,6 @@
     "Tags": "deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/05/28c1f90e49234ba6a6627d0d081d45eb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/05/a05b44011aa94423b437dc6fe2c1d3c6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/05/681d764a49f84945aa8ffdaf318eb887.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/05/1d6787bc0a7f4f9baeba01a8fd302a07.png"
-}
-,
-{
-    "Name": "eRead小说在线阅读器（wine）",
-    "Version": "1.1.21.0826spark0",
-    "Filename": "com.eread.spark_1.1.21.0826spark0_i386.deb",
-    "Pkgname": "com.eread.spark",
-    "Author": "Panda",
-    "Contributor": "sgb76",
-    "Website": "暂无",
-    "Update": "2021-09-21 23:41:40",
-    "Size": "197.9 MB",
-    "More": "eRead是一款主打绿色、安全的在线小说阅读工具，软件为用户提供了一个清爽、干净的无广告阅读环境，您可以在这里自由搜索自己喜欢的小说内容并且直接阅读，包括各种热门、冷门、劲爆小说，还支持添加收藏、自动保存书签等功能",
-    "Tags": "ubuntu;deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/21/d81be4f0-1af1-11ec-bd8c-95148728cd57.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/21/e1b4b640-1af1-11ec-bd8c-95148728cd57.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/21/e881bd60-1af1-11ec-bd8c-95148728cd57.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/21/eba5b9b0-1af1-11ec-bd8c-95148728cd57.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/09/21/d22826d0-1af1-11ec-bd8c-95148728cd57.png"
 }
 ,
 {
@@ -649,6 +649,22 @@
 }
 ,
 {
+    "Name": "海天鹰PDF",
+    "Version": "1.0",
+    "Filename": "com.htypdf.spark_1.0_all.deb",
+    "Pkgname": "com.htypdf.spark",
+    "Author": "海天鹰",
+    "Contributor": "gfdgd xi",
+    "Website": "https://github.com/sonichy/HTYPDF",
+    "Update": "2020-11-08 09:11:01",
+    "Size": "1.48 MB",
+    "More": "用于查看PDF文件的小巧工具",
+    "Tags": "deepin;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/08/4a1e2440-21a2-11eb-81a1-d36988dc9d6e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/08/447d4110-21a2-11eb-81a1-d36988dc9d6e.png"
+}
+,
+{
     "Name": "金税odf阅读器",
     "Version": "1.0.32.06spark0",
     "Filename": "com.jsofd.ivyofdreader.spark_1.0.32.06spark0_i386.deb",
@@ -663,22 +679,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/3db11c5baf1c4b719cc42f50dc7d3c5f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/d73f2db4a5e0481aadd0180d75025755.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/10/58670fd2437a4375982d4cc9017dfbed.png"
-}
-,
-{
-    "Name": "海天鹰PDF",
-    "Version": "1.0",
-    "Filename": "com.htypdf.spark_1.0_all.deb",
-    "Pkgname": "com.htypdf.spark",
-    "Author": "海天鹰",
-    "Contributor": "gfdgd xi",
-    "Website": "https://github.com/sonichy/HTYPDF",
-    "Update": "2020-11-08 09:11:01",
-    "Size": "1.48 MB",
-    "More": "用于查看PDF文件的小巧工具",
-    "Tags": "deepin;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/08/4a1e2440-21a2-11eb-81a1-d36988dc9d6e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/08/447d4110-21a2-11eb-81a1-d36988dc9d6e.png"
 }
 ,
 {

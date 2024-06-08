@@ -19,13 +19,13 @@
 {
     "Author": "懵仙兔兔 <acgm@qq.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "wps-office_11.1.0.11719.1+ACE-fix1_amd64.deb",
+    "Filename": "wps-office_11.1.0.11719.1_plus_ACE-fix1_amd64.deb",
     "More": "WPS Office\n\n懵仙兔兔补丁版的WPS Office\n- 1.修复了pdf相关功能失效的问题\n- 2.修复了字体显示异常粗壮的问题\n-3. Fix: Can not install on ACE\n注：\n补丁是根据你本地系统依赖环境全自动处理是否需要补丁介入\n\n兼容性测试：\ndebian testing：功能全部正常\ndebian 12：功能全部正常\nubuntu 22.04：功能全部正常\ndeepin 23b3：功能全部正常\ndeepin 20.9：功能全部正常",
     "Name": "WPS Office",
     "Pkgname": "wps-office",
     "Size": "449 Mb",
     "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "wps-office_11.1.0.11719.1+ACE-fix1_amd64.deb.torrent",
+    "Torrent_address": "wps-office_11.1.0.11719.1_plus_ACE-fix1_amd64.deb.torrent",
     "Update": "2024-06-07 18:10:36",
     "Version": "11.1.0.11719.1+ACE-fix1",
     "Website": "http://wps-community.org",
@@ -755,23 +755,6 @@
 }
 ,
 {
-    "Name": "印象笔记（wine）",
-    "Version": "7.2.6.8111spark3",
-    "Filename": "com.evernote.spark_7.2.6.8111spark3_all.deb",
-    "Torrent_address": "com.evernote.spark_7.2.6.8111spark3_all.deb.torrent",
-    "Pkgname": "com.evernote.spark",
-    "Author": "北京印象笔记科技有限公司",
-    "Contributor": "sgb76",
-    "Website": "https://www.yinxiang.com/",
-    "Update": "2023-12-30 15:05:36",
-    "Size": "192.45 MB",
-    "More": "随时随地获取、整理、分享笔记，让灵感时刻与你同行",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/1ca6e20a28bb4d3bb24a16a66ffe902b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/cfd6e984ed1f43fca3ff3cbe154c4844.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/f5ce425011b04b9abad3b85864606163.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/98a67e35aa094976ab562b631e1bde3a.png"
-}
-,
-{
     "Name": "office2013",
     "Version": "15.0.0",
     "Filename": "spark-office_15.0.0_all.deb",
@@ -786,6 +769,23 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/351d3430-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3528a5e0-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3534dae0-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/353cca20-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3a7b6910-c561-11ee-9bdf-11b9ca480f15.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/07/41a201e0-c561-11ee-9bdf-11b9ca480f15.png"
+}
+,
+{
+    "Name": "印象笔记（wine）",
+    "Version": "7.2.6.8111spark3",
+    "Filename": "com.evernote.spark_7.2.6.8111spark3_all.deb",
+    "Torrent_address": "com.evernote.spark_7.2.6.8111spark3_all.deb.torrent",
+    "Pkgname": "com.evernote.spark",
+    "Author": "北京印象笔记科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.yinxiang.com/",
+    "Update": "2023-12-30 15:05:36",
+    "Size": "192.45 MB",
+    "More": "随时随地获取、整理、分享笔记，让灵感时刻与你同行",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/1ca6e20a28bb4d3bb24a16a66ffe902b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/cfd6e984ed1f43fca3ff3cbe154c4844.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/f5ce425011b04b9abad3b85864606163.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/98a67e35aa094976ab562b631e1bde3a.png"
 }
 ,
 {
@@ -892,23 +892,6 @@
 
 ,
 {
-    "Name": "Microsoft OneNote(uengine)",
-    "Version": "16.0.14527.20280",
-    "Filename": "uengine-dc-com.microsoft.office.onenote_16.0.14527.20280_all.deb",
-    "Torrent_address": "uengine-dc-com.microsoft.office.onenote_16.0.14527.20280_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.microsoft.office.onenote",
-    "Author": "Microsoft",
-    "Contributor": "安洛",
-    "Website": "onenote.com",
-    "Update": "2022-07-03 15:47:19",
-    "Size": "67.1 MB",
-    "More": "安卓版onenote，使用uengine运行。Microsoft OneNote，是一套用于自由形式的信息获取以及多用户协作工具。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/03/48e2dad0-faa4-11ec-99f5-c5c5d56b7ede.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/07/03/c796ba00-faa3-11ec-99f5-c5c5d56b7ede.png"
-}
-,
-{
     "Name": "超级计算器(uengine)",
     "Version": "2.0.0",
     "Filename": "com.youdao.calculator_2.0.0_all.deb",
@@ -923,6 +906,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/04/c27a9530-b3ec-11ec-9181-9d650eadc8e8.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/04/c299dd00-b3ec-11ec-9181-9d650eadc8e8.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/04/c2b8fdc0-b3ec-11ec-9181-9d650eadc8e8.jpg\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/04/bed18a60-b3ec-11ec-9181-9d650eadc8e8.png"
+}
+,
+{
+    "Name": "Microsoft OneNote(uengine)",
+    "Version": "16.0.14527.20280",
+    "Filename": "uengine-dc-com.microsoft.office.onenote_16.0.14527.20280_all.deb",
+    "Torrent_address": "uengine-dc-com.microsoft.office.onenote_16.0.14527.20280_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.microsoft.office.onenote",
+    "Author": "Microsoft",
+    "Contributor": "安洛",
+    "Website": "onenote.com",
+    "Update": "2022-07-03 15:47:19",
+    "Size": "67.1 MB",
+    "More": "安卓版onenote，使用uengine运行。Microsoft OneNote，是一套用于自由形式的信息获取以及多用户协作工具。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/03/48e2dad0-faa4-11ec-99f5-c5c5d56b7ede.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/07/03/c796ba00-faa3-11ec-99f5-c5c5d56b7ede.png"
 }
 ,
 {
@@ -977,23 +977,6 @@
 }
 ,
 {
-    "Name": "浙政钉（wine）",
-    "Version": "2.15.0-Release.4spark1",
-    "Filename": "com.dingtalkzjgov.deepin_2.15.0-Release.4spark1_all.deb",
-    "Torrent_address": "com.dingtalkzjgov.deepin_2.15.0-Release.4spark1_all.deb.torrent",
-    "Pkgname": "com.dingtalkzjgov.deepin",
-    "Author": "shenmo",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://pjep.cn/kaifa/188.html",
-    "Update": "2023-08-16 14:13:47",
-    "Size": "267.42 MB",
-    "More": "基于deepin-wine6的浙政钉PC端安装包，按照deepin的官方打包方式完成，deepinV20社区版测试通过。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/16/c77837b3f7de4b99b691efccfc2fbe50.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/16/dd3a0afacdc94331b02994a9e5723245.png"
-}
-,
-{
     "Name": "桌面",
     "Version": "5.8.0-1",
     "Filename": "xpad_5.8.0-1_amd64.deb",
@@ -1008,6 +991,23 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/3fb3cee0-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/3fccd520-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/3fef7850-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/4008f3c0-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/401f13d0-f240-11ec-8036-71833f63a538.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/22/7b668320-f23f-11ec-8036-71833f63a538.png"
+}
+,
+{
+    "Name": "浙政钉（wine）",
+    "Version": "2.15.0-Release.4spark1",
+    "Filename": "com.dingtalkzjgov.deepin_2.15.0-Release.4spark1_all.deb",
+    "Torrent_address": "com.dingtalkzjgov.deepin_2.15.0-Release.4spark1_all.deb.torrent",
+    "Pkgname": "com.dingtalkzjgov.deepin",
+    "Author": "shenmo",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://pjep.cn/kaifa/188.html",
+    "Update": "2023-08-16 14:13:47",
+    "Size": "267.42 MB",
+    "More": "基于deepin-wine6的浙政钉PC端安装包，按照deepin的官方打包方式完成，deepinV20社区版测试通过。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/16/c77837b3f7de4b99b691efccfc2fbe50.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/16/dd3a0afacdc94331b02994a9e5723245.png"
 }
 ,
 {
@@ -1248,6 +1248,23 @@
 }
 ,
 {
+    "Name": "搜狗输入法Deepin版小语种",
+    "Version": "1.0.0",
+    "Filename": "com.sogou.sogoupinyin-deepin-tadict_1.0.0_all.deb",
+    "Torrent_address": "com.sogou.sogoupinyin-deepin-tadict_1.0.0_all.deb.torrent",
+    "Pkgname": "com.sogou.sogoupinyin-deepin-tadict",
+    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "http://pinyin.sogou.com/linux",
+    "Update": "2023-03-16 21:43:44",
+    "Size": "163.83 MB",
+    "More": "搜狗输入法Deepin版输入小语种，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一",
+    "Tags": "deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/28cf3701d69e4214bec4266cfbaae1f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/75295f85f92c42aea225cc0dee8cfe5a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/1cc19c8f2d6b46fe8dc188438fbe01e8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/f1647724c8ac4e8799bd5802151c1697.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/16/282368b0c3404319a4da29412565f377.png"
+}
+,
+{
     "Name": "超星学习通（uengine）",
     "Version": "6.0.3",
     "Filename": "uengine-dc-com.chaoxing.mobile_6.0.3_all.deb",
@@ -1279,23 +1296,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/19/2a65a7ba5c134082b94190cb850bf38b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/19/10b36dc532e144e8bb0574ef064c976d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/19/b813b051adf84f8aaacfe95220a21b0c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/19/4052a96e890e453a823a07d7b28c1e8f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/19/666e05bec9a0405b90b9f06885b49509.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/19/68d668e9648444cd8cef869e8e1a0d60.png"
-}
-,
-{
-    "Name": "搜狗输入法Deepin版小语种",
-    "Version": "1.0.0",
-    "Filename": "com.sogou.sogoupinyin-deepin-tadict_1.0.0_all.deb",
-    "Torrent_address": "com.sogou.sogoupinyin-deepin-tadict_1.0.0_all.deb.torrent",
-    "Pkgname": "com.sogou.sogoupinyin-deepin-tadict",
-    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "http://pinyin.sogou.com/linux",
-    "Update": "2023-03-16 21:43:44",
-    "Size": "163.83 MB",
-    "More": "搜狗输入法Deepin版输入小语种，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一",
-    "Tags": "deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/28cf3701d69e4214bec4266cfbaae1f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/75295f85f92c42aea225cc0dee8cfe5a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/1cc19c8f2d6b46fe8dc188438fbe01e8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/f1647724c8ac4e8799bd5802151c1697.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/16/282368b0c3404319a4da29412565f377.png"
 }
 ,
 {
@@ -1349,23 +1349,6 @@
 }
 ,
 {
-    "Name": "Evernote（Linux）",
-    "Version": "10.7.6-2321",
-    "Filename": "evernote-client_10.7.6-2321_amd64.deb",
-    "Torrent_address": "evernote-client_10.7.6-2321_amd64.deb.torrent",
-    "Pkgname": "evernote-client",
-    "Author": "Evernote Corporation",
-    "Contributor": "sgb76",
-    "Website": "https://evernote.com/",
-    "Update": "2023-01-05 13:11:59",
-    "Size": "93.5 MB",
-    "More": "Evernote for Linux",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/05/c1d221fc106243859b15cfc5f24dd75a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/05/d135b2e825a842afb9de4823dea2895e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/05/2de84c1a7b9d49f3aa690d8e80c53ddc.png"
-}
-,
-{
     "Name": "搜狗输入法Deepin版手写数据包",
     "Version": "1.0.0",
     "Filename": "com.sogou.sogoupinyin-deepin-sogouhw_1.0.0_all.deb",
@@ -1380,6 +1363,23 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/b31393dddbc84ac78f09b3c57065f8a1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/295613e79d9e40888132879307f104ed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/e9d6e599712e4597adcd5d809c34f79a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/a9b4cdc1adcb4a25b47335958e4e6a4e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/4b09f48b0d444dedbc8812c9696ca167.png"
+}
+,
+{
+    "Name": "Evernote（Linux）",
+    "Version": "10.7.6-2321",
+    "Filename": "evernote-client_10.7.6-2321_amd64.deb",
+    "Torrent_address": "evernote-client_10.7.6-2321_amd64.deb.torrent",
+    "Pkgname": "evernote-client",
+    "Author": "Evernote Corporation",
+    "Contributor": "sgb76",
+    "Website": "https://evernote.com/",
+    "Update": "2023-01-05 13:11:59",
+    "Size": "93.5 MB",
+    "More": "Evernote for Linux",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/05/c1d221fc106243859b15cfc5f24dd75a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/05/d135b2e825a842afb9de4823dea2895e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/05/2de84c1a7b9d49f3aa690d8e80c53ddc.png"
 }
 ,
 {
@@ -1916,23 +1916,6 @@
 }
 ,
 {
-    "Name": "文华赢顺Wh6(wine)",
-    "Version": "6.8.412spark0",
-    "Filename": "com.haqh.wh6.spark_6.8.412spark0_amd64.deb",
-    "Torrent_address": "com.haqh.wh6.spark_6.8.412spark0_amd64.deb.torrent",
-    "Pkgname": "com.haqh.wh6.spark",
-    "Author": "上海文华财经资讯股份有限公司",
-    "Contributor": "delsin",
-    "Website": "https://wh6.wenhua.com.cn/Home/Index",
-    "Update": "2022-06-16 14:15:06",
-    "Size": "734.87 MB",
-    "More": "文华赢顺WH6-华安期货版 on wine-devel-7.9\n文华赢顺WH6软件,智能化的行情分析软件，含夜盘行情、期权行情。\n注：\n(1)修复升级下载错误导致无法登录的问题。\n(2)若要安装其他期货公司版文华赢顺WH6，请安装本版本后，参考此帖替换：https://bbs.deepin.org/post/239092",
-    "Tags": "uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/16/43c35190-ed3b-11ec-99fe-7d388596cee3.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/16/3db46a50-ed3b-11ec-99fe-7d388596cee3.png"
-}
-,
-{
     "Name": "Infix PDF Editor",
     "Version": "7.7.0.0spark0",
     "Filename": "com.iceni.infix.spark_7.7.0.0spark0_amd64.deb",
@@ -1947,6 +1930,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/19/3ecd3a2b654e43e08b5192e7536601d5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/19/2eab12f5ce5f43c7805f38f6c6f2e4cf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/19/32cf939dd1d1477eb8b3aad76e15e458.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/19/6dc746c53d9242ed9dfa85656b17fe7b.png"
+}
+,
+{
+    "Name": "文华赢顺Wh6(wine)",
+    "Version": "6.8.412spark0",
+    "Filename": "com.haqh.wh6.spark_6.8.412spark0_amd64.deb",
+    "Torrent_address": "com.haqh.wh6.spark_6.8.412spark0_amd64.deb.torrent",
+    "Pkgname": "com.haqh.wh6.spark",
+    "Author": "上海文华财经资讯股份有限公司",
+    "Contributor": "delsin",
+    "Website": "https://wh6.wenhua.com.cn/Home/Index",
+    "Update": "2022-06-16 14:15:06",
+    "Size": "734.87 MB",
+    "More": "文华赢顺WH6-华安期货版 on wine-devel-7.9\n文华赢顺WH6软件,智能化的行情分析软件，含夜盘行情、期权行情。\n注：\n(1)修复升级下载错误导致无法登录的问题。\n(2)若要安装其他期货公司版文华赢顺WH6，请安装本版本后，参考此帖替换：https://bbs.deepin.org/post/239092",
+    "Tags": "uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/16/43c35190-ed3b-11ec-99fe-7d388596cee3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/16/3db46a50-ed3b-11ec-99fe-7d388596cee3.png"
 }
 ,
 {
@@ -2603,6 +2603,23 @@
 }
 ,
 {
+    "Name": "搜狗输入法UOS版语言数据包",
+    "Version": "1.0.0",
+    "Filename": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb",
+    "Torrent_address": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb.torrent",
+    "Pkgname": "com.sogou.sogoupinyin-uos-sogouvoice",
+    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://pinyin.sogou.com/linux",
+    "Update": "2023-05-20 22:09:03",
+    "Size": "878.22 MB",
+    "More": "搜狗输入法UOS版使用语音功能，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一。",
+    "Tags": "uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/442ae1d904d449249264283f3df7cd1f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/dbc5adabad134395874f57c34aa9ffe2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/3043006c16644596818679607634c83c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/8da17b09e48d4450b3a4000646d53d31.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/bd8e4b080a744d7da23846b40f5af8d4.png"
+}
+,
+{
     "Name": "Notable 中文版",
     "Version": "1.8.4",
     "Filename": "notable_1.8.4_amd64.deb",
@@ -2651,23 +2668,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/0be738f00e7c429ca2abbd3f20e0e4f3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/e8a20d274371430eae60a5ae81b5ab2a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/31/67967d75e27a434bb528646981b73218.png"
-}
-,
-{
-    "Name": "搜狗输入法UOS版语言数据包",
-    "Version": "1.0.0",
-    "Filename": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb",
-    "Torrent_address": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb.torrent",
-    "Pkgname": "com.sogou.sogoupinyin-uos-sogouvoice",
-    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://pinyin.sogou.com/linux",
-    "Update": "2023-05-20 22:09:03",
-    "Size": "878.22 MB",
-    "More": "搜狗输入法UOS版使用语音功能，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一。",
-    "Tags": "uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/442ae1d904d449249264283f3df7cd1f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/dbc5adabad134395874f57c34aa9ffe2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/3043006c16644596818679607634c83c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/8da17b09e48d4450b3a4000646d53d31.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/bd8e4b080a744d7da23846b40f5af8d4.png"
 }
 ,
 {
@@ -3207,6 +3207,23 @@
 }
 ,
 {
+    "Name": "中国移动云电脑（wine）",
+    "Version": "1.0.0",
+    "Filename": "chinamobyunos_1.0.0_all.deb",
+    "Torrent_address": "chinamobyunos_1.0.0_all.deb.torrent",
+    "Pkgname": "chinamobyunos",
+    "Author": "huawei0086@126.com",
+    "Contributor": "rc3583z",
+    "Website": "1212123",
+    "Update": "2024-03-15 15:33:11",
+    "Size": "264.34 MB",
+    "More": "中国移动云电脑",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/add19340-e29d-11ee-893c-3b7985d6d301.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/ee872080-e29d-11ee-893c-3b7985d6d301.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/15/a5e33da0-e29d-11ee-893c-3b7985d6d301.png"
+}
+,
+{
     "Name": "okular",
     "Version": "4",
     "Filename": "okular_4_amd64.deb",
@@ -3284,20 +3301,20 @@
 
 ,
 {
-    "Name": "中国移动云电脑（wine）",
-    "Version": "1.0.0",
-    "Filename": "chinamobyunos_1.0.0_all.deb",
-    "Torrent_address": "chinamobyunos_1.0.0_all.deb.torrent",
-    "Pkgname": "chinamobyunos",
-    "Author": "huawei0086@126.com",
-    "Contributor": "rc3583z",
-    "Website": "1212123",
-    "Update": "2024-03-15 15:33:11",
-    "Size": "264.34 MB",
-    "More": "中国移动云电脑",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/add19340-e29d-11ee-893c-3b7985d6d301.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/ee872080-e29d-11ee-893c-3b7985d6d301.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/15/a5e33da0-e29d-11ee-893c-3b7985d6d301.png"
+    "Name": "岸途写作",
+    "Version": "3.2.9spark2",
+    "Filename": "com.andto.spark_3.2.9spark2_amd64.deb",
+    "Torrent_address": "com.andto.spark_3.2.9spark2_amd64.deb.torrent",
+    "Pkgname": "com.andto.spark",
+    "Author": "岸途写作",
+    "Contributor": "sgb76",
+    "Website": "http://www.andto.com/writer/index.html",
+    "Update": "2023-02-22 16:28:03",
+    "Size": "119.6 MB",
+    "More": "一款真正面向长篇创作的写作软件，提供了故事、事件轴、设定、人物、细纲、写作窗口以及素材等面向长篇小说构思、创作以及写作的诸多文档能力。",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/f526632d51aa4754b3e0761829835cc8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/ad2a0cc817294dd78376935da827933a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/726fa5b625df4804ac9dae7e1176e027.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/22/7b5cb3aef4af4afca371a88b26e2b03f.png"
 }
 ,
 {
@@ -3384,23 +3401,6 @@
 }
 ,
 {
-    "Name": "岸途写作",
-    "Version": "3.2.9spark2",
-    "Filename": "com.andto.spark_3.2.9spark2_amd64.deb",
-    "Torrent_address": "com.andto.spark_3.2.9spark2_amd64.deb.torrent",
-    "Pkgname": "com.andto.spark",
-    "Author": "岸途写作",
-    "Contributor": "sgb76",
-    "Website": "http://www.andto.com/writer/index.html",
-    "Update": "2023-02-22 16:28:03",
-    "Size": "119.6 MB",
-    "More": "一款真正面向长篇创作的写作软件，提供了故事、事件轴、设定、人物、细纲、写作窗口以及素材等面向长篇小说构思、创作以及写作的诸多文档能力。",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/f526632d51aa4754b3e0761829835cc8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/ad2a0cc817294dd78376935da827933a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/726fa5b625df4804ac9dae7e1176e027.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/22/7b5cb3aef4af4afca371a88b26e2b03f.png"
-}
-,
-{
     "Name": "口袋写作",
     "Version": "0.1.1spark0",
     "Filename": "cn.kdwrite.spark_0.1.1spark0_amd64.deb",
@@ -3435,6 +3435,23 @@
 }
 ,
 {
+    "Name": "WPS Office 2016",
+    "Version": "10.1.0.6757spark1",
+    "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
+    "Torrent_address": "wps-office-2016_10.1.0.6757spark1_amd64.deb.torrent",
+    "Pkgname": "wps-office-2016",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://wps-community.org",
+    "Update": "2024-05-19 16:58:39",
+    "Size": "129.41 MB",
+    "More": "WPS Office 2016 旧版本，三组件分别独立，资源占用更小，支持类 office 2003 经典界面\n云同步功能依旧可用\n与现行的 WPS Office， 2019 冲突",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
+}
+,
+{
     "Name": "動畫模擬教學_PhET",
     "Version": "202112",
     "Filename": "ezgo-phet_202112_all.deb",
@@ -3466,23 +3483,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/25/308a6eabb57444beb180ef25506dd8c3.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/25/6c110b828e5c46a2881ac6d21eef6c56.png"
-}
-,
-{
-    "Name": "WPS Office 2016",
-    "Version": "10.1.0.6757spark1",
-    "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
-    "Torrent_address": "wps-office-2016_10.1.0.6757spark1_amd64.deb.torrent",
-    "Pkgname": "wps-office-2016",
-    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://wps-community.org",
-    "Update": "2024-05-19 16:58:39",
-    "Size": "129.41 MB",
-    "More": "WPS Office 2016 旧版本，三组件分别独立，资源占用更小，支持类 office 2003 经典界面\n云同步功能依旧可用\n与现行的 WPS Office， 2019 冲突",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
 }
 ,
 {
@@ -3670,6 +3670,23 @@
 }
 ,
 {
+    "Name": "希沃白板Web",
+    "Version": "1.14514",
+    "Filename": "wed-seewo_1.14514_all.deb",
+    "Torrent_address": "wed-seewo_1.14514_all.deb.torrent",
+    "Pkgname": "wed-seewo",
+    "Author": "baimacao",
+    "Contributor": "baimacao",
+    "Website": "https://enweb.seewo.com/",
+    "Update": "2024-05-22 17:50:56",
+    "Size": "29.16 KB",
+    "More": "唯一被老师认可的希沃白板，可以正常上课，web应用",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/a0ba4974dee742fcb656146be01cb321.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/49082957d0c64a059f6cadb90be58342.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/b80a658ca0594703ad75bcbd7c0abccb.png"
+}
+,
+{
    "Name":"开源Evernote APP:Tusk",
    "Version":"0.23.0-650",
    "Filename":"tusk_0.23.0_amd64.deb",
@@ -3813,23 +3830,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/05/56d719f6a4f34019bcebef0d4402eb7d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/05/a7bb324645d24fd483ca1d85faeeeac4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/05/7648b1c85e704dea97be799b72ab41fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/05/e9ee960e2101487ea1f65e40e434e0d7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/05/3bd8de4c9f1e48a0b7f7af9a3fea8668.png"
-}
-,
-{
-    "Name": "希沃白板Web",
-    "Version": "1.14514",
-    "Filename": "wed-seewo_1.14514_all.deb",
-    "Torrent_address": "wed-seewo_1.14514_all.deb.torrent",
-    "Pkgname": "wed-seewo",
-    "Author": "baimacao",
-    "Contributor": "baimacao",
-    "Website": "https://enweb.seewo.com/",
-    "Update": "2024-05-22 17:50:56",
-    "Size": "29.16 KB",
-    "More": "唯一被老师认可的希沃白板，可以正常上课，web应用",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/a0ba4974dee742fcb656146be01cb321.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/49082957d0c64a059f6cadb90be58342.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/b80a658ca0594703ad75bcbd7c0abccb.png"
 }
 ,
 {
@@ -4106,6 +4106,23 @@
 }
 ,
 {
+    "Name": "全能王PDF转换软件",
+    "Version": "2.0.1.2spark0",
+    "Filename": "com.quannengpdfconvert.spark_2.0.1.2spark0_all.deb",
+    "Torrent_address": "com.quannengpdfconvert.spark_2.0.1.2spark0_all.deb.torrent",
+    "Pkgname": "com.quannengpdfconvert.spark",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.360qnw.com/",
+    "Update": "2024-05-01 15:23:19",
+    "Size": "58.48 MB",
+    "More": "支持PDF转Word，Word转PDF，PDF转Excel，PDF转图片，PPT转PDF等文档文件互转。全能王PDF转换软件是一款专业PDF文件转换处理软件，支持多种格式互转，如WORD转PDF，EXCEL转PDF，图片转PDF。同时还支持 PDF压缩、PDF合并、PDF拆分、PDF提取等功能，支持多个PDF文件批量转换，轻松快捷，是办公人员必备的PDF转换工具。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/090c786373ba406e8ede86cb37641fe8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/06794672562b40b587fd1fdd2ce045a0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/bec8c80fc44d46b0bbb4fbf68fc34745.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/01/204d45a2af3b41c0b2e78b699db938b3.png"
+}
+,
+{
     "Name": "怡氧",
     "Version": "2.3.0spark0",
     "Filename": "com.eo2suite.spark_2.3.0spark0_amd64.deb",
@@ -4219,23 +4236,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.sbfglkhd.spark/screen_1.png\"]"
 }
 
-,
-{
-    "Name": "全能王PDF转换软件",
-    "Version": "2.0.1.2spark0",
-    "Filename": "com.quannengpdfconvert.spark_2.0.1.2spark0_all.deb",
-    "Torrent_address": "com.quannengpdfconvert.spark_2.0.1.2spark0_all.deb.torrent",
-    "Pkgname": "com.quannengpdfconvert.spark",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.360qnw.com/",
-    "Update": "2024-05-01 15:23:19",
-    "Size": "58.48 MB",
-    "More": "支持PDF转Word，Word转PDF，PDF转Excel，PDF转图片，PPT转PDF等文档文件互转。全能王PDF转换软件是一款专业PDF文件转换处理软件，支持多种格式互转，如WORD转PDF，EXCEL转PDF，图片转PDF。同时还支持 PDF压缩、PDF合并、PDF拆分、PDF提取等功能，支持多个PDF文件批量转换，轻松快捷，是办公人员必备的PDF转换工具。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/090c786373ba406e8ede86cb37641fe8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/06794672562b40b587fd1fdd2ce045a0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/bec8c80fc44d46b0bbb4fbf68fc34745.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/01/204d45a2af3b41c0b2e78b699db938b3.png"
-}
 ,
 {
     "Name": "喵滴",

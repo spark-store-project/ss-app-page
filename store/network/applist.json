@@ -491,23 +491,6 @@
 }
 ,
 {
-    "Name": "网易邮箱大师(wine)",
-    "Version": "5.0.9.1015",
-    "Filename": "com.163.dashi.mailmaster.spark_5.0.9.1015_all.deb",
-    "Torrent_address": "com.163.dashi.mailmaster.spark_5.0.9.1015_all.deb.torrent",
-    "Pkgname": "com.163.dashi.mailmaster.spark",
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://dashi.163.com/",
-    "Update": "2024-03-30 03:32:58",
-    "Size": "160.76 MB",
-    "More": "专业的全平台邮箱客户端\n\n----\n更新：支持被设置为默认邮件客户端,改用dwine8启动",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/97ac45d306bf4abaac2e82ced9bc72fd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/1b087d1b85ab4f14a498081adbb45039.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/1943e27afb594baeab615d81baa22646.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/30/2b31c37cd9dc4698a908bedc38387810.png"
-}
-,
-{
     "Name": "easyconnect(V23)",
     "Version": "7.6.7.7",
     "Filename": "easyconnect_7.6.7.7_amd64.deb",
@@ -522,6 +505,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/a34c840bb40f4e7b8974e440f6adacf5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/15/7500827e5104428480d344850edb0159.png"
+}
+,
+{
+    "Name": "网易邮箱大师(wine)",
+    "Version": "5.0.9.1015",
+    "Filename": "com.163.dashi.mailmaster.spark_5.0.9.1015_all.deb",
+    "Torrent_address": "com.163.dashi.mailmaster.spark_5.0.9.1015_all.deb.torrent",
+    "Pkgname": "com.163.dashi.mailmaster.spark",
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://dashi.163.com/",
+    "Update": "2024-03-30 03:32:58",
+    "Size": "160.76 MB",
+    "More": "专业的全平台邮箱客户端\n\n----\n更新：支持被设置为默认邮件客户端,改用dwine8启动",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/97ac45d306bf4abaac2e82ced9bc72fd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/1b087d1b85ab4f14a498081adbb45039.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/1943e27afb594baeab615d81baa22646.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/30/2b31c37cd9dc4698a908bedc38387810.png"
 }
 ,
 {
@@ -1376,23 +1376,6 @@
 
 ,
 {
-    "Name": "方德浏览器",
-    "Version": "6.0.0.1",
-    "Filename": "nfs-browser_6.0.0.1_amd64.deb",
-    "Torrent_address": "nfs-browser_6.0.0.1_amd64.deb.torrent",
-    "Pkgname": "nfs-browser",
-    "Author": "www.nfs-china.com <service@nfschina.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "http://browser.nfschina.com/browser/public/",
-    "Update": "2024-02-27 14:01:25",
-    "Size": "77.47 MB",
-    "More": "方德浏览器",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/27/3b722c822f1c434bae7ca7bd5fbe78a1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/27/b4de95ddda204d789422afee791d83dc.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/27/2f6d3a4bf3524e7eb8cbacd156b25c2e.png"
-}
-,
-{
     "Name": "腾讯微云（wine）",
     "Version": "5.2.1282spark1",
     "Filename": "com.weiyun.spark_5.2.1282spark1_i386.deb",
@@ -1410,6 +1393,23 @@
 }
 ,
 {
+    "Name": "方德浏览器",
+    "Version": "6.0.0.1",
+    "Filename": "nfs-browser_6.0.0.1_amd64.deb",
+    "Torrent_address": "nfs-browser_6.0.0.1_amd64.deb.torrent",
+    "Pkgname": "nfs-browser",
+    "Author": "www.nfs-china.com <service@nfschina.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "http://browser.nfschina.com/browser/public/",
+    "Update": "2024-02-27 14:01:25",
+    "Size": "77.47 MB",
+    "More": "方德浏览器",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/27/3b722c822f1c434bae7ca7bd5fbe78a1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/27/b4de95ddda204d789422afee791d83dc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/27/2f6d3a4bf3524e7eb8cbacd156b25c2e.png"
+}
+,
+{
     "Name": "IT之家（web）",
     "Version": "1.0spark0",
     "Filename": "web-ithome-spark_1.0spark0_amd64.deb",
@@ -1423,6 +1423,23 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/01/38818a90-4c15-11eb-b2ef-29b020fa4a6b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/01/301f3d70-4c15-11eb-b2ef-29b020fa4a6b.png"
+}
+,
+{
+    "Name": "Clash Nyanpasu～(∠・ω< )⌒☆​ ",
+    "Version": "1.5.1",
+    "Filename": "clash-nyanpasu_1.5.1_amd64.deb",
+    "Torrent_address": "clash-nyanpasu_1.5.1_amd64.deb.torrent",
+    "Pkgname": "clash-nyanpasu",
+    "Author": "zzzgydi, keiko233",
+    "Contributor": "idleness",
+    "Website": "https://nyanpasu.elaina.moe/",
+    "Update": "2024-04-12 23:07:19",
+    "Size": "53.19 MB",
+    "More": "基于 Tauri 的偏执 Clash 图形界面。",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/e7122150-f8dd-11ee-94b3-3598cf0b4d68.gif\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/d8f3eef0-f8dd-11ee-94b3-3598cf0b4d68.png"
 }
 ,
 {
@@ -1474,23 +1491,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7f3340-2a94-11ed-9bd6-8b4709310a39.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7c7420-2a94-11ed-9bd6-8b4709310a39.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7dd3b0-2a94-11ed-9bd6-8b4709310a39.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/02/f87d6fd0-2a94-11ed-9bd6-8b4709310a39.png"
-}
-,
-{
-    "Name": "Clash Nyanpasu～(∠・ω< )⌒☆​ ",
-    "Version": "1.5.1",
-    "Filename": "clash-nyanpasu_1.5.1_amd64.deb",
-    "Torrent_address": "clash-nyanpasu_1.5.1_amd64.deb.torrent",
-    "Pkgname": "clash-nyanpasu",
-    "Author": "zzzgydi, keiko233",
-    "Contributor": "idleness",
-    "Website": "https://nyanpasu.elaina.moe/",
-    "Update": "2024-04-12 23:07:19",
-    "Size": "53.19 MB",
-    "More": "基于 Tauri 的偏执 Clash 图形界面。",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/e7122150-f8dd-11ee-94b3-3598cf0b4d68.gif\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/d8f3eef0-f8dd-11ee-94b3-3598cf0b4d68.png"
 }
 ,
 {
@@ -1675,22 +1675,6 @@
 }
 ,
 {
-    "Name": "猎鹰下载（wine）",
-    "Version": "2.1.6.70spark0",
-    "Filename": "com.eagleget.spark_2.1.6.70spark0_i386.deb",
-    "Pkgname": "com.eagleget.spark",
-    "Author": "eagleget",
-    "Contributor": "sgb76",
-    "Website": "www.eagleget.com",
-    "Update": "2021-05-26 15:37:56",
-    "Size": "62.47 MB",
-    "More": "一款界面美观、功能齐全、下载速度不错的下载器",
-    "Tags": "ubuntu;deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/ff8c5970-bdf4-11eb-bf52-21cd2e73e05d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/02b6be60-bdf5-11eb-bf52-21cd2e73e05d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/26/fc049240-bdf4-11eb-bf52-21cd2e73e05d.png"
-}
-,
-{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.bitcomet.spark_2.03.1_all.deb",
@@ -1707,6 +1691,22 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_3.png\"]"
 }
 
+,
+{
+    "Name": "猎鹰下载（wine）",
+    "Version": "2.1.6.70spark0",
+    "Filename": "com.eagleget.spark_2.1.6.70spark0_i386.deb",
+    "Pkgname": "com.eagleget.spark",
+    "Author": "eagleget",
+    "Contributor": "sgb76",
+    "Website": "www.eagleget.com",
+    "Update": "2021-05-26 15:37:56",
+    "Size": "62.47 MB",
+    "More": "一款界面美观、功能齐全、下载速度不错的下载器",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/ff8c5970-bdf4-11eb-bf52-21cd2e73e05d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/02b6be60-bdf5-11eb-bf52-21cd2e73e05d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/26/fc049240-bdf4-11eb-bf52-21cd2e73e05d.png"
+}
 ,
 {
     "Name": "闪电藤文件传输",
@@ -2391,6 +2391,23 @@
 }
 ,
 {
+    "Name": "PDF to DOCX 转换器",
+    "Version": "1.1",
+    "Filename": "com.pdftodocx.deepin_1.1_all.deb",
+    "Torrent_address": "com.pdftodocx.deepin_1.1_all.deb.torrent",
+    "Pkgname": "com.pdftodocx.deepin",
+    "Author": "苦瓜甘甜（wszjf）",
+    "Contributor": "wang",
+    "Website": "https://www.52pojie.cn/thread-1799014-1-1.html",
+    "Update": "2024-05-27 23:22:26",
+    "Size": "139.92 MB",
+    "More": "PDF to DOCX 转换器是个PDF转成Word的转换器，这是吾爱大佬开发的，有非常多的人使用，软件界面非常简单。软件转换过程没有进度显示，只有转换完了才会有提示，它不支持纯图片的PDF，对表格等格式的转换效果非常好。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b5310980-1c3c-11ef-844a-857c0f6b164f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b53a3140-1c3c-11ef-844a-857c0f6b164f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/b010a0f0-1c3c-11ef-844a-857c0f6b164f.png"
+}
+,
+{
     "Name": "QNAP QSync 自动同步软件",
     "Version": "1.0.9.1627",
     "Filename": "qnapqsyncclient_1.0.9.1627_amd64.deb",
@@ -2473,23 +2490,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/7a0bafbe06614fbcbf06fdff6b0ce383.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/4e021c1100e042ffbc569ebe3be505af.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/53c5ba918ec34951856cb0efcf25c5fe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/19eff2add87d4587aa32e377dc26d280.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/03/4c6b0778b67940ff90c7a85db23a5453.png"
-}
-,
-{
-    "Name": "PDF to DOCX 转换器",
-    "Version": "1.1",
-    "Filename": "com.pdftodocx.deepin_1.1_all.deb",
-    "Torrent_address": "com.pdftodocx.deepin_1.1_all.deb.torrent",
-    "Pkgname": "com.pdftodocx.deepin",
-    "Author": "苦瓜甘甜（wszjf）",
-    "Contributor": "wang",
-    "Website": "https://www.52pojie.cn/thread-1799014-1-1.html",
-    "Update": "2024-05-27 23:22:26",
-    "Size": "139.92 MB",
-    "More": "PDF to DOCX 转换器是个PDF转成Word的转换器，这是吾爱大佬开发的，有非常多的人使用，软件界面非常简单。软件转换过程没有进度显示，只有转换完了才会有提示，它不支持纯图片的PDF，对表格等格式的转换效果非常好。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b5310980-1c3c-11ef-844a-857c0f6b164f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b53a3140-1c3c-11ef-844a-857c0f6b164f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/b010a0f0-1c3c-11ef-844a-857c0f6b164f.png"
 }
 ,
 {

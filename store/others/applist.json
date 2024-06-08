@@ -891,6 +891,23 @@
 }
 ,
 {
+    "Name": "重启至uefi",
+    "Version": "0.0.1",
+    "Filename": "reboot-uefi_0.0.1_all.deb",
+    "Torrent_address": "reboot-uefi_0.0.1_all.deb.torrent",
+    "Pkgname": "reboot-uefi",
+    "Author": "shy <1658347525@qq.com>",
+    "Contributor": "shy <1658347525@qq.com>",
+    "Website": "https://space.bilibili.com/365755968?spm_id_from=333.337.0.0",
+    "Update": "2022-12-27 20:48:48",
+    "Size": "2 KB",
+    "More": "没有在非uefi平台测试过..\n 需要使用systemd(没有写在依赖项)\n 参考https://linux.cn/article-15361-1.html\n 运行ps --no-headers -o comm 1检查自己是否使用systemd(包括deepin在内的大多数发行版使用)\n 本质是运行systemctl reboot --firmware-setup",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/6c0e1a5aef104c87856404fafd58836a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/27/33dc74f16e8847e0bfb4c98651966a1e.png"
+}
+,
+{
     "Name": "联想语音——实时字幕翻译(浏览器插件)",
     "Version": "1.4.3",
     "Filename": "browserext.ndgedmaejfmclppaafnkhaagpjglhlmj_1.4.3_all.deb",
@@ -922,23 +939,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/bf896362f00741ae963311b3f18c96b8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/27/8490b5b8aff34978a158b8cd2afb288f.png"
-}
-,
-{
-    "Name": "重启至uefi",
-    "Version": "0.0.1",
-    "Filename": "reboot-uefi_0.0.1_all.deb",
-    "Torrent_address": "reboot-uefi_0.0.1_all.deb.torrent",
-    "Pkgname": "reboot-uefi",
-    "Author": "shy <1658347525@qq.com>",
-    "Contributor": "shy <1658347525@qq.com>",
-    "Website": "https://space.bilibili.com/365755968?spm_id_from=333.337.0.0",
-    "Update": "2022-12-27 20:48:48",
-    "Size": "2 KB",
-    "More": "没有在非uefi平台测试过..\n 需要使用systemd(没有写在依赖项)\n 参考https://linux.cn/article-15361-1.html\n 运行ps --no-headers -o comm 1检查自己是否使用systemd(包括deepin在内的大多数发行版使用)\n 本质是运行systemctl reboot --firmware-setup",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/6c0e1a5aef104c87856404fafd58836a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/27/33dc74f16e8847e0bfb4c98651966a1e.png"
 }
 ,
 {
