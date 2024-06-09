@@ -643,20 +643,6 @@
 }
 ,
 {
-   "Name":"一只二维码",
-   "Version":"1.1",
-   "Filename":"top.yzzi.onecuter_1.1_amd64.deb",
-   "Pkgname":"top.yzzi.onecuter",
-   "Author":"一只科技菌",
-   "Contributor":"一只科技菌",
-   "Website":"https://blog.yzzi.top",
-   "Update":"2020-08-08 11:00",
-   "Size":"282.28KB",
-   "More":"一个可爱风格的二维码生成器"
-}
-
-,
-{
     "Name": "国泰君安富易（UOS版）",
     "Version": "1.1.1221",
     "Filename": "com.gtja.richeasy_1.1.1221_amd64.deb",
@@ -672,6 +658,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/68726ade7bc74b8e8d2053a887eaed3b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/0e46c641a63d4e9897eb59f8ea6ffc91.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/970d7c5842a64155b8fa3e7695268c0e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/31/7333c0e6d9384d24928a21abf63dc582.png"
 }
+,
+{
+   "Name":"一只二维码",
+   "Version":"1.1",
+   "Filename":"top.yzzi.onecuter_1.1_amd64.deb",
+   "Pkgname":"top.yzzi.onecuter",
+   "Author":"一只科技菌",
+   "Contributor":"一只科技菌",
+   "Website":"https://blog.yzzi.top",
+   "Update":"2020-08-08 11:00",
+   "Size":"282.28KB",
+   "More":"一个可爱风格的二维码生成器"
+}
+
 ,
 {
     "Name": "SweetHome3D",

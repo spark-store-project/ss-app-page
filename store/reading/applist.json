@@ -152,23 +152,6 @@
 }
 ,
 {
-    "Name": "京东读书",
-    "Version": "1.12.2spark0",
-    "Filename": "com.jd.jdreader.spark_1.12.2spark0_i386.deb",
-    "Torrent_address": "com.jd.jdreader.spark_1.12.2spark0_i386.deb.torrent",
-    "Pkgname": "com.jd.jdreader.spark",
-    "Author": "京东",
-    "Contributor": "shenmo",
-    "Website": "https://e.jd.com/",
-    "Update": "2022-09-07 17:34:30",
-    "Size": "270.82 MB",
-    "More": "京东读书pc客户端--畅快阅读，凡有所学，皆成性格\n\n说明：\n1.基于spark-wine7-devel打包，现在可以操作托盘，降低了包体积\n2.在配置容器时，发现只有在winecfg里把“允许窗口管理器控制窗口”关闭，应用的相关设置菜单才可以正常显示，副作用就是应用窗口最小化不能显示在任务栏上，只能单独缩小窗口到屏幕左下方，双击后可恢复应用窗口\n3.应用的笔记功能异常，可显示光标，但无法输入文字内容，解决办法：可在笔记窗口通过右键随意粘贴内容保存，然后再次修改笔记就可以正常输入文字",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/07/0df790d0-2e90-11ed-8816-7b6ae142cee7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/07/0e0154d0-2e90-11ed-8816-7b6ae142cee7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/07/0e0350a0-2e90-11ed-8816-7b6ae142cee7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/07/013237b0-2e90-11ed-8816-7b6ae142cee7.png"
-}
-,
-{
     "Name": "番茄免费小说",
     "Version": "6.0.3.32",
     "Filename": "uengine-dc-com.dragon.read_6.0.3.32_all.deb",
@@ -183,6 +166,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/2089205fd2514e6daa8e8cc48fe525d6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/0c00dffc0f4048809835dc0bf1dddbaf.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/dd23ed12b42b410b9812bf1997e2b7f3.png"
+}
+,
+{
+    "Name": "京东读书",
+    "Version": "1.12.2spark0",
+    "Filename": "com.jd.jdreader.spark_1.12.2spark0_i386.deb",
+    "Torrent_address": "com.jd.jdreader.spark_1.12.2spark0_i386.deb.torrent",
+    "Pkgname": "com.jd.jdreader.spark",
+    "Author": "京东",
+    "Contributor": "shenmo",
+    "Website": "https://e.jd.com/",
+    "Update": "2022-09-07 17:34:30",
+    "Size": "270.82 MB",
+    "More": "京东读书pc客户端--畅快阅读，凡有所学，皆成性格\n\n说明：\n1.基于spark-wine7-devel打包，现在可以操作托盘，降低了包体积\n2.在配置容器时，发现只有在winecfg里把“允许窗口管理器控制窗口”关闭，应用的相关设置菜单才可以正常显示，副作用就是应用窗口最小化不能显示在任务栏上，只能单独缩小窗口到屏幕左下方，双击后可恢复应用窗口\n3.应用的笔记功能异常，可显示光标，但无法输入文字内容，解决办法：可在笔记窗口通过右键随意粘贴内容保存，然后再次修改笔记就可以正常输入文字",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/07/0df790d0-2e90-11ed-8816-7b6ae142cee7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/07/0e0154d0-2e90-11ed-8816-7b6ae142cee7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/07/0e0350a0-2e90-11ed-8816-7b6ae142cee7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/07/013237b0-2e90-11ed-8816-7b6ae142cee7.png"
 }
 ,
 {
@@ -486,6 +486,20 @@
 }
 ,
 {
+   "Name":"saladict-desktop",
+   "Version":"1.0.0-14",
+   "Filename":"saladict-desktop_1.0.0_amd64.deb",
+   "Pkgname":"saladict-desktop",
+   "Author":"zenghongtu",
+   "Contributor":"anima",
+   "Website":"https://github.com/zenghongtu/saladict-desktop/",
+   "Update":"2020-09-02 08:18",
+   "Size":"49.09MB",
+   "More":"基于crimxext-saladict，聚合了 N 多词典的桌面翻译与划词工具，功能强大，支持 Windows 、 Mac 和 Linux。"
+}
+
+,
+{
     "Name": "ePUBee电子书管理器（wine）",
     "Version": "2.0.8.1021spark1",
     "Filename": "com.epubee.spark_2.0.8.1021spark1_i386.deb",
@@ -500,20 +514,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/08/88904550-3908-11eb-a40f-89c5dde8e550.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/08/8e1c40f0-3908-11eb-a40f-89c5dde8e550.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/08/7c80a7a0-3908-11eb-a40f-89c5dde8e550.png"
 }
-,
-{
-   "Name":"saladict-desktop",
-   "Version":"1.0.0-14",
-   "Filename":"saladict-desktop_1.0.0_amd64.deb",
-   "Pkgname":"saladict-desktop",
-   "Author":"zenghongtu",
-   "Contributor":"anima",
-   "Website":"https://github.com/zenghongtu/saladict-desktop/",
-   "Update":"2020-09-02 08:18",
-   "Size":"49.09MB",
-   "More":"基于crimxext-saladict，聚合了 N 多词典的桌面翻译与划词工具，功能强大，支持 Windows 、 Mac 和 Linux。"
-}
-
 ,
 {
     "Name": "eSearch",
@@ -869,19 +869,19 @@
 ,
 {
     "Name": "凤凰学业",
-    "Version": "1.0.0",
-    "Filename": "web-yfhxya_1.0.0_all.deb",
-    "Torrent_address": "web-yfhxya_1.0.0_all.deb.torrent",
+    "Version": "1.0.1",
+    "Filename": "web-yfhxya_1.0.1_all.deb",
+    "Torrent_address": "web-yfhxya_1.0.1_all.deb.torrent",
     "Pkgname": "web-yfhxya",
     "Author": "菰城鸥鹭",
     "Contributor": "菰城鸥鹭",
-    "Website": "https://gitee.com/YFHXYA_personal/web/",
-    "Update": "2023-11-13 21:57:02",
-    "Size": "56.56 KB",
-    "More": "使用火星网页打包工具打包，纯静态html，基于Gitee page服务，提供免费的学习资源，该项目会持续更新与优化。开源地址：https://gitee.com/YFHXYA_personal/web/",
-    "Tags": "uos;deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/13/3d343e70-822c-11ee-b421-87a7677c72a6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/13/3f0c0bb0-822c-11ee-b421-87a7677c72a6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/13/4082f440-822c-11ee-b421-87a7677c72a6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/13/35b880c0-822c-11ee-b421-87a7677c72a6.png"
+    "Website": "https://www.yfhxya.cn/",
+    "Update": "2024-06-07 09:54:06",
+    "Size": "56.54 KB",
+    "More": "使用星火网页打包工具打包，提供免费的学习资源，该项目会持续更新与优化。开源地址：https://gitee.com/YFHXYA_personal/web/",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/b2939f1d0ae64a9c8c19863ed49dd9fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/ae944b1c95f1451ea0bd59941c708e09.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/9a0f32aa5ef845bba73c89eb5b9ab54b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/3bac8484aaee472086430870c06c8089.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/07/6ebdb075d4544b34ba9d79fe825ae283.png"
 }
 ,
 {

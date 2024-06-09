@@ -4239,6 +4239,23 @@ SHA512: 68da8ed49d160c574fda41309a33e23499461d8a7c5854131e140e6f72181f80a8aee382
 Description: Pot App
  A cross-platform text translation and ocr software
 
+Package: lemonlime
+Architecture: amd64
+Version: 0.3.4
+Priority: optional
+Section: devel
+Maintainer: Coelacanthus
+Installed-Size: 32020
+Depends: qtbase5-dev, qttools5-dev
+Filename: tools/lemonlime/lemonlime_0.3.4_amd64.deb
+Size: 15183530
+MD5sum: c3b2350be26edd3673da47e5514e83d4
+SHA1: 4ed7469f751d59c68cfd5ba5fee36ecc812fa71f
+SHA256: 8438dfa96bd63466c551e8f6195178ae30c3ee3acbd21a86d344fcd8d919d064
+SHA512: a3cf0c13eb79f832a215fdabd46102e298ce3c812eba223f2164f51b9f2e6991cfe272ab0b43a6d5516cf4a971c0ab20a6b709036386c2ca98cf0ad46d6de7b5
+Homepage: https://github.com/Project-LemonLime/Project_LemonLime
+Description: A tiny judging environment for OI contest based on Lemon + LemonPlus.
+
 Package: mac-superdrive
 Architecture: all
 Version: 20220407~spark1
@@ -6733,6 +6750,23 @@ SHA512: a785915ea366d77f4c68ab70f36deebbafb779b65998a0dd78849eab3a4acb1b4b10785a
 Homepage: [https://gitee.com/gfdgd-xi/uengine-runner, https://github.com/gfdgd-xi/uengine-runner]
 Description: UEngine 运行器，此包只做升级过渡使用
 
+Package: com.gitee.xinghuo.clock
+Architecture: amd64
+Version: 1.5-20240517
+Priority: optional
+Section: devel
+Maintainer: 夜行者
+Installed-Size: 156
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6 (>= 6.6.0), libqt6gui6 (>= 6.4.0), libqt6multimedia6 (>= 6.6.1), libqt6widgets6 (>= 6.3.0), libstdc++6 (>= 5), deepin-elf-verify (>= 1.1.10-1)
+Filename: tools/com.gitee.xinghuo.clock/com.gitee.xinghuo.clock_1.5-20240517_amd64.deb
+Size: 55490
+MD5sum: 3bc4fffb87c9d8cf3b230b021e697015
+SHA1: d15b620c89daea00d2cab54dd97eafb5a6e93b5a
+SHA256: 5f6c74ebec7c3248bb90966917ccb7bd8a479d46a7f3d6df2d973541bc5dc7a6
+SHA512: ba0d6ba83b2237126f6f3880c0e0d0e11a231bd302c4623da3d205ee77f8acf5c73d90d42049be0e08566e22a34b65e6e51b3eb1c75be68bede323d083e72a12
+Homepage: https://gitee.com/xinghuowangluo/clockwidget
+Description: 时钟大师 时钟大师; . Build for Deepin23 through spark-deb-build.
+
 Package: deepin-prime
 Architecture: amd64
 Version: 1.0.3
@@ -6803,19 +6837,19 @@ Description: CPU-Z for dwine6
 
 Package: com.xunidianlu.deepin
 Architecture: all
-Version: 6.0
+Version: 6.0spark1
 Multi-Arch: foreign
 Priority: optional
 Section: non-free/otherosfs
-Maintainer: wang
-Installed-Size: 8742
-Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
-Filename: tools/com.xunidianlu.deepin/com.xunidianlu.deepin_6.0_all.deb
-Size: 8749872
-MD5sum: 47a95e0f84ed44d4a008990acbeec630
-SHA1: 73c35ba8ecc25d47c951e11df273cc40c9b356d1
-SHA256: 70f4621787d5e77b2035ae1f94f066559d843f78cb5e75debabf324bf7858f7c
-SHA512: b5279214ba8a8c99d1d21d707fe1ae0feb9d6842e11c88c9412693427ac93eb7509a9deca226d07a3e8c875058a4b45c168c7ff9d0f8db7f6dc223b20e6bf0a0
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 12342
+Depends: deepin-wine6-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: tools/com.xunidianlu.deepin/com.xunidianlu.deepin_6.0spark1_all.deb
+Size: 12349828
+MD5sum: 656982b747f686857880018d0d74afeb
+SHA1: 2cb9ff9c5fd85c9a9dfcd41306999d07cfa2966a
+SHA256: 0655115a75cc73b157f9a0305f59b358cb99c4c992192c6ac9bc88a79fe41448
+SHA512: e5718aeb435d85f449fed9dfd98a63f9c2b181e8d69aca0bb803bd9308807a1844f6b4b965fcf316cf7ebb3af14d8047ed75aabe4154322a32cb09d3fe88d9f7
 Description: .为中学物理电路仿真模拟（虚拟）软件，能象真实实验一样随意连接试验元件和导线，支持任意结构的单电源串联并联电路以及各种复杂电路实验的仿真模拟，有先进的画标准电路图功能，有多种强大而体贴的功能，是中学物理电路教学与学习的好工具，能增强中学生学习兴趣和效率，也可用于启蒙教育或作益智游戏。
 
 Package: linuxqq-autoservice
@@ -8199,22 +8233,22 @@ Description: A simple clock floating on other windows.
 
 Package: spark-deepin-wine-runner
 Architecture: all
-Version: 3.9.0
+Version: 3.9.1
 Priority: optional
 Section: utils
 Maintainer: gfdgd xi <3025613752@qq.com>
-Installed-Size: 192312
+Installed-Size: 192316
 Provides: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
-Depends: python3, python3-pil, python3-pil.imagetk, python3-pyquery, aria2, curl, unrar | unrar-free , unzip, python3-requests, python3-pyqt5, python3-psutil, xfce4-terminal | deepin-terminal | mate-terminal | gnome-terminal, python3-dbus, python3-pip, p7zip-full (<< 16.02+transitional.1) | p7zip-legacy (>= 16.02+dfsg-8+Mejituu-2024022216), sudo, python3-pyperclip, bubblewrap, zenity, tree, dpkg, fakeroot
+Depends: python3, python3-pil, python3-pil.imagetk, python3-pyquery, aria2, curl, unrar | unrar-free , unzip, python3-requests, python3-pyqt5, python3-psutil, xfce4-terminal | deepin-terminal | mate-terminal | gnome-terminal, python3-dbus, python3-pip, p7zip-full | p7zip-legacy, sudo, python3-pyperclip, bubblewrap, zenity, tree, dpkg, fakeroot
 Recommends: winbind, wimtools, python3-pyqt5.qtwebengine, binfmt-support, libc6:i386, libc6:armhf, libwine, qemu-system, qemu-full, alien
 Conflicts: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
 Replaces: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
-Filename: tools/spark-deepin-wine-runner/spark-deepin-wine-runner_3.9.0_all.deb
-Size: 53954720
-MD5sum: 4e357cba76d6df2db815c893c16b502d
-SHA1: de38fa3f8ff9a4e1e399bcfb44905b84ddfd4c5a
-SHA256: b301f030fa30f5effc4ceb38e369f80a5cf2071fda0cc67514b0ef50a756a673
-SHA512: 3ce04e75321ef3d3533017edccea7d7fa9392315298bc9d99dace24b0a0b660c555a009b9b4e34b46a2c661b0c04f88be735c093d1aefd0bfbc73151078a5f94
+Filename: tools/spark-deepin-wine-runner/spark-deepin-wine-runner_3.9.1_all.deb
+Size: 53950004
+MD5sum: aac1add47e91197f3f118a6cf29123f5
+SHA1: d57802534d7fc637d6807ec0bd081bef0c537b70
+SHA256: aea8bbaeaea54da70bca2634fea2a5fc8951e91361ad5e2350651b53afa44878
+SHA512: 6d907c371567cb508c320e7d69768e75e2cae1e820c3c847da1e92d52fd7d9594cb84058eb90006da8396e05c543f50e5babdbb10a6a5ecbd2ee33a05104a226
 Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
 Description: Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序。原版的 Wine 只能使用命令操作，且安装过程较为繁琐，对小白不友好。于是该运行器为了解决该痛点，内置了对Wine图形化的支持、Wine 安装器、微型应用商店、各种Wine工具、自制的Wine程序打包器、运行库安装工具等。
  它同时还内置了基于Qemu/VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作，也能在非 X86 架构安装 X86 架构的 Windows 操作系统（但是效率较低，可以运行些老系统）。
@@ -8829,16 +8863,16 @@ Description: Reader on Deepin Wine6
 
 Package: web-yfhxya
 Architecture: all
-Version: 1.0.0
+Version: 1.0.1
 Maintainer: 菰城鸥鹭
 Depends: spark-webapp-runtime(>=1.5)
-Filename: reading/web-yfhxya/web-yfhxya_1.0.0_all.deb
-Size: 57916
-MD5sum: 4d5d8492d77a055798b566bfd0133845
-SHA1: 51d1c6867fde78625861fe3b75fa2ac8f52bedf8
-SHA256: 2e40fd4ce5679bc3934ba4b7774503b5a5eaf692136acf811d6d64c5ac5a920a
-SHA512: f7bf812afb9b2282bc223de8b990ba6ef38d885d232904bb8d20f9c7805151c59ca36c89b548ffc06222d1eec9c9e01395a4cbad637b9db7f25a3bfa1f3de9a7
-Description: A webapp of https://yfhxya_personal.gitee.io/web packed by 菰城鸥鹭 using spark webapp runtime
+Filename: reading/web-yfhxya/web-yfhxya_1.0.1_all.deb
+Size: 57896
+MD5sum: 8aa326ad06e80e018d03ecfcd2a0f292
+SHA1: 925e65af66c3ba2f7bbcedf80f6e3046b196564b
+SHA256: 8b5d73ee97fb8d6fa54c49da9a9b4d52178e8021e43e8fa6b6934b999c75fe60
+SHA512: 57a875a18bd5b345a307b28d525fd069257c354eecbe2eb7b9116e6596f15e81c2b7ed88d986969f457e57b77a00eb094980af6413b11fb3b518f24282ce0d1c
+Description: A webapp of https://www.yfhxya.cn packed by 菰城鸥鹭 using spark webapp runtime
 
 Package: esearch
 Architecture: amd64
@@ -13842,6 +13876,23 @@ SHA512: d443d3f350c9756390ef048d08a5b5d7fbbfc4ac05c42677a412b1279e868fe751d8fc85
 Description: Eagle on Wine6
  Eagle 可以轻松收集及整理设计项目的“案例、灵感、截图、图片、视频、音频、情绪板”等各种素材，激发更多创意灵感，让工作变得更有效率
 
+Package: com.qnwzjz.deepin
+Architecture: all
+Version: 2.0.0.3deepin0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: wang
+Installed-Size: 42239
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: image_graphics/com.qnwzjz.deepin/com.qnwzjz.deepin_2.0.0.3deepin0_all.deb
+Size: 42248976
+MD5sum: 6eb6556c56c4e1228deef72254486ba1
+SHA1: 43ddf6135861056f62a33c3d271e16bbd0513a50
+SHA256: 0992c9567b7f439171f62364fbd9b6f956fa987b02c4897177653313a9af504c
+SHA512: 1770fdba135d3768d03c98894dc7521c5dde8386e1f48a7050ff22939840e07271564e03fe2114ba0fe32a6a4696d3053dc8432062821e66f6e80ae41e9721fa
+Description: .全能王证件照换底色抠图是一款简单实用的抠图软件，可以帮你一键抠图，轻松换图片背景，用户使用它无需任何专业的抠图技巧，只需要通过软件的功能就能编辑出想要的图片。软件支持一键替换背景，自定义添加背景，可以自由剪切图片，自带多种常用证件格式。支持一键美颜和磨皮。可以进行批量抠图，提高办公效率。
+
 Package: xiuxiu.spark
 Architecture: i386
 Version: 6.4.2.0+1
@@ -17929,6 +17980,21 @@ SHA512: 2fefe3b1c9455d8679904202d7b6b6f3271845ff389b842516d8f2c7ecfc224d4bef8272
 Homepage: https://supertuxkart.net/zh_CN/Main_Page
 Description: SuperTuxKart 是一个具有多种角色、赛道和游戏模式的开源三维赛车游戏
 
+Package: uengine-dc-com.cnvcs.go
+Architecture: all
+Version: 1.37
+Priority: optional
+Section: utils
+Maintainer: 围棋
+Depends: deepin-elf-verify, uengine (>= 1.0.1)
+Filename: games/uengine-dc-com.cnvcs.go/uengine-dc-com.cnvcs.go_1.37_all.deb
+Size: 25551788
+MD5sum: 828a706fe2732aa90ed10f1ffffd0b40
+SHA1: 775883f2647e013d748f89a9057ea8d64b2cd3dd
+SHA256: 98ca0abc81642303a814a61ea92467d167d36e46338a62bdc8a172e9975b35c8
+SHA512: e6bc1b6f19267ba8f4437bce5c2328b0903fef5f5e5e67ea1bd61af4b1719d7ce9f077cea70b0641afb141873b1973d8c44b2b9fd3e73f0aa0aaf7bf98a3a5eb
+Description: 围棋, Build By UEngine Runner Packager
+
 Package: com.duke3d.spark
 Architecture: all
 Version: 1.0spark1
@@ -19380,6 +19446,23 @@ SHA1: 80d7c034bbbc86db25c3d0d352a38e24385ea5f2
 SHA256: 5c6e237d4025cbdf638cd0f5b0564055507983bea1895e2ce83d72e56f7473a3
 SHA512: 5a83abe97260084bbb07e3622e2227a2e40d47b2df8adecda5385be193875c137e629c4e975bef67be55f16d4213571921f45d4e24b2ef689b9df45a0dbc8601
 Description: 大富翁10，支持在线模式，请选择阿土伯服务器
+
+Package: com.xyq.163.deepin
+Architecture: amd64
+Version: 3.0.513deepin8
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: Deepin WINE Team
+Installed-Size: 516069
+Depends: deepin-wine8-stable (>= 8.16-deepin11), deepin-wine-helper (>= 5.3.6-1), fonts-wqy-microhei, deepin-elf-verify (>= 1.1.10-1)
+Filename: games/com.xyq.163.deepin/com.xyq.163.deepin_3.0.513deepin8_amd64.deb
+Size: 528236326
+MD5sum: fcd09edd26cc48d597c7cc3240aaf8f5
+SHA1: d27bf5f8053293858e40620b65dcce884636b229
+SHA256: 0ac1513a8b273a0d0ead5c00b057b7978d587f7659014f014f4cde1322165b2b
+SHA512: 2869b40c5f2f218c03d166f73d4c697729d6aff50681707020525246d8a5c8b4e3618c060e3d8dc32cf5b19c0d9f09e98973cae27813db77aa463fb7b34a5c9d
+Description: 梦幻西游
 
 Package: xboard-xiangqi
 Architecture: all
@@ -21267,6 +21350,21 @@ SHA256: 1f05bbf196ed631c05d38a1fb0cc4c0c654445509276f1177b532f04c843326c
 SHA512: 27d31ae20859356a35eb4976c81a571f099a8e9cdbcff428b10a1fad61e94e1c39df88cc77837eeacf9a2f9cd4ed01871b6b51edbe8b1d304f8162f5906f6907
 Description: Hollow Knight on Deepin Wine6
  一款动画风格的横版闯关游戏
+
+Package: uengine-dc-com.cnvcs.gomoku
+Architecture: all
+Version: 1.52
+Priority: optional
+Section: utils
+Maintainer: 五子棋大师
+Depends: deepin-elf-verify, uengine (>= 1.0.1)
+Filename: games/uengine-dc-com.cnvcs.gomoku/uengine-dc-com.cnvcs.gomoku_1.52_all.deb
+Size: 4833772
+MD5sum: 528d516009e8c53b789a0208158ba624
+SHA1: dc0da58f48f6c80ccc51cf2ca6ec17689ba89aba
+SHA256: 78bd0ff6ac93aa8aa9de1ad211753bfb57d153c2e0ac962dd174309cad04732e
+SHA512: 705cce49d8fc7a57319a3983722fd3d661dd1125687b06256834b44ecc94ffe2dd29778c22f95e5a169d6ec034d7152c763f8b63a4bb4631fae3b271c25c7384
+Description: 五子棋大师, Build By UEngine Runner Packager
 
 Package: com.github.muan.emoji-minesweeper.web
 Architecture: amd64
@@ -24058,19 +24156,19 @@ Description: 一款可爱简约的Markdown编辑器
 
 Package: aixueshi
 Architecture: amd64
-Version: 1.4.1
+Version: 1.5.0
 Priority: optional
 Section: default
 Maintainer: 江苏乐易智慧科技有限公司
-Installed-Size: 532983
+Installed-Size: 549401
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, deepin-elf-verify (>= 1.1.10-1)
 Recommends: libappindicator3-1
-Filename: office/aixueshi/aixueshi_1.4.1_amd64.deb
-Size: 155171092
-MD5sum: 236b6333c67d8b892c06cd22d26031b6
-SHA1: ea226e4e3166bdf025133576e1391aef52557e04
-SHA256: b5b809657fabc7fff70f8247f4895884dd5af8e7aa14d7a4a61038f8b00a0795
-SHA512: 66e3b4b1cc5c6fe541e2d924d132dc4539bb3204ac0700ee8064bed1437855d21f4240ff94ad6d7f4d49371d086490a81ee09300d17f063ec4cd41cbd9a0685e
+Filename: office/aixueshi/aixueshi_1.5.0_amd64.deb
+Size: 144019558
+MD5sum: e6937cd073423e6152160bdee16c3870
+SHA1: 13c070a6323a82b0bb347a57d38d31edf1517218
+SHA256: b4e20e2e1a06ab2a4de2af3957604f7f8bd790bd66afd345ade479c1fb6d9408
+SHA512: a06e04d142f12e360d959102e74270a2c0f7abe1436cb5ba1d983a79b4e48a99da936aa88d8b5573369da27421470b56b9cfd14f94a7136cf398a4e6c40f2d40
 Homepage: https://www.lyx-edu.com
 Description: .
 License: unknown
@@ -24232,18 +24330,18 @@ Homepagea: https://pinco.seewo.com
 
 Package: com.sogou.sogoupinyin-deepin-sogouvoice
 Architecture: all
-Version: 1.0.0
+Version: 1.0.1
 Priority: optional
 Section: utils
 Maintainer: Sogou IME Team <LinuxImeDev@sogou-inc.com>
-Installed-Size: 920812764
-Depends: com.sogou.sogoupinyin-deepin, deepin-elf-verify (>= 1.1.1-1)
-Filename: office/com.sogou.sogoupinyin-deepin-sogouvoice/com.sogou.sogoupinyin-deepin-sogouvoice_1.0.0_all.deb
-Size: 920875888
-MD5sum: 069d678ade17b849527f8533d4e037ae
-SHA1: 69e2b4f89c7acccba5461e933bdf96817be06449
-SHA256: 23468e967bbd39297c4b52a4855064aebf92215da2984162d42d32e1f2f72d65
-SHA512: c97cb98aab0bdbaa17188810fb770b4257fdf33a0b52c29617e1f3810a86c845eb00c4e78ae23957b21a535d3f1e359cfff7413d4884ff24aa8defa772daf121
+Installed-Size: 1465640
+Depends: com.sogou.sogoupinyin-deepin, deepin-elf-verify (>= 1.1.10-1)
+Filename: office/com.sogou.sogoupinyin-deepin-sogouvoice/com.sogou.sogoupinyin-deepin-sogouvoice_1.0.1_all.deb
+Size: 920888734
+MD5sum: ac102b2179c0513e6afc38fd0280c5dd
+SHA1: f9b9f0a6a7199282e204ed88ee2ec4a6fa280a21
+SHA256: 1105274bfdf46569b3170c643d9dbabefbe7504a38d53356e5676a8db3a9e99a
+SHA512: 29c0160abc455e51439c380d5e1fcf5dd317d9821eab8c420720fa649fc5762a09db6e20684eeb675c774d8a743b40819b569d6c3538b4aa350771bb6a1663ea
 Homepage: http://pinyin.sogou.com/linux
 Description: 搜狗输入法Deepin版语音数据包
 
@@ -26078,19 +26176,19 @@ Description: danmoshui on Wine
 
 Package: lwleen-file
 Architecture: amd64
-Version: 24.5.20~beta
+Version: 24.6.7~beta
 Priority: optional
 Section: default
 Maintainer: 一切时空过去未来
-Installed-Size: 316778
+Installed-Size: 315596
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: office/lwleen-file/lwleen-file_24.5.20~beta_amd64.deb
-Size: 84503476
-MD5sum: f526084f222f9a5dfc3d45cb53093964
-SHA1: f7eaf7492335f4776ff275b3b3d8b59e6846af09
-SHA256: 0bb041b3928c84ab153ab9b270eee61e78f9de4ef075f87055ef89ba9c9fe671
-SHA512: c87d83cd1e688e834c94e73801fa7f6f7c7bbe2ebef1ea375f067f192775f0128e92230fb196cffb95adc2c8fccf38cb9744a972c4939da8b2da0e3649256978
+Filename: office/lwleen-file/lwleen-file_24.6.7~beta_amd64.deb
+Size: 84066380
+MD5sum: ef667283d2ab1abc1cd610a5b6b4d2bf
+SHA1: fe115fe3a02dbba400939de8a56c5b8f943c0540
+SHA256: c9334ca792da7f35bb0234ef59c3d787b8ccc556049ad9c9407fdce89c7f2b06
+SHA512: 7258d32112fbdd2325fce94f8482699a376e48d239dbfb0c714c1614fab3f98e050fe632bb81fb2c79bff70eccdd81bf9965b5b1e7da3c3fd7c074136f2c3eef
 Homepage: https://gitee.com/lwleen/lwleen-file
 Description: 
   _你好, 文件浏览器
@@ -26539,18 +26637,18 @@ Vendor: huawei <huaweicloudmeeting@huawei.com>
 
 Package: com.sogou.sogoupinyin-deepin-tadict
 Architecture: all
-Version: 1.0.0
+Version: 1.0.1
 Priority: optional
 Section: utils
 Maintainer: Sogou IME Team <LinuxImeDev@sogou-inc.com>
-Installed-Size: 176477872
-Depends: com.sogou.sogoupinyin-deepin, deepin-elf-verify (>= 1.1.1-1)
-Filename: office/com.sogou.sogoupinyin-deepin-tadict/com.sogou.sogoupinyin-deepin-tadict_1.0.0_all.deb
-Size: 171790600
-MD5sum: 8e41e2576f2f19c05499704ef0d6a762
-SHA1: fd6cd668e11697c787b49102b32df01ea77425ba
-SHA256: 8597a5a4831710df9c00b11b4b5f5cb4ae38453ec1a2899d64f95d0c5200f5e2
-SHA512: 89cc7b89264706b49721075e61172b4980eca6bc3adb16a1eae52711e6b9ab2c34e9e13bdb6e3cef0b8cd18bcff79aa03feb09edd55ed687997d2618dd78744c
+Installed-Size: 332220
+Depends: com.sogou.sogoupinyin-deepin, deepin-elf-verify (>= 1.1.10-1)
+Filename: office/com.sogou.sogoupinyin-deepin-tadict/com.sogou.sogoupinyin-deepin-tadict_1.0.1_all.deb
+Size: 171795238
+MD5sum: 8821bff0d7663f55e589a8f842122b19
+SHA1: a6632cc81f895aaa7f25197af1a80c96864ebb65
+SHA256: ffedbd6316c4bf02524ea659120c82d7b8280e641fc559e486ffa3b9059dae62
+SHA512: b6a728c906bdbe34c6611e0c54ea97373c0a0999a7991e4504e5322a84c4e124ce7fb2f7b0d3e07409cf07d69c4004f3082f80c28f0f92260d809fb88342ff44
 Homepage: http://pinyin.sogou.com/linux
 Description: 搜狗输入法Deepin版小语种
 
@@ -27030,6 +27128,23 @@ SHA512: 76bd0df938f97567a5f489d80d2f03ccd8e27e45d8c73d3744931078719ca036fdc3c445
 Homepage: http://www.wjjsoft.com/
 Description: Mybase is a unique free-form database program for data, information and knowledge management running on Linux/macOS/Windows desktop/tablet PCs.
 
+Package: com.xunersi.online.deepin
+Architecture: amd64
+Version: 9.88.0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: Deepin WINE Team
+Installed-Size: 357082
+Depends: deepin-wine8-stable (>= 8.16-deepin11), deepin-wine-helper (>= 5.3.6-1), fonts-wqy-microhei, deepin-elf-verify (>= 1.1.10-1)
+Filename: office/com.xunersi.online.deepin/com.xunersi.online.deepin_9.88.0_amd64.deb
+Size: 365506090
+MD5sum: 809c69a46a2233bf4ca7af7da6fbf9fc
+SHA1: 1d47c86eb7a2c4f204f8b02821799db471e29d8d
+SHA256: a75b3b5d04403ff249dea13ef58eff75ef34404a8a95fa8c9b6f7d8633135a5a
+SHA512: fb0d3fda371c5cc3cee3ad5035a4242828b6358878720f196f03adecdfdbdce8d80a65d2d87ad678b392847f669610ef58f9e799b71ed0202f57b5efeb402067
+Description: Wine application: com.xunersi.online.deepin
+
 Package: com.ccnew.client.spark
 Architecture: all
 Version: 2.292deepin6
@@ -27435,18 +27550,18 @@ Description: w已知问题：1.日志可以复制粘贴；2.主题必须选择wi
 
 Package: com.sogou.sogoupinyin-deepin-sogouhw
 Architecture: all
-Version: 1.0.0
+Version: 1.0.1
 Priority: optional
 Section: utils
 Maintainer: Sogou IME Team <LinuxImeDev@sogou-inc.com>
-Installed-Size: 182119520
-Depends: com.sogou.sogoupinyin-deepin, deepin-elf-verify (>= 1.1.1-1)
-Filename: office/com.sogou.sogoupinyin-deepin-sogouhw/com.sogou.sogoupinyin-deepin-sogouhw_1.0.0_all.deb
-Size: 182172592
-MD5sum: 5ca967222b8cc03610e8ed84d4072d71
-SHA1: 9f913309ab5e35c0a064ed6649dc6b0d2cf38967
-SHA256: fe9980bb9ef83bb5898968b19b672d2f662c9396dea55e38b8c5df7c6ca9a996
-SHA512: 1b91eafec6e1dbcdc321163003927493674a69b04a2673484b09965926070ea86e700465573d196ca194d0619a82a47accec834ed032eac0e03f28d6ba1d4648
+Installed-Size: 370024
+Depends: com.sogou.sogoupinyin-deepin, deepin-elf-verify (>= 1.1.10-1)
+Filename: office/com.sogou.sogoupinyin-deepin-sogouhw/com.sogou.sogoupinyin-deepin-sogouhw_1.0.1_all.deb
+Size: 182219910
+MD5sum: 03578e012030a4149d342e9e164de47e
+SHA1: 6b7ee5ec44fe5ae06db1b1b88d64ea6372329bc6
+SHA256: 3c2698b0603b57b077e38558f41bc883b0c1a034cb9092b422bdf32cd57390ff
+SHA512: 03de8d5efea623b7d002f966e31d7d7dbc5e2c6d115f639660f6c0fabda3bb9792a159c7414ebc7530c43f8902b87e6ad0d0861f1aeb78dbdf07d521c4ab1068
 Homepage: http://pinyin.sogou.com/linux
 Description: 搜狗输入法Deepin版手写
 
@@ -31070,6 +31185,23 @@ Homepage: https://handbrake.fr/
 Description: versatile DVD ripper and video transcoder (GTK+ GUI)
  HandBrake is a versatile, easy-to-use tool for converting DVDs and other videos into H.264, XViD, or Ogg formatted media. It's particularly useful for making videos that are compatible with portable video devices such as the Apple iPod/iPhone or Sony PSP. This package contains the graphical variant, ghb.
 
+Package: com.bilibili.uploader.deepin
+Architecture: all
+Version: 2.3.0.1097spark0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 125056
+Depends: deepin-wine6-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: video/com.bilibili.uploader.deepin/com.bilibili.uploader.deepin_2.3.0.1097spark0_all.deb
+Size: 125073092
+MD5sum: d0ce6c4d6d5b2ffc372fa4b64a91f97f
+SHA1: d70feaeae5de87efe00aebd0c04c6f0ca62725b7
+SHA256: c82dd1eb38a224360a711c4fa373edfaf660e24734c553392cf80a2d82721317
+SHA512: 62ce38940295a0a5f355ee17eaec1753336ba17a96c17bb523f3d05af580afce3009b6bfd85fadfeb17f072bb27c62fc83acff1d30b87d086a457ad71c288e53
+Description: bilibili投稿工具是哔哩哔哩动画推出的官方投稿工具，up主们都在用b站投稿工具，相比网页上传投稿视频官方投稿工具上传起来更快速稳定
+
 Package: uengine-dc-com.ay293.app
 Architecture: amd64
 Version: 5.7
@@ -31564,6 +31696,22 @@ SHA1: 124f501404bc4be082466482a35c87bcccc5dc13
 SHA256: 207e30b0d7816166fa857b6a9c340a03f850f0c20ad57c2dbc19191ba3768c4e
 SHA512: 901531dfd1ee9fd219d6e7bbf0e136dde4abeeb59c12f1f007cf1f305cfe7b7ba90b9e217ff2d284f61e79d88f33f7836b221c82552f148e41dc7f2becceaf3e
 Description: Package Description
+
+Package: biliup-app
+Architecture: amd64
+Version: 0.5.2
+Priority: optional
+Maintainer: you
+Installed-Size: 20804
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: video/biliup-app/biliup-app_0.5.2_amd64.deb
+Size: 7562880
+MD5sum: 25ea0fd7679ff6d91a08958c47653d34
+SHA1: 49c8b6269e7ef0ee5100c7f0d944dc9ce5574a2a
+SHA256: 729467227191f51558c2b732e237550e1f77cacfbe376c38136f9ae2913240b9
+SHA512: 44a2c90e30038c6b4378decbbaa0e346921c53e421836e0b89356b5b9291415d4b84d5718ea1cc84b22e200d1a18170e4e2edf3463810024e181847c7c7f9692
+Description: A Tauri App
+ (none)
 
 Package: uengine-dc-com.smile.gifmaker
 Architecture: all
@@ -34729,21 +34877,21 @@ Description: Tencent QQ Client on Deepin Wine5
 
 Package: bytedance-feishu-stable
 Architecture: amd64
-Version: 6.9.20-0
+Version: 7.15.13-0
 Priority: optional
 Section: default
 Maintainer: Feishu Linux Team <contact@feishu.cn>
-Installed-Size: 1569328
+Installed-Size: 1635708
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: ca-certificates, libc6 (>= 2.18), libgcc1 (>= 1:3.0), libnss3 (>= 3.14), libx11-6 (>= 2:1.4.99.1), libxcb1, libxext6, xdg-utils (>= 1.0.2)
 Recommends: libu2f-udev, libvulkan1
 Replaces: bytedance-feishu-alpha, bytedance-feishu-beta, bytedance-feishu-dev, bytedance-feishu-release
-Filename: chat/bytedance-feishu-stable/bytedance-feishu-stable_6.9.20-0_amd64.deb
-Size: 333246056
-MD5sum: 15e6a11663ae94ebddf4a591d6678675
-SHA1: a4af30821ab63a73fd52378b0063a6c0b1124816
-SHA256: 920e63fef59a0815239c5f7cde493464c27e8a7179cf972d103f7e213b889fde
-SHA512: 25cc363515dc402bc2394fb3c88e3672d2d85dc18a8864951974e038f1fddc2fa629e7bdf9d0c2d1d3d847123c546af30f575ab83f1509b413e46a2bd5469740
+Filename: chat/bytedance-feishu-stable/bytedance-feishu-stable_7.15.13-0_amd64.deb
+Size: 376508724
+MD5sum: 046d4a4699ef4601ebe1d5abbef33a3a
+SHA1: bcd25895e70769f4be1a66e9f5512e83c69d3048
+SHA256: 0b242640a7f261c5aaa6dcb92f14cdaa6ef70159cf766edb881c080a46c111ca
+SHA512: ecccca1539d30524c64e4c29ca99630aa57c23708683c8a4bf49c8d81b9e39c9357a6b194763b0dee39fe6a4b6afffbcd44bc73422ec61a2eabe60441f5821a6
 Description: 飞书(Feishu)
  飞书整合即时消息、日历、音视频会议、云文档、工作台等功能于一体，成就团队和个人，更高效、更愉悦。
 
@@ -34815,21 +34963,21 @@ Description: 赣政通 wine
 
 Package: bytedance-lark-stable
 Architecture: amd64
-Version: 6.9.20-0
+Version: 7.15.13-0
 Priority: optional
 Section: default
 Maintainer: Lark Linux Team <contact@larksuite.com>
-Installed-Size: 1596282
+Installed-Size: 1638802
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: ca-certificates, libc6 (>= 2.18), libgcc1 (>= 1:3.0), libnss3 (>= 3.14), libx11-6 (>= 2:1.4.99.1), libxcb1, libxext6, xdg-utils (>= 1.0.2)
 Recommends: libu2f-udev, libvulkan1
 Replaces: bytedance-lark-alpha, bytedance-lark-beta, bytedance-lark-dev, bytedance-lark-release
-Filename: chat/bytedance-lark-stable/bytedance-lark-stable_6.9.20-0_amd64.deb
-Size: 332307960
-MD5sum: 8ca4d9deac8e0686137d431b0b141888
-SHA1: c2f26a70b064e49399efb28c11c8466c03ba962d
-SHA256: ff88eb1fdf4ba583a71939ca9fab992306dfa4a796a64d5be81344652d935984
-SHA512: b7ab17e8a5a6db8c49804ea60819cd11b16f8b5eb30d85d0a9c44cdbf1480150fc52e3e8fd9dfdd062e7ea95d0b1f6595c0e42c27dfbef3b5d442a39165d6146
+Filename: chat/bytedance-lark-stable/bytedance-lark-stable_7.15.13-0_amd64.deb
+Size: 376748176
+MD5sum: ead9e42b8b42566be7d72832e67d34a5
+SHA1: a11460a60ea85e0112234a3306f66c91b7d4781e
+SHA256: 6984cbcfdf0235646fe5df5816ff2bc94a58caec3ad72105bc3c9446af1599fd
+SHA512: e40981082708d3d05398145663e596a5c0722ce524891c145077a81c856c69534b7fc1bcf0f7176cb20f33ed774e6627591ac373471d4a507dc5593563454b46
 Description: Lark
  Lark is a next-generation office suite that integrates messaging, schedule management, collaborative documents, video meeting, and various apps in one platform.
 

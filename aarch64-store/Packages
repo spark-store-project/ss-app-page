@@ -3968,6 +3968,23 @@ SHA256: 35d39516dfc88e0e69159fb8495bf95697b8062f685bc0bc061a32117ce2d805
 SHA512: d27a756fae1847fb0bdceb0a9f2bf495c0a54d2885295f480b82d8c82b87db6837213b0b904aad64b7cf882ed1b97711d6e8a55a55c2ea61469e575328538d01
 Description: WPS 看图 For Deepin Wine 6
 
+Package: com.qnwzjz.deepin
+Architecture: all
+Version: 2.0.0.3deepin0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: wang
+Installed-Size: 42239
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: image_graphics/com.qnwzjz.deepin/com.qnwzjz.deepin_2.0.0.3deepin0_all.deb
+Size: 42248976
+MD5sum: 6eb6556c56c4e1228deef72254486ba1
+SHA1: 43ddf6135861056f62a33c3d271e16bbd0513a50
+SHA256: 0992c9567b7f439171f62364fbd9b6f956fa987b02c4897177653313a9af504c
+SHA512: 1770fdba135d3768d03c98894dc7521c5dde8386e1f48a7050ff22939840e07271564e03fe2114ba0fe32a6a4696d3053dc8432062821e66f6e80ae41e9721fa
+Description: .全能王证件照换底色抠图是一款简单实用的抠图软件，可以帮你一键抠图，轻松换图片背景，用户使用它无需任何专业的抠图技巧，只需要通过软件的功能就能编辑出想要的图片。软件支持一键替换背景，自定义添加背景，可以自由剪切图片，自带多种常用证件格式。支持一键美颜和磨皮。可以进行批量抠图，提高办公效率。
+
 Package: com.zwsoft.zwcadm2023
 Architecture: arm64
 Version: 23.2.3.4

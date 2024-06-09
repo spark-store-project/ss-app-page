@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="uengine-dc-com.cnvcs.go_1.37_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">828a706fe2732aa90ed10f1ffffd0b40</hash>
+				  
+				<hash type="sha1">775883f2647e013d748f89a9057ea8d64b2cd3dd</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/games/uengine-dc-com.cnvcs.go/uengine-dc-com.cnvcs.go_1.37_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/uengine-dc-com.cnvcs.go/uengine-dc-com.cnvcs.go_1.37_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/uengine-dc-com.cnvcs.go/uengine-dc-com.cnvcs.go_1.37_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/uengine-dc-com.cnvcs.go/uengine-dc-com.cnvcs.go_1.37_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/uengine-dc-com.cnvcs.go/uengine-dc-com.cnvcs.go_1.37_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/uengine-dc-com.cnvcs.go/uengine-dc-com.cnvcs.go_1.37_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

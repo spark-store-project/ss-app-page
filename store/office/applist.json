@@ -595,19 +595,19 @@
 ,
 {
     "Name": "搜狗输入法Deepin版语言数据包",
-    "Version": "1.0.0",
-    "Filename": "com.sogou.sogoupinyin-deepin-sogouvoice_1.0.0_all.deb",
-    "Torrent_address": "com.sogou.sogoupinyin-deepin-sogouvoice_1.0.0_all.deb.torrent",
+    "Version": "1.0.1",
+    "Filename": "com.sogou.sogoupinyin-deepin-sogouvoice_1.0.1_all.deb",
+    "Torrent_address": "com.sogou.sogoupinyin-deepin-sogouvoice_1.0.1_all.deb.torrent",
     "Pkgname": "com.sogou.sogoupinyin-deepin-sogouvoice",
     "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Website": "http://pinyin.sogou.com/linux",
-    "Update": "2023-03-16 21:41:20",
-    "Size": "878.22 MB",
+    "Update": "2024-06-08 11:51:25",
+    "Size": "878.23 MB",
     "More": "搜狗输入法Deepin版使用语音功能，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一。",
-    "Tags": "deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/84a569fe2e074f81881b3d03367c1770.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/3c5ab41b2fee4004874acbd0834f2c50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/b456c882955742a39341d501a2dfb554.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/39aeab5f2f4d45878aa061a0f72e93aa.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/16/0a81e7af3f494ae69c5631c1f5301108.png"
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/316931471f8844bda875a8a975f7e4cc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/5307b53e4b8f43a9a7409f1348706720.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/6b6dc46377604ca793ec8ba8778288f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/1ca520557d35414e8c6a634fff19c137.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/e52ca01ef59444328b44f1c57e03b4a9.png"
 }
 ,
 {
@@ -738,23 +738,6 @@
 }
 ,
 {
-    "Name": "Geogebra Classic 6",
-    "Version": "6.0.666.0-202109211234",
-    "Filename": "geogebra-classic_6.0.666.0-202109211234_amd64.deb",
-    "Torrent_address": "geogebra-classic_6.0.666.0-202109211234_amd64.deb.torrent",
-    "Pkgname": "geogebra-classic",
-    "Author": "International GeoGebra Institute <office@geogebra.org>",
-    "Contributor": "老於",
-    "Website": "http://www.geogebra.org/",
-    "Update": "2023-01-20 12:07:24",
-    "Size": "66.23 MB",
-    "More": "GeoGebra 是适用于所有教育阶段的动态数学软件, 它将几何、代数、表格、图形、统计和微积分汇集在一个易于使用的软件包中. GeoGebra 是一个快速扩展的社区, 拥有数以百万计的用户, 分布在几乎每个国家. GeoGebra 已成为全球领先的动态数学软件提供商, 支持科学、技术、工程和数学 (STEM) 教育以及教学和学习创新.",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/20428fa065fa46b18827d816b9a52004.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/e30b32bff60047839cbd102d0166e5a8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/84ad4687c3404358b17a5881a237069b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/20/cd96ac2bfd5840008355dd6c4f17eb64.png"
-}
-,
-{
     "Name": "office2013",
     "Version": "15.0.0",
     "Filename": "spark-office_15.0.0_all.deb",
@@ -769,6 +752,23 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/351d3430-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3528a5e0-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3534dae0-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/353cca20-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3a7b6910-c561-11ee-9bdf-11b9ca480f15.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/07/41a201e0-c561-11ee-9bdf-11b9ca480f15.png"
+}
+,
+{
+    "Name": "Geogebra Classic 6",
+    "Version": "6.0.666.0-202109211234",
+    "Filename": "geogebra-classic_6.0.666.0-202109211234_amd64.deb",
+    "Torrent_address": "geogebra-classic_6.0.666.0-202109211234_amd64.deb.torrent",
+    "Pkgname": "geogebra-classic",
+    "Author": "International GeoGebra Institute <office@geogebra.org>",
+    "Contributor": "老於",
+    "Website": "http://www.geogebra.org/",
+    "Update": "2023-01-20 12:07:24",
+    "Size": "66.23 MB",
+    "More": "GeoGebra 是适用于所有教育阶段的动态数学软件, 它将几何、代数、表格、图形、统计和微积分汇集在一个易于使用的软件包中. GeoGebra 是一个快速扩展的社区, 拥有数以百万计的用户, 分布在几乎每个国家. GeoGebra 已成为全球领先的动态数学软件提供商, 支持科学、技术、工程和数学 (STEM) 教育以及教学和学习创新.",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/20428fa065fa46b18827d816b9a52004.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/e30b32bff60047839cbd102d0166e5a8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/84ad4687c3404358b17a5881a237069b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/20/cd96ac2bfd5840008355dd6c4f17eb64.png"
 }
 ,
 {
@@ -1231,6 +1231,23 @@
 }
 ,
 {
+    "Name": "搜狗输入法Deepin版小语种",
+    "Version": "1.0.1",
+    "Filename": "com.sogou.sogoupinyin-deepin-tadict_1.0.1_all.deb",
+    "Torrent_address": "com.sogou.sogoupinyin-deepin-tadict_1.0.1_all.deb.torrent",
+    "Pkgname": "com.sogou.sogoupinyin-deepin-tadict",
+    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://pinyin.sogou.com/linux",
+    "Update": "2024-06-08 11:30:34",
+    "Size": "163.84 MB",
+    "More": "搜狗输入法Deepin版输入小语种，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/dd13411376714950b5fbc002063512b1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/0057ea52ee0f41bba60c57237ef24843.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/703ff271c53e45689776b6c9992602b4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/dc403b525cf549fbb182a614d82cc675.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/84290c32c38c40828266fdb3d2aaac87.png"
+}
+,
+{
     "Name": "FlowUs",
     "Version": "1.1.7spark3",
     "Filename": "cn.flowus.spark_1.1.7spark3_all.deb",
@@ -1245,23 +1262,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/11/64af2a6354c947b0ac1143450c01a463.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/11/32947d39a4b34816ae28f33bf1cb1103.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/11/262916dd544f45389321b108aea1dc7e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/11/26edfbd9ad9c423381760c1157da6301.png"
-}
-,
-{
-    "Name": "搜狗输入法Deepin版小语种",
-    "Version": "1.0.0",
-    "Filename": "com.sogou.sogoupinyin-deepin-tadict_1.0.0_all.deb",
-    "Torrent_address": "com.sogou.sogoupinyin-deepin-tadict_1.0.0_all.deb.torrent",
-    "Pkgname": "com.sogou.sogoupinyin-deepin-tadict",
-    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "http://pinyin.sogou.com/linux",
-    "Update": "2023-03-16 21:43:44",
-    "Size": "163.83 MB",
-    "More": "搜狗输入法Deepin版输入小语种，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一",
-    "Tags": "deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/28cf3701d69e4214bec4266cfbaae1f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/75295f85f92c42aea225cc0dee8cfe5a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/1cc19c8f2d6b46fe8dc188438fbe01e8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/f1647724c8ac4e8799bd5802151c1697.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/16/282368b0c3404319a4da29412565f377.png"
 }
 ,
 {
@@ -1349,23 +1349,6 @@
 }
 ,
 {
-    "Name": "搜狗输入法Deepin版手写数据包",
-    "Version": "1.0.0",
-    "Filename": "com.sogou.sogoupinyin-deepin-sogouhw_1.0.0_all.deb",
-    "Torrent_address": "com.sogou.sogoupinyin-deepin-sogouhw_1.0.0_all.deb.torrent",
-    "Pkgname": "com.sogou.sogoupinyin-deepin-sogouhw",
-    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://pinyin.sogou.com/linux",
-    "Update": "2023-05-20 22:33:43",
-    "Size": "173.73 MB",
-    "More": "搜狗输入法Deepin版使用手写功能，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/b31393dddbc84ac78f09b3c57065f8a1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/295613e79d9e40888132879307f104ed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/e9d6e599712e4597adcd5d809c34f79a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/a9b4cdc1adcb4a25b47335958e4e6a4e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/4b09f48b0d444dedbc8812c9696ca167.png"
-}
-,
-{
     "Name": "Evernote（Linux）",
     "Version": "10.7.6-2321",
     "Filename": "evernote-client_10.7.6-2321_amd64.deb",
@@ -1380,6 +1363,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/05/c1d221fc106243859b15cfc5f24dd75a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/05/d135b2e825a842afb9de4823dea2895e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/05/2de84c1a7b9d49f3aa690d8e80c53ddc.png"
+}
+,
+{
+    "Name": "搜狗输入法Deepin版手写数据包",
+    "Version": "1.0.1",
+    "Filename": "com.sogou.sogoupinyin-deepin-sogouhw_1.0.1_all.deb",
+    "Torrent_address": "com.sogou.sogoupinyin-deepin-sogouhw_1.0.1_all.deb.torrent",
+    "Pkgname": "com.sogou.sogoupinyin-deepin-sogouhw",
+    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://pinyin.sogou.com/linux",
+    "Update": "2024-06-08 09:36:59",
+    "Size": "173.78 MB",
+    "More": "搜狗输入法Deepin版使用手写功能，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/5e36357b867a4fdf887c040f2045538d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/cdcb0184fae942f19877289ddb4406ee.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/be16a67de2574e909cc8f9f862d307f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/2a13ae3b08c24d07bbc3be06bc1e6b0b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/321e86adac0c40278775b64cca13631d.png"
 }
 ,
 {
@@ -1815,23 +1815,6 @@
 
 ,
 {
-    "Name": "Effie",
-    "Version": "3.5.1spark12",
-    "Filename": "co.effie.spark_3.5.1spark12_all.deb",
-    "Torrent_address": "co.effie.spark_3.5.1spark12_all.deb.torrent",
-    "Pkgname": "co.effie.spark",
-    "Author": "上海七加二科技有限公司",
-    "Contributor": "sgb76",
-    "Website": "https://www.effie.co/",
-    "Update": "2024-02-26 23:21:21",
-    "Size": "83.94 MB",
-    "More": "一款思想家专用的写作软件。无论是严肃写作,随手记录,亦或是把逻辑完善成思维导图,Effie都是您明智的选择\n\n更新说明：\n1.通过spark-dwine-helper脚本自适应高分屏，根据用户设置的屏幕缩放倍数自动调整应用界面的缩放\n2.deepin下默认调用系统文管，Ubuntu下默认调用wine文管\n已知问题：\n当导出文档为PDF时程序报错，导出图片、Word和MD文档则正常",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/7107cd207f144847b573a28242215315.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/f8dc1af5bc8f45dfbbd5b77c6db15456.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/70b32595695348a3a82d548fd5a4f303.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/26/970bd814b5674635a01321eb97cc6bb5.png"
-}
-,
-{
     "Name": "蓝信",
     "Version": "7.33.32spark0",
     "Filename": "org.lanxin.spark_7.33.32spark0_amd64.deb",
@@ -1846,6 +1829,23 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/efef5f10-e96a-11ec-a40a-313790704626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/effdde00-e96a-11ec-a40a-313790704626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/f0120240-e96a-11ec-a40a-313790704626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/f0256330-e96a-11ec-a40a-313790704626.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/11/eaec6990-e96a-11ec-a40a-313790704626.png"
+}
+,
+{
+    "Name": "Effie",
+    "Version": "3.5.1spark12",
+    "Filename": "co.effie.spark_3.5.1spark12_all.deb",
+    "Torrent_address": "co.effie.spark_3.5.1spark12_all.deb.torrent",
+    "Pkgname": "co.effie.spark",
+    "Author": "上海七加二科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.effie.co/",
+    "Update": "2024-02-26 23:21:21",
+    "Size": "83.94 MB",
+    "More": "一款思想家专用的写作软件。无论是严肃写作,随手记录,亦或是把逻辑完善成思维导图,Effie都是您明智的选择\n\n更新说明：\n1.通过spark-dwine-helper脚本自适应高分屏，根据用户设置的屏幕缩放倍数自动调整应用界面的缩放\n2.deepin下默认调用系统文管，Ubuntu下默认调用wine文管\n已知问题：\n当导出文档为PDF时程序报错，导出图片、Word和MD文档则正常",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/7107cd207f144847b573a28242215315.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/f8dc1af5bc8f45dfbbd5b77c6db15456.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/70b32595695348a3a82d548fd5a4f303.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/26/970bd814b5674635a01321eb97cc6bb5.png"
 }
 ,
 {
@@ -2369,19 +2369,19 @@
 ,
 {
     "Name": "Li文件浏览器",
-    "Version": "24.5.20~beta",
-    "Filename": "lwleen-file_24.5.20~beta_amd64.deb",
-    "Torrent_address": "lwleen-file_24.5.20~beta_amd64.deb.torrent",
+    "Version": "24.6.7~beta",
+    "Filename": "lwleen-file_24.6.7~beta_amd64.deb",
+    "Torrent_address": "lwleen-file_24.6.7~beta_amd64.deb.torrent",
     "Pkgname": "lwleen-file",
     "Author": "一切时空过去未来",
     "Contributor": "一切时空过去未来 <lwleen@qq.com>",
     "Website": "https://gitee.com/lwleen/lwleen-file",
-    "Update": "2024-05-20 17:36:17",
-    "Size": "80.59 MB",
+    "Update": "2024-06-07 11:45:17",
+    "Size": "80.17 MB",
     "More": "文件浏览器，3D/VR 模型浏览器, mmd舞蹈动画,  Quick Reference 快查工具，CyberChef 工具箱,  终端，文本编辑器，加入豆包AI、文心一言AI",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/20/7fbb55acd5de442c86eeb4f181653de7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/20/c93114e3c5ef42daa49d1267ff903757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/20/5bf644915a7a4bd892ba6776f53bf8b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/20/32ce69363f784d22b89d5f990f91e344.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/20/7bce621d04164c669f4c6c2e70c86275.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/20/36bb65782193490d87943681f21960f5.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/72f4f935c5654c34bc2e46c8dcdb5997.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/c5757731dcd5420a9b00b854daf1b983.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/68bc3287ad7943c899e6d778941ab55f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/fd880d1874824ac9bf21793f674a23df.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/5330f36cc8f644cba854812bcc75ec62.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/07/a01bb30475164d13bf3ddbc20262e98f.png"
 }
 ,
 {
@@ -2399,6 +2399,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/23/50df13900e354035863e8c3f4e2c51bd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/23/5cc5f5cdb92e4b5ba739dd0a22e163d5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/23/1a53d28d88844bfc8b08bb6d4259e714.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/23/d3092d7c9fc94e258fa4231a6a5653f8.png"
+}
+,
+{
+    "Name": "文华财经软件通用版(wine)",
+    "Version": "6.0.0",
+    "Filename": "spark.mytrader.wine_6.0.0_all.deb",
+    "Torrent_address": "spark.mytrader.wine_6.0.0_all.deb.torrent",
+    "Pkgname": "spark.mytrader.wine",
+    "Author": "LFRon",
+    "Contributor": "LFRon",
+    "Website": "https://wh6.wenhua.com.cn/",
+    "Update": "2023-11-17 19:54:05",
+    "Size": "343.02 MB",
+    "More": "文华财经分析软件,使用spark-wine8运行\n\n已知问题:1.部分地方UI错位\n2.部分地方字体比较奇怪\n3.Deepin-v23无法直接安装,需要使用wine运行器解压deb包里的wine容器到其他目录,然后手动下载spark-wine8最新版运行本程序",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/17/8c6cc67b2c2443e4b28d30b83afe264e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/17/3b007ee4806b40bbac5e71bb8d9b3d7b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/17/d3da564ed7c747d18bd919505310f5d5.png"
 }
 ,
 {
@@ -2432,23 +2449,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/23/47142530-daae-11ec-afcf-0b2b115ffe8e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/23/438de4a0-daae-11ec-afcf-0b2b115ffe8e.png"
-}
-,
-{
-    "Name": "文华财经软件通用版(wine)",
-    "Version": "6.0.0",
-    "Filename": "spark.mytrader.wine_6.0.0_all.deb",
-    "Torrent_address": "spark.mytrader.wine_6.0.0_all.deb.torrent",
-    "Pkgname": "spark.mytrader.wine",
-    "Author": "LFRon",
-    "Contributor": "LFRon",
-    "Website": "https://wh6.wenhua.com.cn/",
-    "Update": "2023-11-17 19:54:05",
-    "Size": "343.02 MB",
-    "More": "文华财经分析软件,使用spark-wine8运行\n\n已知问题:1.部分地方UI错位\n2.部分地方字体比较奇怪\n3.Deepin-v23无法直接安装,需要使用wine运行器解压deb包里的wine容器到其他目录,然后手动下载spark-wine8最新版运行本程序",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/17/8c6cc67b2c2443e4b28d30b83afe264e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/17/3b007ee4806b40bbac5e71bb8d9b3d7b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/17/d3da564ed7c747d18bd919505310f5d5.png"
 }
 ,
 {
@@ -2805,6 +2805,23 @@
 }
 ,
 {
+    "Name": "方正证券",
+    "Version": "7.29deepin5",
+    "Filename": "com.foundersc.fangzheng.spark_7.29deepin5_i386.deb",
+    "Torrent_address": "com.foundersc.fangzheng.spark_7.29deepin5_i386.deb.torrent",
+    "Pkgname": "com.foundersc.fangzheng.spark",
+    "Author": "方正证券股份有限公司",
+    "Contributor": "delsin",
+    "Website": "https://www.foundersc.com/",
+    "Update": "2022-05-10 23:18:41",
+    "Size": "326.6 MB",
+    "More": "方正证券小方行情客户端电脑版7.29 on Deepin Wine5\n提示：\n（1）对于高分辨率屏幕字体显示太小的问题，请在终端安装并自定义winetricks。\n安装命令：sudo apt install winetricks。\n自定义分辨率的终端命令：WINEPREFIX=\"/home/你的用户名/.deepinwine/Spark-Fangzheng\" winetricks 请在弹出的界面中选择默认的wine容器——运行winecfg——显示——屏幕分辨率。屏幕分辨率越高，dpi需设置越大（可多调整几次dpi，以期达到最佳显示效果）。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/10/209b5fc0-d074-11ec-853c-fb300ff192e7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/10/2e718ca0-d074-11ec-853c-fb300ff192e7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/10/1dd22da0-d074-11ec-853c-fb300ff192e7.png"
+}
+,
+{
     "Name": "抖店工作站(wine)",
     "Version": "0.11.6",
     "Filename": "com.doudian.workstation.spark_0.11.6_all.deb",
@@ -2836,23 +2853,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/29/b75a5d5b36064789bbbdfaa1c8396866.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/29/c49b3489b8844e4a9eab542acb0afcca.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/29/d66e2a17a3ed4c5fb5e488a2ac0fc42f.png"
-}
-,
-{
-    "Name": "方正证券",
-    "Version": "7.29deepin5",
-    "Filename": "com.foundersc.fangzheng.spark_7.29deepin5_i386.deb",
-    "Torrent_address": "com.foundersc.fangzheng.spark_7.29deepin5_i386.deb.torrent",
-    "Pkgname": "com.foundersc.fangzheng.spark",
-    "Author": "方正证券股份有限公司",
-    "Contributor": "delsin",
-    "Website": "https://www.foundersc.com/",
-    "Update": "2022-05-10 23:18:41",
-    "Size": "326.6 MB",
-    "More": "方正证券小方行情客户端电脑版7.29 on Deepin Wine5\n提示：\n（1）对于高分辨率屏幕字体显示太小的问题，请在终端安装并自定义winetricks。\n安装命令：sudo apt install winetricks。\n自定义分辨率的终端命令：WINEPREFIX=\"/home/你的用户名/.deepinwine/Spark-Fangzheng\" winetricks 请在弹出的界面中选择默认的wine容器——运行winecfg——显示——屏幕分辨率。屏幕分辨率越高，dpi需设置越大（可多调整几次dpi，以期达到最佳显示效果）。",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/10/209b5fc0-d074-11ec-853c-fb300ff192e7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/10/2e718ca0-d074-11ec-853c-fb300ff192e7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/10/1dd22da0-d074-11ec-853c-fb300ff192e7.png"
 }
 ,
 {
@@ -3156,6 +3156,23 @@
 }
 ,
 {
+    "Name": "中国移动云电脑（wine）",
+    "Version": "1.0.0",
+    "Filename": "chinamobyunos_1.0.0_all.deb",
+    "Torrent_address": "chinamobyunos_1.0.0_all.deb.torrent",
+    "Pkgname": "chinamobyunos",
+    "Author": "huawei0086@126.com",
+    "Contributor": "rc3583z",
+    "Website": "1212123",
+    "Update": "2024-03-15 15:33:11",
+    "Size": "264.34 MB",
+    "More": "中国移动云电脑",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/add19340-e29d-11ee-893c-3b7985d6d301.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/ee872080-e29d-11ee-893c-3b7985d6d301.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/15/a5e33da0-e29d-11ee-893c-3b7985d6d301.png"
+}
+,
+{
     "Name": "dedit链接",
     "Version": "1.0",
     "Filename": "tech.shenmo.dedit_1.0_all.deb",
@@ -3204,23 +3221,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/7841ae10675e4bf493d36e361f375b89.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/173f4e73c81f495a9fd461403bf44536.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/170981f23ecb410c91fe2339d99de7e3.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/30/1b44705704664aaf81f2a6247c4472f2.png"
-}
-,
-{
-    "Name": "中国移动云电脑（wine）",
-    "Version": "1.0.0",
-    "Filename": "chinamobyunos_1.0.0_all.deb",
-    "Torrent_address": "chinamobyunos_1.0.0_all.deb.torrent",
-    "Pkgname": "chinamobyunos",
-    "Author": "huawei0086@126.com",
-    "Contributor": "rc3583z",
-    "Website": "1212123",
-    "Update": "2024-03-15 15:33:11",
-    "Size": "264.34 MB",
-    "More": "中国移动云电脑",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/add19340-e29d-11ee-893c-3b7985d6d301.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/ee872080-e29d-11ee-893c-3b7985d6d301.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/15/a5e33da0-e29d-11ee-893c-3b7985d6d301.png"
 }
 ,
 {
@@ -5061,6 +5061,23 @@
 }
 ,
 {
+    "Name": "学而思网校（Wine）",
+    "Version": "9.88.0",
+    "Filename": "com.xunersi.online.deepin_9.88.0_amd64.deb",
+    "Torrent_address": "com.xunersi.online.deepin_9.88.0_amd64.deb.torrent",
+    "Pkgname": "com.xunersi.online.deepin",
+    "Author": "Deepin WINE Team",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.xueersi.com",
+    "Update": "2024-06-08 11:50:38",
+    "Size": "348.57 MB",
+    "More": "学而思网校是北京学而思网络科技有限公司旗下的一款教育App。课程覆盖从小学到高中的语文、数学、英语、理化生、史地政等全学科，以及编程、人文、历史、科学、艺术等素质类课程，采用双师教学模式，主讲老师直播授课，辅导老师专属辅导。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/948164ec04724fbfa993a1b50123c19d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/a8a7f17fc6244c0fb0f2a01ef4ab8f24.png"
+}
+,
+{
     "Name": "frappe-books",
     "Version": "0.21.2",
     "Filename": "com.github.frappe-books_0.21.2_amd64.deb",
@@ -5096,18 +5113,18 @@
 ,
 {
     "Name": "爱学仕校园教师端",
-    "Version": "1.4.1",
-    "Filename": "aixueshi_1.4.1_amd64.deb",
-    "Torrent_address": "aixueshi_1.4.1_amd64.deb.torrent",
+    "Version": "1.5.0",
+    "Filename": "aixueshi_1.5.0_amd64.deb",
+    "Torrent_address": "aixueshi_1.5.0_amd64.deb.torrent",
     "Pkgname": "aixueshi",
     "Author": "江苏乐易智慧科技有限公司",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Website": "https://www.lyx-edu.com",
-    "Update": "2023-05-20 22:59:05",
-    "Size": "147.98 MB",
+    "Update": "2024-06-08 09:18:58",
+    "Size": "137.35 MB",
     "More": "教师端围绕“备教考评研”全流程，实现一键调用教学资源与智能题库，智能作业批改系统、科学测评系统、学情分析系统、组卷阅卷系统、教研平台系统等减轻教师60%的工作量。",
     "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/6df38ce8b2dc4b4cbbe6ddd389a63eef.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/797f7a4a42ec472ea4287fd7ab0f9a84.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/4ee2ce22d12b40448fdd98948d2ac0c4.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/ca1871d09d93440b936b081ff1fb779a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/e5b038abc5b645d582467fc1fadff5c2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/85805af604274f74801d043b29210297.png"
 }
 ]

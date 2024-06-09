@@ -1589,20 +1589,6 @@
 }
 ,
 {
-   "Name":"viewnior",
-   "Version":"1.7-1",
-   "Filename":"viewnior_1.7-1_amd64.deb",
-   "Pkgname":"viewnior",
-   "Author":"xsisqox",
-   "Contributor":"lenke",
-   "Website":"https://xsisqox.github.io/Viewnior/",
-   "Update":"2020-08-11 20:02",
-   "Size":"123.35KB",
-   "More":"debian系都是1.6版，升级到1.7.并解决deepin商店里无法打开首选项的问题"
-}
-
-,
-{
     "Name": "中望CAD建筑版 2023 For Linux",
     "Version": "23.2.3.4",
     "Filename": "com.zwsoft.zwcadm2023_23.2.3.4_amd64.deb",
@@ -1618,6 +1604,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/02/7344302c4c7f4e08b02ae9057a54b215.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/02/8df739b00da9468b886b5e5e7b63853e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/02/532b573481214c2482526a1c9f73a1ab.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/02/3c994ce785af4375970f4061f4cd7644.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/02/a3fb17c86e77494aa29cb5febfc1f183.png"
 }
+,
+{
+   "Name":"viewnior",
+   "Version":"1.7-1",
+   "Filename":"viewnior_1.7-1_amd64.deb",
+   "Pkgname":"viewnior",
+   "Author":"xsisqox",
+   "Contributor":"lenke",
+   "Website":"https://xsisqox.github.io/Viewnior/",
+   "Update":"2020-08-11 20:02",
+   "Size":"123.35KB",
+   "More":"debian系都是1.6版，升级到1.7.并解决deepin商店里无法打开首选项的问题"
+}
+
 ,
 {
     "Name": "Ultimaker Cura",
@@ -2087,6 +2087,24 @@
 }
 ,
 {
+    "Author": "info@ovital.com",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "ovital-map_2.6.8_arm64.deb",
+    "More": "奥维互动地图简称奥维地图，是由北京元生华网软件有限公司开发的跨平台地图浏览软件\n全面支持微软、安卓等主流平台，而且适配统信UOS、深度科技Deepin、银河麒麟等国产主流操作系统",
+    "Name": "奥维互动地图",
+    "Pkgname": "ovital-map",
+    "Size": "103 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "ovital-map_2.6.8_arm64.deb.torrent",
+    "Update": "2024-05-30 16:07:55",
+    "Version": "2.6.8",
+    "Website": "https://www.ovital.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/ovital-map/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/ovital-map/screen_1.png\"]"
+}
+
+,
+{
     "Name": "中望CAD建筑版 2022 For Linux",
     "Version": "22.2.2.3",
     "Filename": "com.zwsoft.zwcadm2022_22.2.2.3_amd64.deb",
@@ -2136,24 +2154,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/14/53d1ba18fbb84a10808b5e53ab6ada82.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/14/cdcb39a8b7fc4283a27886e22734d0ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/14/da4e4b57f8094a35b3d16baecce62ead.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/14/026442c6a5744ed4a6ba650948ad853c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/14/7b2c05b1e6bd491aa57e967d3651e950.png"
 }
-,
-{
-    "Author": "info@ovital.com",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "ovital-map_2.6.8_arm64.deb",
-    "More": "奥维互动地图简称奥维地图，是由北京元生华网软件有限公司开发的跨平台地图浏览软件\n全面支持微软、安卓等主流平台，而且适配统信UOS、深度科技Deepin、银河麒麟等国产主流操作系统",
-    "Name": "奥维互动地图",
-    "Pkgname": "ovital-map",
-    "Size": "103 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "ovital-map_2.6.8_arm64.deb.torrent",
-    "Update": "2024-05-30 16:07:55",
-    "Version": "2.6.8",
-    "Website": "https://www.ovital.com",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/ovital-map/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/ovital-map/screen_1.png\"]"
-}
-
 ,
 {
     "Name": "Tropy",
@@ -2372,6 +2372,24 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/30/f19b9a8fbab24c00bd2e53f26515518a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/30/00ad3ee8e8db4202b197705ffb1cade6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/30/7c4779669fd148b0b5ff3e418748ee4e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/30/930a3567e9854aba87197ab867ce6c28.png"
 }
+,
+{
+    "Author": " 深圳市超时代软件有限公司",
+    "Contributor": "wang",
+    "Filename": "com.qnwzjz.deepin_2.0.0.3deepin0_all.deb",
+    "More": "\n全能王证件照换底色抠图是一款简单实用的抠图软件，可以帮你一键抠图，轻松换图片背景，用户使用它无需任何专业的抠图技巧，只需要通过软件的功能就能编辑出想要的图片。软件支持一键替换背景，自定义添加背景，可以自由剪切图片，自带多种常用证件格式。支持一键美颜和磨皮。可以进行批量抠图，提高办公效率。\n",
+    "Name": "全能王证件照换底色抠图",
+    "Pkgname": "com.qnwzjz.deepin",
+    "Size": "42 Mb",
+    "Tags": "deepin;uos;dwine5",
+    "Torrent_address": "com.qnwzjz.deepin_2.0.0.3deepin0_all.deb.torrent",
+    "Update": "2024-06-09 16:16:47",
+    "Version": "2.0.0.3deepin0",
+    "Website": "https://www.hoposoft.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.qnwzjz.deepin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.qnwzjz.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.qnwzjz.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.qnwzjz.deepin/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.qnwzjz.deepin/screen_4.png\"]"
+}
+
 ,
 {
     "Name": "七彩色图片批量处理工具",

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.qnwzjz.deepin_2.0.0.3deepin0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">6eb6556c56c4e1228deef72254486ba1</hash>
+				  
+				<hash type="sha1">43ddf6135861056f62a33c3d271e16bbd0513a50</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/aarch64-store/image_graphics/com.qnwzjz.deepin/com.qnwzjz.deepin_2.0.0.3deepin0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/image_graphics/com.qnwzjz.deepin/com.qnwzjz.deepin_2.0.0.3deepin0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/image_graphics/com.qnwzjz.deepin/com.qnwzjz.deepin_2.0.0.3deepin0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/image_graphics/com.qnwzjz.deepin/com.qnwzjz.deepin_2.0.0.3deepin0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/aarch64-store/image_graphics/com.qnwzjz.deepin/com.qnwzjz.deepin_2.0.0.3deepin0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/aarch64-store/image_graphics/com.qnwzjz.deepin/com.qnwzjz.deepin_2.0.0.3deepin0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

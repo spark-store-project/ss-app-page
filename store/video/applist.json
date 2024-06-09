@@ -1158,4 +1158,38 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/24/3fe08730-ab52-11ec-b2a4-2d31330ae4b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/24/43e4d160-ab52-11ec-b2a4-2d31330ae4b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/24/479e56f0-ab52-11ec-b2a4-2d31330ae4b8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/24/2f3e4200-ab52-11ec-b2a4-2d31330ae4b8.png"
 }
+,
+{
+    "Name": "bilibili 投稿工具（Wine）",
+    "Version": "2.3.0.1097spark0",
+    "Filename": "com.bilibili.uploader.deepin_2.3.0.1097spark0_all.deb",
+    "Torrent_address": "com.bilibili.uploader.deepin_2.3.0.1097spark0_all.deb.torrent",
+    "Pkgname": "com.bilibili.uploader.deepin",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.bilibili.com",
+    "Update": "2024-06-08 23:08:57",
+    "Size": "119.28 MB",
+    "More": "bilibili投稿工具是哔哩哔哩动画推出的官方投稿工具，up主们都在用b站投稿工具，相比网页上传投稿视频官方投稿工具上传起来更快速稳定",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/9a180d12972e4d1e904f99fa17335ac3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/07190b8c99244eec877c9d5d17fc7e7c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/c2facf63984c4d72b941fff4f7a102dc.png"
+}
+,
+{
+    "Name": "biliup-app（开源 bilibili投稿客户端）",
+    "Version": "0.5.2",
+    "Filename": "biliup-app_0.5.2_amd64.deb",
+    "Torrent_address": "biliup-app_0.5.2_amd64.deb.torrent",
+    "Pkgname": "biliup-app",
+    "Author": "you",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://github.com/biliup/biliup-app",
+    "Update": "2024-06-08 23:08:05",
+    "Size": "7.21 MB",
+    "More": "bilibili投稿客户端，支持Windows，Linux，macOS。\n支持多p上传，支持线路切换、并发数控制，上海腾讯云可使用内网线路上传免流+大幅提速。\n支持稿件编辑追加多p，可编辑网页端不能编辑的\"是否转载\"、\"投稿分区\"等。\n低电磁力等级也可上传大于16G视频，最大32G。\n支持多种登录方式，账号密码，短信，扫码，浏览器登录。\n支持多用户账号快速切换\n使用操作 演示视频 （非最新版）\n文档地址：https://biliup.github.io/biliup-app\n主要是为了解决现有网页端不能多p投稿的问题，虽然现有b站客户端可以多p 但是有几个问题：\n仅支持Windows，不支持Linux，macOS\n不能批量选择文件，多p只能多次单选文件\n投稿线路对国外不友好，速度较慢稳定性较差，且不能自行切换\n不能调整单视频上传并发数，单视频限制大小4G以内\n仅能通过短信登录",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/8cb9e4e0a39643c5a212eb5712ead5e9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/fe57de49ed69430fa9fce3ce56ab5d92.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/01ec11b22157489289abbd66e6d977fb.png"
+}
 ]

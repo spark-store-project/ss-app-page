@@ -1,0 +1,16 @@
+{
+    "Name": "LemonLime轻量化评测系统",
+    "Version": "0.3.4",
+    "Filename": "lemonlime_0.3.4_amd64.deb",
+    "Torrent_address": "lemonlime_0.3.4_amd64.deb.torrent",
+    "Pkgname": "lemonlime",
+    "Author": "alphagocc",
+    "Contributor": "KRBUG",
+    "Website": "https://github.com/alphagocc",
+    "Update": "2024-06-08 19:52:24",
+    "Size": "14.48 MB",
+    "More": "Lemon 绿了！\nLemonLime 现在支持 4 种题目类型：传统题、提交答案题、交互题，以及通信题（2 种：一种是选手只完成部分函数，一种是选手要写多个完整程序）。不过交互题和通信题暂时只确保 C++ 的支持。\n现在在选手栏中，每个选手的每个题目都可以单独选择，而不是只能一行一行地选。现在你可以方便地重测某道题，还支持一键测试未测试/未找到源文件/编译错误等操作。\n原先的 Lemon 的重测制度因为过于耗时而被废弃。现在，你可以自定义最大的重新评测次数。\n自带的实数比较模式现在将同时比较绝对误差和相对误差，并且对 nan 和 inf 做出了判断。\n在 Linux 下，默认的栈空间设置为和内存限制相同。\n自定义测试被移除。\n这里是一些值得称道的新功能：\n\n现在你可以给每个测试点设置子任务依赖，而不是像以前把同一个数据加到一个又一个测试点中。\n在题目概要栏右键题目，可以进入增强测试点调整器。CCR 的出色功能，现在 LemonLime 也支持了。（这个功能还在测试阶段，小心使用！）\n增加统计栏目，对比赛分数数据进行简要的分析。还需要很多的更新。\n新增的整理文件功能，可以使所有的选手的子文件夹内外都有答案文件，并且删除大部分无用文件。支持在这之前备份文件。\n你也可以对每一个题目，选择是在子文件夹内寻找源文件还是子文件夹外。\n多线程评测（实验中）",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/7c1dd100-258d-11ef-86af-f1e16bf38741.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/7c5a3dc0-258d-11ef-86af-f1e16bf38741.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/3eab12b0-258d-11ef-86af-f1e16bf38741.png"
+}

@@ -1906,6 +1906,22 @@
 }
 ,
 {
+    "Name": "服务监控助手",
+    "Version": "1.0.0",
+    "Filename": "cn.kingtous.service-monitor_1.0.0_amd64.deb",
+    "Pkgname": "cn.kingtous.service-monitor",
+    "Author": "Kingtous",
+    "Contributor": "Kingtous",
+    "Website": "https://kingtous.cn",
+    "Update": "2021-12-18 17:58:20",
+    "Size": "57.72 MB",
+    "More": "可用于监控各类URL，定制化监控需求（定时，定量），保障API稳定。\nWiki: http://service-monitor-wiki.kingtous.cn/",
+    "Tags": "community;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/18/f23a4840-5fe8-11ec-aaaf-c51169906c45.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/18/f49b1ba0-5fe8-11ec-aaaf-c51169906c45.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/18/f0653a20-5fe8-11ec-aaaf-c51169906c45.png"
+}
+,
+{
     "Name": "Sublime Merge",
     "Version": "2083",
     "Filename": "sublime-merge_2083_amd64.deb",
@@ -1937,22 +1953,6 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/18/e2db769c73694320a684dc64547ce813.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/18/b67155384c864e6a93499113abb8b572.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/18/227ee96406bc4d5aa390791a49b3d8cb.png"
-}
-,
-{
-    "Name": "服务监控助手",
-    "Version": "1.0.0",
-    "Filename": "cn.kingtous.service-monitor_1.0.0_amd64.deb",
-    "Pkgname": "cn.kingtous.service-monitor",
-    "Author": "Kingtous",
-    "Contributor": "Kingtous",
-    "Website": "https://kingtous.cn",
-    "Update": "2021-12-18 17:58:20",
-    "Size": "57.72 MB",
-    "More": "可用于监控各类URL，定制化监控需求（定时，定量），保障API稳定。\nWiki: http://service-monitor-wiki.kingtous.cn/",
-    "Tags": "community;deepin;uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/18/f23a4840-5fe8-11ec-aaaf-c51169906c45.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/18/f49b1ba0-5fe8-11ec-aaaf-c51169906c45.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/18/f0653a20-5fe8-11ec-aaaf-c51169906c45.png"
 }
 ,
 {
@@ -2394,23 +2394,6 @@
 }
 ,
 {
-    "Name": "Clion(过渡包)",
-    "Version": "2022.2.4",
-    "Filename": "com.jetbrains.clion_2022.2.4_all.deb",
-    "Torrent_address": "com.jetbrains.clion_2022.2.4_all.deb.torrent",
-    "Pkgname": "com.jetbrains.clion",
-    "Author": "Jetbrains",
-    "Contributor": "懵仙兔兔",
-    "Website": "https://www.jetbrains.com/zh-cn/clion/",
-    "Update": "2022-10-19 12:29:53",
-    "Size": "812 Bytes",
-    "More": "CLion 过渡包\n  C 和 C++ 跨平台 IDE",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/19/d722996b-ee34-4f59-84c3-55186b7cd490.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/19/f1b35f59-8a7c-4ae9-810e-156982eb0218.png"
-}
-,
-{
     "Name": "myled",
     "Version": "2024.06.02",
     "Filename": "myled_2024.06.02_amd64.deb",
@@ -2425,6 +2408,23 @@
     "Tags": "ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/04/7eed6c40-21de-11ef-99bd-d9f30b93d9e4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/04/6415eeb0-21de-11ef-99bd-d9f30b93d9e4.png"
+}
+,
+{
+    "Name": "Clion(过渡包)",
+    "Version": "2022.2.4",
+    "Filename": "com.jetbrains.clion_2022.2.4_all.deb",
+    "Torrent_address": "com.jetbrains.clion_2022.2.4_all.deb.torrent",
+    "Pkgname": "com.jetbrains.clion",
+    "Author": "Jetbrains",
+    "Contributor": "懵仙兔兔",
+    "Website": "https://www.jetbrains.com/zh-cn/clion/",
+    "Update": "2022-10-19 12:29:53",
+    "Size": "812 Bytes",
+    "More": "CLion 过渡包\n  C 和 C++ 跨平台 IDE",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/19/d722996b-ee34-4f59-84c3-55186b7cd490.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/19/f1b35f59-8a7c-4ae9-810e-156982eb0218.png"
 }
 ,
 {

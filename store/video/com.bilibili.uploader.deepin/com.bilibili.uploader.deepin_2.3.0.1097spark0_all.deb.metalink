@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.bilibili.uploader.deepin_2.3.0.1097spark0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">d0ce6c4d6d5b2ffc372fa4b64a91f97f</hash>
+				  
+				<hash type="sha1">d70feaeae5de87efe00aebd0c04c6f0ca62725b7</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/video/com.bilibili.uploader.deepin/com.bilibili.uploader.deepin_2.3.0.1097spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/video/com.bilibili.uploader.deepin/com.bilibili.uploader.deepin_2.3.0.1097spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/video/com.bilibili.uploader.deepin/com.bilibili.uploader.deepin_2.3.0.1097spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/video/com.bilibili.uploader.deepin/com.bilibili.uploader.deepin_2.3.0.1097spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/video/com.bilibili.uploader.deepin/com.bilibili.uploader.deepin_2.3.0.1097spark0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/video/com.bilibili.uploader.deepin/com.bilibili.uploader.deepin_2.3.0.1097spark0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>
