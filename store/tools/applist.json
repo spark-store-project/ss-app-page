@@ -927,23 +927,6 @@
 }
 ,
 {
-    "Name": "CPU-X",
-    "Version": "4.5.2-1",
-    "Filename": "cpux_4.5.2-1_amd64.deb",
-    "Torrent_address": "cpux_4.5.2-1_amd64.deb.torrent",
-    "Pkgname": "cpux",
-    "Author": "spark-store",
-    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
-    "Website": "https://github.com/TheTumultuousUnicornOfDarkness/CPU-X",
-    "Update": "2023-03-01 13:11:44",
-    "Size": "41.15 MB",
-    "More": "CPU-X是一款免费软件，可收集有关CPU，主板等的信息。\nCPU-X是一个系统分析和监控应用程序（类似于Windows的CPU-Z），但CPU-X是一个为GNU/Linux和FreeBSD设计的免费开源软件。\n该软件是用C编写的，并使用CMake工具构建。\n它可以使用 GTK 在图形模式下使用，也可以使用 NCurses 在基于文本的模式下使用。命令行中存在转储模式。",
-    "Tags": "ubuntu;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/01/b83245e0755c44c4ab7d67e0f780ed18.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/01/56487b8f010d432b8adcd58b52978ed4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/01/2c6b2fddd78d45d28d9b1aa5685e5341.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/01/3324f96e7685440eb1d55138326f6829.png"
-}
-,
-{
     "Name": "使用N卡运行 NVIDIA for deepin-prime",
     "Version": "1.0",
     "Filename": "deepin-prime-run_1.0_amd64.deb",
@@ -958,6 +941,23 @@
     "Tags": "community;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/08/8e3efec0-ecf1-11ed-a415-1fbb11fc4147.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/08/de0582d0-ecf1-11ed-a415-1fbb11fc4147.png"
+}
+,
+{
+    "Name": "CPU-X",
+    "Version": "4.5.2-1",
+    "Filename": "cpux_4.5.2-1_amd64.deb",
+    "Torrent_address": "cpux_4.5.2-1_amd64.deb.torrent",
+    "Pkgname": "cpux",
+    "Author": "spark-store",
+    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
+    "Website": "https://github.com/TheTumultuousUnicornOfDarkness/CPU-X",
+    "Update": "2023-03-01 13:11:44",
+    "Size": "41.15 MB",
+    "More": "CPU-X是一款免费软件，可收集有关CPU，主板等的信息。\nCPU-X是一个系统分析和监控应用程序（类似于Windows的CPU-Z），但CPU-X是一个为GNU/Linux和FreeBSD设计的免费开源软件。\n该软件是用C编写的，并使用CMake工具构建。\n它可以使用 GTK 在图形模式下使用，也可以使用 NCurses 在基于文本的模式下使用。命令行中存在转储模式。",
+    "Tags": "ubuntu;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/01/b83245e0755c44c4ab7d67e0f780ed18.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/01/56487b8f010d432b8adcd58b52978ed4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/01/2c6b2fddd78d45d28d9b1aa5685e5341.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/01/3324f96e7685440eb1d55138326f6829.png"
 }
 ,
 {
@@ -2197,23 +2197,6 @@
 }
 ,
 {
-    "Name": "金山毒霸",
-    "Version": "1.1.0.166",
-    "Filename": "com.duba.antivirus_1.1.0.166_amd64.deb",
-    "Torrent_address": "com.duba.antivirus_1.1.0.166_amd64.deb.torrent",
-    "Pkgname": "com.duba.antivirus",
-    "Author": "BaoquTech",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://www.duba.net/",
-    "Update": "2023-02-02 15:50:15",
-    "Size": "54.05 MB",
-    "More": "一款为用户电脑减负并提供安全保护的云查杀杀毒软件",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/e828342106d141c680d83719ae3dbd10.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/311910124597446c937137739281d56e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/824d983d2a05442caf51b69003fc8b09.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/02/52567d28e07f4f9082af9602fd036725.png"
-}
-,
-{
     "Name": "pacapt--Arch用户的福音",
     "Version": "3.0.7.2",
     "Filename": "pacapt_3.0.7.2_all.deb",
@@ -2228,6 +2211,23 @@
     "Tags": "community",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/2e68be4f2a884cfa8c653429dc4e7c64.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/a3346935dd1c47a28003f06cc28089f3.png"
+}
+,
+{
+    "Name": "金山毒霸",
+    "Version": "1.1.0.166",
+    "Filename": "com.duba.antivirus_1.1.0.166_amd64.deb",
+    "Torrent_address": "com.duba.antivirus_1.1.0.166_amd64.deb.torrent",
+    "Pkgname": "com.duba.antivirus",
+    "Author": "BaoquTech",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://www.duba.net/",
+    "Update": "2023-02-02 15:50:15",
+    "Size": "54.05 MB",
+    "More": "一款为用户电脑减负并提供安全保护的云查杀杀毒软件",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/e828342106d141c680d83719ae3dbd10.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/311910124597446c937137739281d56e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/824d983d2a05442caf51b69003fc8b09.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/02/52567d28e07f4f9082af9602fd036725.png"
 }
 ,
 {
@@ -2282,6 +2282,24 @@
 }
 ,
 {
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo<shenmo@spark-app.store>",
+    "Filename": "open-in-terminal-tool_1.0.1_all.deb",
+    "More": "简单的一个用于排查错误的工具，右键点击desktop以在终端中打开",
+    "Name": "在终端中打开工具",
+    "Pkgname": "open-in-terminal-tool",
+    "Size": "80 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "open-in-terminal-tool_1.0.1_all.deb.torrent",
+    "Update": "2024-03-14 18:11:00",
+    "Version": "1.0.1",
+    "Website": "https://gitee.com/deepin-community-store/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_2.png\"]"
+}
+
+,
+{
    "Name":"一键息屏 one key shut screen",
    "Version":"1.0.0",
    "Filename":"one-key-shut-screen_1.0.0_amd64.deb",
@@ -2312,24 +2330,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/e43dbd0abad64a4faa26574856dcda6c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/2c9e507c3cda48b6ab111952abc7ec68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/7943153a735e4bf3b3e9997737b491b5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/24/470b6c14ac7443f2bb88d91b513ff728.png"
 }
-,
-{
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo<shenmo@spark-app.store>",
-    "Filename": "open-in-terminal-tool_1.0.1_all.deb",
-    "More": "简单的一个用于排查错误的工具，右键点击desktop以在终端中打开",
-    "Name": "在终端中打开工具",
-    "Pkgname": "open-in-terminal-tool",
-    "Size": "80 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "open-in-terminal-tool_1.0.1_all.deb.torrent",
-    "Update": "2024-03-14 18:11:00",
-    "Version": "1.0.1",
-    "Website": "https://gitee.com/deepin-community-store/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_2.png\"]"
-}
-
 ,
 {
     "Name": "系统传感器显示工具",
@@ -2433,23 +2433,6 @@
 }
 ,
 {
-    "Name": "GeoGebra Classic 5 经典",
-    "Version": "5.0.668.0-3930",
-    "Filename": "geogebra5_5.0.668.0-3930_amd64.deb",
-    "Torrent_address": "geogebra5_5.0.668.0-3930_amd64.deb.torrent",
-    "Pkgname": "geogebra5",
-    "Author": "International GeoGebra Institute <office@geogebra.org>",
-    "Contributor": "老於",
-    "Website": "http://www.geogebra.org/",
-    "Update": "2023-01-20 12:04:41",
-    "Size": "59.66 MB",
-    "More": "绘制数学图形的工具，目前商店已有的6版软件和5版的功能不同，很多场景还需要5版。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/df48bc9f05f14507ba4b159078ce5148.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/65c5cd60591246f38bb41bb90993efc7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/10f205b81e2d4e799a2caced95ca2b1c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/20/d1bf58e0fe5349fa8d51022408f3302a.png"
-}
-,
-{
     "Name": "GXDE 内核管理器 1.1.0",
     "Version": "1.1.0",
     "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
@@ -2464,6 +2447,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
+}
+,
+{
+    "Name": "GeoGebra Classic 5 经典",
+    "Version": "5.0.668.0-3930",
+    "Filename": "geogebra5_5.0.668.0-3930_amd64.deb",
+    "Torrent_address": "geogebra5_5.0.668.0-3930_amd64.deb.torrent",
+    "Pkgname": "geogebra5",
+    "Author": "International GeoGebra Institute <office@geogebra.org>",
+    "Contributor": "老於",
+    "Website": "http://www.geogebra.org/",
+    "Update": "2023-01-20 12:04:41",
+    "Size": "59.66 MB",
+    "More": "绘制数学图形的工具，目前商店已有的6版软件和5版的功能不同，很多场景还需要5版。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/df48bc9f05f14507ba4b159078ce5148.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/65c5cd60591246f38bb41bb90993efc7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/10f205b81e2d4e799a2caced95ca2b1c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/20/d1bf58e0fe5349fa8d51022408f3302a.png"
 }
 ,
 {

@@ -17782,6 +17782,27 @@ Description:
 License: MIT
 Vendor: ci010 <cijhn@hotmail.com>
 
+Package: xmcl
+Architecture: amd64
+Version: 0.44.7-832
+Priority: optional
+Section: default
+Maintainer: ci010 <cijhn@hotmail.com>
+Installed-Size: 284319
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: games/xmcl/xmcl_0.44.7-832_amd64.deb
+Size: 82854412
+MD5sum: 79a17542950a625ac27d82c46675de0d
+SHA1: 1c0611bc0d150ff5111c9d97829db63d6ad3eeb3
+SHA256: 5e2c38eb7112c3e3417bb798abcdf66e90ea9e82011e5e9939d55317fcb05207
+SHA512: 93a1d3841f7087cadf7d7f08a09473f62c9c09431836bf7d0e7af4d4da560e81bfb5a7522c0a8c2be6021436f50f522698e2c70f8567ce0876e4f22b0bebce07
+Homepage: https://github.com/voxelum/x-minecraft-launcher#readme
+Description: 
+  A great minecraft launcher in the future
+License: MIT
+Vendor: ci010 <cijhn@hotmail.com>
+
 Package: com.ra2ol.deepin
 Architecture: all
 Version: 0.1.0
@@ -23632,6 +23653,22 @@ Homepage: https://obsidian.md/
 Description: Obsidian
  Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 
+Package: md.obsidian.spark
+Architecture: amd64
+Version: 1.6.3spark13
+Priority: optional
+Section: editors
+Maintainer: sgb76 <sgb76@163.com>
+Filename: office/md.obsidian.spark/md.obsidian.spark_1.6.3spark13_amd64.deb
+Size: 80902864
+MD5sum: 512e8b7f42041c271e8dc1f35fcb3849
+SHA1: 739510bea63e7308686652b0c278428cdcfc141f
+SHA256: 0b284a4ee89b6e9037140f868f61678f82986c055f66428d86b2da481c695c6a
+SHA512: 84c8d6901f72d89091e548d2507e5e386a554d8779acbc3bbb9e49cf7fccc682280ad3ebbd60ab39ed442d007109d054b2183526332298e93299a1cb036ab292
+Homepage: https://obsidian.md/
+Description: Obsidian
+ Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
+
 Package: org.lanxin.spark
 Architecture: amd64
 Version: 7.33.32spark0
@@ -26993,6 +27030,23 @@ SHA256: d1b0f6f242bca765f9fc5c2d7b89ecb0d713bbe381424316594a655348131264
 SHA512: f7f53e937aff62cd49c18f279e01d682a3f026d6a10bbc02221d9188459da1f5cd117f28f2faa42f512576ee07bde5c4905ecbade7c8b3abd3580a59c066e7f3
 Description: kdwrite on deepin Wine6
  一款专为写作爱好者精心打造的写作助手。
+
+Package: spark.office2010-runner.com
+Architecture: all
+Version: 14.0.0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: 洗头_乐
+Installed-Size: 1084047
+Depends: deepin-wine6-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: office/spark.office2010-runner.com/spark.office2010-runner.com_14.0.0_all.deb
+Size: 1082598656
+MD5sum: dac335ae9626a412d2a31832182bd156
+SHA1: c93f05b013874dd5f0ba05d773e5265bc8bc1823
+SHA256: 0dd6c2daa342187e05cbba4b73b47fa5cda2052809ed1446955a4f8220a27ae8
+SHA512: a509535bca3920900c6263582bab3bc3daf344699cd4dd6f88407da85ca79e14ba796eecc5dff95e1751f19975f3bf5fdb14208c31d95869cf65fcfb2bb9c31a
+Description: 修复以下问题：1.powerprint在deepinV23打不开 2.ppt拉伸窗口闪退
 
 Package: yosoro
 Architecture: amd64

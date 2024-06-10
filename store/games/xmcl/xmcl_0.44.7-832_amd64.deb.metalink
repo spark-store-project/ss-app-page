@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="xmcl_0.44.7-832_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">79a17542950a625ac27d82c46675de0d</hash>
+				  
+				<hash type="sha1">1c0611bc0d150ff5111c9d97829db63d6ad3eeb3</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/games/xmcl/xmcl_0.44.7-832_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/games/xmcl/xmcl_0.44.7-832_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/games/xmcl/xmcl_0.44.7-832_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/games/xmcl/xmcl_0.44.7-832_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/store/games/xmcl/xmcl_0.44.7-832_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/store/games/xmcl/xmcl_0.44.7-832_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>
