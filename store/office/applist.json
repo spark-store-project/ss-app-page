@@ -676,20 +676,6 @@
 }
 ,
 {
-   "Name":"Master Pdf编辑器",
-   "Version":"5.6.20",
-   "Filename":"master-pdf-editor-5.6.20-qt5.x86_64.deb",
-   "Pkgname":"master-pdf-editor",
-   "Author":"Code Industry",
-   "Contributor":"奇点法则（搬运）",
-   "Website":"https://code-industry.net/free-pdf-editor/#get",
-   "Update":"2020-07-21 12:35",
-   "Size":"10.54MB",
-   "More":"一个强大的PDF编辑器"
-}
-
-,
-{
     "Name": "金山文档",
     "Version": "3.7.7",
     "Filename": "cn.kdocs.kdesktop_3.7.7_amd64.deb",
@@ -705,6 +691,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/8eac6a36a13d49b993a3cffcac9f28f3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/d3dbed14e4d74e4ebd7d341dad230bd1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/02/8667e98f88e44ef4b6566eff7c0614bb.png"
 }
+,
+{
+   "Name":"Master Pdf编辑器",
+   "Version":"5.6.20",
+   "Filename":"master-pdf-editor-5.6.20-qt5.x86_64.deb",
+   "Pkgname":"master-pdf-editor",
+   "Author":"Code Industry",
+   "Contributor":"奇点法则（搬运）",
+   "Website":"https://code-industry.net/free-pdf-editor/#get",
+   "Update":"2020-07-21 12:35",
+   "Size":"10.54MB",
+   "More":"一个强大的PDF编辑器"
+}
+
 ,
 {
    "Name":"FoxitReader",
@@ -1299,23 +1299,6 @@
 }
 ,
 {
-    "Name": "万彩办公大师",
-    "Version": "3.1.2spark3",
-    "Filename": "com.officebox.spark_3.1.2spark3_i386.deb",
-    "Torrent_address": "com.officebox.spark_3.1.2spark3_i386.deb.torrent",
-    "Pkgname": "com.officebox.spark",
-    "Author": "广州万彩信息技术有限公司",
-    "Contributor": "sgb76",
-    "Website": "http://www.wofficebox.com/",
-    "Update": "2023-09-03 18:34:12",
-    "Size": "27.76 MB",
-    "More": "万彩办公大师是一款办公必备的小工具百宝箱，软件里集合了60+个小工具，一个软件即可搞定90%的工作需求。由于是wine打包，不保证所有工具都可以正常使用。\n\n--更新说明--\n改用deepin-wine6打包，优化了容器设置，解决了部分字体显示方框的问题",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/03/69b7cec4c0e747a6add2b4f4a1d63c68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/03/8afe0546cbb047cea1474cc6f143b4d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/03/4594ea432a13422aa8b47d0b8de7f513.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/03/e83b7ff584e341e0ae5b889336b42644.png"
-}
-,
-{
     "Name": "Stellarium",
     "Version": "23.2",
     "Filename": "stellarium_23.2_amd64.deb",
@@ -1330,6 +1313,23 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/03/03b6d71aa49c49fea1dca6c31413cc1d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/03/30c214af7911430b9082801b78b19239.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/03/3ace0396f4ad467c93714247f0ea2f2a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/03/6d94da4e18724f8f98b0e5a255738206.png"
+}
+,
+{
+    "Name": "万彩办公大师",
+    "Version": "3.1.2spark3",
+    "Filename": "com.officebox.spark_3.1.2spark3_i386.deb",
+    "Torrent_address": "com.officebox.spark_3.1.2spark3_i386.deb.torrent",
+    "Pkgname": "com.officebox.spark",
+    "Author": "广州万彩信息技术有限公司",
+    "Contributor": "sgb76",
+    "Website": "http://www.wofficebox.com/",
+    "Update": "2023-09-03 18:34:12",
+    "Size": "27.76 MB",
+    "More": "万彩办公大师是一款办公必备的小工具百宝箱，软件里集合了60+个小工具，一个软件即可搞定90%的工作需求。由于是wine打包，不保证所有工具都可以正常使用。\n\n--更新说明--\n改用deepin-wine6打包，优化了容器设置，解决了部分字体显示方框的问题",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/03/69b7cec4c0e747a6add2b4f4a1d63c68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/03/8afe0546cbb047cea1474cc6f143b4d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/03/4594ea432a13422aa8b47d0b8de7f513.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/03/e83b7ff584e341e0ae5b889336b42644.png"
 }
 ,
 {
@@ -3586,6 +3586,23 @@
 }
 ,
 {
+    "Name": "希沃白板Web",
+    "Version": "1.14514",
+    "Filename": "wed-seewo_1.14514_all.deb",
+    "Torrent_address": "wed-seewo_1.14514_all.deb.torrent",
+    "Pkgname": "wed-seewo",
+    "Author": "baimacao",
+    "Contributor": "baimacao",
+    "Website": "https://enweb.seewo.com/",
+    "Update": "2024-05-22 17:50:56",
+    "Size": "29.16 KB",
+    "More": "唯一被老师认可的希沃白板，可以正常上课，web应用",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/a0ba4974dee742fcb656146be01cb321.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/49082957d0c64a059f6cadb90be58342.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/b80a658ca0594703ad75bcbd7c0abccb.png"
+}
+,
+{
     "Name": "EssentialPIM Pro（wine）",
     "Version": "9.7.5spark0",
     "Filename": "com.essentialpim.spark_9.7.5spark0_amd64.deb",
@@ -3667,23 +3684,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/28/52ff4dd0-2cff-11ee-81d1-9958aeacab12.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/28/52f8e530-2cff-11ee-81d1-9958aeacab12.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/28/4eecd2d0-2cff-11ee-81d1-9958aeacab12.png"
-}
-,
-{
-    "Name": "希沃白板Web",
-    "Version": "1.14514",
-    "Filename": "wed-seewo_1.14514_all.deb",
-    "Torrent_address": "wed-seewo_1.14514_all.deb.torrent",
-    "Pkgname": "wed-seewo",
-    "Author": "baimacao",
-    "Contributor": "baimacao",
-    "Website": "https://enweb.seewo.com/",
-    "Update": "2024-05-22 17:50:56",
-    "Size": "29.16 KB",
-    "More": "唯一被老师认可的希沃白板，可以正常上课，web应用",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/a0ba4974dee742fcb656146be01cb321.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/49082957d0c64a059f6cadb90be58342.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/b80a658ca0594703ad75bcbd7c0abccb.png"
 }
 ,
 {

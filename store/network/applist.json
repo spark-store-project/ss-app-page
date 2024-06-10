@@ -1494,6 +1494,20 @@
 }
 ,
 {
+   "Name":"Burpsuite",
+   "Version":"2020.5.1-0kali",
+   "Filename":"burpsuite.deb",
+   "Pkgname":"burpsuite",
+   "Author":"portswigger",
+   "Contributor":"Vlary",
+   "Website":"https://portswigger.net/burp",
+   "Update":"2020-07-08 21:27",
+   "Size":"337.20MB",
+   "More":"A platform for security testing of web applications.此版本是基于kali版本的重新打包。"
+}
+
+,
+{
     "Name": "网络投递",
     "Version": "0.4.0",
     "Filename": "landrop_0.4.0_amd64.deb",
@@ -1526,20 +1540,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/8975f98ed8244dd2a19491014997e654.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/20fb7f5da17c49d5b193d55ded4cd7f3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/7f52cd44ffa5447a9699842848691418.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/c80413687986457f97189418ec8f66ba.png"
 }
-,
-{
-   "Name":"Burpsuite",
-   "Version":"2020.5.1-0kali",
-   "Filename":"burpsuite.deb",
-   "Pkgname":"burpsuite",
-   "Author":"portswigger",
-   "Contributor":"Vlary",
-   "Website":"https://portswigger.net/burp",
-   "Update":"2020-07-08 21:27",
-   "Size":"337.20MB",
-   "More":"A platform for security testing of web applications.此版本是基于kali版本的重新打包。"
-}
-
 ,
 {
     "Name": "向日葵企业版客户端",
@@ -2357,6 +2357,23 @@
 }
 ,
 {
+    "Name": "QNAP QSync 自动同步软件",
+    "Version": "1.0.9.1627",
+    "Filename": "qnapqsyncclient_1.0.9.1627_amd64.deb",
+    "Torrent_address": "qnapqsyncclient_1.0.9.1627_amd64.deb.torrent",
+    "Pkgname": "qnapqsyncclient",
+    "Author": "QNAP Systems, Inc.",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.qnap.com.cn/zh-cn/utilities/essentials",
+    "Update": "2024-05-07 14:35:12",
+    "Size": "69.28 MB",
+    "More": "通过QNAP 应用工具发掘更多崭新便捷的NAS 使用方式。从快速设定、便利存取、安全备份、迅速复原、到简易档案分享及同步：QNAP应用工具帮您轻松完成每项日常工作。还有专为虚拟化环境及监视系统打造的优化管理工具。来看看 QNAP 为您准备哪些应用工具吧。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/5ffc6ea9694c47e485f87329d51d68bf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/697d397df78245849367de8c098e5586.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/d6944e2b85da47f396011d71e2249325.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/07/8b51b5bebe9b4d8cbce82e8478582148.png"
+}
+,
+{
     "Name": "Ideal Browser",
     "Version": "2020.3.22",
     "Filename": "org.ideal.browser_2020.3.22_amd64.deb",
@@ -2391,23 +2408,6 @@
 }
 ,
 {
-    "Name": "QNAP QSync 自动同步软件",
-    "Version": "1.0.9.1627",
-    "Filename": "qnapqsyncclient_1.0.9.1627_amd64.deb",
-    "Torrent_address": "qnapqsyncclient_1.0.9.1627_amd64.deb.torrent",
-    "Pkgname": "qnapqsyncclient",
-    "Author": "QNAP Systems, Inc.",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://www.qnap.com.cn/zh-cn/utilities/essentials",
-    "Update": "2024-05-07 14:35:12",
-    "Size": "69.28 MB",
-    "More": "通过QNAP 应用工具发掘更多崭新便捷的NAS 使用方式。从快速设定、便利存取、安全备份、迅速复原、到简易档案分享及同步：QNAP应用工具帮您轻松完成每项日常工作。还有专为虚拟化环境及监视系统打造的优化管理工具。来看看 QNAP 为您准备哪些应用工具吧。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/5ffc6ea9694c47e485f87329d51d68bf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/697d397df78245849367de8c098e5586.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/d6944e2b85da47f396011d71e2249325.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/07/8b51b5bebe9b4d8cbce82e8478582148.png"
-}
-,
-{
     "Name": "PDF to DOCX 转换器",
     "Version": "1.1",
     "Filename": "com.pdftodocx.deepin_1.1_all.deb",
@@ -2422,6 +2422,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b5310980-1c3c-11ef-844a-857c0f6b164f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b53a3140-1c3c-11ef-844a-857c0f6b164f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/b010a0f0-1c3c-11ef-844a-857c0f6b164f.png"
+}
+,
+{
+    "Name": "Pixso",
+    "Version": "1.34.1.0deepin0",
+    "Filename": "cn.pixso.deepin_1.34.1.0deepin0_all.deb",
+    "Torrent_address": "cn.pixso.deepin_1.34.1.0deepin0_all.deb.torrent",
+    "Pkgname": "cn.pixso.deepin",
+    "Author": "wang",
+    "Contributor": "wang",
+    "Website": "https://pixso.cn/",
+    "Update": "2024-06-03 21:03:26",
+    "Size": "153.13 MB",
+    "More": "pixso是一体化设计协作工具,助力产研设团队制作原型,ui/ux设计,视觉设计,低代码交付时获得更轻松流畅的工作体验,让团队协作更高效。支持sketch,figma格式。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/7a0bafbe06614fbcbf06fdff6b0ce383.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/4e021c1100e042ffbc569ebe3be505af.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/53c5ba918ec34951856cb0efcf25c5fe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/19eff2add87d4587aa32e377dc26d280.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/03/4c6b0778b67940ff90c7a85db23a5453.png"
 }
 ,
 {
@@ -2473,23 +2490,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/be694ac0-184b-11ef-95c3-1f03db4e195c.PNG\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/be83d7a0-184b-11ef-95c3-1f03db4e195c.PNG\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/be9bcc70-184b-11ef-95c3-1f03db4e195c.PNG\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/beb5bd10-184b-11ef-95c3-1f03db4e195c.PNG\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/b57fcc40-184b-11ef-95c3-1f03db4e195c.png"
-}
-,
-{
-    "Name": "Pixso",
-    "Version": "1.34.1.0deepin0",
-    "Filename": "cn.pixso.deepin_1.34.1.0deepin0_all.deb",
-    "Torrent_address": "cn.pixso.deepin_1.34.1.0deepin0_all.deb.torrent",
-    "Pkgname": "cn.pixso.deepin",
-    "Author": "wang",
-    "Contributor": "wang",
-    "Website": "https://pixso.cn/",
-    "Update": "2024-06-03 21:03:26",
-    "Size": "153.13 MB",
-    "More": "pixso是一体化设计协作工具,助力产研设团队制作原型,ui/ux设计,视觉设计,低代码交付时获得更轻松流畅的工作体验,让团队协作更高效。支持sketch,figma格式。",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/7a0bafbe06614fbcbf06fdff6b0ce383.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/4e021c1100e042ffbc569ebe3be505af.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/53c5ba918ec34951856cb0efcf25c5fe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/19eff2add87d4587aa32e377dc26d280.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/03/4c6b0778b67940ff90c7a85db23a5453.png"
 }
 ,
 {

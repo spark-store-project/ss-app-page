@@ -623,20 +623,6 @@
 }
 ,
 {
-   "Name":"Intel核心管理器",
-   "Version":"0.2.0",
-   "Filename":"dde-pstate_0.2.0_all.deb",
-   "Pkgname":"dde-pstate",
-   "Author":"搬运自网络",
-   "Contributor":"奇点法则",
-   "Website":"Q群：226570931",
-   "Update":"2020-07-27 00:32",
-   "Size":"74.25KB",
-   "More":"适用于Intel平台的核心频率管理器,仅支持deepin"
-}
-
-,
-{
     "Author": "DebuggerX <dx8913712@163.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.debuggerx.fcitx5-customizer_1.0.6_all.deb",
@@ -651,6 +637,20 @@
     "Website": "https://github.com/debuggerx01/fcitx5_customizer",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_4.png\"]"
+}
+
+,
+{
+   "Name":"Intel核心管理器",
+   "Version":"0.2.0",
+   "Filename":"dde-pstate_0.2.0_all.deb",
+   "Pkgname":"dde-pstate",
+   "Author":"搬运自网络",
+   "Contributor":"奇点法则",
+   "Website":"Q群：226570931",
+   "Update":"2020-07-27 00:32",
+   "Size":"74.25KB",
+   "More":"适用于Intel平台的核心频率管理器,仅支持deepin"
 }
 
 ,
@@ -1166,22 +1166,6 @@
 }
 ,
 {
-    "Name": "一个木函工具箱",
-    "Version": "0.1.0",
-    "Filename": "woodbox-desktop_0.1.0_amd64.deb",
-    "Pkgname": "woodbox-desktop",
-    "Author": "yeliulee",
-    "Contributor": "yeliulee（sgb76投稿）",
-    "Website": "https://web.woobx.cn/",
-    "Update": "2020-10-11 11:48:34",
-    "Size": "45.51 MB",
-    "More": "一个方便快捷的集合类工具箱",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/11/676bc990-0bb7-11eb-97bb-077cbe5cde25.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/11/6e64e9c0-0bb7-11eb-97bb-077cbe5cde25.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/11/60005f90-0bb7-11eb-97bb-077cbe5cde25.png"
-}
-,
-{
     "Name": "NxShell",
     "Version": "1.9.3",
     "Filename": "nxshell_1.9.3_amd64.deb",
@@ -1196,6 +1180,22 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/24/30ddf581e8184189b9d4dd73f81304c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/24/0c83a0e3229541e1a2ee576c2811e209.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/24/94e78221f9c6487f9dd6288361cffd02.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/24/79df0845453a4259bb6e5f31617ce76c.png"
+}
+,
+{
+    "Name": "一个木函工具箱",
+    "Version": "0.1.0",
+    "Filename": "woodbox-desktop_0.1.0_amd64.deb",
+    "Pkgname": "woodbox-desktop",
+    "Author": "yeliulee",
+    "Contributor": "yeliulee（sgb76投稿）",
+    "Website": "https://web.woobx.cn/",
+    "Update": "2020-10-11 11:48:34",
+    "Size": "45.51 MB",
+    "More": "一个方便快捷的集合类工具箱",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/11/676bc990-0bb7-11eb-97bb-077cbe5cde25.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/11/6e64e9c0-0bb7-11eb-97bb-077cbe5cde25.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/11/60005f90-0bb7-11eb-97bb-077cbe5cde25.png"
 }
 ,
 {
@@ -1263,23 +1263,6 @@
 }
 ,
 {
-    "Name": "DDE Top Panel 顶栏程序",
-    "Version": "0.6.8",
-    "Filename": "dde-top-panel_0.6.8_amd64.deb",
-    "Torrent_address": "dde-top-panel_0.6.8_amd64.deb.torrent",
-    "Pkgname": "dde-top-panel",
-    "Author": "SeptemberHX",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://github.com/SeptemberHX/dde-top-panel",
-    "Update": "2023-02-12 12:59:59",
-    "Size": "7.84 MB",
-    "More": "如何使用？\ngithub访问有问题的请直接从网盘下载（太大了，超过了论坛附件大小限制：\n    前往 https://github.com/SeptemberHX/dde-top-panel/releases 下载最新 release 包，如果是 zip 解压后即可得到 deb，直接安装，并在启动器设置自启动\n    以下步骤为全局菜单开启步骤，不需要的不用做。 \n    前往 https://github.com/SeptemberHX/dde-globalmenu-service.git 下载最新 release 安装包\n    安装即可，在 启动器中右键设置成自启动\n    修改文件 ~/.gtkrc-2.0 ，添加 gtk-modules=appmenu-gtk-module\n    修改文件 ～/.config/gtk-3.0/settings.ini ，[Settings] 条目下 添加      gtk-modules=appmenu-gtk-module\n    注销或者重启\n网盘：https://wwi.lanzoup.com/b01bh6pfg\n密码：fih3\n\n因为顶栏高度问题，官方的时间插件显示会挤在一起，这个只能用其它插件：https://bbs.deepin.org/post/198163  （原贴找不到了，作者看见请联系我修改。。）\n卸载 panel 后如果出现窗口最大化后不显示三个按钮：看一下 ~/.config/.kwinrc 文件，里面有一个配置项就是最大化时隐藏按钮，删掉那一行，然后注销重新登录就行了；或者先把 dde-top-panel 装回来，然后 panel 设置里取消勾选最大化隐藏按钮，然后在卸载 panel，注销并重新登录\n多个显示器出现panel错位：很奇怪，一部分人遇到了，一部分人没有遇到。如果遇见了，先把多余屏幕拔下来，设置好缩放后，再插回来\n如果 panel 上托盘异常，请确保 dde-top-panel 插件目录下的 libtray.so 是系统的最新版本！系统升级时 panel 不会主动更新 libtray.so 文件。\n\n------ 2022-03-09\nBug 修复：\n某些时候切换窗口导致的随机崩溃 => 详情见 Issue #50 · SeptemberHX/dde-top-panel",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/3904de29a51b4e3e8c26a2f456be12d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/42c6bfdbf3304cb58a8a166e8fad1ad0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/350feda6e5324cf1be313b628c70ffbd.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/b684d9613d46447dbb3c58d544b7e9e1.png"
-}
-,
-{
     "Name": "Deepin系统升级工具（20升23）",
     "Version": "6.0.9-1",
     "Filename": "deepin-system-upgrade_6.0.9-1_amd64.deb",
@@ -1294,6 +1277,23 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/46668d3bda6a46028ad3842bd961346f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/42e6744260854dd49e303072fc5e2f8f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/379070dd31584db8bfef997b7534187d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/3f63b22011e745b1841e332c80e94181.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/33f81e2af39a45d5bbea8d83e0f2af6c.png"
+}
+,
+{
+    "Name": "DDE Top Panel 顶栏程序",
+    "Version": "0.6.8",
+    "Filename": "dde-top-panel_0.6.8_amd64.deb",
+    "Torrent_address": "dde-top-panel_0.6.8_amd64.deb.torrent",
+    "Pkgname": "dde-top-panel",
+    "Author": "SeptemberHX",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://github.com/SeptemberHX/dde-top-panel",
+    "Update": "2023-02-12 12:59:59",
+    "Size": "7.84 MB",
+    "More": "如何使用？\ngithub访问有问题的请直接从网盘下载（太大了，超过了论坛附件大小限制：\n    前往 https://github.com/SeptemberHX/dde-top-panel/releases 下载最新 release 包，如果是 zip 解压后即可得到 deb，直接安装，并在启动器设置自启动\n    以下步骤为全局菜单开启步骤，不需要的不用做。 \n    前往 https://github.com/SeptemberHX/dde-globalmenu-service.git 下载最新 release 安装包\n    安装即可，在 启动器中右键设置成自启动\n    修改文件 ~/.gtkrc-2.0 ，添加 gtk-modules=appmenu-gtk-module\n    修改文件 ～/.config/gtk-3.0/settings.ini ，[Settings] 条目下 添加      gtk-modules=appmenu-gtk-module\n    注销或者重启\n网盘：https://wwi.lanzoup.com/b01bh6pfg\n密码：fih3\n\n因为顶栏高度问题，官方的时间插件显示会挤在一起，这个只能用其它插件：https://bbs.deepin.org/post/198163  （原贴找不到了，作者看见请联系我修改。。）\n卸载 panel 后如果出现窗口最大化后不显示三个按钮：看一下 ~/.config/.kwinrc 文件，里面有一个配置项就是最大化时隐藏按钮，删掉那一行，然后注销重新登录就行了；或者先把 dde-top-panel 装回来，然后 panel 设置里取消勾选最大化隐藏按钮，然后在卸载 panel，注销并重新登录\n多个显示器出现panel错位：很奇怪，一部分人遇到了，一部分人没有遇到。如果遇见了，先把多余屏幕拔下来，设置好缩放后，再插回来\n如果 panel 上托盘异常，请确保 dde-top-panel 插件目录下的 libtray.so 是系统的最新版本！系统升级时 panel 不会主动更新 libtray.so 文件。\n\n------ 2022-03-09\nBug 修复：\n某些时候切换窗口导致的随机崩溃 => 详情见 Issue #50 · SeptemberHX/dde-top-panel",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/3904de29a51b4e3e8c26a2f456be12d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/42c6bfdbf3304cb58a8a166e8fad1ad0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/350feda6e5324cf1be313b628c70ffbd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/b684d9613d46447dbb3c58d544b7e9e1.png"
 }
 ,
 {
@@ -2551,22 +2551,6 @@
 }
 ,
 {
-    "Name": "海天鹰时钟",
-    "Version": "1.0",
-    "Filename": "com.htyclock.spark_1.0_amd64.deb",
-    "Pkgname": "com.htyclock.spark",
-    "Author": "海天鹰",
-    "Contributor": "gfdgd xi",
-    "Website": "https://github.com/sonichy/HTYClock",
-    "Update": "2021-01-02 07:13:22",
-    "Size": "110.87 KB",
-    "More": "一个小时钟",
-    "Tags": "community;deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/b23e0ac0-4cc9-11eb-89fb-bf4424610143.gif\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/02/b4fba420-4cc9-11eb-89fb-bf4424610143.png"
-}
-,
-{
     "Name": "安卓信息查看器(adb)",
     "Version": "0.1.1-20230817",
     "Filename": "z-tools-adbmanager_0.1.1-20230817_amd64.deb",
@@ -2581,6 +2565,22 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/17/7e95222de2df4e8cb06e5766ae78610c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/17/38e21561bc794278b31f6c869edff8a8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/17/2997e98fdb2248098275d5397fa21bed.png"
+}
+,
+{
+    "Name": "海天鹰时钟",
+    "Version": "1.0",
+    "Filename": "com.htyclock.spark_1.0_amd64.deb",
+    "Pkgname": "com.htyclock.spark",
+    "Author": "海天鹰",
+    "Contributor": "gfdgd xi",
+    "Website": "https://github.com/sonichy/HTYClock",
+    "Update": "2021-01-02 07:13:22",
+    "Size": "110.87 KB",
+    "More": "一个小时钟",
+    "Tags": "community;deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/b23e0ac0-4cc9-11eb-89fb-bf4424610143.gif\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/02/b4fba420-4cc9-11eb-89fb-bf4424610143.png"
 }
 ,
 {
@@ -2798,6 +2798,23 @@
 }
 ,
 {
+    "Name": "dockerfile生成器(测试版本)",
+    "Version": "0.1-20230107",
+    "Filename": "z-tools-dockerfile_0.1-20230107_amd64.deb",
+    "Torrent_address": "z-tools-dockerfile_0.1-20230107_amd64.deb.torrent",
+    "Pkgname": "z-tools-dockerfile",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/z-tools",
+    "Update": "2023-01-07 04:13:16",
+    "Size": "33.47 KB",
+    "More": "Linux toolbox under development",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/07/b26d959d9bca48abb8a9f7c935de0c91.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/07/6c6054acb2df4e608c13c04260c35d58.png"
+}
+,
+{
     "Name": "DoubleCmd",
     "Version": "1.0.11spark3",
     "Filename": "doublecmd-spark_1.0.11spark3_amd64.deb",
@@ -2829,23 +2846,6 @@
     "Tags": "community;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/22/b26115b0-c896-11ed-bca3-0f6992c6a3c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/22/b4311ac0-c896-11ed-bca3-0f6992c6a3c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/22/b6424780-c896-11ed-bca3-0f6992c6a3c8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/22/b033ae60-c896-11ed-bca3-0f6992c6a3c8.png"
-}
-,
-{
-    "Name": "dockerfile生成器(测试版本)",
-    "Version": "0.1-20230107",
-    "Filename": "z-tools-dockerfile_0.1-20230107_amd64.deb",
-    "Torrent_address": "z-tools-dockerfile_0.1-20230107_amd64.deb.torrent",
-    "Pkgname": "z-tools-dockerfile",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/z-tools",
-    "Update": "2023-01-07 04:13:16",
-    "Size": "33.47 KB",
-    "More": "Linux toolbox under development",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/07/b26d959d9bca48abb8a9f7c935de0c91.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/07/6c6054acb2df4e608c13c04260c35d58.png"
 }
 ,
 {
@@ -3085,6 +3085,23 @@
 }
 ,
 {
+    "Name": "TTime",
+    "Version": "0.9.2",
+    "Filename": "time-translate_0.9.2_amd64.deb",
+    "Torrent_address": "time-translate_0.9.2_amd64.deb.torrent",
+    "Pkgname": "time-translate",
+    "Author": "LiangCheng",
+    "Contributor": "lizipeng0013",
+    "Website": "https://ttime.timerecord.cn/",
+    "Update": "2024-03-08 16:14:06",
+    "Size": "100.48 MB",
+    "More": "一款简洁、高效、高颜值的输入、截图、划词翻译软件",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/e2a6463e67684e2cb0057f9036cdce05.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/afccedfc52d24b7d8334615d38718062.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/69a1f508988c499ea38bde8992a9501a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/a55f26a5adbe437b9eb2364058a9114b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/08/58d929564fe54b7b9abaa43011e07e5b.png"
+}
+,
+{
     "Name": "QQ 用户服务",
     "Version": "0.0.1",
     "Filename": "linuxqq-autoservice_0.0.1_all.deb",
@@ -3118,39 +3135,6 @@
 }
 ,
 {
-    "Name": "红手指云手机（wine）",
-    "Version": "2.2.23.spark0",
-    "Filename": "com.redfingerplayer.spark_2.2.23.spark0_i386.deb",
-    "Pkgname": "com.redfingerplayer.spark",
-    "Author": "湖南微算互联信息技术有限公司",
-    "Contributor": "sgb76",
-    "Website": "https://www.gc.com.cn/",
-    "Update": "2020-10-03 10:06:09",
-    "Size": "52.64 MB",
-    "More": "红手指云手机是一个智能手机应用云平台，全面支持各种手机应用程序的展示、下载及应用与管理服务。  并卓越实现全天候云端智能托管应用，让用户在脱离移动终端的状态下，也能将各种应用程序托管到云端，保持全天候在线。已知问题：登录界面无法通过QQ登录，帐号登录和微信登录没有问题",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/03/d0a8d690-055f-11eb-9cad-b3640a7d923a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/03/d315b7e0-055f-11eb-9cad-b3640a7d923a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/03/d643ed60-055f-11eb-9cad-b3640a7d923a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/03/d8bdc700-055f-11eb-9cad-b3640a7d923a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/03/cc9cc430-055f-11eb-9cad-b3640a7d923a.png"
-}
-,
-{
-    "Name": "TTime",
-    "Version": "0.9.2",
-    "Filename": "time-translate_0.9.2_amd64.deb",
-    "Torrent_address": "time-translate_0.9.2_amd64.deb.torrent",
-    "Pkgname": "time-translate",
-    "Author": "LiangCheng",
-    "Contributor": "lizipeng0013",
-    "Website": "https://ttime.timerecord.cn/",
-    "Update": "2024-03-08 16:14:06",
-    "Size": "100.48 MB",
-    "More": "一款简洁、高效、高颜值的输入、截图、划词翻译软件",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/e2a6463e67684e2cb0057f9036cdce05.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/afccedfc52d24b7d8334615d38718062.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/69a1f508988c499ea38bde8992a9501a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/a55f26a5adbe437b9eb2364058a9114b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/08/58d929564fe54b7b9abaa43011e07e5b.png"
-}
-,
-{
     "Name": "通知中心天气小组件",
     "Version": "0.1-1",
     "Filename": "dde-widgets-weather-plugin_0.1-1_amd64.deb",
@@ -3165,6 +3149,22 @@
     "Tags": "community;deepin;dtk5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/4dcb79eff8654ae79b2984638ab7849c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/f1cd8bb207bb4f33b4de84d1f27688e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/b73a74a7b2cc4402a3918623d7d01278.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/a16b522362684bf8a7c72b08a676f017.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/24/574f62857e744d6db3046b8053364a02.png"
+}
+,
+{
+    "Name": "红手指云手机（wine）",
+    "Version": "2.2.23.spark0",
+    "Filename": "com.redfingerplayer.spark_2.2.23.spark0_i386.deb",
+    "Pkgname": "com.redfingerplayer.spark",
+    "Author": "湖南微算互联信息技术有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.gc.com.cn/",
+    "Update": "2020-10-03 10:06:09",
+    "Size": "52.64 MB",
+    "More": "红手指云手机是一个智能手机应用云平台，全面支持各种手机应用程序的展示、下载及应用与管理服务。  并卓越实现全天候云端智能托管应用，让用户在脱离移动终端的状态下，也能将各种应用程序托管到云端，保持全天候在线。已知问题：登录界面无法通过QQ登录，帐号登录和微信登录没有问题",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/03/d0a8d690-055f-11eb-9cad-b3640a7d923a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/03/d315b7e0-055f-11eb-9cad-b3640a7d923a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/03/d643ed60-055f-11eb-9cad-b3640a7d923a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/03/d8bdc700-055f-11eb-9cad-b3640a7d923a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/03/cc9cc430-055f-11eb-9cad-b3640a7d923a.png"
 }
 ,
 {
