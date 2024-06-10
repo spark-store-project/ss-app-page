@@ -17763,27 +17763,6 @@ Description: cloudar-electron
 
 Package: xmcl
 Architecture: amd64
-Version: 0.44.0-786
-Priority: optional
-Section: default
-Maintainer: ci010 <cijhn@hotmail.com>
-Installed-Size: 278146
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: games/xmcl/xmcl_0.44.0-786_amd64.deb
-Size: 78892518
-MD5sum: ee066c97b3ab586733907a65f9f9e908
-SHA1: 0cb8231d62f4da27c88e17b1a7cff0e484f14571
-SHA256: d68ad07bd10a36f468376be544e0144e6509eb43396d7ca6d4f73748690cc79b
-SHA512: d2a36022b3424c28e71262c3ab5356784d9c6c55d05cfd556a30ae983c7ef0ebb78f562de51e4b62df470b4449feb07dc52c548cdd274e6a89c1cf4b873294cc
-Homepage: https://github.com/voxelum/x-minecraft-launcher#readme
-Description: 
-  A great minecraft launcher in the future
-License: MIT
-Vendor: ci010 <cijhn@hotmail.com>
-
-Package: xmcl
-Architecture: amd64
 Version: 0.44.7-832
 Priority: optional
 Section: default
@@ -23636,22 +23615,6 @@ SHA1: a71bfd7ba81e07c2efdec5334a8148715e246838
 SHA256: 5f7aa8c9a3146abe4acae62b4466c19fe8ff5aee398369f1508defdd4f480f6c
 SHA512: fc7e9f28c10ea1556ea6836139c82e0a884c31a3bdf2ca1cccedc4f3f4eb06a81805ac7333e5e89b9d92a34d4147ed671d0f41062f9e4335f516bc0c952b1c58
 Description: 一款漂亮实用的笔记软件，由sgb76打包
-
-Package: md.obsidian.spark
-Architecture: amd64
-Version: 1.5.11spark12
-Priority: optional
-Section: editors
-Maintainer: sgb76 <sgb76@163.com>
-Filename: office/md.obsidian.spark/md.obsidian.spark_1.5.11spark12_amd64.deb
-Size: 80862624
-MD5sum: 53dc312fb32de00c528151aa1112d26d
-SHA1: 9644fd530816ed918776e03db7e0b6bbcb0077f5
-SHA256: 4e31be1875c0bc0ce0dc288164e7aaf69d8c0966f1ea8b320e7a16ab8706b7bf
-SHA512: b230efb002f7c5fced7cb69a7d7054aa89893a8155ce04327df506443a1bc80769f96759136202a0f57568ac2623d59d5b1fbbc9b1e9dc93f9c1c46d43f174ea
-Homepage: https://obsidian.md/
-Description: Obsidian
- Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 
 Package: md.obsidian.spark
 Architecture: amd64
