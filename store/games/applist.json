@@ -466,23 +466,6 @@
 }
 ,
 {
-    "Name": "红色警戒3:起义时刻",
-    "Version": "1.0spark0",
-    "Filename": "com.redalert3uprising.spark_1.0spark0_amd64.deb",
-    "Torrent_address": "com.redalert3uprising.spark_1.0spark0_amd64.deb.torrent",
-    "Pkgname": "com.redalert3uprising.spark",
-    "Author": "Electronic Arts",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-05-22 21:28:58",
-    "Size": "2.14 GB",
-    "More": "《令与征服命：红色警戒3起义时刻》中文版\n\n注：只在deepin下测试通过，其他发行版未作测试",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/b826c660-f8a3-11ed-9eb8-af030df06428.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/bb6883e0-f8a3-11ed-9eb8-af030df06428.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/be4df090-f8a3-11ed-9eb8-af030df06428.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/22/b432f6f0-f8a3-11ed-9eb8-af030df06428.png"
-}
-,
-{
     "Name": "暴雪战网客户端（wine）",
     "Version": "2.13.1.13521deepin6",
     "Filename": "cn.blizzardgames.battlenet.spark_2.13.1.13521deepin6_amd64.deb",
@@ -497,6 +480,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/25/943f1750-f44b-11ec-95cd-334d21a0f722.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/25/92ed1be0-f44b-11ec-95cd-334d21a0f722.png"
+}
+,
+{
+    "Name": "红色警戒3:起义时刻",
+    "Version": "1.0spark0",
+    "Filename": "com.redalert3uprising.spark_1.0spark0_amd64.deb",
+    "Torrent_address": "com.redalert3uprising.spark_1.0spark0_amd64.deb.torrent",
+    "Pkgname": "com.redalert3uprising.spark",
+    "Author": "Electronic Arts",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-05-22 21:28:58",
+    "Size": "2.14 GB",
+    "More": "《令与征服命：红色警戒3起义时刻》中文版\n\n注：只在deepin下测试通过，其他发行版未作测试",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/b826c660-f8a3-11ed-9eb8-af030df06428.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/bb6883e0-f8a3-11ed-9eb8-af030df06428.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/be4df090-f8a3-11ed-9eb8-af030df06428.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/22/b432f6f0-f8a3-11ed-9eb8-af030df06428.png"
 }
 ,
 {
@@ -535,22 +535,6 @@
 
 ,
 {
-    "Name": "帝国时代之罗马复兴（wine）",
-    "Version": "1.0.spark0",
-    "Filename": "com.ageempires.spark_1.0.spark0_i386.deb",
-    "Pkgname": "com.ageempires.spark",
-    "Author": "微软",
-    "Contributor": "sgb76",
-    "Website": "不详",
-    "Update": "2020-11-02 02:47:28",
-    "Size": "48.36 MB",
-    "More": "微软开发的一款经典的即时战略游戏。",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/02/4b2a1700-1cb5-11eb-ac50-b5730d1a452f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/02/4ec39170-1cb5-11eb-ac50-b5730d1a452f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/02/53a458f0-1cb5-11eb-ac50-b5730d1a452f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/02/42bc5830-1cb5-11eb-ac50-b5730d1a452f.png"
-}
-,
-{
     "Name": "极品飞车9:最高通缉",
     "Version": "1.0spark0",
     "Filename": "com.nfsmw.spark_1.0spark0_amd64.deb",
@@ -565,6 +549,22 @@
     "Tags": "deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/01/5cddeae5d3d543bb99df5675a3c65f2d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/01/a86954357c99457680fa9dbcce4f45bc.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/01/1f3a134ba5cf4d149669408b14e6a583.png"
+}
+,
+{
+    "Name": "帝国时代之罗马复兴（wine）",
+    "Version": "1.0.spark0",
+    "Filename": "com.ageempires.spark_1.0.spark0_i386.deb",
+    "Pkgname": "com.ageempires.spark",
+    "Author": "微软",
+    "Contributor": "sgb76",
+    "Website": "不详",
+    "Update": "2020-11-02 02:47:28",
+    "Size": "48.36 MB",
+    "More": "微软开发的一款经典的即时战略游戏。",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/02/4b2a1700-1cb5-11eb-ac50-b5730d1a452f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/02/4ec39170-1cb5-11eb-ac50-b5730d1a452f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/02/53a458f0-1cb5-11eb-ac50-b5730d1a452f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/02/42bc5830-1cb5-11eb-ac50-b5730d1a452f.png"
 }
 ,
 {
@@ -3334,6 +3334,23 @@
 }
 ,
 {
+    "Name": "osu!",
+    "Version": "2024.521.2",
+    "Filename": "osu-lazer_2024.521.2_amd64.deb",
+    "Torrent_address": "osu-lazer_2024.521.2_amd64.deb.torrent",
+    "Pkgname": "osu-lazer",
+    "Author": "spark-store",
+    "Contributor": "idleness",
+    "Website": "https://osu.ppy.sh",
+    "Update": "2024-05-22 17:24:27",
+    "Size": "123.24 MB",
+    "More": "棒到不行的免费音乐游戏\n节奏跃然指上",
+    "Tags": "community;ubuntu;deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/fd706b725a9f4c269885724179bf7f49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/40d996cf8d9b4b8c94981f83a08da326.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/eb296713969d44ddb5fea640b5642286.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/d819d2eb6cfd40bf9a0785e71864763d.png"
+}
+,
+{
     "Name": "预防性打击",
     "Version": "1.0spark0",
     "Filename": "com.preventivestrike.spark_1.0spark0_amd64.deb",
@@ -3398,23 +3415,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/16/503ffbac49ce4d3aab00db48af99628e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/16/fc1afdc475c54ad79d3ac88cba417dfb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/16/4957a9e0a4a3479695c7b07e1c2f166c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/16/953659e81fcc4cf594c1797b7060eee6.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/16/0866fc5b5c284a24a8e147ad6fdc896b.png"
-}
-,
-{
-    "Name": "osu!",
-    "Version": "2024.521.2",
-    "Filename": "osu-lazer_2024.521.2_amd64.deb",
-    "Torrent_address": "osu-lazer_2024.521.2_amd64.deb.torrent",
-    "Pkgname": "osu-lazer",
-    "Author": "spark-store",
-    "Contributor": "idleness",
-    "Website": "https://osu.ppy.sh",
-    "Update": "2024-05-22 17:24:27",
-    "Size": "123.24 MB",
-    "More": "棒到不行的免费音乐游戏\n节奏跃然指上",
-    "Tags": "community;ubuntu;deepin;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/fd706b725a9f4c269885724179bf7f49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/40d996cf8d9b4b8c94981f83a08da326.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/eb296713969d44ddb5fea640b5642286.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/d819d2eb6cfd40bf9a0785e71864763d.png"
 }
 ,
 {
@@ -4476,6 +4476,23 @@
 }
 ,
 {
+    "Name": "围棋",
+    "Version": "1.37",
+    "Filename": "uengine-dc-com.cnvcs.go_1.37_all.deb",
+    "Torrent_address": "uengine-dc-com.cnvcs.go_1.37_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.cnvcs.go",
+    "Author": "cnvcs.com",
+    "Contributor": "tasuo",
+    "Website": "https://www.cnvcs.com",
+    "Update": "2024-06-06 20:29:16",
+    "Size": "24.37 MB",
+    "More": "可人机，可人与人对战。无广告，干净的游戏。",
+    "Tags": "uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/06/4199e7a0-2400-11ef-9e24-afc67cc7b45e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/06/419fb400-2400-11ef-9e24-afc67cc7b45e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/06/38694e00-2400-11ef-9e24-afc67cc7b45e.png"
+}
+,
+{
     "Name": "Papa Louie（老爹路易）",
     "Version": "2.0",
     "Filename": "com.papalouie.spark_2.0_amd64.deb",
@@ -4524,23 +4541,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/ddc48740-2476-11ef-8f36-751d99752291.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/ddc830c0-2476-11ef-8f36-751d99752291.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/07/d0410e40-2476-11ef-8f36-751d99752291.png"
-}
-,
-{
-    "Name": "围棋",
-    "Version": "1.37",
-    "Filename": "uengine-dc-com.cnvcs.go_1.37_all.deb",
-    "Torrent_address": "uengine-dc-com.cnvcs.go_1.37_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.cnvcs.go",
-    "Author": "cnvcs.com",
-    "Contributor": "tasuo",
-    "Website": "https://www.cnvcs.com",
-    "Update": "2024-06-06 20:29:16",
-    "Size": "24.37 MB",
-    "More": "可人机，可人与人对战。无广告，干净的游戏。",
-    "Tags": "uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/06/4199e7a0-2400-11ef-9e24-afc67cc7b45e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/06/419fb400-2400-11ef-9e24-afc67cc7b45e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/06/38694e00-2400-11ef-9e24-afc67cc7b45e.png"
 }
 ,
 {

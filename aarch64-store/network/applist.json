@@ -681,24 +681,6 @@
 
 ,
 {
-    "Author": "Mark Greaves (PCNeSpec) <mark@pcnetspec.co.uk>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "ice_6.0.8_all.deb",
-    "More": "Front end for building single site browsers using\n Chromium, Chrome, Vivaldi, or Firefox as a backend,\n allowing custom menu integration.",
-    "Name": "ICE---WebAPP创建器",
-    "Pkgname": "ice",
-    "Size": "34 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "ice_6.0.8_all.deb.torrent",
-    "Update": "2023-04-02 13:51:53",
-    "Version": "6.0.8",
-    "Website": "https://github.com/peppermintos/ice",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/ice/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/ice/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/ice/screen_2.png\"]"
-}
-
-,
-{
     "Author": "zzzgydi, wonfen, MystiPanda",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "clash-verge_1.6.5_arm64.deb",
@@ -713,6 +695,24 @@
     "Website": "https://clash-verge-rev.github.io/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "Mark Greaves (PCNeSpec) <mark@pcnetspec.co.uk>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "ice_6.0.8_all.deb",
+    "More": "Front end for building single site browsers using\n Chromium, Chrome, Vivaldi, or Firefox as a backend,\n allowing custom menu integration.",
+    "Name": "ICE---WebAPP创建器",
+    "Pkgname": "ice",
+    "Size": "34 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "ice_6.0.8_all.deb.torrent",
+    "Update": "2023-04-02 13:51:53",
+    "Version": "6.0.8",
+    "Website": "https://github.com/peppermintos/ice",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/ice/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/ice/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/ice/screen_2.png\"]"
 }
 
 ,

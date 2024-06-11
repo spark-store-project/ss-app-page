@@ -393,23 +393,6 @@
 }
 ,
 {
-    "Name": "雷鸟邮件",
-    "Version": "108.3~latest1",
-    "Filename": "thunderbird.spark_108.3~latest1_amd64.deb",
-    "Torrent_address": "thunderbird.spark_108.3~latest1_amd64.deb.torrent",
-    "Pkgname": "thunderbird.spark",
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://www.thunderbird.net",
-    "Update": "2023-02-15 11:04:54",
-    "Size": "2.55 KB",
-    "More": "Thunderbird是Mozilla开发的一款流行的跨平台邮件客户端\n\n补全依赖，添加推荐birdtray",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/15/910189204f4d4332abc765ad0d8a9b99.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/15/a6594f87ac2e429b9cf76d3906a498cc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/15/d6411f3596b04173ab3132528ba7a2d2.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/15/3dadb2e4d54d45f8bb550760b391f644.png"
-}
-,
-{
     "Name": "星耀U社（UEngine）",
     "Version": "2.2.0",
     "Filename": "uengine-dc-com.xingyao.com_2.2.0_all.deb",
@@ -424,6 +407,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/01/fd8560fd118c439bb3a54a6048b0fd95.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/01/de4de2db9f034c739bb472104e2ec4e4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/01/2dc5db140318485e84bf7793d1b10ef6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/01/8b9ecef619094537b16bd31c2c2dabed.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/01/59bb9a9dafba40eabb3ce7b64d2e9262.png"
+}
+,
+{
+    "Name": "雷鸟邮件",
+    "Version": "108.3~latest1",
+    "Filename": "thunderbird.spark_108.3~latest1_amd64.deb",
+    "Torrent_address": "thunderbird.spark_108.3~latest1_amd64.deb.torrent",
+    "Pkgname": "thunderbird.spark",
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.thunderbird.net",
+    "Update": "2023-02-15 11:04:54",
+    "Size": "2.55 KB",
+    "More": "Thunderbird是Mozilla开发的一款流行的跨平台邮件客户端\n\n补全依赖，添加推荐birdtray",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/15/910189204f4d4332abc765ad0d8a9b99.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/15/a6594f87ac2e429b9cf76d3906a498cc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/15/d6411f3596b04173ab3132528ba7a2d2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/15/3dadb2e4d54d45f8bb550760b391f644.png"
 }
 ,
 {

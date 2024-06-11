@@ -840,23 +840,6 @@
 }
 ,
 {
-    "Name": "Marktext中文版",
-    "Version": "0.17.1",
-    "Filename": "marktext_0.17.1_amd64.deb",
-    "Torrent_address": "marktext_0.17.1_amd64.deb.torrent",
-    "Pkgname": "marktext",
-    "Author": "MarkText",
-    "Contributor": "chinayangxiaowei",
-    "Website": "https://github.com/chinayangxiaowei/marktext-chinese-language-pack/",
-    "Update": "2023-11-19 16:58:38",
-    "Size": "76.86 MB",
-    "More": "一个简单而优雅的markdown编辑器, Typora的开源替代品。中文版由chinayangxiaowei制作",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/34c40b3b9dd94709bc40632585140c16.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/b3c645003c154fa4a5a1bc659309984b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/6817cc0c6aaa419296803eb47e2a4484.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/19/95e39f618ef646eaad59f3b86fa74c48.png"
-}
-,
-{
     "Name": "To Do",
     "Version": "2.63.237",
     "Filename": "uengine-dc-com.microsoft.todos_2.63.237_all.deb",
@@ -871,6 +854,23 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/5bb1048c-7381-4ecb-b15f-7d7b7d76f894.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/ff1be33b-e3fa-44e3-9034-b58e25cd14fc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/160ef709-ac00-4324-89b8-5dfc30367b57.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/93fb27d9-5931-4c48-b8cd-6b07c3f32165.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/0b341858-8354-4b96-b300-c7d1dd5b267f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/30/07542c5f-9399-45a4-a80f-0695ddb122ce.png"
+}
+,
+{
+    "Name": "Marktext中文版",
+    "Version": "0.17.1",
+    "Filename": "marktext_0.17.1_amd64.deb",
+    "Torrent_address": "marktext_0.17.1_amd64.deb.torrent",
+    "Pkgname": "marktext",
+    "Author": "MarkText",
+    "Contributor": "chinayangxiaowei",
+    "Website": "https://github.com/chinayangxiaowei/marktext-chinese-language-pack/",
+    "Update": "2023-11-19 16:58:38",
+    "Size": "76.86 MB",
+    "More": "一个简单而优雅的markdown编辑器, Typora的开源替代品。中文版由chinayangxiaowei制作",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/34c40b3b9dd94709bc40632585140c16.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/b3c645003c154fa4a5a1bc659309984b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/6817cc0c6aaa419296803eb47e2a4484.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/19/95e39f618ef646eaad59f3b86fa74c48.png"
 }
 ,
 {
@@ -1383,23 +1383,6 @@
 }
 ,
 {
-    "Name": "PDFsam Basic",
-    "Version": "5.2.0-1",
-    "Filename": "pdfsam-basic_5.2.0-1_all.deb",
-    "Torrent_address": "pdfsam-basic_5.2.0-1_all.deb.torrent",
-    "Pkgname": "pdfsam-basic",
-    "Author": "Andrea Vacondio",
-    "Contributor": "sgb76",
-    "Website": "https://pdfsam.org",
-    "Update": "2023-11-07 11:37:13",
-    "Size": "82.58 MB",
-    "More": "PDFsam Basic是一款用来分割、合并、旋转、混合以及从PDF文件中提取页面的pdf工具软件，免费而且开源",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/4d116650b3a34d50a2f7a33e8dd41479.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/a327e6c7c7b549328f1e0da8e713aef0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/39b2e53f7e5d431c95ef4c95a92a38c0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/59ea48faaae04c7a9ad37d977d395a1c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/07/631f465473f1472fbb934eb7ed709f8c.png"
-}
-,
-{
     "Name": "Kuro(第三方微软 Todo)",
     "Version": "9.0.0",
     "Filename": "kuro_9.0.0_amd64.deb",
@@ -1414,6 +1397,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/31/0decdf5e58284e4592f2e4c309cf88ab.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/31/ecd5b9d3ed5744cfa54bac952d8e4705.png"
+}
+,
+{
+    "Name": "PDFsam Basic",
+    "Version": "5.2.0-1",
+    "Filename": "pdfsam-basic_5.2.0-1_all.deb",
+    "Torrent_address": "pdfsam-basic_5.2.0-1_all.deb.torrent",
+    "Pkgname": "pdfsam-basic",
+    "Author": "Andrea Vacondio",
+    "Contributor": "sgb76",
+    "Website": "https://pdfsam.org",
+    "Update": "2023-11-07 11:37:13",
+    "Size": "82.58 MB",
+    "More": "PDFsam Basic是一款用来分割、合并、旋转、混合以及从PDF文件中提取页面的pdf工具软件，免费而且开源",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/4d116650b3a34d50a2f7a33e8dd41479.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/a327e6c7c7b549328f1e0da8e713aef0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/39b2e53f7e5d431c95ef4c95a92a38c0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/59ea48faaae04c7a9ad37d977d395a1c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/07/631f465473f1472fbb934eb7ed709f8c.png"
 }
 ,
 {
@@ -3224,6 +3224,23 @@
 }
 ,
 {
+    "Name": "WPS Office 2016",
+    "Version": "10.1.0.6757spark1",
+    "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
+    "Torrent_address": "wps-office-2016_10.1.0.6757spark1_amd64.deb.torrent",
+    "Pkgname": "wps-office-2016",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://wps-community.org",
+    "Update": "2024-05-19 16:58:39",
+    "Size": "129.41 MB",
+    "More": "WPS Office 2016 旧版本，三组件分别独立，资源占用更小，支持类 office 2003 经典界面\n云同步功能依旧可用\n与现行的 WPS Office， 2019 冲突",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
+}
+,
+{
     "Name": "okular",
     "Version": "4",
     "Filename": "okular_4_amd64.deb",
@@ -3401,6 +3418,23 @@
 }
 ,
 {
+    "Name": "方正CEB阅读器",
+    "Version": "1.0.20200629-1",
+    "Filename": "com.founderinternational.cebreader_1.0.20200629-1_amd64.deb",
+    "Torrent_address": "com.founderinternational.cebreader_1.0.20200629-1_amd64.deb.torrent",
+    "Pkgname": "com.founderinternational.cebreader",
+    "Author": "unknown <founder@unknown>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "<insert the upstream URL, if relevant>",
+    "Update": "2023-02-25 15:16:40",
+    "Size": "42.87 MB",
+    "More": "方正CEB版式文档阅读器是一款版式文档阅读软件，支持基于方正自主研发的CEB（Chinese E-paperBasic）文档在Linux环境下的阅读和打印，并能与之进行\n交互。\n本应用支持阅读视图模式的自定义，提供多种阅读导航功能，为用户提供简单、明了、快捷的阅读体验。可与第三方系统集成，是理想的文档阅读工具。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/25/308a6eabb57444beb180ef25506dd8c3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/25/6c110b828e5c46a2881ac6d21eef6c56.png"
+}
+,
+{
     "Name": "口袋写作",
     "Version": "0.1.1spark0",
     "Filename": "cn.kdwrite.spark_0.1.1spark0_amd64.deb",
@@ -3435,23 +3469,6 @@
 }
 ,
 {
-    "Name": "WPS Office 2016",
-    "Version": "10.1.0.6757spark1",
-    "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
-    "Torrent_address": "wps-office-2016_10.1.0.6757spark1_amd64.deb.torrent",
-    "Pkgname": "wps-office-2016",
-    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://wps-community.org",
-    "Update": "2024-05-19 16:58:39",
-    "Size": "129.41 MB",
-    "More": "WPS Office 2016 旧版本，三组件分别独立，资源占用更小，支持类 office 2003 经典界面\n云同步功能依旧可用\n与现行的 WPS Office， 2019 冲突",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
-}
-,
-{
     "Name": "動畫模擬教學_PhET",
     "Version": "202112",
     "Filename": "ezgo-phet_202112_all.deb",
@@ -3466,23 +3483,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/30/0e014680-f866-11ec-b2f0-21c04091535e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/30/0ff09360-f866-11ec-b2f0-21c04091535e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/30/1216cec0-f866-11ec-b2f0-21c04091535e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/30/13e35160-f866-11ec-b2f0-21c04091535e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/30/d50cbd50-f865-11ec-b2f0-21c04091535e.png"
-}
-,
-{
-    "Name": "方正CEB阅读器",
-    "Version": "1.0.20200629-1",
-    "Filename": "com.founderinternational.cebreader_1.0.20200629-1_amd64.deb",
-    "Torrent_address": "com.founderinternational.cebreader_1.0.20200629-1_amd64.deb.torrent",
-    "Pkgname": "com.founderinternational.cebreader",
-    "Author": "unknown <founder@unknown>",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "<insert the upstream URL, if relevant>",
-    "Update": "2023-02-25 15:16:40",
-    "Size": "42.87 MB",
-    "More": "方正CEB版式文档阅读器是一款版式文档阅读软件，支持基于方正自主研发的CEB（Chinese E-paperBasic）文档在Linux环境下的阅读和打印，并能与之进行\n交互。\n本应用支持阅读视图模式的自定义，提供多种阅读导航功能，为用户提供简单、明了、快捷的阅读体验。可与第三方系统集成，是理想的文档阅读工具。",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/25/308a6eabb57444beb180ef25506dd8c3.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/25/6c110b828e5c46a2881ac6d21eef6c56.png"
 }
 ,
 {
