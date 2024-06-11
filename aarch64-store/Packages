@@ -6141,6 +6141,23 @@ Description:
 License: MIT
 Vendor: TencentDocs
 
+Package: spark.office2010-runner.com
+Architecture: all
+Version: 14.0.0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: 洗头_乐
+Installed-Size: 1084047
+Depends: deepin-wine6-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: office/spark.office2010-runner.com/spark.office2010-runner.com_14.0.0_all.deb
+Size: 1082598636
+MD5sum: c8e9755749f8869cea5d457ef05f0670
+SHA1: c78e675fd5c5eeec8eea6487d7bd5acdea9c3467
+SHA256: eac791bb23d7486f27ba42018ff1168aa06ae484efc3fabe0413b2fe526bfd17
+SHA512: 4ae5f14ee0f0b87078a73118b7f62f1c5e68296e4dedb7296c137f61a7038dadcafacc559e16998c0154b5e5f3f85cdad385b0d86566021d4aa70713b9bcff11
+Description: 修复以下问题：1.powerprint在deepinV23打不开 2.ppt拉伸窗口闪退
+
 Package: com.yozosoft.yozo-office
 Architecture: arm64
 Version: 9.0.3988.191ZH.S1
@@ -7950,6 +7967,23 @@ SHA256: 3a8a20993b2bc4a9837a11cdaaa6d05f90135a9c6d032906820be35b1f060b16
 SHA512: 35bebc90d68f8cc1c879c11ea30e662e036983a7b0605db6b7339ba259a76d665f9fe3ee47f95a9c8e065567eb4cbe427bd132e7c8f32270a3559a177a366c06
 Description: WeChat Client
  WeChat Client for Windows. Thank to the Effort to 懵仙兔兔Mejituu, 报废的工程师, sgb76 and shenmo
+
+Package: com.alibabainc.dingtalk
+Architecture: arm64
+Version: 7.5.20.40605
+Priority: optional
+Section: devel
+Maintainer: dingtalk alibaba-inc
+Installed-Size: 1198361
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: chat/com.alibabainc.dingtalk/com.alibabainc.dingtalk_7.5.20.40605_arm64.deb
+Size: 336992714
+MD5sum: 3d2db359daf57516d59e783719177869
+SHA1: fced7805976671e38e17c0b7c4282bf98e259e0d
+SHA256: ba4f743958f54b56920cecaca78a95458d1321f706423f4200d8f21519869987
+SHA512: 313facd519b7b4ad508abe83ebe39cff7f917ab629f9bf2b390eca132827c5d690a5d4d7486ac27b550a7a1829b545d91e33bf18c991943e6e291a8120981fec
+Homepage: https://gov.dingtalk.com
+Description: 钉钉
 
 Package: com.alibabainc.dingtalk
 Architecture: arm64

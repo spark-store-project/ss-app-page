@@ -816,23 +816,6 @@
 }
 ,
 {
-    "Name": "darktable",
-    "Version": "4.6.1-1.1+74.1",
-    "Filename": "darktable_4.6.1-1.1_plus74.1_amd64.deb",
-    "Torrent_address": "darktable_4.6.1-1.1_plus74.1_amd64.deb.torrent",
-    "Pkgname": "darktable",
-    "Author": "Debian PhotoTools Maintainers <pkg-phototools-devel@lists.alioth.debian.org>",
-    "Contributor": "ThinkYoung",
-    "Website": "http://www.darktable.org/",
-    "Update": "2024-05-08 11:36:01",
-    "Size": "6.1 MB",
-    "More": "darktable是一个开源的摄影工作应用和raw处理工具,可以给摄影师提供一个虚拟的灯光台和暗室",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/08/f6411ecb1eb446b794e96ada8fd988d9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/08/4d64040d94b74508a00f433da9136b7b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/08/c8b512dcc2244ab0a55106341ca400ef.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/08/e0c7c4c1882a4a4e84fe23fe64ef654a.png"
-}
-,
-{
     "Name": "浩辰CAD For Linux",
     "Version": "24.1",
     "Filename": "com.gstarcad.cad_24.1_amd64.deb",
@@ -847,6 +830,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/061c7a6fa1d84c2ab02a55cdfd24a567.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/fa6372503fcb4fa9a352175b4ea39cef.png"
+}
+,
+{
+    "Name": "darktable",
+    "Version": "4.6.1-1.1+74.1",
+    "Filename": "darktable_4.6.1-1.1_plus74.1_amd64.deb",
+    "Torrent_address": "darktable_4.6.1-1.1_plus74.1_amd64.deb.torrent",
+    "Pkgname": "darktable",
+    "Author": "Debian PhotoTools Maintainers <pkg-phototools-devel@lists.alioth.debian.org>",
+    "Contributor": "ThinkYoung",
+    "Website": "http://www.darktable.org/",
+    "Update": "2024-05-08 11:36:01",
+    "Size": "6.1 MB",
+    "More": "darktable是一个开源的摄影工作应用和raw处理工具,可以给摄影师提供一个虚拟的灯光台和暗室",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/08/f6411ecb1eb446b794e96ada8fd988d9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/08/4d64040d94b74508a00f433da9136b7b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/08/c8b512dcc2244ab0a55106341ca400ef.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/08/e0c7c4c1882a4a4e84fe23fe64ef654a.png"
 }
 ,
 {

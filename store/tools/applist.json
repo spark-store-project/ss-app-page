@@ -875,23 +875,6 @@
 }
 ,
 {
-    "Name": "Bleachbit",
-    "Version": "4.4.2-0",
-    "Filename": "bleachbit_4.4.2-0_all.deb",
-    "Torrent_address": "bleachbit_4.4.2-0_all.deb.torrent",
-    "Pkgname": "bleachbit",
-    "Author": "Andrew Ziem",
-    "Contributor": "sgb76",
-    "Website": "https://www.bleachbit.org/",
-    "Update": "2022-04-20 00:03:55",
-    "Size": "436.99 KB",
-    "More": "BleachBit是一款开源的系统清理工具，它可以释放磁盘空间，保护您的隐私，清除缓存，删除cookies、internet历史、临时文件、日志和丢弃的垃圾文件等，支持清除应用的残留数据，切碎文件防止恢复、隐藏被删除文件的痕迹等功能。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/20/325ede10-bffa-11ec-a680-878a6ae343fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/20/359047e0-bffa-11ec-a680-878a6ae343fa.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/20/2d051600-bffa-11ec-a680-878a6ae343fa.png"
-}
-,
-{
     "Name": "LocalSend",
     "Version": "1.14.0+45",
     "Filename": "localsend_1.14.0_plus_45_amd64.deb",
@@ -908,6 +891,23 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/a6433d9fb4de4166ab3a3531bb9d76a9.png"
 }
 
+,
+{
+    "Name": "Bleachbit",
+    "Version": "4.4.2-0",
+    "Filename": "bleachbit_4.4.2-0_all.deb",
+    "Torrent_address": "bleachbit_4.4.2-0_all.deb.torrent",
+    "Pkgname": "bleachbit",
+    "Author": "Andrew Ziem",
+    "Contributor": "sgb76",
+    "Website": "https://www.bleachbit.org/",
+    "Update": "2022-04-20 00:03:55",
+    "Size": "436.99 KB",
+    "More": "BleachBit是一款开源的系统清理工具，它可以释放磁盘空间，保护您的隐私，清除缓存，删除cookies、internet历史、临时文件、日志和丢弃的垃圾文件等，支持清除应用的残留数据，切碎文件防止恢复、隐藏被删除文件的痕迹等功能。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/20/325ede10-bffa-11ec-a680-878a6ae343fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/20/359047e0-bffa-11ec-a680-878a6ae343fa.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/20/2d051600-bffa-11ec-a680-878a6ae343fa.png"
+}
 ,
 {
     "Name": "桌面小部件",
@@ -1524,6 +1524,23 @@
 
 ,
 {
+    "Name": "CopyQ",
+    "Version": "8.0.0-1",
+    "Filename": "copyq_8.0.0-1_amd64.deb",
+    "Torrent_address": "copyq_8.0.0-1_amd64.deb.torrent",
+    "Pkgname": "copyq",
+    "Author": "Lukas Holecek",
+    "Contributor": "sgb76",
+    "Website": "https://hluk.github.io/CopyQ/",
+    "Update": "2024-03-17 19:35:15",
+    "Size": "1.85 MB",
+    "More": "CopyQ 是具有编辑和脚本功能的高级剪贴板管理器。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/17/9003c4e009a947ada67d55ba3925bf69.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/17/7b1a79d884b54f20b23412fac154e6c9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/17/1c329a358ac8444aa69d20182895a3ce.png"
+}
+,
+{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "spark-web-packer_0.1.3_all.deb",
@@ -1540,23 +1557,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-web-packer/screen_1.png\"]"
 }
 
-,
-{
-    "Name": "CopyQ",
-    "Version": "8.0.0-1",
-    "Filename": "copyq_8.0.0-1_amd64.deb",
-    "Torrent_address": "copyq_8.0.0-1_amd64.deb.torrent",
-    "Pkgname": "copyq",
-    "Author": "Lukas Holecek",
-    "Contributor": "sgb76",
-    "Website": "https://hluk.github.io/CopyQ/",
-    "Update": "2024-03-17 19:35:15",
-    "Size": "1.85 MB",
-    "More": "CopyQ 是具有编辑和脚本功能的高级剪贴板管理器。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/17/9003c4e009a947ada67d55ba3925bf69.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/17/7b1a79d884b54f20b23412fac154e6c9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/17/1c329a358ac8444aa69d20182895a3ce.png"
-}
 ,
 {
     "Name": "electerm",
@@ -2332,23 +2332,6 @@
 
 ,
 {
-    "Name": "系统传感器显示工具",
-    "Version": "1.2-20240429",
-    "Filename": "simple-sensor-monitor_1.2-20240429_amd64.deb",
-    "Torrent_address": "simple-sensor-monitor_1.2-20240429_amd64.deb.torrent",
-    "Pkgname": "simple-sensor-monitor",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/qt.mini-sensor-icon",
-    "Update": "2024-04-29 10:10:13",
-    "Size": "584.35 KB",
-    "More": "在配置面板填写 sensors -u 提供的 adapter适配器与 sensor 即可显示数据。 \n\nv1.0: 可显示温度(°C) 电压(V) 电流(A) 功耗(W) 等类型\nv1.1: 可设置刷新间隔，完善线程化的工作流模式\nv1.2: 左侧支持风扇与电图标\n\n风扇在 1000 RPM 时最低，3000 RPM 以上时很暴躁，所以以这个区间为准",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/80baba1166574aeda4311851af8db563.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a8b3f2a04b1f4ba78ed78e174beea988.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a55a9b6db67f4dd0a2989787d3225506.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/caad566997094294bf3e840cc29eb129.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/3f3c5ec56f2d43698b1019ab4b59f26c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/29/4ac0b574bd524ef0bc1865df9346fd05.png"
-}
-,
-{
     "Name": "GitHub 访问加速包",
     "Version": "0.0.1-20240206",
     "Filename": "github-fast-access_0.0.1-20240206_all.deb",
@@ -2363,6 +2346,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/7cb23da7c5c84dd3a56fe99527159868.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/b08881f8c2ea4c859fb42422748a8370.png"
+}
+,
+{
+    "Name": "系统传感器显示工具",
+    "Version": "1.2-20240429",
+    "Filename": "simple-sensor-monitor_1.2-20240429_amd64.deb",
+    "Torrent_address": "simple-sensor-monitor_1.2-20240429_amd64.deb.torrent",
+    "Pkgname": "simple-sensor-monitor",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/qt.mini-sensor-icon",
+    "Update": "2024-04-29 10:10:13",
+    "Size": "584.35 KB",
+    "More": "在配置面板填写 sensors -u 提供的 adapter适配器与 sensor 即可显示数据。 \n\nv1.0: 可显示温度(°C) 电压(V) 电流(A) 功耗(W) 等类型\nv1.1: 可设置刷新间隔，完善线程化的工作流模式\nv1.2: 左侧支持风扇与电图标\n\n风扇在 1000 RPM 时最低，3000 RPM 以上时很暴躁，所以以这个区间为准",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/80baba1166574aeda4311851af8db563.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a8b3f2a04b1f4ba78ed78e174beea988.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a55a9b6db67f4dd0a2989787d3225506.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/caad566997094294bf3e840cc29eb129.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/3f3c5ec56f2d43698b1019ab4b59f26c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/29/4ac0b574bd524ef0bc1865df9346fd05.png"
 }
 ,
 {
@@ -2764,23 +2764,6 @@
 }
 ,
 {
-    "Name": "黑阈激活器",
-    "Version": "2.2.1",
-    "Filename": "io.gitee.brevent-enable-tool_2.2.1_amd64.deb",
-    "Torrent_address": "io.gitee.brevent-enable-tool_2.2.1_amd64.deb.torrent",
-    "Pkgname": "io.gitee.brevent-enable-tool",
-    "Author": "maicss@126.com",
-    "Contributor": "maicss@126.com",
-    "Website": "https://gitee.com/Maicss/brevent-enable-tool/releases/",
-    "Update": "2023-01-23 14:01:06",
-    "Size": "133.16 KB",
-    "More": "一款方便的黑阈激活工具",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/23/12d5aa9c4fd540f0b57820a6f7cd5b49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/23/4e1ba25212a54e769559681a94df3cc4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/23/b05fabf84ae844689a813c4f39997047.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/23/0d447084dca94781bb2e003644ac3e78.png"
-}
-,
-{
     "Name": "finalshell",
     "Version": "4.3.10",
     "Filename": "finalshell_4.3.10_amd64.deb",
@@ -2795,6 +2778,23 @@
     "Tags": "deepin;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/21/41947650-ff96-11ee-b5ae-a318306da881.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/21/35b22a30-ff96-11ee-b5ae-a318306da881.png"
+}
+,
+{
+    "Name": "黑阈激活器",
+    "Version": "2.2.1",
+    "Filename": "io.gitee.brevent-enable-tool_2.2.1_amd64.deb",
+    "Torrent_address": "io.gitee.brevent-enable-tool_2.2.1_amd64.deb.torrent",
+    "Pkgname": "io.gitee.brevent-enable-tool",
+    "Author": "maicss@126.com",
+    "Contributor": "maicss@126.com",
+    "Website": "https://gitee.com/Maicss/brevent-enable-tool/releases/",
+    "Update": "2023-01-23 14:01:06",
+    "Size": "133.16 KB",
+    "More": "一款方便的黑阈激活工具",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/23/12d5aa9c4fd540f0b57820a6f7cd5b49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/23/4e1ba25212a54e769559681a94df3cc4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/23/b05fabf84ae844689a813c4f39997047.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/23/0d447084dca94781bb2e003644ac3e78.png"
 }
 ,
 {
@@ -4586,6 +4586,23 @@
 }
 ,
 {
+    "Name": "AMD屏幕亮度工具(命令行) - v23 构建",
+    "Version": "0.0.1-20240602",
+    "Filename": "amd-backlight_0.0.1-20240602_amd64.deb",
+    "Torrent_address": "amd-backlight_0.0.1-20240602_amd64.deb.torrent",
+    "Pkgname": "amd-backlight",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/cpp.amd_backlight",
+    "Update": "2024-06-02 15:53:16",
+    "Size": "6.99 KB",
+    "More": "amd_backlight 是一个简单的命令行工具，它可以提供超过系统屏幕亮度的更低阈值设置。\n\ndeepin 控制中心亮度设计不合理，最小阈值为 15。\n\n此工具可以提供 5 - 255 区间的亮度设置，再小就看不清了！",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/6e80e9507d414518b70a745a732d76c0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/a8d92f56d08944ce9b158532acad9196.png"
+}
+,
+{
     "Name": "xonsh --在终端里运行python命令",
     "Version": "0.14.0+dfsg-1",
     "Filename": "xonsh_0.14.0_plusdfsg-1_all.deb",
@@ -4719,22 +4736,5 @@
     "Tags": "deepin;uos;ubuntu;wine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/664845e0-1908-11ef-8b98-af7814f0fdda.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/666347f0-1908-11ef-8b98-af7814f0fdda.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/23/619f0920-1908-11ef-8b98-af7814f0fdda.png"
-}
-,
-{
-    "Name": "AMD屏幕亮度工具(命令行) - v23 构建",
-    "Version": "0.0.1-20240602",
-    "Filename": "amd-backlight_0.0.1-20240602_amd64.deb",
-    "Torrent_address": "amd-backlight_0.0.1-20240602_amd64.deb.torrent",
-    "Pkgname": "amd-backlight",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/cpp.amd_backlight",
-    "Update": "2024-06-02 15:53:16",
-    "Size": "6.99 KB",
-    "More": "amd_backlight 是一个简单的命令行工具，它可以提供超过系统屏幕亮度的更低阈值设置。\n\ndeepin 控制中心亮度设计不合理，最小阈值为 15。\n\n此工具可以提供 5 - 255 区间的亮度设置，再小就看不清了！",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/6e80e9507d414518b70a745a732d76c0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/a8d92f56d08944ce9b158532acad9196.png"
 }
 ]

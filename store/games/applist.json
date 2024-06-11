@@ -466,23 +466,6 @@
 }
 ,
 {
-    "Name": "暴雪战网客户端（wine）",
-    "Version": "2.13.1.13521deepin6",
-    "Filename": "cn.blizzardgames.battlenet.spark_2.13.1.13521deepin6_amd64.deb",
-    "Torrent_address": "cn.blizzardgames.battlenet.spark_2.13.1.13521deepin6_amd64.deb.torrent",
-    "Pkgname": "cn.blizzardgames.battlenet.spark",
-    "Author": "暴雪娱乐有限公司",
-    "Contributor": "delsin",
-    "Website": "https://www.blizzardgames.cn/",
-    "Update": "2022-06-25 13:59:24",
-    "Size": "819.69 MB",
-    "More": "如果有字体显示问题，装星火商店里“Win字体”基本能解决。",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/25/943f1750-f44b-11ec-95cd-334d21a0f722.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/25/92ed1be0-f44b-11ec-95cd-334d21a0f722.png"
-}
-,
-{
     "Name": "红色警戒3:起义时刻",
     "Version": "1.0spark0",
     "Filename": "com.redalert3uprising.spark_1.0spark0_amd64.deb",
@@ -497,6 +480,23 @@
     "Tags": "deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/b826c660-f8a3-11ed-9eb8-af030df06428.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/bb6883e0-f8a3-11ed-9eb8-af030df06428.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/be4df090-f8a3-11ed-9eb8-af030df06428.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/22/b432f6f0-f8a3-11ed-9eb8-af030df06428.png"
+}
+,
+{
+    "Name": "暴雪战网客户端（wine）",
+    "Version": "2.13.1.13521deepin6",
+    "Filename": "cn.blizzardgames.battlenet.spark_2.13.1.13521deepin6_amd64.deb",
+    "Torrent_address": "cn.blizzardgames.battlenet.spark_2.13.1.13521deepin6_amd64.deb.torrent",
+    "Pkgname": "cn.blizzardgames.battlenet.spark",
+    "Author": "暴雪娱乐有限公司",
+    "Contributor": "delsin",
+    "Website": "https://www.blizzardgames.cn/",
+    "Update": "2022-06-25 13:59:24",
+    "Size": "819.69 MB",
+    "More": "如果有字体显示问题，装星火商店里“Win字体”基本能解决。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/25/943f1750-f44b-11ec-95cd-334d21a0f722.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/25/92ed1be0-f44b-11ec-95cd-334d21a0f722.png"
 }
 ,
 {
@@ -2329,23 +2329,6 @@
 }
 ,
 {
-    "Name": "中国象棋-xboard版",
-    "Version": "4.9.1-9",
-    "Filename": "xboard-xiangqi_4.9.1-9_all.deb",
-    "Torrent_address": "xboard-xiangqi_4.9.1-9_all.deb.torrent",
-    "Pkgname": "xboard-xiangqi",
-    "Author": "Careone <emacslocale@126.com>",
-    "Contributor": "Careone <emacslocale@126.com>",
-    "Website": "https://gitee.com/atzlinux/xboard-xiangqi",
-    "Update": "2023-01-15 18:55:48",
-    "Size": "484.93 KB",
-    "More": "based on Xiangqi program Maxqi. download DEB packages from:\n .\n https://sourceforge.net/projects/emacslocale/files/xiangqi/xboard-xiangqi/\n .\n 在 XBoard 上玩中国象棋游戏 (xiangqi)，支持人机对战，\n 机器对战，双引擎对战。目前支持中国象棋的引擎有:\n .\n 1* maxqi: 象棋水平一般（大致相当于腾迅天天象棋的“ 业3-业4”水平）。\n 软件包 fairymax 自带。通常默认已安装;\n .\n 2* hoixiangqi: 象棋水平一般（大致相当于腾迅天天象棋的“ 业3-业5”水平）。\n 需要安装软件包 hoichess;\n .\n 3* sjaakii: 象棋水平较高（大致相当于腾迅天天象棋的“ 业5-业6”水平）。\n 需要安装软件包 sjaakii, 并使用 -variant xiangqi 选项，指定棋种为中国象棋。\n .\n 4* eleeye_engine: 象眼 (EleEye) 引擎, 使用 UCCI 中国象棋通用引擎协议。\n 从目前测试使用的效果来看，象眼引擎的 Linux amd64 版本, 在 XBoard 4.9.1 \n 上运行不是太稳定，常常中途报错，停止运行。提示: 需要使用 \"uci2wb -x\" \n 参数来调用 UCCI 协议的中国象棋引擎，如:\n .\n xboard @xq -fcp \"uci2wb -x eleeye_engine\" -scp \"uci2wb -x eleeye_engine\"",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554370276958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554476976958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554545276958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554618976958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554694076958200.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554273276958200.png"
-}
-,
-{
     "Name": "Skul：英雄杀手",
     "Version": "1.0spark0",
     "Filename": "com.skul.spark_1.0spark0_amd64.deb",
@@ -2360,6 +2343,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/24/d5bfaea7d03840de92f590a80a6b54a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/24/9e96026e4bbf4e0fbe88de644ab4d01d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/24/7464f00879dd47689300d16437984dcf.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/24/d8c6659595c049fc9ae765ab216c3be9.png"
+}
+,
+{
+    "Name": "中国象棋-xboard版",
+    "Version": "4.9.1-9",
+    "Filename": "xboard-xiangqi_4.9.1-9_all.deb",
+    "Torrent_address": "xboard-xiangqi_4.9.1-9_all.deb.torrent",
+    "Pkgname": "xboard-xiangqi",
+    "Author": "Careone <emacslocale@126.com>",
+    "Contributor": "Careone <emacslocale@126.com>",
+    "Website": "https://gitee.com/atzlinux/xboard-xiangqi",
+    "Update": "2023-01-15 18:55:48",
+    "Size": "484.93 KB",
+    "More": "based on Xiangqi program Maxqi. download DEB packages from:\n .\n https://sourceforge.net/projects/emacslocale/files/xiangqi/xboard-xiangqi/\n .\n 在 XBoard 上玩中国象棋游戏 (xiangqi)，支持人机对战，\n 机器对战，双引擎对战。目前支持中国象棋的引擎有:\n .\n 1* maxqi: 象棋水平一般（大致相当于腾迅天天象棋的“ 业3-业4”水平）。\n 软件包 fairymax 自带。通常默认已安装;\n .\n 2* hoixiangqi: 象棋水平一般（大致相当于腾迅天天象棋的“ 业3-业5”水平）。\n 需要安装软件包 hoichess;\n .\n 3* sjaakii: 象棋水平较高（大致相当于腾迅天天象棋的“ 业5-业6”水平）。\n 需要安装软件包 sjaakii, 并使用 -variant xiangqi 选项，指定棋种为中国象棋。\n .\n 4* eleeye_engine: 象眼 (EleEye) 引擎, 使用 UCCI 中国象棋通用引擎协议。\n 从目前测试使用的效果来看，象眼引擎的 Linux amd64 版本, 在 XBoard 4.9.1 \n 上运行不是太稳定，常常中途报错，停止运行。提示: 需要使用 \"uci2wb -x\" \n 参数来调用 UCCI 协议的中国象棋引擎，如:\n .\n xboard @xq -fcp \"uci2wb -x eleeye_engine\" -scp \"uci2wb -x eleeye_engine\"",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554370276958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554476976958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554545276958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554618976958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554694076958200.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554273276958200.png"
 }
 ,
 {
@@ -2879,6 +2879,23 @@
 }
 ,
 {
+    "Name": "帝国时代2高清版",
+    "Version": "1.0spark0",
+    "Filename": "com.ageofempires2hd.spark_1.0spark0_all.deb",
+    "Torrent_address": "com.ageofempires2hd.spark_1.0spark0_all.deb.torrent",
+    "Pkgname": "com.ageofempires2hd.spark",
+    "Author": "微软",
+    "Contributor": "sgb76",
+    "Website": "www.ageofempires.com",
+    "Update": "2024-05-02 00:10:23",
+    "Size": "893.99 MB",
+    "More": "帝国时代2高清版",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/52ffee28a4bb4aae890e4cf2fa067107.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/47c862c80535475cb0d6975745d3cb55.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/dae90fa02c78421b9e044e31d35cd429.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/02/46736fd4ef564a9aaced11e2d6af26fc.png"
+}
+,
+{
     "Name": "隐藏的人",
     "Version": "1.5",
     "Filename": "hiddenfolks_1.5_amd64.deb",
@@ -2909,23 +2926,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/c0f02930-6450-11ee-9f64-45b4f4e6814e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/c2d515d0-6450-11ee-9f64-45b4f4e6814e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/c4f75990-6450-11ee-9f64-45b4f4e6814e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/06/bdfbef70-6450-11ee-9f64-45b4f4e6814e.png"
-}
-,
-{
-    "Name": "帝国时代2高清版",
-    "Version": "1.0spark0",
-    "Filename": "com.ageofempires2hd.spark_1.0spark0_all.deb",
-    "Torrent_address": "com.ageofempires2hd.spark_1.0spark0_all.deb.torrent",
-    "Pkgname": "com.ageofempires2hd.spark",
-    "Author": "微软",
-    "Contributor": "sgb76",
-    "Website": "www.ageofempires.com",
-    "Update": "2024-05-02 00:10:23",
-    "Size": "893.99 MB",
-    "More": "帝国时代2高清版",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/52ffee28a4bb4aae890e4cf2fa067107.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/47c862c80535475cb0d6975745d3cb55.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/dae90fa02c78421b9e044e31d35cd429.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/02/46736fd4ef564a9aaced11e2d6af26fc.png"
 }
 ,
 {
@@ -3014,6 +3014,23 @@
 }
 ,
 {
+    "Name": "呆波宠物",
+    "Version": "0.3.1",
+    "Filename": "dyberpet_0.3.1_amd64.deb",
+    "Torrent_address": "dyberpet_0.3.1_amd64.deb.torrent",
+    "Pkgname": "dyberpet",
+    "Author": "ChaozhongLiu",
+    "Contributor": "d",
+    "Website": "https://github.com/ChaozhongLiu/DyberPet",
+    "Update": "2024-04-01 00:57:11",
+    "Size": "272.69 MB",
+    "More": "呆啵宠物（DyberPet）是一个基于PySide6的桌面宠物开发框架，致力于为开发者提供创建桌面宠物的底层软件，打包版本加入了原神角色资源。不支持Wayland",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/01/82dab380-ef7f-11ee-9671-81712e149e2a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/01/82e00ab0-ef7f-11ee-9671-81712e149e2a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/01/7d4dcd80-ef7f-11ee-9671-81712e149e2a.png"
+}
+,
+{
     "Name": "虚拟城市2:天堂度假村",
     "Version": "1.0spark0",
     "Filename": "com.vc2paradiseresort.spark_1.0spark0_amd64.deb",
@@ -3045,23 +3062,6 @@
     "Tags": "deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/01/86e56d97ba364d6481f788e296716761.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/01/75ba8044bd3841d2af5006d1f22a8245.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/01/b803de98e9d0439197756e4aa4992e36.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/01/e1e2426a607740828289155cce3d8ed9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/01/fb00df83503e425fb88300cccfcb35dd.png"
-}
-,
-{
-    "Name": "呆波宠物",
-    "Version": "0.3.1",
-    "Filename": "dyberpet_0.3.1_amd64.deb",
-    "Torrent_address": "dyberpet_0.3.1_amd64.deb.torrent",
-    "Pkgname": "dyberpet",
-    "Author": "ChaozhongLiu",
-    "Contributor": "d",
-    "Website": "https://github.com/ChaozhongLiu/DyberPet",
-    "Update": "2024-04-01 00:57:11",
-    "Size": "272.69 MB",
-    "More": "呆啵宠物（DyberPet）是一个基于PySide6的桌面宠物开发框架，致力于为开发者提供创建桌面宠物的底层软件，打包版本加入了原神角色资源。不支持Wayland",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/01/82dab380-ef7f-11ee-9671-81712e149e2a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/01/82e00ab0-ef7f-11ee-9671-81712e149e2a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/01/7d4dcd80-ef7f-11ee-9671-81712e149e2a.png"
 }
 ,
 {

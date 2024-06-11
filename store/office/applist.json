@@ -1045,23 +1045,6 @@
 }
 ,
 {
-    "Name": "我来笔记",
-    "Version": "1.2.9-231023120spark7",
-    "Filename": "com.wolai.spark_1.2.9-231023120spark7_amd64.deb",
-    "Torrent_address": "com.wolai.spark_1.2.9-231023120spark7_amd64.deb.torrent",
-    "Pkgname": "com.wolai.spark",
-    "Author": "上海我云网络科技有限公司",
-    "Contributor": "sgb76",
-    "Website": "https://www.wolai.com/product",
-    "Update": "2023-10-25 18:40:40",
-    "Size": "62.82 MB",
-    "More": "我来，不仅仅是完美的云端笔记，用“我来”构建个人的信息库、笔记、知识、待办、计划、剪藏、数据...\n\n更新说明：官方已经推出deb包了，为了保持星火商店版本的连续性，故在官方包的基础上更改了包名，调整了打包路径，并设置了与官方包冲突，功能什么的与官方包一致。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/25/2c46d37c9b89478ba4d2e87a7ac361a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/25/c4447a11b867401386752d072e777811.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/25/7fa1d39826624a868fd65b53699d6978.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/25/5e7eca39f0ab4dc2a536bfb868c8fa2a.png"
-}
-,
-{
     "Name": "master PDF Editor 5.9.20",
     "Version": "5.9.82",
     "Filename": "master-pdf-editor-5_5.9.82_amd64.deb",
@@ -1076,6 +1059,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/18/b39f0dc714e847ebbe8a07c10184cbe8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/18/5ef55a2d8d474c138e4a47da466e1188.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/18/affa0c95afd0410486c600da752c6b91.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/18/c0079c946fac4bf2a9ee124798326cb1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/18/b49a0d8160ee4c1cadbac220e10fd5d6.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/18/a77b00faa80d4ba988e731764d7dc937.png"
+}
+,
+{
+    "Name": "我来笔记",
+    "Version": "1.2.9-231023120spark7",
+    "Filename": "com.wolai.spark_1.2.9-231023120spark7_amd64.deb",
+    "Torrent_address": "com.wolai.spark_1.2.9-231023120spark7_amd64.deb.torrent",
+    "Pkgname": "com.wolai.spark",
+    "Author": "上海我云网络科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.wolai.com/product",
+    "Update": "2023-10-25 18:40:40",
+    "Size": "62.82 MB",
+    "More": "我来，不仅仅是完美的云端笔记，用“我来”构建个人的信息库、笔记、知识、待办、计划、剪藏、数据...\n\n更新说明：官方已经推出deb包了，为了保持星火商店版本的连续性，故在官方包的基础上更改了包名，调整了打包路径，并设置了与官方包冲突，功能什么的与官方包一致。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/25/2c46d37c9b89478ba4d2e87a7ac361a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/25/c4447a11b867401386752d072e777811.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/25/7fa1d39826624a868fd65b53699d6978.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/25/5e7eca39f0ab4dc2a536bfb868c8fa2a.png"
 }
 ,
 {
@@ -1600,21 +1600,6 @@
 }
 ,
 {
-   "Name":"百度脑图",
-   "Version":"3.2.3",
-   "Filename":"com.baidu.naotu_3.2.3_amd64.deb",
-   "Pkgname":"com.baidu.naotu",
-   "Author":" ",
-   "Contributor":"anima",
-   "Website":"https://naotu.baidu.com/",
-   "Update":"2020-07-14 12:43",
-   "Size":"37.19MB",
-   "Tags": "deepin;uos;dwine5;ubuntu",
-   "More":"百度脑图是一款强大的思维导图编辑器。"
-}
-
-,
-{
     "Name": "GoldenDict",
     "Version": "1.5.0~rc2+git20201010+ds-1",
     "Filename": "goldendict_1.5.0~rc2_plus_git20201010_plus_ds-1_amd64.deb",
@@ -1629,6 +1614,21 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/41cf9cd0-0a62-11eb-ba90-7365d217280d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/41de42d0-0a62-11eb-ba90-7365d217280d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/42046870-0a62-11eb-ba90-7365d217280d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/09/41392930-0a62-11eb-ba90-7365d217280d.png"
 }
+,
+{
+   "Name":"百度脑图",
+   "Version":"3.2.3",
+   "Filename":"com.baidu.naotu_3.2.3_amd64.deb",
+   "Pkgname":"com.baidu.naotu",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":"https://naotu.baidu.com/",
+   "Update":"2020-07-14 12:43",
+   "Size":"37.19MB",
+   "Tags": "deepin;uos;dwine5;ubuntu",
+   "More":"百度脑图是一款强大的思维导图编辑器。"
+}
+
 ,
 {
     "Name": "石墨文档",
