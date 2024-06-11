@@ -1,22 +1,5 @@
 Package: com.electron
 Architecture: loong64
-Version: 17.4
-Priority: optional
-Section: devel
-Maintainer: shenmo <lu1044100652@outlook.com>
-Installed-Size: 259859
-Depends: nodejs, deepin-elf-verify (>= 1.1.10-1),liblol,liblol-dkms
-Filename: depends/com.electron/com.electron_17.4_loong64.deb
-Size: 84482424
-MD5sum: c1e07cb000bf4c5ba6bbd4759987f4e6
-SHA1: 487fa3699773516a9558932a539ff721ba3646c6
-SHA256: c5f1301feef905ee23da316c964630a5f94568b6150d36fcb832a29313b52a6c
-SHA512: 2eb46a36971dd10182498a1628f9ffa6e67f6e8aa82de440c98c3272ea4e31c088dbf2e1b34bf96a78c22dd4c8b9c2feee232bb9b613dc7f3ef6ca6bb7ea781d
-Homepage: https://www.electronjs.org/
-Description: The Electron framework lets you write cross-platform desktop applications using JavaScript, HTML and CSS. It is based on Node.js and Chromium and is used by the Atom editor and many other apps.
-
-Package: com.electron
-Architecture: loong64
 Version: 22.3.27
 Priority: optional
 Section: devel
@@ -3538,22 +3521,6 @@ MD5sum: 062cdf9128d48d8cdc097744d63495d3
 SHA1: 0ae53848a021ff1c657335f8e05230833bc57816
 SHA256: 8b61ed5bbdf016ccaa96230af42b081ef86a4e42e0c77c06a94d4d2c62d005fc
 SHA512: 9f4320282f58aafae7070befc5eb217aabaf369b432639389ce392c6e074fe9f39666e88f35d70ce41a7514f19ed121fe05b5ed1513a1017c5d8b552bdc6fdfb
-Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
-
-Package: com.uniontech.theme.infinitecontrol
-Architecture: all
-Version: 1.0.4
-Priority: optional
-Section: admin
-Maintainer: Tonny
-Installed-Size: 5374
-Depends: deepin-elf-verify (>= 1.1.10-1),deepin-icon-theme
-Filename: themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.4_all.deb
-Size: 3325388
-MD5sum: 2a1410100ea3b616e6e355230c858a89
-SHA1: a155200bed3d410ca1ab0942e9dbecadb6871d89
-SHA256: 2e508fce71592612a303a5be9f3ab71d1c9c89738b1423dca24e85094e714259
-SHA512: 7417fa8c5c417cdafc3804e408059053995962ace0b653877172af1683c056a2d0b75a637558d026eb49643e4c001f92e01aa3a71b24323593b539872afa0a7f
 Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
 
 Package: uos-home-icon

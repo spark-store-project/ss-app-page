@@ -15,23 +15,6 @@ SHA512: 34e39a19cccc9e91c4f8704103bed981506cf9b554ee27f0395a1f052917603fed697e97
 Homepage: https://www.electronjs.org/
 Description: The Electron framework lets you write cross-platform desktop applications using JavaScript, HTML and CSS. It is based on Node.js and Chromium and is used by the Atom editor and many other apps.
 
-Package: com.electron
-Architecture: amd64
-Version: 25.9.4
-Priority: optional
-Section: devel
-Maintainer: ziggy <luzijie@uniontech.com>
-Installed-Size: 238874
-Depends: nodejs, deepin-elf-verify (>= 1.1.10-1)
-Filename: depends/com.electron/com.electron_25.9.4_amd64.deb
-Size: 69674078
-MD5sum: 19a00167ddd43b87201be6285a1b0039
-SHA1: 7557e0a573a01db7784167fde4b1ba68122efdf0
-SHA256: bcc19596849d7bfdeb9b2ae25fe2ce6991d4ee667a7ac2c438fa5aeebd3ee92c
-SHA512: 8eed87be682008be8fda77693b91d8432dc7a6d010460c777e718f7378373ee0060b20a9222ae860d9d943dc749d6567278c6654e995935d76c75874f1feaddd
-Homepage: https://www.electronjs.org/
-Description: The Electron framework lets you write cross-platform desktop applications using JavaScript, HTML and CSS. It is based on Node.js and Chromium and is used by the Atom editor and many other apps.
-
 Package: libdtkgui5-bin
 Architecture: amd64
 Version: 5.4.15
@@ -9939,22 +9922,6 @@ MD5sum: 062cdf9128d48d8cdc097744d63495d3
 SHA1: 0ae53848a021ff1c657335f8e05230833bc57816
 SHA256: 8b61ed5bbdf016ccaa96230af42b081ef86a4e42e0c77c06a94d4d2c62d005fc
 SHA512: 9f4320282f58aafae7070befc5eb217aabaf369b432639389ce392c6e074fe9f39666e88f35d70ce41a7514f19ed121fe05b5ed1513a1017c5d8b552bdc6fdfb
-Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
-
-Package: com.uniontech.theme.infinitecontrol
-Architecture: all
-Version: 1.0.4
-Priority: optional
-Section: admin
-Maintainer: Tonny
-Installed-Size: 5374
-Depends: deepin-elf-verify (>= 1.1.10-1),deepin-icon-theme
-Filename: themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.4_all.deb
-Size: 3325388
-MD5sum: 2a1410100ea3b616e6e355230c858a89
-SHA1: a155200bed3d410ca1ab0942e9dbecadb6871d89
-SHA256: 2e508fce71592612a303a5be9f3ab71d1c9c89738b1423dca24e85094e714259
-SHA512: 7417fa8c5c417cdafc3804e408059053995962ace0b653877172af1683c056a2d0b75a637558d026eb49643e4c001f92e01aa3a71b24323593b539872afa0a7f
 Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
 
 Package: uos-home-icon

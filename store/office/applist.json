@@ -721,23 +721,6 @@
 
 ,
 {
-    "Name": "office2013",
-    "Version": "15.0.0",
-    "Filename": "spark-office_15.0.0_all.deb",
-    "Torrent_address": "spark-office_15.0.0_all.deb.torrent",
-    "Pkgname": "spark-office",
-    "Author": "Microsoft",
-    "Contributor": "纳西妲的狗",
-    "Website": "https://www.microsoft.com/zh-cn",
-    "Update": "2024-02-07 10:41:08",
-    "Size": "1.32 GB",
-    "More": "三件套，自行激活\n启动稍慢，任务栏无图标，其余正常",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/351d3430-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3528a5e0-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3534dae0-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/353cca20-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3a7b6910-c561-11ee-9bdf-11b9ca480f15.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/07/41a201e0-c561-11ee-9bdf-11b9ca480f15.png"
-}
-,
-{
     "Name": "思源笔记",
     "Version": "3.0.0spark17",
     "Filename": "org.b3log.siyuan.spark_3.0.0spark17_amd64.deb",
@@ -752,6 +735,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/e6afb8b8264e475689f1f57c159c22ff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/b6286095db82408a90b0cf5033d4aed9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/8e77a76c35364d4a82ac6628db71a623.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/8de105251b224c2faa5b3e9ee9e9d2b7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/26/6714f76685b54231b381715b31f0c871.png"
+}
+,
+{
+    "Name": "office2013",
+    "Version": "15.0.0",
+    "Filename": "spark-office_15.0.0_all.deb",
+    "Torrent_address": "spark-office_15.0.0_all.deb.torrent",
+    "Pkgname": "spark-office",
+    "Author": "Microsoft",
+    "Contributor": "纳西妲的狗",
+    "Website": "https://www.microsoft.com/zh-cn",
+    "Update": "2024-02-07 10:41:08",
+    "Size": "1.32 GB",
+    "More": "三件套，自行激活\n启动稍慢，任务栏无图标，其余正常",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/351d3430-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3528a5e0-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3534dae0-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/353cca20-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3a7b6910-c561-11ee-9bdf-11b9ca480f15.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/07/41a201e0-c561-11ee-9bdf-11b9ca480f15.png"
 }
 ,
 {
@@ -1231,23 +1231,6 @@
 }
 ,
 {
-    "Name": "搜狗输入法Deepin版小语种",
-    "Version": "1.0.1",
-    "Filename": "com.sogou.sogoupinyin-deepin-tadict_1.0.1_all.deb",
-    "Torrent_address": "com.sogou.sogoupinyin-deepin-tadict_1.0.1_all.deb.torrent",
-    "Pkgname": "com.sogou.sogoupinyin-deepin-tadict",
-    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://pinyin.sogou.com/linux",
-    "Update": "2024-06-08 11:30:34",
-    "Size": "163.84 MB",
-    "More": "搜狗输入法Deepin版输入小语种，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/dd13411376714950b5fbc002063512b1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/0057ea52ee0f41bba60c57237ef24843.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/703ff271c53e45689776b6c9992602b4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/dc403b525cf549fbb182a614d82cc675.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/84290c32c38c40828266fdb3d2aaac87.png"
-}
-,
-{
     "Name": "FlowUs",
     "Version": "1.1.7spark3",
     "Filename": "cn.flowus.spark_1.1.7spark3_all.deb",
@@ -1262,6 +1245,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/11/64af2a6354c947b0ac1143450c01a463.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/11/32947d39a4b34816ae28f33bf1cb1103.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/11/262916dd544f45389321b108aea1dc7e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/11/26edfbd9ad9c423381760c1157da6301.png"
+}
+,
+{
+    "Name": "搜狗输入法Deepin版小语种",
+    "Version": "1.0.1",
+    "Filename": "com.sogou.sogoupinyin-deepin-tadict_1.0.1_all.deb",
+    "Torrent_address": "com.sogou.sogoupinyin-deepin-tadict_1.0.1_all.deb.torrent",
+    "Pkgname": "com.sogou.sogoupinyin-deepin-tadict",
+    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://pinyin.sogou.com/linux",
+    "Update": "2024-06-08 11:30:34",
+    "Size": "163.84 MB",
+    "More": "搜狗输入法Deepin版输入小语种，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/dd13411376714950b5fbc002063512b1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/0057ea52ee0f41bba60c57237ef24843.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/703ff271c53e45689776b6c9992602b4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/dc403b525cf549fbb182a614d82cc675.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/84290c32c38c40828266fdb3d2aaac87.png"
 }
 ,
 {
@@ -2402,6 +2402,22 @@
 }
 ,
 {
+    "Name": "Mendeley Desktop",
+    "Version": "1.19.8",
+    "Filename": "mendeleydesktop_1.19.8_amd64.deb",
+    "Pkgname": "mendeleydesktop",
+    "Author": "Mendeley Ltd.",
+    "Contributor": "sgb76",
+    "Website": "http://www.mendeley.com",
+    "Update": "2021-02-18 14:22:28",
+    "Size": "118.64 MB",
+    "More": "一款用于管理和共享研究的免费学术软件。",
+    "Tags": "deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/638039f0-71b1-11eb-a0c6-abf730c6cbfd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/6968ad70-71b1-11eb-a0c6-abf730c6cbfd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/18/5d04d540-71b1-11eb-a0c6-abf730c6cbfd.png"
+}
+,
+{
     "Name": "文华财经软件通用版(wine)",
     "Version": "6.0.0",
     "Filename": "spark.mytrader.wine_6.0.0_all.deb",
@@ -2416,22 +2432,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/17/8c6cc67b2c2443e4b28d30b83afe264e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/17/3b007ee4806b40bbac5e71bb8d9b3d7b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/17/d3da564ed7c747d18bd919505310f5d5.png"
-}
-,
-{
-    "Name": "Mendeley Desktop",
-    "Version": "1.19.8",
-    "Filename": "mendeleydesktop_1.19.8_amd64.deb",
-    "Pkgname": "mendeleydesktop",
-    "Author": "Mendeley Ltd.",
-    "Contributor": "sgb76",
-    "Website": "http://www.mendeley.com",
-    "Update": "2021-02-18 14:22:28",
-    "Size": "118.64 MB",
-    "More": "一款用于管理和共享研究的免费学术软件。",
-    "Tags": "deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/638039f0-71b1-11eb-a0c6-abf730c6cbfd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/6968ad70-71b1-11eb-a0c6-abf730c6cbfd.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/18/5d04d540-71b1-11eb-a0c6-abf730c6cbfd.png"
 }
 ,
 {
@@ -2504,6 +2504,23 @@
 
 ,
 {
+    "Name": "NoteExpress",
+    "Version": "3.9.0.9640spark2",
+    "Filename": "com.noteexpress.spark_3.9.0.9640spark2_all.deb",
+    "Torrent_address": "com.noteexpress.spark_3.9.0.9640spark2_all.deb.torrent",
+    "Pkgname": "com.noteexpress.spark",
+    "Author": "北京爱琴海乐之技术有限公司",
+    "Contributor": "sgb76",
+    "Website": "http://www.inoteexpress.com/aegean/",
+    "Update": "2023-11-12 01:00:19",
+    "Size": "327.9 MB",
+    "More": "一款优秀的国产参考文献管理工具。由于是wine版本，虽然测试过程中尚未发现明显的问题，但不保证所有功能都能正常使用，仅供尝鲜试用。\n\n提示：软件在deepin下点击运行，初始过程稍长，请耐心等待。初次启动会重新配置容器，可能出现无法正常启动的问题，再次启动就正常了。Ubuntu22.04下启动过程较快；应用内某些功能模块点击后加载时间较长，如新建笔记、选项等，请耐心等待，加载后使用还是比较流畅的。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/12/dbd1fb1d763949f1bb0f9560859863a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/12/627abbb30b754e6e91836edd443ad688.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/12/26e6c49b2ee04ed092477d95a8fea798.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/12/7e6018c5f5d84a998f178e86608fc4ee.png"
+}
+,
+{
     "Name": "BookxNote Pro（wine）",
     "Version": "2.0.0.1023spark0",
     "Filename": "com.bookxnote.spark_2.0.0.1023spark0_i386.deb",
@@ -2550,23 +2567,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/26/bf9e1ca0-96b5-11ec-824e-3f1c67982b36.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/02/26/b50e4120-96b5-11ec-824e-3f1c67982b36.svg"
-}
-,
-{
-    "Name": "NoteExpress",
-    "Version": "3.9.0.9640spark2",
-    "Filename": "com.noteexpress.spark_3.9.0.9640spark2_all.deb",
-    "Torrent_address": "com.noteexpress.spark_3.9.0.9640spark2_all.deb.torrent",
-    "Pkgname": "com.noteexpress.spark",
-    "Author": "北京爱琴海乐之技术有限公司",
-    "Contributor": "sgb76",
-    "Website": "http://www.inoteexpress.com/aegean/",
-    "Update": "2023-11-12 01:00:19",
-    "Size": "327.9 MB",
-    "More": "一款优秀的国产参考文献管理工具。由于是wine版本，虽然测试过程中尚未发现明显的问题，但不保证所有功能都能正常使用，仅供尝鲜试用。\n\n提示：软件在deepin下点击运行，初始过程稍长，请耐心等待。初次启动会重新配置容器，可能出现无法正常启动的问题，再次启动就正常了。Ubuntu22.04下启动过程较快；应用内某些功能模块点击后加载时间较长，如新建笔记、选项等，请耐心等待，加载后使用还是比较流畅的。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/12/dbd1fb1d763949f1bb0f9560859863a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/12/627abbb30b754e6e91836edd443ad688.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/12/26e6c49b2ee04ed092477d95a8fea798.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/12/7e6018c5f5d84a998f178e86608fc4ee.png"
 }
 ,
 {

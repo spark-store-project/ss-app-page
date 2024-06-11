@@ -875,6 +875,23 @@
 }
 ,
 {
+    "Name": "Bleachbit",
+    "Version": "4.4.2-0",
+    "Filename": "bleachbit_4.4.2-0_all.deb",
+    "Torrent_address": "bleachbit_4.4.2-0_all.deb.torrent",
+    "Pkgname": "bleachbit",
+    "Author": "Andrew Ziem",
+    "Contributor": "sgb76",
+    "Website": "https://www.bleachbit.org/",
+    "Update": "2022-04-20 00:03:55",
+    "Size": "436.99 KB",
+    "More": "BleachBit是一款开源的系统清理工具，它可以释放磁盘空间，保护您的隐私，清除缓存，删除cookies、internet历史、临时文件、日志和丢弃的垃圾文件等，支持清除应用的残留数据，切碎文件防止恢复、隐藏被删除文件的痕迹等功能。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/20/325ede10-bffa-11ec-a680-878a6ae343fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/20/359047e0-bffa-11ec-a680-878a6ae343fa.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/20/2d051600-bffa-11ec-a680-878a6ae343fa.png"
+}
+,
+{
     "Name": "LocalSend",
     "Version": "1.14.0+45",
     "Filename": "localsend_1.14.0_plus_45_amd64.deb",
@@ -891,23 +908,6 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/a6433d9fb4de4166ab3a3531bb9d76a9.png"
 }
 
-,
-{
-    "Name": "Bleachbit",
-    "Version": "4.4.2-0",
-    "Filename": "bleachbit_4.4.2-0_all.deb",
-    "Torrent_address": "bleachbit_4.4.2-0_all.deb.torrent",
-    "Pkgname": "bleachbit",
-    "Author": "Andrew Ziem",
-    "Contributor": "sgb76",
-    "Website": "https://www.bleachbit.org/",
-    "Update": "2022-04-20 00:03:55",
-    "Size": "436.99 KB",
-    "More": "BleachBit是一款开源的系统清理工具，它可以释放磁盘空间，保护您的隐私，清除缓存，删除cookies、internet历史、临时文件、日志和丢弃的垃圾文件等，支持清除应用的残留数据，切碎文件防止恢复、隐藏被删除文件的痕迹等功能。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/20/325ede10-bffa-11ec-a680-878a6ae343fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/20/359047e0-bffa-11ec-a680-878a6ae343fa.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/20/2d051600-bffa-11ec-a680-878a6ae343fa.png"
-}
 ,
 {
     "Name": "桌面小部件",
@@ -1813,6 +1813,23 @@
 }
 ,
 {
+    "Name": "WinSCP",
+    "Version": "6.1.2Spark0",
+    "Filename": "com.winscp.spark_6.1.2Spark0_i386.deb",
+    "Torrent_address": "com.winscp.spark_6.1.2Spark0_i386.deb.torrent",
+    "Pkgname": "com.winscp.spark",
+    "Author": "错失一亿",
+    "Contributor": "错失一亿",
+    "Website": "no",
+    "Update": "2023-10-15 13:24:13",
+    "Size": "17.66 MB",
+    "More": "很喜欢这款软件的同步功能和生成url时带密码功能，这么好用的app不知道为啥没人打包，研究了下打包分享出来",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/15/06a48b80-6b1b-11ee-b518-4d7290b69353.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/15/fb212840-6b1a-11ee-b518-4d7290b69353.png"
+}
+,
+{
     "Name": "alist",
     "Version": "1",
     "Filename": "alist_1_amd64.deb",
@@ -1843,23 +1860,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/09/b44337e0-98ec-11eb-83e4-07d70af35066.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/09/b73ca1c0-98ec-11eb-83e4-07d70af35066.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/09/923c20d0-98ec-11eb-83e4-07d70af35066.png"
-}
-,
-{
-    "Name": "WinSCP",
-    "Version": "6.1.2Spark0",
-    "Filename": "com.winscp.spark_6.1.2Spark0_i386.deb",
-    "Torrent_address": "com.winscp.spark_6.1.2Spark0_i386.deb.torrent",
-    "Pkgname": "com.winscp.spark",
-    "Author": "错失一亿",
-    "Contributor": "错失一亿",
-    "Website": "no",
-    "Update": "2023-10-15 13:24:13",
-    "Size": "17.66 MB",
-    "More": "很喜欢这款软件的同步功能和生成url时带密码功能，这么好用的app不知道为啥没人打包，研究了下打包分享出来",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/15/06a48b80-6b1b-11ee-b518-4d7290b69353.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/15/fb212840-6b1a-11ee-b518-4d7290b69353.png"
 }
 ,
 {

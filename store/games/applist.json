@@ -385,20 +385,6 @@
 
 ,
 {
-   "Name":"红色警戒",
-   "Version":"20200517",
-   "Filename":"RedAlertSimplifiedChinese-rasc_20200517-x86_64.deb",
-   "Pkgname":"openra-mods-rasc",
-   "Author":"OpenRA作战司令部",
-   "Contributor":"奇点法则",
-   "Website":"Q群：742982428",
-   "Update":"2020-07-26 01:00",
-   "Size":"41.63MB",
-   "More":"开源红警，国外制作的，OpenRA作战司令部属于汉化团队，奇点法则是搬运工"
-}
-
-,
-{
     "Name": "QQ游戏大厅",
     "Version": "1.0.3.2-1",
     "Filename": "com.qq.qqgames_1.0.3.2-1_all.deb",
@@ -414,6 +400,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/17/cea9eb3a47434b90bfba41018c09fac3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/17/0ccc140e2e084a42ae8d292b4e019c1a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/17/8a29a12cc91c4f7f8c558cb39f52b228.png"
 }
+,
+{
+   "Name":"红色警戒",
+   "Version":"20200517",
+   "Filename":"RedAlertSimplifiedChinese-rasc_20200517-x86_64.deb",
+   "Pkgname":"openra-mods-rasc",
+   "Author":"OpenRA作战司令部",
+   "Contributor":"奇点法则",
+   "Website":"Q群：742982428",
+   "Update":"2020-07-26 01:00",
+   "Size":"41.63MB",
+   "More":"开源红警，国外制作的，OpenRA作战司令部属于汉化团队，奇点法则是搬运工"
+}
+
 ,
 {
     "Name": "网易云游戏",
@@ -1203,6 +1203,24 @@
 
 ,
 {
+    "Author": "shenmo@spark-app.store",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.pvzhz.spark_2.0.88spark2_all.deb",
+    "More": "一个植物大战僵尸改版\n详细可见：https://www.bilibili.com/video/BV15z42127up",
+    "Name": "植物大战僵尸杂交版（潜艇伟伟迷）（Wine）",
+    "Pkgname": "com.pvzhz.spark",
+    "Size": "377 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.pvzhz.spark_2.0.88spark2_all.deb.torrent",
+    "Update": "2024-05-28 20:22:13",
+    "Version": "2.0.88spark2",
+    "Website": "https://space.bilibili.com/97213827",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_2.png\"]"
+}
+
+,
+{
     "Name": "戴夫RUSH(Wine)",
     "Version": "0.2",
     "Filename": "spark-daifurush-bymutangm_0.2_i386.deb",
@@ -1235,24 +1253,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/28/ed105c702ba94e2d9c7f4c0bca5c8f21.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/28/ecc55584e77447678e7955af5872116d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/28/5347abbb06654c73be341fc9ad2dc6a8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/28/5094d034776b45afa21c6da3693864bd.png"
 }
-,
-{
-    "Author": "shenmo@spark-app.store",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.pvzhz.spark_2.0.88spark2_all.deb",
-    "More": "一个植物大战僵尸改版\n详细可见：https://www.bilibili.com/video/BV15z42127up",
-    "Name": "植物大战僵尸杂交版（潜艇伟伟迷）（Wine）",
-    "Pkgname": "com.pvzhz.spark",
-    "Size": "377 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "com.pvzhz.spark_2.0.88spark2_all.deb.torrent",
-    "Update": "2024-05-28 20:22:13",
-    "Version": "2.0.88spark2",
-    "Website": "https://space.bilibili.com/97213827",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_2.png\"]"
-}
-
 ,
 {
     "Name": "仙剑奇侠传3外传:问情篇",
@@ -2363,6 +2363,20 @@
 }
 ,
 {
+   "Name":"辐射小马国：废土-wine",
+   "Version":"1.0.1",
+   "Filename":"fallout.equestria.remains_1.0.1_amd64.deb",
+   "Pkgname":"fallout.equestria.remains",
+   "Author":"Empalu",
+   "Contributor":"ShadowDumb",
+   "Website":"http://foe.ucoz.org/main_en.html",
+   "Update":"2020-07-26 13:32",
+   "Size":"295.69MB",
+   "More":"战争！战争从未改变！\n很久很久以前，在小马国这片神奇的土地上……\n一个将友谊理念让位于妒忌、自私、贪婪与残忍的时代来临了。在那次国与国之间，以自然资源为开端的大战中，没有任何的赢家。由小马蹄下击打而出的魔法迅速爆发失控，整个世界都被烈焰所吞噬。龙火与黑魔法结合而成的毁灭性武器，几乎抹除掉了这个星球上的所有生命。土壤，水源和空气都被辐射污染，城市毁灭，文明崩溃。无论是小马，还是他们的敌军都被从地表上抹除掉了。疯狂的先知所预言的审判日，几乎没有任何小马相信，直到那个命运注定的日子降临……\n但这并不是结局，仍然有很多小马幸免于难，一些躲在巨大的地下避难厩中，另一些不知何故适应了新的环境。那个审判日只不过是小马历史上另一个血腥篇章的序曲。在满目疮痍，毒素滋生的废土，暴力和残忍已是家常便饭，更是一种生存下去的方式……\n在曾经的小马国的那个末日之后，二百多年过去了……\n\n这是一款rougelike的横版射击游戏，游戏中包含有数十种武器、装备和技能，以及上百个随机关卡，当然敌人的种类也很多。小心，敌人也会布置陷进！\n游戏依赖于64位wine。游戏支持多种语言，包括中文。\n\n1.0.1更新：\n一些BUG修复，增加日语和西班牙语。"
+}
+
+,
+{
     "Name": "越野竞速锦标赛",
     "Version": "1.0spark1",
     "Filename": "com.crc.spark_1.0spark1_all.deb",
@@ -2378,20 +2392,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/7b6fa2da284043709c0c9042752f7722.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/3abc0235aa9f46fb9e49ed32882a28e9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/a3513bd1367c4519b986d6e4a5b66c1c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/06/88850cf63ac9492ea87b3e0d93b29e13.png"
 }
-,
-{
-   "Name":"辐射小马国：废土-wine",
-   "Version":"1.0.1",
-   "Filename":"fallout.equestria.remains_1.0.1_amd64.deb",
-   "Pkgname":"fallout.equestria.remains",
-   "Author":"Empalu",
-   "Contributor":"ShadowDumb",
-   "Website":"http://foe.ucoz.org/main_en.html",
-   "Update":"2020-07-26 13:32",
-   "Size":"295.69MB",
-   "More":"战争！战争从未改变！\n很久很久以前，在小马国这片神奇的土地上……\n一个将友谊理念让位于妒忌、自私、贪婪与残忍的时代来临了。在那次国与国之间，以自然资源为开端的大战中，没有任何的赢家。由小马蹄下击打而出的魔法迅速爆发失控，整个世界都被烈焰所吞噬。龙火与黑魔法结合而成的毁灭性武器，几乎抹除掉了这个星球上的所有生命。土壤，水源和空气都被辐射污染，城市毁灭，文明崩溃。无论是小马，还是他们的敌军都被从地表上抹除掉了。疯狂的先知所预言的审判日，几乎没有任何小马相信，直到那个命运注定的日子降临……\n但这并不是结局，仍然有很多小马幸免于难，一些躲在巨大的地下避难厩中，另一些不知何故适应了新的环境。那个审判日只不过是小马历史上另一个血腥篇章的序曲。在满目疮痍，毒素滋生的废土，暴力和残忍已是家常便饭，更是一种生存下去的方式……\n在曾经的小马国的那个末日之后，二百多年过去了……\n\n这是一款rougelike的横版射击游戏，游戏中包含有数十种武器、装备和技能，以及上百个随机关卡，当然敌人的种类也很多。小心，敌人也会布置陷进！\n游戏依赖于64位wine。游戏支持多种语言，包括中文。\n\n1.0.1更新：\n一些BUG修复，增加日语和西班牙语。"
-}
-
 ,
 {
     "Name": "YGOPro2",
@@ -2511,23 +2511,6 @@
 }
 ,
 {
-    "Name": "Malody",
-    "Version": "4.3.7.0+1",
-    "Filename": "com.malody.spark_4.3.7.0_plus1_i386.deb",
-    "Torrent_address": "com.malody.spark_4.3.7.0_plus1_i386.deb.torrent",
-    "Pkgname": "com.malody.spark",
-    "Author": "Mugzone",
-    "Contributor": "秦以南",
-    "Website": "https://m.mugzone.net/",
-    "Update": "2023-06-23 15:03:48",
-    "Size": "52.28 MB",
-    "More": "Malody是由一群热爱音乐的人开发的多平台音乐游戏，谱面来自玩家自制~\n现在通过Wine使得Linux用户也能玩耍了~~\n需要安装deepin-wine6来玩这个游戏。",
-    "Tags": "dwine5;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/a471cc10-1193-11ee-8cee-55f28a6783a6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/a6d892e0-1193-11ee-8cee-55f28a6783a6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/a8ef3de0-1193-11ee-8cee-55f28a6783a6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/ad2a0160-1193-11ee-8cee-55f28a6783a6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/23/47e097b0-1193-11ee-8cee-55f28a6783a6.png"
-}
-,
-{
     "Name": "pcsx2-qt",
     "Version": "1.7.4965",
     "Filename": "pcsx2-qt-amd64_1.7.4965_amd64.deb",
@@ -2542,6 +2525,23 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/02/95f7e3fc72704b469c280e2b22363f29.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/02/2b36a2612b454d14af00ef9a268e0493.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/02/01aa276470b14c9496e1f4dc48bd9d5c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/02/2e09f6f5b760441199a1fe471be7efe6.png"
+}
+,
+{
+    "Name": "Malody",
+    "Version": "4.3.7.0+1",
+    "Filename": "com.malody.spark_4.3.7.0_plus1_i386.deb",
+    "Torrent_address": "com.malody.spark_4.3.7.0_plus1_i386.deb.torrent",
+    "Pkgname": "com.malody.spark",
+    "Author": "Mugzone",
+    "Contributor": "秦以南",
+    "Website": "https://m.mugzone.net/",
+    "Update": "2023-06-23 15:03:48",
+    "Size": "52.28 MB",
+    "More": "Malody是由一群热爱音乐的人开发的多平台音乐游戏，谱面来自玩家自制~\n现在通过Wine使得Linux用户也能玩耍了~~\n需要安装deepin-wine6来玩这个游戏。",
+    "Tags": "dwine5;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/a471cc10-1193-11ee-8cee-55f28a6783a6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/a6d892e0-1193-11ee-8cee-55f28a6783a6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/a8ef3de0-1193-11ee-8cee-55f28a6783a6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/ad2a0160-1193-11ee-8cee-55f28a6783a6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/23/47e097b0-1193-11ee-8cee-55f28a6783a6.png"
 }
 ,
 {
@@ -2929,6 +2929,23 @@
 }
 ,
 {
+    "Name": "斗兽棋",
+    "Version": "1.0.0",
+    "Filename": "ltmx.doushouqi.linux_1.0.0_all.deb",
+    "Torrent_address": "ltmx.doushouqi.linux_1.0.0_all.deb.torrent",
+    "Pkgname": "ltmx.doushouqi.linux",
+    "Author": "赵臻裕",
+    "Contributor": "蓝天萌想",
+    "Website": "https://blueskymengxiang.rth1.link/doushouqi.html",
+    "Update": "2023-11-26 08:38:31",
+    "Size": "64.49 MB",
+    "More": "本应用是一款双人小游戏，使用kitten编译，玩法简单，按照小动物的体型和战斗力强弱来排队，排序为：象＞狮＞虎＞豹＞狼＞狗＞猫＞鼠＞象，同类可以互吃，比自己等级低的小动物都可以吃。斗兽棋双方都有三个陷阱，陷阱主要是限制对方小动物的战斗力，自己的小动物不受影响，如果对方的小动物走入陷阱，自己的任何一个小动物都可以吃掉对方的小动物。走棋方法是：双方轮流走棋，每次只能走一只小动物，而且每个小动物只能走一格。在斗兽棋中，狮子和老虎有特殊的走法，当狮子和老虎在河边时，可以横向和纵向跳跃河流，直接到达河对岸，并且可以把河对岸的比自己弱的小动物吃掉。但是有一种情况，狮子和老虎不能跳跃过河，就是当对方的小老鼠在河里时，狮子和老虎不能跳跃。在斗兽棋中老鼠也比较特殊，它是唯一可以下河的动物，在河里行走时跟陆地时一样的，一次只能走一格，陆地上的动物不能捕食河里的老鼠，只有在陆地上可以捕食，同样，河里的老鼠也不能捕食陆地上的大象和同类，只有在陆地上才可以捕食。当一方的小动物走入对方的兽穴时就算胜利了，或者时一方已经将对方的小动物全部吃掉也算胜利，还有就是一方把对方的小动物全部困住不能动也算胜利。",
+    "Tags": "a2d;uos;deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/26/f588c880-8bf3-11ee-a2df-1f6e4f156e75.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/26/fbd5ca30-8bf3-11ee-a2df-1f6e4f156e75.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/26/0ac33370-8bf4-11ee-a2df-1f6e4f156e75.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/26/0ac99c10-8bf4-11ee-a2df-1f6e4f156e75.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/26/3cc8f220-8bf3-11ee-a2df-1f6e4f156e75.png"
+}
+,
+{
     "Name": "仓鼠球",
     "Version": "1.0spark0",
     "Filename": "com.hamsterball.spark_1.0spark0_amd64.deb",
@@ -2994,23 +3011,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/ec04b444398e4033b2acb18e351bd3a3.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/20/7ef61337583a4a3e9771faaf0b91e9f9.png"
-}
-,
-{
-    "Name": "斗兽棋",
-    "Version": "1.0.0",
-    "Filename": "ltmx.doushouqi.linux_1.0.0_all.deb",
-    "Torrent_address": "ltmx.doushouqi.linux_1.0.0_all.deb.torrent",
-    "Pkgname": "ltmx.doushouqi.linux",
-    "Author": "赵臻裕",
-    "Contributor": "蓝天萌想",
-    "Website": "https://blueskymengxiang.rth1.link/doushouqi.html",
-    "Update": "2023-11-26 08:38:31",
-    "Size": "64.49 MB",
-    "More": "本应用是一款双人小游戏，使用kitten编译，玩法简单，按照小动物的体型和战斗力强弱来排队，排序为：象＞狮＞虎＞豹＞狼＞狗＞猫＞鼠＞象，同类可以互吃，比自己等级低的小动物都可以吃。斗兽棋双方都有三个陷阱，陷阱主要是限制对方小动物的战斗力，自己的小动物不受影响，如果对方的小动物走入陷阱，自己的任何一个小动物都可以吃掉对方的小动物。走棋方法是：双方轮流走棋，每次只能走一只小动物，而且每个小动物只能走一格。在斗兽棋中，狮子和老虎有特殊的走法，当狮子和老虎在河边时，可以横向和纵向跳跃河流，直接到达河对岸，并且可以把河对岸的比自己弱的小动物吃掉。但是有一种情况，狮子和老虎不能跳跃过河，就是当对方的小老鼠在河里时，狮子和老虎不能跳跃。在斗兽棋中老鼠也比较特殊，它是唯一可以下河的动物，在河里行走时跟陆地时一样的，一次只能走一格，陆地上的动物不能捕食河里的老鼠，只有在陆地上可以捕食，同样，河里的老鼠也不能捕食陆地上的大象和同类，只有在陆地上才可以捕食。当一方的小动物走入对方的兽穴时就算胜利了，或者时一方已经将对方的小动物全部吃掉也算胜利，还有就是一方把对方的小动物全部困住不能动也算胜利。",
-    "Tags": "a2d;uos;deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/26/f588c880-8bf3-11ee-a2df-1f6e4f156e75.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/26/fbd5ca30-8bf3-11ee-a2df-1f6e4f156e75.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/26/0ac33370-8bf4-11ee-a2df-1f6e4f156e75.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/26/0ac99c10-8bf4-11ee-a2df-1f6e4f156e75.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/26/3cc8f220-8bf3-11ee-a2df-1f6e4f156e75.png"
 }
 ,
 {

@@ -236,23 +236,6 @@
 }
 ,
 {
-    "Name": "豹图",
-    "Version": "7.1spark2",
-    "Filename": "com.bootgraph.leopardcad.spark_7.1spark2_all.deb",
-    "Torrent_address": "com.bootgraph.leopardcad.spark_7.1spark2_all.deb.torrent",
-    "Pkgname": "com.bootgraph.leopardcad.spark",
-    "Author": "佛山小图科技有限公司",
-    "Contributor": "sgb76",
-    "Website": "http://www.bootgraph.com/#/home",
-    "Update": "2024-02-24 23:51:03",
-    "Size": "63.62 MB",
-    "More": "一款免费 CAD 快速看图工具",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/aa93dce644cb47e4bc89f06ef25e4f9b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/dfba8f3d0e69442bb4935e23ded35b34.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/e73424e8cfba400cb46a8e1e81736664.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/24/1c0bff9004144804a8b705b6056d05ed.png"
-}
-,
-{
     "Name": "Sunny 截图",
     "Version": "1.6.3",
     "Filename": "sunny_1.6.3_amd64.deb",
@@ -267,6 +250,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/0697ed3b0cd74a318bb029cc5fcb7dba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/7ecd11270e8b49258bb535cd80ad7f2e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/f577e1db22844066926730b835008c15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/baf4c1ea15bc413f996f67b4d1b8a478.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/1099a098771243968ad411e1455cada1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/dc8a20e95f85431cb03b556b87eff892.png"
+}
+,
+{
+    "Name": "豹图",
+    "Version": "7.1spark2",
+    "Filename": "com.bootgraph.leopardcad.spark_7.1spark2_all.deb",
+    "Torrent_address": "com.bootgraph.leopardcad.spark_7.1spark2_all.deb.torrent",
+    "Pkgname": "com.bootgraph.leopardcad.spark",
+    "Author": "佛山小图科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "http://www.bootgraph.com/#/home",
+    "Update": "2024-02-24 23:51:03",
+    "Size": "63.62 MB",
+    "More": "一款免费 CAD 快速看图工具",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/aa93dce644cb47e4bc89f06ef25e4f9b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/dfba8f3d0e69442bb4935e23ded35b34.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/e73424e8cfba400cb46a8e1e81736664.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/24/1c0bff9004144804a8b705b6056d05ed.png"
 }
 ,
 {
@@ -934,6 +934,23 @@
 }
 ,
 {
+    "Name": "云图三维 For Linux",
+    "Version": "0.0.2.1",
+    "Filename": "com.yuntucad.cloudcad_0.0.2.1_amd64.deb",
+    "Torrent_address": "com.yuntucad.cloudcad_0.0.2.1_amd64.deb.torrent",
+    "Pkgname": "com.yuntucad.cloudcad",
+    "Author": "yuntucad <yuntucad@163.com>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "<https://www.yuntucad.com>",
+    "Update": "2022-11-25 22:43:49",
+    "Size": "59.15 MB",
+    "More": "云图三维 For Linux\n\n云图三维是新一代自主可控的3D云原生工业设计平台，为制造业提供云端设计、协同于一体的行业解决方案。集成企业协作平台为团队提供操作更流畅、沟通更高效的创新工作模式，打造设计、装配、渲染、出图为一体的全新 All-in-one 体验。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/25/421258f2-1c20-4969-8aa5-7145b04055ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/25/c64064c1-8d70-4fc6-8b03-d10a56288006.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/25/beef8354-5294-4f3d-be13-66b5f1589ef7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/25/ec2595c8-4dcc-46fb-aec4-e44beb2b2bc1.png"
+}
+,
+{
     "Name": "MapGis67",
     "Version": "6.7deepin1",
     "Filename": "com.mapgis67.deepin_6.7deepin1_i386.deb",
@@ -962,23 +979,6 @@
    "More":"RawTherapee is a free, cross-platform raw image processing program"
 }
 
-,
-{
-    "Name": "云图三维 For Linux",
-    "Version": "0.0.2.1",
-    "Filename": "com.yuntucad.cloudcad_0.0.2.1_amd64.deb",
-    "Torrent_address": "com.yuntucad.cloudcad_0.0.2.1_amd64.deb.torrent",
-    "Pkgname": "com.yuntucad.cloudcad",
-    "Author": "yuntucad <yuntucad@163.com>",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "<https://www.yuntucad.com>",
-    "Update": "2022-11-25 22:43:49",
-    "Size": "59.15 MB",
-    "More": "云图三维 For Linux\n\n云图三维是新一代自主可控的3D云原生工业设计平台，为制造业提供云端设计、协同于一体的行业解决方案。集成企业协作平台为团队提供操作更流畅、沟通更高效的创新工作模式，打造设计、装配、渲染、出图为一体的全新 All-in-one 体验。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/25/421258f2-1c20-4969-8aa5-7145b04055ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/25/c64064c1-8d70-4fc6-8b03-d10a56288006.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/25/beef8354-5294-4f3d-be13-66b5f1589ef7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/25/ec2595c8-4dcc-46fb-aec4-e44beb2b2bc1.png"
-}
 ,
 {
     "Name": "简单图像处理工具",

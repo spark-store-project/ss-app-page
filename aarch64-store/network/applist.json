@@ -663,24 +663,6 @@
 
 ,
 {
-    "Author": "Deepin Sysdev <sysdev@deepin.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "uos-remote-assistance_1.1.34-1_arm64.deb",
-    "More": "UOS 家庭版自带的远程协助工具，官方应用商店似乎下架了这个工具",
-    "Name": "UOS 远程协助",
-    "Pkgname": "uos-remote-assistance",
-    "Size": "11 Mb",
-    "Tags": "deepin;uos",
-    "Torrent_address": "uos-remote-assistance_1.1.34-1_arm64.deb.torrent",
-    "Update": "2023-03-05 18:42:56",
-    "Version": "1.1.34-1",
-    "Website": "https://www.deepin.org",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uos-remote-assistance/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uos-remote-assistance/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uos-remote-assistance/screen_2.png\"]"
-}
-
-,
-{
     "Author": "zzzgydi, wonfen, MystiPanda",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "clash-verge_1.6.5_arm64.deb",
@@ -695,6 +677,24 @@
     "Website": "https://clash-verge-rev.github.io/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "Deepin Sysdev <sysdev@deepin.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "uos-remote-assistance_1.1.34-1_arm64.deb",
+    "More": "UOS 家庭版自带的远程协助工具，官方应用商店似乎下架了这个工具",
+    "Name": "UOS 远程协助",
+    "Pkgname": "uos-remote-assistance",
+    "Size": "11 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "uos-remote-assistance_1.1.34-1_arm64.deb.torrent",
+    "Update": "2023-03-05 18:42:56",
+    "Version": "1.1.34-1",
+    "Website": "https://www.deepin.org",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uos-remote-assistance/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uos-remote-assistance/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uos-remote-assistance/screen_2.png\"]"
 }
 
 ,

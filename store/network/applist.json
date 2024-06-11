@@ -171,23 +171,6 @@
 }
 ,
 {
-    "Name": "迅雷（wine）",
-    "Version": "11.4.8.2122spark3",
-    "Filename": "com.xunlei.spark_11.4.8.2122spark3_amd64.deb",
-    "Torrent_address": "com.xunlei.spark_11.4.8.2122spark3_amd64.deb.torrent",
-    "Pkgname": "com.xunlei.spark",
-    "Author": "深圳市迅雷网络技术有限公司",
-    "Contributor": "sgb76",
-    "Website": "https://www.xunlei.com/",
-    "Update": "2023-08-30 15:17:25",
-    "Size": "509.95 MB",
-    "More": "更快！但不止于快！",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/b04786c088b546f1ac5066c99133aec7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/284c616f8ab54a97bc9d81e7d27539f9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/d0d36ec9afde4b3994f18bb8691d959c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/30/0067321739a049658719309845e6b13f.png"
-}
-,
-{
     "Name": "Clash Verge",
     "Version": "1.6.5",
     "Filename": "clash-verge_1.6.5_amd64.deb",
@@ -202,6 +185,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/04/b5a96a095ec340629275306c1a3d30f5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/04/7053e1fe86184e1ea5c7a4f17dc13b89.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/04/c7fec335724f47b3bac77f241fd28eef.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/04/06d90c8c26bd466da7c031b67fbf5022.png"
+}
+,
+{
+    "Name": "迅雷（wine）",
+    "Version": "11.4.8.2122spark3",
+    "Filename": "com.xunlei.spark_11.4.8.2122spark3_amd64.deb",
+    "Torrent_address": "com.xunlei.spark_11.4.8.2122spark3_amd64.deb.torrent",
+    "Pkgname": "com.xunlei.spark",
+    "Author": "深圳市迅雷网络技术有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.xunlei.com/",
+    "Update": "2023-08-30 15:17:25",
+    "Size": "509.95 MB",
+    "More": "更快！但不止于快！",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/b04786c088b546f1ac5066c99133aec7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/284c616f8ab54a97bc9d81e7d27539f9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/d0d36ec9afde4b3994f18bb8691d959c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/30/0067321739a049658719309845e6b13f.png"
 }
 ,
 {
@@ -475,6 +475,22 @@
 }
 ,
 {
+    "Name": "天翼云盘(Linux版)",
+    "Version": "1.1.0-1_plus_a1",
+    "Filename": "com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb",
+    "Pkgname": "com.cloud.21cn",
+    "Author": "21CN Corporation Limited",
+    "Contributor": "fredoong",
+    "Website": "https://cloud.189.cn/",
+    "Update": "2021-07-06 06:06:28",
+    "Size": "55.56 MB",
+    "More": "A project of Tianyi Cloud Disk\n天翼云盘Linux版",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/06/26bc07e0-dddd-11eb-a494-017e838ccdaa.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/06/1c52a020-dddd-11eb-a494-017e838ccdaa.png"
+}
+,
+{
     "Name": "easyconnect(V23)",
     "Version": "7.6.7.7",
     "Filename": "easyconnect_7.6.7.7_amd64.deb",
@@ -489,22 +505,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/a34c840bb40f4e7b8974e440f6adacf5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/15/7500827e5104428480d344850edb0159.png"
-}
-,
-{
-    "Name": "天翼云盘(Linux版)",
-    "Version": "1.1.0-1_plus_a1",
-    "Filename": "com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb",
-    "Pkgname": "com.cloud.21cn",
-    "Author": "21CN Corporation Limited",
-    "Contributor": "fredoong",
-    "Website": "https://cloud.189.cn/",
-    "Update": "2021-07-06 06:06:28",
-    "Size": "55.56 MB",
-    "More": "A project of Tianyi Cloud Disk\n天翼云盘Linux版",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/06/26bc07e0-dddd-11eb-a494-017e838ccdaa.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/06/1c52a020-dddd-11eb-a494-017e838ccdaa.png"
 }
 ,
 {
@@ -1889,6 +1889,23 @@
 }
 ,
 {
+    "Name": "蜗牛下载器",
+    "Version": "1.17.1-1",
+    "Filename": "snail_1.17.1-1_amd64.deb",
+    "Torrent_address": "snail_1.17.1-1_amd64.deb.torrent",
+    "Pkgname": "snail",
+    "Author": "acgist <Unknown>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://gitee.com/acgist/snail/",
+    "Update": "2023-01-20 17:17:18",
+    "Size": "29.27 MB",
+    "More": "Java下载器一个～",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/1e1735073fc046e4840fb019b304b4fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/982e0c038d614454883c5f47a99f1108.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/20/3dc8c63ab53f470f9b7b08e6c91c7e78.png"
+}
+,
+{
     "Author": "shenmo",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.ugreen.client_4.9.0.9559_all.deb",
@@ -1905,23 +1922,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/screen_1.png\"]"
 }
 
-,
-{
-    "Name": "蜗牛下载器",
-    "Version": "1.17.1-1",
-    "Filename": "snail_1.17.1-1_amd64.deb",
-    "Torrent_address": "snail_1.17.1-1_amd64.deb.torrent",
-    "Pkgname": "snail",
-    "Author": "acgist <Unknown>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://gitee.com/acgist/snail/",
-    "Update": "2023-01-20 17:17:18",
-    "Size": "29.27 MB",
-    "More": "Java下载器一个～",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/1e1735073fc046e4840fb019b304b4fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/982e0c038d614454883c5f47a99f1108.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/20/3dc8c63ab53f470f9b7b08e6c91c7e78.png"
-}
 ,
 {
     "Name": "Station浏览器",

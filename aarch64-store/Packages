@@ -3149,22 +3149,6 @@ SHA256: 8b61ed5bbdf016ccaa96230af42b081ef86a4e42e0c77c06a94d4d2c62d005fc
 SHA512: 9f4320282f58aafae7070befc5eb217aabaf369b432639389ce392c6e074fe9f39666e88f35d70ce41a7514f19ed121fe05b5ed1513a1017c5d8b552bdc6fdfb
 Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
 
-Package: com.uniontech.theme.infinitecontrol
-Architecture: all
-Version: 1.0.4
-Priority: optional
-Section: admin
-Maintainer: Tonny
-Installed-Size: 5374
-Depends: deepin-elf-verify (>= 1.1.10-1),deepin-icon-theme
-Filename: themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.4_all.deb
-Size: 3325388
-MD5sum: 2a1410100ea3b616e6e355230c858a89
-SHA1: a155200bed3d410ca1ab0942e9dbecadb6871d89
-SHA256: 2e508fce71592612a303a5be9f3ab71d1c9c89738b1423dca24e85094e714259
-SHA512: 7417fa8c5c417cdafc3804e408059053995962ace0b653877172af1683c056a2d0b75a637558d026eb49643e4c001f92e01aa3a71b24323593b539872afa0a7f
-Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
-
 Package: uos-home-icon
 Architecture: all
 Version: 1.0.0
@@ -8018,22 +8002,6 @@ MD5sum: 3d2db359daf57516d59e783719177869
 SHA1: fced7805976671e38e17c0b7c4282bf98e259e0d
 SHA256: ba4f743958f54b56920cecaca78a95458d1321f706423f4200d8f21519869987
 SHA512: 313facd519b7b4ad508abe83ebe39cff7f917ab629f9bf2b390eca132827c5d690a5d4d7486ac27b550a7a1829b545d91e33bf18c991943e6e291a8120981fec
-Homepage: https://gov.dingtalk.com
-Description: 钉钉
-
-Package: com.alibabainc.dingtalk
-Architecture: arm64
-Version: 7.5.10.404071
-Priority: optional
-Section: devel
-Maintainer: dingtalk alibaba-inc
-Installed-Size: 1118577
-Filename: chat/com.alibabainc.dingtalk/com.alibabainc.dingtalk_7.5.10.404071_arm64.deb
-Size: 320553160
-MD5sum: 56adf02f9b8f6695ddb6e9a96b2ec4ae
-SHA1: 0c754694414b96d7781737dd51069f8b97ee83b2
-SHA256: b8b1bfd030e49e0fa58cd3909c46d413bbb26011b790fd04e3fb818c7489bc18
-SHA512: eb0f290cb4beef31afd5b89dcb818e167a0068135da7ecdccc357f9e777a08b5f69629a97a2e09146c875a854dbd303476deead0bba7f994c9d8047083ccc463
 Homepage: https://gov.dingtalk.com
 Description: 钉钉
 
