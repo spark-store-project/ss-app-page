@@ -1524,23 +1524,6 @@
 
 ,
 {
-    "Name": "CopyQ",
-    "Version": "8.0.0-1",
-    "Filename": "copyq_8.0.0-1_amd64.deb",
-    "Torrent_address": "copyq_8.0.0-1_amd64.deb.torrent",
-    "Pkgname": "copyq",
-    "Author": "Lukas Holecek",
-    "Contributor": "sgb76",
-    "Website": "https://hluk.github.io/CopyQ/",
-    "Update": "2024-03-17 19:35:15",
-    "Size": "1.85 MB",
-    "More": "CopyQ 是具有编辑和脚本功能的高级剪贴板管理器。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/17/9003c4e009a947ada67d55ba3925bf69.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/17/7b1a79d884b54f20b23412fac154e6c9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/17/1c329a358ac8444aa69d20182895a3ce.png"
-}
-,
-{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "spark-web-packer_0.1.3_all.deb",
@@ -1557,6 +1540,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-web-packer/screen_1.png\"]"
 }
 
+,
+{
+    "Name": "CopyQ",
+    "Version": "8.0.0-1",
+    "Filename": "copyq_8.0.0-1_amd64.deb",
+    "Torrent_address": "copyq_8.0.0-1_amd64.deb.torrent",
+    "Pkgname": "copyq",
+    "Author": "Lukas Holecek",
+    "Contributor": "sgb76",
+    "Website": "https://hluk.github.io/CopyQ/",
+    "Update": "2024-03-17 19:35:15",
+    "Size": "1.85 MB",
+    "More": "CopyQ 是具有编辑和脚本功能的高级剪贴板管理器。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/17/9003c4e009a947ada67d55ba3925bf69.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/17/7b1a79d884b54f20b23412fac154e6c9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/17/1c329a358ac8444aa69d20182895a3ce.png"
+}
 ,
 {
     "Name": "electerm",
@@ -2015,6 +2015,23 @@
 }
 ,
 {
+    "Name": "腾讯御点",
+    "Version": "2.1.0.348-1.uos20",
+    "Filename": "com.tencent.yudian_2.1.0.348-1.uos20_amd64.deb",
+    "Torrent_address": "com.tencent.yudian_2.1.0.348-1.uos20_amd64.deb.torrent",
+    "Pkgname": "com.tencent.yudian",
+    "Author": "tav",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "http://tav.qq.com",
+    "Update": "2022-10-22 18:05:19",
+    "Size": "56.41 MB",
+    "More": "终端安全管理系统是腾讯出品的企业级安全服务。依托腾讯多年的安全经验积累，终端安全管理系统将百亿量级云查杀病毒库、引擎库以及腾讯反病毒引擎的杀毒引擎、系统修复引擎应用到企业内部，可有效防御企业内网终端的病毒木马攻击。终端安全管理系统具备终端杀毒统一管控、修复漏洞统一管控以及策略管控等全方位的安全管理功能，可帮助企业管理者全面了解和管理企业内网的安全状况，保护企业安全。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/899a2001-8332-495f-929a-d1661b409a8f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/4d378646-2f4b-4e8b-af43-c245061dd647.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/e0041bf0-4f24-4137-9c6d-8f1804585585.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/114d744d-dc98-4b03-892f-8a2ffe1186b1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/22/58ded873-759c-405a-bceb-ba1610093b33.png"
+}
+,
+{
     "Name": "奇安信网神终端安全管理系统",
     "Version": "7.0.5.1600",
     "Filename": "com.qianxin.qaxsafe_7.0.5.1600_amd64.deb",
@@ -2045,23 +2062,6 @@
     "Tags": "uos;deepin;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/12/34b6f1a0-5a9e-11ec-badd-874205411ce9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/12/34c23c40-5a9e-11ec-badd-874205411ce9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/12/31596ec0-5a9e-11ec-badd-874205411ce9.png"
-}
-,
-{
-    "Name": "腾讯御点",
-    "Version": "2.1.0.348-1.uos20",
-    "Filename": "com.tencent.yudian_2.1.0.348-1.uos20_amd64.deb",
-    "Torrent_address": "com.tencent.yudian_2.1.0.348-1.uos20_amd64.deb.torrent",
-    "Pkgname": "com.tencent.yudian",
-    "Author": "tav",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "http://tav.qq.com",
-    "Update": "2022-10-22 18:05:19",
-    "Size": "56.41 MB",
-    "More": "终端安全管理系统是腾讯出品的企业级安全服务。依托腾讯多年的安全经验积累，终端安全管理系统将百亿量级云查杀病毒库、引擎库以及腾讯反病毒引擎的杀毒引擎、系统修复引擎应用到企业内部，可有效防御企业内网终端的病毒木马攻击。终端安全管理系统具备终端杀毒统一管控、修复漏洞统一管控以及策略管控等全方位的安全管理功能，可帮助企业管理者全面了解和管理企业内网的安全状况，保护企业安全。",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/899a2001-8332-495f-929a-d1661b409a8f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/4d378646-2f4b-4e8b-af43-c245061dd647.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/e0041bf0-4f24-4137-9c6d-8f1804585585.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/114d744d-dc98-4b03-892f-8a2ffe1186b1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/22/58ded873-759c-405a-bceb-ba1610093b33.png"
 }
 ,
 {
@@ -2400,6 +2400,23 @@
 }
 ,
 {
+    "Name": "GXDE 内核管理器 1.1.0",
+    "Version": "1.1.0",
+    "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
+    "Torrent_address": "gxde-kernel-manager_1.1.0_amd64.deb.torrent",
+    "Pkgname": "gxde-kernel-manager",
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
+    "Update": "2024-05-12 17:25:58",
+    "Size": "1.07 MB",
+    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \n\n\nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
+}
+,
+{
     "Name": "钉钉视频会议日志清理",
     "Version": "1.2.3-0.1",
     "Filename": "dinglivelogclean_1.2.3-0.1_all.deb",
@@ -2430,23 +2447,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/2356ceb0-166d-11eb-a815-b9186224f79a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/25/67e77340-166d-11eb-a815-b9186224f79a.png"
-}
-,
-{
-    "Name": "GXDE 内核管理器 1.1.0",
-    "Version": "1.1.0",
-    "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
-    "Torrent_address": "gxde-kernel-manager_1.1.0_amd64.deb.torrent",
-    "Pkgname": "gxde-kernel-manager",
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
-    "Update": "2024-05-12 17:25:58",
-    "Size": "1.07 MB",
-    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \n\n\nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
 }
 ,
 {

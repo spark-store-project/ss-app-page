@@ -1,3 +1,37 @@
+Package: com.electron
+Architecture: amd64
+Version: 27.3.8
+Priority: optional
+Section: devel
+Maintainer: SZBT CI <lu1044100652@outlook.com>
+Installed-Size: 253151
+Depends: nodejs, deepin-elf-verify (>= 1.1.10-1)
+Filename: depends/com.electron/com.electron_27.3.8_amd64.deb
+Size: 73670766
+MD5sum: b51befad33419b044fea7d6b603e4ba6
+SHA1: 30690d07f4713421683d9cb7027e9f639524ea2f
+SHA256: 348b66551e9d337cd6fa1802f7dc5c1ee9d59891f1f3ccd734edc929d657a683
+SHA512: 34e39a19cccc9e91c4f8704103bed981506cf9b554ee27f0395a1f052917603fed697e976fa397ee8fd15ec39d8469845c8bdaf1e13f3fa0a3f74badd84f331c
+Homepage: https://www.electronjs.org/
+Description: The Electron framework lets you write cross-platform desktop applications using JavaScript, HTML and CSS. It is based on Node.js and Chromium and is used by the Atom editor and many other apps.
+
+Package: com.electron
+Architecture: amd64
+Version: 25.9.4
+Priority: optional
+Section: devel
+Maintainer: ziggy <luzijie@uniontech.com>
+Installed-Size: 238874
+Depends: nodejs, deepin-elf-verify (>= 1.1.10-1)
+Filename: depends/com.electron/com.electron_25.9.4_amd64.deb
+Size: 69674078
+MD5sum: 19a00167ddd43b87201be6285a1b0039
+SHA1: 7557e0a573a01db7784167fde4b1ba68122efdf0
+SHA256: bcc19596849d7bfdeb9b2ae25fe2ce6991d4ee667a7ac2c438fa5aeebd3ee92c
+SHA512: 8eed87be682008be8fda77693b91d8432dc7a6d010460c777e718f7378373ee0060b20a9222ae860d9d943dc749d6567278c6654e995935d76c75874f1feaddd
+Homepage: https://www.electronjs.org/
+Description: The Electron framework lets you write cross-platform desktop applications using JavaScript, HTML and CSS. It is based on Node.js and Chromium and is used by the Atom editor and many other apps.
+
 Package: libdtkgui5-bin
 Architecture: amd64
 Version: 5.4.15
@@ -2145,23 +2179,6 @@ Description: utility libraries for X C Binding -- atom, aux and event
  and interfaces which make the raw X protocol more usable. Some of the
  libraries also provide client-side code which is not strictly part of
  the X protocol but which have traditionally been provided by Xlib.
-
-Package: com.electron
-Architecture: amd64
-Version: 25.9.4
-Priority: optional
-Section: devel
-Maintainer: ziggy <luzijie@uniontech.com>
-Installed-Size: 238874
-Depends: nodejs, deepin-elf-verify (>= 1.1.10-1)
-Filename: depends/electron/com.electron_25.9.4_amd64.deb
-Size: 69674078
-MD5sum: 19a00167ddd43b87201be6285a1b0039
-SHA1: 7557e0a573a01db7784167fde4b1ba68122efdf0
-SHA256: bcc19596849d7bfdeb9b2ae25fe2ce6991d4ee667a7ac2c438fa5aeebd3ee92c
-SHA512: 8eed87be682008be8fda77693b91d8432dc7a6d010460c777e718f7378373ee0060b20a9222ae860d9d943dc749d6567278c6654e995935d76c75874f1feaddd
-Homepage: https://www.electronjs.org/
-Description: The Electron framework lets you write cross-platform desktop applications using JavaScript, HTML and CSS. It is based on Node.js and Chromium and is used by the Atom editor and many other apps.
 
 Package: libicu57
 Architecture: amd64

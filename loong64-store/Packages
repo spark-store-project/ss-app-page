@@ -1,3 +1,37 @@
+Package: com.electron
+Architecture: loong64
+Version: 17.4
+Priority: optional
+Section: devel
+Maintainer: shenmo <lu1044100652@outlook.com>
+Installed-Size: 259859
+Depends: nodejs, deepin-elf-verify (>= 1.1.10-1),liblol,liblol-dkms
+Filename: depends/com.electron/com.electron_17.4_loong64.deb
+Size: 84482424
+MD5sum: c1e07cb000bf4c5ba6bbd4759987f4e6
+SHA1: 487fa3699773516a9558932a539ff721ba3646c6
+SHA256: c5f1301feef905ee23da316c964630a5f94568b6150d36fcb832a29313b52a6c
+SHA512: 2eb46a36971dd10182498a1628f9ffa6e67f6e8aa82de440c98c3272ea4e31c088dbf2e1b34bf96a78c22dd4c8b9c2feee232bb9b613dc7f3ef6ca6bb7ea781d
+Homepage: https://www.electronjs.org/
+Description: The Electron framework lets you write cross-platform desktop applications using JavaScript, HTML and CSS. It is based on Node.js and Chromium and is used by the Atom editor and many other apps.
+
+Package: com.electron
+Architecture: loong64
+Version: 22.3.27
+Priority: optional
+Section: devel
+Maintainer: shenmo <lu1044100652@outlook.com>
+Installed-Size: 259859
+Depends: nodejs, deepin-elf-verify (>= 1.1.10-1)
+Filename: depends/com.electron/com.electron_22.3.27_loong64.deb
+Size: 70070124
+MD5sum: c288639273e42d393fee40d0acfdd3bf
+SHA1: 54def23946bec21036b94b68480bb6aabc0f07e9
+SHA256: 7417b00b2b5707f8cba2034159b2051a7f47c37129d2295da3ec62b468c79ee6
+SHA512: 4132b94b7f9bc81f7c2f10d103a097cdedf78a253ff283bf73ab6a9a860403022a29b3186877a9ee843fe2504e769a46f10b03b160942f43a10c15a71a89e074
+Homepage: https://www.electronjs.org/
+Description: The Electron framework lets you write cross-platform desktop applications using JavaScript, HTML and CSS. It is based on Node.js and Chromium and is used by the Atom editor and many other apps.
+
 Package: libqt5webengine5
 Architecture: loong64
 Version: 5.15.2+dfsg-lnd.3
@@ -893,23 +927,6 @@ SHA512: ad9b229d392e25c331b1d3566fb883761f561bbdf614756521c194d0659713924bde3a6a
 Homepage: https://gitee.com/deepin-community-store/spark-web-app-runtime
 Description: Spark WebApp Runtime
  A simple solution for packaging web apps.
-
-Package: com.electron
-Architecture: loong64
-Version: 17.4
-Priority: optional
-Section: devel
-Maintainer: shenmo <lu1044100652@outlook.com>
-Installed-Size: 259859
-Depends: nodejs, deepin-elf-verify (>= 1.1.10-1),liblol,liblol-dkms
-Filename: depends/electron/com.electron_17.4_loong64.deb
-Size: 84482424
-MD5sum: c1e07cb000bf4c5ba6bbd4759987f4e6
-SHA1: 487fa3699773516a9558932a539ff721ba3646c6
-SHA256: c5f1301feef905ee23da316c964630a5f94568b6150d36fcb832a29313b52a6c
-SHA512: 2eb46a36971dd10182498a1628f9ffa6e67f6e8aa82de440c98c3272ea4e31c088dbf2e1b34bf96a78c22dd4c8b9c2feee232bb9b613dc7f3ef6ca6bb7ea781d
-Homepage: https://www.electronjs.org/
-Description: The Electron framework lets you write cross-platform desktop applications using JavaScript, HTML and CSS. It is based on Node.js and Chromium and is used by the Atom editor and many other apps.
 
 Package: deepin-app-store-runtime
 Architecture: all

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.electron_22.3.27_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c288639273e42d393fee40d0acfdd3bf</hash>
+				  
+				<hash type="sha1">54def23946bec21036b94b68480bb6aabc0f07e9</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/loong64-store/depends/com.electron/com.electron_22.3.27_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/depends/com.electron/com.electron_22.3.27_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/depends/com.electron/com.electron_22.3.27_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/depends/com.electron/com.electron_22.3.27_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/depends/com.electron/com.electron_22.3.27_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/depends/com.electron/com.electron_22.3.27_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>
