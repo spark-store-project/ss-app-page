@@ -721,23 +721,6 @@
 
 ,
 {
-    "Name": "思源笔记",
-    "Version": "3.0.0spark17",
-    "Filename": "org.b3log.siyuan.spark_3.0.0spark17_amd64.deb",
-    "Torrent_address": "org.b3log.siyuan.spark_3.0.0spark17_amd64.deb.torrent",
-    "Pkgname": "org.b3log.siyuan.spark",
-    "Author": "云南链滴科技有限公司",
-    "Contributor": "sgb76",
-    "Website": "https://b3log.org/siyuan/",
-    "Update": "2024-02-26 23:02:24",
-    "Size": "127.37 MB",
-    "More": "思源笔记是一款本地优先的个人知识管理系统，支持完全离线使用，同时也支持端到端加密同步。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/e6afb8b8264e475689f1f57c159c22ff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/b6286095db82408a90b0cf5033d4aed9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/8e77a76c35364d4a82ac6628db71a623.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/8de105251b224c2faa5b3e9ee9e9d2b7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/26/6714f76685b54231b381715b31f0c871.png"
-}
-,
-{
     "Name": "office2013",
     "Version": "15.0.0",
     "Filename": "spark-office_15.0.0_all.deb",
@@ -752,6 +735,23 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/351d3430-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3528a5e0-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3534dae0-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/353cca20-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3a7b6910-c561-11ee-9bdf-11b9ca480f15.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/07/41a201e0-c561-11ee-9bdf-11b9ca480f15.png"
+}
+,
+{
+    "Name": "思源笔记",
+    "Version": "3.0.0spark17",
+    "Filename": "org.b3log.siyuan.spark_3.0.0spark17_amd64.deb",
+    "Torrent_address": "org.b3log.siyuan.spark_3.0.0spark17_amd64.deb.torrent",
+    "Pkgname": "org.b3log.siyuan.spark",
+    "Author": "云南链滴科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://b3log.org/siyuan/",
+    "Update": "2024-02-26 23:02:24",
+    "Size": "127.37 MB",
+    "More": "思源笔记是一款本地优先的个人知识管理系统，支持完全离线使用，同时也支持端到端加密同步。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/e6afb8b8264e475689f1f57c159c22ff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/b6286095db82408a90b0cf5033d4aed9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/8e77a76c35364d4a82ac6628db71a623.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/8de105251b224c2faa5b3e9ee9e9d2b7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/26/6714f76685b54231b381715b31f0c871.png"
 }
 ,
 {
@@ -806,23 +806,6 @@
 }
 ,
 {
-    "Name": "Joplin",
-    "Version": "2.9.17",
-    "Filename": "org.joplin.spark_2.9.17_all.deb",
-    "Torrent_address": "org.joplin.spark_2.9.17_all.deb.torrent",
-    "Pkgname": "org.joplin.spark",
-    "Author": "spark-store",
-    "Contributor": "fyljp <fyljpeng@gmail.com>",
-    "Website": "https://joplinapp.org/",
-    "Update": "2023-02-02 01:18:16",
-    "Size": "219.83 MB",
-    "More": "一个具有同步能力的开源笔记和待办事项应用程序，兼容 Windows、macOS、Linux、Android 和 iOS。",
-    "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/74abfbf3bd2f486fbba03c2183fc4d51.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/8807954e5f81442082b53356ac03a5f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/01819b12067b434391ed237a2261a189.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/0d95a0d2bfb141afa38778f4376fffc3.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/02/18c553a6414243fcb0c8015002f8752b.png"
-}
-,
-{
     "Name": "MindMaster",
     "Version": "10.8.0",
     "Filename": "mindmaster_10.8.0_amd64.deb",
@@ -837,6 +820,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/1c30f0fa133c4bbb9a5f78ba131a9cb6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/ccf7df6ec6d44daba6fc2eeeab9d12c1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/ffddcfa55e794dd9a64f03ed846a66b6.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/f34a169f164b44f2a4568e728a8feb32.png"
+}
+,
+{
+    "Name": "Joplin",
+    "Version": "2.9.17",
+    "Filename": "org.joplin.spark_2.9.17_all.deb",
+    "Torrent_address": "org.joplin.spark_2.9.17_all.deb.torrent",
+    "Pkgname": "org.joplin.spark",
+    "Author": "spark-store",
+    "Contributor": "fyljp <fyljpeng@gmail.com>",
+    "Website": "https://joplinapp.org/",
+    "Update": "2023-02-02 01:18:16",
+    "Size": "219.83 MB",
+    "More": "一个具有同步能力的开源笔记和待办事项应用程序，兼容 Windows、macOS、Linux、Android 和 iOS。",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/74abfbf3bd2f486fbba03c2183fc4d51.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/8807954e5f81442082b53356ac03a5f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/01819b12067b434391ed237a2261a189.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/0d95a0d2bfb141afa38778f4376fffc3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/02/18c553a6414243fcb0c8015002f8752b.png"
 }
 ,
 {
@@ -3469,6 +3469,23 @@
 }
 ,
 {
+    "Name": "瞩目云会议 Zhumu",
+    "Version": "5.5.188.0612",
+    "Filename": "zhumuintl_5.5.188.0612_amd64.deb",
+    "Torrent_address": "zhumuintl_5.5.188.0612_amd64.deb.torrent",
+    "Pkgname": "zhumuintl",
+    "Author": "Zhumuintl <help.zhumu.me>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.zhumu.com/",
+    "Update": "2022-12-12 10:10:32",
+    "Size": "48.01 MB",
+    "More": "瞩目云会议 国际版",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/12/f2407c6c51fb41b8b2873173cf5d06ec.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/12/b2c05b07054c4025918c5abccab51311.png"
+}
+,
+{
     "Name": "動畫模擬教學_PhET",
     "Version": "202112",
     "Filename": "ezgo-phet_202112_all.deb",
@@ -3534,23 +3551,6 @@
     "Tags": "uos;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/31/1937f290-b097-11ec-a273-5b4aeeaba9c2.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/31/19516e00-b097-11ec-a273-5b4aeeaba9c2.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/31/196ae970-b097-11ec-a273-5b4aeeaba9c2.jpg\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/31/15b0c7a0-b097-11ec-a273-5b4aeeaba9c2.png"
-}
-,
-{
-    "Name": "瞩目云会议 Zhumu",
-    "Version": "5.5.188.0612",
-    "Filename": "zhumuintl_5.5.188.0612_amd64.deb",
-    "Torrent_address": "zhumuintl_5.5.188.0612_amd64.deb.torrent",
-    "Pkgname": "zhumuintl",
-    "Author": "Zhumuintl <help.zhumu.me>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://www.zhumu.com/",
-    "Update": "2022-12-12 10:10:32",
-    "Size": "48.01 MB",
-    "More": "瞩目云会议 国际版",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/12/f2407c6c51fb41b8b2873173cf5d06ec.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/12/b2c05b07054c4025918c5abccab51311.png"
 }
 ,
 {

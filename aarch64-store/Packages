@@ -3135,6 +3135,22 @@ Description: 自定义主题（内包含 壁纸、光标、字体）
 
 Package: com.uniontech.theme.infinitecontrol
 Architecture: all
+Version: 1.0.5
+Priority: optional
+Section: admin
+Maintainer: Tonny
+Installed-Size: 5374
+Depends: deepin-elf-verify (>= 1.1.10-1),deepin-icon-theme
+Filename: themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.5_all.deb
+Size: 3353320
+MD5sum: 062cdf9128d48d8cdc097744d63495d3
+SHA1: 0ae53848a021ff1c657335f8e05230833bc57816
+SHA256: 8b61ed5bbdf016ccaa96230af42b081ef86a4e42e0c77c06a94d4d2c62d005fc
+SHA512: 9f4320282f58aafae7070befc5eb217aabaf369b432639389ce392c6e074fe9f39666e88f35d70ce41a7514f19ed121fe05b5ed1513a1017c5d8b552bdc6fdfb
+Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
+
+Package: com.uniontech.theme.infinitecontrol
+Architecture: all
 Version: 1.0.4
 Priority: optional
 Section: admin

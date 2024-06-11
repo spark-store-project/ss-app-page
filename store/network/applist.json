@@ -475,22 +475,6 @@
 }
 ,
 {
-    "Name": "天翼云盘(Linux版)",
-    "Version": "1.1.0-1_plus_a1",
-    "Filename": "com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb",
-    "Pkgname": "com.cloud.21cn",
-    "Author": "21CN Corporation Limited",
-    "Contributor": "fredoong",
-    "Website": "https://cloud.189.cn/",
-    "Update": "2021-07-06 06:06:28",
-    "Size": "55.56 MB",
-    "More": "A project of Tianyi Cloud Disk\n天翼云盘Linux版",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/06/26bc07e0-dddd-11eb-a494-017e838ccdaa.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/06/1c52a020-dddd-11eb-a494-017e838ccdaa.png"
-}
-,
-{
     "Name": "easyconnect(V23)",
     "Version": "7.6.7.7",
     "Filename": "easyconnect_7.6.7.7_amd64.deb",
@@ -505,6 +489,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/a34c840bb40f4e7b8974e440f6adacf5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/15/7500827e5104428480d344850edb0159.png"
+}
+,
+{
+    "Name": "天翼云盘(Linux版)",
+    "Version": "1.1.0-1_plus_a1",
+    "Filename": "com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb",
+    "Pkgname": "com.cloud.21cn",
+    "Author": "21CN Corporation Limited",
+    "Contributor": "fredoong",
+    "Website": "https://cloud.189.cn/",
+    "Update": "2021-07-06 06:06:28",
+    "Size": "55.56 MB",
+    "More": "A project of Tianyi Cloud Disk\n天翼云盘Linux版",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/06/26bc07e0-dddd-11eb-a494-017e838ccdaa.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/06/1c52a020-dddd-11eb-a494-017e838ccdaa.png"
 }
 ,
 {
@@ -1376,23 +1376,6 @@
 
 ,
 {
-    "Name": "腾讯微云（wine）",
-    "Version": "5.2.1282spark1",
-    "Filename": "com.weiyun.spark_5.2.1282spark1_i386.deb",
-    "Torrent_address": "com.weiyun.spark_5.2.1282spark1_i386.deb.torrent",
-    "Pkgname": "com.weiyun.spark",
-    "Author": "anima <402844767@139.com>",
-    "Contributor": "anima <402844767@139.com>",
-    "Website": "https://www.weiyun.com/",
-    "Update": "2022-12-24 17:20:31",
-    "Size": "88.13 MB",
-    "More": "档案管理更便捷\n上传下载更稳定",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/24/ba1062f58e0b4b5c8e40c76765553407.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/24/e0a38f76e66b484b9de86a58d3e616ad.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/24/9254114039fc453ab804763abb79f1f8.png"
-}
-,
-{
     "Name": "Clash Nyanpasu～(∠・ω< )⌒☆​ ",
     "Version": "1.5.1",
     "Filename": "clash-nyanpasu_1.5.1_amd64.deb",
@@ -1407,6 +1390,23 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/e7122150-f8dd-11ee-94b3-3598cf0b4d68.gif\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/d8f3eef0-f8dd-11ee-94b3-3598cf0b4d68.png"
+}
+,
+{
+    "Name": "腾讯微云（wine）",
+    "Version": "5.2.1282spark1",
+    "Filename": "com.weiyun.spark_5.2.1282spark1_i386.deb",
+    "Torrent_address": "com.weiyun.spark_5.2.1282spark1_i386.deb.torrent",
+    "Pkgname": "com.weiyun.spark",
+    "Author": "anima <402844767@139.com>",
+    "Contributor": "anima <402844767@139.com>",
+    "Website": "https://www.weiyun.com/",
+    "Update": "2022-12-24 17:20:31",
+    "Size": "88.13 MB",
+    "More": "档案管理更便捷\n上传下载更稳定",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/24/ba1062f58e0b4b5c8e40c76765553407.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/24/e0a38f76e66b484b9de86a58d3e616ad.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/24/9254114039fc453ab804763abb79f1f8.png"
 }
 ,
 {
@@ -1559,23 +1559,6 @@
 }
 ,
 {
-    "Name": "115网盘",
-    "Version": "2.0.7.9",
-    "Filename": "115_2.0.7.9_amd64.deb",
-    "Torrent_address": "115_2.0.7.9_amd64.deb.torrent",
-    "Pkgname": "115",
-    "Author": "115 <dev@115.com>",
-    "Contributor": "115 <dev@115.com>",
-    "Website": "https://115.com/",
-    "Update": "2024-02-25 17:23:29",
-    "Size": "101.68 MB",
-    "More": "115电脑版支持115账号快捷登录、收藏夹云同步、文件拖拽备份、批量上传下载等功能，为用户提供安全、稳定、高效和智能的云存储服务。\n文件分门别类，支持全局搜索与批量操作，并有略缩图展示模式，帮助你全面掌控文件资源，随心所欲。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/25/478fe28f948541f98f12f4ff2c8c9b3d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/25/5334aad048ad4ad2a38b1215ee144e1a.png"
-}
-,
-{
     "Name": "Internet Download Manager（IDM）（Wine）",
     "Version": "6.42",
     "Filename": "com.idm.spark_6.42_all.deb",
@@ -1590,6 +1573,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/8da80a4f6389437399b734b10eebb56f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/b5c164cfb2d64bb4ababf896c417f933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/de699bb572b2487a8bc2502aed6426da.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/27/e0f739bbd02a41079a34bfcc01df547d.png"
+}
+,
+{
+    "Name": "115网盘",
+    "Version": "2.0.7.9",
+    "Filename": "115_2.0.7.9_amd64.deb",
+    "Torrent_address": "115_2.0.7.9_amd64.deb.torrent",
+    "Pkgname": "115",
+    "Author": "115 <dev@115.com>",
+    "Contributor": "115 <dev@115.com>",
+    "Website": "https://115.com/",
+    "Update": "2024-02-25 17:23:29",
+    "Size": "101.68 MB",
+    "More": "115电脑版支持115账号快捷登录、收藏夹云同步、文件拖拽备份、批量上传下载等功能，为用户提供安全、稳定、高效和智能的云存储服务。\n文件分门别类，支持全局搜索与批量操作，并有略缩图展示模式，帮助你全面掌控文件资源，随心所欲。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/25/478fe28f948541f98f12f4ff2c8c9b3d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/25/5334aad048ad4ad2a38b1215ee144e1a.png"
 }
 ,
 {
