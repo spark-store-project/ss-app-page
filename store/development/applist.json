@@ -710,23 +710,6 @@
 }
 ,
 {
-    "Name": "微软 PowerShell",
-    "Version": "7.3.4~spark1",
-    "Filename": "microsoft-powershell_7.3.4~spark1_amd64.deb",
-    "Torrent_address": "microsoft-powershell_7.3.4~spark1_amd64.deb.torrent",
-    "Pkgname": "microsoft-powershell",
-    "Author": "微软",
-    "Contributor": "Donald Sebastian Leung",
-    "Website": "https://github.com/PowerShell/PowerShell",
-    "Update": "2023-04-14 20:35:59",
-    "Size": "49.58 MB",
-    "More": "PowerShell Core 是微软自 6.x 版本从 Windows PowerShell fork 出来的跨平台 shell。该 shell 结合了 Unix shell 的弹性及主流编程语言的抽象化，让您能写出更易读，耐用的脚本。跨平台 PowerShell 最适合常用微软 Azure 云服务的 DevOps 人员及从 Windows 世界迁移过来但没时间摸透 Linux 的系统管理人员。\n\n声明：本软件包并非由微软官方提供或支持，如有问题请发邮件到 donaldsebleung@qq.com 或于 https://gitee.com/donaldsebleung/microsoft-powershell-spark-store 建工单。",
-    "Tags": "community;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/14/e4f06850-dac0-11ed-a417-dfc3c7bbcec2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/14/e501cd70-dac0-11ed-a417-dfc3c7bbcec2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/14/e5144400-dac0-11ed-a417-dfc3c7bbcec2.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/14/e2ac6bc0-dac0-11ed-a417-dfc3c7bbcec2.png"
-}
-,
-{
     "Name": "Docker Desktop",
     "Version": "4.29.0-145265",
     "Filename": "docker-desktop_4.29.0-145265_amd64.deb",
@@ -741,6 +724,23 @@
     "Tags": "deepin;uos;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/25/fcab8d40-0282-11ef-b012-5b232c21a0f3.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/25/f4f16700-0282-11ef-b012-5b232c21a0f3.png"
+}
+,
+{
+    "Name": "微软 PowerShell",
+    "Version": "7.3.4~spark1",
+    "Filename": "microsoft-powershell_7.3.4~spark1_amd64.deb",
+    "Torrent_address": "microsoft-powershell_7.3.4~spark1_amd64.deb.torrent",
+    "Pkgname": "microsoft-powershell",
+    "Author": "微软",
+    "Contributor": "Donald Sebastian Leung",
+    "Website": "https://github.com/PowerShell/PowerShell",
+    "Update": "2023-04-14 20:35:59",
+    "Size": "49.58 MB",
+    "More": "PowerShell Core 是微软自 6.x 版本从 Windows PowerShell fork 出来的跨平台 shell。该 shell 结合了 Unix shell 的弹性及主流编程语言的抽象化，让您能写出更易读，耐用的脚本。跨平台 PowerShell 最适合常用微软 Azure 云服务的 DevOps 人员及从 Windows 世界迁移过来但没时间摸透 Linux 的系统管理人员。\n\n声明：本软件包并非由微软官方提供或支持，如有问题请发邮件到 donaldsebleung@qq.com 或于 https://gitee.com/donaldsebleung/microsoft-powershell-spark-store 建工单。",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/14/e4f06850-dac0-11ed-a417-dfc3c7bbcec2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/14/e501cd70-dac0-11ed-a417-dfc3c7bbcec2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/14/e5144400-dac0-11ed-a417-dfc3c7bbcec2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/14/e2ac6bc0-dac0-11ed-a417-dfc3c7bbcec2.png"
 }
 ,
 {
@@ -2092,6 +2092,23 @@
 }
 ,
 {
+    "Name": "多功能调试助手",
+    "Version": "1.0.1.5",
+    "Filename": "fire-tool_1.0.1.5_amd64.deb",
+    "Torrent_address": "fire-tool_1.0.1.5_amd64.deb.torrent",
+    "Pkgname": "fire-tool",
+    "Author": "东莞野火科技有限公司",
+    "Contributor": "freeor",
+    "Website": "https://embedfire.com/",
+    "Update": "2024-05-21 10:56:06",
+    "Size": "17.28 MB",
+    "More": "串口、网络、pid等多功能调试助手",
+    "Tags": "deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e74a630-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e808d10-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e7ae7c0-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e876ae0-171d-11ef-aa54-156affbdb62c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/21/6c8ac960-171d-11ef-aa54-156affbdb62c.png"
+}
+,
+{
     "Name": "Utilso",
     "Version": "4.4.0spark1",
     "Filename": "com.utilso.spark_4.4.0spark1_amd64.deb",
@@ -2123,23 +2140,6 @@
     "Tags": "deepin;uos;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/bba56180-89e4-11ed-b57d-fb613ee1336b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/6c84e170-89e4-11ed-b57d-fb613ee1336b.png"
-}
-,
-{
-    "Name": "多功能调试助手",
-    "Version": "1.0.1.5",
-    "Filename": "fire-tool_1.0.1.5_amd64.deb",
-    "Torrent_address": "fire-tool_1.0.1.5_amd64.deb.torrent",
-    "Pkgname": "fire-tool",
-    "Author": "东莞野火科技有限公司",
-    "Contributor": "freeor",
-    "Website": "https://embedfire.com/",
-    "Update": "2024-05-21 10:56:06",
-    "Size": "17.28 MB",
-    "More": "串口、网络、pid等多功能调试助手",
-    "Tags": "deepin;ubuntu;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e74a630-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e808d10-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e7ae7c0-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e876ae0-171d-11ef-aa54-156affbdb62c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/21/6c8ac960-171d-11ef-aa54-156affbdb62c.png"
 }
 ,
 {

@@ -875,23 +875,6 @@
 }
 ,
 {
-    "Name": "Bleachbit",
-    "Version": "4.4.2-0",
-    "Filename": "bleachbit_4.4.2-0_all.deb",
-    "Torrent_address": "bleachbit_4.4.2-0_all.deb.torrent",
-    "Pkgname": "bleachbit",
-    "Author": "Andrew Ziem",
-    "Contributor": "sgb76",
-    "Website": "https://www.bleachbit.org/",
-    "Update": "2022-04-20 00:03:55",
-    "Size": "436.99 KB",
-    "More": "BleachBit是一款开源的系统清理工具，它可以释放磁盘空间，保护您的隐私，清除缓存，删除cookies、internet历史、临时文件、日志和丢弃的垃圾文件等，支持清除应用的残留数据，切碎文件防止恢复、隐藏被删除文件的痕迹等功能。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/20/325ede10-bffa-11ec-a680-878a6ae343fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/20/359047e0-bffa-11ec-a680-878a6ae343fa.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/20/2d051600-bffa-11ec-a680-878a6ae343fa.png"
-}
-,
-{
     "Name": "LocalSend",
     "Version": "1.14.0+45",
     "Filename": "localsend_1.14.0_plus_45_amd64.deb",
@@ -908,6 +891,23 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/a6433d9fb4de4166ab3a3531bb9d76a9.png"
 }
 
+,
+{
+    "Name": "Bleachbit",
+    "Version": "4.4.2-0",
+    "Filename": "bleachbit_4.4.2-0_all.deb",
+    "Torrent_address": "bleachbit_4.4.2-0_all.deb.torrent",
+    "Pkgname": "bleachbit",
+    "Author": "Andrew Ziem",
+    "Contributor": "sgb76",
+    "Website": "https://www.bleachbit.org/",
+    "Update": "2022-04-20 00:03:55",
+    "Size": "436.99 KB",
+    "More": "BleachBit是一款开源的系统清理工具，它可以释放磁盘空间，保护您的隐私，清除缓存，删除cookies、internet历史、临时文件、日志和丢弃的垃圾文件等，支持清除应用的残留数据，切碎文件防止恢复、隐藏被删除文件的痕迹等功能。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/20/325ede10-bffa-11ec-a680-878a6ae343fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/20/359047e0-bffa-11ec-a680-878a6ae343fa.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/20/2d051600-bffa-11ec-a680-878a6ae343fa.png"
+}
 ,
 {
     "Name": "桌面小部件",
@@ -1427,6 +1427,22 @@
 
 ,
 {
+    "Name": "QGIS",
+    "Version": "3.18.3",
+    "Filename": "qgis.gisshows_3.18.3_amd64.deb",
+    "Pkgname": "qgis.gisshows",
+    "Author": "QGIS",
+    "Contributor": "GIS Show",
+    "Website": "www.qgis.org",
+    "Update": "2021-05-18 20:43:57",
+    "Size": "57.33 MB",
+    "More": "一款免费的开源地理信息系统，针对deepin和UOS进行优化和重新编译",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/8fa658a0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/92cc77d0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/950095e0-b7d6-11eb-95cc-55162659a757.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/18/744e6070-b7d6-11eb-95cc-55162659a757.png"
+}
+,
+{
     "Name": "Macast",
     "Version": "0.7",
     "Filename": "macast_0.7_amd64.deb",
@@ -1441,22 +1457,6 @@
     "Tags": "deepin;ubuntu;uos;community",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/03/a78748c0-b31c-11ec-9c94-e5b618764332.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/03/a2bcef70-b31c-11ec-9c94-e5b618764332.png"
-}
-,
-{
-    "Name": "QGIS",
-    "Version": "3.18.3",
-    "Filename": "qgis.gisshows_3.18.3_amd64.deb",
-    "Pkgname": "qgis.gisshows",
-    "Author": "QGIS",
-    "Contributor": "GIS Show",
-    "Website": "www.qgis.org",
-    "Update": "2021-05-18 20:43:57",
-    "Size": "57.33 MB",
-    "More": "一款免费的开源地理信息系统，针对deepin和UOS进行优化和重新编译",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/8fa658a0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/92cc77d0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/950095e0-b7d6-11eb-95cc-55162659a757.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/18/744e6070-b7d6-11eb-95cc-55162659a757.png"
 }
 ,
 {
@@ -2584,23 +2584,6 @@
 }
 ,
 {
-    "Name": "超级工具箱（xjavafxtools）",
-    "Version": "0.3.2",
-    "Filename": "xjavafxtool_0.3.2_amd64.deb",
-    "Torrent_address": "xjavafxtool_0.3.2_amd64.deb.torrent",
-    "Pkgname": "xjavafxtool",
-    "Author": "xwintop",
-    "Contributor": "shenmo",
-    "Website": "https://gitee.com/xwintop/xJavaFxTool",
-    "Update": "2022-08-21 16:47:39",
-    "Size": "85.82 MB",
-    "More": "xJavaFxTool是使用javaFx开发的实用小工具集，利用业余时间把工作中遇到的一些问题总结起来，打包进小工具集中，供大家参考和使用，里面包含了javaFx的一些功能的示例，如布局、国际化、第三方UI库controlsfx、JFoenix等、外部jar包加载(插件机制)等一些常用功能，想学习javaFx的同学可以参考参考，学习javaFx的资料参考www.javafxchina.net",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e76f9d50-212d-11ed-9d7c-f52b0823211a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e78659a0-212d-11ed-9d7c-f52b0823211a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e7910800-212d-11ed-9d7c-f52b0823211a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/21/e516e040-212d-11ed-9d7c-f52b0823211a.png"
-}
-,
-{
     "Name": "PeaZip",
     "Version": "9.8.0",
     "Filename": "peazip_9.8.0_amd64.deb",
@@ -2615,6 +2598,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/13/037ee370fbff44c68c5dfac8c52aef9d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/13/9a8e3ce1c6df482facd559b6a8a671c9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/13/7f997f2d995e454c806191248f559ac1.png"
+}
+,
+{
+    "Name": "超级工具箱（xjavafxtools）",
+    "Version": "0.3.2",
+    "Filename": "xjavafxtool_0.3.2_amd64.deb",
+    "Torrent_address": "xjavafxtool_0.3.2_amd64.deb.torrent",
+    "Pkgname": "xjavafxtool",
+    "Author": "xwintop",
+    "Contributor": "shenmo",
+    "Website": "https://gitee.com/xwintop/xJavaFxTool",
+    "Update": "2022-08-21 16:47:39",
+    "Size": "85.82 MB",
+    "More": "xJavaFxTool是使用javaFx开发的实用小工具集，利用业余时间把工作中遇到的一些问题总结起来，打包进小工具集中，供大家参考和使用，里面包含了javaFx的一些功能的示例，如布局、国际化、第三方UI库controlsfx、JFoenix等、外部jar包加载(插件机制)等一些常用功能，想学习javaFx的同学可以参考参考，学习javaFx的资料参考www.javafxchina.net",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e76f9d50-212d-11ed-9d7c-f52b0823211a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e78659a0-212d-11ed-9d7c-f52b0823211a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e7910800-212d-11ed-9d7c-f52b0823211a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/21/e516e040-212d-11ed-9d7c-f52b0823211a.png"
 }
 ,
 {
@@ -3168,6 +3168,23 @@
 }
 ,
 {
+    "Name": "Bashtop",
+    "Version": "0.9.25-1~bpo10+1",
+    "Filename": "com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus1_amd64.deb",
+    "Torrent_address": "com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus1_amd64.deb.torrent",
+    "Pkgname": "com.github.aristocratos.bashtop",
+    "Author": "Dylan Aïssi <daissi@debian.org>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://github.com/aristocratos/bashtop",
+    "Update": "2023-07-24 10:49:39",
+    "Size": "63.22 KB",
+    "More": "Resource monitor是一个显示处理器、内存、磁盘、网络和进程使用情况和统计信息的工具。\n\n它易于使用，采用游戏启发式的菜单系统。\n具有快速且“大部分时候”响应灵敏的用户界面，可使用上下箭头键选择进程。\n提供显示选定进程详细统计信息的功能。\n能够对进程进行筛选。\n轻松切换排序选项。\n发送SIGTERM、SIGKILL、SIGINT到选定的进程。\n提供UI菜单以更改所有配置文件选项。\n具有自动缩放的网络使用图表。\n如果有新版本可用，菜单中显示消息。\n显示磁盘的当前读取和写入速度。\n支持多种数据收集方法，在Linux上可以进行切换。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/24/100448a3261d4c9983d06dee8c9aad12.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/24/df07c4c56d8340479560959b63dbca84.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/24/e88bb80db7844bc48f7ebca746450781.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/24/a8673f2af7954861af91dad7d0f750b7.png"
+}
+,
+{
     "Name": "XCursor Viewer(光标查看器)",
     "Version": "1.1.1",
     "Filename": "xcursor-viewer_1.1.1_amd64.deb",
@@ -3201,23 +3218,6 @@
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/wubi98-char/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/wubi98-char/screen_2.png\"]"
 }
 
-,
-{
-    "Name": "Bashtop",
-    "Version": "0.9.25-1~bpo10+1",
-    "Filename": "com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus1_amd64.deb",
-    "Torrent_address": "com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus1_amd64.deb.torrent",
-    "Pkgname": "com.github.aristocratos.bashtop",
-    "Author": "Dylan Aïssi <daissi@debian.org>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://github.com/aristocratos/bashtop",
-    "Update": "2023-07-24 10:49:39",
-    "Size": "63.22 KB",
-    "More": "Resource monitor是一个显示处理器、内存、磁盘、网络和进程使用情况和统计信息的工具。\n\n它易于使用，采用游戏启发式的菜单系统。\n具有快速且“大部分时候”响应灵敏的用户界面，可使用上下箭头键选择进程。\n提供显示选定进程详细统计信息的功能。\n能够对进程进行筛选。\n轻松切换排序选项。\n发送SIGTERM、SIGKILL、SIGINT到选定的进程。\n提供UI菜单以更改所有配置文件选项。\n具有自动缩放的网络使用图表。\n如果有新版本可用，菜单中显示消息。\n显示磁盘的当前读取和写入速度。\n支持多种数据收集方法，在Linux上可以进行切换。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/24/100448a3261d4c9983d06dee8c9aad12.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/24/df07c4c56d8340479560959b63dbca84.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/24/e88bb80db7844bc48f7ebca746450781.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/24/a8673f2af7954861af91dad7d0f750b7.png"
-}
 ,
 {
     "Name": "键盘检测(Wine)",
@@ -3440,6 +3440,23 @@
 }
 ,
 {
+    "Name": "xbj-com",
+    "Version": "0.1.0",
+    "Filename": "xbj-com_0.1.0_amd64.deb",
+    "Torrent_address": "xbj-com_0.1.0_amd64.deb.torrent",
+    "Pkgname": "xbj-com",
+    "Author": "xw",
+    "Contributor": "xw",
+    "Website": " ",
+    "Update": "2023-11-10 22:18:51",
+    "Size": "41.33 MB",
+    "More": "串口调试助手",
+    "Tags": "deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/10/d4f9c5f0-7fd3-11ee-ae10-ed88951e354f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/10/d5182360-7fd3-11ee-ae10-ed88951e354f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/10/d509a470-7fd3-11ee-ae10-ed88951e354f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/10/d520d5f0-7fd3-11ee-ae10-ed88951e354f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/10/b8d64060-7fd3-11ee-ae10-ed88951e354f.png"
+}
+,
+{
     "Name": "nvtop (v23 构建)",
     "Version": "3.0.2",
     "Filename": "nvtop_3.0.2_amd64.deb",
@@ -3488,23 +3505,6 @@
     "Tags": "uos;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/06/14b85f60-cc9a-11ec-adc0-09aaeb5ea3a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/06/14d86a80-cc9a-11ec-adc0-09aaeb5ea3a3.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/06/f524e060-cc99-11ec-adc0-09aaeb5ea3a3.png"
-}
-,
-{
-    "Name": "xbj-com",
-    "Version": "0.1.0",
-    "Filename": "xbj-com_0.1.0_amd64.deb",
-    "Torrent_address": "xbj-com_0.1.0_amd64.deb.torrent",
-    "Pkgname": "xbj-com",
-    "Author": "xw",
-    "Contributor": "xw",
-    "Website": " ",
-    "Update": "2023-11-10 22:18:51",
-    "Size": "41.33 MB",
-    "More": "串口调试助手",
-    "Tags": "deepin;ubuntu;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/10/d4f9c5f0-7fd3-11ee-ae10-ed88951e354f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/10/d5182360-7fd3-11ee-ae10-ed88951e354f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/10/d509a470-7fd3-11ee-ae10-ed88951e354f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/10/d520d5f0-7fd3-11ee-ae10-ed88951e354f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/10/b8d64060-7fd3-11ee-ae10-ed88951e354f.png"
 }
 ,
 {
@@ -4535,6 +4535,23 @@
 }
 ,
 {
+    "Name": "中学电路虚拟实验室",
+    "Version": "6.0spark1",
+    "Filename": "com.xunidianlu.deepin_6.0spark1_all.deb",
+    "Torrent_address": "com.xunidianlu.deepin_6.0spark1_all.deb.torrent",
+    "Pkgname": "com.xunidianlu.deepin",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://www.regsky.com/index.php?c=goods&a=info&zc_id=1296",
+    "Update": "2024-06-08 13:35:25",
+    "Size": "11.78 MB",
+    "More": "本软件为免安装绿色软件，无插件，双击即可运行。为中学物理电路仿真模拟（虚拟）软件，能象真实实验一样随意连接试验元件和导线，支持任意结构的单电源串联并联电路以及各种复杂电路实验的仿真模拟，有先进的画标准电路图功能，有多种强大而体贴的功能，是中学物理电路教学与学习的好工具，能增强中学生学习兴趣和效率，也可用于启蒙教育或作益智游戏。\n\n修改了容器名称，调整了标题栏",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/4440773453f242418bf7ca975b31711a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/ac836daee10846d19727b282881f930d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/8713ad25e8754e5197801a8969248281.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/010ebaa4ba2c4e22a5aae0b8fd8ef028.png"
+}
+,
+{
     "Name": "Advanced PassGen",
     "Version": "2.4.0spark0",
     "Filename": "com.codedead.advanced-passgen.spark_2.4.0spark0_amd64.deb",
@@ -4566,23 +4583,6 @@
     "Tags": "community",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/583593b26b9741449ca7ba8789f76d73.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/a6712da25a2f473e84becf093fb845d4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/3e364e153b69436f8a450a0304090265.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/1343c23fd2b34f60885703b6472b56a4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/22/2a7cb8978cdc4c11b4a00ad3b8a23d02.png"
-}
-,
-{
-    "Name": "中学电路虚拟实验室",
-    "Version": "6.0spark1",
-    "Filename": "com.xunidianlu.deepin_6.0spark1_all.deb",
-    "Torrent_address": "com.xunidianlu.deepin_6.0spark1_all.deb.torrent",
-    "Pkgname": "com.xunidianlu.deepin",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://www.regsky.com/index.php?c=goods&a=info&zc_id=1296",
-    "Update": "2024-06-08 13:35:25",
-    "Size": "11.78 MB",
-    "More": "本软件为免安装绿色软件，无插件，双击即可运行。为中学物理电路仿真模拟（虚拟）软件，能象真实实验一样随意连接试验元件和导线，支持任意结构的单电源串联并联电路以及各种复杂电路实验的仿真模拟，有先进的画标准电路图功能，有多种强大而体贴的功能，是中学物理电路教学与学习的好工具，能增强中学生学习兴趣和效率，也可用于启蒙教育或作益智游戏。\n\n修改了容器名称，调整了标题栏",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/4440773453f242418bf7ca975b31711a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/ac836daee10846d19727b282881f930d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/8713ad25e8754e5197801a8969248281.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/010ebaa4ba2c4e22a5aae0b8fd8ef028.png"
 }
 ,
 {

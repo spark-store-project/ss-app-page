@@ -372,22 +372,6 @@
 }
 ,
 {
-    "Name": "高德地图（web）",
-    "Version": "1.0spark0",
-    "Filename": "com.amap.ditu.spark_1.0spark0_amd64.deb",
-    "Pkgname": "com.amap.ditu.spark",
-    "Author": "高德地图",
-    "Contributor": "Tippy",
-    "Website": "https://ditu.amap.com/",
-    "Update": "2021-02-05 23:02:23",
-    "Size": "69.22 KB",
-    "More": "高德地图-导航专业，数据准确\n基于星火网页应用运行环境打包",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/05/0e4e0590-67c3-11eb-b371-3f9dbec5d2d4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/05/0e3610c0-67c3-11eb-b371-3f9dbec5d2d4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/05/0e6732e0-67c3-11eb-b371-3f9dbec5d2d4.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/05/07d8e270-67c3-11eb-b371-3f9dbec5d2d4.png"
-}
-,
-{
     "Name": "惠普HPLIP驱动",
     "Version": "3.23.5.2",
     "Filename": "com.hp.hplip_3.23.5.2_amd64.deb",
@@ -402,6 +386,22 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/11ab557ddde04d40838f904017484574.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/5b2e08a76ccf457cbaefd8aacd6bb02b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/04/14d33518268247db9c584de7514cd1f7.png"
+}
+,
+{
+    "Name": "高德地图（web）",
+    "Version": "1.0spark0",
+    "Filename": "com.amap.ditu.spark_1.0spark0_amd64.deb",
+    "Pkgname": "com.amap.ditu.spark",
+    "Author": "高德地图",
+    "Contributor": "Tippy",
+    "Website": "https://ditu.amap.com/",
+    "Update": "2021-02-05 23:02:23",
+    "Size": "69.22 KB",
+    "More": "高德地图-导航专业，数据准确\n基于星火网页应用运行环境打包",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/05/0e4e0590-67c3-11eb-b371-3f9dbec5d2d4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/05/0e3610c0-67c3-11eb-b371-3f9dbec5d2d4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/05/0e6732e0-67c3-11eb-b371-3f9dbec5d2d4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/05/07d8e270-67c3-11eb-b371-3f9dbec5d2d4.png"
 }
 ,
 {

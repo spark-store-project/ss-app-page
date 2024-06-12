@@ -178,24 +178,6 @@
 
 ,
 {
-    "Name": "阿里云盘（小白羊修复版）",
-    "Version": "3.13.5",
-    "Filename": "xbyyunpan_3.13.5_arm64.deb",
-    "Torrent_address": "xbyyunpan_3.13.5_arm64.deb.torrent",
-    "Pkgname": "xbyyunpan",
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo<shenmo@spark-app.store>",
-    "Website": "https://github.com/gaozhangmin/aliyunpan",
-    "Update": "2024-05-29 22:02:10",
-    "Size": "75M",
-    "More": "修复版小白羊云盘\n基于阿里云盘网页版开发的第三方Linux客户端(超好用)。\n***关于安装后应用没有图标问题：\n0.打开终端，依次输入以下命令：\n1.sudo gedit /usr/share/applications/xbyyunpan.desktop\n(deepin和uos需要将gedit换为vim，vim用法请自行百度\n2.将“Icon=xbyyunpan”一行改为\n“Icon=/opt/小白羊云盘/resources/images/icon_256x256.png”\n3.保存退出",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_5.png\"]",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/icon.png"
-}
-
-,
-{
     "Author": "Tencent",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.qq.browser_1.70.3538.0_arm64.deb",
@@ -210,6 +192,24 @@
     "Website": "https://browser.qq.com/",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qq.browser/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qq.browser/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qq.browser/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qq.browser/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qq.browser/screen_4.png\"]"
+}
+
+,
+{
+    "Name": "阿里云盘（小白羊修复版）",
+    "Version": "3.13.5",
+    "Filename": "xbyyunpan_3.13.5_arm64.deb",
+    "Torrent_address": "xbyyunpan_3.13.5_arm64.deb.torrent",
+    "Pkgname": "xbyyunpan",
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo<shenmo@spark-app.store>",
+    "Website": "https://github.com/gaozhangmin/aliyunpan",
+    "Update": "2024-05-29 22:02:10",
+    "Size": "75M",
+    "More": "修复版小白羊云盘\n基于阿里云盘网页版开发的第三方Linux客户端(超好用)。\n***关于安装后应用没有图标问题：\n0.打开终端，依次输入以下命令：\n1.sudo gedit /usr/share/applications/xbyyunpan.desktop\n(deepin和uos需要将gedit换为vim，vim用法请自行百度\n2.将“Icon=xbyyunpan”一行改为\n“Icon=/opt/小白羊云盘/resources/images/icon_256x256.png”\n3.保存退出",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/icon.png"
 }
 
 ,
@@ -429,24 +429,6 @@
 
 ,
 {
-    "Author": "gfdgd xi<3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "spark-thundermini_1.0_arm64.deb",
-    "More": "一个简简单单的迅雷精简版",
-    "Name": "迅雷精简版",
-    "Pkgname": "spark-thundermini",
-    "Size": "9262 Kb",
-    "Tags": "uos;dwine5",
-    "Torrent_address": "spark-thundermini_1.0_arm64.deb.torrent",
-    "Update": "2023-03-05 19:36:38",
-    "Version": "1.0",
-    "Website": "https://www.xunlei.com/",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_4.png\"]"
-}
-
-,
-{
     "Author": "Dr_rOot <agalwood.net@gmail.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "motrix_1.8.12_arm64.deb",
@@ -461,6 +443,24 @@
     "Website": "https://motrix.app",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "gfdgd xi<3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "spark-thundermini_1.0_arm64.deb",
+    "More": "一个简简单单的迅雷精简版",
+    "Name": "迅雷精简版",
+    "Pkgname": "spark-thundermini",
+    "Size": "9262 Kb",
+    "Tags": "uos;dwine5",
+    "Torrent_address": "spark-thundermini_1.0_arm64.deb.torrent",
+    "Update": "2023-03-05 19:36:38",
+    "Version": "1.0",
+    "Website": "https://www.xunlei.com/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_4.png\"]"
 }
 
 ,
@@ -645,24 +645,6 @@
 
 ,
 {
-    "Author": "haitai",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "htbrowser_5.0.0.20_arm64.deb",
-    "More": "红莲花安全浏览器是一款安全、专业、可靠、省心的浏览器",
-    "Name": "红莲花安全浏览器",
-    "Pkgname": "htbrowser",
-    "Size": "75 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "htbrowser_5.0.0.20_arm64.deb.torrent",
-    "Update": "2023-03-05 18:53:57",
-    "Version": "5.0.0.20",
-    "Website": "http://www.haitaibrowser.net/",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_3.png\"]"
-}
-
-,
-{
     "Author": "zzzgydi, wonfen, MystiPanda",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "clash-verge_1.6.5_arm64.deb",
@@ -677,6 +659,24 @@
     "Website": "https://clash-verge-rev.github.io/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "haitai",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "htbrowser_5.0.0.20_arm64.deb",
+    "More": "红莲花安全浏览器是一款安全、专业、可靠、省心的浏览器",
+    "Name": "红莲花安全浏览器",
+    "Pkgname": "htbrowser",
+    "Size": "75 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "htbrowser_5.0.0.20_arm64.deb.torrent",
+    "Update": "2023-03-05 18:53:57",
+    "Version": "5.0.0.20",
+    "Website": "http://www.haitaibrowser.net/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_3.png\"]"
 }
 
 ,
@@ -807,6 +807,24 @@
 
 ,
 {
+    "Author": "wang",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "net.51.aorland.deepin_1.98deepin1_all.deb",
+    "More": "拖把更名器是一款功能强大的文件名称修改工具。结合资源管理器右键菜单，支持MP3/RM/RMVB/WMA/等标签更名，文件名、标签内码转换、繁简转换、汉字转拼音。支持序号、调用外部文本文件更名、正则表达式、元变量、自动预览、撤消等。",
+    "Name": "拖把更名器",
+    "Pkgname": "net.51.aorland.deepin",
+    "Size": "2374 Kb",
+    "Tags": "community;deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "net.51.aorland.deepin_1.98deepin1_all.deb.torrent",
+    "Update": "2024-06-02 21:42:17",
+    "Version": "1.98deepin1",
+    "Website": "aorland.51.net",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/net.51.aorland.deepin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/net.51.aorland.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/net.51.aorland.deepin/screen_2.png\"]"
+}
+
+,
+{
     "Author": "28655758+yaobiao131@users.noreply.github.com",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "downkyi_1.0.10-1_arm64.deb",
@@ -839,24 +857,6 @@
     "Website": "https://github.com/torrent-file-editor/torrent-file-editor",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/torrent-file-editor/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/torrent-file-editor/screen_1.png\"]"
-}
-
-,
-{
-    "Author": "wang",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "net.51.aorland.deepin_1.98deepin1_all.deb",
-    "More": "拖把更名器是一款功能强大的文件名称修改工具。结合资源管理器右键菜单，支持MP3/RM/RMVB/WMA/等标签更名，文件名、标签内码转换、繁简转换、汉字转拼音。支持序号、调用外部文本文件更名、正则表达式、元变量、自动预览、撤消等。",
-    "Name": "拖把更名器",
-    "Pkgname": "net.51.aorland.deepin",
-    "Size": "2374 Kb",
-    "Tags": "community;deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "net.51.aorland.deepin_1.98deepin1_all.deb.torrent",
-    "Update": "2024-06-02 21:42:17",
-    "Version": "1.98deepin1",
-    "Website": "aorland.51.net",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/net.51.aorland.deepin/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/net.51.aorland.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/net.51.aorland.deepin/screen_2.png\"]"
 }
 
 ,

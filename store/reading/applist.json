@@ -649,6 +649,23 @@
 }
 ,
 {
+    "Name": "Reader",
+    "Version": "2.0.0.4spark0",
+    "Filename": "com.github.reader.spark_2.0.0.4spark0_all.deb",
+    "Torrent_address": "com.github.reader.spark_2.0.0.4spark0_all.deb.torrent",
+    "Pkgname": "com.github.reader.spark",
+    "Author": "binbyu",
+    "Contributor": "sgb76",
+    "Website": "https://github.com/binbyu/Reader",
+    "Update": "2023-11-02 16:31:15",
+    "Size": "16.52 MB",
+    "More": "一款开源免费简洁的小说阅读小工具，支持自动翻页、更改字体、网络小说、快捷键丰富、老板键、修改背景、任意窗口调节等",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/fc11d4927de44ca9b2f056daf47cc5ac.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/a984a9ae7afe4ce0915178c62c8061f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/34dcc6d436014e8e881de25f4de9eca8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/866a6baa5b9c424dac9f1875c60fbaa4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/02/579971895b15405f90085acbd82319fa.png"
+}
+,
+{
     "Name": "海天鹰PDF",
     "Version": "1.0",
     "Filename": "com.htypdf.spark_1.0_all.deb",
@@ -679,23 +696,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/3db11c5baf1c4b719cc42f50dc7d3c5f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/d73f2db4a5e0481aadd0180d75025755.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/10/58670fd2437a4375982d4cc9017dfbed.png"
-}
-,
-{
-    "Name": "Reader",
-    "Version": "2.0.0.4spark0",
-    "Filename": "com.github.reader.spark_2.0.0.4spark0_all.deb",
-    "Torrent_address": "com.github.reader.spark_2.0.0.4spark0_all.deb.torrent",
-    "Pkgname": "com.github.reader.spark",
-    "Author": "binbyu",
-    "Contributor": "sgb76",
-    "Website": "https://github.com/binbyu/Reader",
-    "Update": "2023-11-02 16:31:15",
-    "Size": "16.52 MB",
-    "More": "一款开源免费简洁的小说阅读小工具，支持自动翻页、更改字体、网络小说、快捷键丰富、老板键、修改背景、任意窗口调节等",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/fc11d4927de44ca9b2f056daf47cc5ac.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/a984a9ae7afe4ce0915178c62c8061f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/34dcc6d436014e8e881de25f4de9eca8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/866a6baa5b9c424dac9f1875c60fbaa4.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/02/579971895b15405f90085acbd82319fa.png"
 }
 ,
 {
@@ -817,23 +817,6 @@
 }
 ,
 {
-    "Name": "QQ阅读",
-    "Version": "8.0.6.890",
-    "Filename": "uengine-dc-com.qq.reader_8.0.6.890_all.deb",
-    "Torrent_address": "uengine-dc-com.qq.reader_8.0.6.890_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.qq.reader",
-    "Author": "阅文集团",
-    "Contributor": "菜鸟",
-    "Website": "https://www.yuewen.com/#/app?type=appqq",
-    "Update": "2023-12-10 22:57:26",
-    "Size": "71.91 MB",
-    "More": "海量原著 想读就读\n作品总数近 1000 万部\n200 种类型全覆盖\n700 余万创作队伍",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/f7abc3d68942435d90486e1156149bb2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/beaacb482c4d4c878e365bf1afde6eed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/5bff49ad66f04654b9ec2f1ba215fc68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/1218af438f92430b8a4bddc14391e12c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/d6fb0b08b2d64bf3ad255be2dcf1f417.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/10/4dcdf633945c4c29a595f173ba51bf71.png"
-}
-,
-{
     "Name": "uchmviewer",
     "Version": "8.2",
     "Filename": "uchmviewer_8.2_amd64.deb",
@@ -848,6 +831,23 @@
     "Tags": "community;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/24/55622930-a1d0-11ee-87a2-ebb6bab9fa27.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/24/5729f0e0-a1d0-11ee-87a2-ebb6bab9fa27.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/24/59b27080-a1d0-11ee-87a2-ebb6bab9fa27.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/24/5bc6d190-a1d0-11ee-87a2-ebb6bab9fa27.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/24/6cc121d0-a1d0-11ee-87a2-ebb6bab9fa27.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/24/49fde6b0-a1d0-11ee-87a2-ebb6bab9fa27.png"
+}
+,
+{
+    "Name": "QQ阅读",
+    "Version": "8.0.6.890",
+    "Filename": "uengine-dc-com.qq.reader_8.0.6.890_all.deb",
+    "Torrent_address": "uengine-dc-com.qq.reader_8.0.6.890_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.qq.reader",
+    "Author": "阅文集团",
+    "Contributor": "菜鸟",
+    "Website": "https://www.yuewen.com/#/app?type=appqq",
+    "Update": "2023-12-10 22:57:26",
+    "Size": "71.91 MB",
+    "More": "海量原著 想读就读\n作品总数近 1000 万部\n200 种类型全覆盖\n700 余万创作队伍",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/f7abc3d68942435d90486e1156149bb2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/beaacb482c4d4c878e365bf1afde6eed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/5bff49ad66f04654b9ec2f1ba215fc68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/1218af438f92430b8a4bddc14391e12c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/d6fb0b08b2d64bf3ad255be2dcf1f417.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/10/4dcdf633945c4c29a595f173ba51bf71.png"
 }
 ,
 {

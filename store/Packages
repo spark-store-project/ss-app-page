@@ -28020,6 +28020,25 @@ SHA512: 5ad20adff26ce55e025c95df6139e6f4e84d3eae478e690db144f2014bc43bd0adc62f35
 Description: The web browser from Microsoft
  Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
+Package: microsoft-edge-stable
+Architecture: amd64
+Version: 125.0.2535.92-1
+Priority: optional
+Section: web
+Maintainer: Microsoft Edge for Linux Team <EdgeLinuxDev@microsoft.com>
+Installed-Size: 579309
+Provides: www-browser
+Pre-Depends: dpkg (>= 1.14.0)
+Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.75), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libu2f-udev, libuuid1 (>= 2.16), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
+Filename: network/microsoft-edge-stable/microsoft-edge-stable_125.0.2535.92-1_amd64.deb
+Size: 167919146
+MD5sum: b8a5c3953723071c43ba869a0f420acc
+SHA1: dbdcdb2ebdfa92153d78e344ec84f1bd7fa11bc5
+SHA256: 0ee573ebe073193599278b268b320ad9d5753939afd2e4c84290fec9c9470cdf
+SHA512: 7760adfa56ab4901caac8b8087e0366f08286fe2033bf9bf6050af676af8be4c40307ff0e5ba7892d13e625441e7d9c8be8faae75bc630193fe7740fbfd404f3
+Description: The web browser from Microsoft
+ Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
+
 Package: com.weiyunsync.spark
 Architecture: i386
 Version: 3.0.0spark1
@@ -28338,6 +28357,25 @@ SHA1: 60947805644bc8ecbf2c651b163d80d0b63d67f9
 SHA256: 49de56d36854507c1e8155f5504fcf1e8cc901104919525ae631bd154506ca97
 SHA512: 95e454b23f866fb6e35c91f6ddc217aadcd132dd927d31d835e5cd10113c952a5e1cd69778dfc18c3a4c6641021becda0c0dd151aba68c7bf3d678eb23b20953
 Description: JD.JM
+
+Package: microsoft-edge-dev
+Architecture: amd64
+Version: 127.0.2638.2-1
+Priority: optional
+Section: web
+Maintainer: Microsoft Edge for Linux Team <EdgeLinuxDev@microsoft.com>
+Installed-Size: 584071
+Provides: www-browser
+Pre-Depends: dpkg (>= 1.14.0)
+Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.7.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.75), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libu2f-udev, libuuid1 (>= 2.16), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
+Filename: network/microsoft-edge-dev/microsoft-edge-dev_127.0.2638.2-1_amd64.deb
+Size: 168656286
+MD5sum: 1a7396d0e24e074e62e654d9731ececa
+SHA1: 58f926e3585a83a12e4b6a67d2ff55d20778116a
+SHA256: 06fd17df48a570d048f696e59eb3b5400ec49533cc3b9fc99886488e195d3bb6
+SHA512: 0cf7293b42db643afb340e2e437bd9a62ddb3501d3140f9d7716f938d69b4dd9e112e1aa002dcbdfdf1fd0b84e045aab95f200c6523856beed29b7bfc3e76b80
+Description: The web browser from Microsoft
+ Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
 Package: microsoft-edge-dev
 Architecture: amd64
@@ -29457,20 +29495,20 @@ Description: SunloginRemote-5.5.0.45114 for Linux
 
 Package: microsoft-edge-beta
 Architecture: amd64
-Version: 112.0.1722.15-1
+Version: 126.0.2592.49-1
 Priority: optional
 Section: web
 Maintainer: Microsoft Edge for Linux Team <EdgeLinuxDev@microsoft.com>
-Installed-Size: 490378
+Installed-Size: 580071
 Provides: www-browser
 Pre-Depends: dpkg (>= 1.14.0)
-Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.75), libexpat1 (>= 2.0.1), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.31), libpango-1.0-0 (>= 1.14.0), libu2f-udev, libuuid1 (>= 2.16), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Filename: network/microsoft-edge-beta/microsoft-edge-beta_112.0.1722.15-1_amd64.deb
-Size: 141159202
-MD5sum: d660d1bab5eba1192264cde6dcc1a4b1
-SHA1: 060c4bcca15664dde1f2b3fe8606423bd5c531bc
-SHA256: 05ae9fe4c3814ed63c6d4c4270cc924025aa0ef3a223584b9eec1c22ca517aaf
-SHA512: ba8d0e3fa98af8929d96eb28ab3c693f22c181b7edb1b0bb699d2b2377f7a01d2819c4091657d536c72d12e6eed6cb984a5ec3bde62c54842d5926572be77241
+Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.75), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libu2f-udev, libuuid1 (>= 2.16), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
+Filename: network/microsoft-edge-beta/microsoft-edge-beta_126.0.2592.49-1_amd64.deb
+Size: 168021878
+MD5sum: 44199e594def96b29f14d2ce4af82823
+SHA1: 1f1e76a346cb33222b6fa81c1531f166d984b137
+SHA256: f99a1a6d6a3ada9b71f64c4128612b68f3fdf9bfd7491dfba6299306d18cd2eb
+SHA512: 89fa711c2340c5322eea73bb1d87b2176949fff2c59a36c84023deb1ad8df57e6e619074f5fcf52d2a5b5973603bd16dcaff16f4bf9e8d13cdf61effe118eb74
 Description: The web browser from Microsoft
  Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
@@ -30455,6 +30493,27 @@ MD5sum: 68da48851eff19bd0b25065cf1d5c695
 SHA1: ad82ce6da8905a9c45b3f1a2315c114990b762a7
 SHA256: afa0924782a4fe9b06d1eac5e036b2d61fb833bc426541e17fee91258bda098b
 SHA512: 50c86e9c6bc00a73dd15fda46342b6c20299468fed3d6e9f22b8241d49739aad3dcf0fc8bba77c3a6da056242490e46ddf1a6ddc9b30ffdcfce9a19e0509cded
+Homepage: https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release
+Description: 一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...
+
+Package: firefox-spark
+Architecture: amd64
+Version: 127.0
+Priority: optional
+Section: web
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 214784
+Provides: x-www-browser,gnome-www-browser,firefox(=127.0)
+Depends: libdbus-glib-1-2,zenity
+Recommends: speech-dispatcher
+Conflicts: firefox,firefox-spark(<=117.0)
+Replaces: firefox,firefox-spark(<=117.0)
+Filename: network/firefox-spark/firefox-spark_127.0_amd64.deb
+Size: 70503008
+MD5sum: d146b85e64f21497a6b290787d9186bb
+SHA1: 1d7f1c58db14b818b94c4db1f1af11a38ac3b961
+SHA256: 96b8390d3a5cc472545dba6334d8f4cca8f8130d07464a7991d099f96e46d4a4
+SHA512: a6af0026052071c27afe5e120808385df1b7ad5aa168db11f3068321bee9f2d81bd217f7585c96b506e74de8fc5dea58255a78c342313a3703ff1645d2b64e18
 Homepage: https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release
 Description: 一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...
 

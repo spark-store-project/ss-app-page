@@ -1,20 +1,21 @@
 [
 {
     "Name": "Microsoft Edge",
-    "Version": "125.0.2535.79-1",
-    "Filename": "microsoft-edge-stable_125.0.2535.79-1_amd64.deb",
-    "Torrent_address": "microsoft-edge-stable_125.0.2535.79-1_amd64.deb.torrent",
+    "Version": "125.0.2535.92-1",
+    "Filename": "microsoft-edge-stable_125.0.2535.92-1_amd64.deb",
+    "Torrent_address": "microsoft-edge-stable_125.0.2535.92-1_amd64.deb.torrent",
     "Pkgname": "microsoft-edge-stable",
-    "Author": "Microsoft Edge for Linux Team <EdgeLinuxDev@microsoft.com>",
-    "Contributor": "Microsoft Edge for Linux Team <EdgeLinuxDev@microsoft.com>",
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://www.microsoft.com/zh-cn/edge",
-    "Update": "2024-06-03 22:08:45",
-    "Size": "160.09 MB",
+    "Update": "2024-06-12 07:38:52",
+    "Size": "161M",
     "More": "Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.\n翻译：\nMicrosoft Edge 是一款将简约设计与先进技术相结合的浏览器，使网络更快、更安全、更轻松。",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/b8bfaff4a69f4364b5b7557cc30c4059.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/f6c071749fbd4d599ab45b1be75193b6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/03/1660722f618b4dd6a37bd2fffb3b7cd8.png"
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-stable/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-stable/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-stable/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-stable/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-stable/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-stable/icon.png"
 }
+
 ,
 {
     "Name": "Google Chrome",
@@ -137,15 +138,15 @@
 ,
 {
     "Name": "火狐浏览器国际版 Firefox",
-    "Version": "126.0.1",
-    "Filename": "firefox-spark_126.0.1_amd64.deb",
-    "Torrent_address": "firefox-spark_126.0.1_amd64.deb.torrent",
+    "Version": "127.0",
+    "Filename": "firefox-spark_127.0_amd64.deb",
+    "Torrent_address": "firefox-spark_127.0_amd64.deb.torrent",
     "Pkgname": "firefox-spark",
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <shenmo@spark-app.store>",
     "Website": "https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release",
-    "Update": "2024-05-29 06:01:22",
-    "Size": "68516",
+    "Update": "2024-06-12 15:38:12",
+    "Size": "68852",
     "More": "Firefox是一个自由和开放源代码的网页浏览器\n一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...",
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/87ad15a3d25b442aa5e78358ca31a8e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/4c7826cf206d4c8bbab36e8e8fc79568.png\"]",
@@ -441,21 +442,22 @@
 }
 ,
 {
-    "Name": "Microsoft Edge 开发者通道",
-    "Version": "123.0.2400.1-1",
-    "Filename": "microsoft-edge-dev_123.0.2400.1-1_amd64.deb",
-    "Torrent_address": "microsoft-edge-dev_123.0.2400.1-1_amd64.deb.torrent",
+    "Name": "Microsoft Edge Dev开发者通道",
+    "Version": "127.0.2638.2-1",
+    "Filename": "microsoft-edge-dev_127.0.2638.2-1_amd64.deb",
+    "Torrent_address": "microsoft-edge-dev_127.0.2638.2-1_amd64.deb.torrent",
     "Pkgname": "microsoft-edge-dev",
-    "Author": "Microsoft Edge for Linux Team <EdgeLinuxDev@microsoft.com>",
-    "Contributor": "KKKSC-O3 <a_konjac@foxmail.com>",
-    "Website": "https://www.microsoftedgeinsider.com/",
-    "Update": "2024-02-23 13:13:17",
-    "Size": "158.75 MB",
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo<shenmo@spark-app.store>",
+    "Website": "https://www.microsoft.com/zh-cn/edge",
+    "Update": "2024-06-12 07:57:59",
+    "Size": "161M",
     "More": "Access the Internet/连接网络\nMicrosoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier./Microsoft Edge 是一款将极简设计与先进技术相结合的浏览器，使网络变得更快、更安全、更轻松。\n每周更新\n比金丝雀更稳定。过去一周改进的最佳代表。\n我们的三个预览频道（Canary、Dev 和 Beta）可在所有受支持的 Windows、Windows Server 以及 macOS、Mobile 和 Linux 版本上使用。安装预览频道不会卸载已发布的 Microsoft Edge 版本，你可以同时安装多个预览频道。\n\n\n                    以下是 Microsoft Edge 新增功能介绍\n                从移动设备上传文件或照片\n通过扫描二维码，快速连接与 PC 处于同一网络的任何移动设备。这样，您便可以在 PC 上访问移动设备上的文件。\n阅读任何语言的 PDF\n只需右键单击 PDF，即可在 Microsoft Edge 边栏中将文本翻译为您的首选语言。",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/23/222d8cb7a7a7484c8158878567504033.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/23/5fcabe3834c941d58267269f555fca4f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/23/949c8101ba2147d784d069bbfb805115.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/23/c2ba2266bdbc496e8a903e2d91d8de5b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/23/5c481ae3a638418cab37ba445fac8c7d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/23/b2026558e9eb402f990ba4211fbf5411.png"
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/icon.png"
 }
+
 ,
 {
     "Name": "rdp远程桌面连接工具",
@@ -475,22 +477,6 @@
 }
 ,
 {
-    "Name": "天翼云盘(Linux版)",
-    "Version": "1.1.0-1_plus_a1",
-    "Filename": "com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb",
-    "Pkgname": "com.cloud.21cn",
-    "Author": "21CN Corporation Limited",
-    "Contributor": "fredoong",
-    "Website": "https://cloud.189.cn/",
-    "Update": "2021-07-06 06:06:28",
-    "Size": "55.56 MB",
-    "More": "A project of Tianyi Cloud Disk\n天翼云盘Linux版",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/06/26bc07e0-dddd-11eb-a494-017e838ccdaa.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/06/1c52a020-dddd-11eb-a494-017e838ccdaa.png"
-}
-,
-{
     "Name": "easyconnect(V23)",
     "Version": "7.6.7.7",
     "Filename": "easyconnect_7.6.7.7_amd64.deb",
@@ -505,6 +491,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/a34c840bb40f4e7b8974e440f6adacf5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/15/7500827e5104428480d344850edb0159.png"
+}
+,
+{
+    "Name": "天翼云盘(Linux版)",
+    "Version": "1.1.0-1_plus_a1",
+    "Filename": "com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb",
+    "Pkgname": "com.cloud.21cn",
+    "Author": "21CN Corporation Limited",
+    "Contributor": "fredoong",
+    "Website": "https://cloud.189.cn/",
+    "Update": "2021-07-06 06:06:28",
+    "Size": "55.56 MB",
+    "More": "A project of Tianyi Cloud Disk\n天翼云盘Linux版",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/06/26bc07e0-dddd-11eb-a494-017e838ccdaa.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/06/1c52a020-dddd-11eb-a494-017e838ccdaa.png"
 }
 ,
 {
@@ -1112,21 +1114,22 @@
 
 ,
 {
-    "Name": "Microsoft Edge (beta)",
-    "Version": "112.0.1722.15-1",
-    "Filename": "microsoft-edge-beta_112.0.1722.15-1_amd64.deb",
-    "Torrent_address": "microsoft-edge-beta_112.0.1722.15-1_amd64.deb.torrent",
+    "Name": "Microsoft Edge(Beta)",
+    "Version": "126.0.2592.49-1",
+    "Filename": "microsoft-edge-beta_126.0.2592.49-1_amd64.deb",
+    "Torrent_address": "microsoft-edge-beta_126.0.2592.49-1_amd64.deb.torrent",
     "Pkgname": "microsoft-edge-beta",
-    "Author": "Microsoft Edge for Linux Team <EdgeLinuxDev@microsoft.com>",
-    "Contributor": "卢博轩",
-    "Website": "https://www.microsoftedgeinsider.com/de-de/download/",
-    "Update": "2023-03-26 11:01:30",
-    "Size": "134.62 MB",
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo<shenmo@spark-app.store>",
+    "Website": "https://www.microsoft.com/zh-cn/edge",
+    "Update": "2024-06-12 09:07:48",
+    "Size": "161M",
     "More": "Microsoft Edge Beta 渠道Beta 版频道可以提供最稳定的 Microsoft Edge 预览版体验。 通过每 4 个星期一次重大更新，每个版本都融入了从开发和 Canary 版本获得的经验教训和改进。",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/26/59108bff5c064a95b47f14918265304a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/26/d34b3c13c0c948d5aa1697318c9503e6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/26/c8e4e4eb3c8e4c91accce818eb03ae7d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/26/56deefaad87d4dbfa44f01b1b1f18574.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/26/80b1b477fbff42b282a734f1f99ca799.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/26/72c4812e90f44f61a1dea91955db1adc.png"
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-beta/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-beta/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-beta/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-beta/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-beta/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-beta/icon.png"
 }
+
 ,
 {
     "Name": "VNC Server",
@@ -1311,23 +1314,6 @@
 }
 ,
 {
-    "Name": "奇安信浏览器基础版",
-    "Version": "1.0.45346.3-1",
-    "Filename": "com.qianxin.browser-stable_1.0.45346.3-1_amd64.deb",
-    "Torrent_address": "com.qianxin.browser-stable_1.0.45346.3-1_amd64.deb.torrent",
-    "Pkgname": "com.qianxin.browser-stable",
-    "Author": "Qaxbrowser Team <qaxbrowser@qianxin.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.qianxin.com/",
-    "Update": "2023-12-30 10:56:08",
-    "Size": "81.48 MB",
-    "More": "奇安信可信浏览器\n 奇安信可信浏览器是基于Blink内核，专为政企定制的安全浏览器产品。简便快捷、兼容性高，满足政企互联网安全接入需求，是政企上网办公首选。\n（如果需要有 Flash 版本请安装1.0.1365.3-1 ）",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/621c0fd809854f489bdf897238da3269.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/cbc5f43e242643e0943c112187832d11.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/166e5973cddc4af7a26ef49dda23eff1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/fb24757433684c67bd0dd3a144a2d2ff.png"
-}
-,
-{
     "Name": "局域网文件分享服务器",
     "Version": "1.0.0-deepin20.08",
     "Filename": "fynelanshare_1.0.0-deepin20.08_amd64.deb",
@@ -1342,6 +1328,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/26/d4cc8e583cf34849914dbc8fd03fc025.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/26/391c20e0e11f4ecf906b512e859dba44.png"
+}
+,
+{
+    "Name": "奇安信浏览器基础版",
+    "Version": "1.0.45346.3-1",
+    "Filename": "com.qianxin.browser-stable_1.0.45346.3-1_amd64.deb",
+    "Torrent_address": "com.qianxin.browser-stable_1.0.45346.3-1_amd64.deb.torrent",
+    "Pkgname": "com.qianxin.browser-stable",
+    "Author": "Qaxbrowser Team <qaxbrowser@qianxin.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.qianxin.com/",
+    "Update": "2023-12-30 10:56:08",
+    "Size": "81.48 MB",
+    "More": "奇安信可信浏览器\n 奇安信可信浏览器是基于Blink内核，专为政企定制的安全浏览器产品。简便快捷、兼容性高，满足政企互联网安全接入需求，是政企上网办公首选。\n（如果需要有 Flash 版本请安装1.0.1365.3-1 ）",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/621c0fd809854f489bdf897238da3269.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/cbc5f43e242643e0943c112187832d11.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/166e5973cddc4af7a26ef49dda23eff1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/fb24757433684c67bd0dd3a144a2d2ff.png"
 }
 ,
 {
@@ -1362,20 +1365,6 @@
 }
 ,
 {
-   "Name":"云日历",
-   "Version":"1.0.2",
-   "Filename":"mytime_linux_1.02_amd64.deb",
-   "Pkgname":"mytime",
-   "Author":" ",
-   "Contributor":"anima",
-   "Website":"https://mytime.ruanmei.com/",
-   "Update":"2020-06-25 18:06",
-   "Size":"52.42MB",
-   "More":"使用云日历管理日程、记录生活、订阅精彩，还有各种小工具使您的生活更便捷。"
-}
-
-,
-{
     "Name": "Clash Nyanpasu～(∠・ω< )⌒☆​ ",
     "Version": "1.5.1",
     "Filename": "clash-nyanpasu_1.5.1_amd64.deb",
@@ -1391,6 +1380,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/e7122150-f8dd-11ee-94b3-3598cf0b4d68.gif\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/d8f3eef0-f8dd-11ee-94b3-3598cf0b4d68.png"
 }
+,
+{
+   "Name":"云日历",
+   "Version":"1.0.2",
+   "Filename":"mytime_linux_1.02_amd64.deb",
+   "Pkgname":"mytime",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":"https://mytime.ruanmei.com/",
+   "Update":"2020-06-25 18:06",
+   "Size":"52.42MB",
+   "More":"使用云日历管理日程、记录生活、订阅精彩，还有各种小工具使您的生活更便捷。"
+}
+
 ,
 {
     "Name": "腾讯微云（wine）",
@@ -1889,23 +1892,6 @@
 }
 ,
 {
-    "Name": "蜗牛下载器",
-    "Version": "1.17.1-1",
-    "Filename": "snail_1.17.1-1_amd64.deb",
-    "Torrent_address": "snail_1.17.1-1_amd64.deb.torrent",
-    "Pkgname": "snail",
-    "Author": "acgist <Unknown>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://gitee.com/acgist/snail/",
-    "Update": "2023-01-20 17:17:18",
-    "Size": "29.27 MB",
-    "More": "Java下载器一个～",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/1e1735073fc046e4840fb019b304b4fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/982e0c038d614454883c5f47a99f1108.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/20/3dc8c63ab53f470f9b7b08e6c91c7e78.png"
-}
-,
-{
     "Author": "shenmo",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.ugreen.client_4.9.0.9559_all.deb",
@@ -1922,6 +1908,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/screen_1.png\"]"
 }
 
+,
+{
+    "Name": "蜗牛下载器",
+    "Version": "1.17.1-1",
+    "Filename": "snail_1.17.1-1_amd64.deb",
+    "Torrent_address": "snail_1.17.1-1_amd64.deb.torrent",
+    "Pkgname": "snail",
+    "Author": "acgist <Unknown>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://gitee.com/acgist/snail/",
+    "Update": "2023-01-20 17:17:18",
+    "Size": "29.27 MB",
+    "More": "Java下载器一个～",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/1e1735073fc046e4840fb019b304b4fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/982e0c038d614454883c5f47a99f1108.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/20/3dc8c63ab53f470f9b7b08e6c91c7e78.png"
+}
 ,
 {
     "Name": "Station浏览器",
@@ -2273,6 +2276,23 @@
 }
 ,
 {
+    "Name": "哔哩下载姬（Linux版）",
+    "Version": "1.0.10-1",
+    "Filename": "downkyi_1.0.10-1_amd64.deb",
+    "Torrent_address": "downkyi_1.0.10-1_amd64.deb.torrent",
+    "Pkgname": "downkyi",
+    "Author": "yaobiao131",
+    "Contributor": "sgb",
+    "Website": "https://github.com/yaobiao131/downkyicore",
+    "Update": "2024-06-02 00:16:32",
+    "Size": "38.66 MB",
+    "More": "基于哔哩下载姬Windows版和AvaloniaUI制作的跨平台版本",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/d127b60f946c4b0a89109dcfb6139167.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/f11ffe9e58e245718abfd4470cadb65c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/49ee9d18432f4d3e92e38ba3a482d5cb.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/46d00e022bc8417eb510e5ca2734cbb6.png"
+}
+,
+{
     "Name": "Fifo",
     "Version": "1.1.0spark0",
     "Filename": "com.snaildos.fifo.spark_1.1.0spark0_amd64.deb",
@@ -2357,20 +2377,20 @@
 }
 ,
 {
-    "Name": "哔哩下载姬（Linux版）",
-    "Version": "1.0.10-1",
-    "Filename": "downkyi_1.0.10-1_amd64.deb",
-    "Torrent_address": "downkyi_1.0.10-1_amd64.deb.torrent",
-    "Pkgname": "downkyi",
-    "Author": "yaobiao131",
-    "Contributor": "sgb",
-    "Website": "https://github.com/yaobiao131/downkyicore",
-    "Update": "2024-06-02 00:16:32",
-    "Size": "38.66 MB",
-    "More": "基于哔哩下载姬Windows版和AvaloniaUI制作的跨平台版本",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/d127b60f946c4b0a89109dcfb6139167.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/f11ffe9e58e245718abfd4470cadb65c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/49ee9d18432f4d3e92e38ba3a482d5cb.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/46d00e022bc8417eb510e5ca2734cbb6.png"
+    "Name": "PDF to DOCX 转换器",
+    "Version": "1.1",
+    "Filename": "com.pdftodocx.deepin_1.1_all.deb",
+    "Torrent_address": "com.pdftodocx.deepin_1.1_all.deb.torrent",
+    "Pkgname": "com.pdftodocx.deepin",
+    "Author": "苦瓜甘甜（wszjf）",
+    "Contributor": "wang",
+    "Website": "https://www.52pojie.cn/thread-1799014-1-1.html",
+    "Update": "2024-05-27 23:22:26",
+    "Size": "139.92 MB",
+    "More": "PDF to DOCX 转换器是个PDF转成Word的转换器，这是吾爱大佬开发的，有非常多的人使用，软件界面非常简单。软件转换过程没有进度显示，只有转换完了才会有提示，它不支持纯图片的PDF，对表格等格式的转换效果非常好。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b5310980-1c3c-11ef-844a-857c0f6b164f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b53a3140-1c3c-11ef-844a-857c0f6b164f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/b010a0f0-1c3c-11ef-844a-857c0f6b164f.png"
 }
 ,
 {
@@ -2405,23 +2425,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/23/e6ad0777-8ed8-4f7c-87ca-88faeaedb217.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/23/c93bf6ec-56c3-4dbf-82e3-9c7595ecbb9c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/23/0db5b8cc-6170-4d9d-aea8-b2d962d09480.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/23/f4b017c8-85ca-44bf-965b-3432204ad6fe.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/23/17aa64f8-a9aa-4b6e-971e-2c098befe89f.png"
-}
-,
-{
-    "Name": "PDF to DOCX 转换器",
-    "Version": "1.1",
-    "Filename": "com.pdftodocx.deepin_1.1_all.deb",
-    "Torrent_address": "com.pdftodocx.deepin_1.1_all.deb.torrent",
-    "Pkgname": "com.pdftodocx.deepin",
-    "Author": "苦瓜甘甜（wszjf）",
-    "Contributor": "wang",
-    "Website": "https://www.52pojie.cn/thread-1799014-1-1.html",
-    "Update": "2024-05-27 23:22:26",
-    "Size": "139.92 MB",
-    "More": "PDF to DOCX 转换器是个PDF转成Word的转换器，这是吾爱大佬开发的，有非常多的人使用，软件界面非常简单。软件转换过程没有进度显示，只有转换完了才会有提示，它不支持纯图片的PDF，对表格等格式的转换效果非常好。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b5310980-1c3c-11ef-844a-857c0f6b164f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b53a3140-1c3c-11ef-844a-857c0f6b164f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/b010a0f0-1c3c-11ef-844a-857c0f6b164f.png"
 }
 ,
 {
