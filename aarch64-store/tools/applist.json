@@ -876,24 +876,6 @@
 
 ,
 {
-    "Author": "phytium",
-    "Contributor": "phytium",
-    "Filename": "cn.com.phytium.phyvirt_1.5.5.0_arm64.deb",
-    "More": "PhyVirt是一款可直接运行在飞腾平台和主流国产操作系统的虚拟化平台软件，主要用于在信创环境下安装虚拟机，同时支持桌面融合技术，满足终端虚拟化和应用虚拟化的需求。 ",
-    "Name": "飞腾Phyvirt虚拟化套件 UOS版",
-    "Pkgname": "cn.com.phytium.phyvirt",
-    "Size": "125 Mb",
-    "Tags": "uos",
-    "Torrent_address": "cn.com.phytium.phyvirt_1.5.5.0_arm64.deb.torrent",
-    "Update": "2024-05-16 14:57:57",
-    "Version": "1.5.5.0",
-    "Website": "https://www.phytium.com.cn/developer/39/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_3.png\"]"
-}
-
-,
-{
     "Author": "zinface <zinface@163.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "android-adb-fastboot-tools_0.3.2-20230308_arm64.deb",
@@ -908,6 +890,24 @@
     "Website": "https://gitee.com/zinface/qt.android-adb-fastboot-tools",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "phytium",
+    "Contributor": "phytium",
+    "Filename": "cn.com.phytium.phyvirt_1.5.5.0_arm64.deb",
+    "More": "PhyVirt是一款可直接运行在飞腾平台和主流国产操作系统的虚拟化平台软件，主要用于在信创环境下安装虚拟机，同时支持桌面融合技术，满足终端虚拟化和应用虚拟化的需求。 ",
+    "Name": "飞腾Phyvirt虚拟化套件 UOS版",
+    "Pkgname": "cn.com.phytium.phyvirt",
+    "Size": "125 Mb",
+    "Tags": "uos",
+    "Torrent_address": "cn.com.phytium.phyvirt_1.5.5.0_arm64.deb.torrent",
+    "Update": "2024-05-16 14:57:57",
+    "Version": "1.5.5.0",
+    "Website": "https://www.phytium.com.cn/developer/39/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_3.png\"]"
 }
 
 ,
@@ -1128,6 +1128,24 @@
 
 ,
 {
+    "Author": "zty199 <zty2864@gmail.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb",
+    "More": "dde-dock 显卡切换插件，在任务栏显示图标方便快速切换显卡。\n修改自论坛大佬 chanforever 的切换显卡插件，原贴地址：https://bbs.deepin.org/zh/post/197280\n\n【更新日志】\nv1.8.4-2:\n1. 修复社区版 20.7 上插件加载或移动位置时异常退出问题",
+    "Name": "任务栏显卡切换插件",
+    "Pkgname": "dde-dock-graphics-plugin",
+    "Size": "39 Kb",
+    "Tags": "community;deepin;uos;dtk5",
+    "Torrent_address": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb.torrent",
+    "Update": "2023-03-06 20:53:35",
+    "Version": "1.8.4-3",
+    "Website": "https://github.com/zty199/dde-dock-switch_graphics_card",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_3.png\"]"
+}
+
+,
+{
     "Author": "shenmo <shenmo@spark-app.stpre>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "autotrash-bash_1.1.1_all.deb",
@@ -1160,24 +1178,6 @@
     "Website": " https://github.com/sonichy/HTYScreenPen",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_4.png\"]"
-}
-
-,
-{
-    "Author": "zty199 <zty2864@gmail.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb",
-    "More": "dde-dock 显卡切换插件，在任务栏显示图标方便快速切换显卡。\n修改自论坛大佬 chanforever 的切换显卡插件，原贴地址：https://bbs.deepin.org/zh/post/197280\n\n【更新日志】\nv1.8.4-2:\n1. 修复社区版 20.7 上插件加载或移动位置时异常退出问题",
-    "Name": "任务栏显卡切换插件",
-    "Pkgname": "dde-dock-graphics-plugin",
-    "Size": "39 Kb",
-    "Tags": "community;deepin;uos;dtk5",
-    "Torrent_address": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb.torrent",
-    "Update": "2023-03-06 20:53:35",
-    "Version": "1.8.4-3",
-    "Website": "https://github.com/zty199/dde-dock-switch_graphics_card",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_3.png\"]"
 }
 
 ,

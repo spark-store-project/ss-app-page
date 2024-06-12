@@ -28003,25 +28003,6 @@ Description: IDM For dwine6
 
 Package: microsoft-edge-stable
 Architecture: amd64
-Version: 125.0.2535.79-1
-Priority: optional
-Section: web
-Maintainer: Microsoft Edge for Linux Team <EdgeLinuxDev@microsoft.com>
-Installed-Size: 579271
-Provides: www-browser
-Pre-Depends: dpkg (>= 1.14.0)
-Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.75), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libu2f-udev, libuuid1 (>= 2.16), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Filename: network/microsoft-edge-stable/microsoft-edge-stable_125.0.2535.79-1_amd64.deb
-Size: 167861546
-MD5sum: 6bdbc8489db622fcaf371817b3037244
-SHA1: 08b939435f9d7e6746298c0d16402999fb4560fb
-SHA256: 32467e17dea04f25a991c2ca745edd587f8b4f7ff782f309c75879a194e29bb4
-SHA512: 5ad20adff26ce55e025c95df6139e6f4e84d3eae478e690db144f2014bc43bd0adc62f3594ced84d891535ca52f4ed72c60fd9c7fa9cd1d11bfda12ae42913a9
-Description: The web browser from Microsoft
- Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
-
-Package: microsoft-edge-stable
-Architecture: amd64
 Version: 125.0.2535.92-1
 Priority: optional
 Section: web
@@ -28374,25 +28355,6 @@ MD5sum: 1a7396d0e24e074e62e654d9731ececa
 SHA1: 58f926e3585a83a12e4b6a67d2ff55d20778116a
 SHA256: 06fd17df48a570d048f696e59eb3b5400ec49533cc3b9fc99886488e195d3bb6
 SHA512: 0cf7293b42db643afb340e2e437bd9a62ddb3501d3140f9d7716f938d69b4dd9e112e1aa002dcbdfdf1fd0b84e045aab95f200c6523856beed29b7bfc3e76b80
-Description: The web browser from Microsoft
- Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
-
-Package: microsoft-edge-dev
-Architecture: amd64
-Version: 123.0.2400.1-1
-Priority: optional
-Section: web
-Maintainer: Microsoft Edge for Linux Team <EdgeLinuxDev@microsoft.com>
-Installed-Size: 570854
-Provides: www-browser
-Pre-Depends: dpkg (>= 1.14.0)
-Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.75), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libu2f-udev, libuuid1 (>= 2.16), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Filename: network/microsoft-edge-dev/microsoft-edge-dev_123.0.2400.1-1_amd64.deb
-Size: 166457358
-MD5sum: 5983a9c6b2b9ed64170536207a32a371
-SHA1: dce1f10090d7a75c6471c9d191bc674dca324e3d
-SHA256: 23d3d3df6d03260a8960dc01d29be78322e557e3768da4b9b4ec15c303477b1d
-SHA512: d1cb5d1bd79420d4ce456ed94babdada9aba3a3124b557acac4fdc2bfbcecdb7276d79e333efe7d69a6a1d8a3b555e9bb721235379d4cc2d71ee1d8e8fecb5cf
 Description: The web browser from Microsoft
  Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
@@ -30474,27 +30436,6 @@ SHA256: ed74df0b988e1db4c169f0c574c69f8d91eaedc3227c2122d0efbf5a4f326fec
 SHA512: 66c14c76044fa3e31d5009d52bdd424318b8c07306221fc75a838a69c54ff64f3cd602e36967d712a2b9d4ded36cbf23f8884ea1f60d9a2f0dd5152edf1192e0
 Description: NFSBrowser - Web Browser
  NFSBrowser is a chromium based browser, which has better usability, and awsome compatibility.
-
-Package: firefox-spark
-Architecture: amd64
-Version: 126.0.1
-Priority: optional
-Section: web
-Maintainer: shenmo <shenmo@spark-app.store>
-Installed-Size: 214784
-Provides: x-www-browser,gnome-www-browser,firefox(=126.0.1)
-Depends: libdbus-glib-1-2,zenity
-Recommends: speech-dispatcher
-Conflicts: firefox,firefox-spark(<=117.0)
-Replaces: firefox,firefox-spark(<=117.0)
-Filename: network/firefox-spark/firefox-spark_126.0.1_amd64.deb
-Size: 70157956
-MD5sum: 68da48851eff19bd0b25065cf1d5c695
-SHA1: ad82ce6da8905a9c45b3f1a2315c114990b762a7
-SHA256: afa0924782a4fe9b06d1eac5e036b2d61fb833bc426541e17fee91258bda098b
-SHA512: 50c86e9c6bc00a73dd15fda46342b6c20299468fed3d6e9f22b8241d49739aad3dcf0fc8bba77c3a6da056242490e46ddf1a6ddc9b30ffdcfce9a19e0509cded
-Homepage: https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release
-Description: 一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...
 
 Package: firefox-spark
 Architecture: amd64

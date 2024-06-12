@@ -1008,23 +1008,6 @@
 
 ,
 {
-    "Name": "PDMan",
-    "Version": "4.4.0",
-    "Filename": "pdman_4.4.0_amd64.deb",
-    "Torrent_address": "pdman_4.4.0_amd64.deb.torrent",
-    "Pkgname": "pdman",
-    "Author": "苏州蔚开信息科技有限公司",
-    "Contributor": "sgb76",
-    "Website": "http://www.pdmaner.com",
-    "Update": "2023-03-16 17:54:34",
-    "Size": "130.38 MB",
-    "More": "PDMan 是一款开源免费的数据库模型建模工具，支持Windows、Mac、Linux等操作系统，具有上手容易，使用简单的特点。",
-    "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/29ca5873a38b499792192e9355c46fa8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/c28174dacf494a96b43790df550f735e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/16/a81492b85699408ebc714c7e4dcd962c.png"
-}
-,
-{
     "Name": "VSCodium",
     "Version": "1.79.2.23166",
     "Filename": "codium_1.79.2.23166_amd64.deb",
@@ -1039,6 +1022,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/06/26c606f1e1194eb3b4fe6b80adf4c181.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/06/c040c80bf2c2414eaf506b10e7840444.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/06/a254ba163b744f6fae9d031aec459deb.png"
+}
+,
+{
+    "Name": "PDMan",
+    "Version": "4.4.0",
+    "Filename": "pdman_4.4.0_amd64.deb",
+    "Torrent_address": "pdman_4.4.0_amd64.deb.torrent",
+    "Pkgname": "pdman",
+    "Author": "苏州蔚开信息科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "http://www.pdmaner.com",
+    "Update": "2023-03-16 17:54:34",
+    "Size": "130.38 MB",
+    "More": "PDMan 是一款开源免费的数据库模型建模工具，支持Windows、Mac、Linux等操作系统，具有上手容易，使用简单的特点。",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/29ca5873a38b499792192e9355c46fa8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/c28174dacf494a96b43790df550f735e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/16/a81492b85699408ebc714c7e4dcd962c.png"
 }
 ,
 {
