@@ -5175,23 +5175,6 @@ Description: 24点
 
 Package: com.pvzhz.spark
 Architecture: all
-Version: 2.0.88spark2
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: shenmo@spark-app.store
-Installed-Size: 377442
-Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
-Filename: games/com.pvzhz.spark/com.pvzhz.spark_2.0.88spark2_all.deb
-Size: 377466200
-MD5sum: 5b9e8ffbfc480aa7aaa48c154324da3a
-SHA1: c00cc273b8abaf1d031fe9f0e2d7050017cf9885
-SHA256: cf22b6f21a299f94782a4773600fccd3b90ddfddb6acd9db97a30530d9f8e985
-SHA512: fa82927ee77dc54d7c8527631c2d6391d8cb13626609a4763858da9f8974698862caee2b3601ea53870858c51b6ff3b778abfdb6ca93c8584079700cd07d202b
-Description: com.pvzhz.spark
-
-Package: com.pvzhz.spark
-Architecture: all
 Version: 2.1
 Multi-Arch: foreign
 Priority: optional
@@ -6852,21 +6835,21 @@ Description: xunlei download xunlei download p2p
 
 Package: tailscale
 Architecture: arm64
-Version: 1.66.4
+Version: 1.68.0
 Priority: extra
 Section: net
 Maintainer: Tailscale Inc <info@tailscale.com>
-Installed-Size: 47513
+Installed-Size: 47553
 Depends: iptables
 Recommends: tailscale-archive-keyring (>= 1.35.181), iproute2
 Conflicts: tailscale-relay
 Replaces: tailscale-relay
-Filename: network/tailscale/tailscale_1.66.4_arm64.deb
-Size: 25788730
-MD5sum: fdbe0020a826242051afb91cddcabac0
-SHA1: 76551627f675ce61f6b75dc24714f745c884a806
-SHA256: 95f76dc08c489cc08a91b1f1a63fe50630ce92d7cbbfafb0d150db381ad91123
-SHA512: 84b67c83592621458275b33925acb4b6fc533b2789fbffb1b7ed7b5a8219622a3c6b38a10686e8190d0161ae50241ba3e11c8767f724df4a9f34839cc0ca5eaa
+Filename: network/tailscale/tailscale_1.68.0_arm64.deb
+Size: 25846516
+MD5sum: f8cbde588f7d75b0a6c40be45e507b98
+SHA1: 434f122e96076fd4ede98742dab0603e34fb06bb
+SHA256: 62d4bf2f20895d37d0b179d1686197e179c5062dd83dfaa885909809733a59f9
+SHA512: d85dfb8c499ed54736d0447091246531568b34f39579fc11395797a193f71dbdaabba8db32f2c30b1d2ba839580fa60ff876905a1111a5cb1522189dedd551f7
 Homepage: https://www.tailscale.com
 Description: The easiest, most secure, cross platform way to use WireGuard + oauth2 + 2FA/SSO
 

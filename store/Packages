@@ -29476,21 +29476,21 @@ Description: The web browser from Microsoft
 
 Package: tailscale
 Architecture: amd64
-Version: 1.66.4
+Version: 1.68.0
 Priority: extra
 Section: net
 Maintainer: Tailscale Inc <info@tailscale.com>
-Installed-Size: 49387
+Installed-Size: 49515
 Depends: iptables
 Recommends: tailscale-archive-keyring (>= 1.35.181), iproute2
 Conflicts: tailscale-relay
 Replaces: tailscale-relay
-Filename: network/tailscale/tailscale_1.66.4_amd64.deb
-Size: 27322328
-MD5sum: 75d4c0374af31dfb6b16ef75ffe21cd1
-SHA1: 42694ae4b712df8c2240bc6dff022d66d5eef1fb
-SHA256: be3a20b194101a8d5b84e17802360b718f6545b817e3bf17d5aa52583bc3a36e
-SHA512: f035fe9d0281e4d04c63cf944347b6d9a6754582f65590f5399f66ca7965201da53fb93a7fa97ffb5130824e04a322e0e935108f4fe5a24afe504fd8393592e8
+Filename: network/tailscale/tailscale_1.68.0_amd64.deb
+Size: 27399828
+MD5sum: 1d3ef18c39341cbe50b0b529b90389a2
+SHA1: 98a7c7334569d522babdbcd682eb310d004e2478
+SHA256: ed144ec02c916fab6c35febb5898351cff61bf398b7de7184a377051979f0039
+SHA512: a14e6e66fa582008fcac06a3372926684b1fee60e2d9e009bc6a4859afdcea5905b2035469b70b7cf7a9b7d15d6b9afb8b3251b28158e7a000c3cad86876e1ef
 Homepage: https://www.tailscale.com
 Description: The easiest, most secure, cross platform way to use WireGuard + oauth2 + 2FA/SSO
 

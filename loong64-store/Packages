@@ -6309,23 +6309,6 @@ Description: 24点
 
 Package: com.pvzhz.spark
 Architecture: all
-Version: 2.0.88spark2
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: shenmo@spark-app.store
-Installed-Size: 422532
-Depends: spark-wine, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
-Filename: games/com.pvzhz.spark/com.pvzhz.spark_2.0.88spark2_all.deb
-Size: 422557692
-MD5sum: f055d130e48b9d45145eaeb07cd46776
-SHA1: 865e6680f144995db53441669c9230d8bcf9e698
-SHA256: c48db442bf12139f436b60e882ece76ad4a75b69aec33bc43134683d1c060058
-SHA512: ec955659836772198d061a798a8bf58c01954665d14d819619a8f5d025cf3ea8fb26c1ec5b3e36e760717b1c2414b2813156c6261232d0547de599e4868fa3b6
-Description: com.pvzhz.spark
-
-Package: com.pvzhz.spark
-Architecture: all
 Version: 2.1
 Multi-Arch: foreign
 Priority: optional
