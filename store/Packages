@@ -29598,6 +29598,25 @@ SHA512: 14b760be9179e0bd6579d141776d4f9938c4fb19b7e065fe17dad3fb85f3c00587a9ec38
 Description: A Clash Meta GUI based on tauri.
  A Clash Meta GUI based on tauri.
 
+Package: clash-verge
+Architecture: amd64
+Version: 1.6.6
+Priority: optional
+Maintainer: zzzgydi, wonfen, MystiPanda
+Installed-Size: 110838
+Provides: clash-verge, clash-meta
+Depends: openssl, libayatana-appindicator3-1, libwebkit2gtk-4.0-37, libgtk-3-0
+Conflicts: clash-verge, clash-meta
+Replaces: clash-verge, clash-meta
+Filename: network/clash-verge/clash-verge_1.6.6_amd64.deb
+Size: 43689598
+MD5sum: 52b4cdb5093fac2f3f8d9ad6fb75ec20
+SHA1: aa7ba44e813c03dcc95ca086cf170d954df7ac53
+SHA256: c7e5e46ac83a6337ede422e0d981424648290de895bef76670b8eb83ea08393f
+SHA512: 1416cea93679a86245de89e8859ce98402927dab703da9816cbd2ac161ac0724d01168480bbf00573b9e9065fdd98fe3ef72ffabb271fbcc52022ec60d9a466c
+Description: A Clash Meta GUI based on tauri.
+ A Clash Meta GUI based on tauri.
+
 Package: org.xdown.spark
 Architecture: all
 Version: 2.0.8.6spark6

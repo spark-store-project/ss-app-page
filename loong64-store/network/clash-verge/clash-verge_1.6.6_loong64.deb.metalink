@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="clash-verge_1.6.6_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">79b10bb1ed8dcf9ad65c6eb0b7b360ba</hash>
+				  
+				<hash type="sha1">3bb860ce02441e91b453640fbc4abe5bd065d8d5</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/loong64-store/network/clash-verge/clash-verge_1.6.6_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/network/clash-verge/clash-verge_1.6.6_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://wyl01.d.spark-app.store:23333/loong64-store/network/clash-verge/clash-verge_1.6.6_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.shenmo.tech:23333/loong64-store/network/clash-verge/clash-verge_1.6.6_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/network/clash-verge/clash-verge_1.6.6_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/loong64-store/network/clash-verge/clash-verge_1.6.6_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

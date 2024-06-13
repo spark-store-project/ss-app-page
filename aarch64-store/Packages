@@ -6887,6 +6887,25 @@ SHA512: 4181c538b5bbaa46dda88c8b093f46a9c34d1f890a3a7124f14c2abbd9ccab35a4cf62ad
 Description: A Clash Meta GUI based on tauri.
  A Clash Meta GUI based on tauri.
 
+Package: clash-verge
+Architecture: arm64
+Version: 1.6.6
+Priority: optional
+Maintainer: zzzgydi, wonfen, MystiPanda
+Installed-Size: 107890
+Provides: clash-verge, clash-meta
+Depends: openssl, libayatana-appindicator3-1, libwebkit2gtk-4.0-37, libgtk-3-0
+Conflicts: clash-verge, clash-meta
+Replaces: clash-verge, clash-meta
+Filename: network/clash-verge/clash-verge_1.6.6_arm64.deb
+Size: 42180304
+MD5sum: 7ed7512020f8a232b429dca356f20549
+SHA1: af742598831721955f379712809ec002a90b8805
+SHA256: b9d01a020694ded08ff15af2ae571642341a567a77eec40d71b758346d1aaf93
+SHA512: 450d76cac850d95900fcced45d09b4721146c56857f5573d9a7b9bed4cdc7af1c338d0bba7d36cec1923bfa2be0515a37c04f3924792f9fb89954fcabb7487aa
+Description: A Clash Meta GUI based on tauri.
+ A Clash Meta GUI based on tauri.
+
 Package: cn.kingtous.fclash
 Architecture: arm64
 Version: 1.4.4
