@@ -470,6 +470,20 @@
 }
 ,
 {
+   "Name":"saladict-desktop",
+   "Version":"1.0.0-14",
+   "Filename":"saladict-desktop_1.0.0_amd64.deb",
+   "Pkgname":"saladict-desktop",
+   "Author":"zenghongtu",
+   "Contributor":"anima",
+   "Website":"https://github.com/zenghongtu/saladict-desktop/",
+   "Update":"2020-09-02 08:18",
+   "Size":"49.09MB",
+   "More":"基于crimxext-saladict，聚合了 N 多词典的桌面翻译与划词工具，功能强大，支持 Windows 、 Mac 和 Linux。"
+}
+
+,
+{
     "Name": "ePUBee电子书管理器（wine）",
     "Version": "2.0.8.1021spark1",
     "Filename": "com.epubee.spark_2.0.8.1021spark1_i386.deb",
@@ -500,20 +514,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/24/819b4150-2e27-11eb-a015-e13a7517df0a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/24/88f238f0-2e27-11eb-a015-e13a7517df0a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/24/8d7b91a0-2e27-11eb-a015-e13a7517df0a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/24/7d125dd0-2e27-11eb-a015-e13a7517df0a.png"
 }
-,
-{
-   "Name":"saladict-desktop",
-   "Version":"1.0.0-14",
-   "Filename":"saladict-desktop_1.0.0_amd64.deb",
-   "Pkgname":"saladict-desktop",
-   "Author":"zenghongtu",
-   "Contributor":"anima",
-   "Website":"https://github.com/zenghongtu/saladict-desktop/",
-   "Update":"2020-09-02 08:18",
-   "Size":"49.09MB",
-   "More":"基于crimxext-saladict，聚合了 N 多词典的桌面翻译与划词工具，功能强大，支持 Windows 、 Mac 和 Linux。"
-}
-
 ,
 {
     "Name": "eSearch",
@@ -951,23 +951,6 @@
 }
 ,
 {
-    "Name": "查询单词UI版",
-    "Version": "1.1.0",
-    "Filename": "look-up-words-ui-by-xiguang_1.1.0_all.deb",
-    "Torrent_address": "look-up-words-ui-by-xiguang_1.1.0_all.deb.torrent",
-    "Pkgname": "look-up-words-ui-by-xiguang",
-    "Author": "汐光 <3285778581@qq.com>",
-    "Contributor": "xi-guang1 <3285778581@qq.com>",
-    "Website": "http://xi-guang1.github.io",
-    "Update": "2022-12-06 08:40:37",
-    "Size": "47.43 KB",
-    "More": "一个中学生制作的查询单词软件",
-    "Tags": "community;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/06/684efdd22a2d4090bd72e1e7d88a1749.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/06/941304059e924917a2b06075b07897f6.png"
-}
-,
-{
     "Name": "PDF Shaper",
     "Version": "14.1spark0",
     "Filename": "com.pdfshaper.spark_14.1spark0_all.deb",
@@ -982,6 +965,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/3e26b870a4fa44d8ab8ce4e7246a29b1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/adc8372746b44d31825e6b9bb468daae.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/8cefba6061374ee884e5f9a076b48a39.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/22/3c77b4f846cf4e46a5b1b08e2b4a5b55.png"
+}
+,
+{
+    "Name": "查询单词UI版",
+    "Version": "1.1.0",
+    "Filename": "look-up-words-ui-by-xiguang_1.1.0_all.deb",
+    "Torrent_address": "look-up-words-ui-by-xiguang_1.1.0_all.deb.torrent",
+    "Pkgname": "look-up-words-ui-by-xiguang",
+    "Author": "汐光 <3285778581@qq.com>",
+    "Contributor": "xi-guang1 <3285778581@qq.com>",
+    "Website": "http://xi-guang1.github.io",
+    "Update": "2022-12-06 08:40:37",
+    "Size": "47.43 KB",
+    "More": "一个中学生制作的查询单词软件",
+    "Tags": "community;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/06/684efdd22a2d4090bd72e1e7d88a1749.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/06/941304059e924917a2b06075b07897f6.png"
 }
 ,
 {

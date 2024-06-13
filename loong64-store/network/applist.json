@@ -72,24 +72,6 @@
 
 ,
 {
-    "Author": "xllinux <xllinux@xunlei.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "com.xunlei.download_1.0.0.5_loong64.deb",
-    "More": "迅雷\n修复因缺失依赖问题导致软件无法打开\n迅雷官方推出的linux版下载工具，不知为何不在官网上架\n修复Ubuntu 23软件无法打开\",",
-    "Name": "迅雷",
-    "Pkgname": "com.xunlei.download",
-    "Size": "60 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "com.xunlei.download_1.0.0.5_loong64.deb.torrent",
-    "Update": "2024-03-24 14:32:18",
-    "Version": "1.0.0.5",
-    "Website": "https://www.xunlei.com/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.xunlei.download/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.xunlei.download/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.xunlei.download/screen_2.png\"]"
-}
-
-,
-{
     "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "browser360-cn-stable_13.3.1011.30-1_loong64.deb",
@@ -104,6 +86,24 @@
     "Website": "https://browser.360.net/gc/",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/network/browser360-cn-stable/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/browser360-cn-stable/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "xllinux <xllinux@xunlei.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.xunlei.download_1.0.0.5_loong64.deb",
+    "More": "迅雷\n修复因缺失依赖问题导致软件无法打开\n迅雷官方推出的linux版下载工具，不知为何不在官网上架\n修复Ubuntu 23软件无法打开\",",
+    "Name": "迅雷",
+    "Pkgname": "com.xunlei.download",
+    "Size": "60 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.xunlei.download_1.0.0.5_loong64.deb.torrent",
+    "Update": "2024-03-24 14:32:18",
+    "Version": "1.0.0.5",
+    "Website": "https://www.xunlei.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.xunlei.download/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.xunlei.download/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.xunlei.download/screen_2.png\"]"
 }
 
 ,
