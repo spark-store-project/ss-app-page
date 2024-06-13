@@ -6324,6 +6324,23 @@ SHA256: c48db442bf12139f436b60e882ece76ad4a75b69aec33bc43134683d1c060058
 SHA512: ec955659836772198d061a798a8bf58c01954665d14d819619a8f5d025cf3ea8fb26c1ec5b3e36e760717b1c2414b2813156c6261232d0547de599e4868fa3b6
 Description: com.pvzhz.spark
 
+Package: com.pvzhz.spark
+Architecture: all
+Version: 2.1
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: shenmo@spark-app.store
+Installed-Size: 422532
+Depends: spark-wine, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: games/com.pvzhz.spark/com.pvzhz.spark_2.1_all.deb
+Size: 410226736
+MD5sum: ebf12eeed4f672224fbff63252ef8562
+SHA1: 7c502fbbc16df760502a56a2d64a28ffdf62cf45
+SHA256: b133ad7908d7ecf4389da9d4c088b192e8ce0e71ba0f88b7407511610eaf1244
+SHA512: 8f4d744524d18982ca3fdebdac2da663bd52270aba82533992ed3c62b9454549e66a4527a531adf588286bd3ecdfa931d92a8c825b60bc03679f64c78f137772
+Description: com.pvzhz.spark
+
 Package: spark-office
 Architecture: all
 Version: 15.0.0
