@@ -5190,6 +5190,23 @@ SHA256: cf22b6f21a299f94782a4773600fccd3b90ddfddb6acd9db97a30530d9f8e985
 SHA512: fa82927ee77dc54d7c8527631c2d6391d8cb13626609a4763858da9f8974698862caee2b3601ea53870858c51b6ff3b778abfdb6ca93c8584079700cd07d202b
 Description: com.pvzhz.spark
 
+Package: com.pvzhz.spark
+Architecture: all
+Version: 2.1
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: shenmo@spark-app.store
+Installed-Size: 377442
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: games/com.pvzhz.spark/com.pvzhz.spark_2.1_all.deb
+Size: 365951788
+MD5sum: a1139163cbbc44b48eb63846436be9d7
+SHA1: 867eb0c796f6e36ce85d1b131a7d31f2c3db3d21
+SHA256: 88ae5ffa268df11109d99d38f5769e09589280a459913a7d26aec30ea720e3ea
+SHA512: 100cfb3e0fcdc25393bf7a1049ff66a65dc1d8a99797ea7c63bf35489906ba94564533b9c6c16ddf0129becb36af582020b596250776432cfa0dc26d185003b2
+Description: com.pvzhz.spark
+
 Package: com.popcap.plants-vs-zombies
 Architecture: arm64
 Version: 1.0
