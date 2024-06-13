@@ -1133,23 +1133,6 @@
 }
 ,
 {
-    "Name": "Minecraft 官方启动器",
-    "Version": "1.1.26",
-    "Filename": "minecraft-launcher_1.1.26_amd64.deb",
-    "Torrent_address": "minecraft-launcher_1.1.26_amd64.deb.torrent",
-    "Pkgname": "minecraft-launcher",
-    "Author": "Petr Mrázek <petr@mojang.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://minecraft.net/",
-    "Update": "2023-03-04 17:47:30",
-    "Size": "488.61 KB",
-    "More": "Official Minecraft Launcher\n------\n1. 打开启动器\n2. 登录微账号\n3. 自行购买正版\n4. 然后开始游戏",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/a803c123b4184a998fcdd1b48cd1a869.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/3fe5665e72b94dd4adeffcac6acea570.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/fefe4018a0714b60a6d88243ba819a83.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/04/553558bc61924ed28cb3d20aaf9c0ca1.png"
-}
-,
-{
     "Author": "shenmo@spark-app.store",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.pvzhz.spark_2.0.88spark2_all.deb",
@@ -1166,6 +1149,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_2.png\"]"
 }
 
+,
+{
+    "Name": "Minecraft 官方启动器",
+    "Version": "1.1.26",
+    "Filename": "minecraft-launcher_1.1.26_amd64.deb",
+    "Torrent_address": "minecraft-launcher_1.1.26_amd64.deb.torrent",
+    "Pkgname": "minecraft-launcher",
+    "Author": "Petr Mrázek <petr@mojang.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://minecraft.net/",
+    "Update": "2023-03-04 17:47:30",
+    "Size": "488.61 KB",
+    "More": "Official Minecraft Launcher\n------\n1. 打开启动器\n2. 登录微账号\n3. 自行购买正版\n4. 然后开始游戏",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/a803c123b4184a998fcdd1b48cd1a869.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/3fe5665e72b94dd4adeffcac6acea570.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/fefe4018a0714b60a6d88243ba819a83.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/04/553558bc61924ed28cb3d20aaf9c0ca1.png"
+}
 ,
 {
     "Author": "shiroko <hanhaoxuan@uniontech.com>",
@@ -2511,23 +2511,6 @@
 }
 ,
 {
-    "Name": "Malody",
-    "Version": "4.3.7.0+1",
-    "Filename": "com.malody.spark_4.3.7.0_plus1_i386.deb",
-    "Torrent_address": "com.malody.spark_4.3.7.0_plus1_i386.deb.torrent",
-    "Pkgname": "com.malody.spark",
-    "Author": "Mugzone",
-    "Contributor": "秦以南",
-    "Website": "https://m.mugzone.net/",
-    "Update": "2023-06-23 15:03:48",
-    "Size": "52.28 MB",
-    "More": "Malody是由一群热爱音乐的人开发的多平台音乐游戏，谱面来自玩家自制~\n现在通过Wine使得Linux用户也能玩耍了~~\n需要安装deepin-wine6来玩这个游戏。",
-    "Tags": "dwine5;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/a471cc10-1193-11ee-8cee-55f28a6783a6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/a6d892e0-1193-11ee-8cee-55f28a6783a6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/a8ef3de0-1193-11ee-8cee-55f28a6783a6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/ad2a0160-1193-11ee-8cee-55f28a6783a6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/23/47e097b0-1193-11ee-8cee-55f28a6783a6.png"
-}
-,
-{
     "Name": "pcsx2-qt",
     "Version": "1.7.4965",
     "Filename": "pcsx2-qt-amd64_1.7.4965_amd64.deb",
@@ -2542,6 +2525,23 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/02/95f7e3fc72704b469c280e2b22363f29.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/02/2b36a2612b454d14af00ef9a268e0493.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/02/01aa276470b14c9496e1f4dc48bd9d5c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/02/2e09f6f5b760441199a1fe471be7efe6.png"
+}
+,
+{
+    "Name": "Malody",
+    "Version": "4.3.7.0+1",
+    "Filename": "com.malody.spark_4.3.7.0_plus1_i386.deb",
+    "Torrent_address": "com.malody.spark_4.3.7.0_plus1_i386.deb.torrent",
+    "Pkgname": "com.malody.spark",
+    "Author": "Mugzone",
+    "Contributor": "秦以南",
+    "Website": "https://m.mugzone.net/",
+    "Update": "2023-06-23 15:03:48",
+    "Size": "52.28 MB",
+    "More": "Malody是由一群热爱音乐的人开发的多平台音乐游戏，谱面来自玩家自制~\n现在通过Wine使得Linux用户也能玩耍了~~\n需要安装deepin-wine6来玩这个游戏。",
+    "Tags": "dwine5;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/a471cc10-1193-11ee-8cee-55f28a6783a6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/a6d892e0-1193-11ee-8cee-55f28a6783a6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/a8ef3de0-1193-11ee-8cee-55f28a6783a6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/ad2a0160-1193-11ee-8cee-55f28a6783a6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/23/47e097b0-1193-11ee-8cee-55f28a6783a6.png"
 }
 ,
 {
