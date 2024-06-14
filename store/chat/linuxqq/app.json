@@ -1,16 +1,16 @@
 {
-    "Name": "QQ NT  Linux原生版",
-    "Version": "3.2.9-24568",
-    "Filename": "linuxqq_3.2.9-24568_amd64.deb",
-    "Torrent_address": "linuxqq_3.2.9-24568_amd64.deb.torrent",
-    "Pkgname": "linuxqq",
     "Author": "Tencent <QQ-Team@tencent.com>",
-    "Contributor": "Tencent <QQ-Team@tencent.com>",
-    "Website": "https://im.qq.com",
-    "Update": "2024-06-06 11:41:32",
-    "Size": "140.13 MB",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "linuxqq_3.2.9-24815_amd64.deb",
     "More": "2024.06.06\n【版本特性】\n【文件】\n新增支持文件发送断点续传\n【音视频】\n新增支持音视频通话功能（暂支持x64和arm）\n【问题修复】\n修复群成员变更通知延迟问题\n修复频道贴子编辑异常问题\n*修复其他一些已知BUG",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/06/562d861bb61745948b8449fafd9b5afc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/06/685fe9484b5449eaa94f09f9e744d956.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/06/aed77d7f79154c07b089b0e12dd7dd44.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/06/d45fe02dc20f437e9ad2bc11a231821a.png"
+    "Name": "QQ NT  Linux原生版",
+    "Pkgname": "linuxqq",
+    "Size": "146 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "linuxqq_3.2.9-24815_amd64.deb.torrent",
+    "Update": "2024-06-14 22:47:36",
+    "Version": "3.2.9-24815",
+    "Website": "https://im.qq.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/chat/linuxqq/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/chat/linuxqq/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/chat/linuxqq/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/chat/linuxqq/screen_3.png\"]"
 }

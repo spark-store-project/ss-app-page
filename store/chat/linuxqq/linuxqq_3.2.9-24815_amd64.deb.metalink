@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="linuxqq_3.2.9-24815_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">cbb0e5d9926f2434de7ad52160f1c5a4</hash>
+				  
+				<hash type="sha1">f154ffb3e747c491b73e56854c467107aa2e98a3</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/chat/linuxqq/linuxqq_3.2.9-24815_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/chat/linuxqq/linuxqq_3.2.9-24815_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.spark-app.store/store/chat/linuxqq/linuxqq_3.2.9-24815_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/chat/linuxqq/linuxqq_3.2.9-24815_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/chat/linuxqq/linuxqq_3.2.9-24815_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>
