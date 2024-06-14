@@ -108,24 +108,6 @@
 
 ,
 {
-    "Author": "Liuminghang",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Filename": "durian-ocr_1.0_arm64.deb",
-    "More": "deepin-ocr的无dtk版本，可以在ubuntu20.04和debian10以上系统使用，增加了一个小界面和切换识别语言，使用方法:命令行使用:durian-ocr +路径  ，界面使用",
-    "Name": "榴莲-OCR",
-    "Pkgname": "durian-ocr",
-    "Size": "18 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "durian-ocr_1.0_arm64.deb.torrent",
-    "Update": "2023-03-05 18:14:24",
-    "Version": "1.0",
-    "Website": "http://www.deepin.org/",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/durian-ocr/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/durian-ocr/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/durian-ocr/screen_2.png\"]"
-}
-
-,
-{
     "Author": "weizuxing <weizuxing@photosir.cn>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "cn.photosir.himirage_2.0.6.31228_arm64.deb",
@@ -140,6 +122,24 @@
     "Website": "https://www.photosir.com",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.photosir.himirage/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.photosir.himirage/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.photosir.himirage/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "Liuminghang",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Filename": "durian-ocr_1.0_arm64.deb",
+    "More": "deepin-ocr的无dtk版本，可以在ubuntu20.04和debian10以上系统使用，增加了一个小界面和切换识别语言，使用方法:命令行使用:durian-ocr +路径  ，界面使用",
+    "Name": "榴莲-OCR",
+    "Pkgname": "durian-ocr",
+    "Size": "18 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "durian-ocr_1.0_arm64.deb.torrent",
+    "Update": "2023-03-05 18:14:24",
+    "Version": "1.0",
+    "Website": "http://www.deepin.org/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/durian-ocr/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/durian-ocr/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/durian-ocr/screen_2.png\"]"
 }
 
 ,
@@ -450,24 +450,6 @@
 
 ,
 {
-    "Author": " 深圳市超时代软件有限公司",
-    "Contributor": "wang",
-    "Filename": "com.qnwzjz.deepin_2.0.0.3deepin0_all.deb",
-    "More": "\n全能王证件照换底色抠图是一款简单实用的抠图软件，可以帮你一键抠图，轻松换图片背景，用户使用它无需任何专业的抠图技巧，只需要通过软件的功能就能编辑出想要的图片。软件支持一键替换背景，自定义添加背景，可以自由剪切图片，自带多种常用证件格式。支持一键美颜和磨皮。可以进行批量抠图，提高办公效率。\n",
-    "Name": "全能王证件照换底色抠图",
-    "Pkgname": "com.qnwzjz.deepin",
-    "Size": "42 Mb",
-    "Tags": "deepin;uos;dwine5",
-    "Torrent_address": "com.qnwzjz.deepin_2.0.0.3deepin0_all.deb.torrent",
-    "Update": "2024-06-09 16:16:47",
-    "Version": "2.0.0.3deepin0",
-    "Website": "https://www.hoposoft.com/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.qnwzjz.deepin/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.qnwzjz.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.qnwzjz.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.qnwzjz.deepin/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.qnwzjz.deepin/screen_4.png\"]"
-}
-
-,
-{
     "Author": "wang",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.qicase.tupian.deepin_16.1_all.deb",
@@ -482,6 +464,24 @@
     "Website": "http://tupian.qicaise.com/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.qicase.tupian.deepin/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.qicase.tupian.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.qicase.tupian.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.qicase.tupian.deepin/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.qicase.tupian.deepin/screen_4.png\"]"
+}
+
+,
+{
+    "Author": " 深圳市超时代软件有限公司",
+    "Contributor": "wang",
+    "Filename": "com.qnwzjz.deepin_2.0.0.3deepin0_all.deb",
+    "More": "\n全能王证件照换底色抠图是一款简单实用的抠图软件，可以帮你一键抠图，轻松换图片背景，用户使用它无需任何专业的抠图技巧，只需要通过软件的功能就能编辑出想要的图片。软件支持一键替换背景，自定义添加背景，可以自由剪切图片，自带多种常用证件格式。支持一键美颜和磨皮。可以进行批量抠图，提高办公效率。\n",
+    "Name": "全能王证件照换底色抠图",
+    "Pkgname": "com.qnwzjz.deepin",
+    "Size": "42 Mb",
+    "Tags": "deepin;uos;dwine5",
+    "Torrent_address": "com.qnwzjz.deepin_2.0.0.3deepin0_all.deb.torrent",
+    "Update": "2024-06-09 16:16:47",
+    "Version": "2.0.0.3deepin0",
+    "Website": "https://www.hoposoft.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.qnwzjz.deepin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.qnwzjz.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.qnwzjz.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.qnwzjz.deepin/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.qnwzjz.deepin/screen_4.png\"]"
 }
 
 ,

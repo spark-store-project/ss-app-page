@@ -35672,17 +35672,34 @@ Description: 绒毛墙, Build By UEngine Runner Packager
 
 Package: com.alibabainc.dingtalk
 Architecture: amd64
-Version: 7.5.10.404071
+Version: 7.5.20.40605
 Priority: optional
 Section: devel
 Maintainer: dingtalk alibaba-inc
-Installed-Size: 1139083
-Filename: chat/com.alibabainc.dingtalk/com.alibabainc.dingtalk_7.5.10.404071_amd64.deb
-Size: 339581676
-MD5sum: 9106f29d934906bd69f4a4802764d9dd
-SHA1: b38e6c87a48acb2b917e8005fd556773cd05fcc7
-SHA256: d9c9b1bec6a01f409a1f44244a1e0ce0191393cc0e5a5066bca63974a0eb93d6
-SHA512: 66196f929985cd38f9295f2b663150ba2d79cf5ad273ab4992cdf0ae6dbdac70f5fccab1e795b748211a334bd5288eb94716b3af52146195ed9f61f360487929
+Installed-Size: 1221604
+Filename: chat/com.alibabainc.dingtalk/com.alibabainc.dingtalk/com.alibabainc.dingtalk_7.5.20.40605_amd64.deb
+Size: 356806784
+MD5sum: 73338ce6f9d6536439847976fed208fe
+SHA1: 676cfaf7f02f0309b228d5078634dd269597f224
+SHA256: 880f1021bc7a0325a0221bf9272bfc8658f2e7e9357514e39219340c1697dcfa
+SHA512: 395638a29341bae5ffbef20700a7414e49272490ead27d7a3e428899a4f5592e1d1d7ea581f70175d408a9e9296ca5e7e9643ef660b333f774d930265b9d2ad7
+Homepage: https://gov.dingtalk.com
+Description: 钉钉
+
+Package: com.alibabainc.dingtalk
+Architecture: amd64
+Version: 7.5.20.40605
+Priority: optional
+Section: devel
+Maintainer: dingtalk alibaba-inc
+Installed-Size: 1221604
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: chat/com.alibabainc.dingtalk/com.alibabainc.dingtalk_7.5.20.40605_amd64.deb
+Size: 357292094
+MD5sum: e4e84aec1da7cfd513be116a93d6ac09
+SHA1: cf5a8c4c9921754728966fcee85e955b80ca0bc9
+SHA256: 613292ebf078375c31e818eb7b64b5eca129d8ed4fdefbaa0771ae700f1e3607
+SHA512: 414410fc3866bf0a09f5d5d7249683eed0504efe69a7f35c2bdf1da7967955af7a2aa552f3d8af6908dda42c8c58e9cf04729df10af0be089c2bbd2e78380e89
 Homepage: https://gov.dingtalk.com
 Description: 钉钉
 

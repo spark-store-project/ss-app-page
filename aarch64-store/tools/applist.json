@@ -714,24 +714,6 @@
 
 ,
 {
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "htyfloatball_1.0.0_arm64.deb",
-    "More": "一个通过桌面浮球、托盘图标显示网速、内存使用情况的小工具",
-    "Name": "海天鹰浮球",
-    "Pkgname": "htyfloatball",
-    "Size": "33 Kb",
-    "Tags": "deepin;uos;ubuntu;community",
-    "Torrent_address": "htyfloatball_1.0.0_arm64.deb.torrent",
-    "Update": "2023-03-05 18:50:16",
-    "Version": "1.0.0",
-    "Website": "https://github.com/sonichy/HTYFloatBall",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyfloatball/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyfloatball/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyfloatball/screen_2.png\"]"
-}
-
-,
-{
     "Author": "he3",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "he3_2.0.0_arm64.deb",
@@ -746,6 +728,24 @@
     "Website": "https://github.com/h8r-dev/he3-client",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/he3/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/he3/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/he3/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/he3/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/he3/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/he3/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "htyfloatball_1.0.0_arm64.deb",
+    "More": "一个通过桌面浮球、托盘图标显示网速、内存使用情况的小工具",
+    "Name": "海天鹰浮球",
+    "Pkgname": "htyfloatball",
+    "Size": "33 Kb",
+    "Tags": "deepin;uos;ubuntu;community",
+    "Torrent_address": "htyfloatball_1.0.0_arm64.deb.torrent",
+    "Update": "2023-03-05 18:50:16",
+    "Version": "1.0.0",
+    "Website": "https://github.com/sonichy/HTYFloatBall",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyfloatball/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyfloatball/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyfloatball/screen_2.png\"]"
 }
 
 ,
@@ -822,24 +822,6 @@
 
 ,
 {
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "linuxqq-autoservice_0.0.1_all.deb",
-    "More": "linuxqq 的用户服务，在 linuxqq 崩溃时会自动重启 linuxqq",
-    "Name": "QQ 用户服务",
-    "Pkgname": "linuxqq-autoservice",
-    "Size": "1 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "linuxqq-autoservice_0.0.1_all.deb.torrent",
-    "Update": "2023-03-07 21:57:48",
-    "Version": "0.0.1",
-    "Website": "https://gitee.com/zinface/linuxqq-autoservice",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/linuxqq-autoservice/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/linuxqq-autoservice/screen_1.png\"]"
-}
-
-,
-{
     "Author": "Zhuhai Pantum Electronics Co., Ltd <support@pantum.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.pantum.pantum_7.4.176-1_plus_uos_arm64.deb",
@@ -854,6 +836,42 @@
     "Website": "https://www.pantum.cn/",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.pantum.pantum/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.pantum.pantum/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.pantum.pantum/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.pantum.pantum/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "phytium",
+    "Contributor": "phytium",
+    "Filename": "cn.com.phytium.phyvirt_1.5.5.0_arm64.deb",
+    "More": "PhyVirt是一款可直接运行在飞腾平台和主流国产操作系统的虚拟化平台软件，主要用于在信创环境下安装虚拟机，同时支持桌面融合技术，满足终端虚拟化和应用虚拟化的需求。 ",
+    "Name": "飞腾Phyvirt虚拟化套件 UOS版",
+    "Pkgname": "cn.com.phytium.phyvirt",
+    "Size": "125 Mb",
+    "Tags": "uos",
+    "Torrent_address": "cn.com.phytium.phyvirt_1.5.5.0_arm64.deb.torrent",
+    "Update": "2024-05-16 14:57:57",
+    "Version": "1.5.5.0",
+    "Website": "https://www.phytium.com.cn/developer/39/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "linuxqq-autoservice_0.0.1_all.deb",
+    "More": "linuxqq 的用户服务，在 linuxqq 崩溃时会自动重启 linuxqq",
+    "Name": "QQ 用户服务",
+    "Pkgname": "linuxqq-autoservice",
+    "Size": "1 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "linuxqq-autoservice_0.0.1_all.deb.torrent",
+    "Update": "2023-03-07 21:57:48",
+    "Version": "0.0.1",
+    "Website": "https://gitee.com/zinface/linuxqq-autoservice",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/linuxqq-autoservice/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/linuxqq-autoservice/screen_1.png\"]"
 }
 
 ,
@@ -890,24 +908,6 @@
     "Website": "https://gitee.com/zinface/qt.android-adb-fastboot-tools",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_4.png\"]"
-}
-
-,
-{
-    "Author": "phytium",
-    "Contributor": "phytium",
-    "Filename": "cn.com.phytium.phyvirt_1.5.5.0_arm64.deb",
-    "More": "PhyVirt是一款可直接运行在飞腾平台和主流国产操作系统的虚拟化平台软件，主要用于在信创环境下安装虚拟机，同时支持桌面融合技术，满足终端虚拟化和应用虚拟化的需求。 ",
-    "Name": "飞腾Phyvirt虚拟化套件 UOS版",
-    "Pkgname": "cn.com.phytium.phyvirt",
-    "Size": "125 Mb",
-    "Tags": "uos",
-    "Torrent_address": "cn.com.phytium.phyvirt_1.5.5.0_arm64.deb.torrent",
-    "Update": "2024-05-16 14:57:57",
-    "Version": "1.5.5.0",
-    "Website": "https://www.phytium.com.cn/developer/39/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_3.png\"]"
 }
 
 ,

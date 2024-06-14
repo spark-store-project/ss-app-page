@@ -429,23 +429,6 @@
 }
 ,
 {
-    "Name": "次元城动画",
-    "Version": "1.0.7",
-    "Filename": "cyc-desktop_1.0.7_amd64.deb",
-    "Torrent_address": "cyc-desktop_1.0.7_amd64.deb.torrent",
-    "Pkgname": "cyc-desktop",
-    "Author": "CycDeveloper",
-    "Contributor": "CycDeveloper",
-    "Website": "https://www.cycity.pro",
-    "Update": "2024-04-12 13:08:42",
-    "Size": "68.93 MB",
-    "More": "使用H.265的一款动画软件，海量1080P高清日漫免费看",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/35ce3b60da714b0b9c813ebe4a6fb1b7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/988bef480d60462da2dc22ebbb006b84.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/c0c9073063a04b92b7380c659a100c0b.png"
-}
-,
-{
     "Name": "Shotcut",
     "Version": "23.12.15spark9",
     "Filename": "org.shotcut.spark_23.12.15spark9_amd64.deb",
@@ -460,6 +443,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/25/48f44a2d08414c3c8f70797e55ff041a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/25/547d564ec7124b30899f6fd784ba2bd3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/25/3405d6d117fe43a9afeff812e7bb2b5c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/25/c8d73ae95bfe4fd699627e344965546d.png"
+}
+,
+{
+    "Name": "次元城动画",
+    "Version": "1.0.7",
+    "Filename": "cyc-desktop_1.0.7_amd64.deb",
+    "Torrent_address": "cyc-desktop_1.0.7_amd64.deb.torrent",
+    "Pkgname": "cyc-desktop",
+    "Author": "CycDeveloper",
+    "Contributor": "CycDeveloper",
+    "Website": "https://www.cycity.pro",
+    "Update": "2024-04-12 13:08:42",
+    "Size": "68.93 MB",
+    "More": "使用H.265的一款动画软件，海量1080P高清日漫免费看",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/35ce3b60da714b0b9c813ebe4a6fb1b7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/988bef480d60462da2dc22ebbb006b84.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/c0c9073063a04b92b7380c659a100c0b.png"
 }
 ,
 {
@@ -865,6 +865,22 @@
 }
 ,
 {
+    "Name": "Avidemux",
+    "Version": "2.8.0spark0",
+    "Filename": "org.avidemux.spark_2.8.0spark0_amd64.deb",
+    "Pkgname": "org.avidemux.spark",
+    "Author": "Avidemux",
+    "Contributor": "sgb76",
+    "Website": "http://avidemux.sourceforge.net/",
+    "Update": "2022-02-22 17:14:58",
+    "Size": "27.06 MB",
+    "More": "一款免费开源的视频编辑器，专为简单的剪切，过滤和编码任务而设计",
+    "Tags": "deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/22/c5a14580-93bf-11ec-b7da-51c597f813ed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/22/cb248e90-93bf-11ec-b7da-51c597f813ed.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/02/22/c23d32f0-93bf-11ec-b7da-51c597f813ed.png"
+}
+,
+{
     "Name": "KikoPlay",
     "Version": "1.0.0spark1",
     "Filename": "fun.kikoplay.spark_1.0.0spark1_all.deb",
@@ -896,22 +912,6 @@
     "Tags": "deepin;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/23/6cf5b0a0-0a6c-11ed-a33a-c3d074d810a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/23/71ad4540-0a6c-11ed-a33a-c3d074d810a7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/07/23/697626d0-0a6c-11ed-a33a-c3d074d810a7.png"
-}
-,
-{
-    "Name": "Avidemux",
-    "Version": "2.8.0spark0",
-    "Filename": "org.avidemux.spark_2.8.0spark0_amd64.deb",
-    "Pkgname": "org.avidemux.spark",
-    "Author": "Avidemux",
-    "Contributor": "sgb76",
-    "Website": "http://avidemux.sourceforge.net/",
-    "Update": "2022-02-22 17:14:58",
-    "Size": "27.06 MB",
-    "More": "一款免费开源的视频编辑器，专为简单的剪切，过滤和编码任务而设计",
-    "Tags": "deepin;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/22/c5a14580-93bf-11ec-b7da-51c597f813ed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/22/cb248e90-93bf-11ec-b7da-51c597f813ed.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/02/22/c23d32f0-93bf-11ec-b7da-51c597f813ed.png"
 }
 ,
 {
