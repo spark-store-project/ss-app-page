@@ -7742,22 +7742,22 @@ Vendor: Codemao Ltd
 
 Package: code
 Architecture: arm64
-Version: 1.90.0-1717529971
+Version: 1.90.1-1718139718
 Priority: optional
 Section: devel
 Maintainer: Microsoft Corporation <vscode-linux@microsoft.com>
-Installed-Size: 391958
+Installed-Size: 391959
 Provides: visual-studio-code
 Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libc6 (>= 2.28), libcairo2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.75), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.37.3), libgssapi-krb5-2 (>= 1.17), libgtk-3-0 (>= 3.9.10), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libkrb5-3 (>= 1.6.dfsg.2), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.30), libnss3 (>= 3.26), libpango-1.0-0 (>= 1.14.0), libstdc++6 (>= 4.1.1), libstdc++6 (>= 5), libstdc++6 (>= 5.2), libstdc++6 (>= 6), libx11-6, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxkbfile1 (>= 1:1.1.0), libxrandr2, xdg-utils (>= 1.0.2)
 Recommends: libvulkan1
 Conflicts: visual-studio-code
 Replaces: visual-studio-code
-Filename: development/code/code_1.90.0-1717529971_arm64.deb
-Size: 94514190
-MD5sum: bc863299827c3b490eff4fec5e39cca4
-SHA1: a41169d8f7e335d644246833093d31e72d325daf
-SHA256: 5de0d9a4d2cd57dffa57c87b5d3dea7435b2f82b69e4f01d1b6c7f6290d6e9f5
-SHA512: 113add7450666f7648d3979a18b63209c774c306e39563b3864e82149e19a4a8dd02ac0074a252574e07c45e6009e9763288441a3af6ef010899d8c5e78f1cfe
+Filename: development/code/code_1.90.1-1718139718_arm64.deb
+Size: 94514238
+MD5sum: 1d06ed64f4fd9344536c733319be130b
+SHA1: 548ab7235c3e52e5b832b1ae5c36d4e369f2eb8b
+SHA256: 55d55b2190bbb006be27520240357215b6e276a2630543abe2ed4c80a717d3b2
+SHA512: e5e6714d4273b44c2db09b8f28a4264fffc19f44541ade5894c0b9e24438c5ce765e33f5e4f90b441ffdfdf64ac667e722040f9c7e93a81e4597de01aa6f9ed8
 Homepage: https://code.visualstudio.com/
 Description: Code editing. Redefined.
  Visual Studio Code is a new choice of tool that combines the simplicity of
@@ -8020,27 +8020,6 @@ MD5sum: 6f0ffc87a2898c24ab18d8a91eee5457
 SHA1: 92aabf4d9d79483be95baf5673d0e0bebdec2473
 SHA256: a82dde51cdc7b359e895926101db34431fad0250ff011dec706c66700f1db44c
 SHA512: cc3b9e4ed14a315432fa9d33cce7b211b8f22df1ac672b7e7125783ccc0822e92b9ea190e0f0d551070c7e35c91cdbd9d56e0320f619f84edb79e93e142ace4d
-Homepage: https://im.qq.com
-Description: 
-  QQ
-License: unknown
-Vendor: Tencent <QQ-Team@tencent.com>
-
-Package: linuxqq
-Architecture: arm64
-Version: 3.2.9-24568
-Priority: optional
-Section: default
-Maintainer: Tencent <QQ-Team@tencent.com>
-Installed-Size: 533695
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: chat/linuxqq/linuxqq_3.2.9-24568_arm64.deb
-Size: 145934128
-MD5sum: 01d6e0e617e330d15123a30efe008494
-SHA1: fc0a6a45b2211a52f8b3116500979de9988b5d31
-SHA256: c19c9a22425d183bc8c3c3eb4653a22a9a37add7842e5c5804fc92ea595b2f8c
-SHA512: 930a190afac76da315385dde004ace0cb1982b5dc3d3729a17450fc11bc155b509d25ea517861662cb55cb726d61097b46ca17cf04b46868f60f66bbf442c622
 Homepage: https://im.qq.com
 Description: 
   QQ
