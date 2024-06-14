@@ -28108,6 +28108,21 @@ Description: Open Source And Powerful Web Broswer;Fredoong打包自用的"可软
 
 Package: filezilla-spark
 Architecture: amd64
+Version: 3.67.0
+Priority: optional
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 30280
+Filename: network/filezilla-spark/filezilla-spark_3.67.0_amd64.deb
+Size: 12048620
+MD5sum: 476c951f8b5d0395cba5af76752ecf6f
+SHA1: fc0b7c9199fe2de3efdca4ca42bdd5aded52036a
+SHA256: ae35a67186d7a41c2bfda90c6eb073e1d1d8916f00233c037427b781e26ca1b7
+SHA512: 3e4f1bb2fa1daf1aaef06553b0737cc7b3b788241eb2b801f920a21adcf7bf3e1d8a5106e097868111f47cbd3b42c79fe13f74e0771fc40847862146fdc01208
+Homepage: https://www.filezilla.cn/
+Description: Full-featured graphical FTP/FTPS/SFTP client
+
+Package: filezilla-spark
+Architecture: amd64
 Version: 3.66.5
 Priority: optional
 Maintainer: shenmo <shenmo@spark-app.store>

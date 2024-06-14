@@ -150,23 +150,6 @@
 
 ,
 {
-    "Name": "右键刷新插件",
-    "Version": "1.1",
-    "Filename": "sm-refresh_1.1_all.deb",
-    "Torrent_address": "sm-refresh_1.1_all.deb.torrent",
-    "Pkgname": "sm-refresh",
-    "Author": "shenmo <jifengshenmo@outlook.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "http://blog.shenmo.tech",
-    "Update": "2023-04-27 21:26:53",
-    "Size": "12.14 KB",
-    "More": "深度右键刷新插件,请在星火商店的应用详情页面卸载或输入\nsudo apt purge sm-refresh -y\n更新内容：\n支持了非中文环境下显示为Refresh\n改预依赖为普通依赖以便处理\n\n修复了可能的失效问题",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/775d81a1fd4a43d49ce520dc67f65358.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/ca7f8baea5d046d7acbf004b6492de39.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/27/c81e2b152a3d4bb7bf3778b61cd1232f.png"
-}
-,
-{
     "Name": "Ventoy",
     "Version": "1.0.96",
     "Filename": "fydur-ventoy_1.0.96_all.deb",
@@ -181,6 +164,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/93b9cbc852bc478184f0790e15fccdc7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/70b8d0c8faa048b2bd9080788524ffd1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/09/fa9d31f3703f4ecbadd9a4dc4f3fa31f.png"
+}
+,
+{
+    "Name": "右键刷新插件",
+    "Version": "1.1",
+    "Filename": "sm-refresh_1.1_all.deb",
+    "Torrent_address": "sm-refresh_1.1_all.deb.torrent",
+    "Pkgname": "sm-refresh",
+    "Author": "shenmo <jifengshenmo@outlook.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "http://blog.shenmo.tech",
+    "Update": "2023-04-27 21:26:53",
+    "Size": "12.14 KB",
+    "More": "深度右键刷新插件,请在星火商店的应用详情页面卸载或输入\nsudo apt purge sm-refresh -y\n更新内容：\n支持了非中文环境下显示为Refresh\n改预依赖为普通依赖以便处理\n\n修复了可能的失效问题",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/775d81a1fd4a43d49ce520dc67f65358.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/ca7f8baea5d046d7acbf004b6492de39.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/27/c81e2b152a3d4bb7bf3778b61cd1232f.png"
 }
 ,
 {
@@ -655,22 +655,6 @@
 
 ,
 {
-    "Name": "桌面快捷方式编辑器",
-    "Version": "1.4.5+1",
-    "Filename": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.5_plus_1_amd64.deb",
-    "Pkgname": "com.gitee.deepin-opensource.desktop-entry-editor",
-    "Author": "linuxdeepin / zty199",
-    "Contributor": "zty199",
-    "Website": "https://gitee.com/deepin-opensource/desktop-entry-editor",
-    "Update": "2021-04-19 03:26:08",
-    "Size": "71.16 KB",
-    "More": "桌面快捷方式编辑器，帮助你快速创建桌面快捷方式，支持修改、另存为等基本文件操作。\n\n【更新日志】\nv1.4.5\n1. 重构部分代码，使用信号槽函数取代直接操作私有成员；\n2. 重新在 UOS 个人版 1030 系统中使用 Qt 5.11.3 进行编译，修复兼容性。",
-    "Tags": "community;deepin;uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a3938df0-a07b-11eb-82a7-f56bde74eca0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a5aeccd0-a07b-11eb-82a7-f56bde74eca0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a79a7030-a07b-11eb-82a7-f56bde74eca0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/19/9f9229f0-a07b-11eb-82a7-f56bde74eca0.png"
-}
-,
-{
     "Name": "玲珑应用商店",
     "Version": "1.2.5",
     "Filename": "linglong-store_1.2.5_amd64.deb",
@@ -685,6 +669,22 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/4c73f1273f4f4fa9b95bee6fbf6e1d07.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/da5cdd61904d491eaf2c6fdb157dbd68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/7b2822768d80441ca7fd3aecdc0d7b71.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/278fec555e5e462b995081618f89d5fc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/8569486375cb48a79b09f634c8b24074.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/2328460f2fab417f84648541c74cdad3.png"
+}
+,
+{
+    "Name": "桌面快捷方式编辑器",
+    "Version": "1.4.5+1",
+    "Filename": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.5_plus_1_amd64.deb",
+    "Pkgname": "com.gitee.deepin-opensource.desktop-entry-editor",
+    "Author": "linuxdeepin / zty199",
+    "Contributor": "zty199",
+    "Website": "https://gitee.com/deepin-opensource/desktop-entry-editor",
+    "Update": "2021-04-19 03:26:08",
+    "Size": "71.16 KB",
+    "More": "桌面快捷方式编辑器，帮助你快速创建桌面快捷方式，支持修改、另存为等基本文件操作。\n\n【更新日志】\nv1.4.5\n1. 重构部分代码，使用信号槽函数取代直接操作私有成员；\n2. 重新在 UOS 个人版 1030 系统中使用 Qt 5.11.3 进行编译，修复兼容性。",
+    "Tags": "community;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a3938df0-a07b-11eb-82a7-f56bde74eca0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a5aeccd0-a07b-11eb-82a7-f56bde74eca0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a79a7030-a07b-11eb-82a7-f56bde74eca0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/19/9f9229f0-a07b-11eb-82a7-f56bde74eca0.png"
 }
 ,
 {
