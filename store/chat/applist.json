@@ -327,35 +327,19 @@
 ,
 {
     "Name": "Discord",
-    "Version": "0.0.55",
-    "Filename": "discord_0.0.55_amd64.deb",
-    "Torrent_address": "discord_0.0.55_amd64.deb.torrent",
+    "Version": "0.0.56",
+    "Filename": "discord_0.0.56_amd64.deb",
+    "Torrent_address": "discord_0.0.56_amd64.deb.torrent",
     "Pkgname": "discord",
     "Author": "Discord Maintainer Team <native-team@discord.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Website": "https://discord.com",
-    "Update": "2024-06-06 19:04:56",
-    "Size": "71.39 MB",
+    "Update": "2024-06-14 16:44:01",
+    "Size": "96.28 MB",
     "More": "Discord，聊天软件，是一家游戏聊天应用与社区，Discord从游戏语音、IM工具服务起家，随后转向直播平台，进而开设游戏商店的社区平台，成为游戏玩家在游戏中沟通协作的首选工具。",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/06/e6100b6c9e7747e7bcbc0ddbcf2f431c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/06/d404f65a82f64a65948bff9e5b684f09.png"
-}
-,
-{
-    "Name": "Freechat版微信",
-    "Version": "1.0.0-8",
-    "Filename": "freechat-spark_1.0.0-8_amd64.deb",
-    "Pkgname": "freechat-spark",
-    "Author": "JoveYu",
-    "Contributor": "shenmo",
-    "Website": "https://aur.archlinux.org/packages/freechat-uos/",
-    "Update": "2021-10-28 21:08:25",
-    "Size": "51.85 MB",
-    "More": "根据freechat-uos魔改的deb包 \n不知什么原因，在某些机器上会提示版本过低 \n如果不行就试试官方的微信Linux \n这两个一般不会同时好用 \n\n另：这两者也不共存，安装一个之前需要先卸载另一个",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/28/fb8ac5d0-37ef-11ec-ab9c-c1d54f4fef81.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/28/0b44cde0-37f0-11ec-ab9c-c1d54f4fef81.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/28/e9df9c20-37ef-11ec-ab9c-c1d54f4fef81.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/14/b2a3a3ffda424d7abb78afe9706a84fb.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/14/ea701afa5b1d412f828655ebb881da66.png"
 }
 ,
 {
@@ -373,6 +357,22 @@
     "Tags": "ubuntu;dtk5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/23/456b2de0-c2f9-11ec-880f-b31b6f9c6273.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/23/4573b960-c2f9-11ec-880f-b31b6f9c6273.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/23/0e018a70-c2f9-11ec-880f-b31b6f9c6273.png"
+}
+,
+{
+    "Name": "Freechat版微信",
+    "Version": "1.0.0-8",
+    "Filename": "freechat-spark_1.0.0-8_amd64.deb",
+    "Pkgname": "freechat-spark",
+    "Author": "JoveYu",
+    "Contributor": "shenmo",
+    "Website": "https://aur.archlinux.org/packages/freechat-uos/",
+    "Update": "2021-10-28 21:08:25",
+    "Size": "51.85 MB",
+    "More": "根据freechat-uos魔改的deb包 \n不知什么原因，在某些机器上会提示版本过低 \n如果不行就试试官方的微信Linux \n这两个一般不会同时好用 \n\n另：这两者也不共存，安装一个之前需要先卸载另一个",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/28/fb8ac5d0-37ef-11ec-ab9c-c1d54f4fef81.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/28/0b44cde0-37f0-11ec-ab9c-c1d54f4fef81.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/28/e9df9c20-37ef-11ec-ab9c-c1d54f4fef81.png"
 }
 ,
 {

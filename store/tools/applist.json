@@ -1063,23 +1063,6 @@
 }
 ,
 {
-    "Name": "爱思助手",
-    "Version": "1.0-1",
-    "Filename": "i4tools_1.0-1_i386.deb",
-    "Torrent_address": "i4tools_1.0-1_i386.deb.torrent",
-    "Pkgname": "i4tools",
-    "Author": "深圳市为爱普信息技术有限公司",
-    "Contributor": "深圳市为爱普信息技术有限公司",
-    "Website": "https://www.i4.cn/",
-    "Update": "2023-01-18 19:11:22",
-    "Size": "135.25 MB",
-    "More": "爱思助手的linux版本，苹果设备刷机，安装软件，传输文件\n",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/18/4d4af8a0-9720-11ed-8dbe-6d4a39cce878.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/18/4d83bbe0-9720-11ed-8dbe-6d4a39cce878.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/18/4d675a40-9720-11ed-8dbe-6d4a39cce878.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/18/4d9ff670-9720-11ed-8dbe-6d4a39cce878.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/18/b50ab980-9720-11ed-8dbe-6d4a39cce878.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/18/e2c009d0-971f-11ed-8dbe-6d4a39cce878.png"
-}
-,
-{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "uos-packaging-tools_1.2.1_all.deb",
@@ -1096,6 +1079,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_2.png\"]"
 }
 
+,
+{
+    "Name": "爱思助手",
+    "Version": "1.0-1",
+    "Filename": "i4tools_1.0-1_i386.deb",
+    "Torrent_address": "i4tools_1.0-1_i386.deb.torrent",
+    "Pkgname": "i4tools",
+    "Author": "深圳市为爱普信息技术有限公司",
+    "Contributor": "深圳市为爱普信息技术有限公司",
+    "Website": "https://www.i4.cn/",
+    "Update": "2023-01-18 19:11:22",
+    "Size": "135.25 MB",
+    "More": "爱思助手的linux版本，苹果设备刷机，安装软件，传输文件\n",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/18/4d4af8a0-9720-11ed-8dbe-6d4a39cce878.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/18/4d83bbe0-9720-11ed-8dbe-6d4a39cce878.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/18/4d675a40-9720-11ed-8dbe-6d4a39cce878.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/18/4d9ff670-9720-11ed-8dbe-6d4a39cce878.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/18/b50ab980-9720-11ed-8dbe-6d4a39cce878.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/18/e2c009d0-971f-11ed-8dbe-6d4a39cce878.png"
+}
 ,
 {
     "Name": "360终端安全防护系统",
@@ -1796,23 +1796,6 @@
 }
 ,
 {
-    "Name": "ES文件管理器",
-    "Version": "4.4.1.1",
-    "Filename": "uengine-dc-com.estrongs.android.pop_4.4.1.1_all.deb",
-    "Torrent_address": "uengine-dc-com.estrongs.android.pop_4.4.1.1_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.estrongs.android.pop",
-    "Author": "ES File Explorer",
-    "Contributor": "於泓锦 <2126791993@qq.com>",
-    "Website": "http://www.estrongs.com/",
-    "Update": "2023-09-29 20:48:57",
-    "Size": "38.9 MB",
-    "More": "填补UEngine这部分的空缺",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/44f62f2b63894098a68cfa496f05e3d0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/29/2c1f205a4d16446bb7f3eaccbe600006.png"
-}
-,
-{
     "Name": "WinSCP",
     "Version": "6.1.2Spark0",
     "Filename": "com.winscp.spark_6.1.2Spark0_i386.deb",
@@ -1827,6 +1810,23 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/15/06a48b80-6b1b-11ee-b518-4d7290b69353.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/15/fb212840-6b1a-11ee-b518-4d7290b69353.png"
+}
+,
+{
+    "Name": "ES文件管理器",
+    "Version": "4.4.1.1",
+    "Filename": "uengine-dc-com.estrongs.android.pop_4.4.1.1_all.deb",
+    "Torrent_address": "uengine-dc-com.estrongs.android.pop_4.4.1.1_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.estrongs.android.pop",
+    "Author": "ES File Explorer",
+    "Contributor": "於泓锦 <2126791993@qq.com>",
+    "Website": "http://www.estrongs.com/",
+    "Update": "2023-09-29 20:48:57",
+    "Size": "38.9 MB",
+    "More": "填补UEngine这部分的空缺",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/44f62f2b63894098a68cfa496f05e3d0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/29/2c1f205a4d16446bb7f3eaccbe600006.png"
 }
 ,
 {
@@ -2015,6 +2015,22 @@
 }
 ,
 {
+    "Name": "手机管理大师",
+    "Version": "1.0.0-1",
+    "Filename": "com.apowersoft.apowermanager_1.0.0-1_amd64.deb",
+    "Pkgname": "com.apowersoft.apowermanager",
+    "Author": "Apowersoft",
+    "Contributor": "shenmo",
+    "Website": "https://www.apowersoft.com/phone-manager",
+    "Update": "2021-12-12 00:26:39",
+    "Size": "56.27 MB",
+    "More": "轻松导入 、导出 、删除、存储各种文件资料 。支持在电脑大屏预览 、键盘操作 ，让您的照片 、视频 、 音乐触手可及 ， 短信 、 联系人 、 通话记录轻松传输 。\n",
+    "Tags": "uos;deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/12/34b6f1a0-5a9e-11ec-badd-874205411ce9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/12/34c23c40-5a9e-11ec-badd-874205411ce9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/12/31596ec0-5a9e-11ec-badd-874205411ce9.png"
+}
+,
+{
     "Name": "简易桌面悬浮时钟",
     "Version": "2.0.0",
     "Filename": "floatclock_2.0.0_amd64.deb",
@@ -2046,22 +2062,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/899a2001-8332-495f-929a-d1661b409a8f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/4d378646-2f4b-4e8b-af43-c245061dd647.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/e0041bf0-4f24-4137-9c6d-8f1804585585.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/114d744d-dc98-4b03-892f-8a2ffe1186b1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/22/58ded873-759c-405a-bceb-ba1610093b33.png"
-}
-,
-{
-    "Name": "手机管理大师",
-    "Version": "1.0.0-1",
-    "Filename": "com.apowersoft.apowermanager_1.0.0-1_amd64.deb",
-    "Pkgname": "com.apowersoft.apowermanager",
-    "Author": "Apowersoft",
-    "Contributor": "shenmo",
-    "Website": "https://www.apowersoft.com/phone-manager",
-    "Update": "2021-12-12 00:26:39",
-    "Size": "56.27 MB",
-    "More": "轻松导入 、导出 、删除、存储各种文件资料 。支持在电脑大屏预览 、键盘操作 ，让您的照片 、视频 、 音乐触手可及 ， 短信 、 联系人 、 通话记录轻松传输 。\n",
-    "Tags": "uos;deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/12/34b6f1a0-5a9e-11ec-badd-874205411ce9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/12/34c23c40-5a9e-11ec-badd-874205411ce9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/12/31596ec0-5a9e-11ec-badd-874205411ce9.png"
 }
 ,
 {
@@ -2349,23 +2349,6 @@
 }
 ,
 {
-    "Name": "系统传感器显示工具",
-    "Version": "1.2-20240429",
-    "Filename": "simple-sensor-monitor_1.2-20240429_amd64.deb",
-    "Torrent_address": "simple-sensor-monitor_1.2-20240429_amd64.deb.torrent",
-    "Pkgname": "simple-sensor-monitor",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/qt.mini-sensor-icon",
-    "Update": "2024-04-29 10:10:13",
-    "Size": "584.35 KB",
-    "More": "在配置面板填写 sensors -u 提供的 adapter适配器与 sensor 即可显示数据。 \n\nv1.0: 可显示温度(°C) 电压(V) 电流(A) 功耗(W) 等类型\nv1.1: 可设置刷新间隔，完善线程化的工作流模式\nv1.2: 左侧支持风扇与电图标\n\n风扇在 1000 RPM 时最低，3000 RPM 以上时很暴躁，所以以这个区间为准",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/80baba1166574aeda4311851af8db563.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a8b3f2a04b1f4ba78ed78e174beea988.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a55a9b6db67f4dd0a2989787d3225506.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/caad566997094294bf3e840cc29eb129.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/3f3c5ec56f2d43698b1019ab4b59f26c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/29/4ac0b574bd524ef0bc1865df9346fd05.png"
-}
-,
-{
     "Name": "GXDE 内核管理器 1.1.0",
     "Version": "1.1.0",
     "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
@@ -2380,6 +2363,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
+}
+,
+{
+    "Name": "系统传感器显示工具",
+    "Version": "1.2-20240429",
+    "Filename": "simple-sensor-monitor_1.2-20240429_amd64.deb",
+    "Torrent_address": "simple-sensor-monitor_1.2-20240429_amd64.deb.torrent",
+    "Pkgname": "simple-sensor-monitor",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/qt.mini-sensor-icon",
+    "Update": "2024-04-29 10:10:13",
+    "Size": "584.35 KB",
+    "More": "在配置面板填写 sensors -u 提供的 adapter适配器与 sensor 即可显示数据。 \n\nv1.0: 可显示温度(°C) 电压(V) 电流(A) 功耗(W) 等类型\nv1.1: 可设置刷新间隔，完善线程化的工作流模式\nv1.2: 左侧支持风扇与电图标\n\n风扇在 1000 RPM 时最低，3000 RPM 以上时很暴躁，所以以这个区间为准",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/80baba1166574aeda4311851af8db563.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a8b3f2a04b1f4ba78ed78e174beea988.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a55a9b6db67f4dd0a2989787d3225506.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/caad566997094294bf3e840cc29eb129.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/3f3c5ec56f2d43698b1019ab4b59f26c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/29/4ac0b574bd524ef0bc1865df9346fd05.png"
 }
 ,
 {
@@ -3068,6 +3068,23 @@
 }
 ,
 {
+    "Name": "通知中心天气小组件",
+    "Version": "0.1-1",
+    "Filename": "dde-widgets-weather-plugin_0.1-1_amd64.deb",
+    "Torrent_address": "dde-widgets-weather-plugin_0.1-1_amd64.deb.torrent",
+    "Pkgname": "dde-widgets-weather-plugin",
+    "Author": "linuxdeepin / zty199",
+    "Contributor": "zty199",
+    "Website": "https://github.com/zty199/dde-widgets-weather-plugin",
+    "Update": "2024-04-24 10:27:23",
+    "Size": "3.1 MB",
+    "More": "一个简单的通知中心天气小组件，基于和风天气开发服务开发。",
+    "Tags": "community;deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/4dcb79eff8654ae79b2984638ab7849c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/f1cd8bb207bb4f33b4de84d1f27688e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/b73a74a7b2cc4402a3918623d7d01278.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/a16b522362684bf8a7c72b08a676f017.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/24/574f62857e744d6db3046b8053364a02.png"
+}
+,
+{
     "Name": "换源宝贝",
     "Version": "1.01",
     "Filename": "com.huanyuanbaobei.spark_1.01_amd64.deb",
@@ -3148,23 +3165,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/24/3aa74ce0-76ab-11eb-b043-1321b17d460b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/24/4482f390-76ab-11eb-b043-1321b17d460b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/24/fe6f5880-76aa-11eb-b043-1321b17d460b.png"
-}
-,
-{
-    "Name": "通知中心天气小组件",
-    "Version": "0.1-1",
-    "Filename": "dde-widgets-weather-plugin_0.1-1_amd64.deb",
-    "Torrent_address": "dde-widgets-weather-plugin_0.1-1_amd64.deb.torrent",
-    "Pkgname": "dde-widgets-weather-plugin",
-    "Author": "linuxdeepin / zty199",
-    "Contributor": "zty199",
-    "Website": "https://github.com/zty199/dde-widgets-weather-plugin",
-    "Update": "2024-04-24 10:27:23",
-    "Size": "3.1 MB",
-    "More": "一个简单的通知中心天气小组件，基于和风天气开发服务开发。",
-    "Tags": "community;deepin;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/4dcb79eff8654ae79b2984638ab7849c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/f1cd8bb207bb4f33b4de84d1f27688e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/b73a74a7b2cc4402a3918623d7d01278.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/a16b522362684bf8a7c72b08a676f017.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/24/574f62857e744d6db3046b8053364a02.png"
 }
 ,
 {
@@ -4484,6 +4484,23 @@
 }
 ,
 {
+    "Name": "中学电路虚拟实验室",
+    "Version": "6.0spark1",
+    "Filename": "com.xunidianlu.deepin_6.0spark1_all.deb",
+    "Torrent_address": "com.xunidianlu.deepin_6.0spark1_all.deb.torrent",
+    "Pkgname": "com.xunidianlu.deepin",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://www.regsky.com/index.php?c=goods&a=info&zc_id=1296",
+    "Update": "2024-06-08 13:35:25",
+    "Size": "11.78 MB",
+    "More": "本软件为免安装绿色软件，无插件，双击即可运行。为中学物理电路仿真模拟（虚拟）软件，能象真实实验一样随意连接试验元件和导线，支持任意结构的单电源串联并联电路以及各种复杂电路实验的仿真模拟，有先进的画标准电路图功能，有多种强大而体贴的功能，是中学物理电路教学与学习的好工具，能增强中学生学习兴趣和效率，也可用于启蒙教育或作益智游戏。\n\n修改了容器名称，调整了标题栏",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/4440773453f242418bf7ca975b31711a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/ac836daee10846d19727b282881f930d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/8713ad25e8754e5197801a8969248281.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/010ebaa4ba2c4e22a5aae0b8fd8ef028.png"
+}
+,
+{
     "Name": "Soup",
     "Version": "0.0.1-20240312",
     "Filename": "com.gitee.zinface.soup_0.0.1-20240312_amd64.deb",
@@ -4535,23 +4552,6 @@
 }
 ,
 {
-    "Name": "中学电路虚拟实验室",
-    "Version": "6.0spark1",
-    "Filename": "com.xunidianlu.deepin_6.0spark1_all.deb",
-    "Torrent_address": "com.xunidianlu.deepin_6.0spark1_all.deb.torrent",
-    "Pkgname": "com.xunidianlu.deepin",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://www.regsky.com/index.php?c=goods&a=info&zc_id=1296",
-    "Update": "2024-06-08 13:35:25",
-    "Size": "11.78 MB",
-    "More": "本软件为免安装绿色软件，无插件，双击即可运行。为中学物理电路仿真模拟（虚拟）软件，能象真实实验一样随意连接试验元件和导线，支持任意结构的单电源串联并联电路以及各种复杂电路实验的仿真模拟，有先进的画标准电路图功能，有多种强大而体贴的功能，是中学物理电路教学与学习的好工具，能增强中学生学习兴趣和效率，也可用于启蒙教育或作益智游戏。\n\n修改了容器名称，调整了标题栏",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/4440773453f242418bf7ca975b31711a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/ac836daee10846d19727b282881f930d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/8713ad25e8754e5197801a8969248281.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/010ebaa4ba2c4e22a5aae0b8fd8ef028.png"
-}
-,
-{
     "Name": "Advanced PassGen",
     "Version": "2.4.0spark0",
     "Filename": "com.codedead.advanced-passgen.spark_2.4.0spark0_amd64.deb",
@@ -4583,6 +4583,23 @@
     "Tags": "community",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/583593b26b9741449ca7ba8789f76d73.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/a6712da25a2f473e84becf093fb845d4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/3e364e153b69436f8a450a0304090265.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/1343c23fd2b34f60885703b6472b56a4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/22/2a7cb8978cdc4c11b4a00ad3b8a23d02.png"
+}
+,
+{
+    "Name": "时钟大师",
+    "Version": "1.5-20240517",
+    "Filename": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb",
+    "Torrent_address": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb.torrent",
+    "Pkgname": "com.gitee.xinghuo.clock",
+    "Author": "夜行者",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gitee.com/xinghuowangluo/clockwidget",
+    "Update": "2024-06-08 09:33:03",
+    "Size": "54.19 KB",
+    "More": "桌面时钟圆形钟盘设计，钟盘内为星期、时间及日期显示。可设置圆环颜色、刻度及指针颜色，同时可以设置闹钟。",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/5e2984ccd58b425f82f553dc1cde8dcf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/c05fd447264b4d579157d087f7b929e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/d10a9b5894d247cf96413130496e8ead.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/17c17f17215047d69e2b19389ea120e3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/d6cd5c8c76fe4785865048fcdca8c748.png"
 }
 ,
 {
@@ -4702,23 +4719,6 @@
     "Tags": "deepin;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/11/3b5c6390-d82a-11ed-96e3-3560d378947d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/11/3ba4de40-d82a-11ed-96e3-3560d378947d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/11/79969090-d82a-11ed-96e3-3560d378947d.png"
-}
-,
-{
-    "Name": "时钟大师",
-    "Version": "1.5-20240517",
-    "Filename": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb",
-    "Torrent_address": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb.torrent",
-    "Pkgname": "com.gitee.xinghuo.clock",
-    "Author": "夜行者",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gitee.com/xinghuowangluo/clockwidget",
-    "Update": "2024-06-08 09:33:03",
-    "Size": "54.19 KB",
-    "More": "桌面时钟圆形钟盘设计，钟盘内为星期、时间及日期显示。可设置圆环颜色、刻度及指针颜色，同时可以设置闹钟。",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/5e2984ccd58b425f82f553dc1cde8dcf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/c05fd447264b4d579157d087f7b929e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/d10a9b5894d247cf96413130496e8ead.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/17c17f17215047d69e2b19389ea120e3.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/d6cd5c8c76fe4785865048fcdca8c748.png"
 }
 ,
 {

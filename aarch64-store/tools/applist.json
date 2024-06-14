@@ -696,24 +696,6 @@
 
 ,
 {
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "z-tools-base-apk-view_1.0-20230129_arm64.deb",
-    "More": "如图，但依赖于 aapt 工具",
-    "Name": "Apk 文件查看器",
-    "Pkgname": "z-tools-base-apk-view",
-    "Size": "819 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "z-tools-base-apk-view_1.0-20230129_arm64.deb.torrent",
-    "Update": "2023-03-06 20:57:22",
-    "Version": "1.0-20230129",
-    "Website": "https://gitee.com/zinface/z-tools",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-base-apk-view/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-base-apk-view/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-base-apk-view/screen_2.png\"]"
-}
-
-,
-{
     "Author": "he3",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "he3_2.0.0_arm64.deb",
@@ -728,6 +710,24 @@
     "Website": "https://github.com/h8r-dev/he3-client",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/he3/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/he3/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/he3/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/he3/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/he3/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/he3/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "z-tools-base-apk-view_1.0-20230129_arm64.deb",
+    "More": "如图，但依赖于 aapt 工具",
+    "Name": "Apk 文件查看器",
+    "Pkgname": "z-tools-base-apk-view",
+    "Size": "819 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "z-tools-base-apk-view_1.0-20230129_arm64.deb.torrent",
+    "Update": "2023-03-06 20:57:22",
+    "Version": "1.0-20230129",
+    "Website": "https://gitee.com/zinface/z-tools",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-base-apk-view/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-base-apk-view/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-base-apk-view/screen_2.png\"]"
 }
 
 ,
@@ -1128,6 +1128,24 @@
 
 ,
 {
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "gxde-kernel-manager_1.1.0_arm64.deb",
+    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！",
+    "Name": "GXDE 内核管理器 1.1.0",
+    "Pkgname": "gxde-kernel-manager",
+    "Size": "1113 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "gxde-kernel-manager_1.1.0_arm64.deb.torrent",
+    "Update": "2024-05-12 17:25:28",
+    "Version": "1.1.0",
+    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/gxde-kernel-manager/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/gxde-kernel-manager/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/gxde-kernel-manager/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/gxde-kernel-manager/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/gxde-kernel-manager/screen_4.png\"]"
+}
+
+,
+{
     "Author": "zty199 <zty2864@gmail.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb",
@@ -1304,24 +1322,6 @@
     "Website": "https://github.com/GerryFerdinandus/bittorrent-tracker-editor",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_3.png\"]"
-}
-
-,
-{
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "gxde-kernel-manager_1.1.0_arm64.deb",
-    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！",
-    "Name": "GXDE 内核管理器 1.1.0",
-    "Pkgname": "gxde-kernel-manager",
-    "Size": "1113 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "gxde-kernel-manager_1.1.0_arm64.deb.torrent",
-    "Update": "2024-05-12 17:25:28",
-    "Version": "1.1.0",
-    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/gxde-kernel-manager/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/gxde-kernel-manager/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/gxde-kernel-manager/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/gxde-kernel-manager/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/gxde-kernel-manager/screen_4.png\"]"
 }
 
 ,

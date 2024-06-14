@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="discord_0.0.56_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e1cad469d0e364f6cfc55bb67c412ad6</hash>
+				  
+				<hash type="sha1">86bced44413737f68dbd012c6c0be6e8681b5b0f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/chat/discord/discord_0.0.56_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/chat/discord/discord_0.0.56_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.spark-app.store/store/chat/discord/discord_0.0.56_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/chat/discord/discord_0.0.56_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/chat/discord/discord_0.0.56_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

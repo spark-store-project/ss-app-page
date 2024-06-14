@@ -1681,6 +1681,23 @@
 }
 ,
 {
+    "Name": "Trilium Notes",
+    "Version": "0.60.4",
+    "Filename": "trilium_0.60.4_amd64.deb",
+    "Torrent_address": "trilium_0.60.4_amd64.deb.torrent",
+    "Pkgname": "trilium",
+    "Author": "zadam",
+    "Contributor": "sgb76",
+    "Website": "https://github.com/zadam/trilium",
+    "Update": "2023-06-23 11:21:52",
+    "Size": "74.12 MB",
+    "More": "Trilium Notes是一款分层笔记应用程序，重点是构建大型个人知识库。\n\n--更新说明--\n升级为中文汉化版\n汉化作者主页：https://github.com/Nriver/trilium-translation",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/814b0ed006ac4a1ebc5345fd99308c6c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/32a85f43eab24288b8e070e0eb6b4515.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/fab705088a7b402e88fce61b435e974a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/23/52351e85420945758d81de25c56fa900.png"
+}
+,
+{
     "Name": "ediary笔记",
     "Version": "4.2.6",
     "Filename": "net.haoxg.ediary.spark_4.2.6_all.deb",
@@ -1730,23 +1747,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/11/45ba89b960294ea4b7e937dd024ac0d1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/11/7c8ed0c805af4ea988ae29e599b2fe95.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/11/54f835cf0c65493d957fbda180d5d7b7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/11/47c72461f7074fe7a7f12a3329629b6e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/11/86fddc1b31514571826094ee7f33d907.png"
-}
-,
-{
-    "Name": "Trilium Notes",
-    "Version": "0.60.4",
-    "Filename": "trilium_0.60.4_amd64.deb",
-    "Torrent_address": "trilium_0.60.4_amd64.deb.torrent",
-    "Pkgname": "trilium",
-    "Author": "zadam",
-    "Contributor": "sgb76",
-    "Website": "https://github.com/zadam/trilium",
-    "Update": "2023-06-23 11:21:52",
-    "Size": "74.12 MB",
-    "More": "Trilium Notes是一款分层笔记应用程序，重点是构建大型个人知识库。\n\n--更新说明--\n升级为中文汉化版\n汉化作者主页：https://github.com/Nriver/trilium-translation",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/814b0ed006ac4a1ebc5345fd99308c6c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/32a85f43eab24288b8e070e0eb6b4515.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/fab705088a7b402e88fce61b435e974a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/23/52351e85420945758d81de25c56fa900.png"
 }
 ,
 {
@@ -2368,6 +2368,23 @@
 }
 ,
 {
+    "Name": "文华财经软件通用版(wine)",
+    "Version": "6.0.0",
+    "Filename": "spark.mytrader.wine_6.0.0_all.deb",
+    "Torrent_address": "spark.mytrader.wine_6.0.0_all.deb.torrent",
+    "Pkgname": "spark.mytrader.wine",
+    "Author": "LFRon",
+    "Contributor": "LFRon",
+    "Website": "https://wh6.wenhua.com.cn/",
+    "Update": "2023-11-17 19:54:05",
+    "Size": "343.02 MB",
+    "More": "文华财经分析软件,使用spark-wine8运行\n\n已知问题:1.部分地方UI错位\n2.部分地方字体比较奇怪\n3.Deepin-v23无法直接安装,需要使用wine运行器解压deb包里的wine容器到其他目录,然后手动下载spark-wine8最新版运行本程序",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/17/8c6cc67b2c2443e4b28d30b83afe264e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/17/3b007ee4806b40bbac5e71bb8d9b3d7b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/17/d3da564ed7c747d18bd919505310f5d5.png"
+}
+,
+{
     "Name": "Li文件浏览器",
     "Version": "24.6.7~beta",
     "Filename": "lwleen-file_24.6.7~beta_amd64.deb",
@@ -2415,23 +2432,6 @@
     "Tags": "deepin;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/638039f0-71b1-11eb-a0c6-abf730c6cbfd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/6968ad70-71b1-11eb-a0c6-abf730c6cbfd.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/18/5d04d540-71b1-11eb-a0c6-abf730c6cbfd.png"
-}
-,
-{
-    "Name": "文华财经软件通用版(wine)",
-    "Version": "6.0.0",
-    "Filename": "spark.mytrader.wine_6.0.0_all.deb",
-    "Torrent_address": "spark.mytrader.wine_6.0.0_all.deb.torrent",
-    "Pkgname": "spark.mytrader.wine",
-    "Author": "LFRon",
-    "Contributor": "LFRon",
-    "Website": "https://wh6.wenhua.com.cn/",
-    "Update": "2023-11-17 19:54:05",
-    "Size": "343.02 MB",
-    "More": "文华财经分析软件,使用spark-wine8运行\n\n已知问题:1.部分地方UI错位\n2.部分地方字体比较奇怪\n3.Deepin-v23无法直接安装,需要使用wine运行器解压deb包里的wine容器到其他目录,然后手动下载spark-wine8最新版运行本程序",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/17/8c6cc67b2c2443e4b28d30b83afe264e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/17/3b007ee4806b40bbac5e71bb8d9b3d7b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/17/d3da564ed7c747d18bd919505310f5d5.png"
 }
 ,
 {
@@ -2553,6 +2553,23 @@
 }
 ,
 {
+    "Name": "千牛",
+    "Version": "9.8.211",
+    "Filename": "uengine-dc-com.taobao.qianniu_9.8.211_all.deb",
+    "Torrent_address": "uengine-dc-com.taobao.qianniu_9.8.211_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.taobao.qianniu",
+    "Author": "浙江淘宝网络有限公司",
+    "Contributor": "菜鸟",
+    "Website": "https://work.taobao.com/?at_iframe=1",
+    "Update": "2024-03-02 18:07:43",
+    "Size": "136.4 MB",
+    "More": "一站式商家工作台，满足商家全场景经营诉求",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/02/9ec59a10ac854f308fc63b43462aae37.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/02/e9396997d2924592b31f37f352d215db.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/02/16df933531c3487790b1869e705bbe06.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/02/721eb3531d4b429193f4ce85096e4e3d.png"
+}
+,
+{
     "Name": "全球学术快报",
     "Version": "0.2.31spark0",
     "Filename": "net.cnki.cnkiexpress.spark_0.2.31spark0_amd64.deb",
@@ -2586,23 +2603,6 @@
 }
 ,
 {
-    "Name": "千牛",
-    "Version": "9.8.211",
-    "Filename": "uengine-dc-com.taobao.qianniu_9.8.211_all.deb",
-    "Torrent_address": "uengine-dc-com.taobao.qianniu_9.8.211_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.taobao.qianniu",
-    "Author": "浙江淘宝网络有限公司",
-    "Contributor": "菜鸟",
-    "Website": "https://work.taobao.com/?at_iframe=1",
-    "Update": "2024-03-02 18:07:43",
-    "Size": "136.4 MB",
-    "More": "一站式商家工作台，满足商家全场景经营诉求",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/02/9ec59a10ac854f308fc63b43462aae37.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/02/e9396997d2924592b31f37f352d215db.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/02/16df933531c3487790b1869e705bbe06.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/02/721eb3531d4b429193f4ce85096e4e3d.png"
-}
-,
-{
     "Name": "搜狗输入法UOS版语言数据包",
     "Version": "1.0.0",
     "Filename": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb",
@@ -2617,6 +2617,23 @@
     "Tags": "uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/442ae1d904d449249264283f3df7cd1f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/dbc5adabad134395874f57c34aa9ffe2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/3043006c16644596818679607634c83c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/8da17b09e48d4450b3a4000646d53d31.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/bd8e4b080a744d7da23846b40f5af8d4.png"
+}
+,
+{
+    "Name": "电子档案管理系统",
+    "Version": "2022.10.18-7",
+    "Filename": "com.hsl.amis_2022.10.18-7_amd64.deb",
+    "Torrent_address": "com.hsl.amis_2022.10.18-7_amd64.deb.torrent",
+    "Pkgname": "com.hsl.amis",
+    "Author": "028-87670336 15884401691",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "不知道",
+    "Update": "2023-05-30 22:18:39",
+    "Size": "55.16 MB",
+    "More": "1、支持文书档案、科技档案、党员档案、干部人事档案、会计档案等多种类型档案；\n2、支持国产操作系统，数据可以在各操作系统之间无缝迁移；\n3、支持档案收集、档案管理、档案利用、档案检索、全文检索；\n4、支持通过网络查询档案和全文检索档案，在线浏览PDF、ODF、JPG电子文件；\n5、支持多全宗、自定义档案类型、档案条目、档案报表等；\n6、支持EXCEL导入、导出档案目录，批量挂接电子文件；\n7、功能强大、数据配置灵活，适应各类型的档案；\n8、界面清晰,容易上手；\n9、电话：028-87670336，15884401691（微信同号）",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/34e2cc284587418dad37fbd7ebee2bfa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/06e778c904a34b16993167090ed8430b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/492416581292491da172a665316072c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/17cf7932aa654c5ca2829a23413e608e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/fdc889d3c24b40379d4154c39e4ac4d0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/30/a60bfd2f1f884ee39502f8168338e8db.png"
 }
 ,
 {
@@ -2685,23 +2702,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/ff3e23595a5d48fa981fbb70217c9fb0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/06c89c71e90d435ca4735ef3b4d96e70.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/27/041ee6aa8dbc4b048ff8c877f28e7283.png"
-}
-,
-{
-    "Name": "电子档案管理系统",
-    "Version": "2022.10.18-7",
-    "Filename": "com.hsl.amis_2022.10.18-7_amd64.deb",
-    "Torrent_address": "com.hsl.amis_2022.10.18-7_amd64.deb.torrent",
-    "Pkgname": "com.hsl.amis",
-    "Author": "028-87670336 15884401691",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "不知道",
-    "Update": "2023-05-30 22:18:39",
-    "Size": "55.16 MB",
-    "More": "1、支持文书档案、科技档案、党员档案、干部人事档案、会计档案等多种类型档案；\n2、支持国产操作系统，数据可以在各操作系统之间无缝迁移；\n3、支持档案收集、档案管理、档案利用、档案检索、全文检索；\n4、支持通过网络查询档案和全文检索档案，在线浏览PDF、ODF、JPG电子文件；\n5、支持多全宗、自定义档案类型、档案条目、档案报表等；\n6、支持EXCEL导入、导出档案目录，批量挂接电子文件；\n7、功能强大、数据配置灵活，适应各类型的档案；\n8、界面清晰,容易上手；\n9、电话：028-87670336，15884401691（微信同号）",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/34e2cc284587418dad37fbd7ebee2bfa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/06e778c904a34b16993167090ed8430b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/492416581292491da172a665316072c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/17cf7932aa654c5ca2829a23413e608e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/fdc889d3c24b40379d4154c39e4ac4d0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/30/a60bfd2f1f884ee39502f8168338e8db.png"
 }
 ,
 {
@@ -3122,6 +3122,23 @@
 }
 ,
 {
+    "Name": "WPS Office 2016",
+    "Version": "10.1.0.6757spark1",
+    "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
+    "Torrent_address": "wps-office-2016_10.1.0.6757spark1_amd64.deb.torrent",
+    "Pkgname": "wps-office-2016",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://wps-community.org",
+    "Update": "2024-05-19 16:58:39",
+    "Size": "129.41 MB",
+    "More": "WPS Office 2016 旧版本，三组件分别独立，资源占用更小，支持类 office 2003 经典界面\n云同步功能依旧可用\n与现行的 WPS Office， 2019 冲突",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
+}
+,
+{
     "Name": "安道白板",
     "Version": "2.0.0.2",
     "Filename": "com.amdox.board_2.0.0.2_amd64.deb",
@@ -3221,23 +3238,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/7841ae10675e4bf493d36e361f375b89.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/173f4e73c81f495a9fd461403bf44536.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/170981f23ecb410c91fe2339d99de7e3.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/30/1b44705704664aaf81f2a6247c4472f2.png"
-}
-,
-{
-    "Name": "WPS Office 2016",
-    "Version": "10.1.0.6757spark1",
-    "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
-    "Torrent_address": "wps-office-2016_10.1.0.6757spark1_amd64.deb.torrent",
-    "Pkgname": "wps-office-2016",
-    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://wps-community.org",
-    "Update": "2024-05-19 16:58:39",
-    "Size": "129.41 MB",
-    "More": "WPS Office 2016 旧版本，三组件分别独立，资源占用更小，支持类 office 2003 经典界面\n云同步功能依旧可用\n与现行的 WPS Office， 2019 冲突",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
 }
 ,
 {

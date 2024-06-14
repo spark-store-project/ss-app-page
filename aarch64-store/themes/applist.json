@@ -286,6 +286,24 @@
 
 ,
 {
+    "Author": "Tonny",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.uniontech.theme.infinitecontrol_1.0.5_all.deb",
+    "More": "获奖主题作品——‘无限’主题大赛获奖作品",
+    "Name": "T 主题套组",
+    "Pkgname": "com.uniontech.theme.infinitecontrol",
+    "Size": "3353 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "com.uniontech.theme.infinitecontrol_1.0.5_all.deb.torrent",
+    "Update": "2024-06-11 20:46:47",
+    "Version": "1.0.5",
+    "Website": "https://bbs.deepin.org.cn/zh/post/273057",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/themes/com.uniontech.theme.infinitecontrol/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/themes/com.uniontech.theme.infinitecontrol/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/themes/com.uniontech.theme.infinitecontrol/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/themes/com.uniontech.theme.infinitecontrol/screen_3.png\"]"
+}
+
+,
+{
     "Author": "lidanger <lidanger@xxx.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "fcitx-ui-deepin-v20_1:0.1-2_all.deb",
@@ -318,24 +336,6 @@
     "Website": "https://www.deepin.org/",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/deepin-wallpapers-bbs-spark/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/deepin-wallpapers-bbs-spark/screen_1.png\"]"
-}
-
-,
-{
-    "Author": "Tonny",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.uniontech.theme.infinitecontrol_1.0.5_all.deb",
-    "More": "获奖主题作品——‘无限’主题大赛获奖作品",
-    "Name": "T 主题套组",
-    "Pkgname": "com.uniontech.theme.infinitecontrol",
-    "Size": "3353 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "com.uniontech.theme.infinitecontrol_1.0.5_all.deb.torrent",
-    "Update": "2024-06-11 20:46:47",
-    "Version": "1.0.5",
-    "Website": "https://bbs.deepin.org.cn/zh/post/273057",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/themes/com.uniontech.theme.infinitecontrol/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/themes/com.uniontech.theme.infinitecontrol/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/themes/com.uniontech.theme.infinitecontrol/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/themes/com.uniontech.theme.infinitecontrol/screen_3.png\"]"
 }
 
 ,
@@ -412,24 +412,6 @@
 
 ,
 {
-    "Author": "sgb76 <sgb76@163.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "candy-icons.spark_1.0spark0_all.deb",
-    "More": "一套甜蜜的渐变图标主题",
-    "Name": "Candy图标主题",
-    "Pkgname": "candy-icons.spark",
-    "Size": "899 Kb",
-    "Tags": "deepin",
-    "Torrent_address": "candy-icons.spark_1.0spark0_all.deb.torrent",
-    "Update": "2023-03-07 22:06:31",
-    "Version": "1.0spark0",
-    "Website": "https://github.com/EliverLara/candy-icons",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/candy-icons.spark/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/candy-icons.spark/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/candy-icons.spark/screen_2.png\"]"
-}
-
-,
-{
     "Author": "liuminghang <liuminghang0821@gmail.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "fantascene-v23_1.7.0_arm64.deb",
@@ -444,6 +426,24 @@
     "Website": "http://github.com/dependon",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/themes/fantascene-v23/icon.png",
     "img_urls": "[]"
+}
+
+,
+{
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "candy-icons.spark_1.0spark0_all.deb",
+    "More": "一套甜蜜的渐变图标主题",
+    "Name": "Candy图标主题",
+    "Pkgname": "candy-icons.spark",
+    "Size": "899 Kb",
+    "Tags": "deepin",
+    "Torrent_address": "candy-icons.spark_1.0spark0_all.deb.torrent",
+    "Update": "2023-03-07 22:06:31",
+    "Version": "1.0spark0",
+    "Website": "https://github.com/EliverLara/candy-icons",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/candy-icons.spark/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/candy-icons.spark/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/candy-icons.spark/screen_2.png\"]"
 }
 
 ,
