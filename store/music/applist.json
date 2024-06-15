@@ -374,23 +374,6 @@
 }
 ,
 {
-    "Name": "Cider",
-    "Version": "1.6.2-20230701.1",
-    "Filename": "cider_1.6.2-20230701.1_amd64.deb",
-    "Torrent_address": "cider_1.6.2-20230701.1_amd64.deb.torrent",
-    "Pkgname": "cider",
-    "Author": "Cider Collective <cryptofyre@cider.sh>",
-    "Contributor": "Cider Collective <cryptofyre@cider.sh>",
-    "Website": "https://cider.sh/",
-    "Update": "2024-01-15 17:54:48",
-    "Size": "91.35 MB",
-    "More": "一款开源的Apple Music播放器，支持Windows/Linux/macOS\nA new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind.",
-    "Tags": "ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/15/bd8b09c2360345b7b9f99d7865cb9466.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/15/191eb602df5f4d4e877af33cfee3d969.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/15/36f47381cb1348b7a2ac20ebe43d856a.png"
-}
-,
-{
     "Name": "MusicFree",
     "Version": "0.0.3",
     "Filename": "musicfree_0.0.3_amd64.deb",
@@ -405,6 +388,23 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/29/ba6c2cadec0b4c5bae57b84cc544fc4c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/29/310348f39ffb4c2684492f9e0b36d84b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/29/5c520b4f879a44b3a2dc81f877a6bf59.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/29/3c768e2486af42e0b5691b444150d85a.png"
+}
+,
+{
+    "Name": "Cider",
+    "Version": "1.6.2-20230701.1",
+    "Filename": "cider_1.6.2-20230701.1_amd64.deb",
+    "Torrent_address": "cider_1.6.2-20230701.1_amd64.deb.torrent",
+    "Pkgname": "cider",
+    "Author": "Cider Collective <cryptofyre@cider.sh>",
+    "Contributor": "Cider Collective <cryptofyre@cider.sh>",
+    "Website": "https://cider.sh/",
+    "Update": "2024-01-15 17:54:48",
+    "Size": "91.35 MB",
+    "More": "一款开源的Apple Music播放器，支持Windows/Linux/macOS\nA new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind.",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/15/bd8b09c2360345b7b9f99d7865cb9466.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/15/191eb602df5f4d4e877af33cfee3d969.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/15/36f47381cb1348b7a2ac20ebe43d856a.png"
 }
 ,
 {
@@ -1048,6 +1048,23 @@
 }
 ,
 {
+    "Name": "网易云音乐·X Studio",
+    "Version": "1.2.0spark0.1.2.0",
+    "Filename": "com.neteasecloudx.studio.spark_1.2.0spark0.1.2.0_all.deb",
+    "Torrent_address": "com.neteasecloudx.studio.spark_1.2.0spark0.1.2.0_all.deb.torrent",
+    "Pkgname": "com.neteasecloudx.studio.spark",
+    "Author": "zjh zjh97t@qq.com",
+    "Contributor": "zjh",
+    "Website": "https://xstudio.music.163.com/",
+    "Update": "2024-04-13 21:07:25",
+    "Size": "161.91 MB",
+    "More": "测试支持deepinwine8，这是我的第一个移植应用，祝你创作愉快！感谢使用！",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/13/d51684d337de474abe812e1d5c5011eb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/13/105db3f9a4da403cad721b115ff0e5fb.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/13/0d533a0438b347a18d760a1b6cf7eea9.png"
+}
+,
+{
     "Name": "mp3DirectCut",
     "Version": "2.36spark0",
     "Filename": "de.mpesch3.mp3directcut.spark_2.36spark0_amd64.deb",
@@ -1079,23 +1096,6 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/29/b85c2b0005c544bf921c9109d40d40c1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/29/44867699a82e4ba4832a1d546a301737.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/29/5b7e54209566444bbd9ec07be5fce957.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/29/17414a7011904abe8689eca2113cc253.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/29/a37a711076014a0a9e06740aadb14b7e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/29/b32887cbed5d46fe8c1c48ffd843ad53.png"
-}
-,
-{
-    "Name": "网易云音乐·X Studio",
-    "Version": "1.2.0spark0.1.2.0",
-    "Filename": "com.neteasecloudx.studio.spark_1.2.0spark0.1.2.0_all.deb",
-    "Torrent_address": "com.neteasecloudx.studio.spark_1.2.0spark0.1.2.0_all.deb.torrent",
-    "Pkgname": "com.neteasecloudx.studio.spark",
-    "Author": "zjh zjh97t@qq.com",
-    "Contributor": "zjh",
-    "Website": "https://xstudio.music.163.com/",
-    "Update": "2024-04-13 21:07:25",
-    "Size": "161.91 MB",
-    "More": "测试支持deepinwine8，这是我的第一个移植应用，祝你创作愉快！感谢使用！",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/13/d51684d337de474abe812e1d5c5011eb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/13/105db3f9a4da403cad721b115ff0e5fb.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/13/0d533a0438b347a18d760a1b6cf7eea9.png"
 }
 ,
 {

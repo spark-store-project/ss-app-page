@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.xinghuo.uos_1.0-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">389fbd5d3ad665282d6934c8741f8961</hash>
+				  
+				<hash type="sha1">97b97bcab89ef851552bb9d8a896f155856d86db</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/office/com.xinghuo.uos/com.xinghuo.uos_1.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.xinghuo.uos/com.xinghuo.uos_1.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://bdsm.spark-app.store/store/office/com.xinghuo.uos/com.xinghuo.uos_1.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.spark-app.store/store/office/com.xinghuo.uos/com.xinghuo.uos_1.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.xinghuo.uos/com.xinghuo.uos_1.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.xinghuo.uos/com.xinghuo.uos_1.0-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="daoke-reader_1.0.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1ce1f54f087dcebbedd40d7e82c73a76</hash>
+				  
+				<hash type="sha1">a62672682863acd61fc8b0ad9953a23522ea1043</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/reading/daoke-reader/daoke-reader_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/reading/daoke-reader/daoke-reader_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://bdsm.spark-app.store/store/reading/daoke-reader/daoke-reader_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.spark-app.store/store/reading/daoke-reader/daoke-reader_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/reading/daoke-reader/daoke-reader_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/reading/daoke-reader/daoke-reader_1.0.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

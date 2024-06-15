@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.kaspersky.www.kvrt_24.0.4.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">3138839ba3eca1b7f101d658c83196a7</hash>
+				  
+				<hash type="sha1">5fe0c8c9fcf84659b51fb111457aad60107f8a4a</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/tools/com.kaspersky.www.kvrt/com.kaspersky.www.kvrt_24.0.4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/com.kaspersky.www.kvrt/com.kaspersky.www.kvrt_24.0.4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://bdsm.spark-app.store/store/tools/com.kaspersky.www.kvrt/com.kaspersky.www.kvrt_24.0.4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.spark-app.store/store/tools/com.kaspersky.www.kvrt/com.kaspersky.www.kvrt_24.0.4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/com.kaspersky.www.kvrt/com.kaspersky.www.kvrt_24.0.4.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/com.kaspersky.www.kvrt/com.kaspersky.www.kvrt_24.0.4.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

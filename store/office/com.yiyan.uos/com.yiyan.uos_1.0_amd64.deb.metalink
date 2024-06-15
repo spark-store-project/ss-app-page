@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.yiyan.uos_1.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">2f2280884417c9953718b9a471f33c96</hash>
+				  
+				<hash type="sha1">a03364658b74d6ab266a392cb417c8b1393bec1f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/office/com.yiyan.uos/com.yiyan.uos_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.yiyan.uos/com.yiyan.uos_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://bdsm.spark-app.store/store/office/com.yiyan.uos/com.yiyan.uos_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.spark-app.store/store/office/com.yiyan.uos/com.yiyan.uos_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.yiyan.uos/com.yiyan.uos_1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.yiyan.uos/com.yiyan.uos_1.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

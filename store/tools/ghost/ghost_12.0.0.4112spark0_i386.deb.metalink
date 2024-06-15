@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="ghost_12.0.0.4112spark0_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">070a184c1a6590b0ba01f055e8959701</hash>
+				  
+				<hash type="sha1">bfdb525e851d072dee5762fa150d512c736a74b0</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/tools/ghost/ghost_12.0.0.4112spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/ghost/ghost_12.0.0.4112spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://bdsm.spark-app.store/store/tools/ghost/ghost_12.0.0.4112spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.spark-app.store/store/tools/ghost/ghost_12.0.0.4112spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/ghost/ghost_12.0.0.4112spark0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/ghost/ghost_12.0.0.4112spark0_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>
