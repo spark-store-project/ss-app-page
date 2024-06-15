@@ -7187,6 +7187,23 @@ SHA256: aa10da4974c9864c1da9346768c316cf2558e581535a2eca32b664f5ab8f7a3a
 SHA512: 7043abb363d3c334256e2acd19b25710cdf6f57025bfec6bc17806b793fd9d5603e9024abc41e8251a681204253236101520bf6488f10ca9953fc5fd7883a7ad
 Description: A tool for converting multi-sample from one format to another.
 
+Package: convertwithmoss
+Architecture: amd64
+Version: 10.0.0
+Priority: optional
+Section: misc
+Maintainer: Jürgen Moßgraber <Unknown>
+Installed-Size: 217882
+Provides: convertwithmoss
+Depends: libc6, xdg-utils
+Filename: tools/convertwithmoss/convertwithmoss_10.0.0_amd64.deb
+Size: 86234240
+MD5sum: b5a304ce1837620d308bf442d129b9e2
+SHA1: 962d10c04e12b8376e817ec53561998275a3b1a6
+SHA256: fa71201da1ddd3a88d799027e537465d3ca9663c0b1d71e0fd344e23746f5e7f
+SHA512: c2dc9a6f589ed681eb5e0242e7f17827cbb2b8d2c0d7ff42d99441e996f4c6590e3a6b4c13d90f126d4a62e9692a803830045a311d5f333a21b13462d6f60dfe
+Description: A tool for converting multi-sample from one format to another.
+
 Package: finalshell
 Architecture: amd64
 Version: 4.3.10
@@ -29474,6 +29491,26 @@ SHA256: f99a1a6d6a3ada9b71f64c4128612b68f3fdf9bfd7491dfba6299306d18cd2eb
 SHA512: 89fa711c2340c5322eea73bb1d87b2176949fff2c59a36c84023deb1ad8df57e6e619074f5fcf52d2a5b5973603bd16dcaff16f4bf9e8d13cdf61effe118eb74
 Description: The web browser from Microsoft
  Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
+
+Package: tailscale
+Architecture: amd64
+Version: 1.68.1
+Priority: extra
+Section: net
+Maintainer: Tailscale Inc <info@tailscale.com>
+Installed-Size: 49540
+Depends: iptables
+Recommends: tailscale-archive-keyring (>= 1.35.181), iproute2
+Conflicts: tailscale-relay
+Replaces: tailscale-relay
+Filename: network/tailscale/tailscale_1.68.1_amd64.deb
+Size: 27418958
+MD5sum: 2857f9127290f78edbcd99bd6a4b94c7
+SHA1: 014d7eac81b243ff33af8bee16826107494abc3f
+SHA256: 21e0b34b171908c2943594f82f442d673fdd2b2043e51791bbc9bdd8079d28f9
+SHA512: 0ab22bc9e43496c33222b2a8904f1e1c541192929ebae8b16e6aafab6a979989365c273249a2efb19c88252ea7029241031d54c618c1998b52afc7ab5385773a
+Homepage: https://www.tailscale.com
+Description: The easiest, most secure, cross platform way to use WireGuard + oauth2 + 2FA/SSO
 
 Package: tailscale
 Architecture: amd64

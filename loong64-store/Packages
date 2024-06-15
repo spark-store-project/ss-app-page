@@ -8174,6 +8174,22 @@ Description: The web browser from qianxin.com
 
 Package: io.github.msojocs.bilibili
 Architecture: loong64
+Version: 1.13.6-1
+Priority: optional
+Section: application
+Maintainer: msojocs
+Installed-Size: 361543
+Filename: video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.13.6-1_loong64.deb
+Size: 80844428
+MD5sum: efd77e73800184dd685b7af8615c5c55
+SHA1: 00177b8b009971dc16f41daaa5786712905c01cc
+SHA256: e960fcb34bcd325fa2704e38e22adc5a164c299e1d66c4ae8dbb8bfca2d14750
+SHA512: 2f9ea0704bfd55d5116aec72b96dba4668ed763b1c11040a1f4fffb938b9839f4e342cb590988455f7991221755b3a1ef3c7b69122345b11341529b8359f47f3
+Description: BiliBili For Linux.
+  BiliBili For Linux. This version is unofficial.
+
+Package: io.github.msojocs.bilibili
+Architecture: loong64
 Version: 1.13.5-2
 Priority: optional
 Section: application

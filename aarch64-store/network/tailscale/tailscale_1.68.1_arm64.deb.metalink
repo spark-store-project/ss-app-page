@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="tailscale_1.68.1_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c672a29ffa5b7b1a55ed45a82afbbb92</hash>
+				  
+				<hash type="sha1">4f3e9c9f189e6a665868bf65e25c302af2afeae8</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/aarch64-store/network/tailscale/tailscale_1.68.1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/network/tailscale/tailscale_1.68.1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://bdsm.spark-app.store/aarch64-store/network/tailscale/tailscale_1.68.1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.spark-app.store/aarch64-store/network/tailscale/tailscale_1.68.1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/network/tailscale/tailscale_1.68.1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/network/tailscale/tailscale_1.68.1_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

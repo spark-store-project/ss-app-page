@@ -352,23 +352,6 @@
 }
 ,
 {
-    "Name": "BookxNote Pro",
-    "Version": "2.0.0.1112",
-    "Filename": "com.bookxnote.pro_2.0.0.1112_amd64.deb",
-    "Torrent_address": "com.bookxnote.pro_2.0.0.1112_amd64.deb.torrent",
-    "Pkgname": "com.bookxnote.pro",
-    "Author": "布克思软件",
-    "Contributor": "shenmo",
-    "Website": "http://www.bookxnote.com",
-    "Update": "2023-08-07 18:47:49",
-    "Size": "338.15 MB",
-    "More": "笔记整理交给我，\n一心只读圣贤书。",
-    "Tags": "deepin;uos;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/07/6f329457df314cd8b399d9c574fe8ca5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/07/78f91fa40c0f45e7ab62e77d2de16538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/07/ad0f5409a75442c187f165095bc23b90.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/07/dbcf84a3986b4084ad3f2a669edc24f9.png"
-}
-,
-{
     "Name": "字帖生成器",
     "Version": "1.0.1089",
     "Filename": "copybook_1.0.1089_amd64.deb",
@@ -383,6 +366,23 @@
     "Tags": "community;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/2cb27b3762104a13a4c24241103ed610.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/944296a644184cc69938d56f3fbbf9ff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/57d0a862b6d441cebeba1ce24a35e8c9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/7ca4e1c861d6451494170b65d6ad3c8d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/6187d7b4df5644909322a18988d28da0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/29/127fae992f9747f1a56bfb080afb370d.png"
+}
+,
+{
+    "Name": "BookxNote Pro",
+    "Version": "2.0.0.1112",
+    "Filename": "com.bookxnote.pro_2.0.0.1112_amd64.deb",
+    "Torrent_address": "com.bookxnote.pro_2.0.0.1112_amd64.deb.torrent",
+    "Pkgname": "com.bookxnote.pro",
+    "Author": "布克思软件",
+    "Contributor": "shenmo",
+    "Website": "http://www.bookxnote.com",
+    "Update": "2023-08-07 18:47:49",
+    "Size": "338.15 MB",
+    "More": "笔记整理交给我，\n一心只读圣贤书。",
+    "Tags": "deepin;uos;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/07/6f329457df314cd8b399d9c574fe8ca5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/07/78f91fa40c0f45e7ab62e77d2de16538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/07/ad0f5409a75442c187f165095bc23b90.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/07/dbcf84a3986b4084ad3f2a669edc24f9.png"
 }
 ,
 {
@@ -633,22 +633,6 @@
 }
 ,
 {
-    "Name": "CuteTranslation",
-    "Version": "0.4.3-1",
-    "Filename": "cute-translation_0.4.3-1_amd64.deb",
-    "Pkgname": "cute-translation",
-    "Author": "moriv4",
-    "Contributor": "moriv4",
-    "Website": "https://github.com/jiangzc/CuteTranslation",
-    "Update": "2020-09-27 06:26:19",
-    "Size": "4.13 MB",
-    "More": "CuteTranslation是Linux系统上基于X11的一款取词翻译软件,帮助用户翻译多种语言的文字。",
-    "tags": "community;deepin;uos;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/27/23654ba0-008a-11eb-94b1-c71c459d6a5d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/27/237ec710-008a-11eb-94b1-c71c459d6a5d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/27/c4196410-0089-11eb-94b1-c71c459d6a5d.png"
-}
-,
-{
     "Name": "Reader",
     "Version": "2.0.0.4spark0",
     "Filename": "com.github.reader.spark_2.0.0.4spark0_all.deb",
@@ -663,6 +647,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/fc11d4927de44ca9b2f056daf47cc5ac.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/a984a9ae7afe4ce0915178c62c8061f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/34dcc6d436014e8e881de25f4de9eca8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/866a6baa5b9c424dac9f1875c60fbaa4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/02/579971895b15405f90085acbd82319fa.png"
+}
+,
+{
+    "Name": "CuteTranslation",
+    "Version": "0.4.3-1",
+    "Filename": "cute-translation_0.4.3-1_amd64.deb",
+    "Pkgname": "cute-translation",
+    "Author": "moriv4",
+    "Contributor": "moriv4",
+    "Website": "https://github.com/jiangzc/CuteTranslation",
+    "Update": "2020-09-27 06:26:19",
+    "Size": "4.13 MB",
+    "More": "CuteTranslation是Linux系统上基于X11的一款取词翻译软件,帮助用户翻译多种语言的文字。",
+    "tags": "community;deepin;uos;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/27/23654ba0-008a-11eb-94b1-c71c459d6a5d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/27/237ec710-008a-11eb-94b1-c71c459d6a5d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/27/c4196410-0089-11eb-94b1-c71c459d6a5d.png"
 }
 ,
 {

@@ -385,20 +385,6 @@
 
 ,
 {
-   "Name":"红色警戒",
-   "Version":"20200517",
-   "Filename":"RedAlertSimplifiedChinese-rasc_20200517-x86_64.deb",
-   "Pkgname":"openra-mods-rasc",
-   "Author":"OpenRA作战司令部",
-   "Contributor":"奇点法则",
-   "Website":"Q群：742982428",
-   "Update":"2020-07-26 01:00",
-   "Size":"41.63MB",
-   "More":"开源红警，国外制作的，OpenRA作战司令部属于汉化团队，奇点法则是搬运工"
-}
-
-,
-{
     "Name": "QQ游戏大厅",
     "Version": "1.0.3.2-1",
     "Filename": "com.qq.qqgames_1.0.3.2-1_all.deb",
@@ -414,6 +400,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/17/cea9eb3a47434b90bfba41018c09fac3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/17/0ccc140e2e084a42ae8d292b4e019c1a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/17/8a29a12cc91c4f7f8c558cb39f52b228.png"
 }
+,
+{
+   "Name":"红色警戒",
+   "Version":"20200517",
+   "Filename":"RedAlertSimplifiedChinese-rasc_20200517-x86_64.deb",
+   "Pkgname":"openra-mods-rasc",
+   "Author":"OpenRA作战司令部",
+   "Contributor":"奇点法则",
+   "Website":"Q群：742982428",
+   "Update":"2020-07-26 01:00",
+   "Size":"41.63MB",
+   "More":"开源红警，国外制作的，OpenRA作战司令部属于汉化团队，奇点法则是搬运工"
+}
+
 ,
 {
     "Name": "网易云游戏",
@@ -700,23 +700,6 @@
 }
 ,
 {
-    "Name": "战胜疫情：进化",
-    "Version": "1.19.1.0",
-    "Filename": "com.plagueincevolved.spark_1.19.1.0_all.deb",
-    "Torrent_address": "com.plagueincevolved.spark_1.19.1.0_all.deb.torrent",
-    "Pkgname": "com.plagueincevolved.spark",
-    "Author": "Ndemic Creations",
-    "Contributor": "John12138",
-    "Website": "https://www.ndemiccreations.com/",
-    "Update": "2023-06-29 11:30:09",
-    "Size": "677.27 MB",
-    "More": "本次更新版本1.19.1.0 64位版本，新增解药模式，官方场景更新至最新冰冻病毒\n《战胜疫情》是一款战略模拟游戏。游戏开始时，玩家拥有一种还没有人被感染过的病原体。玩家需要将病原体传播至整个世界。但是，人类科学家会研发解药，因此玩家还要赶在解药研发完或者开始研发之前完成目标。",
-    "Tags": "ubuntu;deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/29/15ab1f50df13481faf133af1e5818c7c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/29/a0099861431d48d294af79f16d1d18ca.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/29/f6cb68589cbb41d39c63a08a35bf82f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/29/cec283b8bc9143af8b1b92df61b9352f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/29/12cdb2d35cd946a98ce7732f4426c9fc.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/29/5bc06ab920354512847a47b89df81517.png"
-}
-,
-{
     "Name": "红色警戒2:兵临城下4",
     "Version": "1.2.0",
     "Filename": "deepin.ra2.enemyag4_1.2.0_all.deb",
@@ -731,6 +714,37 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/09/5c2696a1701744fea9346d8cd0406801.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/09/3beae462e60f4a0fa9d9122393d97ed0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/09/2db6e83df1d14f5bb391c120ae82c510.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/09/17220bc424054ec98139d9a793012049.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/09/5c6b9f860a244636a59c3707d2debbd5.png"
+}
+,
+{
+   "Name":"3D平衡球",
+   "Version":"1.13",
+   "Filename":"com.atari.ballance.dcs_1.13_i386.deb",
+   "Pkgname":"com.atari.ballance.dcs",
+   "Author":" ",
+   "Contributor":"zty199",
+   "Website":"https://www.atari.com",
+   "Update":"2020-07-03 17:25",
+   "Size":"45.13MB",
+   "More":"经典游戏《Ballance》（非官方译名“平衡球”“3D平衡球”等），由德国的Atari（雅达利）公司旗下的开发商Cyparade于2004年4月2日在PC平台发布的一款单机滚球游戏。在游戏中，玩家要操纵一个可以改变自身材料种类（即物理性质）的球在高空或太空中搭建的庞大而复杂的迷宫建筑中穿梭，避开陷阱机关并破解一个个谜题，最终到达终点飞船以完成一个关卡。游戏提供了13个难度大致递增的关卡供玩家探索。此外，搭载了非常还原、真实的物理引擎使得球的操纵手感非常接近对现实生活中的认知，玩家也能够充分体验重力对平衡性的影响。"
+}
+
+,
+{
+    "Name": "战胜疫情：进化",
+    "Version": "1.19.1.0",
+    "Filename": "com.plagueincevolved.spark_1.19.1.0_all.deb",
+    "Torrent_address": "com.plagueincevolved.spark_1.19.1.0_all.deb.torrent",
+    "Pkgname": "com.plagueincevolved.spark",
+    "Author": "Ndemic Creations",
+    "Contributor": "John12138",
+    "Website": "https://www.ndemiccreations.com/",
+    "Update": "2023-06-29 11:30:09",
+    "Size": "677.27 MB",
+    "More": "本次更新版本1.19.1.0 64位版本，新增解药模式，官方场景更新至最新冰冻病毒\n《战胜疫情》是一款战略模拟游戏。游戏开始时，玩家拥有一种还没有人被感染过的病原体。玩家需要将病原体传播至整个世界。但是，人类科学家会研发解药，因此玩家还要赶在解药研发完或者开始研发之前完成目标。",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/29/15ab1f50df13481faf133af1e5818c7c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/29/a0099861431d48d294af79f16d1d18ca.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/29/f6cb68589cbb41d39c63a08a35bf82f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/29/cec283b8bc9143af8b1b92df61b9352f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/29/12cdb2d35cd946a98ce7732f4426c9fc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/29/5bc06ab920354512847a47b89df81517.png"
 }
 ,
 {
@@ -749,20 +763,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/ba1aab70-d2ce-11ee-976f-0d73676bf873.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/bbc5ea70-d2ce-11ee-976f-0d73676bf873.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/bd161120-d2ce-11ee-976f-0d73676bf873.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/be809da0-d2ce-11ee-976f-0d73676bf873.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/c0228dd0-d2ce-11ee-976f-0d73676bf873.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/24/c138b8c0-d2ce-11ee-976f-0d73676bf873.png"
 }
-,
-{
-   "Name":"3D平衡球",
-   "Version":"1.13",
-   "Filename":"com.atari.ballance.dcs_1.13_i386.deb",
-   "Pkgname":"com.atari.ballance.dcs",
-   "Author":" ",
-   "Contributor":"zty199",
-   "Website":"https://www.atari.com",
-   "Update":"2020-07-03 17:25",
-   "Size":"45.13MB",
-   "More":"经典游戏《Ballance》（非官方译名“平衡球”“3D平衡球”等），由德国的Atari（雅达利）公司旗下的开发商Cyparade于2004年4月2日在PC平台发布的一款单机滚球游戏。在游戏中，玩家要操纵一个可以改变自身材料种类（即物理性质）的球在高空或太空中搭建的庞大而复杂的迷宫建筑中穿梭，避开陷阱机关并破解一个个谜题，最终到达终点飞船以完成一个关卡。游戏提供了13个难度大致递增的关卡供玩家探索。此外，搭载了非常还原、真实的物理引擎使得球的操纵手感非常接近对现实生活中的认知，玩家也能够充分体验重力对平衡性的影响。"
-}
-
 ,
 {
     "Name": "野狐围棋",
@@ -1016,21 +1016,22 @@
 }
 ,
 {
-    "Name": "RetroArch",
-    "Version": "1.16.0spark2",
-    "Filename": "com.retroarch.retroarch.spark_1.16.0spark2_amd64.deb",
-    "Torrent_address": "com.retroarch.retroarch.spark_1.16.0spark2_amd64.deb.torrent",
-    "Pkgname": "com.retroarch.retroarch.spark",
-    "Author": "RetroArch",
-    "Contributor": "sgb76",
-    "Website": "https://retroarch.com",
-    "Update": "2023-09-22 16:05:00",
-    "Size": "233.87 MB",
-    "More": "RetroArch 是一款功能强大的跨平台模拟器，不但能够模拟许多不同的游戏主机，还能在 Windows、MacOS、Linux、Android、iOS 以及多种游戏主机上运行。",
-    "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/22/136d5405fda340bf9e778abc68fec22f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/22/df470fba4d5d4a20be97f940e96ccb62.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/22/59a7eb3b302948a4838bf4cbc7722245.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/22/d58cef1d2b05476b8bfa160cc1172f7d.png"
+    "Author": "shenmo@spark-app.store",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.pvzhz.spark_2.0.88spark2_all.deb",
+    "More": "一个植物大战僵尸改版\n详细可见：https://www.bilibili.com/video/BV15z42127up",
+    "Name": "植物大战僵尸杂交版（潜艇伟伟迷）（Wine）",
+    "Pkgname": "com.pvzhz.spark",
+    "Size": "377 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.pvzhz.spark_2.0.88spark2_all.deb.torrent",
+    "Update": "2024-05-28 20:22:13",
+    "Version": "2.0.88spark2",
+    "Website": "https://space.bilibili.com/97213827",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_2.png\"]"
 }
+
 ,
 {
     "Name": "PPSSPP",
@@ -1047,6 +1048,23 @@
     "Tags": "community;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/e33907930f4b4c6faf63f03150d7295e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/02/d24ab626f6474acea2f3e575c32ab54b.png"
+}
+,
+{
+    "Name": "RetroArch",
+    "Version": "1.16.0spark2",
+    "Filename": "com.retroarch.retroarch.spark_1.16.0spark2_amd64.deb",
+    "Torrent_address": "com.retroarch.retroarch.spark_1.16.0spark2_amd64.deb.torrent",
+    "Pkgname": "com.retroarch.retroarch.spark",
+    "Author": "RetroArch",
+    "Contributor": "sgb76",
+    "Website": "https://retroarch.com",
+    "Update": "2023-09-22 16:05:00",
+    "Size": "233.87 MB",
+    "More": "RetroArch 是一款功能强大的跨平台模拟器，不但能够模拟许多不同的游戏主机，还能在 Windows、MacOS、Linux、Android、iOS 以及多种游戏主机上运行。",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/22/136d5405fda340bf9e778abc68fec22f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/22/df470fba4d5d4a20be97f940e96ccb62.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/22/59a7eb3b302948a4838bf4cbc7722245.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/22/d58cef1d2b05476b8bfa160cc1172f7d.png"
 }
 ,
 {
@@ -1084,22 +1102,6 @@
 }
 ,
 {
-    "Name": "蜘蛛纸牌",
-    "Version": "1.0.0",
-    "Filename": "spider-card_1.0.0_amd64.deb",
-    "Pkgname": "spider-card",
-    "Author": "From Web",
-    "Contributor": "shenmo",
-    "Website": "http://www.spark-app.store/",
-    "Update": "2020-11-03 05:34:14",
-    "Size": "154.6 KB",
-    "More": "Windows复刻蜘蛛纸牌",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/03/30681700-1d96-11eb-b7de-3bc67cafe1ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/03/306dbc50-1d96-11eb-b7de-3bc67cafe1ad.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/03/2c657a80-1d96-11eb-b7de-3bc67cafe1ad.png"
-}
-,
-{
     "Name": "埃及祖玛3",
     "Version": "1.0spark0",
     "Filename": "com.luxor3.spark_1.0spark0_amd64.deb",
@@ -1117,6 +1119,22 @@
 }
 ,
 {
+    "Name": "蜘蛛纸牌",
+    "Version": "1.0.0",
+    "Filename": "spider-card_1.0.0_amd64.deb",
+    "Pkgname": "spider-card",
+    "Author": "From Web",
+    "Contributor": "shenmo",
+    "Website": "http://www.spark-app.store/",
+    "Update": "2020-11-03 05:34:14",
+    "Size": "154.6 KB",
+    "More": "Windows复刻蜘蛛纸牌",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/03/30681700-1d96-11eb-b7de-3bc67cafe1ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/03/306dbc50-1d96-11eb-b7de-3bc67cafe1ad.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/03/2c657a80-1d96-11eb-b7de-3bc67cafe1ad.png"
+}
+,
+{
     "Name": "魔塔",
     "Version": "1.0.0",
     "Filename": "magic-tower_1.0.0_amd64.deb",
@@ -1131,24 +1149,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5bfdd80-28dc-11ec-8d07-cdc4a71453ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5e0fa10-28dc-11ec-8d07-cdc4a71453ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5ce5c70-28dc-11ec-8d07-cdc4a71453ec.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/09/bb8f7560-28dc-11ec-8d07-cdc4a71453ec.png"
 }
-,
-{
-    "Author": "shenmo@spark-app.store",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.pvzhz.spark_2.0.88spark2_all.deb",
-    "More": "一个植物大战僵尸改版\n详细可见：https://www.bilibili.com/video/BV15z42127up",
-    "Name": "植物大战僵尸杂交版（潜艇伟伟迷）（Wine）",
-    "Pkgname": "com.pvzhz.spark",
-    "Size": "377 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "com.pvzhz.spark_2.0.88spark2_all.deb.torrent",
-    "Update": "2024-05-28 20:22:13",
-    "Version": "2.0.88spark2",
-    "Website": "https://space.bilibili.com/97213827",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_2.png\"]"
-}
-
 ,
 {
     "Name": "Minecraft 官方启动器",
@@ -1320,23 +1320,6 @@
 }
 ,
 {
-    "Name": "满庭芳：宋上繁华",
-    "Version": "0.5.21R",
-    "Filename": "com.thrivingcitysong.spark_0.5.21R_all.deb",
-    "Torrent_address": "com.thrivingcitysong.spark_0.5.21R_all.deb.torrent",
-    "Pkgname": "com.thrivingcitysong.spark",
-    "Author": "白星工作室",
-    "Contributor": "John12138",
-    "Website": "http://www.whitestaaar.com/",
-    "Update": "2023-07-22 19:01:44",
-    "Size": "1.22 GB",
-    "More": "本次更新\n采用spark-wine8重新打包，修复播放动画时的黑屏问题。\n第一次安装时，提示安装mono，取消即可，后续将不会再出现\n1、游戏加载完成后按Esc跳过动画\n2、《满庭芳：宋上繁华》是一款融合了历史、剧情、策略等元素的古风题材城市建造管理游戏。你将作为一县之长，带领百姓安家落户、耕种土地并扩建城市。游戏中拥有种类繁多的经营内容，种田捕鱼增加人口，开采资源建造工业，发展科技推动生产。整个城镇的发展策略和方向，都将由你决定。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/22/e53a755b4bf74954bd4583d79524c362.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/22/f44d3be2819d49f0af8f427a3181fe30.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/22/7087773f597d49a38ca9642e6dd09df5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/22/15c1118fb78a49239a15228c7b26eaf0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/22/e238c1701096485aac04500f234eefe4.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/22/6bd089ead79d42fe85b5c8c836dfae70.png"
-}
-,
-{
     "Name": "大富翁10",
     "Version": "1.0",
     "Filename": "com.richman10.spark_1.0_all.deb",
@@ -1351,6 +1334,23 @@
     "Tags": "ubuntu;deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/41b985a24a4f420fa21626e0142d127b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/a4826d5ec6cf4ab4b67cb8f2bf1a21c3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/9c894eaa7eca4366b9efadaaaef656fc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/2c0ac9b12b234909becddf061938a65c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/96e290a759974aa48f8997ff9ff25de8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/02/21d443630a4144a3bdf135f1a4c196b2.png"
+}
+,
+{
+    "Name": "满庭芳：宋上繁华",
+    "Version": "0.5.21R",
+    "Filename": "com.thrivingcitysong.spark_0.5.21R_all.deb",
+    "Torrent_address": "com.thrivingcitysong.spark_0.5.21R_all.deb.torrent",
+    "Pkgname": "com.thrivingcitysong.spark",
+    "Author": "白星工作室",
+    "Contributor": "John12138",
+    "Website": "http://www.whitestaaar.com/",
+    "Update": "2023-07-22 19:01:44",
+    "Size": "1.22 GB",
+    "More": "本次更新\n采用spark-wine8重新打包，修复播放动画时的黑屏问题。\n第一次安装时，提示安装mono，取消即可，后续将不会再出现\n1、游戏加载完成后按Esc跳过动画\n2、《满庭芳：宋上繁华》是一款融合了历史、剧情、策略等元素的古风题材城市建造管理游戏。你将作为一县之长，带领百姓安家落户、耕种土地并扩建城市。游戏中拥有种类繁多的经营内容，种田捕鱼增加人口，开采资源建造工业，发展科技推动生产。整个城镇的发展策略和方向，都将由你决定。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/22/e53a755b4bf74954bd4583d79524c362.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/22/f44d3be2819d49f0af8f427a3181fe30.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/22/7087773f597d49a38ca9642e6dd09df5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/22/15c1118fb78a49239a15228c7b26eaf0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/22/e238c1701096485aac04500f234eefe4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/22/6bd089ead79d42fe85b5c8c836dfae70.png"
 }
 ,
 {
@@ -1388,23 +1388,6 @@
 }
 ,
 {
-    "Name": "三维弹球(Linux)",
-    "Version": "2.0.1",
-    "Filename": "com.spacecadetpinball.deepin_2.0.1_amd64.deb",
-    "Torrent_address": "com.spacecadetpinball.deepin_2.0.1_amd64.deb.torrent",
-    "Pkgname": "com.spacecadetpinball.deepin",
-    "Author": "gtjdoctor@163.com",
-    "Contributor": "gtjdoctor@163.com",
-    "Website": "https://github.com/k4zmu2a/SpaceCadetPinball",
-    "Update": "2023-04-13 22:29:57",
-    "Size": "1.43 MB",
-    "More": "三维弹球:太空军校生",
-    "Tags": "deepin;uos;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/605bd90ccb604cc0a35720cb97be80a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/0db7f9c6736a48e6b73ac26b9b512a92.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/41df8651b5f243d98a9646ef2e7ebc8a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/13/6605a19d8ac543d2a24bfe3e1b4989fe.png"
-}
-,
-{
     "Name": "PVZMC",
     "Version": "1.13",
     "Filename": "com.pvzmc.spark_1.13_i386.deb",
@@ -1419,6 +1402,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/23/9ee918f6defe4a07a55d8c1671b7931e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/23/771b0d9be4cc4a1e88c696f5666abf87.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/23/f4ba7a18fd1141309a2041070ad59510.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/23/89b732a78d044dcbbbc1c9ee73cf4336.png"
+}
+,
+{
+    "Name": "三维弹球(Linux)",
+    "Version": "2.0.1",
+    "Filename": "com.spacecadetpinball.deepin_2.0.1_amd64.deb",
+    "Torrent_address": "com.spacecadetpinball.deepin_2.0.1_amd64.deb.torrent",
+    "Pkgname": "com.spacecadetpinball.deepin",
+    "Author": "gtjdoctor@163.com",
+    "Contributor": "gtjdoctor@163.com",
+    "Website": "https://github.com/k4zmu2a/SpaceCadetPinball",
+    "Update": "2023-04-13 22:29:57",
+    "Size": "1.43 MB",
+    "More": "三维弹球:太空军校生",
+    "Tags": "deepin;uos;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/605bd90ccb604cc0a35720cb97be80a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/0db7f9c6736a48e6b73ac26b9b512a92.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/41df8651b5f243d98a9646ef2e7ebc8a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/13/6605a19d8ac543d2a24bfe3e1b4989fe.png"
 }
 ,
 {
@@ -1772,6 +1772,23 @@
 }
 ,
 {
+    "Name": "X Minecraft Launcher",
+    "Version": "0.44.7-832",
+    "Filename": "xmcl_0.44.7-832_amd64.deb",
+    "Torrent_address": "xmcl_0.44.7-832_amd64.deb.torrent",
+    "Pkgname": "xmcl",
+    "Author": "ci010 <cijhn@hotmail.com>",
+    "Contributor": "ci010 <cijhn@hotmail.com>",
+    "Website": "https://github.com/voxelum/x-minecraft-launcher#readme",
+    "Update": "2024-06-09 12:50:47",
+    "Size": "83.63 MB",
+    "More": "一个 开源的 启动器，拥有 现代化 的 UX.\n\n提供一种 的方式来管理你所有的 模组!\n\nX Minecraft Launcher (XMCL) 是一个方便你管理大量的整合包，模组，资源包，光影包的的现代化启动器。它对 Minecraft Forge，Fabric，Quilt，Curseforge 和 Modrinth 都有内置支持。",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/6d5599c8f1ba4e219c2857f6929ff17b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/09/ade116f42fb34a58b030fbf5ad76c81e.png"
+}
+,
+{
     "Name": "multimc",
     "Version": "1.5-1",
     "Filename": "multimc_1.5-1_all.deb",
@@ -1802,23 +1819,6 @@
     "Tags": "deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/05/61bbf562438e42e287877a54173f83d3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/05/60310f84467e4029a453a1a88804eb9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/05/79a985de49e946f7b6059e8e9fb91f8e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/05/8c2decf1565e4acc9b2fb7eb5bddd24a.png"
-}
-,
-{
-    "Name": "X Minecraft Launcher",
-    "Version": "0.44.7-832",
-    "Filename": "xmcl_0.44.7-832_amd64.deb",
-    "Torrent_address": "xmcl_0.44.7-832_amd64.deb.torrent",
-    "Pkgname": "xmcl",
-    "Author": "ci010 <cijhn@hotmail.com>",
-    "Contributor": "ci010 <cijhn@hotmail.com>",
-    "Website": "https://github.com/voxelum/x-minecraft-launcher#readme",
-    "Update": "2024-06-09 12:50:47",
-    "Size": "83.63 MB",
-    "More": "一个 开源的 启动器，拥有 现代化 的 UX.\n\n提供一种 的方式来管理你所有的 模组!\n\nX Minecraft Launcher (XMCL) 是一个方便你管理大量的整合包，模组，资源包，光影包的的现代化启动器。它对 Minecraft Forge，Fabric，Quilt，Curseforge 和 Modrinth 都有内置支持。",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/6d5599c8f1ba4e219c2857f6929ff17b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/09/ade116f42fb34a58b030fbf5ad76c81e.png"
 }
 ,
 {
@@ -2296,6 +2296,20 @@
 }
 ,
 {
+   "Name":"辐射小马国：废土-wine",
+   "Version":"1.0.1",
+   "Filename":"fallout.equestria.remains_1.0.1_amd64.deb",
+   "Pkgname":"fallout.equestria.remains",
+   "Author":"Empalu",
+   "Contributor":"ShadowDumb",
+   "Website":"http://foe.ucoz.org/main_en.html",
+   "Update":"2020-07-26 13:32",
+   "Size":"295.69MB",
+   "More":"战争！战争从未改变！\n很久很久以前，在小马国这片神奇的土地上……\n一个将友谊理念让位于妒忌、自私、贪婪与残忍的时代来临了。在那次国与国之间，以自然资源为开端的大战中，没有任何的赢家。由小马蹄下击打而出的魔法迅速爆发失控，整个世界都被烈焰所吞噬。龙火与黑魔法结合而成的毁灭性武器，几乎抹除掉了这个星球上的所有生命。土壤，水源和空气都被辐射污染，城市毁灭，文明崩溃。无论是小马，还是他们的敌军都被从地表上抹除掉了。疯狂的先知所预言的审判日，几乎没有任何小马相信，直到那个命运注定的日子降临……\n但这并不是结局，仍然有很多小马幸免于难，一些躲在巨大的地下避难厩中，另一些不知何故适应了新的环境。那个审判日只不过是小马历史上另一个血腥篇章的序曲。在满目疮痍，毒素滋生的废土，暴力和残忍已是家常便饭，更是一种生存下去的方式……\n在曾经的小马国的那个末日之后，二百多年过去了……\n\n这是一款rougelike的横版射击游戏，游戏中包含有数十种武器、装备和技能，以及上百个随机关卡，当然敌人的种类也很多。小心，敌人也会布置陷进！\n游戏依赖于64位wine。游戏支持多种语言，包括中文。\n\n1.0.1更新：\n一些BUG修复，增加日语和西班牙语。"
+}
+
+,
+{
     "Name": "微信飞机大战（webcore）",
     "Version": "1.0.0",
     "Filename": "wechat-plane-webcore_1.0.0_all.deb",
@@ -2310,20 +2324,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/03/752263a0-1d96-11eb-b7d9-3b656293da02.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/03/71e42890-1d96-11eb-b7d9-3b656293da02.png"
 }
-,
-{
-   "Name":"辐射小马国：废土-wine",
-   "Version":"1.0.1",
-   "Filename":"fallout.equestria.remains_1.0.1_amd64.deb",
-   "Pkgname":"fallout.equestria.remains",
-   "Author":"Empalu",
-   "Contributor":"ShadowDumb",
-   "Website":"http://foe.ucoz.org/main_en.html",
-   "Update":"2020-07-26 13:32",
-   "Size":"295.69MB",
-   "More":"战争！战争从未改变！\n很久很久以前，在小马国这片神奇的土地上……\n一个将友谊理念让位于妒忌、自私、贪婪与残忍的时代来临了。在那次国与国之间，以自然资源为开端的大战中，没有任何的赢家。由小马蹄下击打而出的魔法迅速爆发失控，整个世界都被烈焰所吞噬。龙火与黑魔法结合而成的毁灭性武器，几乎抹除掉了这个星球上的所有生命。土壤，水源和空气都被辐射污染，城市毁灭，文明崩溃。无论是小马，还是他们的敌军都被从地表上抹除掉了。疯狂的先知所预言的审判日，几乎没有任何小马相信，直到那个命运注定的日子降临……\n但这并不是结局，仍然有很多小马幸免于难，一些躲在巨大的地下避难厩中，另一些不知何故适应了新的环境。那个审判日只不过是小马历史上另一个血腥篇章的序曲。在满目疮痍，毒素滋生的废土，暴力和残忍已是家常便饭，更是一种生存下去的方式……\n在曾经的小马国的那个末日之后，二百多年过去了……\n\n这是一款rougelike的横版射击游戏，游戏中包含有数十种武器、装备和技能，以及上百个随机关卡，当然敌人的种类也很多。小心，敌人也会布置陷进！\n游戏依赖于64位wine。游戏支持多种语言，包括中文。\n\n1.0.1更新：\n一些BUG修复，增加日语和西班牙语。"
-}
-
 ,
 {
     "Name": "Cemu 模拟器（Wine）",
@@ -2374,6 +2374,23 @@
     "Tags": "community;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554370276958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554476976958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554545276958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554618976958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554694076958200.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554273276958200.png"
+}
+,
+{
+    "Name": "无名杀",
+    "Version": "1.0.0",
+    "Filename": "noname_1.0.0_amd64.deb",
+    "Torrent_address": "noname_1.0.0_amd64.deb.torrent",
+    "Pkgname": "noname",
+    "Author": "Reaganx<yjcreaganx@outlook.com>",
+    "Contributor": "Reagan X",
+    "Website": "https://gitee.com/qinkunwei/noname",
+    "Update": "2023-06-16 22:08:47",
+    "Size": "624.35 MB",
+    "More": "无名杀是一款开源的、玩法类似Bang!的角色扮演回合制游戏。您可以扮演中国历史人物关羽，也可以扮演动漫中的角色比如漩涡鸣人。当然，您甚至可以加入我们，制作您自己的扩展并自由分发！精彩尽在noname!",
+    "Tags": "uos;ubuntu;deepin;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/16/1d4214824fb847278fb25cafecbd4918.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/16/ac7f944adc0240469c803563e6263946.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/16/f69524cbccbe42409a8f85475b766f54.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/16/5bfc6f443d5e4988bf8c8583f6d7ed10.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/16/7684dfb682f44557988c51b8ab32c035.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/16/71d03dd5b80549c7b5fe02ceb5d65c54.png"
 }
 ,
 {
@@ -2457,23 +2474,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/3cf9f0bec818485097c493f1720e8511.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/341c952f07f04e268620cf25aca0c750.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/7b73774488ac4538b3788b84d2a9af8d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/06/aa4d1e54466b44a98b7e129eb63f562d.png"
-}
-,
-{
-    "Name": "无名杀",
-    "Version": "1.0.0",
-    "Filename": "noname_1.0.0_amd64.deb",
-    "Torrent_address": "noname_1.0.0_amd64.deb.torrent",
-    "Pkgname": "noname",
-    "Author": "Reaganx<yjcreaganx@outlook.com>",
-    "Contributor": "Reagan X",
-    "Website": "https://gitee.com/qinkunwei/noname",
-    "Update": "2023-06-16 22:08:47",
-    "Size": "624.35 MB",
-    "More": "无名杀是一款开源的、玩法类似Bang!的角色扮演回合制游戏。您可以扮演中国历史人物关羽，也可以扮演动漫中的角色比如漩涡鸣人。当然，您甚至可以加入我们，制作您自己的扩展并自由分发！精彩尽在noname!",
-    "Tags": "uos;ubuntu;deepin;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/16/1d4214824fb847278fb25cafecbd4918.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/16/ac7f944adc0240469c803563e6263946.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/16/f69524cbccbe42409a8f85475b766f54.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/16/5bfc6f443d5e4988bf8c8583f6d7ed10.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/16/7684dfb682f44557988c51b8ab32c035.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/16/71d03dd5b80549c7b5fe02ceb5d65c54.png"
 }
 ,
 {
@@ -2625,23 +2625,6 @@
 
 ,
 {
-    "Name": "破门而入",
-    "Version": "1.0spark1",
-    "Filename": "com.doorkickers.spark_1.0spark1_all.deb",
-    "Torrent_address": "com.doorkickers.spark_1.0spark1_all.deb.torrent",
-    "Pkgname": "com.doorkickers.spark",
-    "Author": "KillHouse Games",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-10-11 18:58:25",
-    "Size": "488.52 MB",
-    "More": "一款策略射击类游戏，游戏主要讲述警匪争斗的任务，场景设置在一个个不同的建筑物中，玩家需要做的便是通过击杀各建筑中的所有歹徒来赢得游戏，当然其中需要一些策略组合。",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/11/220927b2098949e9a3696e96a3a25aab.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/11/cffd472d51b64229b2d5a45e129a8f95.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/11/55284197916e4d0a8ebe626905b2f9fe.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/11/ba5b65fd572b451681f01f5b62f40557.png"
-}
-,
-{
     "Name": "救救狗狗(uengine)",
     "Version": "0.0.6",
     "Filename": "uengine-dc-com.wizardsplay.dogvsbee_0.0.6_all.deb",
@@ -2656,6 +2639,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/09/32b7f710-600a-11ed-b24e-511f8f738129.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/09/32ccdea0-600a-11ed-b24e-511f8f738129.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/09/32e548a0-600a-11ed-b24e-511f8f738129.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/09/c0414ab0-6009-11ed-b24e-511f8f738129.png"
+}
+,
+{
+    "Name": "破门而入",
+    "Version": "1.0spark1",
+    "Filename": "com.doorkickers.spark_1.0spark1_all.deb",
+    "Torrent_address": "com.doorkickers.spark_1.0spark1_all.deb.torrent",
+    "Pkgname": "com.doorkickers.spark",
+    "Author": "KillHouse Games",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-10-11 18:58:25",
+    "Size": "488.52 MB",
+    "More": "一款策略射击类游戏，游戏主要讲述警匪争斗的任务，场景设置在一个个不同的建筑物中，玩家需要做的便是通过击杀各建筑中的所有歹徒来赢得游戏，当然其中需要一些策略组合。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/11/220927b2098949e9a3696e96a3a25aab.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/11/cffd472d51b64229b2d5a45e129a8f95.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/11/55284197916e4d0a8ebe626905b2f9fe.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/11/ba5b65fd572b451681f01f5b62f40557.png"
 }
 ,
 {
@@ -2694,23 +2694,6 @@
 
 ,
 {
-    "Name": "毁灭公爵3D：20周年纪念版",
-    "Version": "1.0spark1",
-    "Filename": "com.duke3d.spark_1.0spark1_all.deb",
-    "Torrent_address": "com.duke3d.spark_1.0spark1_all.deb.torrent",
-    "Pkgname": "com.duke3d.spark",
-    "Author": "Gearbox Publishing",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-10-06 20:41:06",
-    "Size": "1.12 GB",
-    "More": "一款复古3D射击游戏",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/13894992f21a40cdbd61ee149543d406.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/8f3f41dc5988488fa672950d26519019.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/4c05e6b6e1564370bcda4d17b63528f9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/9689328b9bfb4090b36f2826075e63dd.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/06/e0bab1d371a140198924fcd66331f8a9.png"
-}
-,
-{
     "Name": "边锋游戏",
     "Version": "1.0.0",
     "Filename": "spark-bftf_1.0.0_i386.deb",
@@ -2728,22 +2711,6 @@
 }
 ,
 {
-    "Name": "Disbelief Papyrus",
-    "Version": "1.1.2",
-    "Filename": "disbelief.papyrus.yzf_1.1.2_i386.deb",
-    "Pkgname": "disbelief.papyrus.yzf",
-    "Author": "FlamesAtGames",
-    "Contributor": "小鱼yuzifu",
-    "Website": "https://gamejolt.com/games/disbelief/268091",
-    "Update": "2021-02-16 22:23:39",
-    "Size": "87.55 MB",
-    "More": "UT同人——全然不信\n已知问题：刚进入游戏可能会出现无图像问题、deepin桌面特效模式会被关闭\n解决方法：按下F4以退出全屏，即可显示图像（再次按下F4图像也不会消失）",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/6adb6080-7062-11eb-98af-3f70b11df784.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/6b33b9b0-7062-11eb-98af-3f70b11df784.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/6b4d3520-7062-11eb-98af-3f70b11df784.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/6b6773e0-7062-11eb-98af-3f70b11df784.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/16/6327c9f0-7062-11eb-98af-3f70b11df784.png"
-}
-,
-{
     "Name": "墨染",
     "Version": "1.0spark0",
     "Filename": "com.inked.spark_1.0spark0_amd64.deb",
@@ -2758,6 +2725,39 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/460ebed856dc4110a2806ff335755a0c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/d7caae1facc842589ef33ce92d5f0d5d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/7fecc6ebf94349cd9cdd7c304c9b001e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/29/517997443a2049d8af7285bf36250af7.png"
+}
+,
+{
+    "Name": "毁灭公爵3D：20周年纪念版",
+    "Version": "1.0spark1",
+    "Filename": "com.duke3d.spark_1.0spark1_all.deb",
+    "Torrent_address": "com.duke3d.spark_1.0spark1_all.deb.torrent",
+    "Pkgname": "com.duke3d.spark",
+    "Author": "Gearbox Publishing",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-10-06 20:41:06",
+    "Size": "1.12 GB",
+    "More": "一款复古3D射击游戏",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/13894992f21a40cdbd61ee149543d406.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/8f3f41dc5988488fa672950d26519019.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/4c05e6b6e1564370bcda4d17b63528f9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/9689328b9bfb4090b36f2826075e63dd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/06/e0bab1d371a140198924fcd66331f8a9.png"
+}
+,
+{
+    "Name": "Disbelief Papyrus",
+    "Version": "1.1.2",
+    "Filename": "disbelief.papyrus.yzf_1.1.2_i386.deb",
+    "Pkgname": "disbelief.papyrus.yzf",
+    "Author": "FlamesAtGames",
+    "Contributor": "小鱼yuzifu",
+    "Website": "https://gamejolt.com/games/disbelief/268091",
+    "Update": "2021-02-16 22:23:39",
+    "Size": "87.55 MB",
+    "More": "UT同人——全然不信\n已知问题：刚进入游戏可能会出现无图像问题、deepin桌面特效模式会被关闭\n解决方法：按下F4以退出全屏，即可显示图像（再次按下F4图像也不会消失）",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/6adb6080-7062-11eb-98af-3f70b11df784.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/6b33b9b0-7062-11eb-98af-3f70b11df784.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/6b4d3520-7062-11eb-98af-3f70b11df784.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/6b6773e0-7062-11eb-98af-3f70b11df784.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/16/6327c9f0-7062-11eb-98af-3f70b11df784.png"
 }
 ,
 {
@@ -3672,23 +3672,6 @@
 }
 ,
 {
-    "Name": "怒之铁拳2",
-    "Version": "1.0spark0",
-    "Filename": "com.sor2x.spark_1.0spark0_amd64.deb",
-    "Torrent_address": "com.sor2x.spark_1.0spark0_amd64.deb.torrent",
-    "Pkgname": "com.sor2x.spark",
-    "Author": "SOR2X",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-04-24 11:13:26",
-    "Size": "274.94 MB",
-    "More": "一款国外粉丝自制的怒之铁拳2重制版",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/24/9250bd9e1e4e4e9d9cad05c01277bbe1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/24/bd94a4335ef643b3815f64a1b50b4837.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/24/d322e8fd4d3e4eb696796904733983b4.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/24/1e242f74fe5343d9adf0abd1fcf2168c.png"
-}
-,
-{
     "Name": "PVZ-Rouge",
     "Version": "1.5.0",
     "Filename": "pvz-rouge_1.5.0_all.deb",
@@ -3703,6 +3686,23 @@
     "Tags": "ubuntu;deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/53dbf390-fa52-11ee-9562-03919d4b1b7f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/53d71190-fa52-11ee-9562-03919d4b1b7f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/14/dc0368d0-fa51-11ee-9562-03919d4b1b7f.png"
+}
+,
+{
+    "Name": "怒之铁拳2",
+    "Version": "1.0spark0",
+    "Filename": "com.sor2x.spark_1.0spark0_amd64.deb",
+    "Torrent_address": "com.sor2x.spark_1.0spark0_amd64.deb.torrent",
+    "Pkgname": "com.sor2x.spark",
+    "Author": "SOR2X",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-04-24 11:13:26",
+    "Size": "274.94 MB",
+    "More": "一款国外粉丝自制的怒之铁拳2重制版",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/24/9250bd9e1e4e4e9d9cad05c01277bbe1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/24/bd94a4335ef643b3815f64a1b50b4837.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/24/d322e8fd4d3e4eb696796904733983b4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/24/1e242f74fe5343d9adf0abd1fcf2168c.png"
 }
 ,
 {

@@ -823,23 +823,6 @@
 }
 ,
 {
-    "Name": "Joplin",
-    "Version": "2.9.17",
-    "Filename": "org.joplin.spark_2.9.17_all.deb",
-    "Torrent_address": "org.joplin.spark_2.9.17_all.deb.torrent",
-    "Pkgname": "org.joplin.spark",
-    "Author": "spark-store",
-    "Contributor": "fyljp <fyljpeng@gmail.com>",
-    "Website": "https://joplinapp.org/",
-    "Update": "2023-02-02 01:18:16",
-    "Size": "219.83 MB",
-    "More": "一个具有同步能力的开源笔记和待办事项应用程序，兼容 Windows、macOS、Linux、Android 和 iOS。",
-    "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/74abfbf3bd2f486fbba03c2183fc4d51.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/8807954e5f81442082b53356ac03a5f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/01819b12067b434391ed237a2261a189.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/0d95a0d2bfb141afa38778f4376fffc3.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/02/18c553a6414243fcb0c8015002f8752b.png"
-}
-,
-{
     "Name": "To Do",
     "Version": "2.63.237",
     "Filename": "uengine-dc-com.microsoft.todos_2.63.237_all.deb",
@@ -854,6 +837,23 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/5bb1048c-7381-4ecb-b15f-7d7b7d76f894.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/ff1be33b-e3fa-44e3-9034-b58e25cd14fc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/160ef709-ac00-4324-89b8-5dfc30367b57.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/93fb27d9-5931-4c48-b8cd-6b07c3f32165.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/0b341858-8354-4b96-b300-c7d1dd5b267f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/30/07542c5f-9399-45a4-a80f-0695ddb122ce.png"
+}
+,
+{
+    "Name": "Joplin",
+    "Version": "2.9.17",
+    "Filename": "org.joplin.spark_2.9.17_all.deb",
+    "Torrent_address": "org.joplin.spark_2.9.17_all.deb.torrent",
+    "Pkgname": "org.joplin.spark",
+    "Author": "spark-store",
+    "Contributor": "fyljp <fyljpeng@gmail.com>",
+    "Website": "https://joplinapp.org/",
+    "Update": "2023-02-02 01:18:16",
+    "Size": "219.83 MB",
+    "More": "一个具有同步能力的开源笔记和待办事项应用程序，兼容 Windows、macOS、Linux、Android 和 iOS。",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/74abfbf3bd2f486fbba03c2183fc4d51.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/8807954e5f81442082b53356ac03a5f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/01819b12067b434391ed237a2261a189.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/0d95a0d2bfb141afa38778f4376fffc3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/02/18c553a6414243fcb0c8015002f8752b.png"
 }
 ,
 {
@@ -1146,23 +1146,6 @@
 }
 ,
 {
-    "Name": "幕布（wine）",
-    "Version": "3.7.3spark3",
-    "Filename": "com.mubu.spark_3.7.3spark3_all.deb",
-    "Torrent_address": "com.mubu.spark_3.7.3spark3_all.deb.torrent",
-    "Pkgname": "com.mubu.spark",
-    "Author": "北京坤豆科技有限公司",
-    "Contributor": "sgb76",
-    "Website": "https://mubu.com/",
-    "Update": "2024-01-10 23:39:15",
-    "Size": "83.75 MB",
-    "More": "幕布，不只是大纲笔记，更是一种思考方式\n\n说明：\n修复了GNOME环境下无法启动的问题",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/10/a9ffb19f98074dc8b4568d6148ecf298.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/10/fe983387849a4d938b9d802bb4b18fac.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/10/504685f399f445deb35e56525b8e65ba.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/10/e10af2e355d045b5b7658548d8f7e761.png"
-}
-,
-{
     "Name": "Microsoft Teams",
     "Version": "1.5.00.23861",
     "Filename": "teams_1.5.00.23861_amd64.deb",
@@ -1177,6 +1160,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/16/794b9c50f6664bbb8692d6ad61b7b6a5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/16/7d8baeefcf804cff9dab737a1bdccb02.png"
+}
+,
+{
+    "Name": "幕布（wine）",
+    "Version": "3.7.3spark3",
+    "Filename": "com.mubu.spark_3.7.3spark3_all.deb",
+    "Torrent_address": "com.mubu.spark_3.7.3spark3_all.deb.torrent",
+    "Pkgname": "com.mubu.spark",
+    "Author": "北京坤豆科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://mubu.com/",
+    "Update": "2024-01-10 23:39:15",
+    "Size": "83.75 MB",
+    "More": "幕布，不只是大纲笔记，更是一种思考方式\n\n说明：\n修复了GNOME环境下无法启动的问题",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/10/a9ffb19f98074dc8b4568d6148ecf298.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/10/fe983387849a4d938b9d802bb4b18fac.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/10/504685f399f445deb35e56525b8e65ba.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/10/e10af2e355d045b5b7658548d8f7e761.png"
 }
 ,
 {
@@ -3037,6 +3037,23 @@
 }
 ,
 {
+    "Name": "WPS Office 2016",
+    "Version": "10.1.0.6757spark1",
+    "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
+    "Torrent_address": "wps-office-2016_10.1.0.6757spark1_amd64.deb.torrent",
+    "Pkgname": "wps-office-2016",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://wps-community.org",
+    "Update": "2024-05-19 16:58:39",
+    "Size": "129.41 MB",
+    "More": "WPS Office 2016 旧版本，三组件分别独立，资源占用更小，支持类 office 2003 经典界面\n云同步功能依旧可用\n与现行的 WPS Office， 2019 冲突",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
+}
+,
+{
     "Name": "猿辅导（uengine）",
     "Version": "7.66.0",
     "Filename": "uengine-dc-com.yuantiku.tutor_7.66.0_all.deb",
@@ -3122,20 +3139,20 @@
 }
 ,
 {
-    "Name": "WPS Office 2016",
-    "Version": "10.1.0.6757spark1",
-    "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
-    "Torrent_address": "wps-office-2016_10.1.0.6757spark1_amd64.deb.torrent",
-    "Pkgname": "wps-office-2016",
-    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://wps-community.org",
-    "Update": "2024-05-19 16:58:39",
-    "Size": "129.41 MB",
-    "More": "WPS Office 2016 旧版本，三组件分别独立，资源占用更小，支持类 office 2003 经典界面\n云同步功能依旧可用\n与现行的 WPS Office， 2019 冲突",
+    "Name": "中国移动云电脑（wine）",
+    "Version": "1.0.0",
+    "Filename": "chinamobyunos_1.0.0_all.deb",
+    "Torrent_address": "chinamobyunos_1.0.0_all.deb.torrent",
+    "Pkgname": "chinamobyunos",
+    "Author": "huawei0086@126.com",
+    "Contributor": "rc3583z",
+    "Website": "1212123",
+    "Update": "2024-03-15 15:33:11",
+    "Size": "264.34 MB",
+    "More": "中国移动云电脑",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/add19340-e29d-11ee-893c-3b7985d6d301.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/ee872080-e29d-11ee-893c-3b7985d6d301.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/15/a5e33da0-e29d-11ee-893c-3b7985d6d301.png"
 }
 ,
 {
@@ -3170,23 +3187,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/01/ac7d77e215444ecbb3ff655f66267ffd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/01/e7ca7414438c4c60802a24d5c72b76f7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/01/f48f0cb55a0245b8b4c91a10a481baef.png"
-}
-,
-{
-    "Name": "中国移动云电脑（wine）",
-    "Version": "1.0.0",
-    "Filename": "chinamobyunos_1.0.0_all.deb",
-    "Torrent_address": "chinamobyunos_1.0.0_all.deb.torrent",
-    "Pkgname": "chinamobyunos",
-    "Author": "huawei0086@126.com",
-    "Contributor": "rc3583z",
-    "Website": "1212123",
-    "Update": "2024-03-15 15:33:11",
-    "Size": "264.34 MB",
-    "More": "中国移动云电脑",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/add19340-e29d-11ee-893c-3b7985d6d301.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/ee872080-e29d-11ee-893c-3b7985d6d301.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/15/a5e33da0-e29d-11ee-893c-3b7985d6d301.png"
 }
 ,
 {
@@ -3964,6 +3964,22 @@
 }
 ,
 {
+    "Name": "极音创作",
+    "Version": "1.0",
+    "Filename": "con.zenwriter.spark_1.0_amd64.deb",
+    "Pkgname": "con.zenwriter.spark",
+    "Author": "小忙",
+    "Contributor": "jerrywang",
+    "Website": "http://zen.jinlixian.com/",
+    "Update": "2021-01-20 15:35:11",
+    "Size": "22.94 MB",
+    "More": "极简快速的创作体验 - 小说创作的终极码字软件",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/20/bc36fab0-5af1-11eb-bdea-55bdbb71dafd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/20/b54fdbe0-5af1-11eb-bdea-55bdbb71dafd.png"
+}
+,
+{
     "Name": "思记",
     "Version": "1.7.2spark4",
     "Filename": "com.seedsnote.spark_1.7.2spark4_all.deb",
@@ -4104,22 +4120,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/07/fcaab320-2738-11ec-b756-f5d7d4db7de6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/07/00732cd0-2739-11ec-b756-f5d7d4db7de6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/07/0347a990-2739-11ec-b756-f5d7d4db7de6.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/07/e3115ae0-2738-11ec-b756-f5d7d4db7de6.png"
-}
-,
-{
-    "Name": "极音创作",
-    "Version": "1.0",
-    "Filename": "con.zenwriter.spark_1.0_amd64.deb",
-    "Pkgname": "con.zenwriter.spark",
-    "Author": "小忙",
-    "Contributor": "jerrywang",
-    "Website": "http://zen.jinlixian.com/",
-    "Update": "2021-01-20 15:35:11",
-    "Size": "22.94 MB",
-    "More": "极简快速的创作体验 - 小说创作的终极码字软件",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/20/bc36fab0-5af1-11eb-bdea-55bdbb71dafd.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/20/b54fdbe0-5af1-11eb-bdea-55bdbb71dafd.png"
 }
 ,
 {

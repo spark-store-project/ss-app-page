@@ -694,22 +694,6 @@
 }
 ,
 {
-    "Name": "腾讯企点",
-    "Version": "3.9.0.0deepin5",
-    "Filename": "com.qidian.deepin_3.9.0.0deepin5_i386.deb",
-    "Pkgname": "com.qidian.deepin",
-    "Author": "风铭羽",
-    "Contributor": "风铭羽",
-    "Website": "无！",
-    "Update": "2021-11-28 14:13:29",
-    "Size": "296.45 MB",
-    "More": "腾讯企点3.9版本，前几个月做的，本来想等官方更新Linux版的，或者等官方出wine，但实在是受不了了！！\n所以就试了试，第一次做，太菜了！只能说是勉强能用！有大佬感兴趣的话，可以优化一下。。。",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/28/dfc41b00-5011-11ec-a8f3-ef947f26a0a9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/28/10351370-5012-11ec-a8f3-ef947f26a0a9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/11/28/cbf61150-5011-11ec-a8f3-ef947f26a0a9.png"
-}
-,
-{
     "Name": "SDR++",
     "Version": "1.0.4",
     "Filename": "sdrpp_1.0.4_all.deb",
@@ -724,6 +708,22 @@
     "Tags": "community;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/24/900a07ee-bd2c-42c6-9cd3-8bcf9a5d0f39.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/24/6a9d307e-1751-4fd9-a445-0d91892838a3.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/24/627b5261-a5af-49cc-bf39-f9f2345094ce.png"
+}
+,
+{
+    "Name": "腾讯企点",
+    "Version": "3.9.0.0deepin5",
+    "Filename": "com.qidian.deepin_3.9.0.0deepin5_i386.deb",
+    "Pkgname": "com.qidian.deepin",
+    "Author": "风铭羽",
+    "Contributor": "风铭羽",
+    "Website": "无！",
+    "Update": "2021-11-28 14:13:29",
+    "Size": "296.45 MB",
+    "More": "腾讯企点3.9版本，前几个月做的，本来想等官方更新Linux版的，或者等官方出wine，但实在是受不了了！！\n所以就试了试，第一次做，太菜了！只能说是勉强能用！有大佬感兴趣的话，可以优化一下。。。",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/28/dfc41b00-5011-11ec-a8f3-ef947f26a0a9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/28/10351370-5012-11ec-a8f3-ef947f26a0a9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/11/28/cbf61150-5011-11ec-a8f3-ef947f26a0a9.png"
 }
 ,
 {

@@ -276,6 +276,20 @@
 
 ,
 {
+   "Name":"deepin 20风格fcitx皮肤",
+   "Version":"1:0.1-2",
+   "Filename":"fcitx-ui-deepin-v20_all.deb",
+   "Pkgname":"fcitx-ui-deepin-v20",
+   "Author":"maicss",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-06-25 08:42",
+   "Size":"134.36KB",
+   "More":"让sunpinyin从此不同"
+}
+
+,
+{
     "Name": "earth-wallpaper",
     "Version": "2.1.7",
     "Filename": "earth-wallpaper_2.1.7_amd64.deb",
@@ -291,20 +305,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917585670676958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917591394176958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917591566776958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917591881776958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917592379476958200.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917585510176958200.png"
 }
-,
-{
-   "Name":"deepin 20风格fcitx皮肤",
-   "Version":"1:0.1-2",
-   "Filename":"fcitx-ui-deepin-v20_all.deb",
-   "Pkgname":"fcitx-ui-deepin-v20",
-   "Author":"maicss",
-   "Contributor":"shenmo",
-   "Website":" ",
-   "Update":"2020-06-25 08:42",
-   "Size":"134.36KB",
-   "More":"让sunpinyin从此不同"
-}
-
 ,
 {
     "Name": "Candy图标主题",
@@ -418,6 +418,22 @@
 }
 ,
 {
+    "Name": "fcitx5皮肤深度终端",
+    "Version": "0.1-2",
+    "Filename": "fcitx5-ui-deepin-terminal_0.1-2_all.deb",
+    "Pkgname": "fcitx5-ui-deepin-terminal",
+    "Author": "lvzhu",
+    "Contributor": "shenmo",
+    "Website": "https://pinyin.sogou.com/skins/detail/view/info/587008?rf=search&tf=p",
+    "Update": "2021-12-06 10:26:50",
+    "Size": "103.17 KB",
+    "More": "深度终端主题的fcitx5皮肤，安装后更改皮肤的教程在下面的截图",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/06/f5013900-563b-11ec-9100-ad9f44a3c9f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/06/f4f8ad80-563b-11ec-9100-ad9f44a3c9f7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/06/e966a440-563b-11ec-9100-ad9f44a3c9f7.png"
+}
+,
+{
     "Name": "官方壁纸分享",
     "Version": "1.0.0",
     "Filename": "deepin-wallpapers-bbs-spark_1.0.0_all.deb",
@@ -432,22 +448,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/11/8beb7160-316e-11ed-86df-d7300db07e9f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/11/6b00ede0-316e-11ed-86df-d7300db07e9f.jpg"
-}
-,
-{
-    "Name": "fcitx5皮肤深度终端",
-    "Version": "0.1-2",
-    "Filename": "fcitx5-ui-deepin-terminal_0.1-2_all.deb",
-    "Pkgname": "fcitx5-ui-deepin-terminal",
-    "Author": "lvzhu",
-    "Contributor": "shenmo",
-    "Website": "https://pinyin.sogou.com/skins/detail/view/info/587008?rf=search&tf=p",
-    "Update": "2021-12-06 10:26:50",
-    "Size": "103.17 KB",
-    "More": "深度终端主题的fcitx5皮肤，安装后更改皮肤的教程在下面的截图",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/06/f5013900-563b-11ec-9100-ad9f44a3c9f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/06/f4f8ad80-563b-11ec-9100-ad9f44a3c9f7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/06/e966a440-563b-11ec-9100-ad9f44a3c9f7.png"
 }
 ,
 {
@@ -500,22 +500,6 @@
 }
 ,
 {
-    "Name": "深度图标开机动画",
-    "Version": "0.0.1-1",
-    "Filename": "plymouth-theme-deepin-ssd-tubiao_0.0.1-1_all.deb",
-    "Pkgname": "plymouth-theme-deepin-ssd-tubiao",
-    "Author": "咸粽子",
-    "Contributor": "咸粽子",
-    "Website": "https://gitee.com/XianZongzi/plymouth-theme-deepin-ssd-tubiao",
-    "Update": "2020-10-09 21:15:57",
-    "Size": "27.45 KB",
-    "More": "一个深度图形图标呼吸渐变的开机动画。安装后在终端中使用 sudo plymouth-set-default-theme deepin-ssd-tubiao -R 更换开机动画。",
-    "Tags": "deepin;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/94366910-0a74-11eb-817c-892015e12177.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/09/92a3e230-0a74-11eb-817c-892015e12177.png"
-}
-,
-{
     "Name": "T 主题套组",
     "Version": "1.0.5",
     "Filename": "com.uniontech.theme.infinitecontrol_1.0.5_all.deb",
@@ -530,6 +514,22 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/11/c4e31c44e9304e538aa1061374d6977f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/11/260896942c7c41a793c8d7cab32f6c9e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/11/56dcd7bd26214963acf2c32abefa0ea0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/11/6eadbee747a5436fa52bfa516f494182.png"
+}
+,
+{
+    "Name": "深度图标开机动画",
+    "Version": "0.0.1-1",
+    "Filename": "plymouth-theme-deepin-ssd-tubiao_0.0.1-1_all.deb",
+    "Pkgname": "plymouth-theme-deepin-ssd-tubiao",
+    "Author": "咸粽子",
+    "Contributor": "咸粽子",
+    "Website": "https://gitee.com/XianZongzi/plymouth-theme-deepin-ssd-tubiao",
+    "Update": "2020-10-09 21:15:57",
+    "Size": "27.45 KB",
+    "More": "一个深度图形图标呼吸渐变的开机动画。安装后在终端中使用 sudo plymouth-set-default-theme deepin-ssd-tubiao -R 更换开机动画。",
+    "Tags": "deepin;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/94366910-0a74-11eb-817c-892015e12177.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/09/92a3e230-0a74-11eb-817c-892015e12177.png"
 }
 ,
 {
@@ -782,23 +782,6 @@
 }
 ,
 {
-    "Name": "花谱（Kaf）光标包",
-    "Version": "1.1.0",
-    "Filename": "kaf-cursors_1.1.0_all.deb",
-    "Torrent_address": "kaf-cursors_1.1.0_all.deb.torrent",
-    "Pkgname": "kaf-cursors",
-    "Author": "はちばいと@ツイッター",
-    "Contributor": "FunnyAWM",
-    "Website": "https://www.pixiv.net/users/31570727",
-    "Update": "2022-06-06 18:57:25",
-    "Size": "12.35 KB",
-    "More": "1.1.0更新内容\n修复了拖动时光标消失的情况",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/06/6b2ed620-e587-11ec-bc6b-61b955eee487.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/06/6503b450-e587-11ec-bc6b-61b955eee487.png"
-}
-,
-{
     "Name": "4k超级壁纸采集器",
     "Version": "1.0spark0",
     "Filename": "com.4kbizhi.spark_1.0spark0_all.deb",
@@ -813,6 +796,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/27/fea5321c314248d4ab3c2d351c964573.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/27/2d95826cec0c4afca86b9dfb997fae8e.png"
+}
+,
+{
+    "Name": "花谱（Kaf）光标包",
+    "Version": "1.1.0",
+    "Filename": "kaf-cursors_1.1.0_all.deb",
+    "Torrent_address": "kaf-cursors_1.1.0_all.deb.torrent",
+    "Pkgname": "kaf-cursors",
+    "Author": "はちばいと@ツイッター",
+    "Contributor": "FunnyAWM",
+    "Website": "https://www.pixiv.net/users/31570727",
+    "Update": "2022-06-06 18:57:25",
+    "Size": "12.35 KB",
+    "More": "1.1.0更新内容\n修复了拖动时光标消失的情况",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/06/6b2ed620-e587-11ec-bc6b-61b955eee487.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/06/6503b450-e587-11ec-bc6b-61b955eee487.png"
 }
 ,
 {

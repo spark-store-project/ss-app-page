@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.quarkclouddrive.spark_3.2.6spark4_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5bcf878fe61679c011834c25b0852d4b</hash>
+				  
+				<hash type="sha1">f93089a554a018e61a8ae8ccae7c66de66eb1aa1</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/cn.quarkclouddrive.spark_3.2.6spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/network/cn.quarkclouddrive.spark/cn.quarkclouddrive.spark_3.2.6spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://bdsm.spark-app.store/aarch64-store/network/cn.quarkclouddrive.spark/cn.quarkclouddrive.spark_3.2.6spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.spark-app.store/aarch64-store/network/cn.quarkclouddrive.spark/cn.quarkclouddrive.spark_3.2.6spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/cn.quarkclouddrive.spark_3.2.6spark4_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/cn.quarkclouddrive.spark_3.2.6spark4_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

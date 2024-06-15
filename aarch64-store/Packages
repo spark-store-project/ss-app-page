@@ -6835,6 +6835,26 @@ Description: xunlei download xunlei download p2p
 
 Package: tailscale
 Architecture: arm64
+Version: 1.68.1
+Priority: extra
+Section: net
+Maintainer: Tailscale Inc <info@tailscale.com>
+Installed-Size: 47555
+Depends: iptables
+Recommends: tailscale-archive-keyring (>= 1.35.181), iproute2
+Conflicts: tailscale-relay
+Replaces: tailscale-relay
+Filename: network/tailscale/tailscale_1.68.1_arm64.deb
+Size: 25849742
+MD5sum: c672a29ffa5b7b1a55ed45a82afbbb92
+SHA1: 4f3e9c9f189e6a665868bf65e25c302af2afeae8
+SHA256: fd6f56f6391dc768f8037579e6475f76579b124ca158b36b22860af6195cdfd0
+SHA512: 1c11d4518c255f74ea2c32f2b6cc8031f5b12d95daa6c3ed3ca6fbe064fcba1761f790bbae856afb1e85ffd5669f13fba7c79dc8cb2b49550a2d6202e2d34cc9
+Homepage: https://www.tailscale.com
+Description: The easiest, most secure, cross platform way to use WireGuard + oauth2 + 2FA/SSO
+
+Package: tailscale
+Architecture: arm64
 Version: 1.68.0
 Priority: extra
 Section: net
@@ -6902,6 +6922,22 @@ SHA256: 1278e13876a90eac044856fa7ec61d45d244319b2d93e486a055bc3d017264b6
 SHA512: f2446eeb0f1d42d64cc075829b15849e0cb8dd83ac003e375cd5f559d71aedebc97a5db09f4b9a3cedf85038db23df35a4e4942adc7ce4f7b21446bc33b94af2
 Homepage: https://github.com/fclash/fclash
 Description: A Clash Proxy Fronted based on Clash
+
+Package: cn.quarkclouddrive.spark
+Architecture: all
+Version: 3.2.6spark4
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: sgb76 <sgb76@163.com>
+Depends: deepin-wine8-stable, spark-dwine-helper (>= 2.2), fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: network/cn.quarkclouddrive.spark/cn.quarkclouddrive.spark_3.2.6spark4_all.deb
+Size: 150036032
+MD5sum: 5bcf878fe61679c011834c25b0852d4b
+SHA1: f93089a554a018e61a8ae8ccae7c66de66eb1aa1
+SHA256: 1f01a60ff524d214f0e53a0b61a828263306e9748528c132637325010d67e425
+SHA512: 35467c3a9cac45ea77b61616f35f9a9aa1613c13f8cc7e4605e2a59212ec85153e4c5a37895448c4b08ab61eafaa66d6534aebfbfabfd710c16d2ec343e3c2a6
+Description: QuarkCloudDrive Client on Deepin Wine8
 
 Package: baidunetdisk
 Architecture: arm64
@@ -7202,6 +7238,22 @@ SHA256: 7d9c1bc965bebecfbcfe6c5ff4a3faa8309c300e26b032b6a2f09dc2e785a33f
 SHA512: 5dc535cac896c702e8ce23e1fa364a78d7711f3becea91653e92c6248c0612c3ed8ce9dd43917b20b0e15867699813822b5e4a6fecb9a47ce618e3fcd7a374f8
 Description: The web browser from qianxin.com
  奇安信可信浏览器是基于Blink内核，专为政企定制的安全浏览器产品。简便快捷、兼容性高，满足政企互联网安全接入需求，是政企上网办公首选。
+
+Package: io.github.msojocs.bilibili
+Architecture: arm64
+Version: 1.13.6-1
+Priority: optional
+Section: application
+Maintainer: msojocs
+Installed-Size: 275001
+Filename: video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.13.6-1_arm64.deb
+Size: 73769464
+MD5sum: 0688f7c5d38ddbfd96bb09a6e8f510db
+SHA1: 33f4bf9cf27d72a77039474a0d6de7aa5cd55daf
+SHA256: 1ad5a6c8b8dcedf19fbf07a60abfca69b2ded73501efb49aab8b0e71a7fb4984
+SHA512: 351a271099f6029b6372d7707d5ab0276e56662ca4f097e9daf5caa6c403408f7a193d116ca6df946a75896e1bec25dfed2f54127e454ec5640b3bd6731205b0
+Description: BiliBili For Linux.
+  BiliBili For Linux. This version is unofficial.
 
 Package: io.github.msojocs.bilibili
 Architecture: arm64

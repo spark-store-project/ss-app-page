@@ -1447,14 +1447,14 @@
 ,
 {
     "Name": "Tailscale",
-    "Version": "1.68.0",
-    "Filename": "tailscale_1.68.0_amd64.deb",
-    "Torrent_address": "tailscale_1.68.0_amd64.deb.torrent",
+    "Version": "1.68.1",
+    "Filename": "tailscale_1.68.1_amd64.deb",
+    "Torrent_address": "tailscale_1.68.1_amd64.deb.torrent",
     "Pkgname": "tailscale",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://tailscale.com/",
-    "Update": "2024-06-13 13:46:05",
+    "Update": "2024-06-15 12:56:26",
     "Size": "27M",
     "More": "一款非常强大的异地组网软件，全平台多架构。\n此软件没有gui,所以需要命令行启动。\nsudo tailscale up",
     "Tags": "ubuntu;deepin;uos",
@@ -2259,23 +2259,6 @@
 }
 ,
 {
-    "Name": "Qili弹幕姬",
-    "Version": "1.0.0",
-    "Filename": "me.sauntor.qili_1.0.0_amd64.deb",
-    "Torrent_address": "me.sauntor.qili_1.0.0_amd64.deb.torrent",
-    "Pkgname": "me.sauntor.qili",
-    "Author": "适然",
-    "Contributor": "适然",
-    "Website": "https://github.com/sauntor/Qili",
-    "Update": "2024-01-13 06:25:26",
-    "Size": "569.81 KB",
-    "More": "Qili 是一款免费且开源的B站直播弹幕语音播报软件，主要适配Linux 平台。本软件不会收集用户的任何信息（纯本地软件，无服务端）",
-    "Tags": "ubuntu;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/13/56914e20-b199-11ee-997b-1f514a335d76.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/13/595f8950-b199-11ee-997b-1f514a335d76.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/13/5aaa7fe0-b199-11ee-997b-1f514a335d76.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/13/523b1360-b199-11ee-997b-1f514a335d76.png"
-}
-,
-{
     "Name": "哔哩下载姬（Linux版）",
     "Version": "1.0.10-1",
     "Filename": "downkyi_1.0.10-1_amd64.deb",
@@ -2290,6 +2273,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/d127b60f946c4b0a89109dcfb6139167.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/f11ffe9e58e245718abfd4470cadb65c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/49ee9d18432f4d3e92e38ba3a482d5cb.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/46d00e022bc8417eb510e5ca2734cbb6.png"
+}
+,
+{
+    "Name": "Qili弹幕姬",
+    "Version": "1.0.0",
+    "Filename": "me.sauntor.qili_1.0.0_amd64.deb",
+    "Torrent_address": "me.sauntor.qili_1.0.0_amd64.deb.torrent",
+    "Pkgname": "me.sauntor.qili",
+    "Author": "适然",
+    "Contributor": "适然",
+    "Website": "https://github.com/sauntor/Qili",
+    "Update": "2024-01-13 06:25:26",
+    "Size": "569.81 KB",
+    "More": "Qili 是一款免费且开源的B站直播弹幕语音播报软件，主要适配Linux 平台。本软件不会收集用户的任何信息（纯本地软件，无服务端）",
+    "Tags": "ubuntu;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/13/56914e20-b199-11ee-997b-1f514a335d76.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/13/595f8950-b199-11ee-997b-1f514a335d76.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/13/5aaa7fe0-b199-11ee-997b-1f514a335d76.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/13/523b1360-b199-11ee-997b-1f514a335d76.png"
 }
 ,
 {

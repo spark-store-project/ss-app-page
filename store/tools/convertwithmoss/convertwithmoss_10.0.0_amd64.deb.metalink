@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="convertwithmoss_10.0.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b5a304ce1837620d308bf442d129b9e2</hash>
+				  
+				<hash type="sha1">962d10c04e12b8376e817ec53561998275a3b1a6</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/tools/convertwithmoss/convertwithmoss_10.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/convertwithmoss/convertwithmoss_10.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://bdsm.spark-app.store/store/tools/convertwithmoss/convertwithmoss_10.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://core.spark-app.store/store/tools/convertwithmoss/convertwithmoss_10.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/convertwithmoss/convertwithmoss_10.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/convertwithmoss/convertwithmoss_10.0.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

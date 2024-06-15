@@ -1,16 +1,16 @@
 {
     "Name": "转换工具（convert tool）",
-    "Version": "7.3.0-1",
-    "Filename": "convertwithmoss_7.3.0-1_amd64.deb",
-    "Torrent_address": "convertwithmoss_7.3.0-1_amd64.deb.torrent",
+    "Version": "10.0.0",
+    "Filename": "convertwithmoss_10.0.0_amd64.deb",
+    "Torrent_address": "convertwithmoss_10.0.0_amd64.deb.torrent",
     "Pkgname": "convertwithmoss",
     "Author": "Jürgen Moßgraber <Unknown>",
     "Contributor": "Jürgen Moßgraber <Unknown>",
     "Website": "https://www.mossgrabers.de/Software/ConvertWithMoss/ConvertWithMoss.html",
-    "Update": "2024-01-02 15:37:55",
-    "Size": "75.53 MB",
+    "Update": "2024-06-15 13:23:42",
+    "Size": "85.66 MB",
     "More": "将特定源格式的多采样转换为其他目标格式。此外，它还可以从普通WAV文件创建多样本文件。 \n\n\n如果格式支持，转换过程会读取和写入元数据（名称、类别、创建者、描述和关键字）。如果源格式不支持该信息，则对名称应用猜测算法。 \n\n\n此外，可以将样本分组为组和关键范围。每个样本可以具有1个或不具有循环以及用于音高和不同回放参数的参数。",
     "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/02/5f6ff8bc84d14777b9ba0587e48a010a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/02/64d8744e790a4bdebd40882cdb86efbb.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/4286c51170db4a5e88f544cda70dc078.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/fb2dba8807ae42008298512a11d2616b.png"
 }
