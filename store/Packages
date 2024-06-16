@@ -30760,6 +30760,23 @@ SHA512: c1afa28aff2128c1f926a5934ed787b9fb20b7ecdb88e3479ef79fc3887ff4ab13a06b1e
 Description: BiliBili For Linux.
   BiliBili For Linux. This version is unofficial.
 
+Package: com.unifab.deepin
+Architecture: all
+Version: 2.0.2.4
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: DVDFab.cn
+Installed-Size: 182633
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: video/com.unifab.deepin/com.unifab.deepin_2.0.2.4_all.deb
+Size: 182652164
+MD5sum: 3539388e97df8f8a2d724b97699fc110
+SHA1: 68a1e82b50eaae8b38787fb3c621b86873418b41
+SHA256: 1a6dc9a9147924f52f2cd43556d7fa459622680e69d58b1605bb6c77e1a243cf
+SHA512: d443fccb3e2495e603703dabbf0746442255e853434b3fac18519967f5be6495d50567d99ec2e13594d3d28511ca50f70787fcf7e8ee30daa6c164a29dc4f047
+Description: .UniFab 既是一款视频格式转换器，也是一款简单的视频 AI 处理器。
+
 Package: com.videoproc-vlogger.spark
 Architecture: amd64
 Version: 1.4spark0
