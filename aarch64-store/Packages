@@ -6868,6 +6868,23 @@ SHA256: c3546ccf04424c9b29bad8ca5a7c933e1d4f505af001b1dd9ba1bed6f79b9d82
 SHA512: 1fc70cd1a7a2522660302cbca739526d7b360d72175e4bdf3a9513cf4981fa47f8f607a22d04bba2fcf6f950ad976ea546b43681f8346aa9a49eea776d26212d
 Description: 一个基于 dtk 制作的一个简易远程桌面连接软件
 
+Package: com.xiakeduanshipin.deepin
+Architecture: all
+Version: 4.8
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: 佚名RJ
+Installed-Size: 22756
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: network/com.xiakeduanshipin.deepin/com.xiakeduanshipin.deepin_4.8_all.deb
+Size: 22764100
+MD5sum: 212ebbd729931f99b0657dd029fb836c
+SHA1: 34e22e61c832fdc79a403cdb4039a99618479c16
+SHA256: e051ca8cf9d145b6ba898474364caa0833517b7a4f37d450a4855d9b14622312
+SHA512: ab9d88d5c7ecd047a19a04adeeecbee5096aa0d06b18bc4f6092b52250d7ddcd2df69f7be9059aa6f9c5dce06d6c13672a2c948ae88606781ac74775919ecdf1
+Description: .本工具支持无水印解析下载抖音、抖音极速版、快手、快手极速版、剪映、火山、皮皮虾、皮皮搞笑、最右、微视、QQ看点、西瓜视频、小红书、淘宝、天猫、绿洲、美拍、今日头条、微博、各国外平台(随缘)、各平台图集、微信公众号...等等众多短视频平台。
+
 Package: clash-verge
 Architecture: arm64
 Version: 1.6.6
