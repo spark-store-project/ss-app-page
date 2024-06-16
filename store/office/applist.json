@@ -492,21 +492,22 @@
 }
 ,
 {
-    "Name": "PDF-XChange Editor (wine)",
-    "Version": "9.3.361.0spark1",
-    "Filename": "com.tracker-software.pdfxedit.spark_9.3.361.0spark1_amd64.deb",
-    "Torrent_address": "com.tracker-software.pdfxedit.spark_9.3.361.0spark1_amd64.deb.torrent",
+    "Author": "wang",
+    "Contributor": "wang",
+    "Filename": "com.tracker-software.pdfxedit.spark_10.3.0_all.deb",
+    "More": "\nPDF-XChange Editor Plus是一款功能强大的PDF文件查看和编辑软件，它提供了便携版，这款软件以其高效的PDF处理能力而闻名，包括但不限于查看、编辑、注释、转换PDF文件。",
+    "Name": "PDF-XChange Editor Plus",
     "Pkgname": "com.tracker-software.pdfxedit.spark",
-    "Author": "Tracker Software",
-    "Contributor": "sgb76/shenmo",
-    "Website": "https://www.tracker-software.com",
-    "Update": "2022-06-20 00:01:09",
-    "Size": "276.4 MB",
-    "More": "一款功能强大的PDF阅读和编辑套件，启动速度快、内存占用少，界面友好，具备丰富的配置和功能选项，而且非常简单易用！可帮助你快速的制作和编写PDF电子文档!\n-------更新--------\n使用spark-dwine-helper运行，支持缩放\n优化更新逻辑",
-    "Tags": "deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/19/6bf6f2c0-efe8-11ec-96da-17fc96ac2a0d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/19/6bf8a070-efe8-11ec-96da-17fc96ac2a0d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/19/60282ea0-efe8-11ec-96da-17fc96ac2a0d.png"
+    "Size": "74 Mb",
+    "Tags": "deepin;uos;dwine5",
+    "Torrent_address": "com.tracker-software.pdfxedit.spark_10.3.0_all.deb.torrent",
+    "Update": "2024-06-16 15:11:39",
+    "Version": "10.3.0",
+    "Website": "https://www.pdf-xchange.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/com.tracker-software.pdfxedit.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.tracker-software.pdfxedit.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.tracker-software.pdfxedit.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.tracker-software.pdfxedit.spark/screen_3.png\"]"
 }
+
 ,
 {
     "Name": "Microsoft Office Excel 2007 Professional（wine）",
@@ -1567,22 +1568,6 @@
 }
 ,
 {
-    "Name": "通达信海通证券版（wine）",
-    "Version": "1.0.0.0deepin5",
-    "Filename": "com.tdxw.deepin_1.0.0.0deepin5_i386.deb",
-    "Pkgname": "com.tdxw.deepin",
-    "Author": "ericneon",
-    "Contributor": "ericneon",
-    "Website": "github.com/ericneon",
-    "Update": "2021-05-26 20:20:20",
-    "Size": "226.78 MB",
-    "More": "通达信的海通证券专用版",
-    "Tags": "deepin;ubuntu;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/78ced4a0-be1a-11eb-93b7-1fb62ee74886.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/7b3dd8d0-be1a-11eb-93b7-1fb62ee74886.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/26/c48bc1e0-be1b-11eb-93b7-1fb62ee74886.png"
-}
-,
-{
     "Name": "千牛 (Wine)",
     "Version": "9",
     "Filename": "spark-alqn-wine_9_all.deb",
@@ -1597,6 +1582,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/29/8e3543b0-760a-11ee-b2c1-47e2c45d7924.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/29/918b4c80-760a-11ee-b2c1-47e2c45d7924.png"
+}
+,
+{
+    "Name": "通达信海通证券版（wine）",
+    "Version": "1.0.0.0deepin5",
+    "Filename": "com.tdxw.deepin_1.0.0.0deepin5_i386.deb",
+    "Pkgname": "com.tdxw.deepin",
+    "Author": "ericneon",
+    "Contributor": "ericneon",
+    "Website": "github.com/ericneon",
+    "Update": "2021-05-26 20:20:20",
+    "Size": "226.78 MB",
+    "More": "通达信的海通证券专用版",
+    "Tags": "deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/78ced4a0-be1a-11eb-93b7-1fb62ee74886.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/7b3dd8d0-be1a-11eb-93b7-1fb62ee74886.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/26/c48bc1e0-be1b-11eb-93b7-1fb62ee74886.png"
 }
 ,
 {
@@ -2486,6 +2487,23 @@
 }
 ,
 {
+    "Name": "千牛",
+    "Version": "9.8.211",
+    "Filename": "uengine-dc-com.taobao.qianniu_9.8.211_all.deb",
+    "Torrent_address": "uengine-dc-com.taobao.qianniu_9.8.211_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.taobao.qianniu",
+    "Author": "浙江淘宝网络有限公司",
+    "Contributor": "菜鸟",
+    "Website": "https://work.taobao.com/?at_iframe=1",
+    "Update": "2024-03-02 18:07:43",
+    "Size": "136.4 MB",
+    "More": "一站式商家工作台，满足商家全场景经营诉求",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/02/9ec59a10ac854f308fc63b43462aae37.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/02/e9396997d2924592b31f37f352d215db.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/02/16df933531c3487790b1869e705bbe06.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/02/721eb3531d4b429193f4ce85096e4e3d.png"
+}
+,
+{
     "Author": "Xylink team <support@xylink.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.xylink.linuxclient_3.3.1.15008_amd64.deb",
@@ -2550,23 +2568,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/85975b70-1b1e-11eb-ba7c-d9ba7435645b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/85f5f630-1b1e-11eb-ba7c-d9ba7435645b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/862ac1d0-1b1e-11eb-ba7c-d9ba7435645b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/80bbeb20-1b1e-11eb-ba7c-d9ba7435645b.png"
-}
-,
-{
-    "Name": "千牛",
-    "Version": "9.8.211",
-    "Filename": "uengine-dc-com.taobao.qianniu_9.8.211_all.deb",
-    "Torrent_address": "uengine-dc-com.taobao.qianniu_9.8.211_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.taobao.qianniu",
-    "Author": "浙江淘宝网络有限公司",
-    "Contributor": "菜鸟",
-    "Website": "https://work.taobao.com/?at_iframe=1",
-    "Update": "2024-03-02 18:07:43",
-    "Size": "136.4 MB",
-    "More": "一站式商家工作台，满足商家全场景经营诉求",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/02/9ec59a10ac854f308fc63b43462aae37.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/02/e9396997d2924592b31f37f352d215db.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/02/16df933531c3487790b1869e705bbe06.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/02/721eb3531d4b429193f4ce85096e4e3d.png"
 }
 ,
 {
@@ -3571,6 +3572,23 @@
 }
 ,
 {
+    "Name": "希沃白板Web",
+    "Version": "1.14514",
+    "Filename": "wed-seewo_1.14514_all.deb",
+    "Torrent_address": "wed-seewo_1.14514_all.deb.torrent",
+    "Pkgname": "wed-seewo",
+    "Author": "baimacao",
+    "Contributor": "baimacao",
+    "Website": "https://enweb.seewo.com/",
+    "Update": "2024-05-22 17:50:56",
+    "Size": "29.16 KB",
+    "More": "唯一被老师认可的希沃白板，可以正常上课，web应用",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/a0ba4974dee742fcb656146be01cb321.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/49082957d0c64a059f6cadb90be58342.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/b80a658ca0594703ad75bcbd7c0abccb.png"
+}
+,
+{
     "Name": "堆塔思维（wine）",
     "Version": "1.3.0spark0",
     "Filename": "com.duitasiwei.spark_1.3.0spark0_amd64.deb",
@@ -3600,23 +3618,6 @@
     "Tags": "deepin;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/07/e27e1b10-20ca-11eb-8b68-e56d9275241d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/07/ea2dba00-20ca-11eb-8b68-e56d9275241d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/07/d44beb80-20ca-11eb-8b68-e56d9275241d.png"
-}
-,
-{
-    "Name": "希沃白板Web",
-    "Version": "1.14514",
-    "Filename": "wed-seewo_1.14514_all.deb",
-    "Torrent_address": "wed-seewo_1.14514_all.deb.torrent",
-    "Pkgname": "wed-seewo",
-    "Author": "baimacao",
-    "Contributor": "baimacao",
-    "Website": "https://enweb.seewo.com/",
-    "Update": "2024-05-22 17:50:56",
-    "Size": "29.16 KB",
-    "More": "唯一被老师认可的希沃白板，可以正常上课，web应用",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/a0ba4974dee742fcb656146be01cb321.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/49082957d0c64a059f6cadb90be58342.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/b80a658ca0594703ad75bcbd7c0abccb.png"
 }
 ,
 {
@@ -4990,6 +4991,23 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/07/97e50550-276d-11ec-a908-d7b2efc621ed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/07/9bb74300-276d-11ec-a908-d7b2efc621ed.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/07/8142f410-276d-11ec-a908-d7b2efc621ed.png"
+}
+,
+{
+    "Name": "WPS Office 365",
+    "Version": "12.8.2.16969.AK.preload.sw",
+    "Filename": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb",
+    "Torrent_address": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb.torrent",
+    "Pkgname": "wps-office-365",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://wps-community.org",
+    "Update": "2024-06-16 10:13:44",
+    "Size": "722.16 MB",
+    "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/819a4c6aea004b1bb9059da5c1511085.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6bd9ad01e587436fb9ca5e74ef078921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/76097ef94d21409091dbcada9fcefe7c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/2dffce17cb754c4a8407d85de5511bc2.png"
 }
 ,
 {

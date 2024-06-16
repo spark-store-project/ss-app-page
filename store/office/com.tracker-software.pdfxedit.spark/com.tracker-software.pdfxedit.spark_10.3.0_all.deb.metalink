@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.tracker-software.pdfxedit.spark_10.3.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">78548ebdf516de5279c06a968f12f199</hash>
+				  
+				<hash type="sha1">e5e72b809a83cf5b8943929b721e1428ca18ba15</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.tracker-software.pdfxedit.spark/com.tracker-software.pdfxedit.spark_10.3.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://piercing.spark-app.store/store/office/com.tracker-software.pdfxedit.spark/com.tracker-software.pdfxedit.spark_10.3.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store/store/office/com.tracker-software.pdfxedit.spark/com.tracker-software.pdfxedit.spark_10.3.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://blinder.spark-app.store/store/office/com.tracker-software.pdfxedit.spark/com.tracker-software.pdfxedit.spark_10.3.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/office/com.tracker-software.pdfxedit.spark/com.tracker-software.pdfxedit.spark_10.3.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.tracker-software.pdfxedit.spark/com.tracker-software.pdfxedit.spark_10.3.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.tracker-software.pdfxedit.spark/com.tracker-software.pdfxedit.spark_10.3.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

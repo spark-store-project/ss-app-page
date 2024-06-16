@@ -5640,6 +5640,23 @@ SHA512: 6387533ad6277f4e5f9fcfe9db03dfe028c9a8d708902c8763207749b5fca5aa1af63f45
 Homepage: https://gitee.com/deepin-opensource/one-tomato
 Description: 番茄管理法小闹钟
 
+Package: com.tracker-software.pdfxedit.spark
+Architecture: all
+Version: 10.3.0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: wang
+Installed-Size: 74453
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: office/com.tracker-software.pdfxedit.spark/com.tracker-software.pdfxedit.spark_10.3.0_all.deb
+Size: 74465164
+MD5sum: 78548ebdf516de5279c06a968f12f199
+SHA1: e5e72b809a83cf5b8943929b721e1428ca18ba15
+SHA256: af1927a1d556bd594cbc10a4286465444c6d0a57c9c6a46385e6eb54979e4c38
+SHA512: 15dd93d35db990921b1be135218bf4fcbdfe42e2282b87e6bd719dd7b25214a4acc5fa8f9abd1c4bc483a865182ea9fe51e8bb1dc9075ded140904ca96d04644
+Description: .PDF-XChange Editor Plus是一款功能强大的PDF文件查看和编辑软件，它提供了便携版，这款软件以其高效的PDF处理能力而闻名，包括但不限于查看、编辑、注释、转换PDF文件。
+
 Package: com.sogou.sogoupinyin-uos-sogouhw
 Architecture: all
 Version: 1.0.0
