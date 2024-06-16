@@ -523,22 +523,6 @@
 }
 ,
 {
-    "Name": "H5太阳系",
-    "Version": "1.0",
-    "Filename": "solar_1.0_amd64.deb",
-    "Pkgname": "solar",
-    "Author": "Habrahabr.ru",
-    "Contributor": "shenmo",
-    "Website": "http://habrahabr.ru/post/164899/",
-    "Update": "2020-11-02 07:13:28",
-    "Size": "275.41 KB",
-    "More": "HTML5写成的太阳系模型",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/02/e44afce0-1cda-11eb-ac9a-e1d96d4320c3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/02/e4558430-1cda-11eb-ac9a-e1d96d4320c3.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/02/cdac9520-1cda-11eb-ac9a-e1d96d4320c3.png"
-}
-,
-{
     "Name": "Iriun 电脑使用手机摄像头",
     "Version": "2.7",
     "Filename": "iriunwebcam_2.7_all.deb",
@@ -553,6 +537,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/29/929f7b51d32d4dbebc4ce2a7042bccea.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/29/2b3e288ce42545ef9d2981d1eb4a9328.png"
+}
+,
+{
+    "Name": "H5太阳系",
+    "Version": "1.0",
+    "Filename": "solar_1.0_amd64.deb",
+    "Pkgname": "solar",
+    "Author": "Habrahabr.ru",
+    "Contributor": "shenmo",
+    "Website": "http://habrahabr.ru/post/164899/",
+    "Update": "2020-11-02 07:13:28",
+    "Size": "275.41 KB",
+    "More": "HTML5写成的太阳系模型",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/02/e44afce0-1cda-11eb-ac9a-e1d96d4320c3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/02/e4558430-1cda-11eb-ac9a-e1d96d4320c3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/02/cdac9520-1cda-11eb-ac9a-e1d96d4320c3.png"
 }
 ,
 {
@@ -699,23 +699,6 @@
 
 ,
 {
-    "Name": "汉王 PDF OCR（Wine）",
-    "Version": "8.1.4.16deepin4",
-    "Filename": "com.hwpdfocr.spark_8.1.4.16deepin4_all.deb",
-    "Torrent_address": "com.hwpdfocr.spark_8.1.4.16deepin4_all.deb.torrent",
-    "Pkgname": "com.hwpdfocr.spark",
-    "Author": "gfdgd xi<3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.hw99.com/",
-    "Update": "2023-07-12 07:59:13",
-    "Size": "26.73 MB",
-    "More": "识别正确率高，速度快带有PDF文件处理功能的OCR软件。有批量处理功能，避免了单页处理的麻烦；支持处理灰度、彩色、黑白三种色彩的BMP、TIF、JPG、PDF多种格式的图像文件；可识别简体、繁体和英文三种语言；具有简单易用的表格识别功能；具有TXT、RTF、HTM和XLS多种输出格式，并有所见即所得的版面还原功能。新增打开与识别PDF文件功能，支持文字型PDF的直接转换和图像型PDF的OCR识别，既可以采用OCR的方式将PDF文件转换为可编辑文档，也可以采用格式转换的方式直接转换文字型PDF文件为RTF文件或文本文件。本软件对个人用户免费，无需注册，无功能限制。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/12/710677c2488b490d8b3d63ab3007bdd0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/12/88e1c391b8f546eaa800f60e1e495c58.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/12/51b3008f9a364fdcb0f050e0ac278d16.png"
-}
-,
-{
     "Name": "嘉立创EDA专业版",
     "Version": "2.1.42",
     "Filename": "cn.lceda.pro_2.1.42_amd64.deb",
@@ -730,6 +713,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/0f3a5a53a20244ebb385eb35f1748ce0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/c371abd39ebd4571a61185379b8df0b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/905dd39da1dd4b78b4eff0c6bbd763e0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/ac8523ffeead46bca96a30e6ad8336f2.png"
+}
+,
+{
+    "Name": "汉王 PDF OCR（Wine）",
+    "Version": "8.1.4.16deepin4",
+    "Filename": "com.hwpdfocr.spark_8.1.4.16deepin4_all.deb",
+    "Torrent_address": "com.hwpdfocr.spark_8.1.4.16deepin4_all.deb.torrent",
+    "Pkgname": "com.hwpdfocr.spark",
+    "Author": "gfdgd xi<3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.hw99.com/",
+    "Update": "2023-07-12 07:59:13",
+    "Size": "26.73 MB",
+    "More": "识别正确率高，速度快带有PDF文件处理功能的OCR软件。有批量处理功能，避免了单页处理的麻烦；支持处理灰度、彩色、黑白三种色彩的BMP、TIF、JPG、PDF多种格式的图像文件；可识别简体、繁体和英文三种语言；具有简单易用的表格识别功能；具有TXT、RTF、HTM和XLS多种输出格式，并有所见即所得的版面还原功能。新增打开与识别PDF文件功能，支持文字型PDF的直接转换和图像型PDF的OCR识别，既可以采用OCR的方式将PDF文件转换为可编辑文档，也可以采用格式转换的方式直接转换文字型PDF文件为RTF文件或文本文件。本软件对个人用户免费，无需注册，无功能限制。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/12/710677c2488b490d8b3d63ab3007bdd0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/12/88e1c391b8f546eaa800f60e1e495c58.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/12/51b3008f9a364fdcb0f050e0ac278d16.png"
 }
 ,
 {
@@ -884,6 +884,23 @@
 }
 ,
 {
+    "Name": "中望3D 2023 For Linux",
+    "Version": "2023.0.3.1",
+    "Filename": "com.zwsoft.zw3dprofessional_2023.0.3.1_all.deb",
+    "Torrent_address": "com.zwsoft.zw3dprofessional_2023.0.3.1_all.deb.torrent",
+    "Pkgname": "com.zwsoft.zw3dprofessional",
+    "Author": "Yongzhuo Wei <weiyongzhuo@zwcad.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.zwsoft.cn",
+    "Update": "2023-02-27 13:36:04",
+    "Size": "478.76 MB",
+    "More": "ZW3D Linux Professional is a Demo of ZW3D Linux. ZW3D Linux Professional is an integrated CAD solution designed for Reviewing and Inspecting 3D models and 2D Drawings.  ZW3D Linux Professional also includes basic functions for 3D Modeling, 2D Sketching and 2D Drawing.",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/27/8aa9f42e15bd41d3a228017f88deb7e7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/27/cb901d634d0e4ab199310ee2976a2f30.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/27/5e8adad04a6a438ba20f8671a0801994.png"
+}
+,
+{
     "Name": "MyPaint",
     "Version": "2.0.1spark0",
     "Filename": "org.mypaint.spark_2.0.1spark0_amd64.deb",
@@ -914,23 +931,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/02/77b6ceb4e90f4375bb453c51142a339f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/02/30f9d7400bc54678a506c385eab39686.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/02/2fb4800c99314564b506baba099fcee3.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/02/3000c31f0b3b4167bfd1bcc16fa25c53.png"
-}
-,
-{
-    "Name": "中望3D 2023 For Linux",
-    "Version": "2023.0.3.1",
-    "Filename": "com.zwsoft.zw3dprofessional_2023.0.3.1_all.deb",
-    "Torrent_address": "com.zwsoft.zw3dprofessional_2023.0.3.1_all.deb.torrent",
-    "Pkgname": "com.zwsoft.zw3dprofessional",
-    "Author": "Yongzhuo Wei <weiyongzhuo@zwcad.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://www.zwsoft.cn",
-    "Update": "2023-02-27 13:36:04",
-    "Size": "478.76 MB",
-    "More": "ZW3D Linux Professional is a Demo of ZW3D Linux. ZW3D Linux Professional is an integrated CAD solution designed for Reviewing and Inspecting 3D models and 2D Drawings.  ZW3D Linux Professional also includes basic functions for 3D Modeling, 2D Sketching and 2D Drawing.",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/27/8aa9f42e15bd41d3a228017f88deb7e7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/27/cb901d634d0e4ab199310ee2976a2f30.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/27/5e8adad04a6a438ba20f8671a0801994.png"
 }
 ,
 {
@@ -2019,6 +2019,24 @@
 }
 ,
 {
+    "Author": "info@ovital.com",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "ovital-map_2.6.8_arm64.deb",
+    "More": "奥维互动地图简称奥维地图，是由北京元生华网软件有限公司开发的跨平台地图浏览软件\n全面支持微软、安卓等主流平台，而且适配统信UOS、深度科技Deepin、银河麒麟等国产主流操作系统",
+    "Name": "奥维互动地图",
+    "Pkgname": "ovital-map",
+    "Size": "103 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "ovital-map_2.6.8_arm64.deb.torrent",
+    "Update": "2024-05-30 16:07:55",
+    "Version": "2.6.8",
+    "Website": "https://www.ovital.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/ovital-map/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/ovital-map/screen_1.png\"]"
+}
+
+,
+{
     "Name": "图标转换工具",
     "Version": "1.0.0",
     "Filename": "icon-convertor_1.0.0_amd64.deb",
@@ -2085,24 +2103,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/daafea5c5f4c4f2c895c374304168813.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/4638477860754a9286019c546bd23e6c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/03/a0dd19ba253b4ec8a963ffb1b24b29aa.png"
 }
-,
-{
-    "Author": "info@ovital.com",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "ovital-map_2.6.8_arm64.deb",
-    "More": "奥维互动地图简称奥维地图，是由北京元生华网软件有限公司开发的跨平台地图浏览软件\n全面支持微软、安卓等主流平台，而且适配统信UOS、深度科技Deepin、银河麒麟等国产主流操作系统",
-    "Name": "奥维互动地图",
-    "Pkgname": "ovital-map",
-    "Size": "103 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "ovital-map_2.6.8_arm64.deb.torrent",
-    "Update": "2024-05-30 16:07:55",
-    "Version": "2.6.8",
-    "Website": "https://www.ovital.com",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/ovital-map/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/ovital-map/screen_1.png\"]"
-}
-
 ,
 {
     "Name": "中望CAD建筑版 2022 For Linux",

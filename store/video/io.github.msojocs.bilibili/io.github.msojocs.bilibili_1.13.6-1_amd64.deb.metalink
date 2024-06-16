@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="io.github.msojocs.bilibili_1.13.6-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">162d181be84bf75451e3b8f0b0309231</hash>
+				  
+				<hash type="sha1">f033a5aed521658f84834787944d777d6525d60d</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.13.6-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://piercing.spark-app.store/store/video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.13.6-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store/store/video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.13.6-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://blinder.spark-app.store/store/video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.13.6-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.13.6-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.13.6-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.13.6-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

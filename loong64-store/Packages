@@ -8188,22 +8188,6 @@ SHA512: 2f9ea0704bfd55d5116aec72b96dba4668ed763b1c11040a1f4fffb938b9839f4e342cb5
 Description: BiliBili For Linux.
   BiliBili For Linux. This version is unofficial.
 
-Package: io.github.msojocs.bilibili
-Architecture: loong64
-Version: 1.13.5-2
-Priority: optional
-Section: application
-Maintainer: msojocs
-Installed-Size: 361515
-Filename: video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.13.5-2_loong64.deb
-Size: 80789644
-MD5sum: 34650adbc728adef00ac5d75ee54c250
-SHA1: 81e5eb6e9607c709eea28402d82eab2e2b2d107c
-SHA256: 18d3cbb54633157e7647131ed0d6b152c0e743216c7534b077ba7f83d7ed78de
-SHA512: 4dd05a3a5357cbe4b39f92c854539977c4a74cf71a48130f917c8f7e5e142b82a3fcd311572f8b85bb04b05c0c34372ef6bdef9726c8b34dbd8da903bceaec3a
-Description: BiliBili For Linux.
-  BiliBili For Linux. This version is unofficial.
-
 Package: org.openshot.spark
 Architecture: all
 Version: 2.4.3+dfsg1-1.1

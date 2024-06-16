@@ -507,23 +507,6 @@
 }
 ,
 {
-    "Name": "软件包管理器(apt)",
-    "Version": "0.7.9-20231206",
-    "Filename": "z-tools-aptmanager_0.7.9-20231206_amd64.deb",
-    "Torrent_address": "z-tools-aptmanager_0.7.9-20231206_amd64.deb.torrent",
-    "Pkgname": "z-tools-aptmanager",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/z-tools",
-    "Update": "2023-12-06 17:57:21",
-    "Size": "57.08 KB",
-    "More": "一个简单的软件包管理工具\n\nv0.7.8 - 将实时更新按钮改为刷新按钮\nv0.7.9 - 添加版本号搜索功能",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/4195118734ba4e99b034c0d32a17ab6b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/8866abb415de4864af6c2c45b56b1838.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/cfd04b0a308c46ab86ebb8d0f9954619.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/9f5b9d39eb014cf4b25e3365ed802dd4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/b9dd84e20c234e1db81638a8f147892a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/2c3aef034dbd4b32b53e74ceb7c4dca7.png"
-}
-,
-{
     "Name": "QtScrcpy",
     "Version": "2.1.2-3",
     "Filename": "qtscrcpy_2.1.2-3_amd64.deb",
@@ -538,6 +521,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/29/28ffd7fe2a3146e99be6f56e68c4e63d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/29/85b6bfcfa7ec47e5b635afc8df422f67.png"
+}
+,
+{
+    "Name": "软件包管理器(apt)",
+    "Version": "0.7.9-20231206",
+    "Filename": "z-tools-aptmanager_0.7.9-20231206_amd64.deb",
+    "Torrent_address": "z-tools-aptmanager_0.7.9-20231206_amd64.deb.torrent",
+    "Pkgname": "z-tools-aptmanager",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/z-tools",
+    "Update": "2023-12-06 17:57:21",
+    "Size": "57.08 KB",
+    "More": "一个简单的软件包管理工具\n\nv0.7.8 - 将实时更新按钮改为刷新按钮\nv0.7.9 - 添加版本号搜索功能",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/4195118734ba4e99b034c0d32a17ab6b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/8866abb415de4864af6c2c45b56b1838.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/cfd04b0a308c46ab86ebb8d0f9954619.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/9f5b9d39eb014cf4b25e3365ed802dd4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/b9dd84e20c234e1db81638a8f147892a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/2c3aef034dbd4b32b53e74ceb7c4dca7.png"
 }
 ,
 {
@@ -1029,23 +1029,6 @@
 }
 ,
 {
-    "Name": "RustDesk",
-    "Version": "1.2.3",
-    "Filename": "rustdesk_1.2.3_amd64.deb",
-    "Torrent_address": "rustdesk_1.2.3_amd64.deb.torrent",
-    "Pkgname": "rustdesk",
-    "Author": "rustdesk <info@rustdesk.com>",
-    "Contributor": "rustdesk <info@rustdesk.com>",
-    "Website": "https://rustdesk.com",
-    "Update": "2024-02-06 12:35:53",
-    "Size": "17.86 MB",
-    "More": "开源远程桌面软件，开箱即用，无需任何配置。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/667306c238a24f0793ec1b743c15f431.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/82c68a1816ec4796a31b1b22e67789b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/1a67dedd3d5d475494a24edb648ee880.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/9f2afc5705fa426ab6930e4519ef34ac.png"
-}
-,
-{
     "Name": "安兔兔评测",
     "Version": "1.0.0.610",
     "Filename": "com.antutu.benchmark_1.0.0.610_amd64.deb",
@@ -1060,6 +1043,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/8026135d32384834a6ce7118be2ac42f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/317409dd01364c45b6723c782d3d29eb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/46cd0f0ece934816be6bf039b9b9595a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/34e44c4d9b5b4d22a65767bed3684ffd.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/11/fde06c9646d84c6c98829ceacd849d16.png"
+}
+,
+{
+    "Name": "RustDesk",
+    "Version": "1.2.3",
+    "Filename": "rustdesk_1.2.3_amd64.deb",
+    "Torrent_address": "rustdesk_1.2.3_amd64.deb.torrent",
+    "Pkgname": "rustdesk",
+    "Author": "rustdesk <info@rustdesk.com>",
+    "Contributor": "rustdesk <info@rustdesk.com>",
+    "Website": "https://rustdesk.com",
+    "Update": "2024-02-06 12:35:53",
+    "Size": "17.86 MB",
+    "More": "开源远程桌面软件，开箱即用，无需任何配置。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/667306c238a24f0793ec1b743c15f431.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/82c68a1816ec4796a31b1b22e67789b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/1a67dedd3d5d475494a24edb648ee880.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/9f2afc5705fa426ab6930e4519ef34ac.png"
 }
 ,
 {
@@ -1779,6 +1779,23 @@
 }
 ,
 {
+    "Name": "WinSCP",
+    "Version": "6.1.2Spark0",
+    "Filename": "com.winscp.spark_6.1.2Spark0_i386.deb",
+    "Torrent_address": "com.winscp.spark_6.1.2Spark0_i386.deb.torrent",
+    "Pkgname": "com.winscp.spark",
+    "Author": "错失一亿",
+    "Contributor": "错失一亿",
+    "Website": "no",
+    "Update": "2023-10-15 13:24:13",
+    "Size": "17.66 MB",
+    "More": "很喜欢这款软件的同步功能和生成url时带密码功能，这么好用的app不知道为啥没人打包，研究了下打包分享出来",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/15/06a48b80-6b1b-11ee-b518-4d7290b69353.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/15/fb212840-6b1a-11ee-b518-4d7290b69353.png"
+}
+,
+{
     "Name": "无界投屏",
     "Version": "2.1.2-1",
     "Filename": "uncon_2.1.2-1_amd64.deb",
@@ -1810,23 +1827,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/44f62f2b63894098a68cfa496f05e3d0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/29/2c1f205a4d16446bb7f3eaccbe600006.png"
-}
-,
-{
-    "Name": "WinSCP",
-    "Version": "6.1.2Spark0",
-    "Filename": "com.winscp.spark_6.1.2Spark0_i386.deb",
-    "Torrent_address": "com.winscp.spark_6.1.2Spark0_i386.deb.torrent",
-    "Pkgname": "com.winscp.spark",
-    "Author": "错失一亿",
-    "Contributor": "错失一亿",
-    "Website": "no",
-    "Update": "2023-10-15 13:24:13",
-    "Size": "17.66 MB",
-    "More": "很喜欢这款软件的同步功能和生成url时带密码功能，这么好用的app不知道为啥没人打包，研究了下打包分享出来",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/15/06a48b80-6b1b-11ee-b518-4d7290b69353.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/15/fb212840-6b1a-11ee-b518-4d7290b69353.png"
 }
 ,
 {
@@ -2299,6 +2299,23 @@
 }
 ,
 {
+    "Name": "GXDE 内核管理器 1.1.0",
+    "Version": "1.1.0",
+    "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
+    "Torrent_address": "gxde-kernel-manager_1.1.0_amd64.deb.torrent",
+    "Pkgname": "gxde-kernel-manager",
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
+    "Update": "2024-05-12 17:25:58",
+    "Size": "1.07 MB",
+    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \n\n\nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
+}
+,
+{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Filename": "open-in-terminal-tool_1.0.1_all.deb",
@@ -2330,23 +2347,6 @@
    "Tags":"community;deepin;uos;ubuntu"
 }
 
-,
-{
-    "Name": "GXDE 内核管理器 1.1.0",
-    "Version": "1.1.0",
-    "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
-    "Torrent_address": "gxde-kernel-manager_1.1.0_amd64.deb.torrent",
-    "Pkgname": "gxde-kernel-manager",
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
-    "Update": "2024-05-12 17:25:58",
-    "Size": "1.07 MB",
-    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \n\n\nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
-}
 ,
 {
     "Name": "GitHub 访问加速包",

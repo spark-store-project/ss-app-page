@@ -6853,26 +6853,6 @@ SHA512: 1c11d4518c255f74ea2c32f2b6cc8031f5b12d95daa6c3ed3ca6fbe064fcba1761f790bb
 Homepage: https://www.tailscale.com
 Description: The easiest, most secure, cross platform way to use WireGuard + oauth2 + 2FA/SSO
 
-Package: tailscale
-Architecture: arm64
-Version: 1.68.0
-Priority: extra
-Section: net
-Maintainer: Tailscale Inc <info@tailscale.com>
-Installed-Size: 47553
-Depends: iptables
-Recommends: tailscale-archive-keyring (>= 1.35.181), iproute2
-Conflicts: tailscale-relay
-Replaces: tailscale-relay
-Filename: network/tailscale/tailscale_1.68.0_arm64.deb
-Size: 25846516
-MD5sum: f8cbde588f7d75b0a6c40be45e507b98
-SHA1: 434f122e96076fd4ede98742dab0603e34fb06bb
-SHA256: 62d4bf2f20895d37d0b179d1686197e179c5062dd83dfaa885909809733a59f9
-SHA512: d85dfb8c499ed54736d0447091246531568b34f39579fc11395797a193f71dbdaabba8db32f2c30b1d2ba839580fa60ff876905a1111a5cb1522189dedd551f7
-Homepage: https://www.tailscale.com
-Description: The easiest, most secure, cross platform way to use WireGuard + oauth2 + 2FA/SSO
-
 Package: spark-simple-remote-desktop-accessor
 Architecture: arm64
 Version: 1.2.1
@@ -7252,22 +7232,6 @@ MD5sum: 0688f7c5d38ddbfd96bb09a6e8f510db
 SHA1: 33f4bf9cf27d72a77039474a0d6de7aa5cd55daf
 SHA256: 1ad5a6c8b8dcedf19fbf07a60abfca69b2ded73501efb49aab8b0e71a7fb4984
 SHA512: 351a271099f6029b6372d7707d5ab0276e56662ca4f097e9daf5caa6c403408f7a193d116ca6df946a75896e1bec25dfed2f54127e454ec5640b3bd6731205b0
-Description: BiliBili For Linux.
-  BiliBili For Linux. This version is unofficial.
-
-Package: io.github.msojocs.bilibili
-Architecture: arm64
-Version: 1.13.5-2
-Priority: optional
-Section: application
-Maintainer: msojocs
-Installed-Size: 274973
-Filename: video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.13.5-2_arm64.deb
-Size: 73747040
-MD5sum: c00ac4556c34d2509ca5befdec7d83c3
-SHA1: ebccad31d82fc8cccce783e9cd98ca2adfe02200
-SHA256: 98b87548efa4937276b5a00bcddea4dbe32b0c37cdcb58eeed9a3670c0a0124b
-SHA512: 91f0be218f75385b970fea30d8ae047ecc1aabe5414c89c3a1d7f780f26310bc01eb7fb0fdc6f162d92e62e85723f59dcf06427ca0f13d31d026b9cc65b4df1f
 Description: BiliBili For Linux.
   BiliBili For Linux. This version is unofficial.
 
