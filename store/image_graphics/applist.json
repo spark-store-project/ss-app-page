@@ -1047,6 +1047,22 @@
 }
 ,
 {
+    "Name": "PhotoZoom Pro 8（wine）",
+    "Version": "1.1",
+    "Filename": "spark-photozoom_1.1_i386.deb",
+    "Pkgname": "spark-photozoom",
+    "Author": "BenVista",
+    "Contributor": "gfdgd xi",
+    "Website": "https://www.benvista.com/",
+    "Update": "2021-01-20 09:54:02",
+    "Size": "40.13 MB",
+    "More": "这是一个使用了全新的S-Spline技术的程序，对不断放大的图片保持了极佳的品质\n（我发现以前打包上传的是非官方原版的，因此重新打包，发现官方原版的 PhotoZoom Pro 8 可以正常使用）",
+    "Tags": "deepin;dwine2",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/20/fa49f170-5ac1-11eb-97bf-ef654263344e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/20/fa5f4e30-5ac1-11eb-97bf-ef654263344e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/20/fa74aaf0-5ac1-11eb-97bf-ef654263344e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/20/f1385180-5ac1-11eb-97bf-ef654263344e.png"
+}
+,
+{
     "Name": "菠萝看图",
     "Version": "0.6.6",
     "Filename": "pineapple-pictures_0.6.6_amd64.deb",
@@ -1080,19 +1096,20 @@
 }
 ,
 {
-    "Name": "PhotoZoom Pro 8（wine）",
-    "Version": "1.1",
-    "Filename": "spark-photozoom_1.1_i386.deb",
-    "Pkgname": "spark-photozoom",
-    "Author": "BenVista",
-    "Contributor": "gfdgd xi",
-    "Website": "https://www.benvista.com/",
-    "Update": "2021-01-20 09:54:02",
-    "Size": "40.13 MB",
-    "More": "这是一个使用了全新的S-Spline技术的程序，对不断放大的图片保持了极佳的品质\n（我发现以前打包上传的是非官方原版的，因此重新打包，发现官方原版的 PhotoZoom Pro 8 可以正常使用）",
-    "Tags": "deepin;dwine2",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/20/fa49f170-5ac1-11eb-97bf-ef654263344e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/20/fa5f4e30-5ac1-11eb-97bf-ef654263344e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/20/fa74aaf0-5ac1-11eb-97bf-ef654263344e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/20/f1385180-5ac1-11eb-97bf-ef654263344e.png"
+    "Name": "美图秀秀7.0",
+    "Version": "7.0",
+    "Filename": "com.mtxx.wine_7.0_all.deb",
+    "Torrent_address": "com.mtxx.wine_7.0_all.deb.torrent",
+    "Pkgname": "com.mtxx.wine",
+    "Author": "LFRon",
+    "Contributor": "LFRon",
+    "Website": "https://pc.meitu.com/",
+    "Update": "2024-02-15 21:34:33",
+    "Size": "284.7 MB",
+    "More": "Deepin-wine8运行的美图秀秀7.0-AI版本(64位)\n\n目前除了批处理会一直加载无法进入以外,没有其它问题,若发现其它问题欢迎反馈~",
+    "Tags": "ubuntu;deepin;uos;dwine2;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/666a8eddba6e4fdd84772e3fd1146aed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/f7329e7568ff46a3b6dcdba54920bba8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/e8957517f0704012b3a5479b805a217d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/c85b0409a52b461fa0fd777d171d6293.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/15/aa929c369b724442b9969f8bb7fa63fb.png"
 }
 ,
 {
@@ -1110,23 +1127,6 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/03/bb2750358d4548feaf0958136833807c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/03/2dbad487251447bc8eded1687878becb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/03/9a049ab9e49542a2af02e4fe1bc1425b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/03/e1da53ab4c0d43169ba7005c6159260b.png"
-}
-,
-{
-    "Name": "美图秀秀7.0",
-    "Version": "7.0",
-    "Filename": "com.mtxx.wine_7.0_all.deb",
-    "Torrent_address": "com.mtxx.wine_7.0_all.deb.torrent",
-    "Pkgname": "com.mtxx.wine",
-    "Author": "LFRon",
-    "Contributor": "LFRon",
-    "Website": "https://pc.meitu.com/",
-    "Update": "2024-02-15 21:34:33",
-    "Size": "284.7 MB",
-    "More": "Deepin-wine8运行的美图秀秀7.0-AI版本(64位)\n\n目前除了批处理会一直加载无法进入以外,没有其它问题,若发现其它问题欢迎反馈~",
-    "Tags": "ubuntu;deepin;uos;dwine2;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/666a8eddba6e4fdd84772e3fd1146aed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/f7329e7568ff46a3b6dcdba54920bba8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/e8957517f0704012b3a5479b805a217d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/15/c85b0409a52b461fa0fd777d171d6293.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/15/aa929c369b724442b9969f8bb7fa63fb.png"
 }
 ,
 {
@@ -1329,6 +1329,23 @@
 }
 ,
 {
+    "Name": "PhotoLine",
+    "Version": "23.02spark1",
+    "Filename": "com.pl32.photoline.spark_23.02spark1_amd64.deb",
+    "Torrent_address": "com.pl32.photoline.spark_23.02spark1_amd64.deb.torrent",
+    "Pkgname": "com.pl32.photoline.spark",
+    "Author": "Computerinsel GmbH",
+    "Contributor": "sgb76",
+    "Website": "https://www.pl32.com/index.php",
+    "Update": "2022-03-28 19:04:15",
+    "Size": "44.49 MB",
+    "More": "一款功能强大的图像处理软件",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/28/8fe7b320-ae86-11ec-b674-c3b39b0ee764.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/28/95958ea0-ae86-11ec-b674-c3b39b0ee764.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/28/993d39e0-ae86-11ec-b674-c3b39b0ee764.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/28/89578df0-ae86-11ec-b674-c3b39b0ee764.png"
+}
+,
+{
    "Name":"qimgv看图",
    "Version":"0.9.1",
    "Filename":"qimgv_0.9.1_amd64.deb",
@@ -1356,23 +1373,6 @@
     "Tags": "deepin;dtk5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/09/e3fea700-b019-11eb-8858-bdd802c51c43.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/09/e5627cc0-b019-11eb-8858-bdd802c51c43.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/09/de7bfa30-b019-11eb-8858-bdd802c51c43.png"
-}
-,
-{
-    "Name": "PhotoLine",
-    "Version": "23.02spark1",
-    "Filename": "com.pl32.photoline.spark_23.02spark1_amd64.deb",
-    "Torrent_address": "com.pl32.photoline.spark_23.02spark1_amd64.deb.torrent",
-    "Pkgname": "com.pl32.photoline.spark",
-    "Author": "Computerinsel GmbH",
-    "Contributor": "sgb76",
-    "Website": "https://www.pl32.com/index.php",
-    "Update": "2022-03-28 19:04:15",
-    "Size": "44.49 MB",
-    "More": "一款功能强大的图像处理软件",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/28/8fe7b320-ae86-11ec-b674-c3b39b0ee764.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/28/95958ea0-ae86-11ec-b674-c3b39b0ee764.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/28/993d39e0-ae86-11ec-b674-c3b39b0ee764.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/28/89578df0-ae86-11ec-b674-c3b39b0ee764.png"
 }
 ,
 {
@@ -1607,6 +1607,23 @@
 }
 ,
 {
+    "Name": "Chasys Draw IES",
+    "Version": "5.29.01spark3",
+    "Filename": "com.jpchacha.chasysdraw.spark_5.29.01spark3_all.deb",
+    "Torrent_address": "com.jpchacha.chasysdraw.spark_5.29.01spark3_all.deb.torrent",
+    "Pkgname": "com.jpchacha.chasysdraw.spark",
+    "Author": "John Paul Chacha's Lab",
+    "Contributor": "sgb76",
+    "Website": "https://www.jpchacha.com/chasysdraw/index.php",
+    "Update": "2023-12-14 16:53:20",
+    "Size": "59.42 MB",
+    "More": "一款开源免费的图像处理软件",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/14/c95bc476660a43c3876be79c366ecc0c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/14/01dee942b39a4949baa747270830f048.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/14/792855ff6f344959b000ea1bbd884dd5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/14/0ed4bfd8eec941f7898c5794c86a3000.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/14/b8fb19aa02bb4d0f8f1fc925fd8f5412.png"
+}
+,
+{
    "Name":"viewnior",
    "Version":"1.7-1",
    "Filename":"viewnior_1.7-1_amd64.deb",
@@ -1634,23 +1651,6 @@
     "Tags": "ubuntu;deepin;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/16/25207c00-ce55-11eb-9e4c-7dee8a2d16b4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/16/352a2ab0-ce55-11eb-9e4c-7dee8a2d16b4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/16/21188850-ce55-11eb-9e4c-7dee8a2d16b4.png"
-}
-,
-{
-    "Name": "Chasys Draw IES",
-    "Version": "5.29.01spark3",
-    "Filename": "com.jpchacha.chasysdraw.spark_5.29.01spark3_all.deb",
-    "Torrent_address": "com.jpchacha.chasysdraw.spark_5.29.01spark3_all.deb.torrent",
-    "Pkgname": "com.jpchacha.chasysdraw.spark",
-    "Author": "John Paul Chacha's Lab",
-    "Contributor": "sgb76",
-    "Website": "https://www.jpchacha.com/chasysdraw/index.php",
-    "Update": "2023-12-14 16:53:20",
-    "Size": "59.42 MB",
-    "More": "一款开源免费的图像处理软件",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/14/c95bc476660a43c3876be79c366ecc0c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/14/01dee942b39a4949baa747270830f048.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/14/792855ff6f344959b000ea1bbd884dd5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/14/0ed4bfd8eec941f7898c5794c86a3000.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/14/b8fb19aa02bb4d0f8f1fc925fd8f5412.png"
 }
 ,
 {

@@ -21820,29 +21820,6 @@ Description: 在deepin-wine6 stable容器下打包的PVZ-Rouge
 
 Package: fallout.equestria.remains
 Architecture: amd64
-Version: 1.0.1
-Priority: important
-Essential: no
-Section: games
-Maintainer: ShadowDumb [https://github.com/ShadowDumb/FalloutEquestriaRemainsLinux]
-Installed-Size: 432108
-Provides: Empalu
-Depends: wine, wine64 (>=4.0)
-Filename: games/fallout.equestria.remains/fallout.equestria.remains_1.0.1_amd64.deb
-Size: 310058072
-MD5sum: b6926578fec4f431a572bc5735273ce1
-SHA1: 85da3049e9aa684a467a244785b56ed016c2f188
-SHA256: 6bda31c3762b81605de8a6a97d965e113ae2c0e78f2967bae3f8966ceaea1838
-SHA512: 0a0165e5cd335f1c0b7038852f9f037e383d8616a74e49f71794e8ad1e3baa9fd3e4d459a66afe3bccd438bc53a750a0e41b4690267c54e39e9200c767c8f5dc
-Homepage: http://foe.ucoz.org/main_en.html
-Description: A fan made game of Fallout Equestria.
- Once upon a time, in the magical land of Equestria...
- there came an era when the ideals of friendship gave way to envy, selfishness, greed and cruelty. The Great War for natural resources broke out, in which there were no winners. A magical spark struck by pony hooves quickly raged out of control and turned into flames that engulfed whole continents. Dragon fire and black magic, turned into destructive weapons, almost ended all life on the planet. Soil, water and air became poisoned from radiation, cities were destroyed, civilizations collapsed. Both ponies and their enemies were almost wiped off the face of the earth. Apocalypse, predicted by insane prophets, whom almost no one believed until the last day, finally has come...
- But it was not the end yet. Many ponies survived, some - hiding in the huge underground shelters-stables, others - somehow adapting to new conditions. Apocalypse was just a prologue for another bloody chapter of pony history. On the scorched and poisoned Wasteland, violence and cruelty became not just permissible - now they were means of survival...
- Since that day, the last day of the former Equestria, about two hundred years have passed...
-
-Package: fallout.equestria.remains
-Architecture: amd64
 Version: 1.0.2
 Priority: important
 Essential: no
@@ -22714,6 +22691,23 @@ SHA256: 4d1bf61b986b7759c9e50f56df1b5136448a4e30464f1fcf2326e169d3bae1ae
 SHA512: 9ac48e292af29244639f92230d4d89897952952db87657708b065e87d3bac78115e20fbfda86907ba1adc8283f4205a3df4eb6e6746b608023cc11e016e5cba6
 Homepage: http://pinyin.sogou.com/linux
 Description: 搜狗输入法UOS版小语种
+
+Package: com.sfssq.deepin
+Architecture: arm64
+Version: 16.0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: Deepin WINE Team
+Installed-Size: 2386
+Depends: deepin-wine8-stable (>= 8.16-deepin12), com.wine-helper.deepin (>= 5.3.6-1), fonts-wqy-microhei
+Filename: office/com.sfssq.deepin/com.sfssq.deepin_16.0_arm64.deb
+Size: 2408756
+MD5sum: ce5abc57fffb755ad198136b4c07a2fa
+SHA1: d10fb1b7c4b9c37dfe829ee9d4cb17e17654113b
+SHA256: ab110a1665d23665cabbdb7115879358fc6cbf09db0eaab3f0fbae18f99759f4
+SHA512: 15949aa61e29b84298184d58caf47baeaaedc182c8b8c658779f07255329deb794f770137f407dfa40ce448eabddbdc8e0066e8b3adb74f15f2852355894bfe2
+Description: Wine application: com.sfssq.deepin
 
 Package: com.1xiezuo.miaoshu.spark
 Architecture: amd64

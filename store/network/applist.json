@@ -1464,22 +1464,6 @@
 
 ,
 {
-    "Name": "红旗浏览器",
-    "Version": "1.1.0.0",
-    "Filename": "redflag-browser_1.1.0.0_amd64.deb",
-    "Pkgname": "redflag-browser",
-    "Author": "红旗Linux",
-    "Contributor": "OkayPJ",
-    "Website": "http://www.chinaredflag.cn/",
-    "Update": "2021-07-05 07:01:00",
-    "Size": "102.17 MB",
-    "More": "红旗浏览器是一款搭载Chromium内核版本的安全、高效、快捷的自研应用程序，具有启动速度快、网页渲染能力佳等特点。全面支持主流CPU架构(包括X86_86、鲲鹏、兆芯、飞腾、龙芯、海光等CPU平台)、操作系统、流版签办公插件、1080p及4K高清视频流畅播放、显卡硬件加速。\n\n为了完善软件生态不足问题，中科红旗持续推进自研应用程序生态构建的步伐。目前，已有多款自研应用逐步开发、测试中，将逐步发布并开放下载。红旗操作系统一直以构建良好的应用软件生态圈为目标，积极响应行业主管部门和市场的需求号召，为用户带来更好的使用体验。",
-    "Tags": "deepin;uos;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/05/1c0c52f0-dd1a-11eb-bf76-f7677d1b01f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/05/1c03c770-dd1a-11eb-bf76-f7677d1b01f2.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/05/182d9220-dd1a-11eb-bf76-f7677d1b01f2.png"
-}
-,
-{
     "Name": "Internet Download Manager（IDM）（Wine）",
     "Version": "6.42",
     "Filename": "com.idm.spark_6.42_all.deb",
@@ -1494,6 +1478,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/8da80a4f6389437399b734b10eebb56f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/b5c164cfb2d64bb4ababf896c417f933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/de699bb572b2487a8bc2502aed6426da.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/27/e0f739bbd02a41079a34bfcc01df547d.png"
+}
+,
+{
+    "Name": "红旗浏览器",
+    "Version": "1.1.0.0",
+    "Filename": "redflag-browser_1.1.0.0_amd64.deb",
+    "Pkgname": "redflag-browser",
+    "Author": "红旗Linux",
+    "Contributor": "OkayPJ",
+    "Website": "http://www.chinaredflag.cn/",
+    "Update": "2021-07-05 07:01:00",
+    "Size": "102.17 MB",
+    "More": "红旗浏览器是一款搭载Chromium内核版本的安全、高效、快捷的自研应用程序，具有启动速度快、网页渲染能力佳等特点。全面支持主流CPU架构(包括X86_86、鲲鹏、兆芯、飞腾、龙芯、海光等CPU平台)、操作系统、流版签办公插件、1080p及4K高清视频流畅播放、显卡硬件加速。\n\n为了完善软件生态不足问题，中科红旗持续推进自研应用程序生态构建的步伐。目前，已有多款自研应用逐步开发、测试中，将逐步发布并开放下载。红旗操作系统一直以构建良好的应用软件生态圈为目标，积极响应行业主管部门和市场的需求号召，为用户带来更好的使用体验。",
+    "Tags": "deepin;uos;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/05/1c0c52f0-dd1a-11eb-bf76-f7677d1b01f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/05/1c03c770-dd1a-11eb-bf76-f7677d1b01f2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/05/182d9220-dd1a-11eb-bf76-f7677d1b01f2.png"
 }
 ,
 {
@@ -1712,22 +1712,6 @@
 }
 ,
 {
-    "Name": "Pritunl 客户端",
-    "Version": "1.2.2653.1-0debian1~buster",
-    "Filename": "pritunl-client-electron_1.2.2653.1_amd64.deb",
-    "Pkgname": "pritunl-client-electron",
-    "Author": "pritunl",
-    "Contributor": "dfc643",
-    "Website": "https://github.com/pritunl/pritunl-client-electron/",
-    "Update": "2020-12-18 13:47:58",
-    "Size": "89.22 MB",
-    "More": "一款开源的 OpenVPN 客户端，可以弥补系统自带的 OpenVPN 客户端的一些缺陷，颜值方面尚可。\n\n上传的时候做了一些简单的汉化重新打包。",
-    "Tags": "ubuntu;community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/18/1c196d80-4136-11eb-b908-3d20570e6baf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/18/1ddd1680-4136-11eb-b908-3d20570e6baf.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/18/179e45a0-4136-11eb-b908-3d20570e6baf.png"
-}
-,
-{
     "Name": "闪电藤文件传输",
     "Version": "2.1.3",
     "Filename": "life.zishu.sdt_2.1.3_amd64.deb",
@@ -1742,6 +1726,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/03/62ebdd5758ce413ba5a73e9b68a46a53.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/03/bc60e319ddd24b92b783cb36f19905a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/03/8cf22a68b82d45c7b6ed8fe1f438abf4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/03/aa78e2287f8742179eb71d88098bb659.png"
+}
+,
+{
+    "Name": "Pritunl 客户端",
+    "Version": "1.2.2653.1-0debian1~buster",
+    "Filename": "pritunl-client-electron_1.2.2653.1_amd64.deb",
+    "Pkgname": "pritunl-client-electron",
+    "Author": "pritunl",
+    "Contributor": "dfc643",
+    "Website": "https://github.com/pritunl/pritunl-client-electron/",
+    "Update": "2020-12-18 13:47:58",
+    "Size": "89.22 MB",
+    "More": "一款开源的 OpenVPN 客户端，可以弥补系统自带的 OpenVPN 客户端的一些缺陷，颜值方面尚可。\n\n上传的时候做了一些简单的汉化重新打包。",
+    "Tags": "ubuntu;community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/18/1c196d80-4136-11eb-b908-3d20570e6baf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/18/1ddd1680-4136-11eb-b908-3d20570e6baf.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/18/179e45a0-4136-11eb-b908-3d20570e6baf.png"
 }
 ,
 {
@@ -1876,22 +1876,6 @@
 }
 ,
 {
-    "Name": "广发操盘手",
-    "Version": "1.0spark0",
-    "Filename": "web-gf-trader_1.0spark0_amd64.deb",
-    "Pkgname": "web-gf-trader",
-    "Author": "广发证券股份有限公司",
-    "Contributor": "sgb76",
-    "Website": "https://hippo.gf.com.cn/about/index.html",
-    "Update": "2020-11-20 10:13:44",
-    "Size": "3 MB",
-    "More": "基于星火spark-webapp-runtime打包的web应用。已知问题：打开应用后无法输入中文。临时解决办法：应用内出现输入框界面后，可以先随意打开一个别的应用（比如文件管理器）窗口再关闭，然后就可以正常输入中文了。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/20/f3a2bbf0-2b18-11eb-9f5b-4141f998f9df.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/20/f6196140-2b18-11eb-9f5b-4141f998f9df.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/20/ee4ee750-2b18-11eb-9f5b-4141f998f9df.png"
-}
-,
-{
     "Author": "shenmo",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.ugreen.client_4.9.0.9559_all.deb",
@@ -1908,6 +1892,22 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/screen_1.png\"]"
 }
 
+,
+{
+    "Name": "广发操盘手",
+    "Version": "1.0spark0",
+    "Filename": "web-gf-trader_1.0spark0_amd64.deb",
+    "Pkgname": "web-gf-trader",
+    "Author": "广发证券股份有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://hippo.gf.com.cn/about/index.html",
+    "Update": "2020-11-20 10:13:44",
+    "Size": "3 MB",
+    "More": "基于星火spark-webapp-runtime打包的web应用。已知问题：打开应用后无法输入中文。临时解决办法：应用内出现输入框界面后，可以先随意打开一个别的应用（比如文件管理器）窗口再关闭，然后就可以正常输入中文了。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/20/f3a2bbf0-2b18-11eb-9f5b-4141f998f9df.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/20/f6196140-2b18-11eb-9f5b-4141f998f9df.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/20/ee4ee750-2b18-11eb-9f5b-4141f998f9df.png"
+}
 ,
 {
     "Name": "蜗牛下载器",
@@ -2226,23 +2226,6 @@
 }
 ,
 {
-    "Name": "SeaMonkey",
-    "Version": "2.53.18.2spark1",
-    "Filename": "org.seamonkey-project.seamonkey.spark_2.53.18.2spark1_amd64.deb",
-    "Torrent_address": "org.seamonkey-project.seamonkey.spark_2.53.18.2spark1_amd64.deb.torrent",
-    "Pkgname": "org.seamonkey-project.seamonkey.spark",
-    "Author": "SeaMonkey Association (SeaMonkey e.V.)",
-    "Contributor": "sgb76",
-    "Website": "https://www.seamonkey-project.org/",
-    "Update": "2024-03-30 23:06:36",
-    "Size": "43.15 MB",
-    "More": "SeaMonkey 是一个一体化的互联网套件。 它支持电子邮件、浏览器、新闻客户端、HTML 编辑器、IRC 聊天、垃圾邮件控制器、消息过滤器、Web 提要阅读器、地址簿、Web 开发工具等。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/84e905effbf94ac08f8cc15152e2efb2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/3424db594ae74e559bd8a51c9beabcc8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/e9264189ab78410ca9b812dc00ce00e6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/30/f94624b37baa493c91a9eec33c6b6221.png"
-}
-,
-{
     "Name": "哔哩下载姬（Linux版）",
     "Version": "1.0.10-1",
     "Filename": "downkyi_1.0.10-1_amd64.deb",
@@ -2260,19 +2243,20 @@
 }
 ,
 {
-    "Name": "mentohust",
-    "Version": "0.3.4-2",
-    "Filename": "mentohust_0.3.4-2_amd64.deb",
-    "Pkgname": "mentohust",
-    "Author": "HustMoon Studio",
-    "Contributor": "momen",
-    "Website": "https://www.deepinos.org/d/466-mentohust",
-    "Update": "2021-06-07 20:51:28",
-    "Size": "42.52 KB",
-    "More": "锐捷认证和赛尔认证，作者为HustMoon Studio，由momen维护（感谢zty199大佬指点）",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/04c39770-c78f-11eb-a8c5-6bf9bdef1f7d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/07/03be0b20-c78b-11eb-a8c5-6bf9bdef1f7d.svg"
+    "Name": "SeaMonkey",
+    "Version": "2.53.18.2spark1",
+    "Filename": "org.seamonkey-project.seamonkey.spark_2.53.18.2spark1_amd64.deb",
+    "Torrent_address": "org.seamonkey-project.seamonkey.spark_2.53.18.2spark1_amd64.deb.torrent",
+    "Pkgname": "org.seamonkey-project.seamonkey.spark",
+    "Author": "SeaMonkey Association (SeaMonkey e.V.)",
+    "Contributor": "sgb76",
+    "Website": "https://www.seamonkey-project.org/",
+    "Update": "2024-03-30 23:06:36",
+    "Size": "43.15 MB",
+    "More": "SeaMonkey 是一个一体化的互联网套件。 它支持电子邮件、浏览器、新闻客户端、HTML 编辑器、IRC 聊天、垃圾邮件控制器、消息过滤器、Web 提要阅读器、地址簿、Web 开发工具等。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/84e905effbf94ac08f8cc15152e2efb2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/3424db594ae74e559bd8a51c9beabcc8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/e9264189ab78410ca9b812dc00ce00e6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/30/f94624b37baa493c91a9eec33c6b6221.png"
 }
 ,
 {
@@ -2293,6 +2277,22 @@
 }
 ,
 {
+    "Name": "mentohust",
+    "Version": "0.3.4-2",
+    "Filename": "mentohust_0.3.4-2_amd64.deb",
+    "Pkgname": "mentohust",
+    "Author": "HustMoon Studio",
+    "Contributor": "momen",
+    "Website": "https://www.deepinos.org/d/466-mentohust",
+    "Update": "2021-06-07 20:51:28",
+    "Size": "42.52 KB",
+    "More": "锐捷认证和赛尔认证，作者为HustMoon Studio，由momen维护（感谢zty199大佬指点）",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/04c39770-c78f-11eb-a8c5-6bf9bdef1f7d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/07/03be0b20-c78b-11eb-a8c5-6bf9bdef1f7d.svg"
+}
+,
+{
     "Name": "Fifo",
     "Version": "1.1.0spark0",
     "Filename": "com.snaildos.fifo.spark_1.1.0spark0_amd64.deb",
@@ -2310,6 +2310,23 @@
 }
 ,
 {
+    "Name": "PDF to DOCX 转换器",
+    "Version": "1.1",
+    "Filename": "com.pdftodocx.deepin_1.1_all.deb",
+    "Torrent_address": "com.pdftodocx.deepin_1.1_all.deb.torrent",
+    "Pkgname": "com.pdftodocx.deepin",
+    "Author": "苦瓜甘甜（wszjf）",
+    "Contributor": "wang",
+    "Website": "https://www.52pojie.cn/thread-1799014-1-1.html",
+    "Update": "2024-05-27 23:22:26",
+    "Size": "139.92 MB",
+    "More": "PDF to DOCX 转换器是个PDF转成Word的转换器，这是吾爱大佬开发的，有非常多的人使用，软件界面非常简单。软件转换过程没有进度显示，只有转换完了才会有提示，它不支持纯图片的PDF，对表格等格式的转换效果非常好。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b5310980-1c3c-11ef-844a-857c0f6b164f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b53a3140-1c3c-11ef-844a-857c0f6b164f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/b010a0f0-1c3c-11ef-844a-857c0f6b164f.png"
+}
+,
+{
     "Name": "ant-downloader",
     "Version": "1.3.6spark0",
     "Filename": "com.github.antdownloader.spark_1.3.6spark0_amd64.deb",
@@ -2324,6 +2341,23 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/d25f7fc2949d407c8fcc77d845698e4c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/b7a7b1a5ca0747319bf39def40d5688e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/04/e2a2f932970b4b9f8c28e4caa10010ac.png"
+}
+,
+{
+    "Name": "QNAP QSync 自动同步软件",
+    "Version": "1.0.9.1627",
+    "Filename": "qnapqsyncclient_1.0.9.1627_amd64.deb",
+    "Torrent_address": "qnapqsyncclient_1.0.9.1627_amd64.deb.torrent",
+    "Pkgname": "qnapqsyncclient",
+    "Author": "QNAP Systems, Inc.",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.qnap.com.cn/zh-cn/utilities/essentials",
+    "Update": "2024-05-07 14:35:12",
+    "Size": "69.28 MB",
+    "More": "通过QNAP 应用工具发掘更多崭新便捷的NAS 使用方式。从快速设定、便利存取、安全备份、迅速复原、到简易档案分享及同步：QNAP应用工具帮您轻松完成每项日常工作。还有专为虚拟化环境及监视系统打造的优化管理工具。来看看 QNAP 为您准备哪些应用工具吧。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/5ffc6ea9694c47e485f87329d51d68bf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/697d397df78245849367de8c098e5586.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/d6944e2b85da47f396011d71e2249325.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/07/8b51b5bebe9b4d8cbce82e8478582148.png"
 }
 ,
 {
@@ -2377,37 +2411,20 @@
 }
 ,
 {
-    "Name": "PDF to DOCX 转换器",
-    "Version": "1.1",
-    "Filename": "com.pdftodocx.deepin_1.1_all.deb",
-    "Torrent_address": "com.pdftodocx.deepin_1.1_all.deb.torrent",
-    "Pkgname": "com.pdftodocx.deepin",
-    "Author": "苦瓜甘甜（wszjf）",
-    "Contributor": "wang",
-    "Website": "https://www.52pojie.cn/thread-1799014-1-1.html",
-    "Update": "2024-05-27 23:22:26",
-    "Size": "139.92 MB",
-    "More": "PDF to DOCX 转换器是个PDF转成Word的转换器，这是吾爱大佬开发的，有非常多的人使用，软件界面非常简单。软件转换过程没有进度显示，只有转换完了才会有提示，它不支持纯图片的PDF，对表格等格式的转换效果非常好。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b5310980-1c3c-11ef-844a-857c0f6b164f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b53a3140-1c3c-11ef-844a-857c0f6b164f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/b010a0f0-1c3c-11ef-844a-857c0f6b164f.png"
-}
-,
-{
-    "Name": "QNAP QSync 自动同步软件",
-    "Version": "1.0.9.1627",
-    "Filename": "qnapqsyncclient_1.0.9.1627_amd64.deb",
-    "Torrent_address": "qnapqsyncclient_1.0.9.1627_amd64.deb.torrent",
-    "Pkgname": "qnapqsyncclient",
-    "Author": "QNAP Systems, Inc.",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://www.qnap.com.cn/zh-cn/utilities/essentials",
-    "Update": "2024-05-07 14:35:12",
-    "Size": "69.28 MB",
-    "More": "通过QNAP 应用工具发掘更多崭新便捷的NAS 使用方式。从快速设定、便利存取、安全备份、迅速复原、到简易档案分享及同步：QNAP应用工具帮您轻松完成每项日常工作。还有专为虚拟化环境及监视系统打造的优化管理工具。来看看 QNAP 为您准备哪些应用工具吧。",
+    "Name": "网易灵犀办公",
+    "Version": "1.38.3",
+    "Filename": "sirius-desktop_1.38.3_amd64.deb",
+    "Torrent_address": "sirius-desktop_1.38.3_amd64.deb.torrent",
+    "Pkgname": "sirius-desktop",
+    "Author": "网易灵犀",
+    "Contributor": "sgb76",
+    "Website": "https://office.163.com",
+    "Update": "2024-05-21 23:16:29",
+    "Size": "93.22 MB",
+    "More": "网易灵犀办公客户端\n网易匠心出品的全新一代邮件协同办公平台，产品整合邮箱、日历、云文档、即时消息、客户管理等模块，引领未来办公新体验。",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/5ffc6ea9694c47e485f87329d51d68bf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/697d397df78245849367de8c098e5586.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/07/d6944e2b85da47f396011d71e2249325.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/07/8b51b5bebe9b4d8cbce82e8478582148.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9b83590c8e46468ba20d81e7d3dcf887.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/595847b04c0f4978963d787dd47d8f57.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/e04282b0345a4859a3b3ba8e5a2e0f85.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/21/f51f8faa6b7b408fb660872d3d3e779d.png"
 }
 ,
 {
@@ -2425,23 +2442,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/23/e6ad0777-8ed8-4f7c-87ca-88faeaedb217.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/23/c93bf6ec-56c3-4dbf-82e3-9c7595ecbb9c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/23/0db5b8cc-6170-4d9d-aea8-b2d962d09480.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/23/f4b017c8-85ca-44bf-965b-3432204ad6fe.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/23/17aa64f8-a9aa-4b6e-971e-2c098befe89f.png"
-}
-,
-{
-    "Name": "网易灵犀办公",
-    "Version": "1.38.3",
-    "Filename": "sirius-desktop_1.38.3_amd64.deb",
-    "Torrent_address": "sirius-desktop_1.38.3_amd64.deb.torrent",
-    "Pkgname": "sirius-desktop",
-    "Author": "网易灵犀",
-    "Contributor": "sgb76",
-    "Website": "https://office.163.com",
-    "Update": "2024-05-21 23:16:29",
-    "Size": "93.22 MB",
-    "More": "网易灵犀办公客户端\n网易匠心出品的全新一代邮件协同办公平台，产品整合邮箱、日历、云文档、即时消息、客户管理等模块，引领未来办公新体验。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9b83590c8e46468ba20d81e7d3dcf887.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/595847b04c0f4978963d787dd47d8f57.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/e04282b0345a4859a3b3ba8e5a2e0f85.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/21/f51f8faa6b7b408fb660872d3d3e779d.png"
 }
 ,
 {
@@ -2513,6 +2513,23 @@
 }
 ,
 {
+    "Name": "侠客短视频解析去水印工具",
+    "Version": "4.8",
+    "Filename": "com.xiakeduanshipin.deepin_4.8_all.deb",
+    "Torrent_address": "com.xiakeduanshipin.deepin_4.8_all.deb.torrent",
+    "Pkgname": "com.xiakeduanshipin.deepin",
+    "Author": "佚名RJ",
+    "Contributor": "佚名RJ",
+    "Website": "https://www.52pojie.cn/thread-1933305-1-1.html",
+    "Update": "2024-06-16 10:40:00",
+    "Size": "21.71 MB",
+    "More": ".本工具支持无水印解析下载抖音、抖音极速版、快手、快手极速版、剪映、火山、皮皮虾、皮皮搞笑、最右、微视、QQ看点、西瓜视频、小红书、淘宝、天猫、绿洲、美拍、今日头条、微博、各国外平台(随缘)、各平台图集、微信公众号...等等众多短视频平台。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/ee0e20fc3e234fdcb3bbbba72db1d4e0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/4d68576431604f4294f3e1cfd535796e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/c78841dd591540c5b22ca81a48439472.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/aad1ca78729842229f55aad0d3e932b8.png"
+}
+,
+{
     "Name": "Noi",
     "Version": "0.4.0",
     "Filename": "noi_0.4.0_amd64.deb",
@@ -2544,23 +2561,6 @@
     "Tags": "community;ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/01/9b818445cf6045189ac351c0ed2ed0b4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/01/11c559350bc04d349b803457ddd27525.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/01/07badbb2280344a99ddcc1d16d03580b.png"
-}
-,
-{
-    "Name": "侠客短视频解析去水印工具",
-    "Version": "4.8",
-    "Filename": "com.xiakeduanshipin.deepin_4.8_all.deb",
-    "Torrent_address": "com.xiakeduanshipin.deepin_4.8_all.deb.torrent",
-    "Pkgname": "com.xiakeduanshipin.deepin",
-    "Author": "佚名RJ",
-    "Contributor": "佚名RJ",
-    "Website": "https://www.52pojie.cn/thread-1933305-1-1.html",
-    "Update": "2024-06-16 10:40:00",
-    "Size": "21.71 MB",
-    "More": ".本工具支持无水印解析下载抖音、抖音极速版、快手、快手极速版、剪映、火山、皮皮虾、皮皮搞笑、最右、微视、QQ看点、西瓜视频、小红书、淘宝、天猫、绿洲、美拍、今日头条、微博、各国外平台(随缘)、各平台图集、微信公众号...等等众多短视频平台。",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/ee0e20fc3e234fdcb3bbbba72db1d4e0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/4d68576431604f4294f3e1cfd535796e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/c78841dd591540c5b22ca81a48439472.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/aad1ca78729842229f55aad0d3e932b8.png"
 }
 ,
 {

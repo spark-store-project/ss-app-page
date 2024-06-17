@@ -1143,6 +1143,20 @@
 }
 ,
 {
+   "Name":"mqttfx",
+   "Version":"1.7.1",
+   "Filename":"mqttfx-1.7.1-64bit.deb",
+   "Pkgname":"mqttfx",
+   "Author":"mqttfx",
+   "Contributor":"风铃",
+   "Website":"http://mqttfx.jensd.de/",
+   "Update":"2020-07-26 23:51",
+   "Size":"72.41MB",
+   "More":"MQTT.fx是一个跨平台的MQTT的图形化客户端"
+}
+
+,
+{
     "Name": "Liberica JDK 11 Full",
     "Version": "11.0.23+10",
     "Filename": "bellsoft-java11-full_11.0.23_plus10_amd64.deb",
@@ -1158,20 +1172,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/3d3664a4e60a4859be50d2b6612761ff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/f7d2ce4abc754c06a88bd7db5fd6a410.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/b545a377c4414ff092031e1ed18ee5f0.png"
 }
-,
-{
-   "Name":"mqttfx",
-   "Version":"1.7.1",
-   "Filename":"mqttfx-1.7.1-64bit.deb",
-   "Pkgname":"mqttfx",
-   "Author":"mqttfx",
-   "Contributor":"风铃",
-   "Website":"http://mqttfx.jensd.de/",
-   "Update":"2020-07-26 23:51",
-   "Size":"72.41MB",
-   "More":"MQTT.fx是一个跨平台的MQTT的图形化客户端"
-}
-
 ,
 {
     "Name": "OpenCore Auxiliary Tools",
@@ -1288,23 +1288,6 @@
 
 ,
 {
-    "Name": "Beekeeper Studio",
-    "Version": "3.8.9",
-    "Filename": "beekeeper-studio_3.8.9_amd64.deb",
-    "Torrent_address": "beekeeper-studio_3.8.9_amd64.deb.torrent",
-    "Pkgname": "beekeeper-studio",
-    "Author": "Beekeeper Studio Team",
-    "Contributor": "sgb76",
-    "Website": "https://github.com/beekeeper-studio/beekeeper-studio#readme",
-    "Update": "2023-02-06 18:12:38",
-    "Size": "69.81 MB",
-    "More": "Beekeeper Studio是一款可用于Linux、Mac和Windows的跨平台SQL编辑器和数据库管理器。",
-    "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/6d5d332ccfd94048993490c493c23a0b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/aff962c8a1e543beaf3a026bc4095f29.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/06/b24ab96e8dab4056bc6ea31e665afa84.png"
-}
-,
-{
     "Name": "Distrobox",
     "Version": "1.4.2.1~spark2",
     "Filename": "distrobox_1.4.2.1~spark2_all.deb",
@@ -1319,6 +1302,23 @@
     "Tags": "community;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd3ae380-93d3-11ed-9a43-41fc3215d261.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd4c48a0-93d3-11ed-9a43-41fc3215d261.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd5e7110-93d3-11ed-9a43-41fc3215d261.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd7e5520-93d3-11ed-9a43-41fc3215d261.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd6db350-93d3-11ed-9a43-41fc3215d261.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/14/db136fa0-93d3-11ed-9a43-41fc3215d261.png"
+}
+,
+{
+    "Name": "Beekeeper Studio",
+    "Version": "3.8.9",
+    "Filename": "beekeeper-studio_3.8.9_amd64.deb",
+    "Torrent_address": "beekeeper-studio_3.8.9_amd64.deb.torrent",
+    "Pkgname": "beekeeper-studio",
+    "Author": "Beekeeper Studio Team",
+    "Contributor": "sgb76",
+    "Website": "https://github.com/beekeeper-studio/beekeeper-studio#readme",
+    "Update": "2023-02-06 18:12:38",
+    "Size": "69.81 MB",
+    "More": "Beekeeper Studio是一款可用于Linux、Mac和Windows的跨平台SQL编辑器和数据库管理器。",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/6d5d332ccfd94048993490c493c23a0b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/aff962c8a1e543beaf3a026bc4095f29.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/06/b24ab96e8dab4056bc6ea31e665afa84.png"
 }
 ,
 {
@@ -1638,6 +1638,23 @@
 }
 ,
 {
+    "Name": "VOFA+",
+    "Version": "1.3.10",
+    "Filename": "vofa_plus_1.3.10_amd64.deb",
+    "Torrent_address": "vofa_plus_1.3.10_amd64.deb.torrent",
+    "Pkgname": "vofa+",
+    "Author": "je00 <zjt@gutega.com>",
+    "Contributor": "秦以南",
+    "Website": "https://www.vofa.plus",
+    "Update": "2023-06-21 20:50:12",
+    "Size": "21 MB",
+    "More": "VOFA+致力于降低图形化调试的门槛：\n\n保留了传统字节流调试助手风格的数据收发功能，以应对非图形化调试需求；\n通过直观极简的协议设计和方便快捷的命令绑定，硬件工程师无需处理复杂的协议逻辑，只需以面向串口助手的编程方式，就能获得强大的数据可视化、数据分析、使用控件发送指令的能力；\n拥有一个可裁剪的系统，\"丰俭由人\"。通过添加控件的方式，工程师可以定制一个无限丰富的调试界面；也可以仅仅使用极简的字节流收发界面，无须担忧系统占用繁重；\n拥有一个开放、开源的插件系统：\n用户可以定制符合自己需求的协议和控件；\n通过开源社区的力量，VOFA+的调试生态可以不断发展繁荣。",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/21/207c72a0-1032-11ee-a690-2b1260c25b9c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/21/24955640-1032-11ee-a690-2b1260c25b9c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/21/85fac470-1031-11ee-a690-2b1260c25b9c.png"
+}
+,
+{
     "Name": "Fritzing",
     "Version": "0.9.10",
     "Filename": "org.fritzing_0.9.10_amd64.deb",
@@ -1686,23 +1703,6 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/8ff47a9e591f450e8d0469def4ed2842.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/ba6abb843e80465ca412ef8b9c952fe9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/28/d2a52ead196b4644bd0c292098d5135d.png"
-}
-,
-{
-    "Name": "VOFA+",
-    "Version": "1.3.10",
-    "Filename": "vofa_plus_1.3.10_amd64.deb",
-    "Torrent_address": "vofa_plus_1.3.10_amd64.deb.torrent",
-    "Pkgname": "vofa+",
-    "Author": "je00 <zjt@gutega.com>",
-    "Contributor": "秦以南",
-    "Website": "https://www.vofa.plus",
-    "Update": "2023-06-21 20:50:12",
-    "Size": "21 MB",
-    "More": "VOFA+致力于降低图形化调试的门槛：\n\n保留了传统字节流调试助手风格的数据收发功能，以应对非图形化调试需求；\n通过直观极简的协议设计和方便快捷的命令绑定，硬件工程师无需处理复杂的协议逻辑，只需以面向串口助手的编程方式，就能获得强大的数据可视化、数据分析、使用控件发送指令的能力；\n拥有一个可裁剪的系统，\"丰俭由人\"。通过添加控件的方式，工程师可以定制一个无限丰富的调试界面；也可以仅仅使用极简的字节流收发界面，无须担忧系统占用繁重；\n拥有一个开放、开源的插件系统：\n用户可以定制符合自己需求的协议和控件；\n通过开源社区的力量，VOFA+的调试生态可以不断发展繁荣。",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/21/207c72a0-1032-11ee-a690-2b1260c25b9c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/21/24955640-1032-11ee-a690-2b1260c25b9c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/21/85fac470-1031-11ee-a690-2b1260c25b9c.png"
 }
 ,
 {
@@ -1889,6 +1889,23 @@
 }
 ,
 {
+    "Name": "Heynote",
+    "Version": "1.7.0spark0",
+    "Filename": "com.heynote.spark_1.7.0spark0_amd64.deb",
+    "Torrent_address": "com.heynote.spark_1.7.0spark0_amd64.deb.torrent",
+    "Pkgname": "com.heynote.spark",
+    "Author": "Jonatan Heyman",
+    "Contributor": "sgb76",
+    "Website": "https://heynote.com/",
+    "Update": "2024-02-18 23:10:51",
+    "Size": "75.36 MB",
+    "More": "一款适合开发人员的专用便签本，有类似Jupyter note的分块区域，支持多种代码高亮，自带计算器。",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/18/e2db769c73694320a684dc64547ce813.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/18/b67155384c864e6a93499113abb8b572.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/18/227ee96406bc4d5aa390791a49b3d8cb.png"
+}
+,
+{
     "Name": "360易创API示例",
     "Version": "16.0.3",
     "Filename": "com.360.electron360-api-demos_16.0.3_amd64.deb",
@@ -1953,23 +1970,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/17dab5b448eb4b12bef925b996a54d9b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/608c7938c203468487a8cd6b730a2234.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/eb2a4b6534cb4db68c35da00efb9611e.png"
-}
-,
-{
-    "Name": "Heynote",
-    "Version": "1.7.0spark0",
-    "Filename": "com.heynote.spark_1.7.0spark0_amd64.deb",
-    "Torrent_address": "com.heynote.spark_1.7.0spark0_amd64.deb.torrent",
-    "Pkgname": "com.heynote.spark",
-    "Author": "Jonatan Heyman",
-    "Contributor": "sgb76",
-    "Website": "https://heynote.com/",
-    "Update": "2024-02-18 23:10:51",
-    "Size": "75.36 MB",
-    "More": "一款适合开发人员的专用便签本，有类似Jupyter note的分块区域，支持多种代码高亮，自带计算器。",
-    "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/18/e2db769c73694320a684dc64547ce813.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/18/b67155384c864e6a93499113abb8b572.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/18/227ee96406bc4d5aa390791a49b3d8cb.png"
 }
 ,
 {

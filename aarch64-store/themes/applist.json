@@ -143,6 +143,23 @@
 
 ,
 {
+    "Name": "银狼主题光标",
+    "Version": "1.0.0",
+    "Filename": "silverwolf.cursors_1.0.0_all.deb",
+    "Torrent_address": "silverwolf.cursors_1.0.0_all.deb.torrent",
+    "Pkgname": "silverwolf.cursors",
+    "Author": "唯溯",
+    "Contributor": "阿尼樱奈奈 <kamizotoayaka@163.com>",
+    "Website": "https://space.bilibili.com/436623402",
+    "Update": "2023-11-09 13:18:48",
+    "Size": "21.35 KB",
+    "More": "银狼主题光标，由B站用户@唯溯（https://space.bilibili.com/436623402）制作，由deepin论坛用户@阿尼樱奈奈（https://bbs.deepin.org/user/296995）转换为Linux可用主题光标",
+    "Tags": "deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/6d363d6e13184eea989185caa8e96d7d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/cc99d9071d0e42619591a2f0ec6dc802.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/09/2a68ae47de594a4fa3fcfdf136ef3f99.png"
+}
+,
+{
     "Author": "Deepin Packages Builder <packages@deepin.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "sea-icon-theme_2020.04.13-1_all.deb",
@@ -159,23 +176,6 @@
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/sea-icon-theme/screen_1.png\"]"
 }
 
-,
-{
-    "Name": "银狼主题光标",
-    "Version": "1.0.0",
-    "Filename": "silverwolf.cursors_1.0.0_all.deb",
-    "Torrent_address": "silverwolf.cursors_1.0.0_all.deb.torrent",
-    "Pkgname": "silverwolf.cursors",
-    "Author": "唯溯",
-    "Contributor": "阿尼樱奈奈 <kamizotoayaka@163.com>",
-    "Website": "https://space.bilibili.com/436623402",
-    "Update": "2023-11-09 13:18:48",
-    "Size": "21.35 KB",
-    "More": "银狼主题光标，由B站用户@唯溯（https://space.bilibili.com/436623402）制作，由deepin论坛用户@阿尼樱奈奈（https://bbs.deepin.org/user/296995）转换为Linux可用主题光标",
-    "Tags": "deepin;ubuntu;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/6d363d6e13184eea989185caa8e96d7d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/cc99d9071d0e42619591a2f0ec6dc802.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/09/2a68ae47de594a4fa3fcfdf136ef3f99.png"
-}
 ,
 {
     "Author": "liuminghang  <liuminghang0821@gmail.com>",
@@ -250,6 +250,24 @@
 
 ,
 {
+    "Author": "Tonny",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.uniontech.theme.infinitecontrol_1.0.5_all.deb",
+    "More": "获奖主题作品——‘无限’主题大赛获奖作品",
+    "Name": "T 主题套组",
+    "Pkgname": "com.uniontech.theme.infinitecontrol",
+    "Size": "3353 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "com.uniontech.theme.infinitecontrol_1.0.5_all.deb.torrent",
+    "Update": "2024-06-11 20:46:47",
+    "Version": "1.0.5",
+    "Website": "https://bbs.deepin.org.cn/zh/post/273057",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/themes/com.uniontech.theme.infinitecontrol/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/themes/com.uniontech.theme.infinitecontrol/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/themes/com.uniontech.theme.infinitecontrol/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/themes/com.uniontech.theme.infinitecontrol/screen_3.png\"]"
+}
+
+,
+{
     "Author": "3025613752 <3025613752@qq.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.uniontech.theme.gfdgdxi.easymousethemes_1.0.0_all.deb",
@@ -282,24 +300,6 @@
     "Website": "https://www.bilibili.com/bangumi/media/md28235647",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_4.png\"]"
-}
-
-,
-{
-    "Author": "Tonny",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.uniontech.theme.infinitecontrol_1.0.5_all.deb",
-    "More": "获奖主题作品——‘无限’主题大赛获奖作品",
-    "Name": "T 主题套组",
-    "Pkgname": "com.uniontech.theme.infinitecontrol",
-    "Size": "3353 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "com.uniontech.theme.infinitecontrol_1.0.5_all.deb.torrent",
-    "Update": "2024-06-11 20:46:47",
-    "Version": "1.0.5",
-    "Website": "https://bbs.deepin.org.cn/zh/post/273057",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/themes/com.uniontech.theme.infinitecontrol/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/themes/com.uniontech.theme.infinitecontrol/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/themes/com.uniontech.theme.infinitecontrol/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/themes/com.uniontech.theme.infinitecontrol/screen_3.png\"]"
 }
 
 ,

@@ -513,6 +513,22 @@
 }
 ,
 {
+    "Name": "恒星播放器（wine）",
+    "Version": "20210712170025spark0",
+    "Filename": "com.stellarplayer.spark_20210712170025spark0_i386.deb",
+    "Pkgname": "com.stellarplayer.spark",
+    "Author": "冷湖科技（武汉）有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.stellarplayer.com/",
+    "Update": "2021-07-21 16:16:40",
+    "Size": "137.39 MB",
+    "More": "一款免费、无广告、无弹窗，纯粹专注的播放器,给你安静的陪伴不打扰 ",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/21/6adf8a30-e9fb-11eb-9724-3dc983463ee9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/21/72718f00-e9fb-11eb-9724-3dc983463ee9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/21/62a90800-e9fb-11eb-9724-3dc983463ee9.png"
+}
+,
+{
     "Name": "斗鱼直播",
     "Version": "8.6.2.0spark5",
     "Filename": "com.douyu.douyulive.spark_8.6.2.0spark5_amd64.deb",
@@ -527,22 +543,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/15/42a9067c1f124ac1b7966e31ae98d235.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/15/dd2f5b5c524f415db238d2e174ee716b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/15/6c310ad6758943cb925b93b0650ef032.png"
-}
-,
-{
-    "Name": "恒星播放器（wine）",
-    "Version": "20210712170025spark0",
-    "Filename": "com.stellarplayer.spark_20210712170025spark0_i386.deb",
-    "Pkgname": "com.stellarplayer.spark",
-    "Author": "冷湖科技（武汉）有限公司",
-    "Contributor": "sgb76",
-    "Website": "https://www.stellarplayer.com/",
-    "Update": "2021-07-21 16:16:40",
-    "Size": "137.39 MB",
-    "More": "一款免费、无广告、无弹窗，纯粹专注的播放器,给你安静的陪伴不打扰 ",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/21/6adf8a30-e9fb-11eb-9724-3dc983463ee9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/21/72718f00-e9fb-11eb-9724-3dc983463ee9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/21/62a90800-e9fb-11eb-9724-3dc983463ee9.png"
 }
 ,
 {
@@ -1177,23 +1177,6 @@
 }
 ,
 {
-    "Name": "UniFab 视频格式转换器",
-    "Version": "2.0.2.4",
-    "Filename": "com.unifab.deepin_2.0.2.4_all.deb",
-    "Torrent_address": "com.unifab.deepin_2.0.2.4_all.deb.torrent",
-    "Pkgname": "com.unifab.deepin",
-    "Author": "DVDFab.cn",
-    "Contributor": "DVDFab.cn",
-    "Website": "https://www.dvdfab.cn",
-    "Update": "2024-06-16 13:37:17",
-    "Size": "174.19 MB",
-    "More": "UniFab 既是一款视频格式转换器，也是一款简单的视频 AI 处理器。",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/3ef1d912be22480795f63c6f99d7bdda.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/8a14513339514ccbb2b96dbd6c365c9b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/8ac92941a3fb41f1930e7433d43e3079.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/c9b3252cef7c4210ab3d2c19d4c23119.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/2bca2d529fa049e29453aa38fc8bdbf1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/9fdddfe3da13416fac4ce6d5da3b2bb0.png"
-}
-,
-{
     "Name": "Aiseesoft Blu-ray Player蓝光播放器",
     "Version": "6.7.62",
     "Filename": "com.aiseesoft.blu-rayplayer.deepin_6.7.62_all.deb",
@@ -1208,6 +1191,23 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/43bbeeddfc214400aa51920e8ef97e4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/85d558bccb5f42e9b37a050aa9d7bb1a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/a247c74e6d624c149a4a8e9dd93bc71b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/41744170e5e145079a4e7a361a25bb95.png"
+}
+,
+{
+    "Name": "UniFab 视频格式转换器",
+    "Version": "2.0.2.4",
+    "Filename": "com.unifab.deepin_2.0.2.4_all.deb",
+    "Torrent_address": "com.unifab.deepin_2.0.2.4_all.deb.torrent",
+    "Pkgname": "com.unifab.deepin",
+    "Author": "DVDFab.cn",
+    "Contributor": "DVDFab.cn",
+    "Website": "https://www.dvdfab.cn",
+    "Update": "2024-06-16 13:37:17",
+    "Size": "174.19 MB",
+    "More": "UniFab 既是一款视频格式转换器，也是一款简单的视频 AI 处理器。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/3ef1d912be22480795f63c6f99d7bdda.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/8a14513339514ccbb2b96dbd6c365c9b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/8ac92941a3fb41f1930e7433d43e3079.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/c9b3252cef7c4210ab3d2c19d4c23119.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/2bca2d529fa049e29453aa38fc8bdbf1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/9fdddfe3da13416fac4ce6d5da3b2bb0.png"
 }
 ,
 {

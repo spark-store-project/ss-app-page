@@ -18,24 +18,6 @@
 
 ,
 {
-    "Author": "百度翻译 <translate-service@baidu.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "com.baidu.translateclient_1.5.3_arm64.deb",
-    "More": "从UOS提取的百度翻译",
-    "Name": "百度翻译（Linux）",
-    "Pkgname": "com.baidu.translateclient",
-    "Size": "59 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "com.baidu.translateclient_1.5.3_arm64.deb.torrent",
-    "Update": "2023-03-05 18:34:03",
-    "Version": "1.5.3",
-    "Website": "https://fanyi.baidu.com",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/reading/com.baidu.translateclient/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/reading/com.baidu.translateclient/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/reading/com.baidu.translateclient/screen_2.png\"]"
-}
-
-,
-{
     "Author": "shenmo",
     "Contributor": "shenmo <jfile:///home/shenmo-ikun/Desktop/截图_spark-webapp-runtime_20231209161038.pngifengshenmo@outlook.com>",
     "Filename": "web-weread_1.0_all.deb",
@@ -50,6 +32,24 @@
     "Website": "https://weread.qq.com/",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/reading/web-weread/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/reading/web-weread/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "百度翻译 <translate-service@baidu.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.baidu.translateclient_1.5.3_arm64.deb",
+    "More": "从UOS提取的百度翻译",
+    "Name": "百度翻译（Linux）",
+    "Pkgname": "com.baidu.translateclient",
+    "Size": "59 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.baidu.translateclient_1.5.3_arm64.deb.torrent",
+    "Update": "2023-03-05 18:34:03",
+    "Version": "1.5.3",
+    "Website": "https://fanyi.baidu.com",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/reading/com.baidu.translateclient/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/reading/com.baidu.translateclient/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/reading/com.baidu.translateclient/screen_2.png\"]"
 }
 
 ,

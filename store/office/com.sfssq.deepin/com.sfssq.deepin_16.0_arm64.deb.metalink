@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.sfssq.deepin_16.0_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ce5abc57fffb755ad198136b4c07a2fa</hash>
+				  
+				<hash type="sha1">d10fb1b7c4b9c37dfe829ee9d4cb17e17654113b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.sfssq.deepin/com.sfssq.deepin_16.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://piercing.spark-app.store/store/office/com.sfssq.deepin/com.sfssq.deepin_16.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store/store/office/com.sfssq.deepin/com.sfssq.deepin_16.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://blinder.spark-app.store/store/office/com.sfssq.deepin/com.sfssq.deepin_16.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/office/com.sfssq.deepin/com.sfssq.deepin_16.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.sfssq.deepin/com.sfssq.deepin_16.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.sfssq.deepin/com.sfssq.deepin_16.0_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>
