@@ -831,23 +831,6 @@
 }
 ,
 {
-    "Name": "文件蜈蚣",
-    "Version": "2.02",
-    "Filename": "com.filecxx.filecxx_2.02_amd64.deb",
-    "Torrent_address": "com.filecxx.filecxx_2.02_amd64.deb.torrent",
-    "Pkgname": "com.filecxx.filecxx",
-    "Author": "filecxx",
-    "Contributor": "shenmo",
-    "Website": "http://www.filecxx.com/zh_CN/index.html",
-    "Update": "2022-06-27 20:34:12",
-    "Size": "27.99 MB",
-    "More": "文件蜈蚣是一个网络文件下载管理器, WebDAV客户端, FTP客户端, 和SSH客户端.\n它快速, 可定制, 用户友好, 多协议支持, 并且免费无广告.\n同时也包含了很多有用的辅助工具如: HTTP请求器, 文件合并工具, 编码/解码工具等.\n和网页浏览器进行集成, 你可以从网页上下载音频和视频, 甚至是加密视频.\n文件蜈蚣让一切变得简单和高效, 这是你能找到的最好的互联网下载管理器.\n\n首次使用请更改文件保存路径，否则所有内容会被保存到/root 下\n免费序列号：http://www.filecxx.com/zh_CN/activation_code.html\n（不是破解）",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/27/ecd5dbe0-f614-11ec-8e3f-63bd0205a602.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/27/ef5ea9a0-f614-11ec-8e3f-63bd0205a602.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/27/ce1e16e0-f614-11ec-8e3f-63bd0205a602.png"
-}
-,
-{
     "Name": "RPD远程桌面-寒尘汉化（UEngine）",
     "Version": "8.1.75.406",
     "Filename": "uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb",
@@ -862,6 +845,23 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/09/ab853e77d45d4d4cb63188153d6e78ff.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/09/6bec763bfcd747cdab03f57bb3df183e.png"
+}
+,
+{
+    "Name": "文件蜈蚣",
+    "Version": "2.02",
+    "Filename": "com.filecxx.filecxx_2.02_amd64.deb",
+    "Torrent_address": "com.filecxx.filecxx_2.02_amd64.deb.torrent",
+    "Pkgname": "com.filecxx.filecxx",
+    "Author": "filecxx",
+    "Contributor": "shenmo",
+    "Website": "http://www.filecxx.com/zh_CN/index.html",
+    "Update": "2022-06-27 20:34:12",
+    "Size": "27.99 MB",
+    "More": "文件蜈蚣是一个网络文件下载管理器, WebDAV客户端, FTP客户端, 和SSH客户端.\n它快速, 可定制, 用户友好, 多协议支持, 并且免费无广告.\n同时也包含了很多有用的辅助工具如: HTTP请求器, 文件合并工具, 编码/解码工具等.\n和网页浏览器进行集成, 你可以从网页上下载音频和视频, 甚至是加密视频.\n文件蜈蚣让一切变得简单和高效, 这是你能找到的最好的互联网下载管理器.\n\n首次使用请更改文件保存路径，否则所有内容会被保存到/root 下\n免费序列号：http://www.filecxx.com/zh_CN/activation_code.html\n（不是破解）",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/27/ecd5dbe0-f614-11ec-8e3f-63bd0205a602.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/27/ef5ea9a0-f614-11ec-8e3f-63bd0205a602.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/27/ce1e16e0-f614-11ec-8e3f-63bd0205a602.png"
 }
 ,
 {
@@ -1480,23 +1480,6 @@
 }
 ,
 {
-    "Name": "畅邮",
-    "Version": "6.6.4.6",
-    "Filename": "com.cy-email.spark_6.6.4.6_i386.deb",
-    "Torrent_address": "com.cy-email.spark_6.6.4.6_i386.deb.torrent",
-    "Pkgname": "com.cy-email.spark",
-    "Author": "DreamMail",
-    "Contributor": "shenmo",
-    "Website": "https://cy-email.com/",
-    "Update": "2022-09-02 15:58:50",
-    "Size": "181.44 MB",
-    "More": "精巧纯净又稳定，集收发、追踪、群发为一身的强大邮件客户端",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7f3340-2a94-11ed-9bd6-8b4709310a39.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7c7420-2a94-11ed-9bd6-8b4709310a39.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7dd3b0-2a94-11ed-9bd6-8b4709310a39.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/02/f87d6fd0-2a94-11ed-9bd6-8b4709310a39.png"
-}
-,
-{
     "Name": "Internet Download Manager（IDM）（Wine）",
     "Version": "6.42",
     "Filename": "com.idm.spark_6.42_all.deb",
@@ -1511,6 +1494,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/8da80a4f6389437399b734b10eebb56f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/b5c164cfb2d64bb4ababf896c417f933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/de699bb572b2487a8bc2502aed6426da.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/27/e0f739bbd02a41079a34bfcc01df547d.png"
+}
+,
+{
+    "Name": "畅邮",
+    "Version": "6.6.4.6",
+    "Filename": "com.cy-email.spark_6.6.4.6_i386.deb",
+    "Torrent_address": "com.cy-email.spark_6.6.4.6_i386.deb.torrent",
+    "Pkgname": "com.cy-email.spark",
+    "Author": "DreamMail",
+    "Contributor": "shenmo",
+    "Website": "https://cy-email.com/",
+    "Update": "2022-09-02 15:58:50",
+    "Size": "181.44 MB",
+    "More": "精巧纯净又稳定，集收发、追踪、群发为一身的强大邮件客户端",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7f3340-2a94-11ed-9bd6-8b4709310a39.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7c7420-2a94-11ed-9bd6-8b4709310a39.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7dd3b0-2a94-11ed-9bd6-8b4709310a39.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/02/f87d6fd0-2a94-11ed-9bd6-8b4709310a39.png"
 }
 ,
 {
@@ -2428,6 +2428,23 @@
 }
 ,
 {
+    "Name": "网易灵犀办公",
+    "Version": "1.38.3",
+    "Filename": "sirius-desktop_1.38.3_amd64.deb",
+    "Torrent_address": "sirius-desktop_1.38.3_amd64.deb.torrent",
+    "Pkgname": "sirius-desktop",
+    "Author": "网易灵犀",
+    "Contributor": "sgb76",
+    "Website": "https://office.163.com",
+    "Update": "2024-05-21 23:16:29",
+    "Size": "93.22 MB",
+    "More": "网易灵犀办公客户端\n网易匠心出品的全新一代邮件协同办公平台，产品整合邮箱、日历、云文档、即时消息、客户管理等模块，引领未来办公新体验。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9b83590c8e46468ba20d81e7d3dcf887.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/595847b04c0f4978963d787dd47d8f57.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/e04282b0345a4859a3b3ba8e5a2e0f85.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/21/f51f8faa6b7b408fb660872d3d3e779d.png"
+}
+,
+{
     "Name": "Pixso",
     "Version": "1.34.1.0deepin0",
     "Filename": "cn.pixso.deepin_1.34.1.0deepin0_all.deb",
@@ -2462,37 +2479,20 @@
 }
 ,
 {
-    "Name": "网易灵犀办公",
-    "Version": "1.38.3",
-    "Filename": "sirius-desktop_1.38.3_amd64.deb",
-    "Torrent_address": "sirius-desktop_1.38.3_amd64.deb.torrent",
-    "Pkgname": "sirius-desktop",
-    "Author": "网易灵犀",
-    "Contributor": "sgb76",
-    "Website": "https://office.163.com",
-    "Update": "2024-05-21 23:16:29",
-    "Size": "93.22 MB",
-    "More": "网易灵犀办公客户端\n网易匠心出品的全新一代邮件协同办公平台，产品整合邮箱、日历、云文档、即时消息、客户管理等模块，引领未来办公新体验。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9b83590c8e46468ba20d81e7d3dcf887.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/595847b04c0f4978963d787dd47d8f57.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/e04282b0345a4859a3b3ba8e5a2e0f85.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/21/f51f8faa6b7b408fb660872d3d3e779d.png"
-}
-,
-{
     "Name": "ODE 多功能助手",
-    "Version": "0.7.0deepin0",
-    "Filename": "com.ode.deepin_0.7.0deepin0_amd64.deb",
-    "Torrent_address": "com.ode.deepin_0.7.0deepin0_amd64.deb.torrent",
+    "Version": "0.8.0deepin0",
+    "Filename": "com.ode.deepin_0.8.0deepin0_all.deb",
+    "Torrent_address": "com.ode.deepin_0.8.0deepin0_all.deb.torrent",
     "Pkgname": "com.ode.deepin",
-    "Author": "蚂蚁爱生活",
+    "Author": "wang",
     "Contributor": "wang",
     "Website": "https://www.123pan.com/s/qEbeVv-Zh663.html",
-    "Update": "2024-05-22 23:08:00",
-    "Size": "134.74 MB",
+    "Update": "2024-06-16 23:27:20",
+    "Size": "77.97 MB",
     "More": "这是一款电脑端下载工具，其实它的主要功能是链接下载，和迅雷、idm是一样类型的下载软件，支持链接下载和网盘链接解析下载。如遇启动白板请重启电脑。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/be694ac0-184b-11ef-95c3-1f03db4e195c.PNG\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/be83d7a0-184b-11ef-95c3-1f03db4e195c.PNG\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/be9bcc70-184b-11ef-95c3-1f03db4e195c.PNG\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/beb5bd10-184b-11ef-95c3-1f03db4e195c.PNG\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/b57fcc40-184b-11ef-95c3-1f03db4e195c.png"
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/c0c1ba0bde2f45839fd49fe3d46d1ab2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/e32c866806884fd399d1bc4ce9d2e349.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/e970904af3134f97972456c44c5a9b28.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6e032410bc1341318a86d99c75b9f2c7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/c0b890f3947c404f9ed87a703b94b557.png"
 }
 ,
 {

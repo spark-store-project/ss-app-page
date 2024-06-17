@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.ode.deepin_0.8.0deepin0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">56de2de08fa2c4201857f7a16dfa6c80</hash>
+				  
+				<hash type="sha1">ce589ab2ab74d5917bb419cb6ad2c97a72416504</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/com.ode.deepin/com.ode.deepin_0.8.0deepin0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://piercing.spark-app.store/store/network/com.ode.deepin/com.ode.deepin_0.8.0deepin0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store/store/network/com.ode.deepin/com.ode.deepin_0.8.0deepin0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://blinder.spark-app.store/store/network/com.ode.deepin/com.ode.deepin_0.8.0deepin0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/network/com.ode.deepin/com.ode.deepin_0.8.0deepin0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/network/com.ode.deepin/com.ode.deepin_0.8.0deepin0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/network/com.ode.deepin/com.ode.deepin_0.8.0deepin0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

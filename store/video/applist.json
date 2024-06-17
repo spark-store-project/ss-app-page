@@ -1,15 +1,15 @@
 [
 {
     "Name": "bilibili客户端",
-    "Version": "1.13.6-1",
-    "Filename": "io.github.msojocs.bilibili_1.13.6-1_amd64.deb",
-    "Torrent_address": "io.github.msojocs.bilibili_1.13.6-1_amd64.deb.torrent",
+    "Version": "1.13.6-2",
+    "Filename": "io.github.msojocs.bilibili_1.13.6-2_amd64.deb",
+    "Torrent_address": "io.github.msojocs.bilibili_1.13.6-2_amd64.deb.torrent",
     "Pkgname": "io.github.msojocs.bilibili",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://github.com/msojocs/bilibili-linux/releases",
-    "Update": "2024-06-15 17:31:22",
-    "Size": "79M",
+    "Update": "2024-06-16 17:31:33",
+    "Size": "80M",
     "More": "由msojocs编写的哔哩哔哩客户端 Linux 移植版本",
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/screen_5.png\"]",
@@ -798,22 +798,6 @@
 }
 ,
 {
-    "Name": "lightworks",
-    "Version": "2021.2",
-    "Filename": "lightworks_2021.2_amd64.deb",
-    "Pkgname": "lightworks",
-    "Author": "LWKS Software Ltd.",
-    "Contributor": "安洛",
-    "Website": "https://www.lwks.com/",
-    "Update": "2021-06-16 22:54:22",
-    "Size": "69.61 MB",
-    "More": "Lightworks 是一套剪辑 2K/4K 电影和 PAL/NTSC、标清以及高清电视的专业非线性编辑系统。现版本已内置中文，可在设置中切换。",
-    "Tags": "ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/16/9a4f9760-ceb2-11eb-8e42-478bd3bfb991.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/16/87aaf280-ceb2-11eb-8e42-478bd3bfb991.png"
-}
-,
-{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "co.jianpian8.player_4.2.3.48_all.deb",
@@ -830,6 +814,22 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/co.jianpian8.player/screen_1.png\"]"
 }
 
+,
+{
+    "Name": "lightworks",
+    "Version": "2021.2",
+    "Filename": "lightworks_2021.2_amd64.deb",
+    "Pkgname": "lightworks",
+    "Author": "LWKS Software Ltd.",
+    "Contributor": "安洛",
+    "Website": "https://www.lwks.com/",
+    "Update": "2021-06-16 22:54:22",
+    "Size": "69.61 MB",
+    "More": "Lightworks 是一套剪辑 2K/4K 电影和 PAL/NTSC、标清以及高清电视的专业非线性编辑系统。现版本已内置中文，可在设置中切换。",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/16/9a4f9760-ceb2-11eb-8e42-478bd3bfb991.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/16/87aaf280-ceb2-11eb-8e42-478bd3bfb991.png"
+}
 ,
 {
     "Name": "ArctimePro",
@@ -1191,6 +1191,58 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/3ef1d912be22480795f63c6f99d7bdda.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/8a14513339514ccbb2b96dbd6c365c9b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/8ac92941a3fb41f1930e7433d43e3079.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/c9b3252cef7c4210ab3d2c19d4c23119.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/2bca2d529fa049e29453aa38fc8bdbf1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/9fdddfe3da13416fac4ce6d5da3b2bb0.png"
+}
+,
+{
+    "Name": "Aiseesoft Blu-ray Player蓝光播放器",
+    "Version": "6.7.62",
+    "Filename": "com.aiseesoft.blu-rayplayer.deepin_6.7.62_all.deb",
+    "Torrent_address": "com.aiseesoft.blu-rayplayer.deepin_6.7.62_all.deb.torrent",
+    "Pkgname": "com.aiseesoft.blu-rayplayer.deepin",
+    "Author": "Aiseesoft 工作室",
+    "Contributor": "Aiseesoft 工作室",
+    "Website": "https://zh-cn.aiseesoft.com/",
+    "Update": "2024-06-16 23:35:19",
+    "Size": "49.51 MB",
+    "More": "利用AI技术，这款强大的播放器可以播放蓝光光盘、蓝光文件夹、DVD光盘/文件夹/ISO文件，充当任何高清/标清视频文件的通用媒体播放器，让您享受身临其境的音频影响。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/43bbeeddfc214400aa51920e8ef97e4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/85d558bccb5f42e9b37a050aa9d7bb1a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/a247c74e6d624c149a4a8e9dd93bc71b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/41744170e5e145079a4e7a361a25bb95.png"
+}
+,
+{
+    "Author": "Aiseesoft 工作室",
+    "Contributor": "Aiseesoft 工作室",
+    "Filename": "com.aiseesoft.4k-converter.deepin_9.2.52_all.deb",
+    "More": "4K 视频转换是专业的4K视频转换软件，可以帮助您将4K转换为具有高视频质量的1080p，720p HD和SD视频格式。 此外，它使您能够将SD / HD视频转换为4K文件，以更好地支持4K电视和4K播放器。",
+    "Name": "Aiseesoft 4k Converter 视频转换",
+    "Pkgname": "com.aiseesoft.4k-converter.deepin",
+    "Size": "38 Mb",
+    "Tags": "deepin;uos;dwine5",
+    "Torrent_address": "com.aiseesoft.4k-converter.deepin_9.2.52_all.deb.torrent",
+    "Update": "2024-06-16 23:36:51",
+    "Version": "9.2.52",
+    "Website": "https://zh-cn.aiseesoft.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/video/com.aiseesoft.4k-converter.deepin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/com.aiseesoft.4k-converter.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/com.aiseesoft.4k-converter.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/com.aiseesoft.4k-converter.deepin/screen_3.png\"]"
+}
+
+,
+{
+    "Name": "Aiseesoft 3D Converter",
+    "Version": "6.5.20",
+    "Filename": "com.aiseesoft.3d-converter.deepin_6.5.20_all.deb",
+    "Torrent_address": "com.aiseesoft.3d-converter.deepin_6.5.20_all.deb.torrent",
+    "Pkgname": "com.aiseesoft.3d-converter.deepin",
+    "Author": "Aiseesoft工作室",
+    "Contributor": "Aiseesoft工作室",
+    "Website": "https://zh-cn.aiseesoft.com/",
+    "Update": "2024-06-16 23:11:09",
+    "Size": "22.15 MB",
+    "More": "Aiseesoft 3D 视频转换 - 最专业且易于使用的3D对象转换软件，允许用户将2D视频转换为3D，将3D转换为2D以及在3D文件之间更改3D模式。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/4b4d2250f29f4bcdad3cbedbaa2db974.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/62092f314d9b4980b3ee7d17aa2283a9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/bf664b6f142f4b27bbca21e4c55105f7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/ff3aa714ace34f31a2aa8aa8324e6f1f.png"
 }
 ,
 {

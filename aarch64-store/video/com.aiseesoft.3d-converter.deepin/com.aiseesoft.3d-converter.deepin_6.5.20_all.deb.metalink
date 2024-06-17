@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.aiseesoft.3d-converter.deepin_6.5.20_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b8fbf842f7c93b9fbe1cbb0c385a9987</hash>
+				  
+				<hash type="sha1">db9d8149e8fd9ac57aac2284f50572008337b071</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/video/com.aiseesoft.3d-converter.deepin/com.aiseesoft.3d-converter.deepin_6.5.20_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://piercing.spark-app.store/aarch64-store/video/com.aiseesoft.3d-converter.deepin/com.aiseesoft.3d-converter.deepin_6.5.20_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store/aarch64-store/video/com.aiseesoft.3d-converter.deepin/com.aiseesoft.3d-converter.deepin_6.5.20_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://blinder.spark-app.store/aarch64-store/video/com.aiseesoft.3d-converter.deepin/com.aiseesoft.3d-converter.deepin_6.5.20_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/aarch64-store/video/com.aiseesoft.3d-converter.deepin/com.aiseesoft.3d-converter.deepin_6.5.20_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/video/com.aiseesoft.3d-converter.deepin/com.aiseesoft.3d-converter.deepin_6.5.20_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/video/com.aiseesoft.3d-converter.deepin/com.aiseesoft.3d-converter.deepin_6.5.20_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

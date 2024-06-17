@@ -978,23 +978,6 @@
 }
 ,
 {
-    "Name": "桌面",
-    "Version": "5.8.0-1",
-    "Filename": "xpad_5.8.0-1_amd64.deb",
-    "Torrent_address": "xpad_5.8.0-1_amd64.deb.torrent",
-    "Pkgname": "xpad",
-    "Author": "Michael Terry",
-    "Contributor": "Taoran",
-    "Website": "https://launchpad.net/xpad",
-    "Update": "2022-06-22 23:30:57",
-    "Size": "108.62 KB",
-    "More": "Xpad是一个桌面便签应用，能够在一个桌面创建多个记录窗口，只需要将鼠标指针移到该窗口的底部显示工具栏进行操作，具有实时记录和保存等功能。还可以通过菜单执行更多选项配置，如修改字体样式及大小、重新设置窗口背景和文字颜色等。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/3fb3cee0-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/3fccd520-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/3fef7850-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/4008f3c0-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/401f13d0-f240-11ec-8036-71833f63a538.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/22/7b668320-f23f-11ec-8036-71833f63a538.png"
-}
-,
-{
     "Name": "浙政钉（wine）",
     "Version": "2.15.0-Release.4spark1",
     "Filename": "com.dingtalkzjgov.deepin_2.15.0-Release.4spark1_all.deb",
@@ -1009,6 +992,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/16/c77837b3f7de4b99b691efccfc2fbe50.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/16/dd3a0afacdc94331b02994a9e5723245.png"
+}
+,
+{
+    "Name": "桌面",
+    "Version": "5.8.0-1",
+    "Filename": "xpad_5.8.0-1_amd64.deb",
+    "Torrent_address": "xpad_5.8.0-1_amd64.deb.torrent",
+    "Pkgname": "xpad",
+    "Author": "Michael Terry",
+    "Contributor": "Taoran",
+    "Website": "https://launchpad.net/xpad",
+    "Update": "2022-06-22 23:30:57",
+    "Size": "108.62 KB",
+    "More": "Xpad是一个桌面便签应用，能够在一个桌面创建多个记录窗口，只需要将鼠标指针移到该窗口的底部显示工具栏进行操作，具有实时记录和保存等功能。还可以通过菜单执行更多选项配置，如修改字体样式及大小、重新设置窗口背景和文字颜色等。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/3fb3cee0-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/3fccd520-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/3fef7850-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/4008f3c0-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/401f13d0-f240-11ec-8036-71833f63a538.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/22/7b668320-f23f-11ec-8036-71833f63a538.png"
 }
 ,
 {
@@ -1699,23 +1699,6 @@
 }
 ,
 {
-    "Name": "ediary笔记",
-    "Version": "4.2.6",
-    "Filename": "net.haoxg.ediary.spark_4.2.6_all.deb",
-    "Torrent_address": "net.haoxg.ediary.spark_4.2.6_all.deb.torrent",
-    "Pkgname": "net.haoxg.ediary.spark",
-    "Author": "haoxg",
-    "Contributor": "waittingsummer",
-    "Website": "http://www.haoxg.net/index.html",
-    "Update": "2024-05-27 09:41:09",
-    "Size": "68.58 MB",
-    "More": "已知问题：\n1.日志可以复制粘贴；\n2.主题必须选择win10，否则图标看不清；\n3.最大化后无法改变窗口大小，必须重新打开",
-    "Tags": "deepin;ubuntu;uos;wine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/1fd214a0-1bca-11ef-ab14-ff27fa172f32.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/17f17aa0-1bca-11ef-ab14-ff27fa172f32.png"
-}
-,
-{
     "Author": "QSLS",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.deepin.cajv_7.2.0spark3_all.deb",
@@ -1732,6 +1715,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.deepin.cajv/screen_1.png\"]"
 }
 
+,
+{
+    "Name": "ediary笔记",
+    "Version": "4.2.6",
+    "Filename": "net.haoxg.ediary.spark_4.2.6_all.deb",
+    "Torrent_address": "net.haoxg.ediary.spark_4.2.6_all.deb.torrent",
+    "Pkgname": "net.haoxg.ediary.spark",
+    "Author": "haoxg",
+    "Contributor": "waittingsummer",
+    "Website": "http://www.haoxg.net/index.html",
+    "Update": "2024-05-27 09:41:09",
+    "Size": "68.58 MB",
+    "More": "已知问题：\n1.日志可以复制粘贴；\n2.主题必须选择win10，否则图标看不清；\n3.最大化后无法改变窗口大小，必须重新打开",
+    "Tags": "deepin;ubuntu;uos;wine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/1fd214a0-1bca-11ef-ab14-ff27fa172f32.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/17f17aa0-1bca-11ef-ab14-ff27fa172f32.png"
+}
 ,
 {
     "Name": "橙瓜码字",
@@ -1768,23 +1768,6 @@
 }
 ,
 {
-    "Name": "Synology Drive Client",
-    "Version": "7.3.0-15082+1",
-    "Filename": "synology-drive_7.3.0-15082_plus1_amd64.deb",
-    "Torrent_address": "synology-drive_7.3.0-15082_plus1_amd64.deb.torrent",
-    "Pkgname": "synology-drive",
-    "Author": "Synology <support@synology.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://www.synology.cn/zh-cn",
-    "Update": "2023-06-14 19:37:31",
-    "Size": "97.01 MB",
-    "More": "Synology Drive Client 是 DSM 附加套件 Synology Drive Server 的桌面实用程序，让您可以在集中化的 Synology NAS 与多台客户端计算机之间，同步和共享您拥有的文件或他人与您共享的文件。\n更新至7.3.0",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/14/3328d498860447c2943ae4d6409796bd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/14/69652c8843de46fb8e5cdc2b3573ff27.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/14/deff240adbbd42e780b8295f4e14b675.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/14/50e5825c5e8f4531bcf9a8322db920f1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/14/eaf4a4da45ab401b8b1e692650b02434.png"
-}
-,
-{
     "Name": "蓝信",
     "Version": "7.33.32spark0",
     "Filename": "org.lanxin.spark_7.33.32spark0_amd64.deb",
@@ -1799,6 +1782,23 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/efef5f10-e96a-11ec-a40a-313790704626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/effdde00-e96a-11ec-a40a-313790704626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/f0120240-e96a-11ec-a40a-313790704626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/f0256330-e96a-11ec-a40a-313790704626.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/11/eaec6990-e96a-11ec-a40a-313790704626.png"
+}
+,
+{
+    "Name": "Synology Drive Client",
+    "Version": "7.3.0-15082+1",
+    "Filename": "synology-drive_7.3.0-15082_plus1_amd64.deb",
+    "Torrent_address": "synology-drive_7.3.0-15082_plus1_amd64.deb.torrent",
+    "Pkgname": "synology-drive",
+    "Author": "Synology <support@synology.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.synology.cn/zh-cn",
+    "Update": "2023-06-14 19:37:31",
+    "Size": "97.01 MB",
+    "More": "Synology Drive Client 是 DSM 附加套件 Synology Drive Server 的桌面实用程序，让您可以在集中化的 Synology NAS 与多台客户端计算机之间，同步和共享您拥有的文件或他人与您共享的文件。\n更新至7.3.0",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/14/3328d498860447c2943ae4d6409796bd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/14/69652c8843de46fb8e5cdc2b3573ff27.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/14/deff240adbbd42e780b8295f4e14b675.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/14/50e5825c5e8f4531bcf9a8322db920f1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/14/eaf4a4da45ab401b8b1e692650b02434.png"
 }
 ,
 {
@@ -2152,22 +2152,6 @@
 }
 ,
 {
-    "Name": "为知笔记Plus (Wiznote+)",
-    "Version": "2.8.3",
-    "Filename": "wiznoteplus_2.8.3_amd64.deb",
-    "Pkgname": "wiznoteplus",
-    "Author": "altairwei",
-    "Contributor": "shenmo",
-    "Website": "https://github.com/altairwei/WizNotePlus",
-    "Update": "2021-08-09 20:04:09",
-    "Size": "108.46 MB",
-    "More": "为知笔记客户端的社区分支版",
-    "Tags": "community;deepin;ubuntu;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/09/d2095160-f909-11eb-b88d-83369b50dd13.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/09/d207f1d0-f909-11eb-b88d-83369b50dd13.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/09/d2158660-f909-11eb-b88d-83369b50dd13.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/09/d20ad800-f909-11eb-b88d-83369b50dd13.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/09/cd89bcb0-f909-11eb-b88d-83369b50dd13.png"
-}
-,
-{
     "Name": "泰山办公2022专业版",
     "Version": "5.1.0.487",
     "Filename": "cn.ts-it.suite_5.1.0.487_amd64.deb",
@@ -2182,6 +2166,22 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/18ccc0815107433c91bd7a2aec462ff4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/16/b7c44209c71842ffbf0fde7db3e948e6.png"
+}
+,
+{
+    "Name": "为知笔记Plus (Wiznote+)",
+    "Version": "2.8.3",
+    "Filename": "wiznoteplus_2.8.3_amd64.deb",
+    "Pkgname": "wiznoteplus",
+    "Author": "altairwei",
+    "Contributor": "shenmo",
+    "Website": "https://github.com/altairwei/WizNotePlus",
+    "Update": "2021-08-09 20:04:09",
+    "Size": "108.46 MB",
+    "More": "为知笔记客户端的社区分支版",
+    "Tags": "community;deepin;ubuntu;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/09/d2095160-f909-11eb-b88d-83369b50dd13.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/09/d207f1d0-f909-11eb-b88d-83369b50dd13.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/09/d2158660-f909-11eb-b88d-83369b50dd13.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/09/d20ad800-f909-11eb-b88d-83369b50dd13.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/09/cd89bcb0-f909-11eb-b88d-83369b50dd13.png"
 }
 ,
 {
@@ -4158,6 +4158,23 @@
 }
 ,
 {
+    "Name": "WPS Office 365",
+    "Version": "12.8.2.16969.AK.preload.sw",
+    "Filename": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb",
+    "Torrent_address": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb.torrent",
+    "Pkgname": "wps-office-365",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://wps-community.org",
+    "Update": "2024-06-16 10:13:44",
+    "Size": "722.16 MB",
+    "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/819a4c6aea004b1bb9059da5c1511085.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6bd9ad01e587436fb9ca5e74ef078921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/76097ef94d21409091dbcada9fcefe7c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/2dffce17cb754c4a8407d85de5511bc2.png"
+}
+,
+{
     "Name": "影刀",
     "Version": "1.2.1",
     "Filename": "shadowbot_1.2.1_amd64.deb",
@@ -4352,23 +4369,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/08/7ef7bac760cb44a3bf0ef770a75922be.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/08/40606daa4d8844509af0be4b029ff5f8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/08/0f11c8a1a0b64daa9dd1ecfcfe43e8b8.png"
-}
-,
-{
-    "Name": "WPS Office 365",
-    "Version": "12.8.2.16969.AK.preload.sw",
-    "Filename": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb",
-    "Torrent_address": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb.torrent",
-    "Pkgname": "wps-office-365",
-    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://wps-community.org",
-    "Update": "2024-06-16 10:13:44",
-    "Size": "722.16 MB",
-    "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/819a4c6aea004b1bb9059da5c1511085.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6bd9ad01e587436fb9ca5e74ef078921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/76097ef94d21409091dbcada9fcefe7c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/2dffce17cb754c4a8407d85de5511bc2.png"
 }
 ,
 {

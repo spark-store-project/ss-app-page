@@ -322,23 +322,6 @@
 }
 ,
 {
-    "Name": "金山打字通2016",
-    "Version": "22059.12012.0spark0",
-    "Filename": "com.51dzt.typeeasy.spark_22059.12012.0spark0_i386.deb",
-    "Torrent_address": "com.51dzt.typeeasy.spark_22059.12012.0spark0_i386.deb.torrent",
-    "Pkgname": "com.51dzt.typeeasy.spark",
-    "Author": "Kingsoft Office Corporation",
-    "Contributor": "sgb76",
-    "Website": "https://www.51dzt.com/rubik/?_position=51dzt",
-    "Update": "2023-02-23 19:40:56",
-    "Size": "55.74 MB",
-    "More": "金山打字通是专为上网初学者开发的打字练习软件,帮助助用户从零开始成为打字高手\n\n说明：\n1.打包时已自带5款打字练习小游戏，无需再下载安装\n2.在deepin下所有功能均正常使用\n3.经测试，在Ubuntu下打字练习等功能模块正常，但是运行打字游戏会造成屏幕分辨率切换不正常",
-    "Tags": "ubuntu;deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/23/65b939ae8f6e4027a58ddf63c7505bec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/23/58f6d8252e374d9eaf45d25d9be4a6d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/23/fc300b09f4cd4f58bcfe6d1cc1e0296f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/23/175d43c67e6c49999f3cf9cd6530f095.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/23/2956de73c6954197a130f0ef302cbbcb.png"
-}
-,
-{
     "Name": "东方财富",
     "Version": "2.3.2.2820",
     "Filename": "com.eastmoney.emapp_2.3.2.2820_amd64.deb",
@@ -353,6 +336,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/a51846e4a80d45f4a6cb9e1c5f1801fe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/1c3f3fbd1b4748fa8f1a090fd4ef9b9b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/29/ab2ada7790614813a3543d25cf20db72.png"
+}
+,
+{
+    "Name": "金山打字通2016",
+    "Version": "22059.12012.0spark0",
+    "Filename": "com.51dzt.typeeasy.spark_22059.12012.0spark0_i386.deb",
+    "Torrent_address": "com.51dzt.typeeasy.spark_22059.12012.0spark0_i386.deb.torrent",
+    "Pkgname": "com.51dzt.typeeasy.spark",
+    "Author": "Kingsoft Office Corporation",
+    "Contributor": "sgb76",
+    "Website": "https://www.51dzt.com/rubik/?_position=51dzt",
+    "Update": "2023-02-23 19:40:56",
+    "Size": "55.74 MB",
+    "More": "金山打字通是专为上网初学者开发的打字练习软件,帮助助用户从零开始成为打字高手\n\n说明：\n1.打包时已自带5款打字练习小游戏，无需再下载安装\n2.在deepin下所有功能均正常使用\n3.经测试，在Ubuntu下打字练习等功能模块正常，但是运行打字游戏会造成屏幕分辨率切换不正常",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/23/65b939ae8f6e4027a58ddf63c7505bec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/23/58f6d8252e374d9eaf45d25d9be4a6d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/23/fc300b09f4cd4f58bcfe6d1cc1e0296f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/23/175d43c67e6c49999f3cf9cd6530f095.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/23/2956de73c6954197a130f0ef302cbbcb.png"
 }
 ,
 {
@@ -643,20 +643,6 @@
 }
 ,
 {
-   "Name":"一只二维码",
-   "Version":"1.1",
-   "Filename":"top.yzzi.onecuter_1.1_amd64.deb",
-   "Pkgname":"top.yzzi.onecuter",
-   "Author":"一只科技菌",
-   "Contributor":"一只科技菌",
-   "Website":"https://blog.yzzi.top",
-   "Update":"2020-08-08 11:00",
-   "Size":"282.28KB",
-   "More":"一个可爱风格的二维码生成器"
-}
-
-,
-{
     "Name": "国泰君安富易（UOS版）",
     "Version": "1.1.1221",
     "Filename": "com.gtja.richeasy_1.1.1221_amd64.deb",
@@ -672,6 +658,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/68726ade7bc74b8e8d2053a887eaed3b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/0e46c641a63d4e9897eb59f8ea6ffc91.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/970d7c5842a64155b8fa3e7695268c0e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/31/7333c0e6d9384d24928a21abf63dc582.png"
 }
+,
+{
+   "Name":"一只二维码",
+   "Version":"1.1",
+   "Filename":"top.yzzi.onecuter_1.1_amd64.deb",
+   "Pkgname":"top.yzzi.onecuter",
+   "Author":"一只科技菌",
+   "Contributor":"一只科技菌",
+   "Website":"https://blog.yzzi.top",
+   "Update":"2020-08-08 11:00",
+   "Size":"282.28KB",
+   "More":"一个可爱风格的二维码生成器"
+}
+
 ,
 {
     "Name": "SweetHome3D",

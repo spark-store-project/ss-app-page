@@ -983,22 +983,6 @@
 }
 ,
 {
-    "Name": "古墓丽影4（wine）",
-    "Version": "1.0spark0",
-    "Filename": "tombraider4.spark_1.0spark0_i386.deb",
-    "Pkgname": "tombraider4.spark",
-    "Author": "Eidos",
-    "Contributor": "sgb76",
-    "Website": "无",
-    "Update": "2021-07-29 00:31:15",
-    "Size": "744.53 MB",
-    "More": "一个经典又有些古老的游戏了，虽然现在看来画质太一般，但可玩儿性还不错\n\n注：游戏进行中如果要退出游戏，请按“P”键调出菜单",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/29/741589e0-efc0-11eb-8b65-2f4b10befd0c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/29/793e7df0-efc0-11eb-8b65-2f4b10befd0c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/29/8467da50-efc0-11eb-8b65-2f4b10befd0c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/29/6a3c5430-efc0-11eb-8b65-2f4b10befd0c.png"
-}
-,
-{
     "Author": "shenmo@spark-app.store",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.pvzhz.spark_2.0.88spark2_all.deb",
@@ -1015,6 +999,22 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_2.png\"]"
 }
 
+,
+{
+    "Name": "古墓丽影4（wine）",
+    "Version": "1.0spark0",
+    "Filename": "tombraider4.spark_1.0spark0_i386.deb",
+    "Pkgname": "tombraider4.spark",
+    "Author": "Eidos",
+    "Contributor": "sgb76",
+    "Website": "无",
+    "Update": "2021-07-29 00:31:15",
+    "Size": "744.53 MB",
+    "More": "一个经典又有些古老的游戏了，虽然现在看来画质太一般，但可玩儿性还不错\n\n注：游戏进行中如果要退出游戏，请按“P”键调出菜单",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/29/741589e0-efc0-11eb-8b65-2f4b10befd0c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/29/793e7df0-efc0-11eb-8b65-2f4b10befd0c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/29/8467da50-efc0-11eb-8b65-2f4b10befd0c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/29/6a3c5430-efc0-11eb-8b65-2f4b10befd0c.png"
+}
 ,
 {
     "Name": "parsec",
@@ -1151,23 +1151,6 @@
 }
 ,
 {
-    "Name": "Minecraft 官方启动器",
-    "Version": "1.1.26",
-    "Filename": "minecraft-launcher_1.1.26_amd64.deb",
-    "Torrent_address": "minecraft-launcher_1.1.26_amd64.deb.torrent",
-    "Pkgname": "minecraft-launcher",
-    "Author": "Petr Mrázek <petr@mojang.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://minecraft.net/",
-    "Update": "2023-03-04 17:47:30",
-    "Size": "488.61 KB",
-    "More": "Official Minecraft Launcher\n------\n1. 打开启动器\n2. 登录微账号\n3. 自行购买正版\n4. 然后开始游戏",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/a803c123b4184a998fcdd1b48cd1a869.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/3fe5665e72b94dd4adeffcac6acea570.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/fefe4018a0714b60a6d88243ba819a83.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/04/553558bc61924ed28cb3d20aaf9c0ca1.png"
-}
-,
-{
     "Author": "shiroko <hanhaoxuan@uniontech.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.mihoyo.ys-cloud_1.0.0_all.deb",
@@ -1184,6 +1167,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_3.png\"]"
 }
 
+,
+{
+    "Name": "Minecraft 官方启动器",
+    "Version": "1.1.26",
+    "Filename": "minecraft-launcher_1.1.26_amd64.deb",
+    "Torrent_address": "minecraft-launcher_1.1.26_amd64.deb.torrent",
+    "Pkgname": "minecraft-launcher",
+    "Author": "Petr Mrázek <petr@mojang.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://minecraft.net/",
+    "Update": "2023-03-04 17:47:30",
+    "Size": "488.61 KB",
+    "More": "Official Minecraft Launcher\n------\n1. 打开启动器\n2. 登录微账号\n3. 自行购买正版\n4. 然后开始游戏",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/a803c123b4184a998fcdd1b48cd1a869.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/3fe5665e72b94dd4adeffcac6acea570.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/fefe4018a0714b60a6d88243ba819a83.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/04/553558bc61924ed28cb3d20aaf9c0ca1.png"
+}
 ,
 {
     "Name": "腾讯先锋",
@@ -1589,6 +1589,20 @@
 }
 ,
 {
+   "Name":"美味星球2",
+   "Version":"1.0",
+   "Filename":"com.tastyplanet2.wine_1.0_amd64.deb",
+   "Pkgname":"com.tastyplanet2.wine",
+   "Author":"阿健",
+   "Contributor":"阿健",
+   "Website":"https://bbs.deepin.org/forum.php?mod=viewthread&tid=195972",
+   "Update":"2020-06-28 21:49",
+   "Size":"19.21MB",
+   "More":"在《美味星球2》中，我们将继续控制灰色粘球去吃比它小的东西，吃的越多会变得越大！不久就能吃下整个地球！本篇的故事开始于粘球吃下了一台时间机器，导致它被送回到六个不同时期，从现代开始，到白垩纪晚期，古埃及和古罗马，日本封建时代，以及遥远的未来世界。"
+}
+
+,
+{
     "Name": "Sabaki",
     "Version": "0.52.2spark1",
     "Filename": "de.sabaki.spark_0.52.2spark1_amd64.deb",
@@ -1604,20 +1618,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/10/f9a4e91a43864ad3bbb5d09f935d73c1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/10/b873cf33fdd74a86a1719ce093e72a09.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/10/135fe64df7db4525a84bea7b26867b6a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/10/19483e1b306b42f981e1d5564dd1487d.png"
 }
-,
-{
-   "Name":"美味星球2",
-   "Version":"1.0",
-   "Filename":"com.tastyplanet2.wine_1.0_amd64.deb",
-   "Pkgname":"com.tastyplanet2.wine",
-   "Author":"阿健",
-   "Contributor":"阿健",
-   "Website":"https://bbs.deepin.org/forum.php?mod=viewthread&tid=195972",
-   "Update":"2020-06-28 21:49",
-   "Size":"19.21MB",
-   "More":"在《美味星球2》中，我们将继续控制灰色粘球去吃比它小的东西，吃的越多会变得越大！不久就能吃下整个地球！本篇的故事开始于粘球吃下了一台时间机器，导致它被送回到六个不同时期，从现代开始，到白垩纪晚期，古埃及和古罗马，日本封建时代，以及遥远的未来世界。"
-}
-
 ,
 {
     "Name": "宝石迷阵3",
@@ -1671,6 +1671,23 @@
 }
 ,
 {
+    "Name": "孤岛惊魂",
+    "Version": "1.0spark1",
+    "Filename": "com.farcry.spark_1.0spark1_all.deb",
+    "Torrent_address": "com.farcry.spark_1.0spark1_all.deb.torrent",
+    "Pkgname": "com.farcry.spark",
+    "Author": "Ubisoft",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-09-29 20:42:57",
+    "Size": "2.41 GB",
+    "More": "孤岛惊魂中文版",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/335a7030-5ec4-11ee-9c5f-6b1787933f50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/3500cd30-5ec4-11ee-9c5f-6b1787933f50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/36a380b0-5ec4-11ee-9c5f-6b1787933f50.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/29/30f81630-5ec4-11ee-9c5f-6b1787933f50.png"
+}
+,
+{
     "Name": "Doki Doki Literature Club",
     "Version": "1.1.0",
     "Filename": "com.ddlc.yzf_1.1.0_amd64.deb",
@@ -1721,20 +1738,20 @@
 }
 ,
 {
-    "Name": "孤岛惊魂",
-    "Version": "1.0spark1",
-    "Filename": "com.farcry.spark_1.0spark1_all.deb",
-    "Torrent_address": "com.farcry.spark_1.0spark1_all.deb.torrent",
-    "Pkgname": "com.farcry.spark",
-    "Author": "Ubisoft",
+    "Name": "球杆俱乐部2：台球和斯诺克",
+    "Version": "1.0spark0",
+    "Filename": "com.cueclub2.spark_1.0spark0_amd64.deb",
+    "Torrent_address": "com.cueclub2.spark_1.0spark0_amd64.deb.torrent",
+    "Pkgname": "com.cueclub2.spark",
+    "Author": "Bulldog Interactive",
     "Contributor": "sgb76",
     "Website": "no",
-    "Update": "2023-09-29 20:42:57",
-    "Size": "2.41 GB",
-    "More": "孤岛惊魂中文版",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/335a7030-5ec4-11ee-9c5f-6b1787933f50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/3500cd30-5ec4-11ee-9c5f-6b1787933f50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/36a380b0-5ec4-11ee-9c5f-6b1787933f50.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/29/30f81630-5ec4-11ee-9c5f-6b1787933f50.png"
+    "Update": "2023-07-03 00:21:26",
+    "Size": "112.46 MB",
+    "More": "一款桌球休闲游戏，玩家将会进入一个专业的桌球俱乐部，在里面和帅哥美女们打休闲的台球以及专业的斯诺克比赛，物理引擎非常真实，玩家击球和球碰球的反馈都显得非常真实，和现实中打台球基本没什么两样",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/d73ccbe3e7674398a60a2c3f19321956.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/bd35c544fde94dc8a7fe6d88f3cb693f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/1bd348eeb69e434a840f35f77d89fd1b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/03/735fbf6e348c4be98120deeffde66fda.png"
 }
 ,
 {
@@ -1786,23 +1803,6 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/12/275ea380-5aef-11ec-9684-2b5962be5150.svg"
 }
 
-,
-{
-    "Name": "球杆俱乐部2：台球和斯诺克",
-    "Version": "1.0spark0",
-    "Filename": "com.cueclub2.spark_1.0spark0_amd64.deb",
-    "Torrent_address": "com.cueclub2.spark_1.0spark0_amd64.deb.torrent",
-    "Pkgname": "com.cueclub2.spark",
-    "Author": "Bulldog Interactive",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-07-03 00:21:26",
-    "Size": "112.46 MB",
-    "More": "一款桌球休闲游戏，玩家将会进入一个专业的桌球俱乐部，在里面和帅哥美女们打休闲的台球以及专业的斯诺克比赛，物理引擎非常真实，玩家击球和球碰球的反馈都显得非常真实，和现实中打台球基本没什么两样",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/d73ccbe3e7674398a60a2c3f19321956.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/bd35c544fde94dc8a7fe6d88f3cb693f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/1bd348eeb69e434a840f35f77d89fd1b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/03/735fbf6e348c4be98120deeffde66fda.png"
-}
 ,
 {
     "Name": "大鹅村霸模拟器",
@@ -1989,6 +1989,23 @@
 }
 ,
 {
+    "Name": "彩虹六号：维加斯2",
+    "Version": "1.0spark0",
+    "Filename": "com.vegas2.spark_1.0spark0_amd64.deb",
+    "Torrent_address": "com.vegas2.spark_1.0spark0_amd64.deb.torrent",
+    "Pkgname": "com.vegas2.spark",
+    "Author": "Ubisoft",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-08-25 01:20:20",
+    "Size": "2.49 GB",
+    "More": "一款战术第一人称射击游戏，玩家将扮演反恐怖行动小组成员，在美国暴力犯罪最猖獗的“罪恶之城”拉斯维加斯执行各种任务。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/25/752f3520-42a1-11ee-819a-212e48bfe0fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/25/76ff8850-42a1-11ee-819a-212e48bfe0fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/25/796b3120-42a1-11ee-819a-212e48bfe0fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/25/7c1123d0-42a1-11ee-819a-212e48bfe0fa.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/25/71de5c70-42a1-11ee-819a-212e48bfe0fa.png"
+}
+,
+{
     "Name": "东东不死传说",
     "Version": "1.0",
     "Filename": "com.dongimmortal.spark_1.0_amd64.deb",
@@ -2035,23 +2052,6 @@
     "Tags": "community;deepin;dtk5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/24/5241dec0-2df8-11eb-9072-d5c754e64b42.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/24/523b7620-2df8-11eb-9072-d5c754e64b42.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/24/52117ff0-2df8-11eb-9072-d5c754e64b42.png"
-}
-,
-{
-    "Name": "彩虹六号：维加斯2",
-    "Version": "1.0spark0",
-    "Filename": "com.vegas2.spark_1.0spark0_amd64.deb",
-    "Torrent_address": "com.vegas2.spark_1.0spark0_amd64.deb.torrent",
-    "Pkgname": "com.vegas2.spark",
-    "Author": "Ubisoft",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-08-25 01:20:20",
-    "Size": "2.49 GB",
-    "More": "一款战术第一人称射击游戏，玩家将扮演反恐怖行动小组成员，在美国暴力犯罪最猖獗的“罪恶之城”拉斯维加斯执行各种任务。",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/25/752f3520-42a1-11ee-819a-212e48bfe0fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/25/76ff8850-42a1-11ee-819a-212e48bfe0fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/25/796b3120-42a1-11ee-819a-212e48bfe0fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/25/7c1123d0-42a1-11ee-819a-212e48bfe0fa.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/25/71de5c70-42a1-11ee-819a-212e48bfe0fa.png"
 }
 ,
 {
@@ -2153,6 +2153,23 @@
 }
 ,
 {
+    "Name": "时光之刃",
+    "Version": "1.0spark1",
+    "Filename": "com.bladesoftime.spark_1.0spark1_all.deb",
+    "Torrent_address": "com.bladesoftime.spark_1.0spark1_all.deb.torrent",
+    "Pkgname": "com.bladesoftime.spark",
+    "Author": "konami",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-10-06 11:40:17",
+    "Size": "2.24 GB",
+    "More": "一款动作冒险类游戏，游戏的主角亚由美是一位可以使用枪与剑的财宝猎人。游戏风格和鬼泣系列的作品非常的相似，在这里主角进入到了一座奇幻的小岛中进行探索去寻找古老的宝藏，游戏里将会有40种不同的近战技能与魔法技能。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/86dcca80-63f8-11ee-b417-0bc186dd87d7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/894454a0-63f8-11ee-b417-0bc186dd87d7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/8bdbef70-63f8-11ee-b417-0bc186dd87d7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/8e0b5290-63f8-11ee-b417-0bc186dd87d7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/06/81bde890-63f8-11ee-b417-0bc186dd87d7.png"
+}
+,
+{
     "Name": "孤胆枪手2：征兵",
     "Version": "1.0spark0",
     "Filename": "com.alienshooter2-conscription.spark_1.0spark0_amd64.deb",
@@ -2184,23 +2201,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/07/6cbd46a4-274b-4b69-b2ee-2638d26722af.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/07/d0220a80-f98c-4f69-ba2e-c9f202ec275f.png"
-}
-,
-{
-    "Name": "时光之刃",
-    "Version": "1.0spark1",
-    "Filename": "com.bladesoftime.spark_1.0spark1_all.deb",
-    "Torrent_address": "com.bladesoftime.spark_1.0spark1_all.deb.torrent",
-    "Pkgname": "com.bladesoftime.spark",
-    "Author": "konami",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-10-06 11:40:17",
-    "Size": "2.24 GB",
-    "More": "一款动作冒险类游戏，游戏的主角亚由美是一位可以使用枪与剑的财宝猎人。游戏风格和鬼泣系列的作品非常的相似，在这里主角进入到了一座奇幻的小岛中进行探索去寻找古老的宝藏，游戏里将会有40种不同的近战技能与魔法技能。",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/86dcca80-63f8-11ee-b417-0bc186dd87d7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/894454a0-63f8-11ee-b417-0bc186dd87d7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/8bdbef70-63f8-11ee-b417-0bc186dd87d7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/8e0b5290-63f8-11ee-b417-0bc186dd87d7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/06/81bde890-63f8-11ee-b417-0bc186dd87d7.png"
 }
 ,
 {
@@ -2296,16 +2296,20 @@
 }
 ,
 {
-   "Name":"辐射小马国：废土-wine",
-   "Version":"1.0.1",
-   "Filename":"fallout.equestria.remains_1.0.1_amd64.deb",
-   "Pkgname":"fallout.equestria.remains",
-   "Author":"Empalu",
-   "Contributor":"ShadowDumb",
-   "Website":"http://foe.ucoz.org/main_en.html",
-   "Update":"2020-07-26 13:32",
-   "Size":"295.69MB",
-   "More":"战争！战争从未改变！\n很久很久以前，在小马国这片神奇的土地上……\n一个将友谊理念让位于妒忌、自私、贪婪与残忍的时代来临了。在那次国与国之间，以自然资源为开端的大战中，没有任何的赢家。由小马蹄下击打而出的魔法迅速爆发失控，整个世界都被烈焰所吞噬。龙火与黑魔法结合而成的毁灭性武器，几乎抹除掉了这个星球上的所有生命。土壤，水源和空气都被辐射污染，城市毁灭，文明崩溃。无论是小马，还是他们的敌军都被从地表上抹除掉了。疯狂的先知所预言的审判日，几乎没有任何小马相信，直到那个命运注定的日子降临……\n但这并不是结局，仍然有很多小马幸免于难，一些躲在巨大的地下避难厩中，另一些不知何故适应了新的环境。那个审判日只不过是小马历史上另一个血腥篇章的序曲。在满目疮痍，毒素滋生的废土，暴力和残忍已是家常便饭，更是一种生存下去的方式……\n在曾经的小马国的那个末日之后，二百多年过去了……\n\n这是一款rougelike的横版射击游戏，游戏中包含有数十种武器、装备和技能，以及上百个随机关卡，当然敌人的种类也很多。小心，敌人也会布置陷进！\n游戏依赖于64位wine。游戏支持多种语言，包括中文。\n\n1.0.1更新：\n一些BUG修复，增加日语和西班牙语。"
+    "Author": "ShadowDumb [https://github.com/ShadowDumb/FalloutEquestriaRemainsLinux]",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "fallout.equestria.remains_1.0.2_amd64.deb",
+    "More": "战争！战争从未改变！\n很久很久以前，在小马国这片神奇的土地上……\n一个将友谊理念让位于妒忌、自私、贪婪与残忍的时代来临了。在那次国与国之间，以自然资源为开端的大战中，没有任何的赢家。由小马蹄下击打而出的魔法迅速爆发失控，整个世界都被烈焰所吞噬。龙火与黑魔法结合而成的毁灭性武器，几乎抹除掉了这个星球上的所有生命。土壤，水源和空气都被辐射污染，城市毁灭，文明崩溃。无论是小马，还是他们的敌军都被从地表上抹除掉了。疯狂的先知所预言的审判日，几乎没有任何小马相信，直到那个命运注定的日子降临……\n但这并不是结局，仍然有很多小马幸免于难，一些躲在巨大的地下避难厩中，另一些不知何故适应了新的环境。那个审判日只不过是小马历史上另一个血腥篇章的序曲。在满目疮痍，毒素滋生的废土，暴力和残忍已是家常便饭，更是一种生存下去的方式……\n在曾经的小马国的那个末日之后，二百多年过去了……\n\n这是一款rougelike的横版射击游戏，游戏中包含有数十种武器、装备和技能，以及上百个随机关卡，当然敌人的种类也很多。小心，敌人也会布置陷进！\n游戏依赖于64位wine。游戏支持多种语言，包括中文。\n\n1.0.1更新：\n一些BUG修复，增加日语和西班牙语。",
+    "Name": "辐射小马国：废土-wine",
+    "Pkgname": "fallout.equestria.remains",
+    "Size": "304 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "fallout.equestria.remains_1.0.2_amd64.deb.torrent",
+    "Update": "2024-06-17 10:56:38",
+    "Version": "1.0.2",
+    "Website": "http://foe.ucoz.org/main_en.html",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/fallout.equestria.remains/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/fallout.equestria.remains/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/fallout.equestria.remains/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/fallout.equestria.remains/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/fallout.equestria.remains/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/fallout.equestria.remains/screen_5.png\"]"
 }
 
 ,
@@ -3334,6 +3338,23 @@
 }
 ,
 {
+    "Name": "无尽梦魇",
+    "Version": "1.0spark0",
+    "Filename": "com.nightmare.spark_1.0spark0_amd64.deb",
+    "Torrent_address": "com.nightmare.spark_1.0spark0_amd64.deb.torrent",
+    "Pkgname": "com.nightmare.spark",
+    "Author": "Infinitap Games",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-07-29 20:29:01",
+    "Size": "362.73 MB",
+    "More": "一款恐怖冒险解谜类游戏",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/6eed472fe16e4f34a43107c9db40769f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/50bde85cb0b84ea98ebaf9633155e367.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/0b4c8c652fea4bd4a6cf6140b0150456.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/29/3d885b6f69174f3baf55d51e7544632b.png"
+}
+,
+{
     "Name": "我的朋友佩德罗",
     "Version": "1.0spark0",
     "Filename": "com.myfriendpedro.spark_1.0spark0_amd64.deb",
@@ -3382,23 +3403,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/02/9b76ed672e394e47a6683dc410f82319.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/02/b77adad5597243a7b3c9654a6069760c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/02/cd84754b08dc4beaafdc634809ad7f97.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/02/827ce1f638544a1aaad87755b1fcd83d.png"
-}
-,
-{
-    "Name": "无尽梦魇",
-    "Version": "1.0spark0",
-    "Filename": "com.nightmare.spark_1.0spark0_amd64.deb",
-    "Torrent_address": "com.nightmare.spark_1.0spark0_amd64.deb.torrent",
-    "Pkgname": "com.nightmare.spark",
-    "Author": "Infinitap Games",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-07-29 20:29:01",
-    "Size": "362.73 MB",
-    "More": "一款恐怖冒险解谜类游戏",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/6eed472fe16e4f34a43107c9db40769f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/50bde85cb0b84ea98ebaf9633155e367.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/0b4c8c652fea4bd4a6cf6140b0150456.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/29/3d885b6f69174f3baf55d51e7544632b.png"
 }
 ,
 {
@@ -4311,6 +4315,23 @@
 }
 ,
 {
+    "Name": "Papa's Burgeria（老爹汉堡店）",
+    "Version": "1.0.0",
+    "Filename": "com.papasburgeria.spark_1.0.0_amd64.deb",
+    "Torrent_address": "com.papasburgeria.spark_1.0.0_amd64.deb.torrent",
+    "Pkgname": "com.papasburgeria.spark",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.flipline.com/",
+    "Update": "2024-05-03 13:34:09",
+    "Size": "13.04 MB",
+    "More": "老爹汉堡店（Papa's Burgeria）是为老爹餐厅管理系列中第二款网页游戏。本作中Marty与Rita作为厨师，但根据游戏的宿主网站的不同，你也可以选择第3个厨师Papa Louie。本作的游戏背景在汉堡自治市，该游戏于2010年12月6日正式发行。\n不支持 deepin 20",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/754d4a2c476a4a1f94a1ce2aead61cd3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/b6cca6fdd9cf49069c104043cfa7db24.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/df665511068c44f49183299d5e1b058f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/6410b061a2b34bb6bf332e4e03cc50fe.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/03/33db07f992ec4af58ec49adbfcd180b1.png"
+}
+,
+{
     "Name": "躲一躲",
     "Version": "1.0.0.1",
     "Filename": "com.gitee.flyplane_1.0.0.1_amd64.deb",
@@ -4374,23 +4395,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/192d28f7c73746c79064b604a692138e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/05628d773bf841449ef732d3a1e886bd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/27ad1541fc224d139dd50567597c916d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/8970a8ed350349edb7d2e437e26dcd2c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/03/105e7d2b205a46f0a188fd62d2fd81f5.png"
-}
-,
-{
-    "Name": "Papa's Burgeria（老爹汉堡店）",
-    "Version": "1.0.0",
-    "Filename": "com.papasburgeria.spark_1.0.0_amd64.deb",
-    "Torrent_address": "com.papasburgeria.spark_1.0.0_amd64.deb.torrent",
-    "Pkgname": "com.papasburgeria.spark",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.flipline.com/",
-    "Update": "2024-05-03 13:34:09",
-    "Size": "13.04 MB",
-    "More": "老爹汉堡店（Papa's Burgeria）是为老爹餐厅管理系列中第二款网页游戏。本作中Marty与Rita作为厨师，但根据游戏的宿主网站的不同，你也可以选择第3个厨师Papa Louie。本作的游戏背景在汉堡自治市，该游戏于2010年12月6日正式发行。\n不支持 deepin 20",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/754d4a2c476a4a1f94a1ce2aead61cd3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/b6cca6fdd9cf49069c104043cfa7db24.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/df665511068c44f49183299d5e1b058f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/6410b061a2b34bb6bf332e4e03cc50fe.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/03/33db07f992ec4af58ec49adbfcd180b1.png"
 }
 ,
 {
@@ -4493,6 +4497,23 @@
 }
 ,
 {
+    "Name": "中国象棋",
+    "Version": "1.82",
+    "Filename": "com.cnvcs.xiangqi_1.82_all.deb",
+    "Torrent_address": "com.cnvcs.xiangqi_1.82_all.deb.torrent",
+    "Pkgname": "com.cnvcs.xiangqi",
+    "Author": ".cnvcs.com",
+    "Contributor": "tasuo",
+    "Website": "https://www.cnvcs.com",
+    "Update": "2024-06-06 18:14:34",
+    "Size": "16.07 MB",
+    "More": "人机对战，人人对战",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/06/7b51bb70-23ed-11ef-8345-5fe9ad82e4e9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/06/586c7960-23ed-11ef-8345-5fe9ad82e4e9.png"
+}
+,
+{
     "Name": "梦幻西游电脑版（Wine）",
     "Version": "3.0.513deepin8",
     "Filename": "com.xyq.163.deepin_3.0.513deepin8_amd64.deb",
@@ -4524,23 +4545,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/3d627175229a43e7ba0104a4f30288e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/4e744552c75c4b2684794b1bfb41670a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/03/5619ac9662d9471c9a10cbfb0193810d.png"
-}
-,
-{
-    "Name": "中国象棋",
-    "Version": "1.82",
-    "Filename": "com.cnvcs.xiangqi_1.82_all.deb",
-    "Torrent_address": "com.cnvcs.xiangqi_1.82_all.deb.torrent",
-    "Pkgname": "com.cnvcs.xiangqi",
-    "Author": ".cnvcs.com",
-    "Contributor": "tasuo",
-    "Website": "https://www.cnvcs.com",
-    "Update": "2024-06-06 18:14:34",
-    "Size": "16.07 MB",
-    "More": "人机对战，人人对战",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/06/7b51bb70-23ed-11ef-8345-5fe9ad82e4e9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/06/586c7960-23ed-11ef-8345-5fe9ad82e4e9.png"
 }
 ,
 {

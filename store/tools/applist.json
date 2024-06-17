@@ -591,21 +591,6 @@
 }
 ,
 {
-   "Name":"以管理员身份打开文件（夹）",
-   "Version":"1.1.1",
-   "Filename":"admin-xdg-open_1.1.1_all.deb",
-   "Pkgname":"admin-xdg-open",
-   "Author":"zty199",
-   "Contributor":"zty199",
-   "Website":"https://gitee.com/zty199/",
-   "Update":"2020-09-15 01:40",
-   "Size":"1.64KB",
-   "More":"利用 xdg-open 以管理员身份直接打开文件（夹），避免文件管理器假死。",
-   "Tags":"community;deepin;uos"
-}
-
-,
-{
     "Name": "balenaetcher",
     "Version": "1.19.16",
     "Filename": "balena-etcher_1.19.16_amd64.deb",
@@ -621,6 +606,21 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/5da74964b6494717bb58771024cc1e78.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/01/ab5bb1bc62e34e51a0591cd5cce6bae8.png"
 }
+,
+{
+   "Name":"以管理员身份打开文件（夹）",
+   "Version":"1.1.1",
+   "Filename":"admin-xdg-open_1.1.1_all.deb",
+   "Pkgname":"admin-xdg-open",
+   "Author":"zty199",
+   "Contributor":"zty199",
+   "Website":"https://gitee.com/zty199/",
+   "Update":"2020-09-15 01:40",
+   "Size":"1.64KB",
+   "More":"利用 xdg-open 以管理员身份直接打开文件（夹），避免文件管理器假死。",
+   "Tags":"community;deepin;uos"
+}
+
 ,
 {
     "Author": "DebuggerX <dx8913712@163.com>",
@@ -1012,6 +1012,23 @@
 }
 ,
 {
+    "Name": "RustDesk",
+    "Version": "1.2.3",
+    "Filename": "rustdesk_1.2.3_amd64.deb",
+    "Torrent_address": "rustdesk_1.2.3_amd64.deb.torrent",
+    "Pkgname": "rustdesk",
+    "Author": "rustdesk <info@rustdesk.com>",
+    "Contributor": "rustdesk <info@rustdesk.com>",
+    "Website": "https://rustdesk.com",
+    "Update": "2024-02-06 12:35:53",
+    "Size": "17.86 MB",
+    "More": "开源远程桌面软件，开箱即用，无需任何配置。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/667306c238a24f0793ec1b743c15f431.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/82c68a1816ec4796a31b1b22e67789b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/1a67dedd3d5d475494a24edb648ee880.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/9f2afc5705fa426ab6930e4519ef34ac.png"
+}
+,
+{
     "Name": "格式工厂（Wine）",
     "Version": "5.11.0",
     "Filename": "com.sugarcane.formatfactory_5.11.0_all.deb",
@@ -1043,23 +1060,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/8026135d32384834a6ce7118be2ac42f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/317409dd01364c45b6723c782d3d29eb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/46cd0f0ece934816be6bf039b9b9595a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/34e44c4d9b5b4d22a65767bed3684ffd.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/11/fde06c9646d84c6c98829ceacd849d16.png"
-}
-,
-{
-    "Name": "RustDesk",
-    "Version": "1.2.3",
-    "Filename": "rustdesk_1.2.3_amd64.deb",
-    "Torrent_address": "rustdesk_1.2.3_amd64.deb.torrent",
-    "Pkgname": "rustdesk",
-    "Author": "rustdesk <info@rustdesk.com>",
-    "Contributor": "rustdesk <info@rustdesk.com>",
-    "Website": "https://rustdesk.com",
-    "Update": "2024-02-06 12:35:53",
-    "Size": "17.86 MB",
-    "More": "开源远程桌面软件，开箱即用，无需任何配置。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/667306c238a24f0793ec1b743c15f431.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/82c68a1816ec4796a31b1b22e67789b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/1a67dedd3d5d475494a24edb648ee880.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/9f2afc5705fa426ab6930e4519ef34ac.png"
 }
 ,
 {
@@ -2299,6 +2299,23 @@
 }
 ,
 {
+    "Name": "GXDE 内核管理器 1.1.0",
+    "Version": "1.1.0",
+    "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
+    "Torrent_address": "gxde-kernel-manager_1.1.0_amd64.deb.torrent",
+    "Pkgname": "gxde-kernel-manager",
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
+    "Update": "2024-05-12 17:25:58",
+    "Size": "1.07 MB",
+    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \n\n\nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
+}
+,
+{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Filename": "open-in-terminal-tool_1.0.1_all.deb",
@@ -2315,23 +2332,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_2.png\"]"
 }
 
-,
-{
-    "Name": "GXDE 内核管理器 1.1.0",
-    "Version": "1.1.0",
-    "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
-    "Torrent_address": "gxde-kernel-manager_1.1.0_amd64.deb.torrent",
-    "Pkgname": "gxde-kernel-manager",
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
-    "Update": "2024-05-12 17:25:58",
-    "Size": "1.07 MB",
-    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \n\n\nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
-}
 ,
 {
    "Name":"一键息屏 one key shut screen",
@@ -2832,6 +2832,23 @@
 }
 ,
 {
+    "Name": "CPU-Z（Wine）",
+    "Version": "2.09spark0",
+    "Filename": "com.cpuz.spark_2.09spark0_all.deb",
+    "Torrent_address": "com.cpuz.spark_2.09spark0_all.deb.torrent",
+    "Pkgname": "com.cpuz.spark",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.cpuid.com/",
+    "Update": "2024-04-26 22:50:38",
+    "Size": "6.22 MB",
+    "More": "免费的 CPU 信息检测软件。这些信息包括：CPU 名称、厂商、性能、当前电压、L1 L2 cache情况；内核进程；内部和外部时钟等，支持全系列的Intel以及AMD品牌的CPU。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
+}
+,
+{
     "Name": "卡片视界",
     "Version": "1.0.0",
     "Filename": "cn.miaoys.desktop.widgets_1.0.0_amd64.deb",
@@ -2863,23 +2880,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/03/9ad86483-b606-4fe6-a0b2-943f139f9323.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/03/e6c02952-90ab-4eb5-8f50-8c530a0483bc.png"
-}
-,
-{
-    "Name": "CPU-Z（Wine）",
-    "Version": "2.09spark0",
-    "Filename": "com.cpuz.spark_2.09spark0_all.deb",
-    "Torrent_address": "com.cpuz.spark_2.09spark0_all.deb.torrent",
-    "Pkgname": "com.cpuz.spark",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.cpuid.com/",
-    "Update": "2024-04-26 22:50:38",
-    "Size": "6.22 MB",
-    "More": "免费的 CPU 信息检测软件。这些信息包括：CPU 名称、厂商、性能、当前电压、L1 L2 cache情况；内核进程；内部和外部时钟等，支持全系列的Intel以及AMD品牌的CPU。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
 }
 ,
 {
@@ -3168,23 +3168,6 @@
 }
 ,
 {
-    "Name": "Bashtop",
-    "Version": "0.9.25-1~bpo10+1",
-    "Filename": "com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus1_amd64.deb",
-    "Torrent_address": "com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus1_amd64.deb.torrent",
-    "Pkgname": "com.github.aristocratos.bashtop",
-    "Author": "Dylan Aïssi <daissi@debian.org>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://github.com/aristocratos/bashtop",
-    "Update": "2023-07-24 10:49:39",
-    "Size": "63.22 KB",
-    "More": "Resource monitor是一个显示处理器、内存、磁盘、网络和进程使用情况和统计信息的工具。\n\n它易于使用，采用游戏启发式的菜单系统。\n具有快速且“大部分时候”响应灵敏的用户界面，可使用上下箭头键选择进程。\n提供显示选定进程详细统计信息的功能。\n能够对进程进行筛选。\n轻松切换排序选项。\n发送SIGTERM、SIGKILL、SIGINT到选定的进程。\n提供UI菜单以更改所有配置文件选项。\n具有自动缩放的网络使用图表。\n如果有新版本可用，菜单中显示消息。\n显示磁盘的当前读取和写入速度。\n支持多种数据收集方法，在Linux上可以进行切换。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/24/100448a3261d4c9983d06dee8c9aad12.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/24/df07c4c56d8340479560959b63dbca84.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/24/e88bb80db7844bc48f7ebca746450781.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/24/a8673f2af7954861af91dad7d0f750b7.png"
-}
-,
-{
     "Name": "XCursor Viewer(光标查看器)",
     "Version": "1.1.1",
     "Filename": "xcursor-viewer_1.1.1_amd64.deb",
@@ -3199,6 +3182,23 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/f707dc995c584ea5a64aec042c87b117.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/9173e58be36e43a7bb2ea4566663b5f5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/09/2654b8e153f947a7845fc36dce46655f.png"
+}
+,
+{
+    "Name": "Bashtop",
+    "Version": "0.9.25-1~bpo10+1",
+    "Filename": "com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus1_amd64.deb",
+    "Torrent_address": "com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus1_amd64.deb.torrent",
+    "Pkgname": "com.github.aristocratos.bashtop",
+    "Author": "Dylan Aïssi <daissi@debian.org>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://github.com/aristocratos/bashtop",
+    "Update": "2023-07-24 10:49:39",
+    "Size": "63.22 KB",
+    "More": "Resource monitor是一个显示处理器、内存、磁盘、网络和进程使用情况和统计信息的工具。\n\n它易于使用，采用游戏启发式的菜单系统。\n具有快速且“大部分时候”响应灵敏的用户界面，可使用上下箭头键选择进程。\n提供显示选定进程详细统计信息的功能。\n能够对进程进行筛选。\n轻松切换排序选项。\n发送SIGTERM、SIGKILL、SIGINT到选定的进程。\n提供UI菜单以更改所有配置文件选项。\n具有自动缩放的网络使用图表。\n如果有新版本可用，菜单中显示消息。\n显示磁盘的当前读取和写入速度。\n支持多种数据收集方法，在Linux上可以进行切换。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/24/100448a3261d4c9983d06dee8c9aad12.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/24/df07c4c56d8340479560959b63dbca84.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/24/e88bb80db7844bc48f7ebca746450781.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/24/a8673f2af7954861af91dad7d0f750b7.png"
 }
 ,
 {

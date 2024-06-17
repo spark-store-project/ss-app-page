@@ -1,15 +1,15 @@
 [
 {
     "Name": "bilibili客户端",
-    "Version": "1.13.6-1",
-    "Filename": "io.github.msojocs.bilibili_1.13.6-1_arm64.deb",
-    "Torrent_address": "io.github.msojocs.bilibili_1.13.6-1_arm64.deb.torrent",
+    "Version": "1.13.6-2",
+    "Filename": "io.github.msojocs.bilibili_1.13.6-2_arm64.deb",
+    "Torrent_address": "io.github.msojocs.bilibili_1.13.6-2_arm64.deb.torrent",
     "Pkgname": "io.github.msojocs.bilibili",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://github.com/msojocs/bilibili-linux/releases",
-    "Update": "2024-06-15 12:58:25",
-    "Size": "79M",
+    "Update": "2024-06-16 17:32:01",
+    "Size": "80M",
     "More": "由msojocs编写的哔哩哔哩客户端 Linux 移植版本",
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/screen_5.png\"]",
@@ -194,6 +194,78 @@
     "Website": "http://en.zxt2007.com/video-tools/movietogif.html",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/video/com.zxt2007.movietogif.spark/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/com.zxt2007.movietogif.spark/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "DVDFab.cn",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.unifab.deepin_2.0.2.4_all.deb",
+    "More": "UniFab 既是一款视频格式转换器，也是一款简单的视频 AI 处理器。",
+    "Name": "UniFab 视频格式转换器",
+    "Pkgname": "com.unifab.deepin",
+    "Size": "182 Mb",
+    "Tags": "deepin;uos;dwine5",
+    "Torrent_address": "com.unifab.deepin_2.0.2.4_all.deb.torrent",
+    "Update": "2024-06-16 21:04:08",
+    "Version": "2.0.2.4",
+    "Website": "https://www.dvdfab.cn",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/video/com.unifab.deepin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/video/com.unifab.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/video/com.unifab.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/video/com.unifab.deepin/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/video/com.unifab.deepin/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/video/com.unifab.deepin/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "Aiseesoft 工作室",
+    "Contributor": "Aiseesoft 工作室",
+    "Filename": "com.aiseesoft.blu-rayplayer.deepin_6.7.62_all.deb",
+    "More": "利用AI技术，这款强大的播放器可以播放蓝光光盘、蓝光文件夹、DVD光盘/文件夹/ISO文件，充当任何高清/标清视频文件的通用媒体播放器，让您享受身临其境的音频影响。",
+    "Name": "Aiseesoft Blu-ray Playerl蓝光播放器",
+    "Pkgname": "com.aiseesoft.blu-rayplayer.deepin",
+    "Size": "51 Mb",
+    "Tags": "deepin;uos;dwine5",
+    "Torrent_address": "com.aiseesoft.blu-rayplayer.deepin_6.7.62_all.deb.torrent",
+    "Update": "2024-06-16 23:33:05",
+    "Version": "6.7.62",
+    "Website": "https://zh-cn.aiseesoft.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/video/com.aiseesoft.blu-rayplayer.deepin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/com.aiseesoft.blu-rayplayer.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/com.aiseesoft.blu-rayplayer.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/com.aiseesoft.blu-rayplayer.deepin/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "Aiseesoft 工作室",
+    "Contributor": "Aiseesoft 工作室",
+    "Filename": "com.aiseesoft.4k-converter.deepin_9.2.52_all.deb",
+    "More": "4K 视频转换是专业的4K视频转换软件，可以帮助您将4K转换为具有高视频质量的1080p，720p HD和SD视频格式。 此外，它使您能够将SD / HD视频转换为4K文件，以更好地支持4K电视和4K播放器。",
+    "Name": "Aiseesoft 4k Converter 视频转换",
+    "Pkgname": "com.aiseesoft.4k-converter.deepin",
+    "Size": "38 Mb",
+    "Tags": "deepin;uos;dwine5",
+    "Torrent_address": "com.aiseesoft.4k-converter.deepin_9.2.52_all.deb.torrent",
+    "Update": "2024-06-16 23:36:51",
+    "Version": "9.2.52",
+    "Website": "https://zh-cn.aiseesoft.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/video/com.aiseesoft.4k-converter.deepin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/com.aiseesoft.4k-converter.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/com.aiseesoft.4k-converter.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/com.aiseesoft.4k-converter.deepin/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "Aiseesoft工作室",
+    "Contributor": "Aiseesoft工作室",
+    "Filename": "com.aiseesoft.3d-converter.deepin_6.5.20_all.deb",
+    "More": "Aiseesoft 3D 视频转换 - 最专业且易于使用的3D对象转换软件，允许用户将2D视频转换为3D，将3D转换为2D以及在3D文件之间更改3D模式。",
+    "Name": "Aiseesoft 3D Converter",
+    "Pkgname": "com.aiseesoft.3d-converter.deepin",
+    "Size": "23 Mb",
+    "Tags": "deepin;uos;dwine5",
+    "Torrent_address": "com.aiseesoft.3d-converter.deepin_6.5.20_all.deb.torrent",
+    "Update": "2024-06-16 23:08:26",
+    "Version": "6.5.20",
+    "Website": "https://zh-cn.aiseesoft.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/video/com.aiseesoft.3d-converter.deepin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/com.aiseesoft.3d-converter.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/com.aiseesoft.3d-converter.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/com.aiseesoft.3d-converter.deepin/screen_3.png\"]"
 }
 
 ]

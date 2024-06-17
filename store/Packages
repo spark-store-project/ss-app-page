@@ -21841,6 +21841,29 @@ Description: A fan made game of Fallout Equestria.
  But it was not the end yet. Many ponies survived, some - hiding in the huge underground shelters-stables, others - somehow adapting to new conditions. Apocalypse was just a prologue for another bloody chapter of pony history. On the scorched and poisoned Wasteland, violence and cruelty became not just permissible - now they were means of survival...
  Since that day, the last day of the former Equestria, about two hundred years have passed...
 
+Package: fallout.equestria.remains
+Architecture: amd64
+Version: 1.0.2
+Priority: important
+Essential: no
+Section: games
+Maintainer: ShadowDumb [https://github.com/ShadowDumb/FalloutEquestriaRemainsLinux]
+Installed-Size: 432108
+Provides: Empalu
+Depends: deepin-wine6-stable,spark-dwine-helper
+Filename: games/fallout.equestria.remains/fallout.equestria.remains_1.0.2_amd64.deb
+Size: 304757304
+MD5sum: a968c6ab29de24eddeaad38d6cb544d2
+SHA1: 3d73ee40340da5698d61c5e0002bd7aeae89c3b5
+SHA256: 28dde30d440c916c30e7e112a62f9ebec0515496cc21bef540adcc70372ba9d5
+SHA512: 2e69eab67d5a6160e5268181956492efab6692087a416613822f40133ecb16c7c7da06c16b5aa4960b6fa3af10eb1a9ccee9732044b92dfcedbe82440a28424b
+Homepage: http://foe.ucoz.org/main_en.html
+Description: A fan made game of Fallout Equestria.
+ Once upon a time, in the magical land of Equestria...
+ there came an era when the ideals of friendship gave way to envy, selfishness, greed and cruelty. The Great War for natural resources broke out, in which there were no winners. A magical spark struck by pony hooves quickly raged out of control and turned into flames that engulfed whole continents. Dragon fire and black magic, turned into destructive weapons, almost ended all life on the planet. Soil, water and air became poisoned from radiation, cities were destroyed, civilizations collapsed. Both ponies and their enemies were almost wiped off the face of the earth. Apocalypse, predicted by insane prophets, whom almost no one believed until the last day, finally has come...
+ But it was not the end yet. Many ponies survived, some - hiding in the huge underground shelters-stables, others - somehow adapting to new conditions. Apocalypse was just a prologue for another bloody chapter of pony history. On the scorched and poisoned Wasteland, violence and cruelty became not just permissible - now they were means of survival...
+ Since that day, the last day of the former Equestria, about two hundred years have passed...
+
 Package: netease-cloudgame
 Architecture: amd64
 Version: 1.6
@@ -24656,22 +24679,6 @@ SHA1: bf4dfcb258dc7b7312973d1de1d7c1666e1c9487
 SHA256: ee655ee644355312cb94b0ed7492217a032a099a20cf3c06d70a72f7421a4760
 SHA512: 58d9eeee4083953ea50a502e3c9dc8fad149cfb36c75d3499023924c03403c6f6788600c58d4f82c8ede25b4581ba66aa8ba812bc798aaf3ccddbe24b0850cfe
 Description: desmos Software Package created by Appimage2Deb
-
-Package: com.tracker-software.pdfxedit.spark
-Architecture: amd64
-Version: 9.3.361.0spark1
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: sgb76 <sgb76@163.com>
-Depends: deepin-wine6-stable:amd64 (>= 6.0.0.19-1), deepin-wine-helper (>= 5.1.28-1), spark-dwine-helper (>=1.6.5)
-Filename: office/com.tracker-software.pdfxedit.spark/com.tracker-software.pdfxedit.spark_9.3.361.0spark1_amd64.deb
-Size: 289829340
-MD5sum: a60b44fa7d4b2e2aa61f8c6222b76c30
-SHA1: fff8303c27a83820fa5876f1c58f8fdb2097e970
-SHA256: 6943f3754def1a4d2a5dd7fc95d99b926a878e742a9f7ec7d2caccfa1aabd836
-SHA512: f7bdd41b30fd9334a290c3d40c42a910e6ea2f7e09405cde8ae19b1c0772850246f3ef7a5dd4f06d2e7fb9976865f021eb9d189c9167708a9b555cdf7c210be0
-Description: PDF-XChange Editor Client on Deepin Wine6
 
 Package: com.tracker-software.pdfxedit.spark
 Architecture: all
@@ -30326,21 +30333,21 @@ SHA512: 5ba8dce10b4a0a8bcd44dd3047aa270a0d6df4a7203bfedde1150860a9aec20ee5799b3c
 Description: 一个功能强大的开源（免费）电子邮件客户端和互联网套件
 
 Package: com.ode.deepin
-Architecture: amd64
-Version: 0.7.0deepin0
+Architecture: all
+Version: 0.8.0deepin0
 Multi-Arch: foreign
 Priority: optional
 Section: non-free/otherosfs
-Maintainer: Deepin WINE Team
-Installed-Size: 138001
-Depends: deepin-wine8-stable (>= 8.16-deepin11), deepin-wine-helper (>= 5.3.6-1), fonts-wqy-microhei
-Filename: network/com.ode.deepin/com.ode.deepin_0.7.0deepin0_amd64.deb
-Size: 141285740
-MD5sum: 370e7c3cd4318972dc227ad150d92642
-SHA1: eec88eb9e85e35824db565ce0b3826c97b6b5646
-SHA256: b52d5b297de77f78cc6effb0c1f90217c2c08048835b0a2ca06a5decf2f020b5
-SHA512: d4706dd04d66c561c1b0297637d9e0e6886493cbf92f7f6c19a19113afc0fbf3dbd37d5e37cd74587b319e41e87f20ae8902f10fc36bca6fa34b56f92dbc6901
-Description: Wine application: com.ode.deepin
+Maintainer: wang
+Installed-Size: 81750
+Depends: deepin-wine8-stable, deepin-wine-helper (>= 5.1.30-1), fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: network/com.ode.deepin/com.ode.deepin_0.8.0deepin0_all.deb
+Size: 81761688
+MD5sum: 56de2de08fa2c4201857f7a16dfa6c80
+SHA1: ce589ab2ab74d5917bb419cb6ad2c97a72416504
+SHA256: 7b129e69657517e43e713b363df70966c05cc0e6e6e38a437340807fff930135
+SHA512: 39f2b2bc2b1258fd614f8a82a0c52213a6d040f86b266c0265a2c4c7fd6f0b4fd724b5ce306a54f7c4a2a33611a1cecadd4e59fd2b4b91cd77b4ddd4b9ab9e04
+Description: .这是一款电脑端下载工具，其实它的主要功能是链接下载，和迅雷、idm是一样类型的下载软件，支持链接下载和网盘链接解析下载.
 
 Package: yolx
 Architecture: amd64
@@ -30746,17 +30753,17 @@ Description: open-source AirPlay mirroring server
 
 Package: io.github.msojocs.bilibili
 Architecture: amd64
-Version: 1.13.6-1
+Version: 1.13.6-2
 Priority: optional
 Section: application
 Maintainer: msojocs
-Installed-Size: 269946
-Filename: video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.13.6-1_amd64.deb
-Size: 77892052
-MD5sum: 162d181be84bf75451e3b8f0b0309231
-SHA1: f033a5aed521658f84834787944d777d6525d60d
-SHA256: e43783a77792cbdb5beb8cc9973377a100fde24831a0c91c7959493b7ea3d3e7
-SHA512: c1afa28aff2128c1f926a5934ed787b9fb20b7ecdb88e3479ef79fc3887ff4ab13a06b1e8d064cafe17811ee744af38859960723163a9b2f9f2574087f1bef44
+Installed-Size: 275617
+Filename: video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.13.6-2_amd64.deb
+Size: 78699876
+MD5sum: 87efd749754d65bc0a5d33ff5b1e5e2b
+SHA1: b0ebb9a256e6d084e627ba96f7e9ac009d6f0b27
+SHA256: ebea7f5a7307636749f1a905d4b14c8d4e63e5c241ae983dfcbfcf309f4017e5
+SHA512: b6cfd489d45c9328f9d764fc9081e50dc4066c8d7017ed19bf212bc794806dfc02418a161806d9bf87cd5ccf28334d5a896a4281964641439287f23600ab7937
 Description: BiliBili For Linux.
   BiliBili For Linux. This version is unofficial.
 
@@ -31423,6 +31430,23 @@ SHA512: 343a86e4e770e6dd0d1b19137d439c4b7c99dd76ec9ee4debada8c077ee587090b38e858
 Description: Android app deb.
   Android application apk file package.
 
+Package: com.aiseesoft.3d-converter.deepin
+Architecture: all
+Version: 6.5.20
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: Aiseesoft工作室
+Installed-Size: 23214
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: video/com.aiseesoft.3d-converter.deepin/com.aiseesoft.3d-converter.deepin_6.5.20_all.deb
+Size: 23222812
+MD5sum: b8fbf842f7c93b9fbe1cbb0c385a9987
+SHA1: db9d8149e8fd9ac57aac2284f50572008337b071
+SHA256: 54658d227ddc00f5b2b6c5790f9f20628c4b41e274f2414af0d95231943a2da0
+SHA512: e24ab923a364a7f9eb9b944f39054e7dc154d3b3902c1063c6b837f5b3e1a6cb61bb038f52c737b79492fa2f59f9c2d43a79ef792047f4d5fc50bfec0a135fd6
+Description: .Aiseesoft 3D视频转换具有更多功能，为用户带来了强大的3D功能。 它使您可以将2D视频转换为3D视频，并通过VR设备自由欣赏，并可以将3D转换为2D，以便在普通设备上轻松播放。 仍然可以在3D文件之间转换3D模式，以实现不同的屏幕视觉效果。
+
 Package: com.drawyoo.bcut.spark
 Architecture: i386
 Version: 1.4.1spark1
@@ -31472,6 +31496,23 @@ SHA1: 2ffe67e749a4be811ccac6eef09c54b4f7679536
 SHA256: 18b2277ea23d6a61d45197b422b99a53e7f5f5e2764f1f5616443984598af321
 SHA512: 342f020a186b2bbf6347f2226a54a29259fa5e36393ad289b2ecd9a556c3aca7a6e968164d17961ba7f46f8e6c420d71b14ec6c1142458c554c6e22087c6ad71
 Description: xigua-video Client on Deepin Wine6
+
+Package: com.aiseesoft.4k-converter.deepin
+Architecture: all
+Version: 9.2.52
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: Aiseesoft 工作室
+Installed-Size: 38750
+Depends: deepin-wine8-stable, deepin-wine-helper | com.wine-helper.deepin, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: video/com.aiseesoft.4k-converter.deepin/com.aiseesoft.4k-converter.deepin_9.2.52_all.deb
+Size: 38758980
+MD5sum: 4759d5ed2855a68637b3832e20912d80
+SHA1: 68c44b9de50f2810f2cc660c670b9b86693dce6d
+SHA256: 690b8d2fe44955967fb6e01cdcb19b29497f9a8aa18f1bc6d887d1c6eb7dc2da
+SHA512: 62482fe668e634d138706375fabf7e402918efefb74b8154cb5af176cd07caa2164e24a37a5d8a5047b8be2df753cdffbc5ccfc717d9b988715897313595de29
+Description: .专业的4K视频转换软件，可以帮助您将4K转换为具有高视频质量的1080p，720p HD和SD视频格式。 此外，它使您能够将SD / HD视频转换为4K文件，以更好地支持4K电视和4K播放器。
 
 Package: org.avidemux.spark
 Architecture: amd64
@@ -31665,6 +31706,23 @@ Description: A great media player
  One of the main features is the ability to remember the state of a
  played file, so when you play it later it will be resumed at the same point
  and with the same settings.
+
+Package: com.aiseesoft.blu-rayplayer.deepin
+Architecture: all
+Version: 6.7.62
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: Aiseesoft 工作室
+Installed-Size: 51908
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: video/com.aiseesoft.blu-rayplayer.deepin/com.aiseesoft.blu-rayplayer.deepin_6.7.62_all.deb
+Size: 51919552
+MD5sum: 67de13f6e4d9a513a87953326fcde3ca
+SHA1: 3f76e66e17acbe8f6553fc4d08e76b651b3ad8eb
+SHA256: d6fb39dd33e104139ffa1802a3872b416ad5c21083fc6d8b8077723d26d16bd0
+SHA512: 1c928e144e9128cda40ba50e8001fcf747dbe4c6593b9d646a201efe315aa96b204e64e0db8e82dd1c029c1e6e15d9facd43f0cea5ac597e49ece3f860009a9f
+Description: .利用AI技术，这款强大的播放器可以播放蓝光光盘、蓝光文件夹、DVD光盘/文件夹/ISO文件，充当任何高清/标清视频文件的通用媒体播放器，让您享受身临其境的音频影响。
 
 Package: org.arctimepro.spark
 Architecture: amd64

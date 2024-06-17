@@ -926,23 +926,6 @@
 }
 ,
 {
-    "Name": "GitKraken",
-    "Version": "9.11.1",
-    "Filename": "gitkraken_9.11.1_amd64.deb",
-    "Torrent_address": "gitkraken_9.11.1_amd64.deb.torrent",
-    "Pkgname": "gitkraken",
-    "Author": "GitKraken",
-    "Contributor": "liuyuankai",
-    "Website": "https://www.gitkraken.com/",
-    "Update": "2024-01-20 15:41:35",
-    "Size": "132.48 MB",
-    "More": "图形化Git客户端，可以关联Github，Gitlab等账户",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/be32bbb28e6345a891ae37eb5a07c504.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/9827270980494b869ac58d6952cbfed7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/20/e575b276f96b4a1498120f106aff6001.png"
-}
-,
-{
     "Name": "XTerminal",
     "Version": "1.8.0",
     "Filename": "xterminal_1.8.0_amd64.deb",
@@ -957,6 +940,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/03/9dd93d21fc554cdebd3af290c72a9833.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/03/f009fcf19bee4d74a4e8292a972166a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/03/1dabfa919f39420db8c730eb72ce7e4a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/03/2171522cfef7400cb68610b1a54d4aa9.png"
+}
+,
+{
+    "Name": "GitKraken",
+    "Version": "9.11.1",
+    "Filename": "gitkraken_9.11.1_amd64.deb",
+    "Torrent_address": "gitkraken_9.11.1_amd64.deb.torrent",
+    "Pkgname": "gitkraken",
+    "Author": "GitKraken",
+    "Contributor": "liuyuankai",
+    "Website": "https://www.gitkraken.com/",
+    "Update": "2024-01-20 15:41:35",
+    "Size": "132.48 MB",
+    "More": "图形化Git客户端，可以关联Github，Gitlab等账户",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/be32bbb28e6345a891ae37eb5a07c504.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/9827270980494b869ac58d6952cbfed7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/20/e575b276f96b4a1498120f106aff6001.png"
 }
 ,
 {
@@ -1008,23 +1008,6 @@
 
 ,
 {
-    "Name": "VSCodium",
-    "Version": "1.79.2.23166",
-    "Filename": "codium_1.79.2.23166_amd64.deb",
-    "Torrent_address": "codium_1.79.2.23166_amd64.deb.torrent",
-    "Pkgname": "codium",
-    "Author": "VSCodium Team https://github.com/VSCodium/vscodium/graphs/contributors",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://vscodium.com/",
-    "Update": "2023-07-06 16:24:14",
-    "Size": "82.21 MB",
-    "More": "VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/06/26c606f1e1194eb3b4fe6b80adf4c181.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/06/c040c80bf2c2414eaf506b10e7840444.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/06/a254ba163b744f6fae9d031aec459deb.png"
-}
-,
-{
     "Name": "PDMan",
     "Version": "4.4.0",
     "Filename": "pdman_4.4.0_amd64.deb",
@@ -1039,6 +1022,23 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/29ca5873a38b499792192e9355c46fa8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/c28174dacf494a96b43790df550f735e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/16/a81492b85699408ebc714c7e4dcd962c.png"
+}
+,
+{
+    "Name": "VSCodium",
+    "Version": "1.79.2.23166",
+    "Filename": "codium_1.79.2.23166_amd64.deb",
+    "Torrent_address": "codium_1.79.2.23166_amd64.deb.torrent",
+    "Pkgname": "codium",
+    "Author": "VSCodium Team https://github.com/VSCodium/vscodium/graphs/contributors",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://vscodium.com/",
+    "Update": "2023-07-06 16:24:14",
+    "Size": "82.21 MB",
+    "More": "VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/06/26c606f1e1194eb3b4fe6b80adf4c181.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/06/c040c80bf2c2414eaf506b10e7840444.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/06/a254ba163b744f6fae9d031aec459deb.png"
 }
 ,
 {
@@ -2194,6 +2194,23 @@
 }
 ,
 {
+    "Name": "Liberica JDK 21 Full",
+    "Version": "21.0.3+10",
+    "Filename": "bellsoft-java21-full_21.0.3_plus10_amd64.deb",
+    "Torrent_address": "bellsoft-java21-full_21.0.3_plus10_amd64.deb.torrent",
+    "Pkgname": "bellsoft-java21-full",
+    "Author": "BellSoft <info@bell-sw.com>",
+    "Contributor": "ThinkYoung",
+    "Website": "https://bell-sw.com/pages/libericajdk/",
+    "Update": "2024-05-09 11:09:43",
+    "Size": "281.55 MB",
+    "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/b0baff509e8f476285b670841a2d2e18.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/fe4c5ef81af045ffb930cbe83f1b26f4.png"
+}
+,
+{
     "Name": "Liberica JDK 17 Full",
     "Version": "17.0.11+10",
     "Filename": "bellsoft-java17-full_17.0.11_plus10_amd64.deb",
@@ -2308,23 +2325,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/b5ef38638610408f88852660b1f4f966.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/02/b674c11c741747a288d7f6c47d677410.png"
-}
-,
-{
-    "Name": "Liberica JDK 21 Full",
-    "Version": "21.0.3+10",
-    "Filename": "bellsoft-java21-full_21.0.3_plus10_amd64.deb",
-    "Torrent_address": "bellsoft-java21-full_21.0.3_plus10_amd64.deb.torrent",
-    "Pkgname": "bellsoft-java21-full",
-    "Author": "BellSoft <info@bell-sw.com>",
-    "Contributor": "ThinkYoung",
-    "Website": "https://bell-sw.com/pages/libericajdk/",
-    "Update": "2024-05-09 11:09:43",
-    "Size": "281.55 MB",
-    "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/b0baff509e8f476285b670841a2d2e18.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/fe4c5ef81af045ffb930cbe83f1b26f4.png"
 }
 ,
 {

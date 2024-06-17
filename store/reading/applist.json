@@ -817,23 +817,6 @@
 }
 ,
 {
-    "Name": "uchmviewer",
-    "Version": "8.2",
-    "Filename": "uchmviewer_8.2_amd64.deb",
-    "Torrent_address": "uchmviewer_8.2_amd64.deb.torrent",
-    "Pkgname": "uchmviewer",
-    "Author": "nicegorov@yandex.ru",
-    "Contributor": "pochenyun",
-    "Website": "https://github.com/u-235/uchmviewer",
-    "Update": "2023-12-24 04:18:47",
-    "Size": "411.02 KB",
-    "More": "uChmViewer 是一个使用 Qt 工具包的免费、开源 chm（MS HTML 帮助文件格式）阅读器。它的主要优点是对非英语语言的良好支持。与其他chm阅读器不同，uChmViewer 在大多数情况下能够正确检测 chm 文件编码并显示。 它能够正确显示俄语、西班牙语、罗马尼亚语、韩语、中文和阿拉伯语的帮助文件中的索引和上下文表。并且无论该文件是用什么语言编写的，它都能使用新的搜索引擎在任何 chm 文件中进行搜索。\n\nuChmViewer is a free, open-source chm (MS HTML help file format) viewer, which uses Qt toolkit. Its main advantage is the best support for non-English languages. Unlike other viewers, uChmViewer in most cases is able to correctly detect the chm file encoding and show it. It correctly shows the index and table of context in Russian, Spanish, Romanian, Korean, Chinese and Arabic help files, and with new search engine is able to search in any chm file no matter what language it is written.",
-    "Tags": "community;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/24/55622930-a1d0-11ee-87a2-ebb6bab9fa27.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/24/5729f0e0-a1d0-11ee-87a2-ebb6bab9fa27.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/24/59b27080-a1d0-11ee-87a2-ebb6bab9fa27.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/24/5bc6d190-a1d0-11ee-87a2-ebb6bab9fa27.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/24/6cc121d0-a1d0-11ee-87a2-ebb6bab9fa27.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/24/49fde6b0-a1d0-11ee-87a2-ebb6bab9fa27.png"
-}
-,
-{
     "Name": "QQ阅读",
     "Version": "8.0.6.890",
     "Filename": "uengine-dc-com.qq.reader_8.0.6.890_all.deb",
@@ -848,6 +831,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/f7abc3d68942435d90486e1156149bb2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/beaacb482c4d4c878e365bf1afde6eed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/5bff49ad66f04654b9ec2f1ba215fc68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/1218af438f92430b8a4bddc14391e12c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/d6fb0b08b2d64bf3ad255be2dcf1f417.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/10/4dcdf633945c4c29a595f173ba51bf71.png"
+}
+,
+{
+    "Name": "uchmviewer",
+    "Version": "8.2",
+    "Filename": "uchmviewer_8.2_amd64.deb",
+    "Torrent_address": "uchmviewer_8.2_amd64.deb.torrent",
+    "Pkgname": "uchmviewer",
+    "Author": "nicegorov@yandex.ru",
+    "Contributor": "pochenyun",
+    "Website": "https://github.com/u-235/uchmviewer",
+    "Update": "2023-12-24 04:18:47",
+    "Size": "411.02 KB",
+    "More": "uChmViewer 是一个使用 Qt 工具包的免费、开源 chm（MS HTML 帮助文件格式）阅读器。它的主要优点是对非英语语言的良好支持。与其他chm阅读器不同，uChmViewer 在大多数情况下能够正确检测 chm 文件编码并显示。 它能够正确显示俄语、西班牙语、罗马尼亚语、韩语、中文和阿拉伯语的帮助文件中的索引和上下文表。并且无论该文件是用什么语言编写的，它都能使用新的搜索引擎在任何 chm 文件中进行搜索。\n\nuChmViewer is a free, open-source chm (MS HTML help file format) viewer, which uses Qt toolkit. Its main advantage is the best support for non-English languages. Unlike other viewers, uChmViewer in most cases is able to correctly detect the chm file encoding and show it. It correctly shows the index and table of context in Russian, Spanish, Romanian, Korean, Chinese and Arabic help files, and with new search engine is able to search in any chm file no matter what language it is written.",
+    "Tags": "community;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/24/55622930-a1d0-11ee-87a2-ebb6bab9fa27.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/24/5729f0e0-a1d0-11ee-87a2-ebb6bab9fa27.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/24/59b27080-a1d0-11ee-87a2-ebb6bab9fa27.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/24/5bc6d190-a1d0-11ee-87a2-ebb6bab9fa27.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/24/6cc121d0-a1d0-11ee-87a2-ebb6bab9fa27.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/24/49fde6b0-a1d0-11ee-87a2-ebb6bab9fa27.png"
 }
 ,
 {
