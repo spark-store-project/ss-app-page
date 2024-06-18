@@ -17832,6 +17832,27 @@ Description:
 License: MIT
 Vendor: ci010 <cijhn@hotmail.com>
 
+Package: xmcl
+Architecture: amd64
+Version: 0.44.8-839
+Priority: optional
+Section: default
+Maintainer: ci010 <cijhn@hotmail.com>
+Installed-Size: 284375
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: games/xmcl/xmcl_0.44.8-839_amd64.deb
+Size: 80401614
+MD5sum: 0c03f9d4f423a84610d2c3d468ec8d2a
+SHA1: 17ff75a6f412f53f246b252e4fb5857beabe7e29
+SHA256: 6c4fe1283e65136515961c999d10b264587c1300cd72961ba3f6a4d9534d7ee1
+SHA512: a6e1cd31be2c796dfd2beb2146d45489155ea094de963a7c138bce3ab255b570214a6df73f957516c062c4d72c03714634b4714d900c15c3a694c6687b14950b
+Homepage: https://github.com/voxelum/x-minecraft-launcher#readme
+Description: 
+  A great minecraft launcher in the future
+License: MIT
+Vendor: ci010 <cijhn@hotmail.com>
+
 Package: com.ra2ol.deepin
 Architecture: all
 Version: 0.1.0
@@ -21984,6 +22005,23 @@ SHA512: d0a7d1393efe06354a110aa888dce1f68cfd16ffed7693fe2608e9c92af77830d5274839
 Homepage: https://todoist.com/zh-CN
 Description: The Best To-Do List App & Task Manager
 
+Package: com.aiseesoft.free-pdf-conver.deepin
+Architecture: all
+Version: 1.0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: Aiseesoft 工作室
+Installed-Size: 8298
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: office/com.aiseesoft.free-pdf-conver.deepin/com.aiseesoft.free-pdf-conver.deepin_1.0_all.deb
+Size: 8305372
+MD5sum: 6505fae7f3eec64851fe95afa1013544
+SHA1: aae5f7097d6eb55c2cca13e3a458add3ccb16fde
+SHA256: 50a59945c7edb8c531652be21cda7a6c936166a06e04bd6876c8d2834ff6d0b9
+SHA512: b52c0d3b7f34ff0e42889c0ce965cd6d857e3ff21c13d40203f50f9237da2d5d16b90036a28440885c56d30507233b909ab55b3ee5bb08d5fc57c9f29721a839
+Description: .Aiseesoft Free PDF Viewer是最好的免费PDF阅读器，它可以帮助您轻松地在PC上打开和阅读PDF文件，而不会造成任何质量损失。 它具有让您以单页或多页查看模式打开和阅读PDF文件的功能。 通过各种编辑功能，您可以流畅地查看PDF文件。
+
 Package: com.brocadesoft.ruiyin
 Architecture: amd64
 Version: 1.3.0.0
@@ -24155,6 +24193,27 @@ Vendor: xylink
 
 Package: com.wolai.spark
 Architecture: amd64
+Version: 1.2.10-24425568spark6
+Priority: optional
+Section: default
+Maintainer: 上海我云网络科技有限公司 <hello@wolai.com>
+Installed-Size: 212325
+Depends: libx11-xcb1, libxkbfile1
+Recommends: libappindicator3-1
+Filename: office/com.wolai.spark/com.wolai.spark_1.2.10-24425568spark6_amd64.deb
+Size: 65851596
+MD5sum: ebbe7b93fddfcf768c8dbe5b776aed2c
+SHA1: e01637c1ea8a96c62b539e0f0297460ee728c644
+SHA256: 8f65a11fe4fd3b5afad9a6a6b053764c4d0cd2c8e16ba6f53a250538e687991d
+SHA512: d4a71851a8e6f0c532d05495d5e1b8b11e182cfc29e90126388b0cd01bad63f4d5bb1b2484913ea40f8ac9a0c22b171f7fedb610418206f24a22075534090625
+Homepage: https://www.wolai.com/product
+Description: 
+  wolai，为有志成功的个人和团队应运而生的云端协作平台。多人编辑、数据表格、块级引用、双向链接......知识整理与协同办公的不二之选。
+License: unknown
+Vendor: 上海我云网络科技有限公司 <hello@wolai.com>
+
+Package: com.wolai.spark
+Architecture: amd64
 Version: 1.2.9-231023120spark7
 Priority: optional
 Section: default
@@ -26202,6 +26261,26 @@ Description: 洋葱学院是学生和教师共同喜爱的在线教育国民品�
 
 Package: trilium
 Architecture: amd64
+Version: 0.63.7
+Priority: optional
+Section: utils
+Maintainer: zadam.apps@gmail.com
+Installed-Size: 434921
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin
+Recommends: pulseaudio | libasound2
+Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0, lsb-release
+Filename: office/trilium/trilium_0.63.7_amd64.deb
+Size: 103462576
+MD5sum: cd6656a3a9ef3569d2efb503bf9cd549
+SHA1: 7907e450da3c624898f9e1e3524090a8ecf4c7ad
+SHA256: dc8b6af2b0a7c60984afe7cd4953511bfce5249435e39f70e531869160f12c33
+SHA512: 681dfecabfa877b7838302e1af04b0c8515ae5843f94e4b2466d5e96c991b335d7d7b101c72dda8152f8a141927cd1108cd8d124069cc4624c0b4487febc969e
+Homepage: https://github.com/zadam/trilium
+Description: Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.
+ Trilium Notes
+
+Package: trilium
+Architecture: amd64
 Version: 0.60.4
 Priority: optional
 Section: utils
@@ -26360,6 +26439,23 @@ SHA1: cc0fa26078eae83b55ee247f897096f7d18c9cd1
 SHA256: d6fe588076f0421f02a1e361bda692bdee9af33f6e45dfc544fefc3aa8c5b428
 SHA512: b0403cb95786a67c9f676b63299e79946f1c0dad0cadde5618fd46951c9aab4dffbda2f594daecfc98f1c3c09f65a7b5946e2decdda95304f50190408b8c96aa
 Description: 好分数家长版
+
+Package: com.mubu.spark
+Architecture: all
+Version: 4.0.3spark4
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: sgb76 <sgb76@163.com>
+Depends: deepin-wine6-stable:amd64 (>= 6.0.0.42-1), spark-dwine-helper (>= 2.2), fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: office/com.mubu.spark/com.mubu.spark_4.0.3spark4_all.deb
+Size: 88448312
+MD5sum: ef7ede99f812e17077d39b93ddc4c983
+SHA1: a7524264452165189a11947016fe25fc90cdac40
+SHA256: 42ef4030dcc5b3ef175637abd24d4f092cec06c12104075584fa8600376678c2
+SHA512: 861d0618be2a461a3dc4941b9b6eab48a318266159ab8dff35b7fd04a5126bfc138bb44c85ce611c84536174ea64bf8ed9597b63d0a2f90d93f07ae3cbe9c607
+Description: Mubu Client on Deepin Wine6
+ 极简大纲笔记，一键生成思维导图
 
 Package: com.mubu.spark
 Architecture: all
@@ -26804,6 +26900,22 @@ SHA256: 57e6e623bbb761d5b2e3a8dd5c179189e585b40e14cc9f9f17213797093e88ef
 SHA512: 17c258ebc99a1b1825a6c47485ea3e5934a634c281fd1c967ecfbca4d7b5052482ea9dbb793ba70530d827c83c248e31d9cda5c47083ce6d477827d41caeb367
 Homepage: .
 Description: 金山文档
+
+Package: com.giuspen.cherrytree.spark
+Architecture: amd64
+Version: 1.1.3spark2
+Priority: optional
+Section: editors
+Maintainer: sgb76 <sgb76@163.com>
+Filename: office/com.giuspen.cherrytree.spark/com.giuspen.cherrytree.spark_1.1.3spark2_amd64.deb
+Size: 82530600
+MD5sum: 4951c4fed6197600061b50237f1fd2c3
+SHA1: be1c20c70d816a9dcac76a2a7300314bae05a099
+SHA256: 846b3d4078cb6aa31800038dc24a9d6d1da5d9c18e4c30177fcb23b023bda06f
+SHA512: f8f909e753e32acb79f1c5df0b0e0b91c8536078da2e1b3f35747eee87c5b79516be5bac43b62842f45f4d3caf814a45763bee516bcbe38f720de3ec4b431f93
+Homepage: https://www.giuspen.com/cherrytree/
+Description: Hierarchical Note Taking
+ A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single xml or sqlite file.
 
 Package: com.giuspen.cherrytree.spark
 Architecture: amd64

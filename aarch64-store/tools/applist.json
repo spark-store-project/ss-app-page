@@ -1092,6 +1092,42 @@
 
 ,
 {
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "gxde-kernel-manager_1.1.0_arm64.deb",
+    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！",
+    "Name": "GXDE 内核管理器 1.1.0",
+    "Pkgname": "gxde-kernel-manager",
+    "Size": "1113 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "gxde-kernel-manager_1.1.0_arm64.deb.torrent",
+    "Update": "2024-05-12 17:25:28",
+    "Version": "1.1.0",
+    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/gxde-kernel-manager/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/gxde-kernel-manager/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/gxde-kernel-manager/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/gxde-kernel-manager/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/gxde-kernel-manager/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "CongTianKong",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "additional-base-lib_2.36-9_plus_deb12u3-9_arm64.deb",
+    "More": "内置glibc和libstdc++\n其实原理还是我们最爱的bwrap，创建一个容器把libc和ld.so替换掉，就这么简单（bwrap真是为大家节约了不少生命）。此外用了一点小技巧让大家仍然可以自己\n设置LD_LIBRARY_PATH变量来寻找自己安装的动态库。选用的glibc和libstdc++是从debian bookworm（debian 12，目前是测试版）上下载的，支持到GLIBC_2.36、GLIBCXX_3.4.30。\n安装：下载解压得到deb包，打开终端，输入 sudo apt install ，输入空格后在文件管理器里用鼠标按住deb包拖拽过去，然后按回车。\n使用：安装好了后，在终端运行不兼容的软件时，只需要在前面加上ablrun和空格就可以了。ablrun [命令]\n删除：sudo apt remove additional-base-lib\n注意事项：\n1、所有gcc库中我只加入了libstdc++（毕竟比较常用）。如果需要其他比如objective-c，fortran，d等语言的标准库，可以留言\n2、应该能在其他基于debian的发行版上运行，但是我还没测试\n3、由于包括的库比较少，只能解决部分兼容问题。但是通过学习，大家能解决所有常见问题。（可以看我之前的帖子：https://bbs.deepin.org/post/256081）\n4、不能保证程序没有故障，各位需要为自己系统的安全负责",
+    "Name": "Additional Base lib",
+    "Pkgname": "additional-base-lib",
+    "Size": "2095 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "additional-base-lib_2.36-9_plus_deb12u3-9_arm64.deb.torrent",
+    "Update": "2023-11-11 02:21:39",
+    "Version": "2.36-9+deb12u3-9",
+    "Website": "https://gitee.com/deepin-community-store/additional-base-lib",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_2.png\"]"
+}
+
+,
+{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "spark-web-packer_0.1.3_all.deb",
@@ -1128,24 +1164,6 @@
 
 ,
 {
-    "Author": "CongTianKong",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "additional-base-lib_2.36-9_plus_deb12u3-9_arm64.deb",
-    "More": "内置glibc和libstdc++\n其实原理还是我们最爱的bwrap，创建一个容器把libc和ld.so替换掉，就这么简单（bwrap真是为大家节约了不少生命）。此外用了一点小技巧让大家仍然可以自己\n设置LD_LIBRARY_PATH变量来寻找自己安装的动态库。选用的glibc和libstdc++是从debian bookworm（debian 12，目前是测试版）上下载的，支持到GLIBC_2.36、GLIBCXX_3.4.30。\n安装：下载解压得到deb包，打开终端，输入 sudo apt install ，输入空格后在文件管理器里用鼠标按住deb包拖拽过去，然后按回车。\n使用：安装好了后，在终端运行不兼容的软件时，只需要在前面加上ablrun和空格就可以了。ablrun [命令]\n删除：sudo apt remove additional-base-lib\n注意事项：\n1、所有gcc库中我只加入了libstdc++（毕竟比较常用）。如果需要其他比如objective-c，fortran，d等语言的标准库，可以留言\n2、应该能在其他基于debian的发行版上运行，但是我还没测试\n3、由于包括的库比较少，只能解决部分兼容问题。但是通过学习，大家能解决所有常见问题。（可以看我之前的帖子：https://bbs.deepin.org/post/256081）\n4、不能保证程序没有故障，各位需要为自己系统的安全负责",
-    "Name": "Additional Base lib",
-    "Pkgname": "additional-base-lib",
-    "Size": "2095 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "additional-base-lib_2.36-9_plus_deb12u3-9_arm64.deb.torrent",
-    "Update": "2023-11-11 02:21:39",
-    "Version": "2.36-9+deb12u3-9",
-    "Website": "https://gitee.com/deepin-community-store/additional-base-lib",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_2.png\"]"
-}
-
-,
-{
     "Author": "Vlary",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "htyscreenpen_1.2_arm64.deb",
@@ -1160,24 +1178,6 @@
     "Website": " https://github.com/sonichy/HTYScreenPen",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_4.png\"]"
-}
-
-,
-{
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "gxde-kernel-manager_1.1.0_arm64.deb",
-    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！",
-    "Name": "GXDE 内核管理器 1.1.0",
-    "Pkgname": "gxde-kernel-manager",
-    "Size": "1113 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "gxde-kernel-manager_1.1.0_arm64.deb.torrent",
-    "Update": "2024-05-12 17:25:28",
-    "Version": "1.1.0",
-    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/gxde-kernel-manager/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/gxde-kernel-manager/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/gxde-kernel-manager/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/gxde-kernel-manager/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/gxde-kernel-manager/screen_4.png\"]"
 }
 
 ,
@@ -1308,24 +1308,6 @@
 
 ,
 {
-    "Author": "shenmo <ouyangyunrui@uniontech.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.github.gerryfredinandus.bittorrent-tracker-editor_1.33.0.beta.6_arm64.deb",
-    "More": "种子编辑器是一款好用的BT种子编辑器\n选择一个种子文件或包含种子文件的文件夹。\n同时添加一个或多个追踪器。\n同时移除一个或多个追踪器。\n移除所有追踪器以创建无追踪器的种子。DHT种子\n改变公共/私有标记。注意：这将改变种子信息的哈希值。\n当与可执行文件位于同一文件夹中时，通过add_trackers.txt和remove_trackers.txt文件预设添加/移除追踪器。（对于Linux snap版本，请使用：home/snap/bittorrent-tracker-editor/common/）\n可选以控制台程序形式启动。（请参阅下载文件中的readme.txt）\n显示种子文件内容。\n从newTrackon或ngosang下载稳定的追踪器。",
-    "Name": "种子编辑器 BT Tracker Editor",
-    "Pkgname": "com.github.gerryfredinandus.bittorrent-tracker-editor",
-    "Size": "869 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "com.github.gerryfredinandus.bittorrent-tracker-editor_1.33.0.beta.6_arm64.deb.torrent",
-    "Update": "2023-08-01 17:25:47",
-    "Version": "1.33.0.beta.6",
-    "Website": "https://github.com/GerryFerdinandus/bittorrent-tracker-editor",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_3.png\"]"
-}
-
-,
-{
     "Author": "Martijn van Brummelen <mvb@debian.org>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "grsync_1.3.0-1_arm64.deb",
@@ -1340,6 +1322,24 @@
     "Website": "http://www.opbyte.it/grsync/",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/grsync/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/grsync/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/grsync/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <ouyangyunrui@uniontech.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.github.gerryfredinandus.bittorrent-tracker-editor_1.33.0.beta.6_arm64.deb",
+    "More": "种子编辑器是一款好用的BT种子编辑器\n选择一个种子文件或包含种子文件的文件夹。\n同时添加一个或多个追踪器。\n同时移除一个或多个追踪器。\n移除所有追踪器以创建无追踪器的种子。DHT种子\n改变公共/私有标记。注意：这将改变种子信息的哈希值。\n当与可执行文件位于同一文件夹中时，通过add_trackers.txt和remove_trackers.txt文件预设添加/移除追踪器。（对于Linux snap版本，请使用：home/snap/bittorrent-tracker-editor/common/）\n可选以控制台程序形式启动。（请参阅下载文件中的readme.txt）\n显示种子文件内容。\n从newTrackon或ngosang下载稳定的追踪器。",
+    "Name": "种子编辑器 BT Tracker Editor",
+    "Pkgname": "com.github.gerryfredinandus.bittorrent-tracker-editor",
+    "Size": "869 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "com.github.gerryfredinandus.bittorrent-tracker-editor_1.33.0.beta.6_arm64.deb.torrent",
+    "Update": "2023-08-01 17:25:47",
+    "Version": "1.33.0.beta.6",
+    "Website": "https://github.com/GerryFerdinandus/bittorrent-tracker-editor",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_3.png\"]"
 }
 
 ,

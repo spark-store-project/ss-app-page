@@ -357,24 +357,6 @@
 
 ,
 {
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <shenmo@spark-app.store>",
-    "Filename": "org.qbittorrent.qbittorrent_4.5.2-3_plus_fix2_arm64.deb",
-    "More": "一款使用 Qt 做界面的 BT 传输软件。",
-    "Name": "qBittorrent",
-    "Pkgname": "org.qbittorrent.qbittorrent",
-    "Size": "188 Mb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "org.qbittorrent.qbittorrent_4.5.2-3_plus_fix2_arm64.deb.torrent",
-    "Update": "2023-08-30 10:22:09",
-    "Version": "4.5.2-3+fix2",
-    "Website": "http://www.qbittorrent.org/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/screen_2.png\"]"
-}
-
-,
-{
     "Author": "RealVNC <noreply@realvnc.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "realvnc-vnc-server_7.11.0.18_arm64.deb",
@@ -389,6 +371,24 @@
     "Website": "https://www.realvnc.com/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-server/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-server/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-server/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <shenmo@spark-app.store>",
+    "Filename": "org.qbittorrent.qbittorrent_4.5.2-3_plus_fix2_arm64.deb",
+    "More": "一款使用 Qt 做界面的 BT 传输软件。",
+    "Name": "qBittorrent",
+    "Pkgname": "org.qbittorrent.qbittorrent",
+    "Size": "188 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "org.qbittorrent.qbittorrent_4.5.2-3_plus_fix2_arm64.deb.torrent",
+    "Update": "2023-08-30 10:22:09",
+    "Version": "4.5.2-3+fix2",
+    "Website": "http://www.qbittorrent.org/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/screen_2.png\"]"
 }
 
 ,

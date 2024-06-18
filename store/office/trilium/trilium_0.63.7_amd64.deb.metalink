@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="trilium_0.63.7_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">cd6656a3a9ef3569d2efb503bf9cd549</hash>
+				  
+				<hash type="sha1">7907e450da3c624898f9e1e3524090a8ecf4c7ad</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/trilium/trilium_0.63.7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://piercing.spark-app.store/store/office/trilium/trilium_0.63.7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store/store/office/trilium/trilium_0.63.7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://blinder.spark-app.store/store/office/trilium/trilium_0.63.7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/office/trilium/trilium_0.63.7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/trilium/trilium_0.63.7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/trilium/trilium_0.63.7_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

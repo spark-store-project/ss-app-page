@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.aiseesoft.free-pdf-conver.deepin_1.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">6505fae7f3eec64851fe95afa1013544</hash>
+				  
+				<hash type="sha1">aae5f7097d6eb55c2cca13e3a458add3ccb16fde</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/office/com.aiseesoft.free-pdf-conver.deepin/com.aiseesoft.free-pdf-conver.deepin_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://piercing.spark-app.store/store/office/com.aiseesoft.free-pdf-conver.deepin/com.aiseesoft.free-pdf-conver.deepin_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store/store/office/com.aiseesoft.free-pdf-conver.deepin/com.aiseesoft.free-pdf-conver.deepin_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://blinder.spark-app.store/store/office/com.aiseesoft.free-pdf-conver.deepin/com.aiseesoft.free-pdf-conver.deepin_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/office/com.aiseesoft.free-pdf-conver.deepin/com.aiseesoft.free-pdf-conver.deepin_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/office/com.aiseesoft.free-pdf-conver.deepin/com.aiseesoft.free-pdf-conver.deepin_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/office/com.aiseesoft.free-pdf-conver.deepin/com.aiseesoft.free-pdf-conver.deepin_1.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>
