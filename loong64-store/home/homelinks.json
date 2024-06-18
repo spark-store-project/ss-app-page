@@ -34,6 +34,13 @@
         "url": "https://cdn.d.store.deepinos.org.cn/img-bed/qrcode.png"
     },
     {
+        "name": "服务公告",
+        "more": "服务情况通报",
+        "imgUrl": "/home/links/public-board.png",
+        "type": "_blank",
+        "url": "https://bbs.deepin.org.cn/post/272315"
+    },
+    {
         "name": "尊云——简单好用，价格厚道",
         "more": "简单好用，价格厚道的云服务器、云主机",
         "imgUrl": "/home/links/Ad-zun.com.png",
@@ -41,7 +48,7 @@
         "url": "https://www.zun.com/index.php?u=C78D6F"
     },
     {
-        "name": "龙架构适配中心——暂不支持的应用",
+        "name": "龙架构适配中心",
         "more": "共助生态建设",
         "imgUrl": "/home/links/deepin-23.png",
         "type": "_blank",

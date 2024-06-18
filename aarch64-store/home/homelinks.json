@@ -3,7 +3,7 @@
         "more": "想要什么应用？在墙上写下愿望吧！",
         "imgUrl": "/home/links/Wishwall.png",
         "type": "_blank",
-        "url": "https://www.deepinos.org/t/Wish-wall"
+        "url": "https://bbs.spark-app.store/t/Wish-wall"
     },
     {
         "name": "交流反馈",
@@ -20,7 +20,7 @@
         "url": "https://gitee.com/spark-store-project"
     },
     {
-        "name": "随喜捐赠",
+        "name": "捐赠支持",
         "more": "星火商店需要你的支持～",
         "imgUrl": "/home/links/Donate.png",
         "type": "_self",
@@ -32,6 +32,13 @@
         "imgUrl": "/home/links/QQGroups.png",
         "type": "_self",
         "url": "https://cdn.d.store.deepinos.org.cn/img-bed/qrcode.png"
+    },
+    {
+        "name": "服务公告",
+        "more": "服务情况通报",
+        "imgUrl": "/home/links/public-board.png",
+        "type": "_blank",
+        "url": "https://bbs.deepin.org.cn/post/272315"
     },
     {
         "name": "尊云——简单好用，价格厚道",

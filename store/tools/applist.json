@@ -150,23 +150,6 @@
 
 ,
 {
-    "Name": "Ventoy",
-    "Version": "1.0.96",
-    "Filename": "fydur-ventoy_1.0.96_all.deb",
-    "Torrent_address": "fydur-ventoy_1.0.96_all.deb.torrent",
-    "Pkgname": "fydur-ventoy",
-    "Author": "fyljp <fyljp@foxmail.com>",
-    "Contributor": "fyljp <fyljp@foxmail.com>",
-    "Website": "https://github.com/ventoy/Ventoy/",
-    "Update": "2023-11-09 16:41:47",
-    "Size": "17.94 MB",
-    "More": "新一代多系统启动U盘解决方案\n Ventoy是一个制作可启动U盘的开源工具。有了Ventoy你就无需反复地格式化介质，你只需要把ISO档案COPY到介质里面就可以启动了，无需其他操作。 你可以一次性COPY很多个不同类型的ISO档案，在启动时Ventoy会显示一个菜单来选择(截图)。 无差异支持Legacy BIOS和UEFI模式。目前已经测试了各类超过200+ 个ISO文件(列表). 同时提出了\"Ventoy Compatible\"的概念，若被支持则理论上可以启动任何ISO档案.(暂不支持黑苹果)",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/93b9cbc852bc478184f0790e15fccdc7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/70b8d0c8faa048b2bd9080788524ffd1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/09/fa9d31f3703f4ecbadd9a4dc4f3fa31f.png"
-}
-,
-{
     "Name": "右键刷新插件",
     "Version": "1.1",
     "Filename": "sm-refresh_1.1_all.deb",
@@ -181,6 +164,23 @@
     "Tags": "community;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/775d81a1fd4a43d49ce520dc67f65358.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/ca7f8baea5d046d7acbf004b6492de39.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/27/c81e2b152a3d4bb7bf3778b61cd1232f.png"
+}
+,
+{
+    "Name": "Ventoy",
+    "Version": "1.0.96",
+    "Filename": "fydur-ventoy_1.0.96_all.deb",
+    "Torrent_address": "fydur-ventoy_1.0.96_all.deb.torrent",
+    "Pkgname": "fydur-ventoy",
+    "Author": "fyljp <fyljp@foxmail.com>",
+    "Contributor": "fyljp <fyljp@foxmail.com>",
+    "Website": "https://github.com/ventoy/Ventoy/",
+    "Update": "2023-11-09 16:41:47",
+    "Size": "17.94 MB",
+    "More": "新一代多系统启动U盘解决方案\n Ventoy是一个制作可启动U盘的开源工具。有了Ventoy你就无需反复地格式化介质，你只需要把ISO档案COPY到介质里面就可以启动了，无需其他操作。 你可以一次性COPY很多个不同类型的ISO档案，在启动时Ventoy会显示一个菜单来选择(截图)。 无差异支持Legacy BIOS和UEFI模式。目前已经测试了各类超过200+ 个ISO文件(列表). 同时提出了\"Ventoy Compatible\"的概念，若被支持则理论上可以启动任何ISO档案.(暂不支持黑苹果)",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/93b9cbc852bc478184f0790e15fccdc7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/70b8d0c8faa048b2bd9080788524ffd1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/09/fa9d31f3703f4ecbadd9a4dc4f3fa31f.png"
 }
 ,
 {
@@ -507,23 +507,6 @@
 }
 ,
 {
-    "Name": "QtScrcpy",
-    "Version": "2.1.2-3",
-    "Filename": "qtscrcpy_2.1.2-3_amd64.deb",
-    "Torrent_address": "qtscrcpy_2.1.2-3_amd64.deb.torrent",
-    "Pkgname": "qtscrcpy",
-    "Author": "Barry & pack <jiaxinchenhit@126.com>",
-    "Contributor": "Barry & pack <jiaxinchenhit@126.com>",
-    "Website": "https://github.com/barry-ran/QtScrcpy",
-    "Update": "2023-11-29 16:10:25",
-    "Size": "9.17 MB",
-    "More": "Android实时投屏软件，此应用程序提供USB(或通过TCP/IP)连接的Android设备的显示和控制。它不需要任何root访问权限。\n\n修正dde，kde分类",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/29/28ffd7fe2a3146e99be6f56e68c4e63d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/29/85b6bfcfa7ec47e5b635afc8df422f67.png"
-}
-,
-{
     "Name": "软件包管理器(apt)",
     "Version": "0.7.9-20231206",
     "Filename": "z-tools-aptmanager_0.7.9-20231206_amd64.deb",
@@ -538,6 +521,23 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/4195118734ba4e99b034c0d32a17ab6b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/8866abb415de4864af6c2c45b56b1838.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/cfd04b0a308c46ab86ebb8d0f9954619.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/9f5b9d39eb014cf4b25e3365ed802dd4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/b9dd84e20c234e1db81638a8f147892a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/2c3aef034dbd4b32b53e74ceb7c4dca7.png"
+}
+,
+{
+    "Name": "QtScrcpy",
+    "Version": "2.1.2-3",
+    "Filename": "qtscrcpy_2.1.2-3_amd64.deb",
+    "Torrent_address": "qtscrcpy_2.1.2-3_amd64.deb.torrent",
+    "Pkgname": "qtscrcpy",
+    "Author": "Barry & pack <jiaxinchenhit@126.com>",
+    "Contributor": "Barry & pack <jiaxinchenhit@126.com>",
+    "Website": "https://github.com/barry-ran/QtScrcpy",
+    "Update": "2023-11-29 16:10:25",
+    "Size": "9.17 MB",
+    "More": "Android实时投屏软件，此应用程序提供USB(或通过TCP/IP)连接的Android设备的显示和控制。它不需要任何root访问权限。\n\n修正dde，kde分类",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/29/28ffd7fe2a3146e99be6f56e68c4e63d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/29/85b6bfcfa7ec47e5b635afc8df422f67.png"
 }
 ,
 {
@@ -1427,6 +1427,22 @@
 
 ,
 {
+    "Name": "TLP 设置",
+    "Version": "1.3.1-1",
+    "Filename": "python3-tlpui_1.3.1-1_all.deb",
+    "Pkgname": "python3-tlpui",
+    "Author": "Daniel Christophis",
+    "Contributor": "lidanger",
+    "Website": "https://github.com/d4nj1/TLPUI",
+    "Update": "2020-10-24 01:58:02",
+    "Size": "56.46 KB",
+    "More": "GTK UI for tlp (Python 3)",
+    "Tags": "deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a94af90-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a996a80-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a9f0fd0-159c-11eb-b57a-2596064cdd9a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/24/06e192a0-159c-11eb-b57a-2596064cdd9a.png"
+}
+,
+{
     "Name": "Macast",
     "Version": "0.7",
     "Filename": "macast_0.7_amd64.deb",
@@ -1457,22 +1473,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/8fa658a0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/92cc77d0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/950095e0-b7d6-11eb-95cc-55162659a757.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/18/744e6070-b7d6-11eb-95cc-55162659a757.png"
-}
-,
-{
-    "Name": "TLP 设置",
-    "Version": "1.3.1-1",
-    "Filename": "python3-tlpui_1.3.1-1_all.deb",
-    "Pkgname": "python3-tlpui",
-    "Author": "Daniel Christophis",
-    "Contributor": "lidanger",
-    "Website": "https://github.com/d4nj1/TLPUI",
-    "Update": "2020-10-24 01:58:02",
-    "Size": "56.46 KB",
-    "More": "GTK UI for tlp (Python 3)",
-    "Tags": "deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a94af90-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a996a80-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a9f0fd0-159c-11eb-b57a-2596064cdd9a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/24/06e192a0-159c-11eb-b57a-2596064cdd9a.png"
 }
 ,
 {
@@ -1695,23 +1695,6 @@
 }
 ,
 {
-    "Name": "He3 开发者万能工具箱",
-    "Version": "2.0.0",
-    "Filename": "he3_2.0.0_amd64.deb",
-    "Torrent_address": "he3_2.0.0_amd64.deb.torrent",
-    "Pkgname": "he3",
-    "Author": "he3",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://github.com/h8r-dev/he3-client",
-    "Update": "2023-11-02 09:34:15",
-    "Size": "105.14 MB",
-    "More": "内置超过 200 种实用工具，免费持续更新更多品类。包含智能搜索、类型识别、自定义快捷键等特性，让你的开发效率直接起飞。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/7ee2a653f8db414680a21f3aa252a1cc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/ca35c9013f414b3e9e90abb03e09594e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/8d70f0dbb02a44dbbbf714a4239b6d67.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/278e5a401a734bc0ba79d5cdef6ce665.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/3d8ca0cbffd74ff490f70a5aa58fedf0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/02/175eee01a8a8425d9220320007aade41.png"
-}
-,
-{
     "Name": "KeePassXC 密码管理器",
     "Version": "2.7.7",
     "Filename": "keepassxc_2.7.7_amd64.deb",
@@ -1726,6 +1709,23 @@
     "Tags": "community;ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/17/b1c3483684494791bb8b3f65a8941a69.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/17/67c5fc0b2d5b46f783531e1b7c4ab9ff.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/17/1ae2db9211dc4b1c922905ec94f78bfd.png"
+}
+,
+{
+    "Name": "He3 开发者万能工具箱",
+    "Version": "2.0.0",
+    "Filename": "he3_2.0.0_amd64.deb",
+    "Torrent_address": "he3_2.0.0_amd64.deb.torrent",
+    "Pkgname": "he3",
+    "Author": "he3",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://github.com/h8r-dev/he3-client",
+    "Update": "2023-11-02 09:34:15",
+    "Size": "105.14 MB",
+    "More": "内置超过 200 种实用工具，免费持续更新更多品类。包含智能搜索、类型识别、自定义快捷键等特性，让你的开发效率直接起飞。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/7ee2a653f8db414680a21f3aa252a1cc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/ca35c9013f414b3e9e90abb03e09594e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/8d70f0dbb02a44dbbbf714a4239b6d67.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/278e5a401a734bc0ba79d5cdef6ce665.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/3d8ca0cbffd74ff490f70a5aa58fedf0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/02/175eee01a8a8425d9220320007aade41.png"
 }
 ,
 {
@@ -2214,6 +2214,23 @@
 }
 ,
 {
+    "Name": "奔图打印机驱动",
+    "Version": "7.4.176-1+uos",
+    "Filename": "com.pantum.pantum_7.4.176-1_plus_uos_amd64.deb",
+    "Torrent_address": "com.pantum.pantum_7.4.176-1_plus_uos_amd64.deb.torrent",
+    "Pkgname": "com.pantum.pantum",
+    "Author": "Zhuhai Pantum Electronics Co., Ltd <support@pantum.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.pantum.cn/",
+    "Update": "2024-03-24 13:45:14",
+    "Size": "67.42 MB",
+    "More": "奔图打印机驱动适用于奔图P2505、P3305DN、P5000DN、P5515DN、M7105DN、CM7115DN、CM7000FDN(智享版）、CP2500DN、CP2505DN、CP2510DN、CP2515DN、CP2250DN、CM2270ADN、M9005DN、CM8505DN、CM9505DN、DS-230、P2585、P3385DN、BP5155DN、P2516、P3365DN、BP5150DN、CP5050DN、CP5055DN、CP1155DN、CP1150DN、CP5165DN、CP5155DN、M7185DN、BM5155ADN、M7165DN、BM5150ADN、CM5050DN、CM1155ADN、CM5055DN、CM1150ADN、BM265ADN、BM315ADN、BM415ADN、M9105DN、M9705DN、CM265ADN、CM315ADN、CM415ADN、CM9105DN、CM9705DN",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/e43dbd0abad64a4faa26574856dcda6c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/2c9e507c3cda48b6ab111952abc7ec68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/7943153a735e4bf3b3e9997737b491b5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/24/470b6c14ac7443f2bb88d91b513ff728.png"
+}
+,
+{
     "Name": "金山毒霸",
     "Version": "1.1.0.166",
     "Filename": "com.duba.antivirus_1.1.0.166_amd64.deb",
@@ -2245,23 +2262,6 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/11/60f5c865-61cf-4375-94a3-e9da3d24b0de.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/11/e4e8a83f-5036-4821-988c-697bfc04cea3.png"
-}
-,
-{
-    "Name": "奔图打印机驱动",
-    "Version": "7.4.176-1+uos",
-    "Filename": "com.pantum.pantum_7.4.176-1_plus_uos_amd64.deb",
-    "Torrent_address": "com.pantum.pantum_7.4.176-1_plus_uos_amd64.deb.torrent",
-    "Pkgname": "com.pantum.pantum",
-    "Author": "Zhuhai Pantum Electronics Co., Ltd <support@pantum.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.pantum.cn/",
-    "Update": "2024-03-24 13:45:14",
-    "Size": "67.42 MB",
-    "More": "奔图打印机驱动适用于奔图P2505、P3305DN、P5000DN、P5515DN、M7105DN、CM7115DN、CM7000FDN(智享版）、CP2500DN、CP2505DN、CP2510DN、CP2515DN、CP2250DN、CM2270ADN、M9005DN、CM8505DN、CM9505DN、DS-230、P2585、P3385DN、BP5155DN、P2516、P3365DN、BP5150DN、CP5050DN、CP5055DN、CP1155DN、CP1150DN、CP5165DN、CP5155DN、M7185DN、BM5155ADN、M7165DN、BM5150ADN、CM5050DN、CM1155ADN、CM5055DN、CM1150ADN、BM265ADN、BM315ADN、BM415ADN、M9105DN、M9705DN、CM265ADN、CM315ADN、CM415ADN、CM9105DN、CM9705DN",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/e43dbd0abad64a4faa26574856dcda6c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/2c9e507c3cda48b6ab111952abc7ec68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/7943153a735e4bf3b3e9997737b491b5.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/24/470b6c14ac7443f2bb88d91b513ff728.png"
 }
 ,
 {

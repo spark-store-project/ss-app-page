@@ -125,24 +125,6 @@
 }
 ,
 {
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "uos-packaging-tools_1.2.1_all.deb",
-    "More": "uos-packaging-tools 一共包含了五个工具\n可在deepin/UOS上使用\n详情见截图",
-    "Name": "维护打包工具箱",
-    "Pkgname": "uos-packaging-tools",
-    "Size": "64 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "uos-packaging-tools_1.2.1_all.deb.torrent",
-    "Update": "2024-05-27 01:06:09",
-    "Version": "1.2.1",
-    "Website": "https://gitee.com/deepin-community-store/uos-packaging-tools",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_2.png\"]"
-}
-
-,
-{
     "Author": "DebuggerX <dx8913712@163.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.debuggerx.fcitx5-customizer_1.0.6_all.deb",
@@ -157,6 +139,24 @@
     "Website": "https://github.com/debuggerx01/fcitx5_customizer",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "uos-packaging-tools_1.2.1_all.deb",
+    "More": "uos-packaging-tools 一共包含了五个工具\n可在deepin/UOS上使用\n详情见截图",
+    "Name": "维护打包工具箱",
+    "Pkgname": "uos-packaging-tools",
+    "Size": "64 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "uos-packaging-tools_1.2.1_all.deb.torrent",
+    "Update": "2024-05-27 01:06:09",
+    "Version": "1.2.1",
+    "Website": "https://gitee.com/deepin-community-store/uos-packaging-tools",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_2.png\"]"
 }
 
 ,
@@ -634,6 +634,41 @@
 }
 ,
 {
+    "Name": "magnetw",
+    "Version": "3.1.1-linux",
+    "Filename": "magnetw-3.1.1-linux_3.1.1-linux_all.deb",
+    "Torrent_address": "magnetw-3.1.1-linux_3.1.1-linux_all.deb.torrent",
+    "Pkgname": "magnetw-3.1.1-linux",
+    "Author": "youusername",
+    "Contributor": "youusername",
+    "Website": "https://github.com/youusername/magnetX",
+    "Update": "2022-11-04 16:24:01",
+    "Size": "73.4 MB",
+    "More": "资源搜索型软件",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png"
+}
+,
+{
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd-xi <3025613752@qq.com>",
+    "Filename": "gxde-time-screensaver_1.1.0_loong64.deb",
+    "More": "GXDE 一言屏保，可以显示时间和句子（句子来自一言）\n支持 GXDE（推荐）、deepin、UOS",
+    "Name": "GXDE 一言屏保",
+    "Pkgname": "gxde-time-screensaver",
+    "Size": "233 Kb",
+    "Tags": "community;deepin;uos",
+    "Torrent_address": "gxde-time-screensaver_1.1.0_loong64.deb.torrent",
+    "Update": "2024-05-02 07:48:50",
+    "Version": "1.1.0",
+    "Website": "https://gitee.com/GXDE-OS/gxde-time-screensaver",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-time-screensaver/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-time-screensaver/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-time-screensaver/screen_2.png\"]"
+}
+
+,
+{
     "Author": "udom<uostools.com>",
     "Contributor": "udom<uostools.com>",
     "Filename": "com.uostools.udom_1.2.9_all.deb",
@@ -907,23 +942,6 @@
 
 ,
 {
-    "Name": "magnetw",
-    "Version": "3.1.1-linux",
-    "Filename": "magnetw-3.1.1-linux_3.1.1-linux_all.deb",
-    "Torrent_address": "magnetw-3.1.1-linux_3.1.1-linux_all.deb.torrent",
-    "Pkgname": "magnetw-3.1.1-linux",
-    "Author": "youusername",
-    "Contributor": "youusername",
-    "Website": "https://github.com/youusername/magnetX",
-    "Update": "2022-11-04 16:24:01",
-    "Size": "73.4 MB",
-    "More": "资源搜索型软件",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png"
-}
-,
-{
     "Name": "Mac Superdrive 规则",
     "Version": "20220407~spark1",
     "Filename": "mac-superdrive_20220407~spark1_all.deb",
@@ -973,24 +991,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/03/9ad86483-b606-4fe6-a0b2-943f139f9323.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/03/e6c02952-90ab-4eb5-8f50-8c530a0483bc.png"
 }
-,
-{
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd-xi <3025613752@qq.com>",
-    "Filename": "gxde-time-screensaver_1.1.0_loong64.deb",
-    "More": "GXDE 一言屏保，可以显示时间和句子（句子来自一言）\n支持 GXDE（推荐）、deepin、UOS",
-    "Name": "GXDE 一言屏保",
-    "Pkgname": "gxde-time-screensaver",
-    "Size": "233 Kb",
-    "Tags": "community;deepin;uos",
-    "Torrent_address": "gxde-time-screensaver_1.1.0_loong64.deb.torrent",
-    "Update": "2024-05-02 07:48:50",
-    "Version": "1.1.0",
-    "Website": "https://gitee.com/GXDE-OS/gxde-time-screensaver",
-    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-time-screensaver/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-time-screensaver/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-time-screensaver/screen_2.png\"]"
-}
-
 ,
 {
     "Author": "gfdgd_xi <3025613752@qq.com>",
