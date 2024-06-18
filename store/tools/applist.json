@@ -150,23 +150,6 @@
 
 ,
 {
-    "Name": "右键刷新插件",
-    "Version": "1.1",
-    "Filename": "sm-refresh_1.1_all.deb",
-    "Torrent_address": "sm-refresh_1.1_all.deb.torrent",
-    "Pkgname": "sm-refresh",
-    "Author": "shenmo <jifengshenmo@outlook.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "http://blog.shenmo.tech",
-    "Update": "2023-04-27 21:26:53",
-    "Size": "12.14 KB",
-    "More": "深度右键刷新插件,请在星火商店的应用详情页面卸载或输入\nsudo apt purge sm-refresh -y\n更新内容：\n支持了非中文环境下显示为Refresh\n改预依赖为普通依赖以便处理\n\n修复了可能的失效问题",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/775d81a1fd4a43d49ce520dc67f65358.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/ca7f8baea5d046d7acbf004b6492de39.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/27/c81e2b152a3d4bb7bf3778b61cd1232f.png"
-}
-,
-{
     "Name": "Ventoy",
     "Version": "1.0.96",
     "Filename": "fydur-ventoy_1.0.96_all.deb",
@@ -181,6 +164,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/93b9cbc852bc478184f0790e15fccdc7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/70b8d0c8faa048b2bd9080788524ffd1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/09/fa9d31f3703f4ecbadd9a4dc4f3fa31f.png"
+}
+,
+{
+    "Name": "右键刷新插件",
+    "Version": "1.1",
+    "Filename": "sm-refresh_1.1_all.deb",
+    "Torrent_address": "sm-refresh_1.1_all.deb.torrent",
+    "Pkgname": "sm-refresh",
+    "Author": "shenmo <jifengshenmo@outlook.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "http://blog.shenmo.tech",
+    "Update": "2023-04-27 21:26:53",
+    "Size": "12.14 KB",
+    "More": "深度右键刷新插件,请在星火商店的应用详情页面卸载或输入\nsudo apt purge sm-refresh -y\n更新内容：\n支持了非中文环境下显示为Refresh\n改预依赖为普通依赖以便处理\n\n修复了可能的失效问题",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/775d81a1fd4a43d49ce520dc67f65358.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/ca7f8baea5d046d7acbf004b6492de39.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/27/c81e2b152a3d4bb7bf3778b61cd1232f.png"
 }
 ,
 {
@@ -1313,22 +1313,6 @@
 }
 ,
 {
-    "Name": "fsearch",
-    "Version": "20201209+r819.4afd0c6~ubuntu20.04.1",
-    "Filename": "fsearch-trunk_20201209_plus_r819.4afd0c6~ubuntu20.04.1_amd64.deb",
-    "Pkgname": "fsearch-trunk",
-    "Author": "cboxdoerfer",
-    "Contributor": "jerrywang",
-    "Website": "https://github.com/cboxdoerfer/fsearch",
-    "Update": "2020-12-29 17:44:26",
-    "Size": "125.2 KB",
-    "More": "基于GTK + 3的类Unix系统的快速文件搜索实用程序。布局和功能和windows下的everything十分类似，速度也相当快。",
-    "Tags": "ubuntu;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/29/0a379360-49fd-11eb-98c6-4bd0150970dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/29/0b309960-49fd-11eb-98c6-4bd0150970dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/29/0b349100-49fd-11eb-98c6-4bd0150970dc.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/29/660e0340-49fd-11eb-98c6-4bd0150970dc.png"
-}
-,
-{
     "Name": "Bandizip",
     "Version": "7.32spark0",
     "Filename": "com.bandisoft.bandizip.spark_7.32spark0_all.deb",
@@ -1343,6 +1327,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/9dff3e503b3a44a0bb9ec82c4e4d7584.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/6a857f372489469fbc32403a8a1eab3a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/8ff96b2f8ee0411ea7b5adec5ef06024.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/02/f232b3707a404dfeb7bd03ade2834732.png"
+}
+,
+{
+    "Name": "fsearch",
+    "Version": "20201209+r819.4afd0c6~ubuntu20.04.1",
+    "Filename": "fsearch-trunk_20201209_plus_r819.4afd0c6~ubuntu20.04.1_amd64.deb",
+    "Pkgname": "fsearch-trunk",
+    "Author": "cboxdoerfer",
+    "Contributor": "jerrywang",
+    "Website": "https://github.com/cboxdoerfer/fsearch",
+    "Update": "2020-12-29 17:44:26",
+    "Size": "125.2 KB",
+    "More": "基于GTK + 3的类Unix系统的快速文件搜索实用程序。布局和功能和windows下的everything十分类似，速度也相当快。",
+    "Tags": "ubuntu;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/29/0a379360-49fd-11eb-98c6-4bd0150970dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/29/0b309960-49fd-11eb-98c6-4bd0150970dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/29/0b349100-49fd-11eb-98c6-4bd0150970dc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/29/660e0340-49fd-11eb-98c6-4bd0150970dc.png"
 }
 ,
 {
@@ -1982,6 +1982,22 @@
 }
 ,
 {
+    "Name": "手机管理大师",
+    "Version": "1.0.0-1",
+    "Filename": "com.apowersoft.apowermanager_1.0.0-1_amd64.deb",
+    "Pkgname": "com.apowersoft.apowermanager",
+    "Author": "Apowersoft",
+    "Contributor": "shenmo",
+    "Website": "https://www.apowersoft.com/phone-manager",
+    "Update": "2021-12-12 00:26:39",
+    "Size": "56.27 MB",
+    "More": "轻松导入 、导出 、删除、存储各种文件资料 。支持在电脑大屏预览 、键盘操作 ，让您的照片 、视频 、 音乐触手可及 ， 短信 、 联系人 、 通话记录轻松传输 。\n",
+    "Tags": "uos;deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/12/34b6f1a0-5a9e-11ec-badd-874205411ce9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/12/34c23c40-5a9e-11ec-badd-874205411ce9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/12/31596ec0-5a9e-11ec-badd-874205411ce9.png"
+}
+,
+{
     "Name": "guiscrcpy",
     "Version": "3.9.3",
     "Filename": "guiscrcpy_3.9.3_amd64.deb",
@@ -2029,22 +2045,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/e09fefaa861d4c72a4a35f0fec293ee8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/515d6f69d687424097b48f409ad614c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/d6043d97cf784955b856210763893ce4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/ad6833efdc524d84aabb04d5ec0c2928.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/01/cbe6253af7d547bda9c80f37fb59991f.png"
-}
-,
-{
-    "Name": "手机管理大师",
-    "Version": "1.0.0-1",
-    "Filename": "com.apowersoft.apowermanager_1.0.0-1_amd64.deb",
-    "Pkgname": "com.apowersoft.apowermanager",
-    "Author": "Apowersoft",
-    "Contributor": "shenmo",
-    "Website": "https://www.apowersoft.com/phone-manager",
-    "Update": "2021-12-12 00:26:39",
-    "Size": "56.27 MB",
-    "More": "轻松导入 、导出 、删除、存储各种文件资料 。支持在电脑大屏预览 、键盘操作 ，让您的照片 、视频 、 音乐触手可及 ， 短信 、 联系人 、 通话记录轻松传输 。\n",
-    "Tags": "uos;deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/12/34b6f1a0-5a9e-11ec-badd-874205411ce9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/12/34c23c40-5a9e-11ec-badd-874205411ce9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/12/31596ec0-5a9e-11ec-badd-874205411ce9.png"
 }
 ,
 {
@@ -2197,23 +2197,6 @@
 }
 ,
 {
-    "Name": "pacapt--Arch用户的福音",
-    "Version": "3.0.7.2",
-    "Filename": "pacapt_3.0.7.2_all.deb",
-    "Torrent_address": "pacapt_3.0.7.2_all.deb.torrent",
-    "Pkgname": "pacapt",
-    "Author": "shy <1658347525@qq.com>",
-    "Contributor": "shy <1658347525@qq.com>",
-    "Website": "https://github.com/icy/pacapt",
-    "Update": "2023-01-01 13:16:19",
-    "Size": "13.67 KB",
-    "More": "pacapt是对apt等非pacman包管理器的简单封装\n安装了pacapt后，你就可以快乐地在非Arch系Linux上sudo pacman -Syu啦！\n\nto星火商店运营：上一版打包套娃了。。",
-    "Tags": "community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/2e68be4f2a884cfa8c653429dc4e7c64.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/a3346935dd1c47a28003f06cc28089f3.png"
-}
-,
-{
     "Name": "奔图打印机驱动",
     "Version": "7.4.176-1+uos",
     "Filename": "com.pantum.pantum_7.4.176-1_plus_uos_amd64.deb",
@@ -2228,6 +2211,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/e43dbd0abad64a4faa26574856dcda6c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/2c9e507c3cda48b6ab111952abc7ec68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/7943153a735e4bf3b3e9997737b491b5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/24/470b6c14ac7443f2bb88d91b513ff728.png"
+}
+,
+{
+    "Name": "pacapt--Arch用户的福音",
+    "Version": "3.0.7.2",
+    "Filename": "pacapt_3.0.7.2_all.deb",
+    "Torrent_address": "pacapt_3.0.7.2_all.deb.torrent",
+    "Pkgname": "pacapt",
+    "Author": "shy <1658347525@qq.com>",
+    "Contributor": "shy <1658347525@qq.com>",
+    "Website": "https://github.com/icy/pacapt",
+    "Update": "2023-01-01 13:16:19",
+    "Size": "13.67 KB",
+    "More": "pacapt是对apt等非pacman包管理器的简单封装\n安装了pacapt后，你就可以快乐地在非Arch系Linux上sudo pacman -Syu啦！\n\nto星火商店运营：上一版打包套娃了。。",
+    "Tags": "community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/2e68be4f2a884cfa8c653429dc4e7c64.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/a3346935dd1c47a28003f06cc28089f3.png"
 }
 ,
 {
@@ -2383,23 +2383,6 @@
 }
 ,
 {
-    "Name": "gnome-pie应用启动器",
-    "Version": "0.7.3-1",
-    "Filename": "gnome-pie_0.7.3-1_amd64.deb",
-    "Torrent_address": "gnome-pie_0.7.3-1_amd64.deb.torrent",
-    "Pkgname": "gnome-pie",
-    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-    "Contributor": "WAYYYAW <way610@126.com>",
-    "Website": "https://github.com/Schneegans/Gnome-Pie",
-    "Update": "2023-01-12 18:00:51",
-    "Size": "322.4 KB",
-    "More": "一个炫酷的应用启动器\n-默认皮肤挺丑的\n可以自己DIY皮肤，或者百度\n-皮肤文件放在『～/.config/gnome-pie/themes』\n-从ubuntu里扣出来的，Deepin不保证\n-其实『sudo apt install gnome-pie 』就可以了\n-deepin用户可以考虑添加ppa 『sudo add-apt-repository ppa:simonschneegans/testing 』",
-    "Tags": "ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/c1863a361a7748f48416130267dc63f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/abe899971c2347c5972ed64b31e5ad49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/77ae9699ba9c492083e6d748930a2997.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/12/0f17e577c7bf4f59b8187b7a7924f6fc.png"
-}
-,
-{
     "Name": "QGIS(书虫版)",
     "Version": "3.32.1-fix1-cursor",
     "Filename": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb",
@@ -2414,6 +2397,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/0242916c1eca488e98137daf10193c4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/74a9c8eefd83424490112c7fd3e4c1f1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/20/cc2dabfeb636416fa76e62ba58a53540.png"
+}
+,
+{
+    "Name": "gnome-pie应用启动器",
+    "Version": "0.7.3-1",
+    "Filename": "gnome-pie_0.7.3-1_amd64.deb",
+    "Torrent_address": "gnome-pie_0.7.3-1_amd64.deb.torrent",
+    "Pkgname": "gnome-pie",
+    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+    "Contributor": "WAYYYAW <way610@126.com>",
+    "Website": "https://github.com/Schneegans/Gnome-Pie",
+    "Update": "2023-01-12 18:00:51",
+    "Size": "322.4 KB",
+    "More": "一个炫酷的应用启动器\n-默认皮肤挺丑的\n可以自己DIY皮肤，或者百度\n-皮肤文件放在『～/.config/gnome-pie/themes』\n-从ubuntu里扣出来的，Deepin不保证\n-其实『sudo apt install gnome-pie 』就可以了\n-deepin用户可以考虑添加ppa 『sudo add-apt-repository ppa:simonschneegans/testing 』",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/c1863a361a7748f48416130267dc63f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/abe899971c2347c5972ed64b31e5ad49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/77ae9699ba9c492083e6d748930a2997.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/12/0f17e577c7bf4f59b8187b7a7924f6fc.png"
 }
 ,
 {
@@ -2798,6 +2798,23 @@
 }
 ,
 {
+    "Name": "DoubleCmd",
+    "Version": "1.0.11spark3",
+    "Filename": "doublecmd-spark_1.0.11spark3_amd64.deb",
+    "Torrent_address": "doublecmd-spark_1.0.11spark3_amd64.deb.torrent",
+    "Pkgname": "doublecmd-spark",
+    "Author": "alexx2000",
+    "Contributor": "sgb76",
+    "Website": "http://doublecommander.com/",
+    "Update": "2023-09-27 15:44:45",
+    "Size": "8.04 MB",
+    "More": "Double Commander是一款具有两个并排面板的跨平台开源文件管理器",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/27/04f9d6439e5842cc9decccb6480e9434.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/27/3e7c93892a01495986a75852357c68c7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/27/0b9457458c424e6e809142c7c0d08858.png"
+}
+,
+{
     "Name": "黑阈激活器",
     "Version": "2.2.1",
     "Filename": "io.gitee.brevent-enable-tool_2.2.1_amd64.deb",
@@ -2829,23 +2846,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
-}
-,
-{
-    "Name": "DoubleCmd",
-    "Version": "1.0.11spark3",
-    "Filename": "doublecmd-spark_1.0.11spark3_amd64.deb",
-    "Torrent_address": "doublecmd-spark_1.0.11spark3_amd64.deb.torrent",
-    "Pkgname": "doublecmd-spark",
-    "Author": "alexx2000",
-    "Contributor": "sgb76",
-    "Website": "http://doublecommander.com/",
-    "Update": "2023-09-27 15:44:45",
-    "Size": "8.04 MB",
-    "More": "Double Commander是一款具有两个并排面板的跨平台开源文件管理器",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/27/04f9d6439e5842cc9decccb6480e9434.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/27/3e7c93892a01495986a75852357c68c7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/27/0b9457458c424e6e809142c7c0d08858.png"
 }
 ,
 {
@@ -3018,6 +3018,23 @@
 }
 ,
 {
+    "Name": "通知中心天气小组件",
+    "Version": "0.1-1",
+    "Filename": "dde-widgets-weather-plugin_0.1-1_amd64.deb",
+    "Torrent_address": "dde-widgets-weather-plugin_0.1-1_amd64.deb.torrent",
+    "Pkgname": "dde-widgets-weather-plugin",
+    "Author": "linuxdeepin / zty199",
+    "Contributor": "zty199",
+    "Website": "https://github.com/zty199/dde-widgets-weather-plugin",
+    "Update": "2024-04-24 10:27:23",
+    "Size": "3.1 MB",
+    "More": "一个简单的通知中心天气小组件，基于和风天气开发服务开发。",
+    "Tags": "community;deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/4dcb79eff8654ae79b2984638ab7849c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/f1cd8bb207bb4f33b4de84d1f27688e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/b73a74a7b2cc4402a3918623d7d01278.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/a16b522362684bf8a7c72b08a676f017.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/24/574f62857e744d6db3046b8053364a02.png"
+}
+,
+{
     "Name": "字帖生成器",
     "Version": "0.2.7",
     "Filename": "copybook_0.2.7_amd64.deb",
@@ -3065,23 +3082,6 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/dc17ab428bc64622b8bf777b80b829e0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/656973a5b001460aa39f5ba23bc7f6ce.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/100ad1a16b6c4660a6cea5f5fa65c206.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/22/a506d273f9984e208e811ddd7c69ea2f.png"
-}
-,
-{
-    "Name": "通知中心天气小组件",
-    "Version": "0.1-1",
-    "Filename": "dde-widgets-weather-plugin_0.1-1_amd64.deb",
-    "Torrent_address": "dde-widgets-weather-plugin_0.1-1_amd64.deb.torrent",
-    "Pkgname": "dde-widgets-weather-plugin",
-    "Author": "linuxdeepin / zty199",
-    "Contributor": "zty199",
-    "Website": "https://github.com/zty199/dde-widgets-weather-plugin",
-    "Update": "2024-04-24 10:27:23",
-    "Size": "3.1 MB",
-    "More": "一个简单的通知中心天气小组件，基于和风天气开发服务开发。",
-    "Tags": "community;deepin;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/4dcb79eff8654ae79b2984638ab7849c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/f1cd8bb207bb4f33b4de84d1f27688e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/b73a74a7b2cc4402a3918623d7d01278.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/a16b522362684bf8a7c72b08a676f017.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/24/574f62857e744d6db3046b8053364a02.png"
 }
 ,
 {
@@ -3457,6 +3457,23 @@
 }
 ,
 {
+    "Name": "ToDesk企业版主控端",
+    "Version": "1.3.1.5",
+    "Filename": "todeskclient_1.3.1.5_amd64.deb",
+    "Torrent_address": "todeskclient_1.3.1.5_amd64.deb.torrent",
+    "Pkgname": "todeskclient",
+    "Author": "help@todesk.com",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://www.todesk.com",
+    "Update": "2022-12-30 12:41:40",
+    "Size": "42.77 MB",
+    "More": "详细日志\n日志+水印+录屏，信息防盗三保险\n￼ \n高效管理\n统一管理员工操作权限和设备状态\n￼ \n极速网络\n企业级优质线路和网络服务",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/44fa2a0a1345465280d2c96558bc68e0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/30/c209f669dd3e4fd4a476a8c5a0babbd1.png"
+}
+,
+{
     "Name": "nvtop (v23 构建)",
     "Version": "3.0.2",
     "Filename": "nvtop_3.0.2_amd64.deb",
@@ -3505,23 +3522,6 @@
     "Tags": "uos;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/06/14b85f60-cc9a-11ec-adc0-09aaeb5ea3a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/06/14d86a80-cc9a-11ec-adc0-09aaeb5ea3a3.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/06/f524e060-cc99-11ec-adc0-09aaeb5ea3a3.png"
-}
-,
-{
-    "Name": "ToDesk企业版主控端",
-    "Version": "1.3.1.5",
-    "Filename": "todeskclient_1.3.1.5_amd64.deb",
-    "Torrent_address": "todeskclient_1.3.1.5_amd64.deb.torrent",
-    "Pkgname": "todeskclient",
-    "Author": "help@todesk.com",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://www.todesk.com",
-    "Update": "2022-12-30 12:41:40",
-    "Size": "42.77 MB",
-    "More": "详细日志\n日志+水印+录屏，信息防盗三保险\n￼ \n高效管理\n统一管理员工操作权限和设备状态\n￼ \n极速网络\n企业级优质线路和网络服务",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/44fa2a0a1345465280d2c96558bc68e0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/30/c209f669dd3e4fd4a476a8c5a0babbd1.png"
 }
 ,
 {
@@ -3707,6 +3707,23 @@
 }
 ,
 {
+    "Name": "朗读女 (Wine)",
+    "Version": "9.22",
+    "Filename": "spark-wine-lln_9.22_all.deb",
+    "Torrent_address": "spark-wine-lln_9.22_all.deb.torrent",
+    "Pkgname": "spark-wine-lln",
+    "Author": "www.443w.com/tts/",
+    "Contributor": "1074536311",
+    "Website": "http://www.443w.com/tts/",
+    "Update": "2023-10-29 12:53:10",
+    "Size": "97.11 MB",
+    "More": "朗读女",
+    "Tags": "deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/29/0ba80470-7617-11ee-b02a-ffa67c89e541.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/29/e0070aa0-7616-11ee-b02a-ffa67c89e541.png"
+}
+,
+{
     "Name": "字体拖动预览",
     "Version": "0.2-20231207",
     "Filename": "font-drop-preview_0.2-20231207_amd64.deb",
@@ -3755,23 +3772,6 @@
     "Tags": "deepin;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/11/d9f2a3c0-b981-11ec-a878-75e977ce3fa5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/11/de7e4660-b981-11ec-a878-75e977ce3fa5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/11/e1bdb9f0-b981-11ec-a878-75e977ce3fa5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/11/d3af8d20-b981-11ec-a878-75e977ce3fa5.png"
-}
-,
-{
-    "Name": "朗读女 (Wine)",
-    "Version": "9.22",
-    "Filename": "spark-wine-lln_9.22_all.deb",
-    "Torrent_address": "spark-wine-lln_9.22_all.deb.torrent",
-    "Pkgname": "spark-wine-lln",
-    "Author": "www.443w.com/tts/",
-    "Contributor": "1074536311",
-    "Website": "http://www.443w.com/tts/",
-    "Update": "2023-10-29 12:53:10",
-    "Size": "97.11 MB",
-    "More": "朗读女",
-    "Tags": "deepin;ubuntu;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/29/0ba80470-7617-11ee-b02a-ffa67c89e541.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/29/e0070aa0-7616-11ee-b02a-ffa67c89e541.png"
 }
 ,
 {
@@ -4011,19 +4011,19 @@
 ,
 {
     "Name": "文本编码转换",
-    "Version": "1.4.5",
-    "Filename": "mfra.bianmazh_1.4.5_amd64.deb",
-    "Torrent_address": "mfra.bianmazh_1.4.5_amd64.deb.torrent",
+    "Version": "1.7.2",
+    "Filename": "mfra.bianmazh_1.7.2_amd64.deb",
+    "Torrent_address": "mfra.bianmazh_1.7.2_amd64.deb.torrent",
     "Pkgname": "mfra.bianmazh",
     "Author": "校医软件室",
     "Contributor": "校医软件室",
     "Website": "t.me/otohime_soft_room/6",
-    "Update": "2023-11-24 16:46:29",
-    "Size": "3.06 MB",
-    "More": "文本编码转换（此软件由AI生成py脚本，再由nuitka打包生成。）\n  本软件可以转换文件夹下文本文件的编码。\n  用法：\n 源文本文件夹路径：(输入含有文本文件的文件夹路径)\n 空文件夹路径：（输入前先创建空文件夹，用来放转换后的文件）\n 文本格式：（后缀，.xxx）\n 旧编码：（原来的编码）\n 新编码：（您希望转换成什么编码）",
+    "Update": "2024-06-18 22:35:24",
+    "Size": "6.55 MB",
+    "More": "文本编码转换（此软件由AI生成py脚本，再由nuitka打包生成。）\n  本软件可以转换文件夹下文本文件的编码。\n  用法：\n 源文本文件夹路径：(输入含有文本文件的文件夹路径)\n 空文件夹路径：（输入前先创建空文件夹，用来放转换后的文件）\n 文本格式：（后缀，.xxx）\n 旧编码：（原来的编码）\n 新编码：（您希望转换成什么编码）\n更新：代码升级",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/24/ebc49698891e43b786fd40eb3ebbe103.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/24/c2fd6feff96141d3858aef6ccc19b798.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/24/68c81e4b8a254343aa23efa982474521.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/18/ae57547ece3141e19a5945da43f1d11a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/18/c73cab9117c84077abbd70ced26afae9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/18/8fb23117b7a6444eb922864e5345d03b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/18/f7148e4c5f214143b57cb87034182e23.png"
 }
 ,
 {
@@ -4736,6 +4736,23 @@
     "Tags": "deepin;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/11/3b5c6390-d82a-11ed-96e3-3560d378947d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/11/3ba4de40-d82a-11ed-96e3-3560d378947d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/11/79969090-d82a-11ed-96e3-3560d378947d.png"
+}
+,
+{
+    "Name": "draw.io",
+    "Version": "24.5.3",
+    "Filename": "draw.io_24.5.3_amd64.deb",
+    "Torrent_address": "draw.io_24.5.3_amd64.deb.torrent",
+    "Pkgname": "draw.io",
+    "Author": "JGraph <support@draw.io>",
+    "Contributor": "yuu2lee4",
+    "Website": "https://github.com/jgraph/drawio",
+    "Update": "2024-06-18 17:24:29",
+    "Size": "93.07 MB",
+    "More": "draw.io 是一个强大简洁的绘图软件，支持流程图，UML图，架构图，原型图等图标。支持Github，Google Drive, One drive等网盘同步，并且永久免费。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/18/22a690eeb15e4e5fbe571998f3b7bc0d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/18/adee5c0ee3eb403eb610c9f7413a2b86.png"
 }
 ,
 {

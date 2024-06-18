@@ -466,6 +466,23 @@
 }
 ,
 {
+    "Name": "腾讯WeGame",
+    "Version": "1.0.0",
+    "Filename": "wegame_1.0.0_i386.deb",
+    "Torrent_address": "wegame_1.0.0_i386.deb.torrent",
+    "Pkgname": "wegame",
+    "Author": "rc3583z<huawei0086@126.com>",
+    "Contributor": "rc3583z",
+    "Website": "0",
+    "Update": "2023-06-11 11:24:06",
+    "Size": "1.41 GB",
+    "More": "腾讯WeGame，作者电脑配置不好游戏还没有测试，请谅解。目前来看功能应该可以正常使用。",
+    "Tags": "deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/9afb71e0-0806-11ee-91ff-01da5404af49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/9b10cea0-0806-11ee-91ff-01da5404af49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/9b2a7120-0806-11ee-91ff-01da5404af49.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/11/91306d00-0806-11ee-91ff-01da5404af49.png"
+}
+,
+{
     "Name": "红色警戒3:起义时刻",
     "Version": "1.0spark0",
     "Filename": "com.redalert3uprising.spark_1.0spark0_amd64.deb",
@@ -497,23 +514,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/25/943f1750-f44b-11ec-95cd-334d21a0f722.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/25/92ed1be0-f44b-11ec-95cd-334d21a0f722.png"
-}
-,
-{
-    "Name": "腾讯WeGame",
-    "Version": "1.0.0",
-    "Filename": "wegame_1.0.0_i386.deb",
-    "Torrent_address": "wegame_1.0.0_i386.deb.torrent",
-    "Pkgname": "wegame",
-    "Author": "rc3583z<huawei0086@126.com>",
-    "Contributor": "rc3583z",
-    "Website": "0",
-    "Update": "2023-06-11 11:24:06",
-    "Size": "1.41 GB",
-    "More": "腾讯WeGame，作者电脑配置不好游戏还没有测试，请谅解。目前来看功能应该可以正常使用。",
-    "Tags": "deepin;ubuntu;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/9afb71e0-0806-11ee-91ff-01da5404af49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/9b10cea0-0806-11ee-91ff-01da5404af49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/9b2a7120-0806-11ee-91ff-01da5404af49.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/11/91306d00-0806-11ee-91ff-01da5404af49.png"
 }
 ,
 {
@@ -866,6 +866,24 @@
 }
 ,
 {
+    "Author": "shenmo@spark-app.store",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.pvzhz.spark_2.0.88spark2_all.deb",
+    "More": "一个植物大战僵尸改版\n详细可见：https://www.bilibili.com/video/BV15z42127up",
+    "Name": "植物大战僵尸杂交版（潜艇伟伟迷）（Wine）",
+    "Pkgname": "com.pvzhz.spark",
+    "Size": "377 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.pvzhz.spark_2.0.88spark2_all.deb.torrent",
+    "Update": "2024-05-28 20:22:13",
+    "Version": "2.0.88spark2",
+    "Website": "https://space.bilibili.com/97213827",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_2.png\"]"
+}
+
+,
+{
     "Name": "火炬之光2",
     "Version": "1.0spark0",
     "Filename": "com.torchlight2.spark_1.0spark0_amd64.deb",
@@ -914,24 +932,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/f06ced90-93ce-11ed-8068-7fd9a9236584.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/f07ea0d0-93ce-11ed-8068-7fd9a9236584.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/f090c940-93ce-11ed-8068-7fd9a9236584.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/f0a2a390-93ce-11ed-8068-7fd9a9236584.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/f0b4a4f0-93ce-11ed-8068-7fd9a9236584.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/14/edd022a0-93ce-11ed-8068-7fd9a9236584.png"
 }
-,
-{
-    "Author": "shenmo@spark-app.store",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.pvzhz.spark_2.0.88spark2_all.deb",
-    "More": "一个植物大战僵尸改版\n详细可见：https://www.bilibili.com/video/BV15z42127up",
-    "Name": "植物大战僵尸杂交版（潜艇伟伟迷）（Wine）",
-    "Pkgname": "com.pvzhz.spark",
-    "Size": "377 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "com.pvzhz.spark_2.0.88spark2_all.deb.torrent",
-    "Update": "2024-05-28 20:22:13",
-    "Version": "2.0.88spark2",
-    "Website": "https://space.bilibili.com/97213827",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_2.png\"]"
-}
-
 ,
 {
     "Name": "人生重开模拟器（网页版）",
@@ -1671,6 +1671,23 @@
 }
 ,
 {
+    "Name": "特种部队全力反击",
+    "Version": "1.0spark0",
+    "Filename": "com.specialcounterforceattack.spark_1.0spark0_amd64.deb",
+    "Torrent_address": "com.specialcounterforceattack.spark_1.0spark0_amd64.deb.torrent",
+    "Pkgname": "com.specialcounterforceattack.spark",
+    "Author": "Bleeding Edge Studio",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-04-25 11:23:05",
+    "Size": "580.75 MB",
+    "More": "一款生存类的第一人称射击游戏",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/25/c61e0062670149e2a065cb69fa82f2b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/25/cf6d0bd8c0fe48e89a3bdf0fb86aaada.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/25/cb9f987aa90a40d3a6e38d9a8d904a80.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/25/6fe83bd8fc87423b9f07e1ca3909ee5d.png"
+}
+,
+{
     "Name": "孤岛惊魂",
     "Version": "1.0spark1",
     "Filename": "com.farcry.spark_1.0spark1_all.deb",
@@ -1701,23 +1718,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/03/380a3bf0-6625-11eb-b91f-79bb51f4f2ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/03/38061d40-6625-11eb-b91f-79bb51f4f2ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/03/38142700-6625-11eb-b91f-79bb51f4f2ec.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/03/21872460-6625-11eb-b91f-79bb51f4f2ec.png"
-}
-,
-{
-    "Name": "特种部队全力反击",
-    "Version": "1.0spark0",
-    "Filename": "com.specialcounterforceattack.spark_1.0spark0_amd64.deb",
-    "Torrent_address": "com.specialcounterforceattack.spark_1.0spark0_amd64.deb.torrent",
-    "Pkgname": "com.specialcounterforceattack.spark",
-    "Author": "Bleeding Edge Studio",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-04-25 11:23:05",
-    "Size": "580.75 MB",
-    "More": "一款生存类的第一人称射击游戏",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/25/c61e0062670149e2a065cb69fa82f2b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/25/cf6d0bd8c0fe48e89a3bdf0fb86aaada.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/25/cb9f987aa90a40d3a6e38d9a8d904a80.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/25/6fe83bd8fc87423b9f07e1ca3909ee5d.png"
 }
 ,
 {
@@ -1873,23 +1873,6 @@
 }
 ,
 {
-    "Name": "古墓丽影2重制版",
-    "Version": "1.0spark0",
-    "Filename": "com.tombraider2-remastered.spark_1.0spark0_amd64.deb",
-    "Torrent_address": "com.tombraider2-remastered.spark_1.0spark0_amd64.deb.torrent",
-    "Pkgname": "com.tombraider2-remastered.spark",
-    "Author": "Nicobass",
-    "Contributor": "sgb76",
-    "Website": "http://tombraider-dox.com/",
-    "Update": "2023-08-19 23:52:45",
-    "Size": "1.64 GB",
-    "More": "一款由粉丝 Nicobass 自制的《古墓丽影2：西安匕首》重制版，由虚幻4引擎打造。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/19/274802dd9134409f9c0c73ee6157b9bd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/19/13d1494d71954179a1ea367bba31d7ac.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/19/39a14c9f75944a32bdd55def5bd50b61.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/19/545647b75ddd4cb6a018634c9b3077a1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/19/cead297bc1464e09939403740a6d8726.png"
-}
-,
-{
     "Name": "终端贪吃蛇游戏 (csnaketerm)",
     "Version": "0.2.0~spark4",
     "Filename": "csnaketerm_0.2.0~spark4_all.deb",
@@ -1904,6 +1887,23 @@
     "Tags": "community;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/329bd890-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32c00260-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32d278f0-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32aca170-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32e4a160-93c8-11ed-8dce-1fec4c93e3a4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/14/306dd500-93c8-11ed-8dce-1fec4c93e3a4.png"
+}
+,
+{
+    "Name": "古墓丽影2重制版",
+    "Version": "1.0spark0",
+    "Filename": "com.tombraider2-remastered.spark_1.0spark0_amd64.deb",
+    "Torrent_address": "com.tombraider2-remastered.spark_1.0spark0_amd64.deb.torrent",
+    "Pkgname": "com.tombraider2-remastered.spark",
+    "Author": "Nicobass",
+    "Contributor": "sgb76",
+    "Website": "http://tombraider-dox.com/",
+    "Update": "2023-08-19 23:52:45",
+    "Size": "1.64 GB",
+    "More": "一款由粉丝 Nicobass 自制的《古墓丽影2：西安匕首》重制版，由虚幻4引擎打造。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/19/274802dd9134409f9c0c73ee6157b9bd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/19/13d1494d71954179a1ea367bba31d7ac.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/19/39a14c9f75944a32bdd55def5bd50b61.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/19/545647b75ddd4cb6a018634c9b3077a1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/19/cead297bc1464e09939403740a6d8726.png"
 }
 ,
 {

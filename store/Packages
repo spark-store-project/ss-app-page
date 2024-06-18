@@ -6092,6 +6092,27 @@ SHA512: 4e28b1f43da38c42e879e1526717529e0b38471a586f5a3bae0faa2cfef140e909c1c978
 Homepage: http://www.linuxdeepin.com/
 Description: deepin-wine-diag.
 
+Package: draw.io
+Architecture: amd64
+Version: 24.5.3
+Priority: optional
+Section: default
+Maintainer: JGraph <support@draw.io>
+Installed-Size: 361476
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: tools/draw.io/draw.io_24.5.3_amd64.deb
+Size: 97586392
+MD5sum: cb1e68b10ce2c20d62f739c3ba2a4603
+SHA1: f4f8438f83c65bec6041864fd81ec4d159c7503d
+SHA256: 84d14fe1414d0a933a8009b6f533533954bd14f2b822a00eb9c7e10c05bd9730
+SHA512: 746bc99b1f14c09c13484250ebba47b0c48df2ac70fe8e1443febd785d1e367d038aaebc41481f16b634b6f38418fa68d7486af8d9a0799d322de0c06a4855d5
+Homepage: https://github.com/jgraph/drawio
+Description: 
+  draw.io desktop
+License: Apache-2.0
+Vendor: JGraph <support@draw.io>
+
 Package: spark-resourcehacker
 Architecture: i386
 Version: 5.1.8
@@ -6250,24 +6271,16 @@ Vendor: Alex Chaplinsky <alchaplinsky@gmail.com>
 
 Package: mfra.bianmazh
 Architecture: amd64
-Version: 1.4.5
+Version: 1.7.2
 Priority: optional
 Maintainer: mifan-house
-Filename: tools/mfra.bianmazh/mfra.bianmazh_1.4.5_amd64.deb
-Size: 3203756
-MD5sum: 0b218b6eef2d7322a7819a3e196be2f1
-SHA1: f5cdebcbdec663788d433d452e47341f71b4dc8c
-SHA256: eac4ac535bfa401b641cf86b8c8d5a51bf6601d19d8f259f977c732b19b6392a
-SHA512: b6ef9f2a3c8b001288c18ac37f14b41eb11844cc2f4b0b09908f385473dc06aea1b2836d717f0dc0631fee3aa06051e68a36d0ce87d5da2b765fc008fb3a52e8
-Description: 文本编码转换（此软件由AI生成py脚本，再由nuitka打包生成）
- 文本编码转换（此软件由AI生成py脚本，再由nuitka打包生成。）
-  本软件可以转换文件夹下文本文件的编码。
-  用法：
- 源文本文件夹路径：(输入含有文本文件的文件夹路径)
- 空文件夹路径：（创建空文件夹放转换后文本）
- 文本格式：（后缀，.xxx）
- 旧编码：（原来的编码）
- 新编码：（您希望转换成什么编码）
+Filename: tools/mfra.bianmazh/mfra.bianmazh_1.7.2_amd64.deb
+Size: 6867204
+MD5sum: 55e28a50de7352247f074742d851530d
+SHA1: 86ef3b085fc1baf3e7e987aaf8ec6f772e1824bf
+SHA256: cd7fdc851a25dd09f333cdf5f75a1f241443fc6d2b6e41fd444fd680850beddf
+SHA512: 07b69e2ab7bdb3a124c4b0052b11efe925edd60595771a39a87cb650640c6f7f78cb6de4d09a26ea3a06f3dce0fa6c8dcf57c6efdf66a2bf4352c12d67282f73
+Description: 文本编码转换（此软件由AI生成py脚本，再由nuitka打包生成） 文本编码转换（此软件由AI生成py脚本，再由nuitka打包生成。）  本软件可以转换文件夹下文本文件的编码。  用法： 源文本文件夹路径：(输入含有文本文件的文件夹路径) 空文件夹路径：（创建空文件夹放转换后文本） 文本格式：（后缀，.xxx） 旧编码：（原来的编码） 新编码：（您希望转换成什么编码）
 
 Package: uncon
 Architecture: amd64
@@ -13453,27 +13466,6 @@ Description:
 License: Apache-2.0
 Vendor: JGraph <support@draw.io>
 
-Package: draw.io
-Architecture: amd64
-Version: 24.4.8
-Priority: optional
-Section: default
-Maintainer: JGraph <support@draw.io>
-Installed-Size: 360533
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: image_graphics/draw.io/draw.io_24.4.8_amd64.deb
-Size: 97409496
-MD5sum: 6f6c678fe0fc3cb60d70ed9afbf14d48
-SHA1: 1d8d5eea9be76ca92dda1247f9d91069520afd96
-SHA256: d91e0b461ac3c33cddd5088c169cb552148949fdbe54094a984303c72d01f4ee
-SHA512: e4cadcf0410ece863e8bdcd9c2ef223e7bb892eef6f0ca9bc34b801aba9ce1cc186c0167bdee3616308683bf0adf6330ddae5a3ccb7425e87ed98447e2c2c3b8
-Homepage: https://github.com/jgraph/drawio
-Description: 
-  draw.io desktop
-License: Apache-2.0
-Vendor: JGraph <support@draw.io>
-
 Package: org.librecad.spark
 Architecture: amd64
 Version: 2.2.0.2spark1
@@ -17810,27 +17802,6 @@ SHA256: 43097334f63d9ce54ad830001897c3f78fbcc5f357a5e836a10a1a3cab2a800f
 SHA512: a8e56819df59a839575d887a3a05b8bb676f4676139b4cceb62127ce8cec69cd35e92a31f3bc9fe580b3645a6324e5a5b8c2afc330403f35ed5b617d237caf4e
 Description: cloudar-electron
  A kind of tool that can be used to show comments, for bilibili only.
-
-Package: xmcl
-Architecture: amd64
-Version: 0.44.7-832
-Priority: optional
-Section: default
-Maintainer: ci010 <cijhn@hotmail.com>
-Installed-Size: 284319
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: games/xmcl/xmcl_0.44.7-832_amd64.deb
-Size: 82854412
-MD5sum: 79a17542950a625ac27d82c46675de0d
-SHA1: 1c0611bc0d150ff5111c9d97829db63d6ad3eeb3
-SHA256: 5e2c38eb7112c3e3417bb798abcdf66e90ea9e82011e5e9939d55317fcb05207
-SHA512: 93a1d3841f7087cadf7d7f08a09473f62c9c09431836bf7d0e7af4d4da560e81bfb5a7522c0a8c2be6021436f50f522698e2c70f8567ce0876e4f22b0bebce07
-Homepage: https://github.com/voxelum/x-minecraft-launcher#readme
-Description: 
-  A great minecraft launcher in the future
-License: MIT
-Vendor: ci010 <cijhn@hotmail.com>
 
 Package: xmcl
 Architecture: amd64
@@ -24212,27 +24183,6 @@ Description:
 License: unknown
 Vendor: 上海我云网络科技有限公司 <hello@wolai.com>
 
-Package: com.wolai.spark
-Architecture: amd64
-Version: 1.2.9-231023120spark7
-Priority: optional
-Section: default
-Maintainer: 上海我云网络科技有限公司 <hello@wolai.com>
-Installed-Size: 212710
-Depends: libx11-xcb1, libxkbfile1
-Recommends: libappindicator3-1
-Filename: office/com.wolai.spark/com.wolai.spark_1.2.9-231023120spark7_amd64.deb
-Size: 65873600
-MD5sum: 0de92fa2af4b799b6da18d3c604e6643
-SHA1: d1207caf73896663955d1cdc3bfed17a64c513b4
-SHA256: 63179704e2417ae191167f6dcec340581e718101f72d4473ee21bfbe108d7079
-SHA512: d4db323e9f7f15ba8dd4e2cb7ba337d2fae8f6b128ee74cd1edc4f3b3af48f6feb32a95c8a48a9291f839d5fe22e7a6cb85065b59dab61bad57f637dfba9b19f
-Homepage: https://www.wolai.com/product
-Description: 
-  wolai，为有志成功的个人和团队应运而生的云端协作平台。多人编辑、数据表格、块级引用、双向链接......知识整理与协同办公的不二之选。
-License: unknown
-Vendor: 上海我云网络科技有限公司 <hello@wolai.com>
-
 Package: uengine-dc-com.chaoxing.mobile
 Architecture: all
 Version: 6.0.3
@@ -26279,25 +26229,6 @@ Homepage: https://github.com/zadam/trilium
 Description: Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.
  Trilium Notes
 
-Package: trilium
-Architecture: amd64
-Version: 0.60.4
-Priority: optional
-Section: utils
-Maintainer: zadam.apps@gmail.com
-Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin
-Recommends: pulseaudio | libasound2
-Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0, lsb-release
-Filename: office/trilium/trilium_0.60.4_amd64.deb
-Size: 77718864
-MD5sum: cd03a60799be8952045963dc54a34ae0
-SHA1: 0f0962a7b886dd9327cb64bbbc083911b5ebedef
-SHA256: d4f10d6cb85dc18326a3b051ec13e9f7619fa3b2c82d0a3b7dd91325a09f424c
-SHA512: f6761bb470c1b4a52a19677b7ac12c4cfc4ecead7a4c098279f05586f38d6fd9ef5c59833b7ff7d8772dda12d3baaedc9b007386e5b544ea4603344c03252ee5
-Homepage: https://github.com/zadam/trilium
-Description: Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.
- Trilium Notes
-
 Package: com.bookxnote.spark
 Architecture: i386
 Version: 2.0.0.1023spark0
@@ -26454,23 +26385,6 @@ MD5sum: ef7ede99f812e17077d39b93ddc4c983
 SHA1: a7524264452165189a11947016fe25fc90cdac40
 SHA256: 42ef4030dcc5b3ef175637abd24d4f092cec06c12104075584fa8600376678c2
 SHA512: 861d0618be2a461a3dc4941b9b6eab48a318266159ab8dff35b7fd04a5126bfc138bb44c85ce611c84536174ea64bf8ed9597b63d0a2f90d93f07ae3cbe9c607
-Description: Mubu Client on Deepin Wine6
- 极简大纲笔记，一键生成思维导图
-
-Package: com.mubu.spark
-Architecture: all
-Version: 3.7.3spark3
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: sgb76 <sgb76@163.com>
-Depends: deepin-wine6-stable:amd64 (>= 6.0.0.42-1), spark-dwine-helper (>= 2.2), fonts-wqy-microhei, fonts-wqy-zenhei
-Filename: office/com.mubu.spark/com.mubu.spark_3.7.3spark3_all.deb
-Size: 87818288
-MD5sum: 3896f480a254e7bfdf0f6693b8f04670
-SHA1: a4c6d1c5778051fc65f358b5054347cb6e4f9639
-SHA256: 469de1d5ec8e45e236f45f192eb63de7d7aec3d96fcee9e27cfe7fb0322d456e
-SHA512: 1b12f89d4aff3a98f84a8a5a46cad3a951482956554f6108857a02a7713c314c8a31b4f242e364982e1534807c2057e0c7ba1009203e9dc8d041866135800115
 Description: Mubu Client on Deepin Wine6
  极简大纲笔记，一键生成思维导图
 
@@ -26913,22 +26827,6 @@ MD5sum: 4951c4fed6197600061b50237f1fd2c3
 SHA1: be1c20c70d816a9dcac76a2a7300314bae05a099
 SHA256: 846b3d4078cb6aa31800038dc24a9d6d1da5d9c18e4c30177fcb23b023bda06f
 SHA512: f8f909e753e32acb79f1c5df0b0e0b91c8536078da2e1b3f35747eee87c5b79516be5bac43b62842f45f4d3caf814a45763bee516bcbe38f720de3ec4b431f93
-Homepage: https://www.giuspen.com/cherrytree/
-Description: Hierarchical Note Taking
- A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single xml or sqlite file.
-
-Package: com.giuspen.cherrytree.spark
-Architecture: amd64
-Version: 1.0.2spark1
-Priority: optional
-Section: editors
-Maintainer: sgb76 <sgb76@163.com>
-Filename: office/com.giuspen.cherrytree.spark/com.giuspen.cherrytree.spark_1.0.2spark1_amd64.deb
-Size: 78197528
-MD5sum: 9ad228d903168ec6bec3b8ec73b54ab9
-SHA1: 11a6d4a378acd5ad61e79c5f05205335af1b0c79
-SHA256: 36be0122d13318c99a5655649ea42fae96c8fc4a657fc6fa9d9bc2bc5f13f6fc
-SHA512: c4a94baf232c1cf8c47d1666dba8d03eca5cf611aa963163b937453260aeef8f7f6212450da5d89a7e31b3370d96ec8b55eced4cbd535fbd55d14e98a4162de4
 Homepage: https://www.giuspen.com/cherrytree/
 Description: Hierarchical Note Taking
  A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single xml or sqlite file.

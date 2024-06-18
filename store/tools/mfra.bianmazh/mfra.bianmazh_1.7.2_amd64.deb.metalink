@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="mfra.bianmazh_1.7.2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">55e28a50de7352247f074742d851530d</hash>
+				  
+				<hash type="sha1">86ef3b085fc1baf3e7e987aaf8ec6f772e1824bf</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/mfra.bianmazh/mfra.bianmazh_1.7.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://piercing.spark-app.store/store/tools/mfra.bianmazh/mfra.bianmazh_1.7.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store/store/tools/mfra.bianmazh/mfra.bianmazh_1.7.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://blinder.spark-app.store/store/tools/mfra.bianmazh/mfra.bianmazh_1.7.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/tools/mfra.bianmazh/mfra.bianmazh_1.7.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/mfra.bianmazh/mfra.bianmazh_1.7.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/tools/mfra.bianmazh/mfra.bianmazh_1.7.2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

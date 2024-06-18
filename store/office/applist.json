@@ -978,23 +978,6 @@
 }
 ,
 {
-    "Name": "桌面",
-    "Version": "5.8.0-1",
-    "Filename": "xpad_5.8.0-1_amd64.deb",
-    "Torrent_address": "xpad_5.8.0-1_amd64.deb.torrent",
-    "Pkgname": "xpad",
-    "Author": "Michael Terry",
-    "Contributor": "Taoran",
-    "Website": "https://launchpad.net/xpad",
-    "Update": "2022-06-22 23:30:57",
-    "Size": "108.62 KB",
-    "More": "Xpad是一个桌面便签应用，能够在一个桌面创建多个记录窗口，只需要将鼠标指针移到该窗口的底部显示工具栏进行操作，具有实时记录和保存等功能。还可以通过菜单执行更多选项配置，如修改字体样式及大小、重新设置窗口背景和文字颜色等。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/3fb3cee0-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/3fccd520-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/3fef7850-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/4008f3c0-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/401f13d0-f240-11ec-8036-71833f63a538.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/22/7b668320-f23f-11ec-8036-71833f63a538.png"
-}
-,
-{
     "Name": "浙政钉（wine）",
     "Version": "2.15.0-Release.4spark1",
     "Filename": "com.dingtalkzjgov.deepin_2.15.0-Release.4spark1_all.deb",
@@ -1009,6 +992,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/16/c77837b3f7de4b99b691efccfc2fbe50.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/16/dd3a0afacdc94331b02994a9e5723245.png"
+}
+,
+{
+    "Name": "桌面",
+    "Version": "5.8.0-1",
+    "Filename": "xpad_5.8.0-1_amd64.deb",
+    "Torrent_address": "xpad_5.8.0-1_amd64.deb.torrent",
+    "Pkgname": "xpad",
+    "Author": "Michael Terry",
+    "Contributor": "Taoran",
+    "Website": "https://launchpad.net/xpad",
+    "Update": "2022-06-22 23:30:57",
+    "Size": "108.62 KB",
+    "More": "Xpad是一个桌面便签应用，能够在一个桌面创建多个记录窗口，只需要将鼠标指针移到该窗口的底部显示工具栏进行操作，具有实时记录和保存等功能。还可以通过菜单执行更多选项配置，如修改字体样式及大小、重新设置窗口背景和文字颜色等。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/3fb3cee0-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/3fccd520-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/3fef7850-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/4008f3c0-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/401f13d0-f240-11ec-8036-71833f63a538.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/22/7b668320-f23f-11ec-8036-71833f63a538.png"
 }
 ,
 {
@@ -1384,6 +1384,22 @@
 }
 ,
 {
+    "Name": "语雀（web）",
+    "Version": "1.0spark0",
+    "Filename": "web-yuque_1.0spark0_amd64.deb",
+    "Pkgname": "web-yuque",
+    "Author": "阿里支付宝",
+    "Contributor": "sgb76",
+    "Website": "https://www.yuque.com/",
+    "Update": "2020-11-25 15:20:51",
+    "Size": "16.29 KB",
+    "More": "专业的云端知识库，面向个人和团队，提供与众不同的知识管理，打造轻松流畅的工作协同。已知问题：打开应用后无法输入中文。临时解决办法：应用内出现输入框界面后，可以先随意打开一个别的应用（比如文件管理器）窗口再关闭，然后就可以正常输入中文了。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/93e4cb00-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/988973e0-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/9c54d3c0-2f31-11eb-afff-ebd060f2ab0f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/25/86050130-2f31-11eb-afff-ebd060f2ab0f.png"
+}
+,
+{
     "Name": "Kuro(第三方微软 Todo)",
     "Version": "9.0.0",
     "Filename": "kuro_9.0.0_amd64.deb",
@@ -1398,22 +1414,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/31/0decdf5e58284e4592f2e4c309cf88ab.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/31/ecd5b9d3ed5744cfa54bac952d8e4705.png"
-}
-,
-{
-    "Name": "语雀（web）",
-    "Version": "1.0spark0",
-    "Filename": "web-yuque_1.0spark0_amd64.deb",
-    "Pkgname": "web-yuque",
-    "Author": "阿里支付宝",
-    "Contributor": "sgb76",
-    "Website": "https://www.yuque.com/",
-    "Update": "2020-11-25 15:20:51",
-    "Size": "16.29 KB",
-    "More": "专业的云端知识库，面向个人和团队，提供与众不同的知识管理，打造轻松流畅的工作协同。已知问题：打开应用后无法输入中文。临时解决办法：应用内出现输入框界面后，可以先随意打开一个别的应用（比如文件管理器）窗口再关闭，然后就可以正常输入中文了。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/93e4cb00-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/988973e0-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/9c54d3c0-2f31-11eb-afff-ebd060f2ab0f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/25/86050130-2f31-11eb-afff-ebd060f2ab0f.png"
 }
 ,
 {
@@ -1434,20 +1434,20 @@
 }
 ,
 {
-    "Name": "pdf-xchange-wine",
-    "Version": "2.5.322.10",
-    "Filename": "com.pdf-xchange.spark_2.5.322.10_amd64.deb",
-    "Torrent_address": "com.pdf-xchange.spark_2.5.322.10_amd64.deb.torrent",
-    "Pkgname": "com.pdf-xchange.spark",
-    "Author": "神末shenmo bigben446",
-    "Contributor": "神末shenmo bigben446",
-    "Website": "https://bbs.deepin.org/zh/post/235433",
-    "Update": "2022-04-22 14:10:38",
-    "Size": "40.74 MB",
-    "More": "pdf-xchange的wine版本，可以直接打开pdf文件进行注释，比wps-pdf或者福昕阅读器要更好用，和win下面实验体验几乎一致。",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/22/d5467390-c202-11ec-854a-efb632f5f553.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/22/d738cdb0-c202-11ec-854a-efb632f5f553.jpg\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/22/c128ea50-c202-11ec-854a-efb632f5f553.png"
+    "Name": "稻壳阅读器（Wine）",
+    "Version": "2.2.21spark0",
+    "Filename": "com.docbox.spark_2.2.21spark0_all.deb",
+    "Torrent_address": "com.docbox.spark_2.2.21spark0_all.deb.torrent",
+    "Pkgname": "com.docbox.spark",
+    "Author": "稻壳阅读器",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://www.daokeyuedu.com/",
+    "Update": "2024-01-21 15:34:44",
+    "Size": "24.44 MB",
+    "More": "稻壳阅读是一款可访问海量文档资源的极速云阅读器\n它界面简洁、办公高效，让您阅读更加专注 \n暂不支持网页浏览功能（不然太大了）",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/5c2f33d74069430c91f2fa89b8aacc64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/48a877bb6bfa486aa4ca01aaea41916a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/e89c98d38e6f464d8b1bb33fd04b1501.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/21/cf30b76596e745aaafbf3f347a413e12.png"
 }
 ,
 {
@@ -1468,20 +1468,20 @@
 }
 ,
 {
-    "Name": "稻壳阅读器（Wine）",
-    "Version": "2.2.21spark0",
-    "Filename": "com.docbox.spark_2.2.21spark0_all.deb",
-    "Torrent_address": "com.docbox.spark_2.2.21spark0_all.deb.torrent",
-    "Pkgname": "com.docbox.spark",
-    "Author": "稻壳阅读器",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://www.daokeyuedu.com/",
-    "Update": "2024-01-21 15:34:44",
-    "Size": "24.44 MB",
-    "More": "稻壳阅读是一款可访问海量文档资源的极速云阅读器\n它界面简洁、办公高效，让您阅读更加专注 \n暂不支持网页浏览功能（不然太大了）",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/5c2f33d74069430c91f2fa89b8aacc64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/48a877bb6bfa486aa4ca01aaea41916a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/e89c98d38e6f464d8b1bb33fd04b1501.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/21/cf30b76596e745aaafbf3f347a413e12.png"
+    "Name": "pdf-xchange-wine",
+    "Version": "2.5.322.10",
+    "Filename": "com.pdf-xchange.spark_2.5.322.10_amd64.deb",
+    "Torrent_address": "com.pdf-xchange.spark_2.5.322.10_amd64.deb.torrent",
+    "Pkgname": "com.pdf-xchange.spark",
+    "Author": "神末shenmo bigben446",
+    "Contributor": "神末shenmo bigben446",
+    "Website": "https://bbs.deepin.org/zh/post/235433",
+    "Update": "2022-04-22 14:10:38",
+    "Size": "40.74 MB",
+    "More": "pdf-xchange的wine版本，可以直接打开pdf文件进行注释，比wps-pdf或者福昕阅读器要更好用，和win下面实验体验几乎一致。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/22/d5467390-c202-11ec-854a-efb632f5f553.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/22/d738cdb0-c202-11ec-854a-efb632f5f553.jpg\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/22/c128ea50-c202-11ec-854a-efb632f5f553.png"
 }
 ,
 {
@@ -1833,23 +1833,6 @@
 
 ,
 {
-    "Name": "Effie",
-    "Version": "3.5.1spark12",
-    "Filename": "co.effie.spark_3.5.1spark12_all.deb",
-    "Torrent_address": "co.effie.spark_3.5.1spark12_all.deb.torrent",
-    "Pkgname": "co.effie.spark",
-    "Author": "上海七加二科技有限公司",
-    "Contributor": "sgb76",
-    "Website": "https://www.effie.co/",
-    "Update": "2024-02-26 23:21:21",
-    "Size": "83.94 MB",
-    "More": "一款思想家专用的写作软件。无论是严肃写作,随手记录,亦或是把逻辑完善成思维导图,Effie都是您明智的选择\n\n更新说明：\n1.通过spark-dwine-helper脚本自适应高分屏，根据用户设置的屏幕缩放倍数自动调整应用界面的缩放\n2.deepin下默认调用系统文管，Ubuntu下默认调用wine文管\n已知问题：\n当导出文档为PDF时程序报错，导出图片、Word和MD文档则正常",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/7107cd207f144847b573a28242215315.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/f8dc1af5bc8f45dfbbd5b77c6db15456.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/70b32595695348a3a82d548fd5a4f303.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/26/970bd814b5674635a01321eb97cc6bb5.png"
-}
-,
-{
     "Name": "中银证券（wine）",
     "Version": "8.14deepin5",
     "Filename": "com.bocichina.zhongyin.spark_8.14deepin5_i386.deb",
@@ -1864,6 +1847,23 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/07/65cf5a20-e676-11ec-89e9-6d13a4e046a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/07/674690d0-e676-11ec-89e9-6d13a4e046a5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/07/621c6440-e676-11ec-89e9-6d13a4e046a5.png"
+}
+,
+{
+    "Name": "Effie",
+    "Version": "3.5.1spark12",
+    "Filename": "co.effie.spark_3.5.1spark12_all.deb",
+    "Torrent_address": "co.effie.spark_3.5.1spark12_all.deb.torrent",
+    "Pkgname": "co.effie.spark",
+    "Author": "上海七加二科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.effie.co/",
+    "Update": "2024-02-26 23:21:21",
+    "Size": "83.94 MB",
+    "More": "一款思想家专用的写作软件。无论是严肃写作,随手记录,亦或是把逻辑完善成思维导图,Effie都是您明智的选择\n\n更新说明：\n1.通过spark-dwine-helper脚本自适应高分屏，根据用户设置的屏幕缩放倍数自动调整应用界面的缩放\n2.deepin下默认调用系统文管，Ubuntu下默认调用wine文管\n已知问题：\n当导出文档为PDF时程序报错，导出图片、Word和MD文档则正常",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/7107cd207f144847b573a28242215315.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/f8dc1af5bc8f45dfbbd5b77c6db15456.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/70b32595695348a3a82d548fd5a4f303.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/26/970bd814b5674635a01321eb97cc6bb5.png"
 }
 ,
 {
@@ -3621,6 +3621,23 @@
 }
 ,
 {
+    "Name": "WPS Office 365",
+    "Version": "12.8.2.16969.AK.preload.sw",
+    "Filename": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb",
+    "Torrent_address": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb.torrent",
+    "Pkgname": "wps-office-365",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://wps-community.org",
+    "Update": "2024-06-16 10:13:44",
+    "Size": "722.16 MB",
+    "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/819a4c6aea004b1bb9059da5c1511085.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6bd9ad01e587436fb9ca5e74ef078921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/76097ef94d21409091dbcada9fcefe7c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/2dffce17cb754c4a8407d85de5511bc2.png"
+}
+,
+{
     "Name": "EssentialPIM Pro（wine）",
     "Version": "9.7.5spark0",
     "Filename": "com.essentialpim.spark_9.7.5spark0_amd64.deb",
@@ -3834,23 +3851,6 @@
 }
 ,
 {
-    "Name": "WPS Office 365",
-    "Version": "12.8.2.16969.AK.preload.sw",
-    "Filename": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb",
-    "Torrent_address": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb.torrent",
-    "Pkgname": "wps-office-365",
-    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://wps-community.org",
-    "Update": "2024-06-16 10:13:44",
-    "Size": "722.16 MB",
-    "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/819a4c6aea004b1bb9059da5c1511085.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6bd9ad01e587436fb9ca5e74ef078921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/76097ef94d21409091dbcada9fcefe7c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/2dffce17cb754c4a8407d85de5511bc2.png"
-}
-,
-{
     "Name": "我来笔记（web）",
     "Version": "1.0spark0",
     "Filename": "web-wolai_1.0spark0_amd64.deb",
@@ -3899,6 +3899,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/13/0c32a0a7cae747458b6fb2d90584ae0e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/13/bdc024c4d6c44e238b10ac2682f3e441.png"
+}
+,
+{
+    "Name": "全能王PDF转换软件",
+    "Version": "2.0.1.2spark0",
+    "Filename": "com.quannengpdfconvert.spark_2.0.1.2spark0_all.deb",
+    "Torrent_address": "com.quannengpdfconvert.spark_2.0.1.2spark0_all.deb.torrent",
+    "Pkgname": "com.quannengpdfconvert.spark",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.360qnw.com/",
+    "Update": "2024-05-01 15:23:19",
+    "Size": "58.48 MB",
+    "More": "支持PDF转Word，Word转PDF，PDF转Excel，PDF转图片，PPT转PDF等文档文件互转。全能王PDF转换软件是一款专业PDF文件转换处理软件，支持多种格式互转，如WORD转PDF，EXCEL转PDF，图片转PDF。同时还支持 PDF压缩、PDF合并、PDF拆分、PDF提取等功能，支持多个PDF文件批量转换，轻松快捷，是办公人员必备的PDF转换工具。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/090c786373ba406e8ede86cb37641fe8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/06794672562b40b587fd1fdd2ce045a0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/bec8c80fc44d46b0bbb4fbf68fc34745.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/01/204d45a2af3b41c0b2e78b699db938b3.png"
 }
 ,
 {
@@ -4012,23 +4029,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/23/8c016aeec9784c85b6a2cd11d095f3aa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/23/70bda6efc36c42bea56ceea81019d5e1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/23/a4342f230d874c439351cf0faa88b1b7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/23/c9dc121c91d944d496c4458c3e0d35aa.png"
-}
-,
-{
-    "Name": "全能王PDF转换软件",
-    "Version": "2.0.1.2spark0",
-    "Filename": "com.quannengpdfconvert.spark_2.0.1.2spark0_all.deb",
-    "Torrent_address": "com.quannengpdfconvert.spark_2.0.1.2spark0_all.deb.torrent",
-    "Pkgname": "com.quannengpdfconvert.spark",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.360qnw.com/",
-    "Update": "2024-05-01 15:23:19",
-    "Size": "58.48 MB",
-    "More": "支持PDF转Word，Word转PDF，PDF转Excel，PDF转图片，PPT转PDF等文档文件互转。全能王PDF转换软件是一款专业PDF文件转换处理软件，支持多种格式互转，如WORD转PDF，EXCEL转PDF，图片转PDF。同时还支持 PDF压缩、PDF合并、PDF拆分、PDF提取等功能，支持多个PDF文件批量转换，轻松快捷，是办公人员必备的PDF转换工具。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/090c786373ba406e8ede86cb37641fe8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/06794672562b40b587fd1fdd2ce045a0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/bec8c80fc44d46b0bbb4fbf68fc34745.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/01/204d45a2af3b41c0b2e78b699db938b3.png"
 }
 ,
 {
@@ -4155,6 +4155,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/8097e5ffcd534ed7b9706e8b9134ca31.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/a3fd53fecf184aca8daa96168724e31e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/28/b406d079c0454947a04d966ca512631c.png"
+}
+,
+{
+    "Name": "便签大师",
+    "Version": "1.4.0-20240226",
+    "Filename": "com.gitee.xinghuo.note_1.4.0-20240226_amd64.deb",
+    "Torrent_address": "com.gitee.xinghuo.note_1.4.0-20240226_amd64.deb.torrent",
+    "Pkgname": "com.gitee.xinghuo.note",
+    "Author": "夜行者",
+    "Contributor": "夜行者",
+    "Website": "https://gitee.com/xinghuowangluo/note",
+    "Update": "2024-02-28 16:40:10",
+    "Size": "37.41 KB",
+    "More": "便签大师;\n .\n便签大师，一种便捷的记事工具，用于在桌面上记录临时信息、提醒事项或待办任务。 界面美观，体积小、速度快",
+    "Tags": "community;deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/28/4b68d992c1bc4e75b7103d0e436a034b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/28/de6445082ad44fa78a860a4cb6ee8ad2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/28/fd5c38a5fe864f149d7df9ba1fc9f2b0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/28/73413a60224a4f028a56be572c8e64e3.png"
 }
 ,
 {
@@ -4302,23 +4319,6 @@
     "Tags": "deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/11/27f203b0-197a-11ed-ba4c-1bea252071b1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/11/29e23af0-197a-11ed-ba4c-1bea252071b1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/11/2baaed00-197a-11ed-ba4c-1bea252071b1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/11/24ded040-197a-11ed-ba4c-1bea252071b1.png"
-}
-,
-{
-    "Name": "便签大师",
-    "Version": "1.4.0-20240226",
-    "Filename": "com.gitee.xinghuo.note_1.4.0-20240226_amd64.deb",
-    "Torrent_address": "com.gitee.xinghuo.note_1.4.0-20240226_amd64.deb.torrent",
-    "Pkgname": "com.gitee.xinghuo.note",
-    "Author": "夜行者",
-    "Contributor": "夜行者",
-    "Website": "https://gitee.com/xinghuowangluo/note",
-    "Update": "2024-02-28 16:40:10",
-    "Size": "37.41 KB",
-    "More": "便签大师;\n .\n便签大师，一种便捷的记事工具，用于在桌面上记录临时信息、提醒事项或待办任务。 界面美观，体积小、速度快",
-    "Tags": "community;deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/28/4b68d992c1bc4e75b7103d0e436a034b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/28/de6445082ad44fa78a860a4cb6ee8ad2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/28/fd5c38a5fe864f149d7df9ba1fc9f2b0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/28/73413a60224a4f028a56be572c8e64e3.png"
 }
 ,
 {

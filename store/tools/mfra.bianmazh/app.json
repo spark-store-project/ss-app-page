@@ -1,16 +1,16 @@
 {
     "Name": "文本编码转换",
-    "Version": "1.4.5",
-    "Filename": "mfra.bianmazh_1.4.5_amd64.deb",
-    "Torrent_address": "mfra.bianmazh_1.4.5_amd64.deb.torrent",
+    "Version": "1.7.2",
+    "Filename": "mfra.bianmazh_1.7.2_amd64.deb",
+    "Torrent_address": "mfra.bianmazh_1.7.2_amd64.deb.torrent",
     "Pkgname": "mfra.bianmazh",
     "Author": "校医软件室",
     "Contributor": "校医软件室",
     "Website": "t.me/otohime_soft_room/6",
-    "Update": "2023-11-24 16:46:29",
-    "Size": "3.06 MB",
-    "More": "文本编码转换（此软件由AI生成py脚本，再由nuitka打包生成。）\n  本软件可以转换文件夹下文本文件的编码。\n  用法：\n 源文本文件夹路径：(输入含有文本文件的文件夹路径)\n 空文件夹路径：（输入前先创建空文件夹，用来放转换后的文件）\n 文本格式：（后缀，.xxx）\n 旧编码：（原来的编码）\n 新编码：（您希望转换成什么编码）",
+    "Update": "2024-06-18 22:35:24",
+    "Size": "6.55 MB",
+    "More": "文本编码转换（此软件由AI生成py脚本，再由nuitka打包生成。）\n  本软件可以转换文件夹下文本文件的编码。\n  用法：\n 源文本文件夹路径：(输入含有文本文件的文件夹路径)\n 空文件夹路径：（输入前先创建空文件夹，用来放转换后的文件）\n 文本格式：（后缀，.xxx）\n 旧编码：（原来的编码）\n 新编码：（您希望转换成什么编码）\n更新：代码升级",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/24/ebc49698891e43b786fd40eb3ebbe103.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/24/c2fd6feff96141d3858aef6ccc19b798.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/24/68c81e4b8a254343aa23efa982474521.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/18/ae57547ece3141e19a5945da43f1d11a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/18/c73cab9117c84077abbd70ced26afae9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/18/8fb23117b7a6444eb922864e5345d03b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/18/f7148e4c5f214143b57cb87034182e23.png"
 }
