@@ -943,23 +943,6 @@
 }
 ,
 {
-    "Name": "GitKraken",
-    "Version": "9.11.1",
-    "Filename": "gitkraken_9.11.1_amd64.deb",
-    "Torrent_address": "gitkraken_9.11.1_amd64.deb.torrent",
-    "Pkgname": "gitkraken",
-    "Author": "GitKraken",
-    "Contributor": "liuyuankai",
-    "Website": "https://www.gitkraken.com/",
-    "Update": "2024-01-20 15:41:35",
-    "Size": "132.48 MB",
-    "More": "图形化Git客户端，可以关联Github，Gitlab等账户",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/be32bbb28e6345a891ae37eb5a07c504.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/9827270980494b869ac58d6952cbfed7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/20/e575b276f96b4a1498120f106aff6001.png"
-}
-,
-{
     "Name": "通义千问（5亿参数版）",
     "Version": "0.15.1",
     "Filename": "com.qwen.chat.0dot5b_0.15.1_amd64.deb",
@@ -974,6 +957,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/59d3cf690c4b455a996dba3ea142d6fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/7e70dbd9327149b58832fbbd6e1bc7e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/d080f1859222440b9489046cdb6da95d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/16/f82f8f626b8540d182c9f3841cfe04f5.png"
+}
+,
+{
+    "Name": "GitKraken",
+    "Version": "9.11.1",
+    "Filename": "gitkraken_9.11.1_amd64.deb",
+    "Torrent_address": "gitkraken_9.11.1_amd64.deb.torrent",
+    "Pkgname": "gitkraken",
+    "Author": "GitKraken",
+    "Contributor": "liuyuankai",
+    "Website": "https://www.gitkraken.com/",
+    "Update": "2024-01-20 15:41:35",
+    "Size": "132.48 MB",
+    "More": "图形化Git客户端，可以关联Github，Gitlab等账户",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/be32bbb28e6345a891ae37eb5a07c504.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/9827270980494b869ac58d6952cbfed7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/20/e575b276f96b4a1498120f106aff6001.png"
 }
 ,
 {
