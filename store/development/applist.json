@@ -371,23 +371,6 @@
 
 ,
 {
-    "Name": "WebStorm",
-    "Version": "2024.1",
-    "Filename": "jetbrains-webstorm_2024.1_all.deb",
-    "Torrent_address": "jetbrains-webstorm_2024.1_all.deb.torrent",
-    "Pkgname": "jetbrains-webstorm",
-    "Author": "懵仙兔兔",
-    "Contributor": "懵仙兔兔",
-    "Website": "https://www.jetbrains.com/zh-cn/webstorm/",
-    "Update": "2024-04-10 21:35:32",
-    "Size": "2.55 KB",
-    "More": "WebStorm\n  最智能的 JavaScript IDE\n\n- 修复Wayland下在线安装显示问题\n- 增加检测 /tmp 目录空闲空间大小或使用 /var/tmp 目录\n\n  此安装包为在线安装包 - 懵仙兔兔",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/d58f5b8b41524dd88303b11a16f13e7f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/8b98f98f47e04925811bc7f930775ce2.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/877a150122664233826e5aa74b8c7b7d.png"
-}
-,
-{
     "Name": "dbeaver",
     "Version": "24.0.3",
     "Filename": "dbeaver-ce_24.0.3_amd64.deb",
@@ -402,6 +385,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/2a62ec3af46e4d3bab7378f7fe54f5b2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/dbe7850958024ec399035e64a4904634.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/f37b1878ac0c4949876a31504ecf9f69.png"
+}
+,
+{
+    "Name": "WebStorm",
+    "Version": "2024.1",
+    "Filename": "jetbrains-webstorm_2024.1_all.deb",
+    "Torrent_address": "jetbrains-webstorm_2024.1_all.deb.torrent",
+    "Pkgname": "jetbrains-webstorm",
+    "Author": "懵仙兔兔",
+    "Contributor": "懵仙兔兔",
+    "Website": "https://www.jetbrains.com/zh-cn/webstorm/",
+    "Update": "2024-04-10 21:35:32",
+    "Size": "2.55 KB",
+    "More": "WebStorm\n  最智能的 JavaScript IDE\n\n- 修复Wayland下在线安装显示问题\n- 增加检测 /tmp 目录空闲空间大小或使用 /var/tmp 目录\n\n  此安装包为在线安装包 - 懵仙兔兔",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/d58f5b8b41524dd88303b11a16f13e7f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/8b98f98f47e04925811bc7f930775ce2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/877a150122664233826e5aa74b8c7b7d.png"
 }
 ,
 {
@@ -694,22 +694,6 @@
 }
 ,
 {
-    "Name": "小熊猫C++（第三方devcpp）",
-    "Version": "0.12.5-2",
-    "Filename": "redpanda-ide_0.12.5-2_amd64.deb",
-    "Pkgname": "redpanda-ide",
-    "Author": "royqh1979",
-    "Contributor": "Hibanaw",
-    "Website": "https://royqh.net/devcpp/",
-    "Update": "2022-01-02 19:49:43",
-    "Size": "6.67 MB",
-    "More": "一个轻量的 C/C++ IDE\n基于 Qt5 开发的 Dev-C++ 后继版本\n已补全依赖 libts0 并更改包名为小写",
-    "Tags": "deepin;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/02/ed3c3500-6b7e-11ec-aedd-ed2c9f927cd8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/02/ed533f70-6b7e-11ec-aedd-ed2c9f927cd8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/01/02/e3df3430-6b7e-11ec-aedd-ed2c9f927cd8.png"
-}
-,
-{
     "Name": "Docker Desktop",
     "Version": "4.29.0-145265",
     "Filename": "docker-desktop_4.29.0-145265_amd64.deb",
@@ -724,6 +708,22 @@
     "Tags": "deepin;uos;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/25/fcab8d40-0282-11ef-b012-5b232c21a0f3.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/25/f4f16700-0282-11ef-b012-5b232c21a0f3.png"
+}
+,
+{
+    "Name": "小熊猫C++（第三方devcpp）",
+    "Version": "0.12.5-2",
+    "Filename": "redpanda-ide_0.12.5-2_amd64.deb",
+    "Pkgname": "redpanda-ide",
+    "Author": "royqh1979",
+    "Contributor": "Hibanaw",
+    "Website": "https://royqh.net/devcpp/",
+    "Update": "2022-01-02 19:49:43",
+    "Size": "6.67 MB",
+    "More": "一个轻量的 C/C++ IDE\n基于 Qt5 开发的 Dev-C++ 后继版本\n已补全依赖 libts0 并更改包名为小写",
+    "Tags": "deepin;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/02/ed3c3500-6b7e-11ec-aedd-ed2c9f927cd8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/02/ed533f70-6b7e-11ec-aedd-ed2c9f927cd8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/01/02/e3df3430-6b7e-11ec-aedd-ed2c9f927cd8.png"
 }
 ,
 {
@@ -877,6 +877,23 @@
 }
 ,
 {
+    "Name": "XTerminal",
+    "Version": "1.8.0",
+    "Filename": "xterminal_1.8.0_amd64.deb",
+    "Torrent_address": "xterminal_1.8.0_amd64.deb.torrent",
+    "Pkgname": "xterminal",
+    "Author": "Xterminal",
+    "Contributor": "sgb76",
+    "Website": "https://xterminal.cn",
+    "Update": "2024-02-03 23:35:11",
+    "Size": "104.76 MB",
+    "More": "一款功能强大的跨平台开发工具，支持 Windows、macOS、Linux 系统，它在 SSH 客户端的基础之上，整合了自动补全、密钥管理、笔记、云端仓库、监控工具，快捷动作等功能。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/03/9dd93d21fc554cdebd3af290c72a9833.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/03/f009fcf19bee4d74a4e8292a972166a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/03/1dabfa919f39420db8c730eb72ce7e4a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/03/2171522cfef7400cb68610b1a54d4aa9.png"
+}
+,
+{
     "Name": "RedisViewer",
     "Version": "2.4.4",
     "Filename": "redisviewer_2.4.4_amd64.deb",
@@ -957,23 +974,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/59d3cf690c4b455a996dba3ea142d6fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/7e70dbd9327149b58832fbbd6e1bc7e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/d080f1859222440b9489046cdb6da95d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/16/f82f8f626b8540d182c9f3841cfe04f5.png"
-}
-,
-{
-    "Name": "XTerminal",
-    "Version": "1.8.0",
-    "Filename": "xterminal_1.8.0_amd64.deb",
-    "Torrent_address": "xterminal_1.8.0_amd64.deb.torrent",
-    "Pkgname": "xterminal",
-    "Author": "Xterminal",
-    "Contributor": "sgb76",
-    "Website": "https://xterminal.cn",
-    "Update": "2024-02-03 23:35:11",
-    "Size": "104.76 MB",
-    "More": "一款功能强大的跨平台开发工具，支持 Windows、macOS、Linux 系统，它在 SSH 客户端的基础之上，整合了自动补全、密钥管理、笔记、云端仓库、监控工具，快捷动作等功能。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/03/9dd93d21fc554cdebd3af290c72a9833.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/03/f009fcf19bee4d74a4e8292a972166a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/03/1dabfa919f39420db8c730eb72ce7e4a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/03/2171522cfef7400cb68610b1a54d4aa9.png"
 }
 ,
 {
@@ -2008,23 +2008,6 @@
 }
 ,
 {
-    "Name": "HeidiSQL(wine)",
-    "Version": "12.7.0.6850",
-    "Filename": "com.heidisql.spark_12.7.0.6850_i386.deb",
-    "Torrent_address": "com.heidisql.spark_12.7.0.6850_i386.deb.torrent",
-    "Pkgname": "com.heidisql.spark",
-    "Author": "heidisql",
-    "Contributor": "ThinkYoung",
-    "Website": "https://www.heidisql.com/",
-    "Update": "2024-05-05 22:45:53",
-    "Size": "34.57 MB",
-    "More": "HeidiSQL是一款面向Web开发人员的功能强大且可靠的工具，适用于流行数据库如MySQL、SQlite、Microsoft SQL和PostgreSQL。它允许用户轻松浏览和编辑数据，创建和编辑结构。该软件免费使用，旨在易于学习。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/414fa85ea4c34f0796ba83893603ec89.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/8bc85a35f1014aa89dfb7af038b76207.png"
-}
-,
-{
     "Name": "Mixly",
     "Version": "2.0",
     "Filename": "org.mixly_2.0_amd64.deb",
@@ -2039,6 +2022,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/28ab1857d4064c4994a0949a1ac505eb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/faa4d13b1475480699ec53ba27ea2646.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/7f053b2b44844d139cb6ab712eb38d11.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/30/ffe4c3ad968441c1abaa37e3905843e2.png"
+}
+,
+{
+    "Name": "HeidiSQL(wine)",
+    "Version": "12.7.0.6850",
+    "Filename": "com.heidisql.spark_12.7.0.6850_i386.deb",
+    "Torrent_address": "com.heidisql.spark_12.7.0.6850_i386.deb.torrent",
+    "Pkgname": "com.heidisql.spark",
+    "Author": "heidisql",
+    "Contributor": "ThinkYoung",
+    "Website": "https://www.heidisql.com/",
+    "Update": "2024-05-05 22:45:53",
+    "Size": "34.57 MB",
+    "More": "HeidiSQL是一款面向Web开发人员的功能强大且可靠的工具，适用于流行数据库如MySQL、SQlite、Microsoft SQL和PostgreSQL。它允许用户轻松浏览和编辑数据，创建和编辑结构。该软件免费使用，旨在易于学习。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/414fa85ea4c34f0796ba83893603ec89.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/8bc85a35f1014aa89dfb7af038b76207.png"
 }
 ,
 {

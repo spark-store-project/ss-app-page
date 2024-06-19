@@ -831,23 +831,6 @@
 }
 ,
 {
-    "Name": "文件蜈蚣",
-    "Version": "2.02",
-    "Filename": "com.filecxx.filecxx_2.02_amd64.deb",
-    "Torrent_address": "com.filecxx.filecxx_2.02_amd64.deb.torrent",
-    "Pkgname": "com.filecxx.filecxx",
-    "Author": "filecxx",
-    "Contributor": "shenmo",
-    "Website": "http://www.filecxx.com/zh_CN/index.html",
-    "Update": "2022-06-27 20:34:12",
-    "Size": "27.99 MB",
-    "More": "文件蜈蚣是一个网络文件下载管理器, WebDAV客户端, FTP客户端, 和SSH客户端.\n它快速, 可定制, 用户友好, 多协议支持, 并且免费无广告.\n同时也包含了很多有用的辅助工具如: HTTP请求器, 文件合并工具, 编码/解码工具等.\n和网页浏览器进行集成, 你可以从网页上下载音频和视频, 甚至是加密视频.\n文件蜈蚣让一切变得简单和高效, 这是你能找到的最好的互联网下载管理器.\n\n首次使用请更改文件保存路径，否则所有内容会被保存到/root 下\n免费序列号：http://www.filecxx.com/zh_CN/activation_code.html\n（不是破解）",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/27/ecd5dbe0-f614-11ec-8e3f-63bd0205a602.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/27/ef5ea9a0-f614-11ec-8e3f-63bd0205a602.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/27/ce1e16e0-f614-11ec-8e3f-63bd0205a602.png"
-}
-,
-{
     "Name": "AnyDesk在线远程桌面",
     "Version": "6.3.0",
     "Filename": "anydesk_6.3.0_amd64.deb",
@@ -879,6 +862,23 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/09/ab853e77d45d4d4cb63188153d6e78ff.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/09/6bec763bfcd747cdab03f57bb3df183e.png"
+}
+,
+{
+    "Name": "文件蜈蚣",
+    "Version": "2.02",
+    "Filename": "com.filecxx.filecxx_2.02_amd64.deb",
+    "Torrent_address": "com.filecxx.filecxx_2.02_amd64.deb.torrent",
+    "Pkgname": "com.filecxx.filecxx",
+    "Author": "filecxx",
+    "Contributor": "shenmo",
+    "Website": "http://www.filecxx.com/zh_CN/index.html",
+    "Update": "2022-06-27 20:34:12",
+    "Size": "27.99 MB",
+    "More": "文件蜈蚣是一个网络文件下载管理器, WebDAV客户端, FTP客户端, 和SSH客户端.\n它快速, 可定制, 用户友好, 多协议支持, 并且免费无广告.\n同时也包含了很多有用的辅助工具如: HTTP请求器, 文件合并工具, 编码/解码工具等.\n和网页浏览器进行集成, 你可以从网页上下载音频和视频, 甚至是加密视频.\n文件蜈蚣让一切变得简单和高效, 这是你能找到的最好的互联网下载管理器.\n\n首次使用请更改文件保存路径，否则所有内容会被保存到/root 下\n免费序列号：http://www.filecxx.com/zh_CN/activation_code.html\n（不是破解）",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/27/ecd5dbe0-f614-11ec-8e3f-63bd0205a602.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/27/ef5ea9a0-f614-11ec-8e3f-63bd0205a602.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/27/ce1e16e0-f614-11ec-8e3f-63bd0205a602.png"
 }
 ,
 {
@@ -1114,6 +1114,23 @@
 
 ,
 {
+    "Name": "比特彗星(Linux) BitComet",
+    "Version": "2.7.0",
+    "Filename": "com.bitcomet.linux_2.7.0_amd64.deb",
+    "Torrent_address": "com.bitcomet.linux_2.7.0_amd64.deb.torrent",
+    "Pkgname": "com.bitcomet.linux",
+    "Author": "spark-store",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.bitcomet.com/cn",
+    "Update": "2024-04-01 23:03:28",
+    "Size": "17.9 MB",
+    "More": "一款免费的BT/HTTP/FTP下载软件！\n功能强大速度快，操作简单的BT下载软件，BT资源下载利器！",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/01/0794097daf6349e89a2c7e946978fa94.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/01/ac9501f8698343a8816579c9502c9c34.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/01/cd5bf51be9e142648479315cd9c7897b.png"
+}
+,
+{
     "Name": "Microsoft Edge(Beta)",
     "Version": "126.0.2592.49-1",
     "Filename": "microsoft-edge-beta_126.0.2592.49-1_amd64.deb",
@@ -1130,23 +1147,6 @@
     "icons": "https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-beta/icon.png"
 }
 
-,
-{
-    "Name": "比特彗星(Linux) BitComet",
-    "Version": "2.7.0",
-    "Filename": "com.bitcomet.linux_2.7.0_amd64.deb",
-    "Torrent_address": "com.bitcomet.linux_2.7.0_amd64.deb.torrent",
-    "Pkgname": "com.bitcomet.linux",
-    "Author": "spark-store",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://www.bitcomet.com/cn",
-    "Update": "2024-04-01 23:03:28",
-    "Size": "17.9 MB",
-    "More": "一款免费的BT/HTTP/FTP下载软件！\n功能强大速度快，操作简单的BT下载软件，BT资源下载利器！",
-    "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/01/0794097daf6349e89a2c7e946978fa94.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/01/ac9501f8698343a8816579c9502c9c34.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/01/cd5bf51be9e142648479315cd9c7897b.png"
-}
 ,
 {
     "Name": "VNC Server",
@@ -1280,23 +1280,6 @@
 }
 ,
 {
-    "Name": "UOS 远程协助",
-    "Version": "1.1.36-1",
-    "Filename": "uos-remote-assistance_1.1.36-1_amd64.deb",
-    "Torrent_address": "uos-remote-assistance_1.1.36-1_amd64.deb.torrent",
-    "Pkgname": "uos-remote-assistance",
-    "Author": "Deepin Sysdev <sysdev@deepin.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.deepin.org",
-    "Update": "2023-10-04 09:46:06",
-    "Size": "11.24 MB",
-    "More": "UOS 家庭版自带的远程协助工具，官方应用商店似乎下架了这个工具",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/04/b2dbc2a990824a77a99c44e576e7d5bb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/04/cd7481683937450eba00a38e20a2b7e5.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/04/080a51f46732469bad3bea23ac9698df.png"
-}
-,
-{
     "Name": "Clash Nyanpasu～(∠・ω< )⌒☆​ ",
     "Version": "1.5.1",
     "Filename": "clash-nyanpasu_1.5.1_amd64.deb",
@@ -1311,6 +1294,23 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/e7122150-f8dd-11ee-94b3-3598cf0b4d68.gif\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/d8f3eef0-f8dd-11ee-94b3-3598cf0b4d68.png"
+}
+,
+{
+    "Name": "UOS 远程协助",
+    "Version": "1.1.36-1",
+    "Filename": "uos-remote-assistance_1.1.36-1_amd64.deb",
+    "Torrent_address": "uos-remote-assistance_1.1.36-1_amd64.deb.torrent",
+    "Pkgname": "uos-remote-assistance",
+    "Author": "Deepin Sysdev <sysdev@deepin.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.deepin.org",
+    "Update": "2023-10-04 09:46:06",
+    "Size": "11.24 MB",
+    "More": "UOS 家庭版自带的远程协助工具，官方应用商店似乎下架了这个工具",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/04/b2dbc2a990824a77a99c44e576e7d5bb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/04/cd7481683937450eba00a38e20a2b7e5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/04/080a51f46732469bad3bea23ac9698df.png"
 }
 ,
 {
@@ -1628,6 +1628,23 @@
 }
 ,
 {
+    "Name": "HopToDesk",
+    "Version": "1.40.7.1",
+    "Filename": "hoptodesk_1.40.7.1_amd64.deb",
+    "Torrent_address": "hoptodesk_1.40.7.1_amd64.deb.torrent",
+    "Pkgname": "hoptodesk",
+    "Author": "HopToDesk",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.hoptodesk.com",
+    "Update": "2023-08-26 16:31:44",
+    "Size": "9.4 MB",
+    "More": "HopToDesk是一个免费的远程桌面工具，允许用户分享他们的屏幕并允许远程控制访问他们的电脑和设备。与TeamViewer或AnyDesk等其他类似工具不同，HopToDesk对个人和企业使用都是免费的，为所有同行通信提供真正的端到端加密，并且是开源的。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/26/1ca1732c17f1457f846170f3ce31d613.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/26/725abd4fb3ae4e578b85c9e7b6b82ab9.png"
+}
+,
+{
     "Name": "Midori 浏览器（一个轻量级的 Web 浏览器）",
     "Version": "7.0-2",
     "Filename": "midori_7.0-2_amd64.deb",
@@ -1658,23 +1675,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/c20d7cf0-404f-11eb-b208-9f1d14fad35c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/c4530020-404f-11eb-b208-9f1d14fad35c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/17/b9f11270-404f-11eb-b208-9f1d14fad35c.png"
-}
-,
-{
-    "Name": "HopToDesk",
-    "Version": "1.40.7.1",
-    "Filename": "hoptodesk_1.40.7.1_amd64.deb",
-    "Torrent_address": "hoptodesk_1.40.7.1_amd64.deb.torrent",
-    "Pkgname": "hoptodesk",
-    "Author": "HopToDesk",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://www.hoptodesk.com",
-    "Update": "2023-08-26 16:31:44",
-    "Size": "9.4 MB",
-    "More": "HopToDesk是一个免费的远程桌面工具，允许用户分享他们的屏幕并允许远程控制访问他们的电脑和设备。与TeamViewer或AnyDesk等其他类似工具不同，HopToDesk对个人和企业使用都是免费的，为所有同行通信提供真正的端到端加密，并且是开源的。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/26/1ca1732c17f1457f846170f3ce31d613.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/26/725abd4fb3ae4e578b85c9e7b6b82ab9.png"
 }
 ,
 {
@@ -2597,6 +2597,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.jd.jm/screen_1.png\"]"
 }
 
+,
+{
+    "Name": "iTubeGo 视频下载",
+    "Version": "7.8.2",
+    "Filename": "com.itubego.deepin_7.8.2_all.deb",
+    "Torrent_address": "com.itubego.deepin_7.8.2_all.deb.torrent",
+    "Pkgname": "com.itubego.deepin",
+    "Author": "iTubeGodde-fileManager",
+    "Contributor": "iTubeGo",
+    "Website": "https://itubego.com/en63/",
+    "Update": "2024-06-19 21:03:58",
+    "Size": "144.39 MB",
+    "More": "一款顶级的视频下载工具，能从YouTube及其他超过1000个视频分享平台快速下载视频和音频文件，并支持多种格式转换",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/5208fc68a15145a493e1c9d37510dc42.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/f61015f443344289903d574984793378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/7fe1f9cb38cc4f218531582fe38c5fd0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/d7681c2a5ea440e8a39f99a4130d002d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/19/2ac5f698c5e54f639f585cb7059e58ff.png"
+}
 ,
 {
     "Name": "合育宝PTrainer",

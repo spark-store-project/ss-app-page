@@ -1,5 +1,45 @@
 Package: com.electron
 Architecture: amd64
+Version: 31.0.0
+Priority: optional
+Section: devel
+Maintainer: SZBT CI <lu1044100652@outlook.com>
+Installed-Size: 265144
+Depends: nodejs
+Filename: depends/com.electron/com.electron_31.0.0_amd64.deb
+Size: 76726484
+MD5sum: 656b385ba09c9fe1d1f979b9cc57dcb1
+SHA1: 4d5f580a6331cae08474dd96976861008d48385b
+SHA256: 73f7b2b844382abaf0b1e679002c8379db6d874fdd5f2e2a402d66325b6e9207
+SHA512: ac6b794985b7ee27c8a9e8fcfcc73d25b73ac80e495674ea0dc082356cd0f77daf7232032a2c38937cc316f709465fafedbd2e800cb4a40b7f16339e1b650fe3
+Homepage: https://www.electronjs.org/
+Description:
+    The Electron framework lets you write cross-platform desktop applications using
+ JavaScript, HTML and CSS. It is based on Node.js and Chromium and is used by the
+ Atom editor and many other apps.
+
+Package: com.electron.lts
+Architecture: amd64
+Version: 28.3.3
+Priority: optional
+Section: devel
+Maintainer: SZBT CI <lu1044100652@outlook.com>
+Installed-Size: 258263
+Depends: nodejs
+Filename: depends/com.electron/com.electron.lts_28.3.3_amd64.deb
+Size: 74892348
+MD5sum: 61714931e7b7f62346b493911fb101d7
+SHA1: 2e349b1ec524957336f2a8078aee7496290ce5dc
+SHA256: 8f2f3d2265f0e08375b406f21248f67807213d11170ea6f56f654b46b81de0b6
+SHA512: f44386d759001e18d0cb81732585210821101a98fd505562ef153b6caec262c0b48ae01b79567647cf9eafed0bfea23741bfadc70b7e60498a30baff6a521844
+Homepage: https://www.electronjs.org/
+Description:
+    The Electron framework lets you write cross-platform desktop applications using
+ JavaScript, HTML and CSS. It is based on Node.js and Chromium and is used by the
+ Atom editor and many other apps.
+
+Package: com.electron
+Architecture: amd64
 Version: 27.3.8
 Priority: optional
 Section: devel
@@ -17805,6 +17845,27 @@ Description: cloudar-electron
 
 Package: xmcl
 Architecture: amd64
+Version: 0.44.8-840
+Priority: optional
+Section: default
+Maintainer: ci010 <cijhn@hotmail.com>
+Installed-Size: 284375
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: games/xmcl/xmcl_0.44.8-840_amd64.deb
+Size: 82885148
+MD5sum: 0998ebde444b0c4cb8d516c851f58544
+SHA1: f30fd498bf764b2cb81405efc5baf93924964c2f
+SHA256: 47adb523618639e67a3cd35d9ec93a79388a57b98c7a27c98dd17ec088d8a51e
+SHA512: 0c0ba41e53b85276465d2df70352852d04da1fafde30d268a719e2ab6a1d7efdc34261f79052e4d479bf938da1684ffe09bce67bff67add19f231f844fb2e362
+Homepage: https://github.com/voxelum/x-minecraft-launcher#readme
+Description: 
+  A great minecraft launcher in the future
+License: MIT
+Vendor: ci010 <cijhn@hotmail.com>
+
+Package: xmcl
+Architecture: amd64
 Version: 0.44.8-839
 Priority: optional
 Section: default
@@ -19213,6 +19274,23 @@ SHA512: 137b60a2c485586f42c54878c95b3f4a675de8409b1dae3072fc35315be766b3d03a7352
 Homepage: https://www.gbstudio.dev
 Description: Visual retro game maker
  Visual retro game maker
+
+Package: com.mihoyo.sr-cloud
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: misc
+Maintainer: unknown <shenmo-ikun@shenmo-ikun-PC>
+Installed-Size: 45
+Depends: com.electron
+Filename: games/com.mihoyo.sr-cloud/com.mihoyo.sr-cloud_1.0.0_all.deb
+Size: 26928
+MD5sum: dd090f811ef7644289f20572c8329930
+SHA1: c9b70e917463f4e8447efb80022291033238b431
+SHA256: d226faabc4a83bb81e6386f391641dd2d7595db1e1c19b9a6af4d90827ee61a6
+SHA512: 52ae701f588076ddd93716b22058cef7d0ca533f6f76ff2b63da77b3f10ec331bb9e9a97d3de03d974595e87b28a87e39520b6357904cc1d804d084c60b2bcbf
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
 
 Package: com.starcraft.spark
 Architecture: i386
@@ -24452,6 +24530,27 @@ SHA256: 5f26530bcb375ded8b4c90f8dc77c83d6e7d7a8fdfcb4ad7e02cbca8935cc42d
 SHA512: ea36bfe9d2182ec6efdb082fcab6959554b053519844ddba34da832b94b7f3d0b31a458752ee71f82e6663161b25c715fb9e0490b1362e86e2a371e5f1a25d65
 Description: 澎博博易大师6 on wine7.9
  博易大师6实盘交易版。本版本已经支持多家期货公司实盘交易。
+
+Package: vic-diary
+Architecture: amd64
+Version: 0.4.1
+Priority: optional
+Section: default
+Maintainer: stevobm
+Installed-Size: 243965
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: office/vic-diary/vic-diary_0.4.1_amd64.deb
+Size: 68658118
+MD5sum: cef1b6851e2fc53a17a895cbb5324f8b
+SHA1: 8cfc3c5620e8e680e055916756381f348f513b96
+SHA256: 0a7eec5280cf1e0144a0dcfc2ac071781d0f79eee0afebd8520c1a60b33a1ce1
+SHA512: 360563225008b086c4fc886eb63dc187cc33b9b0e8e374096c194a85110b6471e3a6fdd4928882e8e72b0a40585c778f3ec779808a537b7e01067963166cf064
+Homepage: https://github.com/vo-soft/vic-diary
+Description: 
+  An elegant diary supported markdown
+License: unknown
+Vendor: stevobm
 
 Package: vic-diary
 Architecture: amd64
@@ -29739,6 +29838,23 @@ SHA1: 571449906c83739c944efb3bd3fe80a6776f844c
 SHA256: 7e3a0cbb3d04a6c4a90adf18203aff04d5020f492f28fa91935a76b3a2832f42
 SHA512: 5e29da87c895c6f98a0f730279a82e644edbb12a7685edacab87c39324727a8372cb956d4dff5358157b30264a369bda3304ac8fd4f54f3396f010fdef47745f
 Description: LIII BitTorrent Client on Deepin Wine6
+
+Package: com.itubego.deepin
+Architecture: all
+Version: 7.8.2
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: iTubeGo
+Installed-Size: 151384
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: network/com.itubego.deepin/com.itubego.deepin_7.8.2_all.deb
+Size: 151402664
+MD5sum: 4c6388d6cf58825cc923724f4eb49c94
+SHA1: 76c2b08b5d56efbc6dc106e1f3fe86d47b74362b
+SHA256: e68be564f66c960cda667f468f6d4c516a4734755ecdaf9952b5c6b180f8a776
+SHA512: acdd362527399480e27efbd6ad57b810b1913665ba1a0521d2fdeb23dec9b96398ffc7c7b46b0c3aafae4b0eb53b61c9540867ef3eb977c3c6b1bb2e54f084c9
+Description: .一款顶级的视频下载工具，能从YouTube及其他超过1000个视频分享平台快速下载视频和音频文件，并支持多种格式转换
 
 Package: clash-verge
 Architecture: amd64

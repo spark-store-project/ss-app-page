@@ -1,3 +1,43 @@
+Package: com.electron.lts
+Architecture: arm64
+Version: 28.3.3
+Priority: optional
+Section: devel
+Maintainer: SZBT CI <lu1044100652@outlook.com>
+Installed-Size: 264283
+Depends: nodejs
+Filename: depends/com.electron/com.electron.lts_28.3.3_arm64.deb
+Size: 69608164
+MD5sum: a43872635c07227bdf21df2740ed4cce
+SHA1: fd2b14244b8fccabbec5a1d0871a427f92a0ccb3
+SHA256: ab5c71cee899bc1f77233ef812070abe209d1eb46d292b99deefa92561e93430
+SHA512: 23c41f09bcff2cea7a9aa69522d923353d5c10872391ecaf7954a67afb568e897bae15bbad7a47e0e6d8882e00059001c6702c66387e2614baacb20b18a4d54c
+Homepage: https://www.electronjs.org/
+Description:
+    The Electron framework lets you write cross-platform desktop applications using
+ JavaScript, HTML and CSS. It is based on Node.js and Chromium and is used by the
+ Atom editor and many other apps.
+
+Package: com.electron
+Architecture: arm64
+Version: 31.0.0
+Priority: optional
+Section: devel
+Maintainer: SZBT CI <lu1044100652@outlook.com>
+Installed-Size: 270150
+Depends: nodejs
+Filename: depends/com.electron/com.electron_31.0.0_arm64.deb
+Size: 71735628
+MD5sum: fbd9dea6f4a2fafcf91f0b8cbb57ebcb
+SHA1: 25c77aa2a949b99af4369a5b8f96c2ad4e2fc395
+SHA256: 700d797af9a69e4e16820cea3597965a3c0a9a3715e6b63e9d72ab281ecaa143
+SHA512: 2fcc3cc0d01cd77dd41fdfe920f3904c6e497c803d4fe62f53d4f8158ae79d1a0983afa2bb633bdcf5cd885137b67fbdd5f468f86268015eda629c9ed8550aa7
+Homepage: https://www.electronjs.org/
+Description:
+    The Electron framework lets you write cross-platform desktop applications using
+ JavaScript, HTML and CSS. It is based on Node.js and Chromium and is used by the
+ Atom editor and many other apps.
+
 Package: com.electron
 Architecture: arm64
 Version: 27.3.8
@@ -4962,6 +5002,23 @@ SHA256: edf6991876dc8ad964a1b667ba74e5a252bff4fb0dbd5f0ffa239c07d57e8545
 SHA512: 68ec9e1f03c537340dd5ffb581c691423d7255ad6816c4ca1f60fb130004322a7947acbac9fb7c92732aab35d6af5d7fd4eede646f9f0e306c2e486972e73a4d
 Description: https://www.bilibili.com/video/BV1Fd4y1N79Y
 
+Package: com.mihoyo.sr-cloud
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: misc
+Maintainer: unknown <shenmo-ikun@shenmo-ikun-PC>
+Installed-Size: 45
+Depends: com.electron
+Filename: games/com.mihoyo.sr-cloud/com.mihoyo.sr-cloud_1.0.0_all.deb
+Size: 26928
+MD5sum: dd090f811ef7644289f20572c8329930
+SHA1: c9b70e917463f4e8447efb80022291033238b431
+SHA256: d226faabc4a83bb81e6386f391641dd2d7595db1e1c19b9a6af4d90827ee61a6
+SHA512: 52ae701f588076ddd93716b22058cef7d0ca533f6f76ff2b63da77b3f10ec331bb9e9a97d3de03d974595e87b28a87e39520b6357904cc1d804d084c60b2bcbf
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+
 Package: c2-sans-fight
 Architecture: all
 Version: 1.5.1
@@ -6924,6 +6981,23 @@ SHA1: 34e22e61c832fdc79a403cdb4039a99618479c16
 SHA256: e051ca8cf9d145b6ba898474364caa0833517b7a4f37d450a4855d9b14622312
 SHA512: ab9d88d5c7ecd047a19a04adeeecbee5096aa0d06b18bc4f6092b52250d7ddcd2df69f7be9059aa6f9c5dce06d6c13672a2c948ae88606781ac74775919ecdf1
 Description: .本工具支持无水印解析下载抖音、抖音极速版、快手、快手极速版、剪映、火山、皮皮虾、皮皮搞笑、最右、微视、QQ看点、西瓜视频、小红书、淘宝、天猫、绿洲、美拍、今日头条、微博、各国外平台(随缘)、各平台图集、微信公众号...等等众多短视频平台。
+
+Package: com.itubego.deepin
+Architecture: all
+Version: 7.8.2
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: iTubeGo
+Installed-Size: 151384
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: network/com.itubego.deepin/com.itubego.deepin_7.8.2_all.deb
+Size: 151402664
+MD5sum: 4c6388d6cf58825cc923724f4eb49c94
+SHA1: 76c2b08b5d56efbc6dc106e1f3fe86d47b74362b
+SHA256: e68be564f66c960cda667f468f6d4c516a4734755ecdaf9952b5c6b180f8a776
+SHA512: acdd362527399480e27efbd6ad57b810b1913665ba1a0521d2fdeb23dec9b96398ffc7c7b46b0c3aafae4b0eb53b61c9540867ef3eb977c3c6b1bb2e54f084c9
+Description: .一款顶级的视频下载工具，能从YouTube及其他超过1000个视频分享平台快速下载视频和音频文件，并支持多种格式转换
 
 Package: clash-verge
 Architecture: arm64

@@ -108,22 +108,6 @@
 
 ,
 {
-    "Author": "shenmo <jifengshenmo@outlook.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "org.mozilla.firefox-esr.spark_1.0_all.deb",
-    "More": "firefox-esr的虚包，安装后会自动安装适合版本的firefox-esr",
-    "Name": "Firefox ESR",
-    "Pkgname": "org.mozilla.firefox-esr.spark",
-    "Size": "1 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "org.mozilla.firefox-esr.spark_1.0_all.deb.torrent",
-    "Update": "2023-05-02 20:20:09",
-    "Version": "1.0",
-    "Website": "https://shenmo7192.gitee.io/"
-}
-
-,
-{
     "Author": "Deepin Browser <browser@deepin.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "org.deepin.browser_6.3.16-1_arm64.deb",
@@ -138,6 +122,22 @@
     "Website": "https://www.deepin.com/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/org.deepin.browser/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/org.deepin.browser/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <jifengshenmo@outlook.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "org.mozilla.firefox-esr.spark_1.0_all.deb",
+    "More": "firefox-esr的虚包，安装后会自动安装适合版本的firefox-esr",
+    "Name": "Firefox ESR",
+    "Pkgname": "org.mozilla.firefox-esr.spark",
+    "Size": "1 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "org.mozilla.firefox-esr.spark_1.0_all.deb.torrent",
+    "Update": "2023-05-02 20:20:09",
+    "Version": "1.0",
+    "Website": "https://shenmo7192.gitee.io/"
 }
 
 ,
@@ -393,24 +393,6 @@
 
 ,
 {
-    "Author": "shenmo",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "deepin-wine-thunders_20200711.s3.1_all.deb",
-    "More": "迅雷融合版\n经过修改，现已在所有支持的平台测试通过",
-    "Name": "迅雷S",
-    "Pkgname": "deepin-wine-thunders",
-    "Size": "17 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "deepin-wine-thunders_20200711.s3.1_all.deb.torrent",
-    "Update": "2023-08-05 21:22:21",
-    "Version": "20200711.s3.1",
-    "Website": " https://www.xunlei.com/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/screen_2.png\"]"
-}
-
-,
-{
     "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "browser360ent-cn-stable_10.5.2002.132-1_arm64.deb",
@@ -425,6 +407,24 @@
     "Website": "https://browser.360.net",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360ent-cn-stable/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360ent-cn-stable/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360ent-cn-stable/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "shenmo",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "deepin-wine-thunders_20200711.s3.1_all.deb",
+    "More": "迅雷融合版\n经过修改，现已在所有支持的平台测试通过",
+    "Name": "迅雷S",
+    "Pkgname": "deepin-wine-thunders",
+    "Size": "17 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "deepin-wine-thunders_20200711.s3.1_all.deb.torrent",
+    "Update": "2023-08-05 21:22:21",
+    "Version": "20200711.s3.1",
+    "Website": " https://www.xunlei.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/screen_2.png\"]"
 }
 
 ,
@@ -537,24 +537,6 @@
 
 ,
 {
-    "Author": "chenky177@chinatelecom.cn",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.dlife.ecloud_1.0.0.0_arm64.deb",
-    "More": "天翼云盘的linux原生版本",
-    "Name": "天翼云盘",
-    "Pkgname": "com.dlife.ecloud",
-    "Size": "14 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "com.dlife.ecloud_1.0.0.0_arm64.deb.torrent",
-    "Update": "2023-11-05 13:16:32",
-    "Version": "1.0.0.0",
-    "Website": "https://cloud.189.cn/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.dlife.ecloud/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.dlife.ecloud/screen_1.png\"]"
-}
-
-,
-{
     "Author": "zzzgydi, wonfen, MystiPanda",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "clash-verge_1.6.6_arm64.deb",
@@ -569,6 +551,24 @@
     "Website": "https://clash-verge-rev.github.io/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "chenky177@chinatelecom.cn",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.dlife.ecloud_1.0.0.0_arm64.deb",
+    "More": "天翼云盘的linux原生版本",
+    "Name": "天翼云盘",
+    "Pkgname": "com.dlife.ecloud",
+    "Size": "14 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.dlife.ecloud_1.0.0.0_arm64.deb.torrent",
+    "Update": "2023-11-05 13:16:32",
+    "Version": "1.0.0.0",
+    "Website": "https://cloud.189.cn/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.dlife.ecloud/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.dlife.ecloud/screen_1.png\"]"
 }
 
 ,
@@ -895,6 +895,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.jd.jm/screen_1.png\"]"
 }
 
+,
+{
+    "Name": "iTubeGo 视频下载",
+    "Version": "7.8.2",
+    "Filename": "com.itubego.deepin_7.8.2_all.deb",
+    "Torrent_address": "com.itubego.deepin_7.8.2_all.deb.torrent",
+    "Pkgname": "com.itubego.deepin",
+    "Author": "iTubeGodde-fileManager",
+    "Contributor": "iTubeGo",
+    "Website": "https://itubego.com/en63/",
+    "Update": "2024-06-19 21:03:58",
+    "Size": "144.39 MB",
+    "More": "一款顶级的视频下载工具，能从YouTube及其他超过1000个视频分享平台快速下载视频和音频文件，并支持多种格式转换",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/5208fc68a15145a493e1c9d37510dc42.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/f61015f443344289903d574984793378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/7fe1f9cb38cc4f218531582fe38c5fd0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/d7681c2a5ea440e8a39f99a4130d002d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/19/2ac5f698c5e54f639f585cb7059e58ff.png"
+}
 ,
 {
     "Author": "sgb76 <sgb76@163.com>",

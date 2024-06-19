@@ -6157,6 +6157,23 @@ SHA256: 1265920b74a5f0dd18633d9408d878c3fa17b05b873e73e6193fc9691e066f04
 SHA512: b43b40f9d47ee8db42fd1614a573f3e997aa0d31fa9e29761c22f213b93deb0b13e490351898804c3fbcbc3e2161ccf37c1da61b506b0e25e9652c4ab764b7e7
 Description: windows纸牌 By Spark Wine 8 And Build By Wine Runner Easy Packager
 
+Package: com.mihoyo.sr-cloud
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: misc
+Maintainer: unknown <shenmo-ikun@shenmo-ikun-PC>
+Installed-Size: 45
+Depends: com.electron
+Filename: games/com.mihoyo.sr-cloud/com.mihoyo.sr-cloud_1.0.0_all.deb
+Size: 26928
+MD5sum: dd090f811ef7644289f20572c8329930
+SHA1: c9b70e917463f4e8447efb80022291033238b431
+SHA256: d226faabc4a83bb81e6386f391641dd2d7595db1e1c19b9a6af4d90827ee61a6
+SHA512: 52ae701f588076ddd93716b22058cef7d0ca533f6f76ff2b63da77b3f10ec331bb9e9a97d3de03d974595e87b28a87e39520b6357904cc1d804d084c60b2bcbf
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+
 Package: c2-sans-fight
 Architecture: all
 Version: 1.5.1

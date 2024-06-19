@@ -1334,22 +1334,6 @@
 }
 ,
 {
-    "Name": "BIGEMAP地图下载器",
-    "Version": "30.0.0.0spark1",
-    "Filename": "com.bigemap.spark_30.0.0.0spark1_i386.deb",
-    "Pkgname": "com.bigemap.spark",
-    "Author": "成都比格图数据处理有限公司",
-    "Contributor": "sgb76",
-    "Website": "http://www.bigemap.com/",
-    "Update": "2022-01-16 11:54:23",
-    "Size": "53.08 MB",
-    "More": "BIGEMAP地图下载器是一套集地图下载、地图浏览、数据编辑为一体的地理信息系统软件。",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/16/c7d08b20-767f-11ec-8f18-c1dcf9592315.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/16/cca9b180-767f-11ec-8f18-c1dcf9592315.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/01/16/c4672160-767f-11ec-8f18-c1dcf9592315.png"
-}
-,
-{
     "Name": "Evernote（Linux）",
     "Version": "10.7.6-2321",
     "Filename": "evernote-client_10.7.6-2321_amd64.deb",
@@ -1364,6 +1348,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/05/c1d221fc106243859b15cfc5f24dd75a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/05/d135b2e825a842afb9de4823dea2895e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/05/2de84c1a7b9d49f3aa690d8e80c53ddc.png"
+}
+,
+{
+    "Name": "BIGEMAP地图下载器",
+    "Version": "30.0.0.0spark1",
+    "Filename": "com.bigemap.spark_30.0.0.0spark1_i386.deb",
+    "Pkgname": "com.bigemap.spark",
+    "Author": "成都比格图数据处理有限公司",
+    "Contributor": "sgb76",
+    "Website": "http://www.bigemap.com/",
+    "Update": "2022-01-16 11:54:23",
+    "Size": "53.08 MB",
+    "More": "BIGEMAP地图下载器是一套集地图下载、地图浏览、数据编辑为一体的地理信息系统软件。",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/16/c7d08b20-767f-11ec-8f18-c1dcf9592315.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/16/cca9b180-767f-11ec-8f18-c1dcf9592315.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/01/16/c4672160-767f-11ec-8f18-c1dcf9592315.png"
 }
 ,
 {
@@ -1417,6 +1417,23 @@
 }
 ,
 {
+    "Name": "中国大学MOOC(uengine)",
+    "Version": "4.24.12",
+    "Filename": "uengine-dc-com.netease.edu.ucmooc_4.24.12_all.deb",
+    "Torrent_address": "uengine-dc-com.netease.edu.ucmooc_4.24.12_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.netease.edu.ucmooc",
+    "Author": "中国大学MOOC",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.icourse163.org/mobile.htm?from=navibar&mobiletopbar=hidden#/mobile",
+    "Update": "2022-09-29 09:46:26",
+    "Size": "186.61 MB",
+    "More": "中国大学MOOC \nuengine版本",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/29/5cb3ce18-48d8-4b1e-8029-707c9347476f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/29/d9d227dd-09ce-428f-92c4-84b5452ae128.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/29/87a0218a-6634-4964-a1a3-51e45d9038f0.netease.edu.ucmooc.png"
+}
+,
+{
     "Name": "PDFsam Basic",
     "Version": "5.2.0-1",
     "Filename": "pdfsam-basic_5.2.0-1_all.deb",
@@ -1448,23 +1465,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/5c2f33d74069430c91f2fa89b8aacc64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/48a877bb6bfa486aa4ca01aaea41916a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/e89c98d38e6f464d8b1bb33fd04b1501.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/21/cf30b76596e745aaafbf3f347a413e12.png"
-}
-,
-{
-    "Name": "中国大学MOOC(uengine)",
-    "Version": "4.24.12",
-    "Filename": "uengine-dc-com.netease.edu.ucmooc_4.24.12_all.deb",
-    "Torrent_address": "uengine-dc-com.netease.edu.ucmooc_4.24.12_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.netease.edu.ucmooc",
-    "Author": "中国大学MOOC",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://www.icourse163.org/mobile.htm?from=navibar&mobiletopbar=hidden#/mobile",
-    "Update": "2022-09-29 09:46:26",
-    "Size": "186.61 MB",
-    "More": "中国大学MOOC \nuengine版本",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/29/5cb3ce18-48d8-4b1e-8029-707c9347476f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/29/d9d227dd-09ce-428f-92c4-84b5452ae128.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/29/87a0218a-6634-4964-a1a3-51e45d9038f0.netease.edu.ucmooc.png"
 }
 ,
 {
@@ -1785,23 +1785,6 @@
 }
 ,
 {
-    "Name": "Synology Drive Client",
-    "Version": "7.3.0-15082+1",
-    "Filename": "synology-drive_7.3.0-15082_plus1_amd64.deb",
-    "Torrent_address": "synology-drive_7.3.0-15082_plus1_amd64.deb.torrent",
-    "Pkgname": "synology-drive",
-    "Author": "Synology <support@synology.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://www.synology.cn/zh-cn",
-    "Update": "2023-06-14 19:37:31",
-    "Size": "97.01 MB",
-    "More": "Synology Drive Client 是 DSM 附加套件 Synology Drive Server 的桌面实用程序，让您可以在集中化的 Synology NAS 与多台客户端计算机之间，同步和共享您拥有的文件或他人与您共享的文件。\n更新至7.3.0",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/14/3328d498860447c2943ae4d6409796bd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/14/69652c8843de46fb8e5cdc2b3573ff27.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/14/deff240adbbd42e780b8295f4e14b675.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/14/50e5825c5e8f4531bcf9a8322db920f1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/14/eaf4a4da45ab401b8b1e692650b02434.png"
-}
-,
-{
     "Name": "迅捷OCR文字识别",
     "Version": "8.5.5.0",
     "Filename": "com.xunjiepdf.ocr_8.5.5.0_amd64.deb",
@@ -1816,6 +1799,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/11c1daab0eb140a9910a9613ea60e7a9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/a38ab71c23824af692bce0dce418922a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/28/47d5986c7be74ecf9248191772671882.png"
+}
+,
+{
+    "Name": "Synology Drive Client",
+    "Version": "7.3.0-15082+1",
+    "Filename": "synology-drive_7.3.0-15082_plus1_amd64.deb",
+    "Torrent_address": "synology-drive_7.3.0-15082_plus1_amd64.deb.torrent",
+    "Pkgname": "synology-drive",
+    "Author": "Synology <support@synology.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.synology.cn/zh-cn",
+    "Update": "2023-06-14 19:37:31",
+    "Size": "97.01 MB",
+    "More": "Synology Drive Client 是 DSM 附加套件 Synology Drive Server 的桌面实用程序，让您可以在集中化的 Synology NAS 与多台客户端计算机之间，同步和共享您拥有的文件或他人与您共享的文件。\n更新至7.3.0",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/14/3328d498860447c2943ae4d6409796bd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/14/69652c8843de46fb8e5cdc2b3573ff27.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/14/deff240adbbd42e780b8295f4e14b675.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/14/50e5825c5e8f4531bcf9a8322db920f1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/14/eaf4a4da45ab401b8b1e692650b02434.png"
 }
 ,
 {
@@ -2320,6 +2320,22 @@
 }
 ,
 {
+    "Name": "淡墨水字帖（wine）",
+    "Version": "0.0.6spark0",
+    "Filename": "com.danmoshui.spark_0.0.6spark0_amd64.deb",
+    "Pkgname": "com.danmoshui.spark",
+    "Author": "danmoshui.com",
+    "Contributor": "sgb76",
+    "Website": "https://danmoshui.com/",
+    "Update": "2021-01-25 18:45:39",
+    "Size": "40.83 MB",
+    "More": "一个免费的字帖生成工具，方便小朋友练字、临帖使用",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/24165390-5efa-11eb-9627-610ae2c0210b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/2d9c6030-5efa-11eb-9627-610ae2c0210b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/33361770-5efa-11eb-9627-610ae2c0210b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/25/1d005c90-5efa-11eb-9627-610ae2c0210b.png"
+}
+,
+{
     "Name": "百度文库",
     "Version": "1.2.8spark2",
     "Filename": "com.baidu.wenku.spark_1.2.8spark2_all.deb",
@@ -2334,22 +2350,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/24/e90bfb427fa94e34be316feb982051fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/24/b9c7c68aa0a846ce9425eae0713b4bf7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/24/382ede4247644694b26ee776adf209db.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/24/d3f0fad20ca34e6dac33e04e1d0be4f1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/24/9e486eadf495450fb2a8138f591386b8.png"
-}
-,
-{
-    "Name": "淡墨水字帖（wine）",
-    "Version": "0.0.6spark0",
-    "Filename": "com.danmoshui.spark_0.0.6spark0_amd64.deb",
-    "Pkgname": "com.danmoshui.spark",
-    "Author": "danmoshui.com",
-    "Contributor": "sgb76",
-    "Website": "https://danmoshui.com/",
-    "Update": "2021-01-25 18:45:39",
-    "Size": "40.83 MB",
-    "More": "一个免费的字帖生成工具，方便小朋友练字、临帖使用",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/24165390-5efa-11eb-9627-610ae2c0210b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/2d9c6030-5efa-11eb-9627-610ae2c0210b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/33361770-5efa-11eb-9627-610ae2c0210b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/25/1d005c90-5efa-11eb-9627-610ae2c0210b.png"
 }
 ,
 {
@@ -2470,23 +2470,6 @@
 }
 ,
 {
-    "Name": "超级星学习通",
-    "Version": "1.0.0",
-    "Filename": "chaoxingstudy_1.0.0_i386.deb",
-    "Torrent_address": "chaoxingstudy_1.0.0_i386.deb.torrent",
-    "Pkgname": "chaoxingstudy",
-    "Author": "rc3583z<huawei0086@126.com>",
-    "Contributor": "rc3583z",
-    "Website": "huawei0086@126.com>",
-    "Update": "2023-04-16 09:10:55",
-    "Size": "480.5 MB",
-    "More": "学习通，完成作业。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e202d70-dbf3-11ed-b7c5-79e728797698.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e32a400-dbf3-11ed-b7c5-79e728797698.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/16/2a1ddf10-dbf3-11ed-b7c5-79e728797698.png"
-}
-,
-{
     "Name": "千牛",
     "Version": "9.8.211",
     "Filename": "uengine-dc-com.taobao.qianniu_9.8.211_all.deb",
@@ -2501,6 +2484,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/02/9ec59a10ac854f308fc63b43462aae37.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/02/e9396997d2924592b31f37f352d215db.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/02/16df933531c3487790b1869e705bbe06.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/02/721eb3531d4b429193f4ce85096e4e3d.png"
+}
+,
+{
+    "Name": "超级星学习通",
+    "Version": "1.0.0",
+    "Filename": "chaoxingstudy_1.0.0_i386.deb",
+    "Torrent_address": "chaoxingstudy_1.0.0_i386.deb.torrent",
+    "Pkgname": "chaoxingstudy",
+    "Author": "rc3583z<huawei0086@126.com>",
+    "Contributor": "rc3583z",
+    "Website": "huawei0086@126.com>",
+    "Update": "2023-04-16 09:10:55",
+    "Size": "480.5 MB",
+    "More": "学习通，完成作业。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e202d70-dbf3-11ed-b7c5-79e728797698.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e32a400-dbf3-11ed-b7c5-79e728797698.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/16/2a1ddf10-dbf3-11ed-b7c5-79e728797698.png"
 }
 ,
 {
@@ -3005,6 +3005,23 @@
 }
 ,
 {
+    "Name": "WPS Office 2016",
+    "Version": "10.1.0.6757spark1",
+    "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
+    "Torrent_address": "wps-office-2016_10.1.0.6757spark1_amd64.deb.torrent",
+    "Pkgname": "wps-office-2016",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://wps-community.org",
+    "Update": "2024-05-19 16:58:39",
+    "Size": "129.41 MB",
+    "More": "WPS Office 2016 旧版本，三组件分别独立，资源占用更小，支持类 office 2003 经典界面\n云同步功能依旧可用\n与现行的 WPS Office， 2019 冲突",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
+}
+,
+{
     "Name": "GitMind（web）",
     "Version": "1.0spark0",
     "Filename": "web-gitmind_1.0spark0_amd64.deb",
@@ -3052,23 +3069,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/2304c6d7c85249c6a9458f50b92ceec7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/68976f02a1a14be98718ca8b42fd09d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/db6cc48a84f14fa694ba6bbd0a3fb9f7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/6e5a429de6a642eb8b9e33ebf8947d5d.png"
-}
-,
-{
-    "Name": "WPS Office 2016",
-    "Version": "10.1.0.6757spark1",
-    "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
-    "Torrent_address": "wps-office-2016_10.1.0.6757spark1_amd64.deb.torrent",
-    "Pkgname": "wps-office-2016",
-    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://wps-community.org",
-    "Update": "2024-05-19 16:58:39",
-    "Size": "129.41 MB",
-    "More": "WPS Office 2016 旧版本，三组件分别独立，资源占用更小，支持类 office 2003 经典界面\n云同步功能依旧可用\n与现行的 WPS Office， 2019 冲突",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
 }
 ,
 {
@@ -3188,6 +3188,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/01/ac7d77e215444ecbb3ff655f66267ffd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/01/e7ca7414438c4c60802a24d5c72b76f7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/01/f48f0cb55a0245b8b4c91a10a481baef.png"
+}
+,
+{
+    "Name": "WPS Office 365",
+    "Version": "12.8.2.16969.AK.preload.sw",
+    "Filename": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb",
+    "Torrent_address": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb.torrent",
+    "Pkgname": "wps-office-365",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://wps-community.org",
+    "Update": "2024-06-16 10:13:44",
+    "Size": "722.16 MB",
+    "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/819a4c6aea004b1bb9059da5c1511085.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6bd9ad01e587436fb9ca5e74ef078921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/76097ef94d21409091dbcada9fcefe7c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/2dffce17cb754c4a8407d85de5511bc2.png"
 }
 ,
 {
@@ -3621,23 +3638,6 @@
 }
 ,
 {
-    "Name": "WPS Office 365",
-    "Version": "12.8.2.16969.AK.preload.sw",
-    "Filename": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb",
-    "Torrent_address": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb.torrent",
-    "Pkgname": "wps-office-365",
-    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://wps-community.org",
-    "Update": "2024-06-16 10:13:44",
-    "Size": "722.16 MB",
-    "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/819a4c6aea004b1bb9059da5c1511085.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6bd9ad01e587436fb9ca5e74ef078921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/76097ef94d21409091dbcada9fcefe7c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/2dffce17cb754c4a8407d85de5511bc2.png"
-}
-,
-{
     "Name": "EssentialPIM Pro（wine）",
     "Version": "9.7.5spark0",
     "Filename": "com.essentialpim.spark_9.7.5spark0_amd64.deb",
@@ -3885,6 +3885,20 @@
 
 ,
 {
+   "Name":"haroopad",
+   "Version":"0.13.1",
+   "Filename":"haroopad-v0.13.1-x64.deb",
+   "Pkgname":"haroopad",
+   "Author":"haroopad",
+   "Contributor":"Maicss",
+   "Website":"http://pad.haroopress.com",
+   "Update":"2020年7月3日",
+   "Size":"29.1M",
+   "More":"The Markdown enabled Next Document Processor.\n新一代Markdown文档编辑工具。\n优化了打包，官网提供的版本可能无法安装。"
+}
+
+,
+{
     "Name": "学而思网校",
     "Version": "1.0",
     "Filename": "com.xueersi.wangxiao_1.0_amd64.deb",
@@ -3966,20 +3980,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/876dcf30-c76f-11eb-a635-71e04c3946d8.svg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/895c7fd0-c76f-11eb-a635-71e04c3946d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/8b5e1c30-c76f-11eb-a635-71e04c3946d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/8e383e40-c76f-11eb-a635-71e04c3946d8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/07/81a58de0-c76f-11eb-a635-71e04c3946d8.png"
 }
-,
-{
-   "Name":"haroopad",
-   "Version":"0.13.1",
-   "Filename":"haroopad-v0.13.1-x64.deb",
-   "Pkgname":"haroopad",
-   "Author":"haroopad",
-   "Contributor":"Maicss",
-   "Website":"http://pad.haroopress.com",
-   "Update":"2020年7月3日",
-   "Size":"29.1M",
-   "More":"The Markdown enabled Next Document Processor.\n新一代Markdown文档编辑工具。\n优化了打包，官网提供的版本可能无法安装。"
-}
-
 ,
 {
     "Name": "desmos",
@@ -4253,6 +4253,23 @@
    "More":"笔神是一款电脑端写作工具，笔神不仅支持markdown，还提供了树形目录管理可以让你更好的管理自己已完成的章节。笔神电脑版的界面非常简单，还提供了自动存储功能，登录账号即可获取已保存的内容，不用担心写到一半因为特殊原因导致的文档丢失。\nP.S.由于现有服务器没有统计下载量的方式，只能在安装deb包的时候用我们的反馈邮箱发一封邮件，以此来统计下载数量。如果给您造成不便，请您谅解。"
 }
 
+,
+{
+    "Name": "文心一言（web）",
+    "Version": "1.0",
+    "Filename": "com.yiyan.uos_1.0_amd64.deb",
+    "Torrent_address": "com.yiyan.uos_1.0_amd64.deb.torrent",
+    "Pkgname": "com.yiyan.uos",
+    "Author": "<zhuyanlong@uniontech.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://yiyan.baidu.com/?utm_source=uos",
+    "Update": "2024-06-15 20:22:08",
+    "Size": "72.29 MB",
+    "More": "1、文心一言由文心大模型驱动，具备理解、生成、逻辑、记忆四大基础能力。当前文心大模型已升级至4.0版本，能够帮助你轻松搞定各类复杂任务。\n理解能力：听得懂潜台词、复杂句式、专业术语，今天，人类说的每一句话，它大概率都能听懂！\n生成能力：快速生成文本、代码、图片、图表、视频，今天，人类目光所致的所有内容，它几乎都能生成！\n逻辑能力： 复杂的逻辑难题、困难的数学计算、重要的职业/生活决策统统能帮你解决，情商智商双商在线！\n记忆能力：不仅有高性能，更有好记性。N轮对话过后，你话里的重点，它总会记得，帮你步步精进，解决复杂任务！\n2、文心一言是你工作、学习、生活中省时提效的好帮手；是你闲暇时刻娱乐打趣的好伙伴；也是你需要倾诉陪伴时的好朋友。在你人生旅途经历的每个阶段、面对的各种场景中，文心一言7*24小时在线，伴你左右。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/a41a95ff5ac0478384e7173599fb7cbc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/38ba0bfcb5a741858da5b97a8d9ca465.png"
+}
 ,
 {
     "Author": "shenmo",
@@ -4686,23 +4703,6 @@
 }
 ,
 {
-    "Name": "文心一言（web）",
-    "Version": "1.0",
-    "Filename": "com.yiyan.uos_1.0_amd64.deb",
-    "Torrent_address": "com.yiyan.uos_1.0_amd64.deb.torrent",
-    "Pkgname": "com.yiyan.uos",
-    "Author": "<zhuyanlong@uniontech.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://yiyan.baidu.com/?utm_source=uos",
-    "Update": "2024-06-15 20:22:08",
-    "Size": "72.29 MB",
-    "More": "1、文心一言由文心大模型驱动，具备理解、生成、逻辑、记忆四大基础能力。当前文心大模型已升级至4.0版本，能够帮助你轻松搞定各类复杂任务。\n理解能力：听得懂潜台词、复杂句式、专业术语，今天，人类说的每一句话，它大概率都能听懂！\n生成能力：快速生成文本、代码、图片、图表、视频，今天，人类目光所致的所有内容，它几乎都能生成！\n逻辑能力： 复杂的逻辑难题、困难的数学计算、重要的职业/生活决策统统能帮你解决，情商智商双商在线！\n记忆能力：不仅有高性能，更有好记性。N轮对话过后，你话里的重点，它总会记得，帮你步步精进，解决复杂任务！\n2、文心一言是你工作、学习、生活中省时提效的好帮手；是你闲暇时刻娱乐打趣的好伙伴；也是你需要倾诉陪伴时的好朋友。在你人生旅途经历的每个阶段、面对的各种场景中，文心一言7*24小时在线，伴你左右。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/a41a95ff5ac0478384e7173599fb7cbc.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/38ba0bfcb5a741858da5b97a8d9ca465.png"
-}
-,
-{
     "Name": "一起作业老师(uengine)",
     "Version": "2.7.9.2543",
     "Filename": "com.yiqizuoye.teacher_2.7.9.2543_all.deb",
@@ -5046,19 +5046,19 @@
 ,
 {
     "Name": "维克日记",
-    "Version": "0.3.2",
-    "Filename": "vic-diary_0.3.2_amd64.deb",
-    "Torrent_address": "vic-diary_0.3.2_amd64.deb.torrent",
+    "Version": "0.4.1",
+    "Filename": "vic-diary_0.4.1_amd64.deb",
+    "Torrent_address": "vic-diary_0.4.1_amd64.deb.torrent",
     "Pkgname": "vic-diary",
     "Author": "stevobm",
     "Contributor": "sgb76",
-    "Website": "https://vic-diary.zeabur.app/",
-    "Update": "2024-05-06 12:36:50",
-    "Size": "65.08 MB",
+    "Website": "https://github.com/vo-soft/vic-diary",
+    "Update": "2024-06-19 15:55:02",
+    "Size": "65.48 MB",
     "More": "一款支持Markdown语法的跨平台日记",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/06/866fb923db3b4492bddf3b82fdc731b9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/06/7c82c1d8bcde4defb4c686222fb93b36.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/06/ee4908b17a374479bc78a660d4860b45.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/06/5619515e3b8d4a27a59c14ca18edaf86.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/81cfb452e0104067867ff065b43ddf5a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/0b13bbc697d14af18e068e109c08ca65.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/cc2d34f22b8542daab8372efb650344d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/19/23e33d0623634ad587412e35cc6da30a.png"
 }
 ,
 {

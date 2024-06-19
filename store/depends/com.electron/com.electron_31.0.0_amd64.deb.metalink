@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.electron_31.0.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">656b385ba09c9fe1d1f979b9cc57dcb1</hash>
+				  
+				<hash type="sha1">4d5f580a6331cae08474dd96976861008d48385b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/com.electron/com.electron_31.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://piercing.spark-app.store/store/depends/com.electron/com.electron_31.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store/store/depends/com.electron/com.electron_31.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://blinder.spark-app.store/store/depends/com.electron/com.electron_31.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/depends/com.electron/com.electron_31.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/com.electron/com.electron_31.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/com.electron/com.electron_31.0.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

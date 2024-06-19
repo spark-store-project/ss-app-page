@@ -734,20 +734,6 @@
 }
 ,
 {
-   "Name":"3D平衡球",
-   "Version":"1.13",
-   "Filename":"com.atari.ballance.dcs_1.13_i386.deb",
-   "Pkgname":"com.atari.ballance.dcs",
-   "Author":" ",
-   "Contributor":"zty199",
-   "Website":"https://www.atari.com",
-   "Update":"2020-07-03 17:25",
-   "Size":"45.13MB",
-   "More":"经典游戏《Ballance》（非官方译名“平衡球”“3D平衡球”等），由德国的Atari（雅达利）公司旗下的开发商Cyparade于2004年4月2日在PC平台发布的一款单机滚球游戏。在游戏中，玩家要操纵一个可以改变自身材料种类（即物理性质）的球在高空或太空中搭建的庞大而复杂的迷宫建筑中穿梭，避开陷阱机关并破解一个个谜题，最终到达终点飞船以完成一个关卡。游戏提供了13个难度大致递增的关卡供玩家探索。此外，搭载了非常还原、真实的物理引擎使得球的操纵手感非常接近对现实生活中的认知，玩家也能够充分体验重力对平衡性的影响。"
-}
-
-,
-{
     "Name": "终极动员令：红色警戒3「正体中文版}」",
     "Version": "1.13spark4",
     "Filename": "com.redalert3cc.spark_1.13spark4_amd64.deb",
@@ -763,6 +749,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/ba1aab70-d2ce-11ee-976f-0d73676bf873.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/bbc5ea70-d2ce-11ee-976f-0d73676bf873.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/bd161120-d2ce-11ee-976f-0d73676bf873.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/be809da0-d2ce-11ee-976f-0d73676bf873.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/c0228dd0-d2ce-11ee-976f-0d73676bf873.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/24/c138b8c0-d2ce-11ee-976f-0d73676bf873.png"
 }
+,
+{
+   "Name":"3D平衡球",
+   "Version":"1.13",
+   "Filename":"com.atari.ballance.dcs_1.13_i386.deb",
+   "Pkgname":"com.atari.ballance.dcs",
+   "Author":" ",
+   "Contributor":"zty199",
+   "Website":"https://www.atari.com",
+   "Update":"2020-07-03 17:25",
+   "Size":"45.13MB",
+   "More":"经典游戏《Ballance》（非官方译名“平衡球”“3D平衡球”等），由德国的Atari（雅达利）公司旗下的开发商Cyparade于2004年4月2日在PC平台发布的一款单机滚球游戏。在游戏中，玩家要操纵一个可以改变自身材料种类（即物理性质）的球在高空或太空中搭建的庞大而复杂的迷宫建筑中穿梭，避开陷阱机关并破解一个个谜题，最终到达终点飞船以完成一个关卡。游戏提供了13个难度大致递增的关卡供玩家探索。此外，搭载了非常还原、真实的物理引擎使得球的操纵手感非常接近对现实生活中的认知，玩家也能够充分体验重力对平衡性的影响。"
+}
+
 ,
 {
     "Name": "野狐围棋",
@@ -799,23 +799,6 @@
 }
 ,
 {
-    "Name": "VEK游戏配置平台",
-    "Version": "1.0.2.5",
-    "Filename": "org.sea-group.raa_1.0.2.5_amd64.deb",
-    "Torrent_address": "org.sea-group.raa_1.0.2.5_amd64.deb.torrent",
-    "Pkgname": "org.sea-group.raa",
-    "Author": "JackLee",
-    "Contributor": "delsin",
-    "Website": "https://gitee.com/JackLee02/vekGame",
-    "Update": "2022-05-03 22:58:22",
-    "Size": "14.18 MB",
-    "More": "VEK 主要用于 Linux 操作系统利用 Wine + dxvk 自动配置容器来运行 Windows 下的程序。\n主要特点有：操作简单，携带方便，容器配置高效。",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/03/6d9a4a80-caf1-11ec-ad8d-3530d8c8f402.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/03/701ab3d0-caf1-11ec-ad8d-3530d8c8f402.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/03/685a9a20-caf1-11ec-ad8d-3530d8c8f402.png"
-}
-,
-{
     "Name": "扫雷",
     "Version": "1.0.1",
     "Filename": "minesweep_1.0.1_amd64.deb",
@@ -833,20 +816,20 @@
 }
 ,
 {
-    "Name": "Windows 蜘蛛纸牌（Wine）",
-    "Version": "5.1.2600.5512",
-    "Filename": "com.zhizhuzhipai.spark_5.1.2600.5512_i386.deb",
-    "Torrent_address": "com.zhizhuzhipai.spark_5.1.2600.5512_i386.deb.torrent",
-    "Pkgname": "com.zhizhuzhipai.spark",
-    "Author": "Microsoft",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://www.microsoft.com",
-    "Update": "2022-12-04 15:38:43",
-    "Size": "8.22 MB",
-    "More": "Windows 蜘蛛纸牌 For Deepin Wine 6",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/04/6cf6b07f7eb3443aa8977c1ac320911a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/04/bd57efdeccb84b30988cad2b415761c0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/04/dcefef340ff04ae496d56ada0253595a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/04/107ae721d7f4461dad58dbfbc25f3210.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/04/aff46d510b2a48ab8fbc8670046fd832.png"
+    "Name": "VEK游戏配置平台",
+    "Version": "1.0.2.5",
+    "Filename": "org.sea-group.raa_1.0.2.5_amd64.deb",
+    "Torrent_address": "org.sea-group.raa_1.0.2.5_amd64.deb.torrent",
+    "Pkgname": "org.sea-group.raa",
+    "Author": "JackLee",
+    "Contributor": "delsin",
+    "Website": "https://gitee.com/JackLee02/vekGame",
+    "Update": "2022-05-03 22:58:22",
+    "Size": "14.18 MB",
+    "More": "VEK 主要用于 Linux 操作系统利用 Wine + dxvk 自动配置容器来运行 Windows 下的程序。\n主要特点有：操作简单，携带方便，容器配置高效。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/03/6d9a4a80-caf1-11ec-ad8d-3530d8c8f402.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/03/701ab3d0-caf1-11ec-ad8d-3530d8c8f402.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/03/685a9a20-caf1-11ec-ad8d-3530d8c8f402.png"
 }
 ,
 {
@@ -863,6 +846,23 @@
     "Tags": "deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/32772240-2eec-11eb-b3df-b5cb960c2aac.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/35d911f0-2eec-11eb-b3df-b5cb960c2aac.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/3ab8a0f0-2eec-11eb-b3df-b5cb960c2aac.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/25/2e6c9680-2eec-11eb-b3df-b5cb960c2aac.png"
+}
+,
+{
+    "Name": "Windows 蜘蛛纸牌（Wine）",
+    "Version": "5.1.2600.5512",
+    "Filename": "com.zhizhuzhipai.spark_5.1.2600.5512_i386.deb",
+    "Torrent_address": "com.zhizhuzhipai.spark_5.1.2600.5512_i386.deb.torrent",
+    "Pkgname": "com.zhizhuzhipai.spark",
+    "Author": "Microsoft",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://www.microsoft.com",
+    "Update": "2022-12-04 15:38:43",
+    "Size": "8.22 MB",
+    "More": "Windows 蜘蛛纸牌 For Deepin Wine 6",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/04/6cf6b07f7eb3443aa8977c1ac320911a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/04/bd57efdeccb84b30988cad2b415761c0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/04/dcefef340ff04ae496d56ada0253595a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/04/107ae721d7f4461dad58dbfbc25f3210.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/04/aff46d510b2a48ab8fbc8670046fd832.png"
 }
 ,
 {
@@ -1756,19 +1756,19 @@
 ,
 {
     "Name": "X Minecraft Launcher",
-    "Version": "0.44.8-839",
-    "Filename": "xmcl_0.44.8-839_amd64.deb",
-    "Torrent_address": "xmcl_0.44.8-839_amd64.deb.torrent",
+    "Version": "0.44.8-840",
+    "Filename": "xmcl_0.44.8-840_amd64.deb",
+    "Torrent_address": "xmcl_0.44.8-840_amd64.deb.torrent",
     "Pkgname": "xmcl",
     "Author": "ci010 <cijhn@hotmail.com>",
-    "Contributor": "ci010 <cijhn@hotmail.com>",
+    "Contributor": "Idleness <3499847908@qq.com>",
     "Website": "https://github.com/voxelum/x-minecraft-launcher#readme",
-    "Update": "2024-06-17 21:47:02",
-    "Size": "76.68 MB",
-    "More": "X Minecraft Launcher (XMCL) 是一个方便你管理大量的整合包，模组，资源包，光影包的的现代化启动器。它对 Minecraft Forge，Fabric，Quilt，Curseforge 和 Modrinth 都有内置支持。",
+    "Update": "2024-06-18 23:45:37",
+    "Size": "83.63 MB",
+    "More": "X Minecraft Launcher (XMCL) 是一个方便你管理大量的整合包，模组，资源包，光影包的的现代化启动器。它对 Minecraft Forge，Fabric，Quilt，Curseforge 和 Modrinth 都有内置支持。\n\n本版本修复了官方打包的chrome-sandbox权限问题",
     "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/17/24995a656ce44e4195752761f4e5c670.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/17/1bef9b6a5b554c02abe78614da08a8a5.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/18/b42810578eeb4b7b905d61e6e1b86c89.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/18/57038b4a1faa46c89b0a0b8fba52f906.png"
 }
 ,
 {
@@ -1955,23 +1955,6 @@
 
 ,
 {
-    "Name": "仙剑客栈2",
-    "Version": "2.0",
-    "Filename": "com.palinn2.spark_2.0_all.deb",
-    "Torrent_address": "com.palinn2.spark_2.0_all.deb.torrent",
-    "Pkgname": "com.palinn2.spark",
-    "Author": "软星科技(北京)有限公司",
-    "Contributor": "John12138",
-    "Website": "https://www.softstar.net.cn/",
-    "Update": "2023-06-23 20:54:11",
-    "Size": "1.06 GB",
-    "More": "该作由仙剑系列众多角色共同经营逍遥客栈，主线全程配音，多种结局，同时综合经营、探索、约会、小游戏等多重玩法，打造一个温馨浪漫大团圆的平行异时空世界",
-    "Tags": "ubuntu;deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/361a0e2df8b94b0281e9ce10d1e4a8f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/632fade6340749d2a007e4259d16efaa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/ba5b7af8b4ad473c931f7791c3a0cae5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/799f9aece3ae427991a0117b25f419fe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/82d877975da643cfb740395f0d67a50a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/23/c798c99bfaaf49fa9aca5084becd8246.png"
-}
-,
-{
     "Name": "傲气雄鹰",
     "Version": "1.0spark1",
     "Filename": "com.skyforce.spark_1.0spark1_all.deb",
@@ -1986,6 +1969,23 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/30/6050eec6f0344ee8a1e741363c197eac.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/30/d28cc3ac59774673b475ff3310477e71.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/30/309e3c759dfa44fc924c23b93bcc0f9b.png"
+}
+,
+{
+    "Name": "仙剑客栈2",
+    "Version": "2.0",
+    "Filename": "com.palinn2.spark_2.0_all.deb",
+    "Torrent_address": "com.palinn2.spark_2.0_all.deb.torrent",
+    "Pkgname": "com.palinn2.spark",
+    "Author": "软星科技(北京)有限公司",
+    "Contributor": "John12138",
+    "Website": "https://www.softstar.net.cn/",
+    "Update": "2023-06-23 20:54:11",
+    "Size": "1.06 GB",
+    "More": "该作由仙剑系列众多角色共同经营逍遥客栈，主线全程配音，多种结局，同时综合经营、探索、约会、小游戏等多重玩法，打造一个温馨浪漫大团圆的平行异时空世界",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/361a0e2df8b94b0281e9ce10d1e4a8f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/632fade6340749d2a007e4259d16efaa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/ba5b7af8b4ad473c931f7791c3a0cae5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/799f9aece3ae427991a0117b25f419fe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/82d877975da643cfb740395f0d67a50a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/23/c798c99bfaaf49fa9aca5084becd8246.png"
 }
 ,
 {
@@ -2119,6 +2119,23 @@
 }
 ,
 {
+    "Name": "2048：深度浏览器插件",
+    "Version": "1.3.9",
+    "Filename": "browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp_1.3.9_all.deb",
+    "Torrent_address": "browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp_1.3.9_all.deb.torrent",
+    "Pkgname": "browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp",
+    "Author": "Deepin team",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.deepin.org",
+    "Update": "2022-10-07 23:11:23",
+    "Size": "95.51 KB",
+    "More": "2048 for deepin browser\n从UOS商店提取",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/07/6cbd46a4-274b-4b69-b2ee-2638d26722af.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/07/d0220a80-f98c-4f69-ba2e-c9f202ec275f.png"
+}
+,
+{
     "Name": "黄金矿工维加斯",
     "Version": "1.0spark0",
     "Filename": "com.goldminervegas.spark_1.0spark0_amd64.deb",
@@ -2150,23 +2167,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/86dcca80-63f8-11ee-b417-0bc186dd87d7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/894454a0-63f8-11ee-b417-0bc186dd87d7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/8bdbef70-63f8-11ee-b417-0bc186dd87d7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/8e0b5290-63f8-11ee-b417-0bc186dd87d7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/06/81bde890-63f8-11ee-b417-0bc186dd87d7.png"
-}
-,
-{
-    "Name": "2048：深度浏览器插件",
-    "Version": "1.3.9",
-    "Filename": "browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp_1.3.9_all.deb",
-    "Torrent_address": "browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp_1.3.9_all.deb.torrent",
-    "Pkgname": "browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp",
-    "Author": "Deepin team",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://www.deepin.org",
-    "Update": "2022-10-07 23:11:23",
-    "Size": "95.51 KB",
-    "More": "2048 for deepin browser\n从UOS商店提取",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/07/6cbd46a4-274b-4b69-b2ee-2638d26722af.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/07/d0220a80-f98c-4f69-ba2e-c9f202ec275f.png"
 }
 ,
 {
@@ -2464,23 +2464,6 @@
 }
 ,
 {
-    "Name": "反恐重击:隐秘行动",
-    "Version": "1.0spark1",
-    "Filename": "com.covertoperations.spark_1.0spark1_all.deb",
-    "Torrent_address": "com.covertoperations.spark_1.0spark1_all.deb.torrent",
-    "Pkgname": "com.covertoperations.spark",
-    "Author": "CITY Interactive / BTpig",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-10-06 10:50:26",
-    "Size": "537.25 MB",
-    "More": "一款以消灭恐怖分子为宗旨的射击类游戏\n\n--说明--\n进入游戏后如果开场动画只有声音没有图像，按空格键跳过即可",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/3cf9f0bec818485097c493f1720e8511.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/341c952f07f04e268620cf25aca0c750.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/7b73774488ac4538b3788b84d2a9af8d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/06/aa4d1e54466b44a98b7e129eb63f562d.png"
-}
-,
-{
     "Name": "马克思·佩恩2",
     "Version": "1.0spark1",
     "Filename": "com.maxpayne2.spark_1.0spark1_all.deb",
@@ -2495,6 +2478,23 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/fb91062f39af4cdf973aa6de8972b13c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/812c81f1bf154d03b7632d28ebab2f98.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/90dd9328a52e4100b840ecd25b4c2e47.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/22a2d0d7d2e943939b6bd1acdc10c674.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/05/5db74124a16c476fb60ea96a37593556.png"
+}
+,
+{
+    "Name": "反恐重击:隐秘行动",
+    "Version": "1.0spark1",
+    "Filename": "com.covertoperations.spark_1.0spark1_all.deb",
+    "Torrent_address": "com.covertoperations.spark_1.0spark1_all.deb.torrent",
+    "Pkgname": "com.covertoperations.spark",
+    "Author": "CITY Interactive / BTpig",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-10-06 10:50:26",
+    "Size": "537.25 MB",
+    "More": "一款以消灭恐怖分子为宗旨的射击类游戏\n\n--说明--\n进入游戏后如果开场动画只有声音没有图像，按空格键跳过即可",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/3cf9f0bec818485097c493f1720e8511.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/341c952f07f04e268620cf25aca0c750.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/7b73774488ac4538b3788b84d2a9af8d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/06/aa4d1e54466b44a98b7e129eb63f562d.png"
 }
 ,
 {
@@ -3304,23 +3304,6 @@
 }
 ,
 {
-    "Name": "1944：凸出部战役",
-    "Version": "1.0spark0",
-    "Filename": "com.ardennes.spark_1.0spark0_all.deb",
-    "Torrent_address": "com.ardennes.spark_1.0spark0_all.deb.torrent",
-    "Pkgname": "com.ardennes.spark",
-    "Author": "Monte Cristo",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-09-24 01:13:57",
-    "Size": "500.47 MB",
-    "More": "一款以二战时期非常著名的凸出部战役为题材制作的即时战略类游戏，游戏中玩家将扮演盟军部队，在不同的地区里展开各种激烈的战斗，利用自己的智慧和谋略指挥部队战胜敌人。\n\n注：游戏只在deepin20.9下作了测试",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/24/97453a7ec75648e0bfb11d5b7f452122.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/24/6bb59fe88fda4c88955d6187465d29e3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/24/2ef75e10c4e54cfdacb70e34f6910495.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/24/36d9684f7eb34e5fb14a26aa28c74946.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/24/355b26c3bb1c4d95a80cb19fdfe038fe.png"
-}
-,
-{
     "Name": "osu!",
     "Version": "2024.521.2",
     "Filename": "osu-lazer_2024.521.2_amd64.deb",
@@ -3338,6 +3321,23 @@
 }
 ,
 {
+    "Name": "1944：凸出部战役",
+    "Version": "1.0spark0",
+    "Filename": "com.ardennes.spark_1.0spark0_all.deb",
+    "Torrent_address": "com.ardennes.spark_1.0spark0_all.deb.torrent",
+    "Pkgname": "com.ardennes.spark",
+    "Author": "Monte Cristo",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-09-24 01:13:57",
+    "Size": "500.47 MB",
+    "More": "一款以二战时期非常著名的凸出部战役为题材制作的即时战略类游戏，游戏中玩家将扮演盟军部队，在不同的地区里展开各种激烈的战斗，利用自己的智慧和谋略指挥部队战胜敌人。\n\n注：游戏只在deepin20.9下作了测试",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/24/97453a7ec75648e0bfb11d5b7f452122.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/24/6bb59fe88fda4c88955d6187465d29e3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/24/2ef75e10c4e54cfdacb70e34f6910495.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/24/36d9684f7eb34e5fb14a26aa28c74946.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/24/355b26c3bb1c4d95a80cb19fdfe038fe.png"
+}
+,
+{
     "Name": "杀出重围3：人类革命之消失的线索",
     "Version": "1.0spark1",
     "Filename": "com.themissinglink.spark_1.0spark1_all.deb",
@@ -3352,6 +3352,23 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/a8d72ee8b5114bf8aa6c52c721abd0b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/f0bf03d836e9480eac24a73192e4ae44.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/1d7d0fe718fc422d895c63b95284808a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/06/2588c31e64ae48fda7143e72e3c8fc9f.png"
+}
+,
+{
+    "Name": "预防性打击",
+    "Version": "1.0spark0",
+    "Filename": "com.preventivestrike.spark_1.0spark0_amd64.deb",
+    "Torrent_address": "com.preventivestrike.spark_1.0spark0_amd64.deb.torrent",
+    "Pkgname": "com.preventivestrike.spark",
+    "Author": "TocanaDev",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-05-02 16:12:30",
+    "Size": "310.3 MB",
+    "More": "一款好玩的模拟飞行射击游戏，采用了3D建模，画风和场景非常的真实",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/02/9b76ed672e394e47a6683dc410f82319.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/02/b77adad5597243a7b3c9654a6069760c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/02/cd84754b08dc4beaafdc634809ad7f97.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/02/827ce1f638544a1aaad87755b1fcd83d.png"
 }
 ,
 {
@@ -3386,23 +3403,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/16/503ffbac49ce4d3aab00db48af99628e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/16/fc1afdc475c54ad79d3ac88cba417dfb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/16/4957a9e0a4a3479695c7b07e1c2f166c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/16/953659e81fcc4cf594c1797b7060eee6.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/16/0866fc5b5c284a24a8e147ad6fdc896b.png"
-}
-,
-{
-    "Name": "预防性打击",
-    "Version": "1.0spark0",
-    "Filename": "com.preventivestrike.spark_1.0spark0_amd64.deb",
-    "Torrent_address": "com.preventivestrike.spark_1.0spark0_amd64.deb.torrent",
-    "Pkgname": "com.preventivestrike.spark",
-    "Author": "TocanaDev",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-05-02 16:12:30",
-    "Size": "310.3 MB",
-    "More": "一款好玩的模拟飞行射击游戏，采用了3D建模，画风和场景非常的真实",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/02/9b76ed672e394e47a6683dc410f82319.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/02/b77adad5597243a7b3c9654a6069760c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/02/cd84754b08dc4beaafdc634809ad7f97.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/02/827ce1f638544a1aaad87755b1fcd83d.png"
 }
 ,
 {
@@ -4580,4 +4580,22 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/4dd0713176a14c579e4fd87b3cfc0a45.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/ca2aad486ecc497b8dc37aaf6dda0851.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/4e1cdac853154d6f9a92761fb19f4637.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/ef2ec9a7e42f43dbb153d951a2894204.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/03/7049374ed5bd44108953a97b91e4abea.png"
 }
+,
+{
+    "Author": "unknown <shenmo-ikun@shenmo-ikun-PC>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.mihoyo.sr-cloud_1.0.0_all.deb",
+    "More": "星穹铁道，启动！",
+    "Name": "云·崩坏星穹铁道",
+    "Pkgname": "com.mihoyo.sr-cloud",
+    "Size": "26 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "com.mihoyo.sr-cloud_1.0.0_all.deb.torrent",
+    "Update": "2024-06-19 22:06:32",
+    "Version": "1.0.0",
+    "Website": "https://sr.mihoyo.com/cloud/#/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.sr-cloud/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.sr-cloud/screen_1.png\"]"
+}
+
 ]

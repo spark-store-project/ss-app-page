@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.itubego.deepin_7.8.2_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">4c6388d6cf58825cc923724f4eb49c94</hash>
+				  
+				<hash type="sha1">76c2b08b5d56efbc6dc106e1f3fe86d47b74362b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/network/com.itubego.deepin/com.itubego.deepin_7.8.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://piercing.spark-app.store/aarch64-store/network/com.itubego.deepin/com.itubego.deepin_7.8.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store/aarch64-store/network/com.itubego.deepin/com.itubego.deepin_7.8.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://blinder.spark-app.store/aarch64-store/network/com.itubego.deepin/com.itubego.deepin_7.8.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/aarch64-store/network/com.itubego.deepin/com.itubego.deepin_7.8.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/network/com.itubego.deepin/com.itubego.deepin_7.8.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/aarch64-store/network/com.itubego.deepin/com.itubego.deepin_7.8.2_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

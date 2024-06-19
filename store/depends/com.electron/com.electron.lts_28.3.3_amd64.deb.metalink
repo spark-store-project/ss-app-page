@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.electron.lts_28.3.3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">61714931e7b7f62346b493911fb101d7</hash>
+				  
+				<hash type="sha1">2e349b1ec524957336f2a8078aee7496290ce5dc</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/com.electron/com.electron.lts_28.3.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://piercing.spark-app.store/store/depends/com.electron/com.electron.lts_28.3.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store/store/depends/com.electron/com.electron.lts_28.3.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://blinder.spark-app.store/store/depends/com.electron/com.electron.lts_28.3.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/depends/com.electron/com.electron.lts_28.3.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/depends/com.electron/com.electron.lts_28.3.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d5.store.deepinos.org.cn/store/depends/com.electron/com.electron.lts_28.3.3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>
