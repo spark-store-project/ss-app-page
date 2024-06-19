@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="code_1.90.2-1718751586_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c284088c9f78beb1912b71ce1dc61647</hash>
+				  
+				<hash type="sha1">8972f199de68d075e6c32555bf9cf827b8725c88</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/code/code_1.90.2-1718751586_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://piercing.spark-app.store/store/development/code/code_1.90.2-1718751586_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store/store/development/code/code_1.90.2-1718751586_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://blinder.spark-app.store/store/development/code/code_1.90.2-1718751586_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/development/code/code_1.90.2-1718751586_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/code/code_1.90.2-1718751586_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

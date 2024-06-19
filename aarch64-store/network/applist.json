@@ -341,24 +341,6 @@
 {
     "Author": "RealVNC <noreply@realvnc.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "realvnc-vnc-viewer_7.11.0.18_arm64.deb",
-    "More": "VNC Viewer, from RealVNC, the original inventor of VNC technology, is remote access\n software that enables you to securely connect to and control a remote\n computer.\n RealVNC recommends the realvnc-vnc-server package (VNC Server) for the\n remote computer, for seamless, secure and reliable connections. A free trial\n is available.",
-    "Name": "VNC Viewer",
-    "Pkgname": "realvnc-vnc-viewer",
-    "Size": "3766 Kb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "realvnc-vnc-viewer_7.11.0.18_arm64.deb.torrent",
-    "Update": "2024-05-09 16:31:33",
-    "Version": "7.11.0.18",
-    "Website": "https://www.realvnc.com/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-viewer/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-viewer/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-viewer/screen_2.png\"]"
-}
-
-,
-{
-    "Author": "RealVNC <noreply@realvnc.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "realvnc-vnc-server_7.11.0.18_arm64.deb",
     "More": "VNC Server, from RealVNC, the original inventor of VNC technology, is remote access\n software that enables you to securely share one or more desktops on this\n computer with any number of other computers or devices.\n RealVNC recommends the realvnc-vnc-viewer package (VNC Viewer) for these other\n computers and devices, for seamless, secure and reliable connections.",
     "Name": "VNC Server",
@@ -371,6 +353,24 @@
     "Website": "https://www.realvnc.com/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-server/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-server/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-server/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "RealVNC <noreply@realvnc.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "realvnc-vnc-viewer_7.11.0.18_arm64.deb",
+    "More": "VNC Viewer, from RealVNC, the original inventor of VNC technology, is remote access\n software that enables you to securely connect to and control a remote\n computer.\n RealVNC recommends the realvnc-vnc-server package (VNC Server) for the\n remote computer, for seamless, secure and reliable connections. A free trial\n is available.",
+    "Name": "VNC Viewer",
+    "Pkgname": "realvnc-vnc-viewer",
+    "Size": "3766 Kb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "realvnc-vnc-viewer_7.11.0.18_arm64.deb.torrent",
+    "Update": "2024-05-09 16:31:33",
+    "Version": "7.11.0.18",
+    "Website": "https://www.realvnc.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-viewer/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-viewer/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-viewer/screen_2.png\"]"
 }
 
 ,
@@ -393,24 +393,6 @@
 
 ,
 {
-    "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "browser360ent-cn-stable_10.5.2002.132-1_arm64.deb",
-    "More": "360安全浏览器结合最新的Chromium内核，领先的国密套件支持，完整的信创迁移方案，为政企客户提供最极速、最安全、最易用的浏览器。",
-    "Name": "360企业安全浏览器",
-    "Pkgname": "browser360ent-cn-stable",
-    "Size": "189 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "browser360ent-cn-stable_10.5.2002.132-1_arm64.deb.torrent",
-    "Update": "2023-06-11 12:08:11",
-    "Version": "10.5.2002.132-1",
-    "Website": "https://browser.360.net",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360ent-cn-stable/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360ent-cn-stable/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360ent-cn-stable/screen_2.png\"]"
-}
-
-,
-{
     "Author": "shenmo",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "deepin-wine-thunders_20200711.s3.1_all.deb",
@@ -425,6 +407,24 @@
     "Website": " https://www.xunlei.com/",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "browser360ent-cn-stable_10.5.2002.132-1_arm64.deb",
+    "More": "360安全浏览器结合最新的Chromium内核，领先的国密套件支持，完整的信创迁移方案，为政企客户提供最极速、最安全、最易用的浏览器。",
+    "Name": "360企业安全浏览器",
+    "Pkgname": "browser360ent-cn-stable",
+    "Size": "189 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "browser360ent-cn-stable_10.5.2002.132-1_arm64.deb.torrent",
+    "Update": "2023-06-11 12:08:11",
+    "Version": "10.5.2002.132-1",
+    "Website": "https://browser.360.net",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360ent-cn-stable/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360ent-cn-stable/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360ent-cn-stable/screen_2.png\"]"
 }
 
 ,

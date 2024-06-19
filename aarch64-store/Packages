@@ -38,23 +38,6 @@ Description:
  JavaScript, HTML and CSS. It is based on Node.js and Chromium and is used by the
  Atom editor and many other apps.
 
-Package: com.electron
-Architecture: arm64
-Version: 27.3.8
-Priority: optional
-Section: devel
-Maintainer: SZBT CI <lu1044100652@outlook.com>
-Installed-Size: 259858
-Depends: nodejs, deepin-elf-verify (>= 1.1.10-1)
-Filename: depends/com.electron/com.electron_27.3.8_arm64.deb
-Size: 68983282
-MD5sum: d8271dbf3a142463f713a749ffd404a1
-SHA1: 23b3c34023d9e707b23965362894946a8e713945
-SHA256: 0c580a22dbf7b2983b4774efa555f668d13ddcd8a51bcef81946f92651442a44
-SHA512: 9b2be78c7c38844c3162c94d040c19f68d7834d903c5d16bb70e9a24c7d539afeeb0db6a946b36dce01c767efc2723023e8aa5319b3ba8b5d74cbbcd74ea2a4b
-Homepage: https://www.electronjs.org/
-Description: The Electron framework lets you write cross-platform desktop applications using JavaScript, HTML and CSS. It is based on Node.js and Chromium and is used by the Atom editor and many other apps.
-
 Package: deepin-wine
 Architecture: arm64
 Version: 2.18-24~rc3
@@ -7957,7 +7940,7 @@ Vendor: Codemao Ltd
 
 Package: code
 Architecture: arm64
-Version: 1.90.1-1718139718
+Version: 1.90.2-1718750608
 Priority: optional
 Section: devel
 Maintainer: Microsoft Corporation <vscode-linux@microsoft.com>
@@ -7967,12 +7950,12 @@ Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3),
 Recommends: libvulkan1
 Conflicts: visual-studio-code
 Replaces: visual-studio-code
-Filename: development/code/code_1.90.1-1718139718_arm64.deb
-Size: 94514238
-MD5sum: 1d06ed64f4fd9344536c733319be130b
-SHA1: 548ab7235c3e52e5b832b1ae5c36d4e369f2eb8b
-SHA256: 55d55b2190bbb006be27520240357215b6e276a2630543abe2ed4c80a717d3b2
-SHA512: e5e6714d4273b44c2db09b8f28a4264fffc19f44541ade5894c0b9e24438c5ce765e33f5e4f90b441ffdfdf64ac667e722040f9c7e93a81e4597de01aa6f9ed8
+Filename: development/code/code_1.90.2-1718750608_arm64.deb
+Size: 94531738
+MD5sum: 95d145a157dcc9bb3ff92ec10f987093
+SHA1: 0f8ebdba02f6e9ba2e92bfd4f274b5be87c06a74
+SHA256: f1a14ef09b3ab79c2a89352774b69d74a28c1fdcc55ca7f61e339ac0496ca73f
+SHA512: 19733d4c03ffdcbad159f6c51423bb0530440f4bbf4e94b59ef7dad8ef55f86f8ff94e2ba82f5b07a2d9c656a7b690c6f7ca2c308baec7c3c6494a4b5377d4ec
 Homepage: https://code.visualstudio.com/
 Description: Code editing. Redefined.
  Visual Studio Code is a new choice of tool that combines the simplicity of

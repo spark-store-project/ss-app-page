@@ -1476,23 +1476,6 @@
 }
 ,
 {
-    "Name": "Deskreen投屏工具",
-    "Version": "2.0.3",
-    "Filename": "deskreen_2.0.3_amd64.deb",
-    "Torrent_address": "deskreen_2.0.3_amd64.deb.torrent",
-    "Pkgname": "deskreen",
-    "Author": "Pavlo <pavlobu@gmail.com>",
-    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
-    "Website": "https://github.com/pavlobu/deskreen#readme",
-    "Update": "2022-10-19 20:07:20",
-    "Size": "60.25 MB",
-    "More": "Deskreen 是一款可以通过 WiFi 将任何带有网络浏览器的设备变成电脑辅助屏幕的桌面应用应用，它可以将整个计算机显示镜像到任何具有 Web 浏览器的设备屏幕上。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/19/0a79dc2c-a719-491d-a23c-cdc5221b98c6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/19/233cd8de-bdba-4b9c-812c-d9f9e4e99eb0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/19/a0c851dc-fecd-46c3-9332-b16cdf7f7ed2.png"
-}
-,
-{
     "Name": "WPS Office 版本信息及字体检测小工具",
     "Version": "0.3-1",
     "Filename": "wps-check_0.3-1_all.deb",
@@ -1507,6 +1490,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/c9d64dc5317e415dbf51e0d935bd79ca.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/10/a77559bee8c94d93ac29d8e226971db7.png"
+}
+,
+{
+    "Name": "Deskreen投屏工具",
+    "Version": "2.0.3",
+    "Filename": "deskreen_2.0.3_amd64.deb",
+    "Torrent_address": "deskreen_2.0.3_amd64.deb.torrent",
+    "Pkgname": "deskreen",
+    "Author": "Pavlo <pavlobu@gmail.com>",
+    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
+    "Website": "https://github.com/pavlobu/deskreen#readme",
+    "Update": "2022-10-19 20:07:20",
+    "Size": "60.25 MB",
+    "More": "Deskreen 是一款可以通过 WiFi 将任何带有网络浏览器的设备变成电脑辅助屏幕的桌面应用应用，它可以将整个计算机显示镜像到任何具有 Web 浏览器的设备屏幕上。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/19/0a79dc2c-a719-491d-a23c-cdc5221b98c6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/19/233cd8de-bdba-4b9c-812c-d9f9e4e99eb0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/19/a0c851dc-fecd-46c3-9332-b16cdf7f7ed2.png"
 }
 ,
 {
@@ -2366,6 +2366,23 @@
 }
 ,
 {
+    "Name": "gnome-pie应用启动器",
+    "Version": "0.7.3-1",
+    "Filename": "gnome-pie_0.7.3-1_amd64.deb",
+    "Torrent_address": "gnome-pie_0.7.3-1_amd64.deb.torrent",
+    "Pkgname": "gnome-pie",
+    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+    "Contributor": "WAYYYAW <way610@126.com>",
+    "Website": "https://github.com/Schneegans/Gnome-Pie",
+    "Update": "2023-01-12 18:00:51",
+    "Size": "322.4 KB",
+    "More": "一个炫酷的应用启动器\n-默认皮肤挺丑的\n可以自己DIY皮肤，或者百度\n-皮肤文件放在『～/.config/gnome-pie/themes』\n-从ubuntu里扣出来的，Deepin不保证\n-其实『sudo apt install gnome-pie 』就可以了\n-deepin用户可以考虑添加ppa 『sudo add-apt-repository ppa:simonschneegans/testing 』",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/c1863a361a7748f48416130267dc63f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/abe899971c2347c5972ed64b31e5ad49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/77ae9699ba9c492083e6d748930a2997.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/12/0f17e577c7bf4f59b8187b7a7924f6fc.png"
+}
+,
+{
     "Name": "系统传感器显示工具",
     "Version": "1.2-20240429",
     "Filename": "simple-sensor-monitor_1.2-20240429_amd64.deb",
@@ -2397,23 +2414,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/0242916c1eca488e98137daf10193c4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/74a9c8eefd83424490112c7fd3e4c1f1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/20/cc2dabfeb636416fa76e62ba58a53540.png"
-}
-,
-{
-    "Name": "gnome-pie应用启动器",
-    "Version": "0.7.3-1",
-    "Filename": "gnome-pie_0.7.3-1_amd64.deb",
-    "Torrent_address": "gnome-pie_0.7.3-1_amd64.deb.torrent",
-    "Pkgname": "gnome-pie",
-    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-    "Contributor": "WAYYYAW <way610@126.com>",
-    "Website": "https://github.com/Schneegans/Gnome-Pie",
-    "Update": "2023-01-12 18:00:51",
-    "Size": "322.4 KB",
-    "More": "一个炫酷的应用启动器\n-默认皮肤挺丑的\n可以自己DIY皮肤，或者百度\n-皮肤文件放在『～/.config/gnome-pie/themes』\n-从ubuntu里扣出来的，Deepin不保证\n-其实『sudo apt install gnome-pie 』就可以了\n-deepin用户可以考虑添加ppa 『sudo add-apt-repository ppa:simonschneegans/testing 』",
-    "Tags": "ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/c1863a361a7748f48416130267dc63f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/abe899971c2347c5972ed64b31e5ad49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/77ae9699ba9c492083e6d748930a2997.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/12/0f17e577c7bf4f59b8187b7a7924f6fc.png"
 }
 ,
 {

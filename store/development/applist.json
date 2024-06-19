@@ -1,14 +1,14 @@
 [
 {
     "Name": "Visual Studio Code(vscode)",
-    "Version": "1.90.1-1718141439",
-    "Filename": "code_1.90.1-1718141439_amd64.deb",
-    "Torrent_address": "code_1.90.1-1718141439_amd64.deb.torrent",
+    "Version": "1.90.2-1718751586",
+    "Filename": "code_1.90.2-1718751586_amd64.deb",
+    "Torrent_address": "code_1.90.2-1718751586_amd64.deb.torrent",
     "Pkgname": "code",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://code.visualstudio.com/",
-    "Update": "2024-06-14 17:40:20",
+    "Update": "2024-06-19 17:41:39",
     "Size": "98M",
     "More": "VSCode是一款非常牛逼的编辑器",
     "Tags": "community;ubuntu;deepin;uos",
@@ -911,6 +911,23 @@
 }
 ,
 {
+    "Name": "通义千问（5亿参数版）",
+    "Version": "0.15.1",
+    "Filename": "com.qwen.chat.0dot5b_0.15.1_amd64.deb",
+    "Torrent_address": "com.qwen.chat.0dot5b_0.15.1_amd64.deb.torrent",
+    "Pkgname": "com.qwen.chat.0dot5b",
+    "Author": "Aliyun | tongyi@service.aliyun.com",
+    "Contributor": "Tlntin <TlntinDeng01@Gmail.com>",
+    "Website": "https://www.modelscope.cn/models/qwen/Qwen1.5-0.5B-Chat-GGUF/summary",
+    "Update": "2024-03-16 00:24:55",
+    "Size": "377.12 MB",
+    "More": "\"通义千问\"，阿里云通义的尖端产品，是一款具有强大理解和生成人类语言能力的人工智能模型。它不仅能在您的日常生活和工作中提供卓越的帮助，更是一款强大的智能助手。值得一提的是，这款模型无需网络连接，可以在普通的CPU上顺畅运行，有效地保护您的隐私安全。我们诚挚邀请您来体验这款产品的卓越性能和高效服务。本模型是其0.5b（即5亿）参数的开源版本，经过int4量化处理和llamafiles打包。一旦启动，它将自动在您的浏览器中打开并跳转至http://localhost:8080",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/59d3cf690c4b455a996dba3ea142d6fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/7e70dbd9327149b58832fbbd6e1bc7e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/d080f1859222440b9489046cdb6da95d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/16/f82f8f626b8540d182c9f3841cfe04f5.png"
+}
+,
+{
     "Name": "TeXstudio",
     "Version": "4.1.2-1_plus_3.1",
     "Filename": "texstudio_4.1.2-1_plus_3.1_amd64.deb",
@@ -940,23 +957,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0ce0c590-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0f2bee10-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/11310ce0-1b46-11eb-9c06-c785f5a589ec.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/0a06ca90-1b46-11eb-9c06-c785f5a589ec.png"
-}
-,
-{
-    "Name": "通义千问（5亿参数版）",
-    "Version": "0.15.1",
-    "Filename": "com.qwen.chat.0dot5b_0.15.1_amd64.deb",
-    "Torrent_address": "com.qwen.chat.0dot5b_0.15.1_amd64.deb.torrent",
-    "Pkgname": "com.qwen.chat.0dot5b",
-    "Author": "Aliyun | tongyi@service.aliyun.com",
-    "Contributor": "Tlntin <TlntinDeng01@Gmail.com>",
-    "Website": "https://www.modelscope.cn/models/qwen/Qwen1.5-0.5B-Chat-GGUF/summary",
-    "Update": "2024-03-16 00:24:55",
-    "Size": "377.12 MB",
-    "More": "\"通义千问\"，阿里云通义的尖端产品，是一款具有强大理解和生成人类语言能力的人工智能模型。它不仅能在您的日常生活和工作中提供卓越的帮助，更是一款强大的智能助手。值得一提的是，这款模型无需网络连接，可以在普通的CPU上顺畅运行，有效地保护您的隐私安全。我们诚挚邀请您来体验这款产品的卓越性能和高效服务。本模型是其0.5b（即5亿）参数的开源版本，经过int4量化处理和llamafiles打包。一旦启动，它将自动在您的浏览器中打开并跳转至http://localhost:8080",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/59d3cf690c4b455a996dba3ea142d6fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/7e70dbd9327149b58832fbbd6e1bc7e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/d080f1859222440b9489046cdb6da95d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/16/f82f8f626b8540d182c9f3841cfe04f5.png"
 }
 ,
 {
