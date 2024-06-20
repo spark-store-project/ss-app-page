@@ -1,16 +1,16 @@
 {
     "Name": "X Minecraft Launcher",
-    "Version": "0.44.8-840",
-    "Filename": "xmcl_0.44.8-840_amd64.deb",
-    "Torrent_address": "xmcl_0.44.8-840_amd64.deb.torrent",
+    "Version": "0.44.9-843",
+    "Filename": "xmcl_0.44.9-843_amd64.deb",
+    "Torrent_address": "xmcl_0.44.9-843_amd64.deb.torrent",
     "Pkgname": "xmcl",
     "Author": "ci010 <cijhn@hotmail.com>",
-    "Contributor": "Idleness <3499847908@qq.com>",
+    "Contributor": "idleness <3499847908@qq.com>",
     "Website": "https://github.com/voxelum/x-minecraft-launcher#readme",
-    "Update": "2024-06-18 23:45:37",
-    "Size": "83.63 MB",
-    "More": "X Minecraft Launcher (XMCL) 是一个方便你管理大量的整合包，模组，资源包，光影包的的现代化启动器。它对 Minecraft Forge，Fabric，Quilt，Curseforge 和 Modrinth 都有内置支持。\n\n本版本修复了官方打包的chrome-sandbox权限问题",
+    "Update": "2024-06-20 13:47:57",
+    "Size": "83.5 MB",
+    "More": "X Minecraft Launcher (XMCL) 是一个方便你管理大量的整合包，模组，资源包，光影包的的现代化启动器。它对 Minecraft Forge，Fabric，Quilt，Curseforge 和 Modrinth 都有内置支持。\n\n第三方打包以修复,官方打包的chrome-sandbox权限问题(替换了postinst)",
     "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/18/b42810578eeb4b7b905d61e6e1b86c89.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/18/57038b4a1faa46c89b0a0b8fba52f906.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/8a1443ac39b24e98a3f3a51eccfdc70c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/0d7482e3857e4322a68f5ac4edf578f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/5c3f5c7581274b419e09da85dbf95fd5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/20/a63bef191c804a1f991394a2cf23e771.png"
 }

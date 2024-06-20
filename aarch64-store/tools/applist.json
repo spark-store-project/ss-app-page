@@ -462,24 +462,6 @@
 
 ,
 {
-    "Author": "pot-app",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "pot_2.6.7_arm64.deb",
-    "More": "A cross-platform text translation and ocr software",
-    "Name": "pot",
-    "Pkgname": "pot",
-    "Size": "41 Mb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "pot_2.6.7_arm64.deb.torrent",
-    "Update": "2023-10-31 23:19:17",
-    "Version": "2.6.7",
-    "Website": "https://pot-app.com",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/pot/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/pot/screen_1.png\"]"
-}
-
-,
-{
     "Author": "rustdesk <info@rustdesk.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "rustdesk_1.1.9_armhf.deb",
@@ -494,6 +476,24 @@
     "Website": "http://rustdesk.com/zh/",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/rustdesk/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/rustdesk/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/rustdesk/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "pot-app",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "pot_2.6.7_arm64.deb",
+    "More": "A cross-platform text translation and ocr software",
+    "Name": "pot",
+    "Pkgname": "pot",
+    "Size": "41 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "pot_2.6.7_arm64.deb.torrent",
+    "Update": "2023-10-31 23:19:17",
+    "Version": "2.6.7",
+    "Website": "https://pot-app.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/pot/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/pot/screen_1.png\"]"
 }
 
 ,
@@ -716,42 +716,6 @@
 {
     "Author": "zinface <zinface@163.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "z-tools-base-apk-view_1.0-20230129_arm64.deb",
-    "More": "如图，但依赖于 aapt 工具",
-    "Name": "Apk 文件查看器",
-    "Pkgname": "z-tools-base-apk-view",
-    "Size": "819 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "z-tools-base-apk-view_1.0-20230129_arm64.deb.torrent",
-    "Update": "2023-03-06 20:57:22",
-    "Version": "1.0-20230129",
-    "Website": "https://gitee.com/zinface/z-tools",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-base-apk-view/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-base-apk-view/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-base-apk-view/screen_2.png\"]"
-}
-
-,
-{
-    "Author": "zty199 <zty2864@gmail.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.5~uos_arm64.deb",
-    "More": "桌面快捷方式编辑器，帮助你快速创建桌面快捷方式，支持修改、另存为等基本文件操作。\n\n【更新日志】\nv1.4.5\n1. 重构部分代码，使用信号槽函数取代直接操作私有成员；\n2. 重新在 UOS 个人版 1030 系统中使用 Qt 5.11.3 进行编译，修复兼容性。",
-    "Name": "桌面快捷方式编辑器",
-    "Pkgname": "com.gitee.deepin-opensource.desktop-entry-editor",
-    "Size": "70 Kb",
-    "Tags": "community;deepin;uos;dtk5",
-    "Torrent_address": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.5~uos_arm64.deb.torrent",
-    "Update": "2023-03-06 21:01:25",
-    "Version": "1.4.5~uos",
-    "Website": "https://gitee.com/deepin-opensource/desktop-entry-editor",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_3.png\"]"
-}
-
-,
-{
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "z-tools-scanport_0.1-20230129_arm64.deb",
     "More": "Linux toolbox under development",
     "Name": "端口扫描(tcp)",
@@ -764,6 +728,24 @@
     "Website": "https://gitee.com/zinface/z-tools",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-scanport/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-scanport/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "z-tools-base-apk-view_1.0-20230129_arm64.deb",
+    "More": "如图，但依赖于 aapt 工具",
+    "Name": "Apk 文件查看器",
+    "Pkgname": "z-tools-base-apk-view",
+    "Size": "819 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "z-tools-base-apk-view_1.0-20230129_arm64.deb.torrent",
+    "Update": "2023-03-06 20:57:22",
+    "Version": "1.0-20230129",
+    "Website": "https://gitee.com/zinface/z-tools",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-base-apk-view/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-base-apk-view/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-base-apk-view/screen_2.png\"]"
 }
 
 ,
@@ -782,6 +764,24 @@
     "Website": "https://github.com/sonichy/HTYFloatBall",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyfloatball/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyfloatball/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyfloatball/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "zty199 <zty2864@gmail.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.5~uos_arm64.deb",
+    "More": "桌面快捷方式编辑器，帮助你快速创建桌面快捷方式，支持修改、另存为等基本文件操作。\n\n【更新日志】\nv1.4.5\n1. 重构部分代码，使用信号槽函数取代直接操作私有成员；\n2. 重新在 UOS 个人版 1030 系统中使用 Qt 5.11.3 进行编译，修复兼容性。",
+    "Name": "桌面快捷方式编辑器",
+    "Pkgname": "com.gitee.deepin-opensource.desktop-entry-editor",
+    "Size": "70 Kb",
+    "Tags": "community;deepin;uos;dtk5",
+    "Torrent_address": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.5~uos_arm64.deb.torrent",
+    "Update": "2023-03-06 21:01:25",
+    "Version": "1.4.5~uos",
+    "Website": "https://gitee.com/deepin-opensource/desktop-entry-editor",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_3.png\"]"
 }
 
 ,
@@ -1020,24 +1020,6 @@
 
 ,
 {
-    "Author": "海天鹰 <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "com.htyclock.spark_1.0_arm64.deb",
-    "More": "一个小时钟",
-    "Name": "海天鹰时钟",
-    "Pkgname": "com.htyclock.spark",
-    "Size": "26 Kb",
-    "Tags": "community;deepin;ubuntu",
-    "Torrent_address": "com.htyclock.spark_1.0_arm64.deb.torrent",
-    "Update": "2023-03-05 19:25:25",
-    "Version": "1.0",
-    "Website": "https://github.com/sonichy/HTYClock",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.htyclock.spark/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.htyclock.spark/screen_1.png\"]"
-}
-
-,
-{
     "Author": "gfdgd xi <3025613752@qq.com>、为什么您不喜欢熊出没和阿布呢",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "spark-webapp-runtime-runner_1.1.0_arm64.deb",
@@ -1056,6 +1038,24 @@
 
 ,
 {
+    "Author": "海天鹰 <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.htyclock.spark_1.0_arm64.deb",
+    "More": "一个小时钟",
+    "Name": "海天鹰时钟",
+    "Pkgname": "com.htyclock.spark",
+    "Size": "26 Kb",
+    "Tags": "community;deepin;ubuntu",
+    "Torrent_address": "com.htyclock.spark_1.0_arm64.deb.torrent",
+    "Update": "2023-03-05 19:25:25",
+    "Version": "1.0",
+    "Website": "https://github.com/sonichy/HTYClock",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.htyclock.spark/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.htyclock.spark/screen_1.png\"]"
+}
+
+,
+{
     "Author": "help@todesk.com",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "ToDeskClient_1.3.1.5_arm64.deb",
@@ -1070,6 +1070,24 @@
     "Website": "https://www.todesk.com",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/todeskclient/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/todeskclient/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-web-packer_0.1.3_all.deb",
+    "More": "0.1-可以快速创建web app咯！\n",
+    "Name": "星火网页打包工具",
+    "Pkgname": "spark-web-packer",
+    "Size": "6 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "spark-web-packer_0.1.3_all.deb.torrent",
+    "Update": "2023-12-09 16:08:13",
+    "Version": "0.1.3",
+    "Website": "ttps://gitee.com/deepin-community-store/web-packer",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-web-packer/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-web-packer/screen_1.png\"]"
 }
 
 ,
@@ -1110,42 +1128,6 @@
 
 ,
 {
-    "Author": "CongTianKong",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "additional-base-lib_2.36-9_plus_deb12u3-9_arm64.deb",
-    "More": "内置glibc和libstdc++\n其实原理还是我们最爱的bwrap，创建一个容器把libc和ld.so替换掉，就这么简单（bwrap真是为大家节约了不少生命）。此外用了一点小技巧让大家仍然可以自己\n设置LD_LIBRARY_PATH变量来寻找自己安装的动态库。选用的glibc和libstdc++是从debian bookworm（debian 12，目前是测试版）上下载的，支持到GLIBC_2.36、GLIBCXX_3.4.30。\n安装：下载解压得到deb包，打开终端，输入 sudo apt install ，输入空格后在文件管理器里用鼠标按住deb包拖拽过去，然后按回车。\n使用：安装好了后，在终端运行不兼容的软件时，只需要在前面加上ablrun和空格就可以了。ablrun [命令]\n删除：sudo apt remove additional-base-lib\n注意事项：\n1、所有gcc库中我只加入了libstdc++（毕竟比较常用）。如果需要其他比如objective-c，fortran，d等语言的标准库，可以留言\n2、应该能在其他基于debian的发行版上运行，但是我还没测试\n3、由于包括的库比较少，只能解决部分兼容问题。但是通过学习，大家能解决所有常见问题。（可以看我之前的帖子：https://bbs.deepin.org/post/256081）\n4、不能保证程序没有故障，各位需要为自己系统的安全负责",
-    "Name": "Additional Base lib",
-    "Pkgname": "additional-base-lib",
-    "Size": "2095 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "additional-base-lib_2.36-9_plus_deb12u3-9_arm64.deb.torrent",
-    "Update": "2023-11-11 02:21:39",
-    "Version": "2.36-9+deb12u3-9",
-    "Website": "https://gitee.com/deepin-community-store/additional-base-lib",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_2.png\"]"
-}
-
-,
-{
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "spark-web-packer_0.1.3_all.deb",
-    "More": "0.1-可以快速创建web app咯！\n",
-    "Name": "星火网页打包工具",
-    "Pkgname": "spark-web-packer",
-    "Size": "6 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "spark-web-packer_0.1.3_all.deb.torrent",
-    "Update": "2023-12-09 16:08:13",
-    "Version": "0.1.3",
-    "Website": "ttps://gitee.com/deepin-community-store/web-packer",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-web-packer/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-web-packer/screen_1.png\"]"
-}
-
-,
-{
     "Author": "zty199 <zty2864@gmail.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb",
@@ -1164,6 +1146,24 @@
 
 ,
 {
+    "Author": "CongTianKong",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "additional-base-lib_2.36-9_plus_deb12u3-9_arm64.deb",
+    "More": "内置glibc和libstdc++\n其实原理还是我们最爱的bwrap，创建一个容器把libc和ld.so替换掉，就这么简单（bwrap真是为大家节约了不少生命）。此外用了一点小技巧让大家仍然可以自己\n设置LD_LIBRARY_PATH变量来寻找自己安装的动态库。选用的glibc和libstdc++是从debian bookworm（debian 12，目前是测试版）上下载的，支持到GLIBC_2.36、GLIBCXX_3.4.30。\n安装：下载解压得到deb包，打开终端，输入 sudo apt install ，输入空格后在文件管理器里用鼠标按住deb包拖拽过去，然后按回车。\n使用：安装好了后，在终端运行不兼容的软件时，只需要在前面加上ablrun和空格就可以了。ablrun [命令]\n删除：sudo apt remove additional-base-lib\n注意事项：\n1、所有gcc库中我只加入了libstdc++（毕竟比较常用）。如果需要其他比如objective-c，fortran，d等语言的标准库，可以留言\n2、应该能在其他基于debian的发行版上运行，但是我还没测试\n3、由于包括的库比较少，只能解决部分兼容问题。但是通过学习，大家能解决所有常见问题。（可以看我之前的帖子：https://bbs.deepin.org/post/256081）\n4、不能保证程序没有故障，各位需要为自己系统的安全负责",
+    "Name": "Additional Base lib",
+    "Pkgname": "additional-base-lib",
+    "Size": "2095 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "additional-base-lib_2.36-9_plus_deb12u3-9_arm64.deb.torrent",
+    "Update": "2023-11-11 02:21:39",
+    "Version": "2.36-9+deb12u3-9",
+    "Website": "https://gitee.com/deepin-community-store/additional-base-lib",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_2.png\"]"
+}
+
+,
+{
     "Author": "Vlary",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "htyscreenpen_1.2_arm64.deb",
@@ -1178,6 +1178,24 @@
     "Website": " https://github.com/sonichy/HTYScreenPen",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "phytium",
+    "Contributor": "PlaneCN",
+    "Filename": "cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb",
+    "More": "注：仅适用于银河麒麟，UOS用户请下载UOS版\nPhyVirt是一款可直接运行在飞腾平台和主流国产操作系统的虚拟化平台软件，主要用于在信创环境下安装虚拟机，同时支持桌面融合技术，满足终端虚拟化和应用虚拟化的需求。",
+    "Name": "飞腾Phyvirt虚拟化套件 银河麒麟版",
+    "Pkgname": "cn.com.phytium.phyvirt.kylin",
+    "Size": "126 Mb",
+    "Tags": "",
+    "Torrent_address": "cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb.torrent",
+    "Update": "2024-05-16 17:43:17",
+    "Version": "1.5.5.0",
+    "Website": "https://www.phytium.com.cn/developer/39/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_3.png\"]"
 }
 
 ,
@@ -1232,24 +1250,6 @@
     "Website": "https://www.duba.net/",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/screen_3.png\"]"
-}
-
-,
-{
-    "Author": "phytium",
-    "Contributor": "PlaneCN",
-    "Filename": "cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb",
-    "More": "注：仅适用于银河麒麟，UOS用户请下载UOS版\nPhyVirt是一款可直接运行在飞腾平台和主流国产操作系统的虚拟化平台软件，主要用于在信创环境下安装虚拟机，同时支持桌面融合技术，满足终端虚拟化和应用虚拟化的需求。",
-    "Name": "飞腾Phyvirt虚拟化套件 银河麒麟版",
-    "Pkgname": "cn.com.phytium.phyvirt.kylin",
-    "Size": "126 Mb",
-    "Tags": "",
-    "Torrent_address": "cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb.torrent",
-    "Update": "2024-05-16 17:43:17",
-    "Version": "1.5.5.0",
-    "Website": "https://www.phytium.com.cn/developer/39/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_3.png\"]"
 }
 
 ,

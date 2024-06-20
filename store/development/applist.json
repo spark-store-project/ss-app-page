@@ -643,23 +643,6 @@
 }
 ,
 {
-    "Name": "APK Editor Studio",
-    "Version": "1.7.1spark2",
-    "Filename": "com.qwertycube.apk-editor-studio.spark_1.7.1spark2_amd64.deb",
-    "Torrent_address": "com.qwertycube.apk-editor-studio.spark_1.7.1spark2_amd64.deb.torrent",
-    "Pkgname": "com.qwertycube.apk-editor-studio.spark",
-    "Author": "Alexander Gorishnyak",
-    "Contributor": "sgb76",
-    "Website": "https://qwertycube.com/apk-editor-studio/",
-    "Update": "2023-08-30 11:26:29",
-    "Size": "37.3 MB",
-    "More": "APK Editor Studio是一个功能强大且易于使用的APK逆向工程工具，它允许您轻松提取、编辑或替换APK资源，并支持多国语言。",
-    "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/177ba22b655c4229b31cc0183faf0862.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/1d373d8710e44f5f97287c54c75f8d9d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/de32d91881cb4f62a8aab314d01d8c06.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/30/1588055e26ae42c994a4a3c699e2c804.png"
-}
-,
-{
     "Name": "AnotherRedisDesktopManager",
     "Version": "1.6.1",
     "Filename": "com.github.qishibo_1.6.1_amd64.deb",
@@ -674,6 +657,23 @@
     "Tags": "community;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/22/23e917846cbf4d67a3126c7c08f568b0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/22/b425d786ba4f484eb38f5abcb071f468.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/22/977228d5bd5b460e84650c1f9d73bb97.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/22/9dfd820208b04903bf5c939a0b8d092f.png"
+}
+,
+{
+    "Name": "APK Editor Studio",
+    "Version": "1.7.1spark2",
+    "Filename": "com.qwertycube.apk-editor-studio.spark_1.7.1spark2_amd64.deb",
+    "Torrent_address": "com.qwertycube.apk-editor-studio.spark_1.7.1spark2_amd64.deb.torrent",
+    "Pkgname": "com.qwertycube.apk-editor-studio.spark",
+    "Author": "Alexander Gorishnyak",
+    "Contributor": "sgb76",
+    "Website": "https://qwertycube.com/apk-editor-studio/",
+    "Update": "2023-08-30 11:26:29",
+    "Size": "37.3 MB",
+    "More": "APK Editor Studio是一个功能强大且易于使用的APK逆向工程工具，它允许您轻松提取、编辑或替换APK资源，并支持多国语言。",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/177ba22b655c4229b31cc0183faf0862.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/1d373d8710e44f5f97287c54c75f8d9d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/de32d91881cb4f62a8aab314d01d8c06.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/30/1588055e26ae42c994a4a3c699e2c804.png"
 }
 ,
 {
@@ -1143,20 +1143,6 @@
 }
 ,
 {
-   "Name":"mqttfx",
-   "Version":"1.7.1",
-   "Filename":"mqttfx-1.7.1-64bit.deb",
-   "Pkgname":"mqttfx",
-   "Author":"mqttfx",
-   "Contributor":"风铃",
-   "Website":"http://mqttfx.jensd.de/",
-   "Update":"2020-07-26 23:51",
-   "Size":"72.41MB",
-   "More":"MQTT.fx是一个跨平台的MQTT的图形化客户端"
-}
-
-,
-{
     "Name": "Liberica JDK 11 Full",
     "Version": "11.0.23+10",
     "Filename": "bellsoft-java11-full_11.0.23_plus10_amd64.deb",
@@ -1172,6 +1158,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/3d3664a4e60a4859be50d2b6612761ff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/f7d2ce4abc754c06a88bd7db5fd6a410.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/b545a377c4414ff092031e1ed18ee5f0.png"
 }
+,
+{
+   "Name":"mqttfx",
+   "Version":"1.7.1",
+   "Filename":"mqttfx-1.7.1-64bit.deb",
+   "Pkgname":"mqttfx",
+   "Author":"mqttfx",
+   "Contributor":"风铃",
+   "Website":"http://mqttfx.jensd.de/",
+   "Update":"2020-07-26 23:51",
+   "Size":"72.41MB",
+   "More":"MQTT.fx是一个跨平台的MQTT的图形化客户端"
+}
+
 ,
 {
     "Name": "OpenCore Auxiliary Tools",
@@ -1672,23 +1672,6 @@
 }
 ,
 {
-    "Name": "Fritzing",
-    "Version": "0.9.10",
-    "Filename": "org.fritzing_0.9.10_amd64.deb",
-    "Torrent_address": "org.fritzing_0.9.10_amd64.deb.torrent",
-    "Pkgname": "org.fritzing",
-    "Author": "Fritzing",
-    "Contributor": "秦以南",
-    "Website": "https://fritzing.org/releases",
-    "Update": "2022-08-04 10:37:21",
-    "Size": "66.39 MB",
-    "More": "Fritzing是一个开源的硬件计划，它使电子学作为一种创造性的材料为任何人所接受。我们本着Processing和Arduino的精神提供一个软件工具、一个社区网站和服务，促进一个创造性的生态系统，使用户能够记录他们的原型，与他人分享，在课堂上教授电子技术，并布置和制造专业的PCB。",
-    "Tags": "a2d;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/04/51d864d0-139e-11ed-8756-c505056a962f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/04/4f40ca00-139e-11ed-8756-c505056a962f.png"
-}
-,
-{
     "Name": "VSCode 历史项目信息分析器",
     "Version": "0.0.4-20230828",
     "Filename": "vscode-history-analyzer_0.0.4-20230828_amd64.deb",
@@ -1703,6 +1686,23 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/8ff47a9e591f450e8d0469def4ed2842.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/ba6abb843e80465ca412ef8b9c952fe9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/28/d2a52ead196b4644bd0c292098d5135d.png"
+}
+,
+{
+    "Name": "Fritzing",
+    "Version": "0.9.10",
+    "Filename": "org.fritzing_0.9.10_amd64.deb",
+    "Torrent_address": "org.fritzing_0.9.10_amd64.deb.torrent",
+    "Pkgname": "org.fritzing",
+    "Author": "Fritzing",
+    "Contributor": "秦以南",
+    "Website": "https://fritzing.org/releases",
+    "Update": "2022-08-04 10:37:21",
+    "Size": "66.39 MB",
+    "More": "Fritzing是一个开源的硬件计划，它使电子学作为一种创造性的材料为任何人所接受。我们本着Processing和Arduino的精神提供一个软件工具、一个社区网站和服务，促进一个创造性的生态系统，使用户能够记录他们的原型，与他人分享，在课堂上教授电子技术，并布置和制造专业的PCB。",
+    "Tags": "a2d;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/04/51d864d0-139e-11ed-8756-c505056a962f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/04/4f40ca00-139e-11ed-8756-c505056a962f.png"
 }
 ,
 {

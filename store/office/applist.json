@@ -1551,23 +1551,6 @@
 }
 ,
 {
-    "Name": "MIcrosoft Office Access 2007 Professional Plus（Wine）",
-    "Version": "2007deepin2",
-    "Filename": "com.microsoft.access.deepin_2007deepin2_i386.deb",
-    "Torrent_address": "com.microsoft.access.deepin_2007deepin2_i386.deb.torrent",
-    "Pkgname": "com.microsoft.access.deepin",
-    "Author": "Deepin WINE Team",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "www.microsoft.com",
-    "Update": "2022-11-03 17:09:24",
-    "Size": "840.16 MB",
-    "More": "MIcrosoft Office Access 2007 Professional（Wine）",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/03/4e5967d9-48bd-4317-afd9-ebdb7309345a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/03/c0323063-0d9f-4367-9beb-ee87f4e0539a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/03/298dd756-d2a9-4cbf-bc5e-0cd0eae32723.png"
-}
-,
-{
     "Name": "千牛 (Wine)",
     "Version": "9",
     "Filename": "spark-alqn-wine_9_all.deb",
@@ -1582,6 +1565,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/29/8e3543b0-760a-11ee-b2c1-47e2c45d7924.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/29/918b4c80-760a-11ee-b2c1-47e2c45d7924.png"
+}
+,
+{
+    "Name": "MIcrosoft Office Access 2007 Professional Plus（Wine）",
+    "Version": "2007deepin2",
+    "Filename": "com.microsoft.access.deepin_2007deepin2_i386.deb",
+    "Torrent_address": "com.microsoft.access.deepin_2007deepin2_i386.deb.torrent",
+    "Pkgname": "com.microsoft.access.deepin",
+    "Author": "Deepin WINE Team",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "www.microsoft.com",
+    "Update": "2022-11-03 17:09:24",
+    "Size": "840.16 MB",
+    "More": "MIcrosoft Office Access 2007 Professional（Wine）",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/03/4e5967d9-48bd-4317-afd9-ebdb7309345a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/03/c0323063-0d9f-4367-9beb-ee87f4e0539a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/03/298dd756-d2a9-4cbf-bc5e-0cd0eae32723.png"
 }
 ,
 {
@@ -1833,23 +1833,6 @@
 
 ,
 {
-    "Name": "中银证券（wine）",
-    "Version": "8.14deepin5",
-    "Filename": "com.bocichina.zhongyin.spark_8.14deepin5_i386.deb",
-    "Torrent_address": "com.bocichina.zhongyin.spark_8.14deepin5_i386.deb.torrent",
-    "Pkgname": "com.bocichina.zhongyin.spark",
-    "Author": "中银国际证券股份有限公司",
-    "Contributor": "delsin",
-    "Website": "https://www.bocichina.com/",
-    "Update": "2022-06-07 23:29:42",
-    "Size": "338.68 MB",
-    "More": "中银证券通达信网上交易新一代系统V8.14 on Deepin Wine5\n提示：\n（1）对于高分辨率屏幕字体显示太小的问题，请自定义分辨率，在终端命令输入：WINEPREFIX=~/.deepinwine/Spark-Zhongyin ~/.deepinwine/deepin-wine5-stable/bin/winecfg 在弹出的界面选择：显示——屏幕分辨率。屏幕分辨率越高，dpi需设置越大（可多调整几次dpi，以期达到最佳显示效果）。",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/07/65cf5a20-e676-11ec-89e9-6d13a4e046a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/07/674690d0-e676-11ec-89e9-6d13a4e046a5.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/07/621c6440-e676-11ec-89e9-6d13a4e046a5.png"
-}
-,
-{
     "Name": "Effie",
     "Version": "3.5.1spark12",
     "Filename": "co.effie.spark_3.5.1spark12_all.deb",
@@ -1864,6 +1847,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/7107cd207f144847b573a28242215315.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/f8dc1af5bc8f45dfbbd5b77c6db15456.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/70b32595695348a3a82d548fd5a4f303.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/26/970bd814b5674635a01321eb97cc6bb5.png"
+}
+,
+{
+    "Name": "中银证券（wine）",
+    "Version": "8.14deepin5",
+    "Filename": "com.bocichina.zhongyin.spark_8.14deepin5_i386.deb",
+    "Torrent_address": "com.bocichina.zhongyin.spark_8.14deepin5_i386.deb.torrent",
+    "Pkgname": "com.bocichina.zhongyin.spark",
+    "Author": "中银国际证券股份有限公司",
+    "Contributor": "delsin",
+    "Website": "https://www.bocichina.com/",
+    "Update": "2022-06-07 23:29:42",
+    "Size": "338.68 MB",
+    "More": "中银证券通达信网上交易新一代系统V8.14 on Deepin Wine5\n提示：\n（1）对于高分辨率屏幕字体显示太小的问题，请自定义分辨率，在终端命令输入：WINEPREFIX=~/.deepinwine/Spark-Zhongyin ~/.deepinwine/deepin-wine5-stable/bin/winecfg 在弹出的界面选择：显示——屏幕分辨率。屏幕分辨率越高，dpi需设置越大（可多调整几次dpi，以期达到最佳显示效果）。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/07/65cf5a20-e676-11ec-89e9-6d13a4e046a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/07/674690d0-e676-11ec-89e9-6d13a4e046a5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/07/621c6440-e676-11ec-89e9-6d13a4e046a5.png"
 }
 ,
 {
@@ -2453,23 +2453,6 @@
 }
 ,
 {
-    "Name": "移动办公",
-    "Version": "2.1.7008",
-    "Filename": "com.cmic.yidongbangong_2.1.7008_amd64.deb",
-    "Torrent_address": "com.cmic.yidongbangong_2.1.7008_amd64.deb.torrent",
-    "Pkgname": "com.cmic.yidongbangong",
-    "Author": "中国移动通信集团<cmic@cmic.com.cn>",
-    "Contributor": "马奕兆<1580748939@139.com>",
-    "Website": "https://o.andfx.net/gongzuoji/hebangong/index.html",
-    "Update": "2023-11-05 17:11:46",
-    "Size": "139.51 MB",
-    "More": "移动办公是中国移动为集团成员打造的专属APP，为成员客户提供高品质的办公应用、丰富的营销活动、特色的权益套餐、专属的业务办理入口及成员产品的自助服务模块，满足不同行业客户移动办公。",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/05/56b9ebf0-7bbb-11ee-ac1f-57fb07dcd3ce.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/05/2dd88750-7bbb-11ee-ac1f-57fb07dcd3ce.png"
-}
-,
-{
     "Name": "千牛",
     "Version": "9.8.211",
     "Filename": "uengine-dc-com.taobao.qianniu_9.8.211_all.deb",
@@ -2487,20 +2470,20 @@
 }
 ,
 {
-    "Name": "超级星学习通",
-    "Version": "1.0.0",
-    "Filename": "chaoxingstudy_1.0.0_i386.deb",
-    "Torrent_address": "chaoxingstudy_1.0.0_i386.deb.torrent",
-    "Pkgname": "chaoxingstudy",
-    "Author": "rc3583z<huawei0086@126.com>",
-    "Contributor": "rc3583z",
-    "Website": "huawei0086@126.com>",
-    "Update": "2023-04-16 09:10:55",
-    "Size": "480.5 MB",
-    "More": "学习通，完成作业。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e202d70-dbf3-11ed-b7c5-79e728797698.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e32a400-dbf3-11ed-b7c5-79e728797698.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/16/2a1ddf10-dbf3-11ed-b7c5-79e728797698.png"
+    "Name": "移动办公",
+    "Version": "2.1.7008",
+    "Filename": "com.cmic.yidongbangong_2.1.7008_amd64.deb",
+    "Torrent_address": "com.cmic.yidongbangong_2.1.7008_amd64.deb.torrent",
+    "Pkgname": "com.cmic.yidongbangong",
+    "Author": "中国移动通信集团<cmic@cmic.com.cn>",
+    "Contributor": "马奕兆<1580748939@139.com>",
+    "Website": "https://o.andfx.net/gongzuoji/hebangong/index.html",
+    "Update": "2023-11-05 17:11:46",
+    "Size": "139.51 MB",
+    "More": "移动办公是中国移动为集团成员打造的专属APP，为成员客户提供高品质的办公应用、丰富的营销活动、特色的权益套餐、专属的业务办理入口及成员产品的自助服务模块，满足不同行业客户移动办公。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/05/56b9ebf0-7bbb-11ee-ac1f-57fb07dcd3ce.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/05/2dd88750-7bbb-11ee-ac1f-57fb07dcd3ce.png"
 }
 ,
 {
@@ -2520,6 +2503,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.xylink.linuxclient/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.xylink.linuxclient/screen_2.png\"]"
 }
 
+,
+{
+    "Name": "超级星学习通",
+    "Version": "1.0.0",
+    "Filename": "chaoxingstudy_1.0.0_i386.deb",
+    "Torrent_address": "chaoxingstudy_1.0.0_i386.deb.torrent",
+    "Pkgname": "chaoxingstudy",
+    "Author": "rc3583z<huawei0086@126.com>",
+    "Contributor": "rc3583z",
+    "Website": "huawei0086@126.com>",
+    "Update": "2023-04-16 09:10:55",
+    "Size": "480.5 MB",
+    "More": "学习通，完成作业。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e202d70-dbf3-11ed-b7c5-79e728797698.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e32a400-dbf3-11ed-b7c5-79e728797698.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/16/2a1ddf10-dbf3-11ed-b7c5-79e728797698.png"
+}
 ,
 {
     "Name": "Todoist",
@@ -3022,6 +3022,23 @@
 }
 ,
 {
+    "Name": "WPS Office 365",
+    "Version": "12.8.2.16969.AK.preload.sw",
+    "Filename": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb",
+    "Torrent_address": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb.torrent",
+    "Pkgname": "wps-office-365",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://wps-community.org",
+    "Update": "2024-06-16 10:13:44",
+    "Size": "722.16 MB",
+    "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/819a4c6aea004b1bb9059da5c1511085.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6bd9ad01e587436fb9ca5e74ef078921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/76097ef94d21409091dbcada9fcefe7c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/2dffce17cb754c4a8407d85de5511bc2.png"
+}
+,
+{
     "Name": "GitMind（web）",
     "Version": "1.0spark0",
     "Filename": "web-gitmind_1.0spark0_amd64.deb",
@@ -3069,23 +3086,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/2304c6d7c85249c6a9458f50b92ceec7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/68976f02a1a14be98718ca8b42fd09d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/db6cc48a84f14fa694ba6bbd0a3fb9f7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/6e5a429de6a642eb8b9e33ebf8947d5d.png"
-}
-,
-{
-    "Name": "WPS Office 365",
-    "Version": "12.8.2.16969.AK.preload.sw",
-    "Filename": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb",
-    "Torrent_address": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb.torrent",
-    "Pkgname": "wps-office-365",
-    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://wps-community.org",
-    "Update": "2024-06-16 10:13:44",
-    "Size": "722.16 MB",
-    "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/819a4c6aea004b1bb9059da5c1511085.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6bd9ad01e587436fb9ca5e74ef078921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/76097ef94d21409091dbcada9fcefe7c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/2dffce17cb754c4a8407d85de5511bc2.png"
 }
 ,
 {
@@ -3453,6 +3453,23 @@
 }
 ,
 {
+    "Name": "2345 PDF 转换器",
+    "Version": "2.9.0.830spark0",
+    "Filename": "com.2345pdf.spark_2.9.0.830spark0_all.deb",
+    "Torrent_address": "com.2345pdf.spark_2.9.0.830spark0_all.deb.torrent",
+    "Pkgname": "com.2345pdf.spark",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://pdfcvt.2345.cc/",
+    "Update": "2024-04-26 19:47:07",
+    "Size": "42.71 MB",
+    "More": "支持PDF与Word、PPT、Excel、图片、OFD等文件之间的互相转换，支持PDF转换成Word、图片、Excel、PPT、OFD等文件，同时也支持把Word、PPT、Excel、图片、OFD、CAJ、CAD等文件档转换为PDF文件。可以一键批量转换，转换后的文件可以在Word、Powerpoint、Excel中打开直接编辑。此外还支持PDF压缩、PDF拆分、PDF合并、PDF添加和解除密码、PDF添加水印、OCR文字识别、图片处理等特色功能。 2345PDF转换器，支持转换的文件格式丰富、转换质量超好、界面操作简单。你只需要把PDF文件拖到软件主窗口，然后点击“开始转换”按钮即可轻松完成转换，最大精准度地保留所有原始数据和布局。不同类型的文件皆可适用，下载使用即可提高工作效率。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/eb7c3c50420f4b288190af06cf78ce77.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/ede2a7aebe9d4bc9af0ff32c160dcd02.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/14cdbd1ae4094c0687cebb1d7e2049dc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/8f58b9deb050411483b2eef45a1b9295.png"
+}
+,
+{
     "Name": "口袋写作",
     "Version": "0.1.1spark0",
     "Filename": "cn.kdwrite.spark_0.1.1spark0_amd64.deb",
@@ -3518,23 +3535,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/30/0e014680-f866-11ec-b2f0-21c04091535e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/30/0ff09360-f866-11ec-b2f0-21c04091535e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/30/1216cec0-f866-11ec-b2f0-21c04091535e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/30/13e35160-f866-11ec-b2f0-21c04091535e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/30/d50cbd50-f865-11ec-b2f0-21c04091535e.png"
-}
-,
-{
-    "Name": "2345 PDF 转换器",
-    "Version": "2.9.0.830spark0",
-    "Filename": "com.2345pdf.spark_2.9.0.830spark0_all.deb",
-    "Torrent_address": "com.2345pdf.spark_2.9.0.830spark0_all.deb.torrent",
-    "Pkgname": "com.2345pdf.spark",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://pdfcvt.2345.cc/",
-    "Update": "2024-04-26 19:47:07",
-    "Size": "42.71 MB",
-    "More": "支持PDF与Word、PPT、Excel、图片、OFD等文件之间的互相转换，支持PDF转换成Word、图片、Excel、PPT、OFD等文件，同时也支持把Word、PPT、Excel、图片、OFD、CAJ、CAD等文件档转换为PDF文件。可以一键批量转换，转换后的文件可以在Word、Powerpoint、Excel中打开直接编辑。此外还支持PDF压缩、PDF拆分、PDF合并、PDF添加和解除密码、PDF添加水印、OCR文字识别、图片处理等特色功能。 2345PDF转换器，支持转换的文件格式丰富、转换质量超好、界面操作简单。你只需要把PDF文件拖到软件主窗口，然后点击“开始转换”按钮即可轻松完成转换，最大精准度地保留所有原始数据和布局。不同类型的文件皆可适用，下载使用即可提高工作效率。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/eb7c3c50420f4b288190af06cf78ce77.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/ede2a7aebe9d4bc9af0ff32c160dcd02.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/14cdbd1ae4094c0687cebb1d7e2049dc.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/8f58b9deb050411483b2eef45a1b9295.png"
 }
 ,
 {
@@ -4141,6 +4141,23 @@
 }
 ,
 {
+    "Name": "文心一言（web）",
+    "Version": "1.0",
+    "Filename": "com.yiyan.uos_1.0_amd64.deb",
+    "Torrent_address": "com.yiyan.uos_1.0_amd64.deb.torrent",
+    "Pkgname": "com.yiyan.uos",
+    "Author": "<zhuyanlong@uniontech.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://yiyan.baidu.com/?utm_source=uos",
+    "Update": "2024-06-15 20:22:08",
+    "Size": "72.29 MB",
+    "More": "1、文心一言由文心大模型驱动，具备理解、生成、逻辑、记忆四大基础能力。当前文心大模型已升级至4.0版本，能够帮助你轻松搞定各类复杂任务。\n理解能力：听得懂潜台词、复杂句式、专业术语，今天，人类说的每一句话，它大概率都能听懂！\n生成能力：快速生成文本、代码、图片、图表、视频，今天，人类目光所致的所有内容，它几乎都能生成！\n逻辑能力： 复杂的逻辑难题、困难的数学计算、重要的职业/生活决策统统能帮你解决，情商智商双商在线！\n记忆能力：不仅有高性能，更有好记性。N轮对话过后，你话里的重点，它总会记得，帮你步步精进，解决复杂任务！\n2、文心一言是你工作、学习、生活中省时提效的好帮手；是你闲暇时刻娱乐打趣的好伙伴；也是你需要倾诉陪伴时的好朋友。在你人生旅途经历的每个阶段、面对的各种场景中，文心一言7*24小时在线，伴你左右。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/a41a95ff5ac0478384e7173599fb7cbc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/38ba0bfcb5a741858da5b97a8d9ca465.png"
+}
+,
+{
     "Name": "日事清",
     "Version": "3.3.1",
     "Filename": "com.rishiqing.uos_3.3.1_amd64.deb",
@@ -4225,6 +4242,22 @@
 }
 ,
 {
+    "Name": "ShowDoc（wine）",
+    "Version": "1.0.3spark0",
+    "Filename": "org.showdoc.spark_1.0.3spark0_amd64.deb",
+    "Pkgname": "org.showdoc.spark",
+    "Author": "showdoc",
+    "Contributor": "sgb76",
+    "Website": "https://www.showdoc.com.cn/",
+    "Update": "2021-08-06 12:50:35",
+    "Size": "204.95 MB",
+    "More": "一个非常适合IT团队的API文档、技术文档工具\n\n注：Ubuntu下只能在KDE环境下正常启动",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/06/8bff6500-f671-11eb-9cbc-076e886aa793.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/06/91611c50-f671-11eb-9cbc-076e886aa793.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/06/989cc3c0-f671-11eb-9cbc-076e886aa793.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/06/850a8a90-f671-11eb-9cbc-076e886aa793.png"
+}
+,
+{
     "Name": "JabRef",
     "Version": "5.1.60000-1",
     "Filename": "jabref_5.1-1_amd64.deb",
@@ -4253,23 +4286,6 @@
    "More":"笔神是一款电脑端写作工具，笔神不仅支持markdown，还提供了树形目录管理可以让你更好的管理自己已完成的章节。笔神电脑版的界面非常简单，还提供了自动存储功能，登录账号即可获取已保存的内容，不用担心写到一半因为特殊原因导致的文档丢失。\nP.S.由于现有服务器没有统计下载量的方式，只能在安装deb包的时候用我们的反馈邮箱发一封邮件，以此来统计下载数量。如果给您造成不便，请您谅解。"
 }
 
-,
-{
-    "Name": "文心一言（web）",
-    "Version": "1.0",
-    "Filename": "com.yiyan.uos_1.0_amd64.deb",
-    "Torrent_address": "com.yiyan.uos_1.0_amd64.deb.torrent",
-    "Pkgname": "com.yiyan.uos",
-    "Author": "<zhuyanlong@uniontech.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://yiyan.baidu.com/?utm_source=uos",
-    "Update": "2024-06-15 20:22:08",
-    "Size": "72.29 MB",
-    "More": "1、文心一言由文心大模型驱动，具备理解、生成、逻辑、记忆四大基础能力。当前文心大模型已升级至4.0版本，能够帮助你轻松搞定各类复杂任务。\n理解能力：听得懂潜台词、复杂句式、专业术语，今天，人类说的每一句话，它大概率都能听懂！\n生成能力：快速生成文本、代码、图片、图表、视频，今天，人类目光所致的所有内容，它几乎都能生成！\n逻辑能力： 复杂的逻辑难题、困难的数学计算、重要的职业/生活决策统统能帮你解决，情商智商双商在线！\n记忆能力：不仅有高性能，更有好记性。N轮对话过后，你话里的重点，它总会记得，帮你步步精进，解决复杂任务！\n2、文心一言是你工作、学习、生活中省时提效的好帮手；是你闲暇时刻娱乐打趣的好伙伴；也是你需要倾诉陪伴时的好朋友。在你人生旅途经历的每个阶段、面对的各种场景中，文心一言7*24小时在线，伴你左右。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/a41a95ff5ac0478384e7173599fb7cbc.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/38ba0bfcb5a741858da5b97a8d9ca465.png"
-}
 ,
 {
     "Author": "shenmo",
@@ -4436,22 +4452,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/01/1cd7db60-17d7-11ee-b16f-53c5df678630.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/01/185168e0-17d7-11ee-b16f-53c5df678630.png"
-}
-,
-{
-    "Name": "ShowDoc（wine）",
-    "Version": "1.0.3spark0",
-    "Filename": "org.showdoc.spark_1.0.3spark0_amd64.deb",
-    "Pkgname": "org.showdoc.spark",
-    "Author": "showdoc",
-    "Contributor": "sgb76",
-    "Website": "https://www.showdoc.com.cn/",
-    "Update": "2021-08-06 12:50:35",
-    "Size": "204.95 MB",
-    "More": "一个非常适合IT团队的API文档、技术文档工具\n\n注：Ubuntu下只能在KDE环境下正常启动",
-    "Tags": "ubuntu;deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/06/8bff6500-f671-11eb-9cbc-076e886aa793.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/06/91611c50-f671-11eb-9cbc-076e886aa793.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/06/989cc3c0-f671-11eb-9cbc-076e886aa793.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/06/850a8a90-f671-11eb-9cbc-076e886aa793.png"
 }
 ,
 {
