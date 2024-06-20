@@ -10281,6 +10281,24 @@ Description: 自定义主题打包工具
 
 Package: mimicry-clock-screensaver
 Architecture: amd64
+Version: 1.0.0-20240620
+Priority: optional
+Section: devel
+Maintainer: zinface <zinface@163.com>
+Installed-Size: 570
+Filename: themes/mimicry-clock-screensaver/mimicry-clock-screensaver_1.0.0-20240620_amd64.deb
+Size: 502774
+MD5sum: f33c8e852787787469bffc44ca2bf027
+SHA1: 40a31075d345899c69507857619f01ed39db39b8
+SHA256: f4b9ac34d5c4881b5185cddea40a5640a04ef7b611d2faf7a8767607270d225c
+SHA512: be2bfee5df4e9aa04fd5d00f005416004c85596b4354a3ebf695e6f437c86105a8e2842a21f1c5a8ae985fbb8d4ef4155f6b5dd4b1f51b6891ce407cf42f42c5
+Description: 拟态时钟屏保
+ 适用于深度操作系统的拟态时钟屏保程序
+ .
+ Build for Uos20 through spark-deb-build.
+
+Package: mimicry-clock-screensaver
+Architecture: amd64
 Version: 1.0.0-20240606
 Priority: optional
 Section: devel
@@ -20500,6 +20518,23 @@ SHA256: 2593789533feb0d9d745397fa01a906576d901516bb332fd69a8415d71c87f7a
 SHA512: 1e60c0ccdc11e3da27f7abe422878460a1102bcd025a325a8de36f065e96dd305e1a33f90ed58b8ea6d04defec1a02cefcadc393bee90adc994c976ad8d05210
 Description: Neverending Nightmares on Deepin Wine6
  一款恐怖冒险解谜类游戏
+
+Package: deepin.ra2.enemyag4
+Architecture: all
+Version: 1.2.1
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: LFRon
+Installed-Size: 256544
+Depends: mejituu-wine8, spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: games/deepin.ra2.enemyag4/deepin.ra2.enemyag4_1.2.1_all.deb
+Size: 256560692
+MD5sum: ee21f1b7f38c079c2149cb57beccc33b
+SHA1: 4d6eebcec21d320d936e51deeebfc07a20a8a4c7
+SHA256: 2ab5081333a35b46fccc2b9121d4aa4f82799048948023f84dc935af5eaf6794
+SHA512: 5fe250a666c51bfe149e0657bdc4e77e56832da0c63e5346de70e2383effd2d1def51e47629aab4721b5012cbee5a36fe9660351508ef55e09a8c5a0a4437ce9
+Description: Deepin-wine8运行的红色警戒2-兵临城下4
 
 Package: deepin.ra2.enemyag4
 Architecture: all

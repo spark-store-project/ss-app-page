@@ -641,20 +641,6 @@
 
 ,
 {
-   "Name":"Intel核心管理器",
-   "Version":"0.2.0",
-   "Filename":"dde-pstate_0.2.0_all.deb",
-   "Pkgname":"dde-pstate",
-   "Author":"搬运自网络",
-   "Contributor":"奇点法则",
-   "Website":"Q群：226570931",
-   "Update":"2020-07-27 00:32",
-   "Size":"74.25KB",
-   "More":"适用于Intel平台的核心频率管理器,仅支持deepin"
-}
-
-,
-{
     "Name": "玲珑应用商店",
     "Version": "1.2.5",
     "Filename": "linglong-store_1.2.5_amd64.deb",
@@ -670,6 +656,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/4c73f1273f4f4fa9b95bee6fbf6e1d07.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/da5cdd61904d491eaf2c6fdb157dbd68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/7b2822768d80441ca7fd3aecdc0d7b71.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/278fec555e5e462b995081618f89d5fc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/8569486375cb48a79b09f634c8b24074.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/2328460f2fab417f84648541c74cdad3.png"
 }
+,
+{
+   "Name":"Intel核心管理器",
+   "Version":"0.2.0",
+   "Filename":"dde-pstate_0.2.0_all.deb",
+   "Pkgname":"dde-pstate",
+   "Author":"搬运自网络",
+   "Contributor":"奇点法则",
+   "Website":"Q群：226570931",
+   "Update":"2020-07-27 00:32",
+   "Size":"74.25KB",
+   "More":"适用于Intel平台的核心频率管理器,仅支持deepin"
+}
+
 ,
 {
     "Name": "桌面快捷方式编辑器",
