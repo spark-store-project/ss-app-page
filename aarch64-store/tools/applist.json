@@ -1074,6 +1074,24 @@
 
 ,
 {
+    "Author": "zty199 <zty2864@gmail.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb",
+    "More": "dde-dock 显卡切换插件，在任务栏显示图标方便快速切换显卡。\n修改自论坛大佬 chanforever 的切换显卡插件，原贴地址：https://bbs.deepin.org/zh/post/197280\n\n【更新日志】\nv1.8.4-2:\n1. 修复社区版 20.7 上插件加载或移动位置时异常退出问题",
+    "Name": "任务栏显卡切换插件",
+    "Pkgname": "dde-dock-graphics-plugin",
+    "Size": "39 Kb",
+    "Tags": "community;deepin;uos;dtk5",
+    "Torrent_address": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb.torrent",
+    "Update": "2023-03-06 20:53:35",
+    "Version": "1.8.4-3",
+    "Website": "https://github.com/zty199/dde-dock-switch_graphics_card",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_3.png\"]"
+}
+
+,
+{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "spark-web-packer_0.1.3_all.deb",
@@ -1128,24 +1146,6 @@
 
 ,
 {
-    "Author": "zty199 <zty2864@gmail.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb",
-    "More": "dde-dock 显卡切换插件，在任务栏显示图标方便快速切换显卡。\n修改自论坛大佬 chanforever 的切换显卡插件，原贴地址：https://bbs.deepin.org/zh/post/197280\n\n【更新日志】\nv1.8.4-2:\n1. 修复社区版 20.7 上插件加载或移动位置时异常退出问题",
-    "Name": "任务栏显卡切换插件",
-    "Pkgname": "dde-dock-graphics-plugin",
-    "Size": "39 Kb",
-    "Tags": "community;deepin;uos;dtk5",
-    "Torrent_address": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb.torrent",
-    "Update": "2023-03-06 20:53:35",
-    "Version": "1.8.4-3",
-    "Website": "https://github.com/zty199/dde-dock-switch_graphics_card",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_3.png\"]"
-}
-
-,
-{
     "Author": "CongTianKong",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "additional-base-lib_2.36-9_plus_deb12u3-9_arm64.deb",
@@ -1182,6 +1182,24 @@
 
 ,
 {
+    "Author": "shenmo@spark-app.store",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-building-service_0.3_all.deb",
+    "More": "星火构建服务 SBS\n前往官网查看",
+    "Name": "星火构建服务 SBS",
+    "Pkgname": "spark-building-service",
+    "Size": "3 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "spark-building-service_0.3_all.deb.torrent",
+    "Update": "2023-11-25 10:08:56",
+    "Version": "0.3",
+    "Website": "https://gitee.com/spark-building-service/spark-buiding-service",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-building-service/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-building-service/screen_1.png\"]"
+}
+
+,
+{
     "Author": "phytium",
     "Contributor": "PlaneCN",
     "Filename": "cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb",
@@ -1214,24 +1232,6 @@
     "Website": "https://gitee.com/spark-community-works-collections/transhell",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/autotrash-bash/icon.png",
     "img_urls": "[]"
-}
-
-,
-{
-    "Author": "shenmo@spark-app.store",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "spark-building-service_0.3_all.deb",
-    "More": "星火构建服务 SBS\n前往官网查看",
-    "Name": "星火构建服务 SBS",
-    "Pkgname": "spark-building-service",
-    "Size": "3 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "spark-building-service_0.3_all.deb.torrent",
-    "Update": "2023-11-25 10:08:56",
-    "Version": "0.3",
-    "Website": "https://gitee.com/spark-building-service/spark-buiding-service",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-building-service/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-building-service/screen_1.png\"]"
 }
 
 ,

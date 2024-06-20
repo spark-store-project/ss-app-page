@@ -6341,6 +6341,29 @@ SHA256: b133ad7908d7ecf4389da9d4c088b192e8ce0e71ba0f88b7407511610eaf1244
 SHA512: 8f4d744524d18982ca3fdebdac2da663bd52270aba82533992ed3c62b9454549e66a4527a531adf588286bd3ecdfa931d92a8c825b60bc03679f64c78f137772
 Description: com.pvzhz.spark
 
+Package: fallout.equestria.remains
+Architecture: all
+Version: 1.0.2
+Priority: important
+Essential: no
+Section: games
+Maintainer: ShadowDumb [https://github.com/ShadowDumb/FalloutEquestriaRemainsLinux]
+Installed-Size: 432108
+Provides: Empalu
+Depends: spark-wine,spark-dwine-helper
+Filename: games/fallout.equestria.remains/fallout.equestria.remains_1.0.2_all.deb
+Size: 304757308
+MD5sum: bb7ffd6f22e009f8bd2a11d79ca6c065
+SHA1: ea0546d8ad380b2fedd9586a09d6ca30d15af1ff
+SHA256: 392b0b0170ec29410ebdcd30f15137aee3ecfd34f983e0e6fc9263ea99d45bf9
+SHA512: 4c1d34562be96a672b2ec176a17e026e9620b662bba0791b52f0bed501fcbd74a4650fb2cb28995761c435b4fa53579cdeae1456d118a1ff5f785ace600edf2a
+Homepage: http://foe.ucoz.org/main_en.html
+Description: A fan made game of Fallout Equestria.
+ Once upon a time, in the magical land of Equestria...
+ there came an era when the ideals of friendship gave way to envy, selfishness, greed and cruelty. The Great War for natural resources broke out, in which there were no winners. A magical spark struck by pony hooves quickly raged out of control and turned into flames that engulfed whole continents. Dragon fire and black magic, turned into destructive weapons, almost ended all life on the planet. Soil, water and air became poisoned from radiation, cities were destroyed, civilizations collapsed. Both ponies and their enemies were almost wiped off the face of the earth. Apocalypse, predicted by insane prophets, whom almost no one believed until the last day, finally has come...
+ But it was not the end yet. Many ponies survived, some - hiding in the huge underground shelters-stables, others - somehow adapting to new conditions. Apocalypse was just a prologue for another bloody chapter of pony history. On the scorched and poisoned Wasteland, violence and cruelty became not just permissible - now they were means of survival...
+ Since that day, the last day of the former Equestria, about two hundred years have passed...
+
 Package: spark-office
 Architecture: all
 Version: 15.0.0

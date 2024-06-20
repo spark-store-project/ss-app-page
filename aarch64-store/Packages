@@ -5263,7 +5263,7 @@ SHA512: 2b73da823b56632a4c619af325975f7677429f803844f9cd904e455c4a76901e7ff2ecdd
 Description: DaifuRushByMutangM
 
 Package: fallout.equestria.remains
-Architecture: amd64
+Architecture: all
 Version: 1.0.2
 Priority: important
 Essential: no
@@ -5271,13 +5271,13 @@ Section: games
 Maintainer: ShadowDumb [https://github.com/ShadowDumb/FalloutEquestriaRemainsLinux]
 Installed-Size: 432108
 Provides: Empalu
-Depends: deepin-wine6-stable,spark-dwine-helper
-Filename: games/fallout.equestria.remains/fallout.equestria.remains_1.0.2_amd64.deb
-Size: 304757304
-MD5sum: a968c6ab29de24eddeaad38d6cb544d2
-SHA1: 3d73ee40340da5698d61c5e0002bd7aeae89c3b5
-SHA256: 28dde30d440c916c30e7e112a62f9ebec0515496cc21bef540adcc70372ba9d5
-SHA512: 2e69eab67d5a6160e5268181956492efab6692087a416613822f40133ecb16c7c7da06c16b5aa4960b6fa3af10eb1a9ccee9732044b92dfcedbe82440a28424b
+Depends: spark-wine,spark-dwine-helper
+Filename: games/fallout.equestria.remains/fallout.equestria.remains_1.0.2_all.deb
+Size: 304757308
+MD5sum: bb7ffd6f22e009f8bd2a11d79ca6c065
+SHA1: ea0546d8ad380b2fedd9586a09d6ca30d15af1ff
+SHA256: 392b0b0170ec29410ebdcd30f15137aee3ecfd34f983e0e6fc9263ea99d45bf9
+SHA512: 4c1d34562be96a672b2ec176a17e026e9620b662bba0791b52f0bed501fcbd74a4650fb2cb28995761c435b4fa53579cdeae1456d118a1ff5f785ace600edf2a
 Homepage: http://foe.ucoz.org/main_en.html
 Description: A fan made game of Fallout Equestria.
  Once upon a time, in the magical land of Equestria...

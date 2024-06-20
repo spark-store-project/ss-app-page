@@ -10297,24 +10297,6 @@ Description: 拟态时钟屏保
  .
  Build for Uos20 through spark-deb-build.
 
-Package: mimicry-clock-screensaver
-Architecture: amd64
-Version: 1.0.0-20240606
-Priority: optional
-Section: devel
-Maintainer: zinface <zinface@163.com>
-Installed-Size: 535
-Filename: themes/mimicry-clock-screensaver/mimicry-clock-screensaver_1.0.0-20240606_amd64.deb
-Size: 502796
-MD5sum: 8773a01dc35015e8995ef59faddc9d95
-SHA1: 7ea9977c3b192b3f688be37fe16148a524849efb
-SHA256: a85938ac4266ca025b2b23e037f07162af1f16bfcf0b57bb51e322bac726fbfc
-SHA512: 5c9f30c37ae26a97a9ac25c0bf86816e05c28ae45084bfd4dade707f40747489e92398ddd91517a026946098210fb908658cfd295e3c1595ff4bca1fbcf278ac
-Description: 拟态时钟屏保
- 适用于深度操作系统的拟态时钟屏保程序;
- .
- Build for Deepin20.9 through spark-deb-build.
-
 Package: fcitx5-ui-deepin-terminal
 Architecture: all
 Version: 0.1-2
@@ -17846,27 +17828,6 @@ Description: cloudar-electron
 
 Package: xmcl
 Architecture: amd64
-Version: 0.44.8-840
-Priority: optional
-Section: default
-Maintainer: ci010 <cijhn@hotmail.com>
-Installed-Size: 284375
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: games/xmcl/xmcl_0.44.8-840_amd64.deb
-Size: 82885148
-MD5sum: 0998ebde444b0c4cb8d516c851f58544
-SHA1: f30fd498bf764b2cb81405efc5baf93924964c2f
-SHA256: 47adb523618639e67a3cd35d9ec93a79388a57b98c7a27c98dd17ec088d8a51e
-SHA512: 0c0ba41e53b85276465d2df70352852d04da1fafde30d268a719e2ab6a1d7efdc34261f79052e4d479bf938da1684ffe09bce67bff67add19f231f844fb2e362
-Homepage: https://github.com/voxelum/x-minecraft-launcher#readme
-Description: 
-  A great minecraft launcher in the future
-License: MIT
-Vendor: ci010 <cijhn@hotmail.com>
-
-Package: xmcl
-Architecture: amd64
 Version: 0.44.9-843
 Priority: optional
 Section: default
@@ -20534,23 +20495,6 @@ MD5sum: ee21f1b7f38c079c2149cb57beccc33b
 SHA1: 4d6eebcec21d320d936e51deeebfc07a20a8a4c7
 SHA256: 2ab5081333a35b46fccc2b9121d4aa4f82799048948023f84dc935af5eaf6794
 SHA512: 5fe250a666c51bfe149e0657bdc4e77e56832da0c63e5346de70e2383effd2d1def51e47629aab4721b5012cbee5a36fe9660351508ef55e09a8c5a0a4437ce9
-Description: Deepin-wine8运行的红色警戒2-兵临城下4
-
-Package: deepin.ra2.enemyag4
-Architecture: all
-Version: 1.2.0
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: LFRon
-Installed-Size: 256544
-Depends: deepin-wine8-stable, deepin-wine-helper (>= 5.1.30-1), fonts-wqy-microhei, fonts-wqy-zenhei
-Filename: games/deepin.ra2.enemyag4/deepin.ra2.enemyag4_1.2.0_all.deb
-Size: 256560672
-MD5sum: bc0afc10811e4e2227a7b0e317119002
-SHA1: 0f8167434cffcc8119d088ed64be3a843cfcb5b3
-SHA256: 157556415b63ed8dd31bac06d30fc211d2f78ea8d2b1041caa34e8e2068a7a4f
-SHA512: 3eb5db742dbe902dd3e116d9f4f2d6c84942e6f5cca5e48b6633de0a21e6b80cbe8086cfaa31462eda70e487af06f38d79d711ee3f91f9ff1d6c36ad60ad4607
 Description: Deepin-wine8运行的红色警戒2-兵临城下4
 
 Package: minesweep
