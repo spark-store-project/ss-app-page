@@ -1628,6 +1628,24 @@
 }
 ,
 {
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.bitcomet.spark_2.03.1_all.deb",
+    "More": "比特彗星是一款很好用的BT下载工具\n支持ipv6",
+    "Name": "比特彗星 BitComet",
+    "Pkgname": "com.bitcomet.spark",
+    "Size": "41 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.bitcomet.spark_2.03.1_all.deb.torrent",
+    "Update": "2023-12-11 09:27:24",
+    "Version": "2.03.1",
+    "Website": "https://www.bitcomet.com/en/downloads",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_3.png\"]"
+}
+
+,
+{
     "Name": "HopToDesk",
     "Version": "1.40.7.1",
     "Filename": "hoptodesk_1.40.7.1_amd64.deb",
@@ -1676,24 +1694,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/c20d7cf0-404f-11eb-b208-9f1d14fad35c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/c4530020-404f-11eb-b208-9f1d14fad35c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/17/b9f11270-404f-11eb-b208-9f1d14fad35c.png"
 }
-,
-{
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.bitcomet.spark_2.03.1_all.deb",
-    "More": "比特彗星是一款很好用的BT下载工具\n支持ipv6",
-    "Name": "比特彗星 BitComet",
-    "Pkgname": "com.bitcomet.spark",
-    "Size": "41 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "com.bitcomet.spark_2.03.1_all.deb.torrent",
-    "Update": "2023-12-11 09:27:24",
-    "Version": "2.03.1",
-    "Website": "https://www.bitcomet.com/en/downloads",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_3.png\"]"
-}
-
 ,
 {
     "Name": "猎鹰下载（wine）",
@@ -1993,23 +1993,6 @@
 }
 ,
 {
-    "Name": "红莲花安全浏览器",
-    "Version": "5.0.2.4",
-    "Filename": "htbrowser_5.0.2.4_amd64.deb",
-    "Torrent_address": "htbrowser_5.0.2.4_amd64.deb.torrent",
-    "Pkgname": "htbrowser",
-    "Author": "haitai",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "http://www.haitaibrowser.net/",
-    "Update": "2022-12-14 10:32:59",
-    "Size": "81.77 MB",
-    "More": "红莲花安全浏览器是一款安全、专业、可靠、省心的浏览器",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/14/b19fa6e4001d455b9f3d9f40c1b5c25b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/14/6b91d55995c54fb08025276cba9c01f3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/14/c6122f310d4b497e860270f20acbce54.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/14/682225d8e68a4ef0831e5707a9bb5be3.png"
-}
-,
-{
     "Name": "Classin Linux客户端",
     "Version": "5.1.1.34",
     "Filename": "classin_5.1.1.34_amd64.deb",
@@ -2024,6 +2007,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/28/89a1183d59914b4fa979d8069300f2c4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/28/88d9d4fd26804dcb8803c3ba72b5ada5.png"
+}
+,
+{
+    "Name": "红莲花安全浏览器",
+    "Version": "5.0.2.4",
+    "Filename": "htbrowser_5.0.2.4_amd64.deb",
+    "Torrent_address": "htbrowser_5.0.2.4_amd64.deb.torrent",
+    "Pkgname": "htbrowser",
+    "Author": "haitai",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "http://www.haitaibrowser.net/",
+    "Update": "2022-12-14 10:32:59",
+    "Size": "81.77 MB",
+    "More": "红莲花安全浏览器是一款安全、专业、可靠、省心的浏览器",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/14/b19fa6e4001d455b9f3d9f40c1b5c25b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/14/6b91d55995c54fb08025276cba9c01f3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/14/c6122f310d4b497e860270f20acbce54.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/14/682225d8e68a4ef0831e5707a9bb5be3.png"
 }
 ,
 {
@@ -2209,23 +2209,6 @@
 }
 ,
 {
-    "Name": "ICE---WebAPP创建器",
-    "Version": "6.0.8",
-    "Filename": "ice_6.0.8_all.deb",
-    "Torrent_address": "ice_6.0.8_all.deb.torrent",
-    "Pkgname": "ice",
-    "Author": "Mark Greaves (PCNeSpec) <mark@pcnetspec.co.uk>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://github.com/peppermintos/ice",
-    "Update": "2023-03-31 16:02:47",
-    "Size": "33.33 KB",
-    "More": "Front end for building single site browsers using\n Chromium, Chrome, Vivaldi, or Firefox as a backend,\n allowing custom menu integration.",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/31/fb66076140ac4610a63659bbf17097a8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/31/8cdd784d6c1049eea8cf938c533793d4.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/31/c94959917d2c4e9e9c23db294dd86970.png"
-}
-,
-{
     "Name": "哔哩下载姬（Linux版）",
     "Version": "1.0.10-1",
     "Filename": "downkyi_1.0.10-1_amd64.deb",
@@ -2240,6 +2223,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/d127b60f946c4b0a89109dcfb6139167.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/f11ffe9e58e245718abfd4470cadb65c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/49ee9d18432f4d3e92e38ba3a482d5cb.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/46d00e022bc8417eb510e5ca2734cbb6.png"
+}
+,
+{
+    "Name": "ICE---WebAPP创建器",
+    "Version": "6.0.8",
+    "Filename": "ice_6.0.8_all.deb",
+    "Torrent_address": "ice_6.0.8_all.deb.torrent",
+    "Pkgname": "ice",
+    "Author": "Mark Greaves (PCNeSpec) <mark@pcnetspec.co.uk>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://github.com/peppermintos/ice",
+    "Update": "2023-03-31 16:02:47",
+    "Size": "33.33 KB",
+    "More": "Front end for building single site browsers using\n Chromium, Chrome, Vivaldi, or Firefox as a backend,\n allowing custom menu integration.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/31/fb66076140ac4610a63659bbf17097a8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/31/8cdd784d6c1049eea8cf938c533793d4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/31/c94959917d2c4e9e9c23db294dd86970.png"
 }
 ,
 {

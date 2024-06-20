@@ -161,6 +161,23 @@
 
 ,
 {
+    "Name": "GitHub 访问加速包",
+    "Version": "0.0.1-20240206",
+    "Filename": "github-fast-access_0.0.1-20240206_all.deb",
+    "Torrent_address": "github-fast-access_0.0.1-20240206_all.deb.torrent",
+    "Pkgname": "github-fast-access",
+    "Author": "麻本法 <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface",
+    "Update": "2024-02-06 11:12:21",
+    "Size": "1.14 KB",
+    "More": "通过使用 iptables 进行 DNAT 操作将 ;即将要访问错误ip的流量导向正确的ip;\n .\n 安装时:\n iptables -t nat -A OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n 卸载时:\n iptables -t nat -D OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n Build for Deepin20.9 through spark-deb-build.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/7cb23da7c5c84dd3a56fe99527159868.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/b08881f8c2ea4c859fb42422748a8370.png"
+}
+,
+{
     "Name": "WinRAR",
     "Version": "7.00spark0",
     "Filename": "com.rarlab.winrar.spark_7.00spark0_all.deb",
@@ -214,23 +231,6 @@
 
 ,
 {
-    "Name": "GitHub 访问加速包",
-    "Version": "0.0.1-20240206",
-    "Filename": "github-fast-access_0.0.1-20240206_all.deb",
-    "Torrent_address": "github-fast-access_0.0.1-20240206_all.deb.torrent",
-    "Pkgname": "github-fast-access",
-    "Author": "麻本法 <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface",
-    "Update": "2024-02-06 11:12:21",
-    "Size": "1.14 KB",
-    "More": "通过使用 iptables 进行 DNAT 操作将 ;即将要访问错误ip的流量导向正确的ip;\n .\n 安装时:\n iptables -t nat -A OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n 卸载时:\n iptables -t nat -D OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n Build for Deepin20.9 through spark-deb-build.",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/7cb23da7c5c84dd3a56fe99527159868.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/b08881f8c2ea4c859fb42422748a8370.png"
-}
-,
-{
     "Name": "格式工厂（Wine）",
     "Version": "5.11.0",
     "Filename": "com.sugarcane.formatfactory_5.11.0_all.deb",
@@ -266,6 +266,21 @@
 
 ,
 {
+   "Name":"以管理员身份打开文件（夹）",
+   "Version":"1.1.1",
+   "Filename":"admin-xdg-open_1.1.1_all.deb",
+   "Pkgname":"admin-xdg-open",
+   "Author":"zty199",
+   "Contributor":"zty199",
+   "Website":"https://gitee.com/zty199/",
+   "Update":"2020-09-15 01:40",
+   "Size":"1.64KB",
+   "More":"利用 xdg-open 以管理员身份直接打开文件（夹），避免文件管理器假死。",
+   "Tags":"community;deepin;uos"
+}
+
+,
+{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "spark-store_4.2.12.1_loong64.deb",
@@ -280,21 +295,6 @@
     "Website": "https://www.spark-app.store/",
     "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_4.png\"]"
-}
-
-,
-{
-   "Name":"以管理员身份打开文件（夹）",
-   "Version":"1.1.1",
-   "Filename":"admin-xdg-open_1.1.1_all.deb",
-   "Pkgname":"admin-xdg-open",
-   "Author":"zty199",
-   "Contributor":"zty199",
-   "Website":"https://gitee.com/zty199/",
-   "Update":"2020-09-15 01:40",
-   "Size":"1.64KB",
-   "More":"利用 xdg-open 以管理员身份直接打开文件（夹），避免文件管理器假死。",
-   "Tags":"community;deepin;uos"
 }
 
 ,
@@ -669,6 +669,24 @@
 
 ,
 {
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "gxde-kernel-manager_1.1.0_loong64.deb",
+    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \n\nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！\n\n",
+    "Name": "GXDE 内核管理器 1.1.0",
+    "Pkgname": "gxde-kernel-manager",
+    "Size": "850 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "gxde-kernel-manager_1.1.0_loong64.deb.torrent",
+    "Update": "2024-05-12 17:24:48",
+    "Version": "1.1.0",
+    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-kernel-manager/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-kernel-manager/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-kernel-manager/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-kernel-manager/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-kernel-manager/screen_4.png\"]"
+}
+
+,
+{
     "Author": "udom<uostools.com>",
     "Contributor": "udom<uostools.com>",
     "Filename": "com.uostools.udom_1.2.9_all.deb",
@@ -991,24 +1009,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/03/9ad86483-b606-4fe6-a0b2-943f139f9323.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/03/e6c02952-90ab-4eb5-8f50-8c530a0483bc.png"
 }
-,
-{
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "gxde-kernel-manager_1.1.0_loong64.deb",
-    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \n\nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！\n\n",
-    "Name": "GXDE 内核管理器 1.1.0",
-    "Pkgname": "gxde-kernel-manager",
-    "Size": "850 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "gxde-kernel-manager_1.1.0_loong64.deb.torrent",
-    "Update": "2024-05-12 17:24:48",
-    "Version": "1.1.0",
-    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
-    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-kernel-manager/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-kernel-manager/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-kernel-manager/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-kernel-manager/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/gxde-kernel-manager/screen_4.png\"]"
-}
-
 ,
 {
     "Name": "钉钉视频会议日志清理",
