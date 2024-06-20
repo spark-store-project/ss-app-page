@@ -1417,6 +1417,23 @@
 }
 ,
 {
+    "Name": "稻壳阅读器（Wine）",
+    "Version": "2.2.21spark0",
+    "Filename": "com.docbox.spark_2.2.21spark0_all.deb",
+    "Torrent_address": "com.docbox.spark_2.2.21spark0_all.deb.torrent",
+    "Pkgname": "com.docbox.spark",
+    "Author": "稻壳阅读器",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://www.daokeyuedu.com/",
+    "Update": "2024-01-21 15:34:44",
+    "Size": "24.44 MB",
+    "More": "稻壳阅读是一款可访问海量文档资源的极速云阅读器\n它界面简洁、办公高效，让您阅读更加专注 \n暂不支持网页浏览功能（不然太大了）",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/5c2f33d74069430c91f2fa89b8aacc64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/48a877bb6bfa486aa4ca01aaea41916a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/e89c98d38e6f464d8b1bb33fd04b1501.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/21/cf30b76596e745aaafbf3f347a413e12.png"
+}
+,
+{
     "Name": "中国大学MOOC(uengine)",
     "Version": "4.24.12",
     "Filename": "uengine-dc-com.netease.edu.ucmooc_4.24.12_all.deb",
@@ -1448,23 +1465,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/4d116650b3a34d50a2f7a33e8dd41479.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/a327e6c7c7b549328f1e0da8e713aef0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/39b2e53f7e5d431c95ef4c95a92a38c0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/59ea48faaae04c7a9ad37d977d395a1c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/07/631f465473f1472fbb934eb7ed709f8c.png"
-}
-,
-{
-    "Name": "稻壳阅读器（Wine）",
-    "Version": "2.2.21spark0",
-    "Filename": "com.docbox.spark_2.2.21spark0_all.deb",
-    "Torrent_address": "com.docbox.spark_2.2.21spark0_all.deb.torrent",
-    "Pkgname": "com.docbox.spark",
-    "Author": "稻壳阅读器",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://www.daokeyuedu.com/",
-    "Update": "2024-01-21 15:34:44",
-    "Size": "24.44 MB",
-    "More": "稻壳阅读是一款可访问海量文档资源的极速云阅读器\n它界面简洁、办公高效，让您阅读更加专注 \n暂不支持网页浏览功能（不然太大了）",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/5c2f33d74069430c91f2fa89b8aacc64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/48a877bb6bfa486aa4ca01aaea41916a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/e89c98d38e6f464d8b1bb33fd04b1501.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/21/cf30b76596e745aaafbf3f347a413e12.png"
 }
 ,
 {
@@ -2152,6 +2152,23 @@
 }
 ,
 {
+    "Name": "WeekToDo",
+    "Version": "2.2.0",
+    "Filename": "weektodo_2.2.0_amd64.deb",
+    "Torrent_address": "weektodo_2.2.0_amd64.deb.torrent",
+    "Pkgname": "weektodo",
+    "Author": "Manuel Ernesto Garcia",
+    "Contributor": "sgb76",
+    "Website": "https://weektodo.me",
+    "Update": "2024-02-18 22:37:26",
+    "Size": "79.31 MB",
+    "More": "WeekToDo is a Free Minimalist Weekly Planner focused on privacy.\nWeekToDo 是一个免费的极简主义每周计划者。 通过以简单而直观的方式定义和管理您的一周和您的生活，提高您的生产力。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/18/c4c0baf341c24547bd0eac07551174bb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/18/0a8d2e87c0924b2990f8a2dfb5845f66.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/18/02001d818dd1479389d1cf69489f6571.png"
+}
+,
+{
     "Name": "泰山办公2022专业版",
     "Version": "5.1.0.487",
     "Filename": "cn.ts-it.suite_5.1.0.487_amd64.deb",
@@ -2182,23 +2199,6 @@
     "Tags": "community;deepin;ubuntu;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/09/d2095160-f909-11eb-b88d-83369b50dd13.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/09/d207f1d0-f909-11eb-b88d-83369b50dd13.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/09/d2158660-f909-11eb-b88d-83369b50dd13.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/09/d20ad800-f909-11eb-b88d-83369b50dd13.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/09/cd89bcb0-f909-11eb-b88d-83369b50dd13.png"
-}
-,
-{
-    "Name": "WeekToDo",
-    "Version": "2.2.0",
-    "Filename": "weektodo_2.2.0_amd64.deb",
-    "Torrent_address": "weektodo_2.2.0_amd64.deb.torrent",
-    "Pkgname": "weektodo",
-    "Author": "Manuel Ernesto Garcia",
-    "Contributor": "sgb76",
-    "Website": "https://weektodo.me",
-    "Update": "2024-02-18 22:37:26",
-    "Size": "79.31 MB",
-    "More": "WeekToDo is a Free Minimalist Weekly Planner focused on privacy.\nWeekToDo 是一个免费的极简主义每周计划者。 通过以简单而直观的方式定义和管理您的一周和您的生活，提高您的生产力。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/18/c4c0baf341c24547bd0eac07551174bb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/18/0a8d2e87c0924b2990f8a2dfb5845f66.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/18/02001d818dd1479389d1cf69489f6571.png"
 }
 ,
 {
@@ -2954,6 +2954,23 @@
 }
 ,
 {
+    "Name": "WPS Office 2016",
+    "Version": "10.1.0.6757spark1",
+    "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
+    "Torrent_address": "wps-office-2016_10.1.0.6757spark1_amd64.deb.torrent",
+    "Pkgname": "wps-office-2016",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://wps-community.org",
+    "Update": "2024-05-19 16:58:39",
+    "Size": "129.41 MB",
+    "More": "WPS Office 2016 旧版本，三组件分别独立，资源占用更小，支持类 office 2003 经典界面\n云同步功能依旧可用\n与现行的 WPS Office， 2019 冲突",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
+}
+,
+{
     "Name": "LyX 排版软件编写的实用表格和文档样例(包含lyx,pdf)",
     "Version": "2.2.2-6",
     "Filename": "lyx-examples-zh-cn-careone_2.2.2-6_all.deb",
@@ -3005,23 +3022,6 @@
 }
 ,
 {
-    "Name": "WPS Office 2016",
-    "Version": "10.1.0.6757spark1",
-    "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
-    "Torrent_address": "wps-office-2016_10.1.0.6757spark1_amd64.deb.torrent",
-    "Pkgname": "wps-office-2016",
-    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://wps-community.org",
-    "Update": "2024-05-19 16:58:39",
-    "Size": "129.41 MB",
-    "More": "WPS Office 2016 旧版本，三组件分别独立，资源占用更小，支持类 office 2003 经典界面\n云同步功能依旧可用\n与现行的 WPS Office， 2019 冲突",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
-}
-,
-{
     "Name": "GitMind（web）",
     "Version": "1.0spark0",
     "Filename": "web-gitmind_1.0spark0_amd64.deb",
@@ -3069,6 +3069,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/2304c6d7c85249c6a9458f50b92ceec7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/68976f02a1a14be98718ca8b42fd09d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/db6cc48a84f14fa694ba6bbd0a3fb9f7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/6e5a429de6a642eb8b9e33ebf8947d5d.png"
+}
+,
+{
+    "Name": "WPS Office 365",
+    "Version": "12.8.2.16969.AK.preload.sw",
+    "Filename": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb",
+    "Torrent_address": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb.torrent",
+    "Pkgname": "wps-office-365",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://wps-community.org",
+    "Update": "2024-06-16 10:13:44",
+    "Size": "722.16 MB",
+    "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/819a4c6aea004b1bb9059da5c1511085.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6bd9ad01e587436fb9ca5e74ef078921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/76097ef94d21409091dbcada9fcefe7c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/2dffce17cb754c4a8407d85de5511bc2.png"
 }
 ,
 {
@@ -3154,23 +3171,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/add19340-e29d-11ee-893c-3b7985d6d301.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/ee872080-e29d-11ee-893c-3b7985d6d301.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/15/a5e33da0-e29d-11ee-893c-3b7985d6d301.png"
-}
-,
-{
-    "Name": "WPS Office 365",
-    "Version": "12.8.2.16969.AK.preload.sw",
-    "Filename": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb",
-    "Torrent_address": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb.torrent",
-    "Pkgname": "wps-office-365",
-    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://wps-community.org",
-    "Update": "2024-06-16 10:13:44",
-    "Size": "722.16 MB",
-    "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/819a4c6aea004b1bb9059da5c1511085.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6bd9ad01e587436fb9ca5e74ef078921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/76097ef94d21409091dbcada9fcefe7c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/2dffce17cb754c4a8407d85de5511bc2.png"
 }
 ,
 {
@@ -3323,6 +3323,23 @@
 
 ,
 {
+    "Name": "搜狗输入法UOS版小语种",
+    "Version": "1.0.0",
+    "Filename": "com.sogou.sogoupinyin-uos-tadict_1.0.0_all.deb",
+    "Torrent_address": "com.sogou.sogoupinyin-uos-tadict_1.0.0_all.deb.torrent",
+    "Pkgname": "com.sogou.sogoupinyin-uos-tadict",
+    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://pinyin.sogou.com/linux",
+    "Update": "2023-05-20 21:30:22",
+    "Size": "163.83 MB",
+    "More": "搜狗输入法UOS版输入小语种，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一",
+    "Tags": "uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/63f618237b8a4c638870f10bd9003c08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/ce59ecf568e54d3c9c50b97074e947f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/53d2b262ec53497f9072db8a1c5802dd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/b290a8983c904d8a9ad7787485eaafbd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/e999bb281693419ba3abf307624ad38d.png"
+}
+,
+{
     "Name": "小黑屋云写作（wine）",
     "Version": "6.2.2.0spark0",
     "Filename": "com.lonelywriter.spark_6.2.2.0spark0_i386.deb",
@@ -3400,23 +3417,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/09/855bcdb0-b7e6-11ec-80f0-b1165b1d9175.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/09/874e00c0-b7e6-11ec-80f0-b1165b1d9175.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/09/81c3b2d0-b7e6-11ec-80f0-b1165b1d9175.png"
-}
-,
-{
-    "Name": "搜狗输入法UOS版小语种",
-    "Version": "1.0.0",
-    "Filename": "com.sogou.sogoupinyin-uos-tadict_1.0.0_all.deb",
-    "Torrent_address": "com.sogou.sogoupinyin-uos-tadict_1.0.0_all.deb.torrent",
-    "Pkgname": "com.sogou.sogoupinyin-uos-tadict",
-    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://pinyin.sogou.com/linux",
-    "Update": "2023-05-20 21:30:22",
-    "Size": "163.83 MB",
-    "More": "搜狗输入法UOS版输入小语种，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一",
-    "Tags": "uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/63f618237b8a4c638870f10bd9003c08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/ce59ecf568e54d3c9c50b97074e947f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/53d2b262ec53497f9072db8a1c5802dd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/b290a8983c904d8a9ad7787485eaafbd.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/e999bb281693419ba3abf307624ad38d.png"
 }
 ,
 {

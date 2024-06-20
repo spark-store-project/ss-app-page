@@ -34536,6 +34536,21 @@ SHA256: 0ff53a3cc88b2d41be86028c91ae01604b7647c7c4fadbff8d7444a8ab91cf17
 SHA512: 2e85adc228d706f5385fe09d390eba90798eec4bfecbec20118e1e9784972b0e674fa818a9bd1022d402973025555f3291d292b557201b1c302a8d6ab9650afe
 Description: WeChat Devtools For Linux.  To help developers develop and debug Weixin Mini Programs more simply and efficiently,  Tencent have launched the new Weixin DevTools based on the original Official Account  web debugging tools. Therefore, we now have two developer modes (Official Account web  debugging) and (Mini Program debugging). This version is unofficial.
 
+Package: atk-logic
+Architecture: amd64
+Version: 1.0.6.6
+Priority: optional
+Section: utils
+Maintainer: Alientek[zhangyang@alientek.com]
+Installed-Size: 512
+Filename: development/atk-logic/atk-logic_1.0.6.6_amd64.deb
+Size: 87794124
+MD5sum: 17389694141cc19ecdc09441ed72fc7d
+SHA1: 09658c0ddff7f2fbd62f55195f193917095e2282
+SHA256: f1ad7c7a60c7d3771b752bf83ffbad696c9ed4002a118bcfc322c857a9ec0bb1
+SHA512: 852394e29c585e14c4812029cdd1acb38acb11a113a3f5434657f71b852c67dc8982d1431bf08918032ecdb2321198def8d02777380abc619853a98ff13d1243
+Description: Copyright © 2022. ALIENTEK All Rights Reserved.
+
 Package: simulide
 Architecture: amd64
 Version: 1.0.0-RC2
@@ -34706,6 +34721,22 @@ Description: Mod of Scratch with a compiler and more features.
   TurboWarp is a Scratch mod with a compiler to run projects faster, dark mode for your eyes, a bunch of addons to improve the editor, and more.
 License: GPL-3.0
 Vendor: Thomas Weber <contact@turbowarp.org>
+
+Package: com.jetbrains.rustrover
+Architecture: amd64
+Version: 24.1.2
+Priority: optional
+Section: devel
+Maintainer: SZBT <lu1044100652@outlook.com>
+Installed-Size: 2222726
+Filename: development/com.jetbrains.rustrover/com.jetbrains.rustrover_24.1.2_amd64.deb
+Size: 570909096
+MD5sum: 291a607fc85366245db0499182d56ad3
+SHA1: 8317babc1c4d7554cd94554e06c7ab32e36ef462
+SHA256: 0ac1e13210c84a9585ae166e45964d5ae65683de0478cb02b0eccec29d0d0ef0
+SHA512: 98846157530847b00f8fc461a33c80c26f5b4fe5b4b55dd0e4876ad4419ba8d4c98c267c57336706d68c1421bb9d9d70eca783407bee5d68360da2d488ae97a8
+Homepage: https://www.jetbrains.com/rust/
+Description: Focus on what matters    Try a feature-rich Rust IDE with timely support, regular updates, and an out-of-the-box experience. Enjoy coding with Rust and focus on what matters.
 
 Package: vscode-history-analyzer
 Architecture: amd64

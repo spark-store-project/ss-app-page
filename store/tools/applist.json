@@ -2197,23 +2197,6 @@
 }
 ,
 {
-    "Name": "pacapt--Arch用户的福音",
-    "Version": "3.0.7.2",
-    "Filename": "pacapt_3.0.7.2_all.deb",
-    "Torrent_address": "pacapt_3.0.7.2_all.deb.torrent",
-    "Pkgname": "pacapt",
-    "Author": "shy <1658347525@qq.com>",
-    "Contributor": "shy <1658347525@qq.com>",
-    "Website": "https://github.com/icy/pacapt",
-    "Update": "2023-01-01 13:16:19",
-    "Size": "13.67 KB",
-    "More": "pacapt是对apt等非pacman包管理器的简单封装\n安装了pacapt后，你就可以快乐地在非Arch系Linux上sudo pacman -Syu啦！\n\nto星火商店运营：上一版打包套娃了。。",
-    "Tags": "community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/2e68be4f2a884cfa8c653429dc4e7c64.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/a3346935dd1c47a28003f06cc28089f3.png"
-}
-,
-{
     "Name": "奔图打印机驱动",
     "Version": "7.4.176-1+uos",
     "Filename": "com.pantum.pantum_7.4.176-1_plus_uos_amd64.deb",
@@ -2228,6 +2211,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/e43dbd0abad64a4faa26574856dcda6c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/2c9e507c3cda48b6ab111952abc7ec68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/7943153a735e4bf3b3e9997737b491b5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/24/470b6c14ac7443f2bb88d91b513ff728.png"
+}
+,
+{
+    "Name": "pacapt--Arch用户的福音",
+    "Version": "3.0.7.2",
+    "Filename": "pacapt_3.0.7.2_all.deb",
+    "Torrent_address": "pacapt_3.0.7.2_all.deb.torrent",
+    "Pkgname": "pacapt",
+    "Author": "shy <1658347525@qq.com>",
+    "Contributor": "shy <1658347525@qq.com>",
+    "Website": "https://github.com/icy/pacapt",
+    "Update": "2023-01-01 13:16:19",
+    "Size": "13.67 KB",
+    "More": "pacapt是对apt等非pacman包管理器的简单封装\n安装了pacapt后，你就可以快乐地在非Arch系Linux上sudo pacman -Syu啦！\n\nto星火商店运营：上一版打包套娃了。。",
+    "Tags": "community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/2e68be4f2a884cfa8c653429dc4e7c64.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/a3346935dd1c47a28003f06cc28089f3.png"
 }
 ,
 {
@@ -2967,6 +2967,23 @@
 }
 ,
 {
+    "Name": "通知中心天气小组件",
+    "Version": "0.1-1",
+    "Filename": "dde-widgets-weather-plugin_0.1-1_amd64.deb",
+    "Torrent_address": "dde-widgets-weather-plugin_0.1-1_amd64.deb.torrent",
+    "Pkgname": "dde-widgets-weather-plugin",
+    "Author": "linuxdeepin / zty199",
+    "Contributor": "zty199",
+    "Website": "https://github.com/zty199/dde-widgets-weather-plugin",
+    "Update": "2024-04-24 10:27:23",
+    "Size": "3.1 MB",
+    "More": "一个简单的通知中心天气小组件，基于和风天气开发服务开发。",
+    "Tags": "community;deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/4dcb79eff8654ae79b2984638ab7849c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/f1cd8bb207bb4f33b4de84d1f27688e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/b73a74a7b2cc4402a3918623d7d01278.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/a16b522362684bf8a7c72b08a676f017.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/24/574f62857e744d6db3046b8053364a02.png"
+}
+,
+{
     "Name": "希沃白板5",
     "Version": "5.2.1.0.7942.2a6",
     "Filename": "com.seewo.easinote5_5.2.1.0.7942.2a6_amd64.deb",
@@ -3015,23 +3032,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/08/639789baa10d4c08ac188c589f3856a0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/08/b3d957d2d0b24dcea40a00d3aa9b28a6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/08/8e679e23bf9b43c9938bf3ee822e775e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/08/88838b509bc4416fa4041dedcab06f20.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/08/32569d71ae6a4dd1ab5d6e7e691df444.png"
-}
-,
-{
-    "Name": "通知中心天气小组件",
-    "Version": "0.1-1",
-    "Filename": "dde-widgets-weather-plugin_0.1-1_amd64.deb",
-    "Torrent_address": "dde-widgets-weather-plugin_0.1-1_amd64.deb.torrent",
-    "Pkgname": "dde-widgets-weather-plugin",
-    "Author": "linuxdeepin / zty199",
-    "Contributor": "zty199",
-    "Website": "https://github.com/zty199/dde-widgets-weather-plugin",
-    "Update": "2024-04-24 10:27:23",
-    "Size": "3.1 MB",
-    "More": "一个简单的通知中心天气小组件，基于和风天气开发服务开发。",
-    "Tags": "community;deepin;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/4dcb79eff8654ae79b2984638ab7849c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/f1cd8bb207bb4f33b4de84d1f27688e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/b73a74a7b2cc4402a3918623d7d01278.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/a16b522362684bf8a7c72b08a676f017.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/24/574f62857e744d6db3046b8053364a02.png"
 }
 ,
 {
@@ -4095,6 +4095,23 @@
 }
 ,
 {
+    "Name": "编程猫格式工厂",
+    "Version": "1.3.0",
+    "Filename": "bcm-convertor.yzf_1.3.0_amd64.deb",
+    "Torrent_address": "bcm-convertor.yzf_1.3.0_amd64.deb.torrent",
+    "Pkgname": "bcm-convertor.yzf",
+    "Author": "小鱼yuzifu",
+    "Contributor": "小鱼yuzifu",
+    "Website": "https://gitee.com/sf-yuzifu/bcm_convertor",
+    "Update": "2022-08-20 09:43:35",
+    "Size": "156.42 MB",
+    "More": "将自己在kitten3/4上的作品在Linux上快速制作成独立应用程序！\n\n本次更新内容：\n1.支持图标自定义",
+    "Tags": "community;uos;deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/20/5b5872d0-2027-11ed-b35c-3542f52d4749.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/20/5ddc1070-2027-11ed-b35c-3542f52d4749.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/20/60251610-2027-11ed-b35c-3542f52d4749.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/20/381447e0-2027-11ed-b35c-3542f52d4749.svg"
+}
+,
+{
     "Name": "PicList",
     "Version": "2.6.1",
     "Filename": "piclist_2.6.1_amd64.deb",
@@ -4142,23 +4159,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/10f00fa3-56d4-4bb4-a636-d82125fe4265.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/a3507118-c2bd-4a74-b3c4-db80f02be921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/f105240f-0e69-4f1d-87e4-c0804ded075c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/15/3139ef37-f144-4384-9339-fe873fad05c8.png"
-}
-,
-{
-    "Name": "编程猫格式工厂",
-    "Version": "1.3.0",
-    "Filename": "bcm-convertor.yzf_1.3.0_amd64.deb",
-    "Torrent_address": "bcm-convertor.yzf_1.3.0_amd64.deb.torrent",
-    "Pkgname": "bcm-convertor.yzf",
-    "Author": "小鱼yuzifu",
-    "Contributor": "小鱼yuzifu",
-    "Website": "https://gitee.com/sf-yuzifu/bcm_convertor",
-    "Update": "2022-08-20 09:43:35",
-    "Size": "156.42 MB",
-    "More": "将自己在kitten3/4上的作品在Linux上快速制作成独立应用程序！\n\n本次更新内容：\n1.支持图标自定义",
-    "Tags": "community;uos;deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/20/5b5872d0-2027-11ed-b35c-3542f52d4749.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/20/5ddc1070-2027-11ed-b35c-3542f52d4749.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/20/60251610-2027-11ed-b35c-3542f52d4749.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/20/381447e0-2027-11ed-b35c-3542f52d4749.svg"
 }
 ,
 {

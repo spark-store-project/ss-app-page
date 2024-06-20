@@ -1655,23 +1655,6 @@
 }
 ,
 {
-    "Name": "Fritzing",
-    "Version": "0.9.10",
-    "Filename": "org.fritzing_0.9.10_amd64.deb",
-    "Torrent_address": "org.fritzing_0.9.10_amd64.deb.torrent",
-    "Pkgname": "org.fritzing",
-    "Author": "Fritzing",
-    "Contributor": "秦以南",
-    "Website": "https://fritzing.org/releases",
-    "Update": "2022-08-04 10:37:21",
-    "Size": "66.39 MB",
-    "More": "Fritzing是一个开源的硬件计划，它使电子学作为一种创造性的材料为任何人所接受。我们本着Processing和Arduino的精神提供一个软件工具、一个社区网站和服务，促进一个创造性的生态系统，使用户能够记录他们的原型，与他人分享，在课堂上教授电子技术，并布置和制造专业的PCB。",
-    "Tags": "a2d;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/04/51d864d0-139e-11ed-8756-c505056a962f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/04/4f40ca00-139e-11ed-8756-c505056a962f.png"
-}
-,
-{
     "Name": "finalshell-2024年更新版",
     "Version": "4.3.10",
     "Filename": "finalshell_4.3.10_amd64.deb",
@@ -1686,6 +1669,23 @@
     "Tags": "deepin;ubuntu;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/8bf86c80-0377-11ef-ab63-e103c5305d10.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/6933f8e0-0377-11ef-ab63-e103c5305d10.desktop"
+}
+,
+{
+    "Name": "Fritzing",
+    "Version": "0.9.10",
+    "Filename": "org.fritzing_0.9.10_amd64.deb",
+    "Torrent_address": "org.fritzing_0.9.10_amd64.deb.torrent",
+    "Pkgname": "org.fritzing",
+    "Author": "Fritzing",
+    "Contributor": "秦以南",
+    "Website": "https://fritzing.org/releases",
+    "Update": "2022-08-04 10:37:21",
+    "Size": "66.39 MB",
+    "More": "Fritzing是一个开源的硬件计划，它使电子学作为一种创造性的材料为任何人所接受。我们本着Processing和Arduino的精神提供一个软件工具、一个社区网站和服务，促进一个创造性的生态系统，使用户能够记录他们的原型，与他人分享，在课堂上教授电子技术，并布置和制造专业的PCB。",
+    "Tags": "a2d;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/04/51d864d0-139e-11ed-8756-c505056a962f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/04/4f40ca00-139e-11ed-8756-c505056a962f.png"
 }
 ,
 {
@@ -1756,6 +1756,22 @@
 }
 ,
 {
+    "Name": "CHINER元数建模",
+    "Version": "3.5.4spark0",
+    "Filename": "chiner.spark_3.5.4spark0_amd64.deb",
+    "Pkgname": "chiner.spark",
+    "Author": "杨松",
+    "Contributor": "sgb76",
+    "Website": "https://gitee.com/robergroup/chiner",
+    "Update": "2021-11-05 16:12:13",
+    "Size": "124.53 MB",
+    "More": "一款丰富数据库生态，独立于具体数据库之外的，数据库关系模型设计平台。",
+    "Tags": "ubuntu;deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/05/d92e1430-3e0f-11ec-981b-9384199d54c9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/05/dcd08f50-3e0f-11ec-981b-9384199d54c9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/11/05/cff84a70-3e0f-11ec-981b-9384199d54c9.png"
+}
+,
+{
     "Name": "quardCRT",
     "Version": "0.46",
     "Filename": "quardcrt_0.46_amd64.deb",
@@ -1804,22 +1820,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/07/1c1f3b5289464592a20b32c10ae96361.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/07/3987f041f03a4c83b4624ebe1c3699a8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/07/f2b0bc1c35fc430e946b1c8cd01689ab.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/07/67e947a5dfc0414e96ba9225a26a371b.png"
-}
-,
-{
-    "Name": "CHINER元数建模",
-    "Version": "3.5.4spark0",
-    "Filename": "chiner.spark_3.5.4spark0_amd64.deb",
-    "Pkgname": "chiner.spark",
-    "Author": "杨松",
-    "Contributor": "sgb76",
-    "Website": "https://gitee.com/robergroup/chiner",
-    "Update": "2021-11-05 16:12:13",
-    "Size": "124.53 MB",
-    "More": "一款丰富数据库生态，独立于具体数据库之外的，数据库关系模型设计平台。",
-    "Tags": "ubuntu;deepin;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/05/d92e1430-3e0f-11ec-981b-9384199d54c9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/05/dcd08f50-3e0f-11ec-981b-9384199d54c9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/11/05/cff84a70-3e0f-11ec-981b-9384199d54c9.png"
 }
 ,
 {
@@ -2442,5 +2442,39 @@
     "Tags": "ubuntu;deepin;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/12/3b5e3090-ba3e-11ec-8ddb-ab07b13ee39f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/12/3fc66cb0-ba3e-11ec-8ddb-ab07b13ee39f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/12/42ef4b00-ba3e-11ec-8ddb-ab07b13ee39f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/12/369780c0-ba3e-11ec-8ddb-ab07b13ee39f.png"
+}
+,
+{
+    "Name": "RustRover",
+    "Version": "24.1.2",
+    "Filename": "com.jetbrains.rustrover_24.1.2_amd64.deb",
+    "Torrent_address": "com.jetbrains.rustrover_24.1.2_amd64.deb.torrent",
+    "Pkgname": "com.jetbrains.rustrover",
+    "Author": "JetBrains",
+    "Contributor": "freeor",
+    "Website": "https://www.jetbrains.com/rust/",
+    "Update": "2024-06-20 10:27:23",
+    "Size": "544.46 MB",
+    "More": "A powerhouse IDE for Rust developers",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/70e20d10-2eac-11ef-b2c5-4fa9599f8cb0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/713b77b0-2eac-11ef-b2c5-4fa9599f8cb0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/71950960-2eac-11ef-b2c5-4fa9599f8cb0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/20/18806e10-2eab-11ef-b2c5-4fa9599f8cb0.png"
+}
+,
+{
+    "Name": "正点原子逻辑分析仪",
+    "Version": "1.0.6.6",
+    "Filename": "atk-logic_1.0.6.6_amd64.deb",
+    "Torrent_address": "atk-logic_1.0.6.6_amd64.deb.torrent",
+    "Pkgname": "atk-logic",
+    "Author": "Alientek[zhangyang@alientek.com]",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.alientek.com/",
+    "Update": "2024-06-20 10:53:09",
+    "Size": "83.73 MB",
+    "More": "ATK-Logic软件是正点原子团队(ALIENTEK)专为逻辑分析仪设计的功能强大的软件工具，旨在帮助用户进行逻辑信号的捕获、分析和调试。无论您是电子工程师、嵌入式系统开发人员还是电路设计师，该软件都能提供您所需的强大功能和便捷操作。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/3265abec2cfd45ee873b05fc42dbdc56.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/2af23382ec7341b7b6cd06703aa4ad44.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/20/f71383304a0149378b50bdd192befa77.png"
 }
 ]

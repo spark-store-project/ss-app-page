@@ -831,6 +831,23 @@
 }
 ,
 {
+    "Name": "RPD远程桌面-寒尘汉化（UEngine）",
+    "Version": "8.1.75.406",
+    "Filename": "uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb",
+    "Torrent_address": "uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.microsoft.rdc.android",
+    "Author": "寒尘工作室",
+    "Contributor": "燕戏竹林",
+    "Website": "抱歉我们联系不到作者，也只能找到这一个版本",
+    "Update": "2023-01-09 14:56:01",
+    "Size": "15.22 MB",
+    "More": "这个是安卓版本的微软远程软件的国内汉化版，虽然部分地方汉化的不是很到位，但是至少不至于不能用",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/09/ab853e77d45d4d4cb63188153d6e78ff.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/09/6bec763bfcd747cdab03f57bb3df183e.png"
+}
+,
+{
     "Name": "文件蜈蚣",
     "Version": "2.02",
     "Filename": "com.filecxx.filecxx_2.02_amd64.deb",
@@ -862,23 +879,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/15/b6fbc26e62964f21a87811ff1138f6d8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/15/a3a84a4b98c54de6b51b9b7db24efef9.png"
-}
-,
-{
-    "Name": "RPD远程桌面-寒尘汉化（UEngine）",
-    "Version": "8.1.75.406",
-    "Filename": "uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb",
-    "Torrent_address": "uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.microsoft.rdc.android",
-    "Author": "寒尘工作室",
-    "Contributor": "燕戏竹林",
-    "Website": "抱歉我们联系不到作者，也只能找到这一个版本",
-    "Update": "2023-01-09 14:56:01",
-    "Size": "15.22 MB",
-    "More": "这个是安卓版本的微软远程软件的国内汉化版，虽然部分地方汉化的不是很到位，但是至少不至于不能用",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/09/ab853e77d45d4d4cb63188153d6e78ff.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/09/6bec763bfcd747cdab03f57bb3df183e.png"
 }
 ,
 {
@@ -1430,22 +1430,6 @@
 }
 ,
 {
-    "Name": "IT之家（web）",
-    "Version": "1.0spark0",
-    "Filename": "web-ithome-spark_1.0spark0_amd64.deb",
-    "Pkgname": "web-ithome-spark",
-    "Author": "软媒",
-    "Contributor": "Anysets",
-    "Website": "www.ithome.com",
-    "Update": "2021-01-01 09:39:36",
-    "Size": "1.98 KB",
-    "More": "IT之家 - 数码，科技，生活 - 软媒旗下\n\n通过星火网页应用运行环境打包。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/01/38818a90-4c15-11eb-b2ef-29b020fa4a6b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/01/301f3d70-4c15-11eb-b2ef-29b020fa4a6b.png"
-}
-,
-{
     "Name": "Internet Download Manager（IDM）（Wine）",
     "Version": "6.42",
     "Filename": "com.idm.spark_6.42_all.deb",
@@ -1460,6 +1444,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/8da80a4f6389437399b734b10eebb56f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/b5c164cfb2d64bb4ababf896c417f933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/de699bb572b2487a8bc2502aed6426da.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/27/e0f739bbd02a41079a34bfcc01df547d.png"
+}
+,
+{
+    "Name": "IT之家（web）",
+    "Version": "1.0spark0",
+    "Filename": "web-ithome-spark_1.0spark0_amd64.deb",
+    "Pkgname": "web-ithome-spark",
+    "Author": "软媒",
+    "Contributor": "Anysets",
+    "Website": "www.ithome.com",
+    "Update": "2021-01-01 09:39:36",
+    "Size": "1.98 KB",
+    "More": "IT之家 - 数码，科技，生活 - 软媒旗下\n\n通过星火网页应用运行环境打包。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/01/38818a90-4c15-11eb-b2ef-29b020fa4a6b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/01/301f3d70-4c15-11eb-b2ef-29b020fa4a6b.png"
 }
 ,
 {
@@ -2530,6 +2530,23 @@
 }
 ,
 {
+    "Name": "iTubeGo 视频下载",
+    "Version": "7.8.2",
+    "Filename": "com.itubego.deepin_7.8.2_all.deb",
+    "Torrent_address": "com.itubego.deepin_7.8.2_all.deb.torrent",
+    "Pkgname": "com.itubego.deepin",
+    "Author": "iTubeGodde-fileManager",
+    "Contributor": "iTubeGo",
+    "Website": "https://itubego.com/en63/",
+    "Update": "2024-06-19 21:03:58",
+    "Size": "144.39 MB",
+    "More": "一款顶级的视频下载工具，能从YouTube及其他超过1000个视频分享平台快速下载视频和音频文件，并支持多种格式转换",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/5208fc68a15145a493e1c9d37510dc42.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/f61015f443344289903d574984793378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/7fe1f9cb38cc4f218531582fe38c5fd0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/d7681c2a5ea440e8a39f99a4130d002d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/19/2ac5f698c5e54f639f585cb7059e58ff.png"
+}
+,
+{
     "Name": "Noi",
     "Version": "0.4.0",
     "Filename": "noi_0.4.0_amd64.deb",
@@ -2597,23 +2614,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.jd.jm/screen_1.png\"]"
 }
 
-,
-{
-    "Name": "iTubeGo 视频下载",
-    "Version": "7.8.2",
-    "Filename": "com.itubego.deepin_7.8.2_all.deb",
-    "Torrent_address": "com.itubego.deepin_7.8.2_all.deb.torrent",
-    "Pkgname": "com.itubego.deepin",
-    "Author": "iTubeGodde-fileManager",
-    "Contributor": "iTubeGo",
-    "Website": "https://itubego.com/en63/",
-    "Update": "2024-06-19 21:03:58",
-    "Size": "144.39 MB",
-    "More": "一款顶级的视频下载工具，能从YouTube及其他超过1000个视频分享平台快速下载视频和音频文件，并支持多种格式转换",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/5208fc68a15145a493e1c9d37510dc42.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/f61015f443344289903d574984793378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/7fe1f9cb38cc4f218531582fe38c5fd0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/d7681c2a5ea440e8a39f99a4130d002d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/19/2ac5f698c5e54f639f585cb7059e58ff.png"
-}
 ,
 {
     "Name": "合育宝PTrainer",

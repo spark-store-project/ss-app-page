@@ -915,20 +915,6 @@
 }
 ,
 {
-   "Name":"MystiQ影音转换器",
-   "Version":"20.03.23-1",
-   "Filename":"mystiq_20.03.23-1_amd64.deb",
-   "Pkgname":"mystiq",
-   "Author":"swl-x",
-   "Contributor":"anima",
-   "Website":"https://github.com/swl-x/MystiQ",
-   "Update":"2020-06-25 18:15",
-   "Size":"583.85KB",
-   "More":"MystiQ是一款基于 Qt5/C++ 的 FFmpeg 媒体格式转换器。"
-}
-
-,
-{
     "Name": "HandBrake",
     "Version": "1.7.1",
     "Filename": "fr.handbrake.ghb_1.7.1_amd64.deb",
@@ -944,6 +930,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/17/ccbdb6e5ab1f48d19acd89f8e2b466d0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/17/79d3c9b1d69a4fffb9806beacb536fc5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/17/352f1e62ca5240aabccb2881389b8ca3.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/17/8ac187754e9a47ac96ed870c101a7f40.png"
 }
+,
+{
+   "Name":"MystiQ影音转换器",
+   "Version":"20.03.23-1",
+   "Filename":"mystiq_20.03.23-1_amd64.deb",
+   "Pkgname":"mystiq",
+   "Author":"swl-x",
+   "Contributor":"anima",
+   "Website":"https://github.com/swl-x/MystiQ",
+   "Update":"2020-06-25 18:15",
+   "Size":"583.85KB",
+   "More":"MystiQ是一款基于 Qt5/C++ 的 FFmpeg 媒体格式转换器。"
+}
+
 ,
 {
     "Name": "UxPlay (AirPlay 服务器)",

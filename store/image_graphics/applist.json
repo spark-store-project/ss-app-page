@@ -523,6 +523,21 @@
 }
 ,
 {
+   "Name":"bigjpg人工智能图片放大工具",
+   "Version":"1.0",
+   "Filename":"com.bigjpg.web.deb",
+   "Pkgname":"com.bigjpg.web",
+   "Author":"BigJPG",
+   "Contributor":"洛仙璃",
+   "Website":"https://bigjpg.com/",
+   "Update":"2020-08-13 12:19",
+   "Size":"51.48MB",
+   "Tags":"ubuntu;uos;deepin",
+   "More":"ai人工智能图片放大工具"
+}
+
+,
+{
     "Name": "Iriun 电脑使用手机摄像头",
     "Version": "2.7",
     "Filename": "iriunwebcam_2.7_all.deb",
@@ -538,21 +553,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/29/929f7b51d32d4dbebc4ce2a7042bccea.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/29/2b3e288ce42545ef9d2981d1eb4a9328.png"
 }
-,
-{
-   "Name":"bigjpg人工智能图片放大工具",
-   "Version":"1.0",
-   "Filename":"com.bigjpg.web.deb",
-   "Pkgname":"com.bigjpg.web",
-   "Author":"BigJPG",
-   "Contributor":"洛仙璃",
-   "Website":"https://bigjpg.com/",
-   "Update":"2020-08-13 12:19",
-   "Size":"51.48MB",
-   "Tags":"ubuntu;uos;deepin",
-   "More":"ai人工智能图片放大工具"
-}
-
 ,
 {
     "Name": "H5太阳系",
@@ -686,22 +686,6 @@
 }
 ,
 {
-    "Name": "海天鹰取色器",
-    "Version": "1.0",
-    "Filename": "htycolorpicker_1.3_amd64.deb",
-    "Pkgname": "htycolorpicker",
-    "Author": "海天鹰",
-    "Contributor": "海天鹰",
-    "Website": "https://github.com/sonichy/HTYColorPicker",
-    "Update": "2020-12-17 11:51:33",
-    "Size": "255.88 KB",
-    "More": "Linux 平台基于 Qt 的颜色拾取程序。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/213b9af0-405e-11eb-a83d-a3d68b0c0a4e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/17/ccc87ec0-405d-11eb-a83d-a3d68b0c0a4e.png"
-}
-,
-{
     "Name": "汉王 PDF OCR（Wine）",
     "Version": "8.1.4.16deepin4",
     "Filename": "com.hwpdfocr.spark_8.1.4.16deepin4_all.deb",
@@ -719,18 +703,20 @@
 }
 ,
 {
-   "Name":"Pinta",
-   "Version":"1.7",
-   "Filename":"pinta_1.7-0ppa1_bionic1_all.deb",
-   "Pkgname":"pinta",
-   "Author":" ",
-   "Contributor":"sgb76",
-   "Website":"https://www.pinta-project.com/",
-   "Update":"2020-08-10 18:37",
-   "Size":"763.28KB",
-   "More":"Pinta是一个免费的开源程序，用于绘图和图像编辑。"
+    "Name": "海天鹰取色器",
+    "Version": "1.0",
+    "Filename": "htycolorpicker_1.3_amd64.deb",
+    "Pkgname": "htycolorpicker",
+    "Author": "海天鹰",
+    "Contributor": "海天鹰",
+    "Website": "https://github.com/sonichy/HTYColorPicker",
+    "Update": "2020-12-17 11:51:33",
+    "Size": "255.88 KB",
+    "More": "Linux 平台基于 Qt 的颜色拾取程序。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/213b9af0-405e-11eb-a83d-a3d68b0c0a4e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/17/ccc87ec0-405d-11eb-a83d-a3d68b0c0a4e.png"
 }
-
 ,
 {
     "Name": "嘉立创EDA专业版",
@@ -748,6 +734,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/0f3a5a53a20244ebb385eb35f1748ce0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/c371abd39ebd4571a61185379b8df0b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/905dd39da1dd4b78b4eff0c6bbd763e0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/ac8523ffeead46bca96a30e6ad8336f2.png"
 }
+,
+{
+   "Name":"Pinta",
+   "Version":"1.7",
+   "Filename":"pinta_1.7-0ppa1_bionic1_all.deb",
+   "Pkgname":"pinta",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://www.pinta-project.com/",
+   "Update":"2020-08-10 18:37",
+   "Size":"763.28KB",
+   "More":"Pinta是一个免费的开源程序，用于绘图和图像编辑。"
+}
+
 ,
 {
     "Name": "Pointofix屏幕画笔（wine）",

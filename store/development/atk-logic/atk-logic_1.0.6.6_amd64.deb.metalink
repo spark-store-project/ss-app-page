@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="atk-logic_1.0.6.6_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">17389694141cc19ecdc09441ed72fc7d</hash>
+				  
+				<hash type="sha1">09658c0ddff7f2fbd62f55195f193917095e2282</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/development/atk-logic/atk-logic_1.0.6.6_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://piercing.spark-app.store/store/development/atk-logic/atk-logic_1.0.6.6_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store/store/development/atk-logic/atk-logic_1.0.6.6_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://blinder.spark-app.store/store/development/atk-logic/atk-logic_1.0.6.6_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/development/atk-logic/atk-logic_1.0.6.6_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/development/atk-logic/atk-logic_1.0.6.6_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>
