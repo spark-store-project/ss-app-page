@@ -7280,22 +7280,22 @@ Description: fast, lightweight graphical web browser
 
 Package: firefox-spark
 Architecture: arm64
-Version: 125.0.3+build1-0ubuntu0.20.04.1~mt1
+Version: 125.0.3+build1-0ubuntu0.22.04.1~mt1
 Priority: optional
 Section: utils
 Maintainer: shenmo<shenmo@spark-app.store>
 Installed-Size: 52K
-Provides: x-www-browser,gnome-www-browser,firefox(=125.0.3+build1-0ubuntu0.20.04.1~mt1)
+Provides: x-www-browser,gnome-www-browser,firefox(=125.0.3+build1-0ubuntu0.22.04.1~mt1)
 Depends: libdbus-glib-1-2,libgtk-3-0
 Recommends: speech-dispatcher
 Conflicts: firefox,firefox-spark(<=117.0)
 Replaces: firefox
-Filename: network/firefox-spark/firefox-spark_125.0.3_plus_build1-0ubuntu0.20.04.1~mt1_arm64.deb
-Size: 57141808
-MD5sum: 70f884f7dbb8c64bfda79a74fec6c79f
-SHA1: 8b72fd44aa1f669eaf584966d7018ac1bf90f872
-SHA256: 111c068bb87d296a7cf8f6db204656e2c0a3394f1e6be1652e42b518654bfe3a
-SHA512: 65f91698fc9fbf0e345b4720d1c29246b61faf62a25ed397cef846a3dd91594687d0e36397758d74508d1fd765ce7c7fb2ef5d4666d33715d500c51d41f49b4d
+Filename: network/firefox-spark/firefox-spark_125.0.3_plus_build1-0ubuntu0.22.04.1~mt1_arm64.deb
+Size: 57685220
+MD5sum: 703fb8618890c20c717b8f79ad4c05a4
+SHA1: 996a8bb67f35d4b821c1e0f4c12602eb6bd6a24c
+SHA256: a62e3e6bb3ba4ba8cd12e5b0b807c40318739bd661312748f8ea249bcabafcca
+SHA512: 59a0deea1031823a2426ee7cd7b08e5a2ed5b8c3edf509114650faa311dd5cd311cfc985e272cb249ae453e303c95906965ffb6f2c4c29cf0a0af56a07466d6a
 Homepage: https://gitee.com/spark-building-service/firefox-spark-arm
 Description: 一款开源自由的浏览器
  长介绍

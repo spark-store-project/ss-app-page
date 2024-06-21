@@ -11380,22 +11380,21 @@ Vendor: qier222 <qier222@outlook.com>
 
 Package: go-musicfox
 Architecture: amd64
-Version: 4.4.1-2
+Version: 4.5.3-1
 Priority: optional
 Section: sound
-Maintainer: go-musicfox <abhoder@88.com>
-Original-Maintainer: go-musicfox <abhoder@88.com>
+Maintainer: anhoder <anhoder@88.com>
 Installed-Size: 17832
-Depends: bash, alsa-base, libflac-dev
+Depends: flac, libasound2-dev, alsa-base, libflac-dev
 Conflicts: go-musicfox-git
-Filename: music/go-musicfox/go-musicfox_4.4.1-2_amd64.deb
-Size: 5078184
-MD5sum: 0e6bb9a2ea9c4acd7d902a18cb0ad8c1
-SHA1: 3dbe850f60d245b2baab580c0ae14f7b8f42f0cf
-SHA256: 1afaaa52e071847c5bd59f181d0d4d8b34af4fb88253d0a2b9f91b56cdf9c973
-SHA512: faa2f179eee94157e0c24a5f149ff8d907d46e2647d4c0a72127917342580e78d588c16d669e1a616c8ad30272dea962fe844d21de2bfe143ac2eff59ba95beb
-Homepage: https://github.com/go-musicfox
-Description: A NetEase Music player in CLI.
+Filename: music/go-musicfox/go-musicfox_4.5.3-1_amd64.deb
+Size: 5798548
+MD5sum: 9bbe51739a6ba96d9fd7111c38eb8e12
+SHA1: aaf1f380f62e5d7bf334b0b71758db59a8f289f8
+SHA256: 71240b7949134c04187b7ee55042a890315d1d6cf1fc87cdd01cdcd9aa2b27a0
+SHA512: 5e8a236bb50ddfb133be2b13541f2b7ffdfa8ec241fe835eafbcbb7e961edf9e7c86b44ab0aba081456e1bb1df2fda78b537c52f1e5afe0204dbdc86ddfd0e35
+Homepage: https://github.com/go-musicfox/go-musicfox
+Description: A NetEase music player in terminal.
 
 Package: uengine-dc-com.kugou.android.lite
 Architecture: all

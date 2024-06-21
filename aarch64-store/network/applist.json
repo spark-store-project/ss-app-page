@@ -19,15 +19,15 @@
 ,
 {
     "Name": "Firefox火狐浏览器",
-    "Version": "125.0.3+build1-0ubuntu0.20.04.1~mt1",
-    "Filename": "firefox-spark_125.0.3_plus_build1-0ubuntu0.20.04.1~mt1_arm64.deb",
-    "Torrent_address": "firefox-spark_125.0.3_plus_build1-0ubuntu0.20.04.1~mt1_arm64.deb.torrent",
+    "Version": "125.0.3+build1-0ubuntu0.22.04.1~mt1",
+    "Filename": "firefox-spark_125.0.3_plus_build1-0ubuntu0.22.04.1~mt1_arm64.deb",
+    "Torrent_address": "firefox-spark_125.0.3_plus_build1-0ubuntu0.22.04.1~mt1_arm64.deb.torrent",
     "Pkgname": "firefox-spark",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://gitee.com/spark-building-service/firefox-spark-arm",
-    "Update": "2024-04-29 22:03:07",
-    "Size": "55M",
+    "Update": "2024-06-21 17:58:08",
+    "Size": "56M",
     "More": "Firefox最新版。适用于Ubuntu 2204/Debian 12/deepin23. 其他用户请使用firefox-spark-ace.\n重复，请使用firefox-spark-ace\n重复，请使用firefox-spark-ace\n重复，请使用firefox-spark-ace\n\n请安装  spk://store/network/firefox-spark-ace\n复制上一行的spk到搜索栏回车以前往",
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark/screen_5.png\"]",
@@ -108,22 +108,6 @@
 
 ,
 {
-    "Author": "shenmo <jifengshenmo@outlook.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "org.mozilla.firefox-esr.spark_1.0_all.deb",
-    "More": "firefox-esr的虚包，安装后会自动安装适合版本的firefox-esr",
-    "Name": "Firefox ESR",
-    "Pkgname": "org.mozilla.firefox-esr.spark",
-    "Size": "1 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "org.mozilla.firefox-esr.spark_1.0_all.deb.torrent",
-    "Update": "2023-05-02 20:20:09",
-    "Version": "1.0",
-    "Website": "https://shenmo7192.gitee.io/"
-}
-
-,
-{
     "Author": "Deepin Browser <browser@deepin.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "org.deepin.browser_6.3.16-1_arm64.deb",
@@ -138,6 +122,22 @@
     "Website": "https://www.deepin.com/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/org.deepin.browser/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/org.deepin.browser/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <jifengshenmo@outlook.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "org.mozilla.firefox-esr.spark_1.0_all.deb",
+    "More": "firefox-esr的虚包，安装后会自动安装适合版本的firefox-esr",
+    "Name": "Firefox ESR",
+    "Pkgname": "org.mozilla.firefox-esr.spark",
+    "Size": "1 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "org.mozilla.firefox-esr.spark_1.0_all.deb.torrent",
+    "Update": "2023-05-02 20:20:09",
+    "Version": "1.0",
+    "Website": "https://shenmo7192.gitee.io/"
 }
 
 ,
@@ -429,24 +429,6 @@
 
 ,
 {
-    "Author": "Dr_rOot <agalwood.net@gmail.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "motrix_1.8.12_arm64.deb",
-    "More": "Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源。",
-    "Name": "Motrix",
-    "Pkgname": "motrix",
-    "Size": "66 Mb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "motrix_1.8.12_arm64.deb.torrent",
-    "Update": "2023-04-27 16:25:10",
-    "Version": "1.8.12",
-    "Website": "https://motrix.app",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/screen_3.png\"]"
-}
-
-,
-{
     "Author": "gfdgd xi<3025613752@qq.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "spark-thundermini_1.0_arm64.deb",
@@ -461,6 +443,24 @@
     "Website": "https://www.xunlei.com/",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "Dr_rOot <agalwood.net@gmail.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "motrix_1.8.12_arm64.deb",
+    "More": "Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源。",
+    "Name": "Motrix",
+    "Pkgname": "motrix",
+    "Size": "66 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "motrix_1.8.12_arm64.deb.torrent",
+    "Update": "2023-04-27 16:25:10",
+    "Version": "1.8.12",
+    "Website": "https://motrix.app",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/screen_3.png\"]"
 }
 
 ,
@@ -537,24 +537,6 @@
 
 ,
 {
-    "Author": "xretia <webmaster@xretia.labs>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "cn.speedtest.master_1.6.1_arm64.deb",
-    "More": "SpeedTest.cn 官方客户端移植版\n\nv1.6.1 - 2020/12/25\n从官方 1.6.1 Windows 版本移植\n修复标题栏缺失导致 Linux 无法关闭程序\n修复 Linux 图标缺失\n修复 Linux 下布局轻微错乱\n去除升级提示\n\n也有 ARM 平台，看这里：https://bbs.deepin.org/post/208628",
-    "Name": "网速管家",
-    "Pkgname": "cn.speedtest.master",
-    "Size": "66 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "cn.speedtest.master_1.6.1_arm64.deb.torrent",
-    "Update": "2023-03-05 19:23:50",
-    "Version": "1.6.1",
-    "Website": "https://gitlab.com/dfc643/speedtest-cn/",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_3.png\"]"
-}
-
-,
-{
     "Author": "chenky177@chinatelecom.cn",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.dlife.ecloud_1.0.0.0_arm64.deb",
@@ -569,6 +551,24 @@
     "Website": "https://cloud.189.cn/",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.dlife.ecloud/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.dlife.ecloud/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "xretia <webmaster@xretia.labs>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "cn.speedtest.master_1.6.1_arm64.deb",
+    "More": "SpeedTest.cn 官方客户端移植版\n\nv1.6.1 - 2020/12/25\n从官方 1.6.1 Windows 版本移植\n修复标题栏缺失导致 Linux 无法关闭程序\n修复 Linux 图标缺失\n修复 Linux 下布局轻微错乱\n去除升级提示\n\n也有 ARM 平台，看这里：https://bbs.deepin.org/post/208628",
+    "Name": "网速管家",
+    "Pkgname": "cn.speedtest.master",
+    "Size": "66 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "cn.speedtest.master_1.6.1_arm64.deb.torrent",
+    "Update": "2023-03-05 19:23:50",
+    "Version": "1.6.1",
+    "Website": "https://gitlab.com/dfc643/speedtest-cn/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_3.png\"]"
 }
 
 ,
@@ -879,6 +879,24 @@
 
 ,
 {
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "cn.quarkclouddrive.spark_3.2.6spark4_all.deb",
+    "More": "夸克网盘\n电脑高效拍档 一键存爽快看",
+    "Name": "夸克网盘",
+    "Pkgname": "cn.quarkclouddrive.spark",
+    "Size": "150 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "cn.quarkclouddrive.spark_3.2.6spark4_all.deb.torrent",
+    "Update": "2024-06-15 15:07:28",
+    "Version": "3.2.6spark4",
+    "Website": "https://pan.quark.cn/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/screen_2.png\"]"
+}
+
+,
+{
     "Author": "佚名RJ",
     "Contributor": "佚名RJ",
     "Filename": "com.xiakeduanshipin.deepin_4.8_all.deb",
@@ -912,22 +930,4 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/5208fc68a15145a493e1c9d37510dc42.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/f61015f443344289903d574984793378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/7fe1f9cb38cc4f218531582fe38c5fd0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/d7681c2a5ea440e8a39f99a4130d002d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/19/2ac5f698c5e54f639f585cb7059e58ff.png"
 }
-,
-{
-    "Author": "sgb76 <sgb76@163.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "cn.quarkclouddrive.spark_3.2.6spark4_all.deb",
-    "More": "夸克网盘\n电脑高效拍档 一键存爽快看",
-    "Name": "夸克网盘",
-    "Pkgname": "cn.quarkclouddrive.spark",
-    "Size": "150 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "cn.quarkclouddrive.spark_3.2.6spark4_all.deb.torrent",
-    "Update": "2024-06-15 15:07:28",
-    "Version": "3.2.6spark4",
-    "Website": "https://pan.quark.cn/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/screen_2.png\"]"
-}
-
 ]

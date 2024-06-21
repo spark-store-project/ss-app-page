@@ -860,6 +860,23 @@
 }
 ,
 {
+    "Name": "通义千问（5亿参数版）",
+    "Version": "0.15.1",
+    "Filename": "com.qwen.chat.0dot5b_0.15.1_amd64.deb",
+    "Torrent_address": "com.qwen.chat.0dot5b_0.15.1_amd64.deb.torrent",
+    "Pkgname": "com.qwen.chat.0dot5b",
+    "Author": "Aliyun | tongyi@service.aliyun.com",
+    "Contributor": "Tlntin <TlntinDeng01@Gmail.com>",
+    "Website": "https://www.modelscope.cn/models/qwen/Qwen1.5-0.5B-Chat-GGUF/summary",
+    "Update": "2024-03-16 00:24:55",
+    "Size": "377.12 MB",
+    "More": "\"通义千问\"，阿里云通义的尖端产品，是一款具有强大理解和生成人类语言能力的人工智能模型。它不仅能在您的日常生活和工作中提供卓越的帮助，更是一款强大的智能助手。值得一提的是，这款模型无需网络连接，可以在普通的CPU上顺畅运行，有效地保护您的隐私安全。我们诚挚邀请您来体验这款产品的卓越性能和高效服务。本模型是其0.5b（即5亿）参数的开源版本，经过int4量化处理和llamafiles打包。一旦启动，它将自动在您的浏览器中打开并跳转至http://localhost:8080",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/59d3cf690c4b455a996dba3ea142d6fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/7e70dbd9327149b58832fbbd6e1bc7e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/d080f1859222440b9489046cdb6da95d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/16/f82f8f626b8540d182c9f3841cfe04f5.png"
+}
+,
+{
     "Name": "海龟编辑器",
     "Version": "0.1.3",
     "Filename": "cn.codemao.wood_0.1.3_amd64.deb",
@@ -894,6 +911,22 @@
 }
 ,
 {
+    "Name": "STM32CubeMX",
+    "Version": "6.0.1",
+    "Filename": "stm32cubemx_6.0.1_amd64.deb",
+    "Pkgname": "stm32cubemx",
+    "Author": "STMicroelectronics",
+    "Contributor": "lidanger",
+    "Website": "https://www.st.com",
+    "Update": "2020-10-31 06:56:48",
+    "Size": "252.74 MB",
+    "More": "STM32CubeMX is a graphical tool for 32-bit ARMÂ® CortexÂ® STM32 microcontrollers.",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0ce0c590-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0f2bee10-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/11310ce0-1b46-11eb-9c06-c785f5a589ec.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/0a06ca90-1b46-11eb-9c06-c785f5a589ec.png"
+}
+,
+{
     "Name": "RedisViewer",
     "Version": "2.4.4",
     "Filename": "redisviewer_2.4.4_amd64.deb",
@@ -911,23 +944,6 @@
 }
 ,
 {
-    "Name": "通义千问（5亿参数版）",
-    "Version": "0.15.1",
-    "Filename": "com.qwen.chat.0dot5b_0.15.1_amd64.deb",
-    "Torrent_address": "com.qwen.chat.0dot5b_0.15.1_amd64.deb.torrent",
-    "Pkgname": "com.qwen.chat.0dot5b",
-    "Author": "Aliyun | tongyi@service.aliyun.com",
-    "Contributor": "Tlntin <TlntinDeng01@Gmail.com>",
-    "Website": "https://www.modelscope.cn/models/qwen/Qwen1.5-0.5B-Chat-GGUF/summary",
-    "Update": "2024-03-16 00:24:55",
-    "Size": "377.12 MB",
-    "More": "\"通义千问\"，阿里云通义的尖端产品，是一款具有强大理解和生成人类语言能力的人工智能模型。它不仅能在您的日常生活和工作中提供卓越的帮助，更是一款强大的智能助手。值得一提的是，这款模型无需网络连接，可以在普通的CPU上顺畅运行，有效地保护您的隐私安全。我们诚挚邀请您来体验这款产品的卓越性能和高效服务。本模型是其0.5b（即5亿）参数的开源版本，经过int4量化处理和llamafiles打包。一旦启动，它将自动在您的浏览器中打开并跳转至http://localhost:8080",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/59d3cf690c4b455a996dba3ea142d6fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/7e70dbd9327149b58832fbbd6e1bc7e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/d080f1859222440b9489046cdb6da95d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/16/f82f8f626b8540d182c9f3841cfe04f5.png"
-}
-,
-{
     "Name": "TeXstudio",
     "Version": "4.1.2-1_plus_3.1",
     "Filename": "texstudio_4.1.2-1_plus_3.1_amd64.deb",
@@ -941,22 +957,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/16/05cadd70-5e6d-11ec-95f6-1d6d123aedfa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/16/0b9f2cb0-5e6d-11ec-95f6-1d6d123aedfa.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/16/0032faf0-5e6d-11ec-95f6-1d6d123aedfa.png"
-}
-,
-{
-    "Name": "STM32CubeMX",
-    "Version": "6.0.1",
-    "Filename": "stm32cubemx_6.0.1_amd64.deb",
-    "Pkgname": "stm32cubemx",
-    "Author": "STMicroelectronics",
-    "Contributor": "lidanger",
-    "Website": "https://www.st.com",
-    "Update": "2020-10-31 06:56:48",
-    "Size": "252.74 MB",
-    "More": "STM32CubeMX is a graphical tool for 32-bit ARMÂ® CortexÂ® STM32 microcontrollers.",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0ce0c590-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0f2bee10-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/11310ce0-1b46-11eb-9c06-c785f5a589ec.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/0a06ca90-1b46-11eb-9c06-c785f5a589ec.png"
 }
 ,
 {
@@ -1143,6 +1143,20 @@
 }
 ,
 {
+   "Name":"mqttfx",
+   "Version":"1.7.1",
+   "Filename":"mqttfx-1.7.1-64bit.deb",
+   "Pkgname":"mqttfx",
+   "Author":"mqttfx",
+   "Contributor":"风铃",
+   "Website":"http://mqttfx.jensd.de/",
+   "Update":"2020-07-26 23:51",
+   "Size":"72.41MB",
+   "More":"MQTT.fx是一个跨平台的MQTT的图形化客户端"
+}
+
+,
+{
     "Name": "Liberica JDK 11 Full",
     "Version": "11.0.23+10",
     "Filename": "bellsoft-java11-full_11.0.23_plus10_amd64.deb",
@@ -1158,20 +1172,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/3d3664a4e60a4859be50d2b6612761ff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/f7d2ce4abc754c06a88bd7db5fd6a410.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/b545a377c4414ff092031e1ed18ee5f0.png"
 }
-,
-{
-   "Name":"mqttfx",
-   "Version":"1.7.1",
-   "Filename":"mqttfx-1.7.1-64bit.deb",
-   "Pkgname":"mqttfx",
-   "Author":"mqttfx",
-   "Contributor":"风铃",
-   "Website":"http://mqttfx.jensd.de/",
-   "Update":"2020-07-26 23:51",
-   "Size":"72.41MB",
-   "More":"MQTT.fx是一个跨平台的MQTT的图形化客户端"
-}
-
 ,
 {
     "Name": "OpenCore Auxiliary Tools",
@@ -1622,22 +1622,6 @@
 }
 ,
 {
-    "Name": "sokit",
-    "Version": "1.3.1",
-    "Filename": "sokit_1.3.1_amd64.deb",
-    "Pkgname": "sokit",
-    "Author": "sinpowei",
-    "Contributor": "lidanger",
-    "Website": "https://github.com/sinpolib/sokit",
-    "Update": "2020-10-25 07:11:38",
-    "Size": "100.18 KB",
-    "More": "CP / UDP 测试工具,用来接收,发送,转发TCP或UDP数据包",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/47f77200-1691-11eb-9164-d95c0156863b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/4806db50-1691-11eb-9164-d95c0156863b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/4800e7e0-1691-11eb-9164-d95c0156863b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/25/1bcfe310-1691-11eb-9164-d95c0156863b.png"
-}
-,
-{
     "Name": "VOFA+",
     "Version": "1.3.10",
     "Filename": "vofa_plus_1.3.10_amd64.deb",
@@ -1655,20 +1639,19 @@
 }
 ,
 {
-    "Name": "finalshell-2024年更新版",
-    "Version": "4.3.10",
-    "Filename": "finalshell_4.3.10_amd64.deb",
-    "Torrent_address": "finalshell_4.3.10_amd64.deb.torrent",
-    "Pkgname": "finalshell",
-    "Author": "kentrl",
-    "Contributor": "kentrl",
-    "Website": "kentrl",
-    "Update": "2024-04-26 10:50:48",
-    "Size": "89.68 MB",
-    "More": "2024年的本次更新发现可以设置字体大小了，终端还带颜色的 ，finalshell_linux-4.3.10",
-    "Tags": "deepin;ubuntu;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/8bf86c80-0377-11ef-ab63-e103c5305d10.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/6933f8e0-0377-11ef-ab63-e103c5305d10.desktop"
+    "Name": "sokit",
+    "Version": "1.3.1",
+    "Filename": "sokit_1.3.1_amd64.deb",
+    "Pkgname": "sokit",
+    "Author": "sinpowei",
+    "Contributor": "lidanger",
+    "Website": "https://github.com/sinpolib/sokit",
+    "Update": "2020-10-25 07:11:38",
+    "Size": "100.18 KB",
+    "More": "CP / UDP 测试工具,用来接收,发送,转发TCP或UDP数据包",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/47f77200-1691-11eb-9164-d95c0156863b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/4806db50-1691-11eb-9164-d95c0156863b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/4800e7e0-1691-11eb-9164-d95c0156863b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/25/1bcfe310-1691-11eb-9164-d95c0156863b.png"
 }
 ,
 {
@@ -1686,6 +1669,23 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/8ff47a9e591f450e8d0469def4ed2842.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/ba6abb843e80465ca412ef8b9c952fe9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/28/d2a52ead196b4644bd0c292098d5135d.png"
+}
+,
+{
+    "Name": "finalshell-2024年更新版",
+    "Version": "4.3.10",
+    "Filename": "finalshell_4.3.10_amd64.deb",
+    "Torrent_address": "finalshell_4.3.10_amd64.deb.torrent",
+    "Pkgname": "finalshell",
+    "Author": "kentrl",
+    "Contributor": "kentrl",
+    "Website": "kentrl",
+    "Update": "2024-04-26 10:50:48",
+    "Size": "89.68 MB",
+    "More": "2024年的本次更新发现可以设置字体大小了，终端还带颜色的 ，finalshell_linux-4.3.10",
+    "Tags": "deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/8bf86c80-0377-11ef-ab63-e103c5305d10.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/6933f8e0-0377-11ef-ab63-e103c5305d10.desktop"
 }
 ,
 {
@@ -2428,6 +2428,23 @@
 }
 ,
 {
+    "Name": "正点原子逻辑分析仪",
+    "Version": "1.0.6.6",
+    "Filename": "atk-logic_1.0.6.6_amd64.deb",
+    "Torrent_address": "atk-logic_1.0.6.6_amd64.deb.torrent",
+    "Pkgname": "atk-logic",
+    "Author": "Alientek[zhangyang@alientek.com]",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.alientek.com/",
+    "Update": "2024-06-20 10:53:09",
+    "Size": "83.73 MB",
+    "More": "ATK-Logic软件是正点原子团队(ALIENTEK)专为逻辑分析仪设计的功能强大的软件工具，旨在帮助用户进行逻辑信号的捕获、分析和调试。无论您是电子工程师、嵌入式系统开发人员还是电路设计师，该软件都能提供您所需的强大功能和便捷操作。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/3265abec2cfd45ee873b05fc42dbdc56.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/2af23382ec7341b7b6cd06703aa4ad44.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/20/f71383304a0149378b50bdd192befa77.png"
+}
+,
+{
     "Name": "Test Mace",
     "Version": "1.3.3spark0",
     "Filename": "com.testmace.spark_1.3.3spark0_amd64.deb",
@@ -2459,22 +2476,5 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/70e20d10-2eac-11ef-b2c5-4fa9599f8cb0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/713b77b0-2eac-11ef-b2c5-4fa9599f8cb0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/71950960-2eac-11ef-b2c5-4fa9599f8cb0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/20/18806e10-2eab-11ef-b2c5-4fa9599f8cb0.png"
-}
-,
-{
-    "Name": "正点原子逻辑分析仪",
-    "Version": "1.0.6.6",
-    "Filename": "atk-logic_1.0.6.6_amd64.deb",
-    "Torrent_address": "atk-logic_1.0.6.6_amd64.deb.torrent",
-    "Pkgname": "atk-logic",
-    "Author": "Alientek[zhangyang@alientek.com]",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://www.alientek.com/",
-    "Update": "2024-06-20 10:53:09",
-    "Size": "83.73 MB",
-    "More": "ATK-Logic软件是正点原子团队(ALIENTEK)专为逻辑分析仪设计的功能强大的软件工具，旨在帮助用户进行逻辑信号的捕获、分析和调试。无论您是电子工程师、嵌入式系统开发人员还是电路设计师，该软件都能提供您所需的强大功能和便捷操作。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/3265abec2cfd45ee873b05fc42dbdc56.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/2af23382ec7341b7b6cd06703aa4ad44.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/20/f71383304a0149378b50bdd192befa77.png"
 }
 ]

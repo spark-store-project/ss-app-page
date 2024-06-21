@@ -128,24 +128,6 @@
 {
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "ffmpeg-spark_6.0.N-112488-g79c568dd4e_arm64.deb",
-    "More": "FFmpeg是主流的多媒体框架，能够解码、编码、转码、复用、解复用、流处理、过滤和播放几乎任何人类和机器所创造的东西。它支持最古老的、最晦涩难懂的格式到最前沿的格式。UOS自带的ffmpeg过于老旧，所以更新编译了这个东西\n此软件包包含以下内容：\nffmpeg-spark：一个命令行工具，用于在各种格式之间转换多媒体文件\nffplay-spark：一个简单的媒体播放器，基于SDL和FFmpeg库开发\nffprobe-spark：一个简单的多媒体流分析器\n\n不想用系统原版的ffmpeg，想直接用ffmpeg拉起ffmpeg-spark的方法：\nln -sf /usr/bin/ffmpeg-spark $HOME/.local/bin/ffmpeg\nln -sf /usr/bin/ffplay-spark $HOME/.local/bin/ffplay\nln -sf /usr/bin/ffprobe-spark $HOME/.local/bin/ffprobe\n",
-    "Name": "ffmpeg Spark",
-    "Pkgname": "ffmpeg-spark",
-    "Size": "29 Mb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "ffmpeg-spark_6.0.N-112488-g79c568dd4e_arm64.deb.torrent",
-    "Update": "2023-10-22 12:49:24",
-    "Version": "6.0.N-112488-g79c568dd4e",
-    "Website": "https://ffmpeg.org/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/video/ffmpeg-spark/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/ffmpeg-spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/ffmpeg-spark/screen_2.png\"]"
-}
-
-,
-{
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "co.jianpian8.player_4.2.3.48_all.deb",
     "More": "专治迅雷被封链接 \n保证所有迅雷无法下载的资源 荐片播放器100%可以高速下载，netflix、美剧、韩剧、动漫全网资源永久免费观看，必备看片神器",
     "Name": "荐片播放器",
@@ -158,6 +140,24 @@
     "Website": "https://www.jianpian8.co/",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/video/co.jianpian8.player/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/co.jianpian8.player/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "ffmpeg-spark_6.0.N-112488-g79c568dd4e_arm64.deb",
+    "More": "FFmpeg是主流的多媒体框架，能够解码、编码、转码、复用、解复用、流处理、过滤和播放几乎任何人类和机器所创造的东西。它支持最古老的、最晦涩难懂的格式到最前沿的格式。UOS自带的ffmpeg过于老旧，所以更新编译了这个东西\n此软件包包含以下内容：\nffmpeg-spark：一个命令行工具，用于在各种格式之间转换多媒体文件\nffplay-spark：一个简单的媒体播放器，基于SDL和FFmpeg库开发\nffprobe-spark：一个简单的多媒体流分析器\n\n不想用系统原版的ffmpeg，想直接用ffmpeg拉起ffmpeg-spark的方法：\nln -sf /usr/bin/ffmpeg-spark $HOME/.local/bin/ffmpeg\nln -sf /usr/bin/ffplay-spark $HOME/.local/bin/ffplay\nln -sf /usr/bin/ffprobe-spark $HOME/.local/bin/ffprobe\n",
+    "Name": "ffmpeg Spark",
+    "Pkgname": "ffmpeg-spark",
+    "Size": "29 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "ffmpeg-spark_6.0.N-112488-g79c568dd4e_arm64.deb.torrent",
+    "Update": "2023-10-22 12:49:24",
+    "Version": "6.0.N-112488-g79c568dd4e",
+    "Website": "https://ffmpeg.org/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/video/ffmpeg-spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/ffmpeg-spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/ffmpeg-spark/screen_2.png\"]"
 }
 
 ,
