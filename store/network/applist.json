@@ -1247,23 +1247,6 @@
 }
 ,
 {
-    "Name": "在线视频下载器",
-    "Version": "2.8.0-1",
-    "Filename": "media-downloader_2.8.0-1_amd64.deb",
-    "Torrent_address": "media-downloader_2.8.0-1_amd64.deb.torrent",
-    "Pkgname": "media-downloader",
-    "Author": "Mhogo Mchungu <mhogomchungu@gmail.com>",
-    "Contributor": "flutter",
-    "Website": "https://github.com/mhogomchungu/media-downloader",
-    "Update": "2023-02-22 17:36:23",
-    "Size": "499.3 KB",
-    "More": "下载在线视频软件，支持b站等网站",
-    "Tags": "ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/f2d4508a71a74272ade330166f967b46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/ab3c081001d8452cbe08e616e77d0b46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/e5c0410412f14bc0bdf0de36a512f8f4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/6874582326514388bbbee71ad1429450.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/22/fab7a65e5c3e44ef81b8c8eb757e0e22.png"
-}
-,
-{
     "Name": "Clash Nyanpasu～(∠・ω< )⌒☆​ ",
     "Version": "1.5.1",
     "Filename": "clash-nyanpasu_1.5.1_amd64.deb",
@@ -1278,6 +1261,23 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/e7122150-f8dd-11ee-94b3-3598cf0b4d68.gif\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/d8f3eef0-f8dd-11ee-94b3-3598cf0b4d68.png"
+}
+,
+{
+    "Name": "在线视频下载器",
+    "Version": "2.8.0-1",
+    "Filename": "media-downloader_2.8.0-1_amd64.deb",
+    "Torrent_address": "media-downloader_2.8.0-1_amd64.deb.torrent",
+    "Pkgname": "media-downloader",
+    "Author": "Mhogo Mchungu <mhogomchungu@gmail.com>",
+    "Contributor": "flutter",
+    "Website": "https://github.com/mhogomchungu/media-downloader",
+    "Update": "2023-02-22 17:36:23",
+    "Size": "499.3 KB",
+    "More": "下载在线视频软件，支持b站等网站",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/f2d4508a71a74272ade330166f967b46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/ab3c081001d8452cbe08e616e77d0b46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/e5c0410412f14bc0bdf0de36a512f8f4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/6874582326514388bbbee71ad1429450.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/22/fab7a65e5c3e44ef81b8c8eb757e0e22.png"
 }
 ,
 {
@@ -1860,22 +1860,6 @@
 }
 ,
 {
-    "Name": "摸鱼股票球",
-    "Version": "0.3.0",
-    "Filename": "findfish-stockball_0.3.0_amd64.deb",
-    "Pkgname": "findfish-stockball",
-    "Author": "depend",
-    "Contributor": "depend",
-    "Website": "https://github.com/dependon/Stock-Ball",
-    "Update": "2022-03-16 10:04:52",
-    "Size": "120.11 KB",
-    "More": "上班摸鱼用，实时查看股票情况",
-    "Tags": "deepin;uos;ubuntu;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/16/70beb4c0-a4cd-11ec-b6f1-21d05ca1ff21.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/16/70bf7810-a4cd-11ec-b6f1-21d05ca1ff21.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/16/6d97d240-a4cd-11ec-b6f1-21d05ca1ff21.png"
-}
-,
-{
     "Author": "shenmo",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.ugreen.client_4.9.0.9559_all.deb",
@@ -1892,6 +1876,22 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/screen_1.png\"]"
 }
 
+,
+{
+    "Name": "摸鱼股票球",
+    "Version": "0.3.0",
+    "Filename": "findfish-stockball_0.3.0_amd64.deb",
+    "Pkgname": "findfish-stockball",
+    "Author": "depend",
+    "Contributor": "depend",
+    "Website": "https://github.com/dependon/Stock-Ball",
+    "Update": "2022-03-16 10:04:52",
+    "Size": "120.11 KB",
+    "More": "上班摸鱼用，实时查看股票情况",
+    "Tags": "deepin;uos;ubuntu;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/16/70beb4c0-a4cd-11ec-b6f1-21d05ca1ff21.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/16/70bf7810-a4cd-11ec-b6f1-21d05ca1ff21.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/16/6d97d240-a4cd-11ec-b6f1-21d05ca1ff21.png"
+}
 ,
 {
     "Name": "广发操盘手",

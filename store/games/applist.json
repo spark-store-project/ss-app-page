@@ -735,6 +735,20 @@
 }
 ,
 {
+   "Name":"3D平衡球",
+   "Version":"1.13",
+   "Filename":"com.atari.ballance.dcs_1.13_i386.deb",
+   "Pkgname":"com.atari.ballance.dcs",
+   "Author":" ",
+   "Contributor":"zty199",
+   "Website":"https://www.atari.com",
+   "Update":"2020-07-03 17:25",
+   "Size":"45.13MB",
+   "More":"经典游戏《Ballance》（非官方译名“平衡球”“3D平衡球”等），由德国的Atari（雅达利）公司旗下的开发商Cyparade于2004年4月2日在PC平台发布的一款单机滚球游戏。在游戏中，玩家要操纵一个可以改变自身材料种类（即物理性质）的球在高空或太空中搭建的庞大而复杂的迷宫建筑中穿梭，避开陷阱机关并破解一个个谜题，最终到达终点飞船以完成一个关卡。游戏提供了13个难度大致递增的关卡供玩家探索。此外，搭载了非常还原、真实的物理引擎使得球的操纵手感非常接近对现实生活中的认知，玩家也能够充分体验重力对平衡性的影响。"
+}
+
+,
+{
     "Name": "终极动员令：红色警戒3「正体中文版}」",
     "Version": "1.13spark4",
     "Filename": "com.redalert3cc.spark_1.13spark4_amd64.deb",
@@ -750,20 +764,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/ba1aab70-d2ce-11ee-976f-0d73676bf873.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/bbc5ea70-d2ce-11ee-976f-0d73676bf873.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/bd161120-d2ce-11ee-976f-0d73676bf873.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/be809da0-d2ce-11ee-976f-0d73676bf873.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/c0228dd0-d2ce-11ee-976f-0d73676bf873.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/24/c138b8c0-d2ce-11ee-976f-0d73676bf873.png"
 }
-,
-{
-   "Name":"3D平衡球",
-   "Version":"1.13",
-   "Filename":"com.atari.ballance.dcs_1.13_i386.deb",
-   "Pkgname":"com.atari.ballance.dcs",
-   "Author":" ",
-   "Contributor":"zty199",
-   "Website":"https://www.atari.com",
-   "Update":"2020-07-03 17:25",
-   "Size":"45.13MB",
-   "More":"经典游戏《Ballance》（非官方译名“平衡球”“3D平衡球”等），由德国的Atari（雅达利）公司旗下的开发商Cyparade于2004年4月2日在PC平台发布的一款单机滚球游戏。在游戏中，玩家要操纵一个可以改变自身材料种类（即物理性质）的球在高空或太空中搭建的庞大而复杂的迷宫建筑中穿梭，避开陷阱机关并破解一个个谜题，最终到达终点飞船以完成一个关卡。游戏提供了13个难度大致递增的关卡供玩家探索。此外，搭载了非常还原、真实的物理引擎使得球的操纵手感非常接近对现实生活中的认知，玩家也能够充分体验重力对平衡性的影响。"
-}
-
 ,
 {
     "Name": "野狐围棋",
@@ -885,6 +885,22 @@
 
 ,
 {
+    "Name": "Qt五子棋",
+    "Version": "1.0.0",
+    "Filename": "qtwuziqi_1.0.0_amd64.deb",
+    "Pkgname": "qtwuziqi",
+    "Author": " tashaxing",
+    "Contributor": "depend",
+    "Website": "https://github.com/dependon/wuziqi",
+    "Update": "2021-10-09 11:51:41",
+    "Size": "37.71 KB",
+    "More": "qt的简单五子棋，人机对战，人人对战",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/2455f480-28b4-11ec-b63d-93f38a4e19b6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/2474a010-28b4-11ec-b63d-93f38a4e19b6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/24893980-28b4-11ec-b63d-93f38a4e19b6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/09/fd5780b0-28b3-11ec-b63d-93f38a4e19b6.png"
+}
+,
+{
     "Name": "火炬之光2",
     "Version": "1.0spark0",
     "Filename": "com.torchlight2.spark_1.0spark0_amd64.deb",
@@ -899,22 +915,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/28/1c20dd7158c7410780d6f96cee81133e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/28/dd305881ef6341788721bd81f4c02cfe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/28/e98c887dac2249b493e2f285bd68c685.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/28/f4aa26a2ba0946fa99b579b46ab1ad26.png"
-}
-,
-{
-    "Name": "Qt五子棋",
-    "Version": "1.0.0",
-    "Filename": "qtwuziqi_1.0.0_amd64.deb",
-    "Pkgname": "qtwuziqi",
-    "Author": " tashaxing",
-    "Contributor": "depend",
-    "Website": "https://github.com/dependon/wuziqi",
-    "Update": "2021-10-09 11:51:41",
-    "Size": "37.71 KB",
-    "More": "qt的简单五子棋，人机对战，人人对战",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/2455f480-28b4-11ec-b63d-93f38a4e19b6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/2474a010-28b4-11ec-b63d-93f38a4e19b6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/24893980-28b4-11ec-b63d-93f38a4e19b6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/09/fd5780b0-28b3-11ec-b63d-93f38a4e19b6.png"
 }
 ,
 {
@@ -2767,6 +2767,23 @@
 }
 ,
 {
+    "Name": "70亿人类",
+    "Version": "1.0",
+    "Filename": "com.7bhumans.spark_1.0_all.deb",
+    "Torrent_address": "com.7bhumans.spark_1.0_all.deb.torrent",
+    "Pkgname": "com.7bhumans.spark",
+    "Author": "Tomorrow Corporation",
+    "Contributor": "John12138",
+    "Website": "https://tomorrowcorporation.com/",
+    "Update": "2023-07-13 13:37:00",
+    "Size": "509.07 MB",
+    "More": "1、设置中文：进入游戏主菜单后点右上角ENGLISH切换语言，按Esc可以切换窗口、全屏和退出游戏。\n2、70亿人类 是美国工作室Tomorrow Corporation开发的一款智力电子游戏，该游戏于2018年8 月 23日发布，并登陆Microsoft Windows 、 MacOS、 Linux 和任天堂Switch等系统。玩家在该游戏中需要完成60多个编程难题",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/13/1f54edb88b6441acb83167e9575e7a10.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/13/e7a0674f11ed45789de4acb57a17c53a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/13/cc8f3f02195040c48d91f548f7982dce.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/13/2106a26e35c84318905cc0defe005433.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/13/6b6a8665131c4f808b2916d8651818f7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/13/d00ae0b8bc7047fa9dea06e516b014cf.png"
+}
+,
+{
     "Name": "Disbelief Papyrus",
     "Version": "1.1.2",
     "Filename": "disbelief.papyrus.yzf_1.1.2_i386.deb",
@@ -2814,23 +2831,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/01/8b31d7e7424c4451ba0c95ee04954d2e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/01/e85c3922d48b4933b1dace2ee4c5e665.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/01/d50128379b654498b56d1985171f5e82.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/01/cfc0c39b148942a48479d42fe15987d6.png"
-}
-,
-{
-    "Name": "70亿人类",
-    "Version": "1.0",
-    "Filename": "com.7bhumans.spark_1.0_all.deb",
-    "Torrent_address": "com.7bhumans.spark_1.0_all.deb.torrent",
-    "Pkgname": "com.7bhumans.spark",
-    "Author": "Tomorrow Corporation",
-    "Contributor": "John12138",
-    "Website": "https://tomorrowcorporation.com/",
-    "Update": "2023-07-13 13:37:00",
-    "Size": "509.07 MB",
-    "More": "1、设置中文：进入游戏主菜单后点右上角ENGLISH切换语言，按Esc可以切换窗口、全屏和退出游戏。\n2、70亿人类 是美国工作室Tomorrow Corporation开发的一款智力电子游戏，该游戏于2018年8 月 23日发布，并登陆Microsoft Windows 、 MacOS、 Linux 和任天堂Switch等系统。玩家在该游戏中需要完成60多个编程难题",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/13/1f54edb88b6441acb83167e9575e7a10.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/13/e7a0674f11ed45789de4acb57a17c53a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/13/cc8f3f02195040c48d91f548f7982dce.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/13/2106a26e35c84318905cc0defe005433.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/13/6b6a8665131c4f808b2916d8651818f7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/13/d00ae0b8bc7047fa9dea06e516b014cf.png"
 }
 ,
 {
@@ -3762,6 +3762,23 @@
 }
 ,
 {
+    "Name": "轮回",
+    "Version": "1.0spark1",
+    "Filename": "com.samsara.spark_1.0spark1_all.deb",
+    "Torrent_address": "com.samsara.spark_1.0spark1_all.deb.torrent",
+    "Pkgname": "com.samsara.spark",
+    "Author": "Marker Limited",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-10-14 17:50:23",
+    "Size": "190.35 MB",
+    "More": "一款离奇古怪的、跨越多个维度的2D益智游戏。小希在轮回空间里迷路了，开始了一场既美丽又迷惑的奇幻之旅。你可以用神奇的木块和强大的传送门来帮助小希离开轮回空间。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/14/9fb72b0f55124e4f8b1de02990f3f9c0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/14/0cf75e8bc39d4ebaa22925c44fc34cea.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/14/35f172856cd7439f83f59d493756d26d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/14/00f3af9e0e384c96a407451d48959420.png"
+}
+,
+{
     "Name": "GDevelop 5",
     "Version": "5.0.121spark0",
     "Filename": "com.gdevelop.spark_5.0.121spark0_amd64.deb",
@@ -3826,23 +3843,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/f45cecc2ca7d4f00bd48b632dead3b97.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/cd386d2e904c4e968f8cc5918f0f199c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/7c10595442c545258cd6143fe1e7935e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/bf353b6aa5e8436d9d968c3803333918.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/15/11c70f9373974fea9dd966db86b889b9.png"
-}
-,
-{
-    "Name": "轮回",
-    "Version": "1.0spark1",
-    "Filename": "com.samsara.spark_1.0spark1_all.deb",
-    "Torrent_address": "com.samsara.spark_1.0spark1_all.deb.torrent",
-    "Pkgname": "com.samsara.spark",
-    "Author": "Marker Limited",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-10-14 17:50:23",
-    "Size": "190.35 MB",
-    "More": "一款离奇古怪的、跨越多个维度的2D益智游戏。小希在轮回空间里迷路了，开始了一场既美丽又迷惑的奇幻之旅。你可以用神奇的木块和强大的传送门来帮助小希离开轮回空间。",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/14/9fb72b0f55124e4f8b1de02990f3f9c0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/14/0cf75e8bc39d4ebaa22925c44fc34cea.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/14/35f172856cd7439f83f59d493756d26d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/14/00f3af9e0e384c96a407451d48959420.png"
 }
 ,
 {

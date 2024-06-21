@@ -1917,6 +1917,23 @@
 }
 ,
 {
+    "Name": "文华赢顺Wh6(wine)",
+    "Version": "6.8.412spark0",
+    "Filename": "com.haqh.wh6.spark_6.8.412spark0_amd64.deb",
+    "Torrent_address": "com.haqh.wh6.spark_6.8.412spark0_amd64.deb.torrent",
+    "Pkgname": "com.haqh.wh6.spark",
+    "Author": "上海文华财经资讯股份有限公司",
+    "Contributor": "delsin",
+    "Website": "https://wh6.wenhua.com.cn/Home/Index",
+    "Update": "2022-06-16 14:15:06",
+    "Size": "734.87 MB",
+    "More": "文华赢顺WH6-华安期货版 on wine-devel-7.9\n文华赢顺WH6软件,智能化的行情分析软件，含夜盘行情、期权行情。\n注：\n(1)修复升级下载错误导致无法登录的问题。\n(2)若要安装其他期货公司版文华赢顺WH6，请安装本版本后，参考此帖替换：https://bbs.deepin.org/post/239092",
+    "Tags": "uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/16/43c35190-ed3b-11ec-99fe-7d388596cee3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/16/3db46a50-ed3b-11ec-99fe-7d388596cee3.png"
+}
+,
+{
     "Name": "金舟PDF编辑器",
     "Version": "4.0.3spark0",
     "Filename": "net.jinzhousoft.jzpdfeditor.spark_4.0.3spark0_all.deb",
@@ -1948,23 +1965,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/19/3ecd3a2b654e43e08b5192e7536601d5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/19/2eab12f5ce5f43c7805f38f6c6f2e4cf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/19/32cf939dd1d1477eb8b3aad76e15e458.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/19/6dc746c53d9242ed9dfa85656b17fe7b.png"
-}
-,
-{
-    "Name": "文华赢顺Wh6(wine)",
-    "Version": "6.8.412spark0",
-    "Filename": "com.haqh.wh6.spark_6.8.412spark0_amd64.deb",
-    "Torrent_address": "com.haqh.wh6.spark_6.8.412spark0_amd64.deb.torrent",
-    "Pkgname": "com.haqh.wh6.spark",
-    "Author": "上海文华财经资讯股份有限公司",
-    "Contributor": "delsin",
-    "Website": "https://wh6.wenhua.com.cn/Home/Index",
-    "Update": "2022-06-16 14:15:06",
-    "Size": "734.87 MB",
-    "More": "文华赢顺WH6-华安期货版 on wine-devel-7.9\n文华赢顺WH6软件,智能化的行情分析软件，含夜盘行情、期权行情。\n注：\n(1)修复升级下载错误导致无法登录的问题。\n(2)若要安装其他期货公司版文华赢顺WH6，请安装本版本后，参考此帖替换：https://bbs.deepin.org/post/239092",
-    "Tags": "uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/16/43c35190-ed3b-11ec-99fe-7d388596cee3.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/16/3db46a50-ed3b-11ec-99fe-7d388596cee3.png"
 }
 ,
 {
@@ -2487,6 +2487,23 @@
 }
 ,
 {
+    "Name": "超级星学习通",
+    "Version": "1.0.0",
+    "Filename": "chaoxingstudy_1.0.0_i386.deb",
+    "Torrent_address": "chaoxingstudy_1.0.0_i386.deb.torrent",
+    "Pkgname": "chaoxingstudy",
+    "Author": "rc3583z<huawei0086@126.com>",
+    "Contributor": "rc3583z",
+    "Website": "huawei0086@126.com>",
+    "Update": "2023-04-16 09:10:55",
+    "Size": "480.5 MB",
+    "More": "学习通，完成作业。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e202d70-dbf3-11ed-b7c5-79e728797698.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e32a400-dbf3-11ed-b7c5-79e728797698.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/16/2a1ddf10-dbf3-11ed-b7c5-79e728797698.png"
+}
+,
+{
     "Author": "Xylink team <support@xylink.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.xylink.linuxclient_3.3.1.15008_amd64.deb",
@@ -2503,23 +2520,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.xylink.linuxclient/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.xylink.linuxclient/screen_2.png\"]"
 }
 
-,
-{
-    "Name": "超级星学习通",
-    "Version": "1.0.0",
-    "Filename": "chaoxingstudy_1.0.0_i386.deb",
-    "Torrent_address": "chaoxingstudy_1.0.0_i386.deb.torrent",
-    "Pkgname": "chaoxingstudy",
-    "Author": "rc3583z<huawei0086@126.com>",
-    "Contributor": "rc3583z",
-    "Website": "huawei0086@126.com>",
-    "Update": "2023-04-16 09:10:55",
-    "Size": "480.5 MB",
-    "More": "学习通，完成作业。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e202d70-dbf3-11ed-b7c5-79e728797698.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e32a400-dbf3-11ed-b7c5-79e728797698.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/16/2a1ddf10-dbf3-11ed-b7c5-79e728797698.png"
-}
 ,
 {
     "Name": "Todoist",
@@ -3089,6 +3089,23 @@
 }
 ,
 {
+    "Name": "中国移动云电脑（wine）",
+    "Version": "1.0.0",
+    "Filename": "chinamobyunos_1.0.0_all.deb",
+    "Torrent_address": "chinamobyunos_1.0.0_all.deb.torrent",
+    "Pkgname": "chinamobyunos",
+    "Author": "huawei0086@126.com",
+    "Contributor": "rc3583z",
+    "Website": "1212123",
+    "Update": "2024-03-15 15:33:11",
+    "Size": "264.34 MB",
+    "More": "中国移动云电脑",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/add19340-e29d-11ee-893c-3b7985d6d301.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/ee872080-e29d-11ee-893c-3b7985d6d301.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/15/a5e33da0-e29d-11ee-893c-3b7985d6d301.png"
+}
+,
+{
     "Name": "sleek任务清单",
     "Version": "1.3.1",
     "Filename": "sleek_1.3.1_amd64.deb",
@@ -3154,23 +3171,6 @@
     "Tags": "deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/15/7e19d511decd4927873793b8b3afabad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/15/00ce668d8e1243498f00070f953ecd7a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/15/0aa20fc0dbf146eabf07f8444c013e5d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/15/23562976a79e4c6f8df915fff86daf1e.png"
-}
-,
-{
-    "Name": "中国移动云电脑（wine）",
-    "Version": "1.0.0",
-    "Filename": "chinamobyunos_1.0.0_all.deb",
-    "Torrent_address": "chinamobyunos_1.0.0_all.deb.torrent",
-    "Pkgname": "chinamobyunos",
-    "Author": "huawei0086@126.com",
-    "Contributor": "rc3583z",
-    "Website": "1212123",
-    "Update": "2024-03-15 15:33:11",
-    "Size": "264.34 MB",
-    "More": "中国移动云电脑",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/add19340-e29d-11ee-893c-3b7985d6d301.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/ee872080-e29d-11ee-893c-3b7985d6d301.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/15/a5e33da0-e29d-11ee-893c-3b7985d6d301.png"
 }
 ,
 {

@@ -563,23 +563,6 @@
 }
 ,
 {
-    "Name": "jellyfin",
-    "Version": "10.8.8-1",
-    "Filename": "jellyfin_10.8.8-1_all.deb",
-    "Torrent_address": "jellyfin_10.8.8-1_all.deb.torrent",
-    "Pkgname": "jellyfin",
-    "Author": "Jellyfin Packaging Team <packaging@jellyfin.org>",
-    "Contributor": "fallingstar",
-    "Website": "https://jellyfin.org",
-    "Update": "2023-01-08 13:33:59",
-    "Size": "2.23 KB",
-    "More": "开源的影音系统，局域网内的影视、音乐、书籍管理，将你的linux系统拥有Nas般的体验，依赖：依赖：jellyfin-server, jellyfin-web, jellyfin-ffmpeg，安装后运行“jellyfin”，忽略初次运行的报错，浏览器访问http://localhost:8096/使用",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/08/c4673fc5f85a4bbf95691d43af173c14.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/08/592f1957463744f7858820ccbcd8fda0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/08/e1b7ba0f3c1745d38e7a06d1da065d0a.png"
-}
-,
-{
     "Name": "腾讯视频（Wine）",
     "Version": "11.2.7044.0deepin6",
     "Filename": "com.qq.video.deepin_11.2.7044.0deepin6_i386.deb",
@@ -594,6 +577,23 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/05/d6cf29d8df6b4e75b627bc010b482091.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/05/6e0b7bb9fb2b4b6e8e4c41f0f917fd0f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/05/0ec0aa9d93994e27955caf6a9919976b.png"
+}
+,
+{
+    "Name": "jellyfin",
+    "Version": "10.8.8-1",
+    "Filename": "jellyfin_10.8.8-1_all.deb",
+    "Torrent_address": "jellyfin_10.8.8-1_all.deb.torrent",
+    "Pkgname": "jellyfin",
+    "Author": "Jellyfin Packaging Team <packaging@jellyfin.org>",
+    "Contributor": "fallingstar",
+    "Website": "https://jellyfin.org",
+    "Update": "2023-01-08 13:33:59",
+    "Size": "2.23 KB",
+    "More": "开源的影音系统，局域网内的影视、音乐、书籍管理，将你的linux系统拥有Nas般的体验，依赖：依赖：jellyfin-server, jellyfin-web, jellyfin-ffmpeg，安装后运行“jellyfin”，忽略初次运行的报错，浏览器访问http://localhost:8096/使用",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/08/c4673fc5f85a4bbf95691d43af173c14.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/08/592f1957463744f7858820ccbcd8fda0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/08/e1b7ba0f3c1745d38e7a06d1da065d0a.png"
 }
 ,
 {

@@ -1029,23 +1029,6 @@
 }
 ,
 {
-    "Name": "安兔兔评测",
-    "Version": "1.0.0.610",
-    "Filename": "com.antutu.benchmark_1.0.0.610_amd64.deb",
-    "Torrent_address": "com.antutu.benchmark_1.0.0.610_amd64.deb.torrent",
-    "Pkgname": "com.antutu.benchmark",
-    "Author": "antutu <support@antutu.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.antutu.com/",
-    "Update": "2023-06-11 11:20:10",
-    "Size": "150.9 MB",
-    "More": "安兔兔评测 For Linux",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/8026135d32384834a6ce7118be2ac42f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/317409dd01364c45b6723c782d3d29eb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/46cd0f0ece934816be6bf039b9b9595a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/34e44c4d9b5b4d22a65767bed3684ffd.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/11/fde06c9646d84c6c98829ceacd849d16.png"
-}
-,
-{
     "Name": "格式工厂（Wine）",
     "Version": "5.11.0",
     "Filename": "com.sugarcane.formatfactory_5.11.0_all.deb",
@@ -1060,6 +1043,23 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/65fdb0f0-354e-11ee-a987-4f47b34b2038.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/08/6787fa70-354e-11ee-a987-4f47b34b2038.png"
+}
+,
+{
+    "Name": "安兔兔评测",
+    "Version": "1.0.0.610",
+    "Filename": "com.antutu.benchmark_1.0.0.610_amd64.deb",
+    "Torrent_address": "com.antutu.benchmark_1.0.0.610_amd64.deb.torrent",
+    "Pkgname": "com.antutu.benchmark",
+    "Author": "antutu <support@antutu.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.antutu.com/",
+    "Update": "2023-06-11 11:20:10",
+    "Size": "150.9 MB",
+    "More": "安兔兔评测 For Linux",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/8026135d32384834a6ce7118be2ac42f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/317409dd01364c45b6723c782d3d29eb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/46cd0f0ece934816be6bf039b9b9595a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/34e44c4d9b5b4d22a65767bed3684ffd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/11/fde06c9646d84c6c98829ceacd849d16.png"
 }
 ,
 {
@@ -1313,22 +1313,6 @@
 }
 ,
 {
-    "Name": "fsearch",
-    "Version": "20201209+r819.4afd0c6~ubuntu20.04.1",
-    "Filename": "fsearch-trunk_20201209_plus_r819.4afd0c6~ubuntu20.04.1_amd64.deb",
-    "Pkgname": "fsearch-trunk",
-    "Author": "cboxdoerfer",
-    "Contributor": "jerrywang",
-    "Website": "https://github.com/cboxdoerfer/fsearch",
-    "Update": "2020-12-29 17:44:26",
-    "Size": "125.2 KB",
-    "More": "基于GTK + 3的类Unix系统的快速文件搜索实用程序。布局和功能和windows下的everything十分类似，速度也相当快。",
-    "Tags": "ubuntu;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/29/0a379360-49fd-11eb-98c6-4bd0150970dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/29/0b309960-49fd-11eb-98c6-4bd0150970dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/29/0b349100-49fd-11eb-98c6-4bd0150970dc.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/29/660e0340-49fd-11eb-98c6-4bd0150970dc.png"
-}
-,
-{
     "Name": "Bandizip",
     "Version": "7.32spark0",
     "Filename": "com.bandisoft.bandizip.spark_7.32spark0_all.deb",
@@ -1343,6 +1327,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/9dff3e503b3a44a0bb9ec82c4e4d7584.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/6a857f372489469fbc32403a8a1eab3a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/8ff96b2f8ee0411ea7b5adec5ef06024.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/02/f232b3707a404dfeb7bd03ade2834732.png"
+}
+,
+{
+    "Name": "fsearch",
+    "Version": "20201209+r819.4afd0c6~ubuntu20.04.1",
+    "Filename": "fsearch-trunk_20201209_plus_r819.4afd0c6~ubuntu20.04.1_amd64.deb",
+    "Pkgname": "fsearch-trunk",
+    "Author": "cboxdoerfer",
+    "Contributor": "jerrywang",
+    "Website": "https://github.com/cboxdoerfer/fsearch",
+    "Update": "2020-12-29 17:44:26",
+    "Size": "125.2 KB",
+    "More": "基于GTK + 3的类Unix系统的快速文件搜索实用程序。布局和功能和windows下的everything十分类似，速度也相当快。",
+    "Tags": "ubuntu;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/29/0a379360-49fd-11eb-98c6-4bd0150970dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/29/0b309960-49fd-11eb-98c6-4bd0150970dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/29/0b349100-49fd-11eb-98c6-4bd0150970dc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/29/660e0340-49fd-11eb-98c6-4bd0150970dc.png"
 }
 ,
 {
@@ -1413,6 +1413,20 @@
 
 ,
 {
+   "Name":"海天鹰文件管理器",
+   "Version":"2.9",
+   "Filename":"htyfm-spark_2.9_amd64.deb",
+   "Pkgname":"htyfm-spark",
+   "Author":"黄颖",
+   "Contributor":"shenmo",
+   "Website":"github.com/sonichy",
+   "Update":"2020-09-05 19:17",
+   "Size":"83.60KB",
+   "More":"一款好用的文件管理器"
+}
+
+,
+{
     "Name": "Macast",
     "Version": "0.7",
     "Filename": "macast_0.7_amd64.deb",
@@ -1428,20 +1442,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/03/a78748c0-b31c-11ec-9c94-e5b618764332.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/03/a2bcef70-b31c-11ec-9c94-e5b618764332.png"
 }
-,
-{
-   "Name":"海天鹰文件管理器",
-   "Version":"2.9",
-   "Filename":"htyfm-spark_2.9_amd64.deb",
-   "Pkgname":"htyfm-spark",
-   "Author":"黄颖",
-   "Contributor":"shenmo",
-   "Website":"github.com/sonichy",
-   "Update":"2020-09-05 19:17",
-   "Size":"83.60KB",
-   "More":"一款好用的文件管理器"
-}
-
 ,
 {
     "Name": "TLP 设置",
@@ -1796,23 +1796,6 @@
 }
 ,
 {
-    "Name": "无界投屏",
-    "Version": "2.1.2-1",
-    "Filename": "uncon_2.1.2-1_amd64.deb",
-    "Torrent_address": "uncon_2.1.2-1_amd64.deb.torrent",
-    "Pkgname": "uncon",
-    "Author": "@Nightmare",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://nightmare.fun/screen/",
-    "Update": "2022-10-09 18:15:58",
-    "Size": "8.47 MB",
-    "More": "无界投屏\n需要安装对应的客户端才能使用\n\n客户端下载地址：http://nightmare.fun/YanTool/resources/Remote/",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/09/292a5f7c-88c4-4609-bb58-3ee058e50257.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/09/2d207ca3-f117-45fe-986b-9822f3ca4609.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/09/4178da8e-8384-4000-9719-017b730b3af3.png"
-}
-,
-{
     "Name": "ES文件管理器",
     "Version": "4.4.1.1",
     "Filename": "uengine-dc-com.estrongs.android.pop_4.4.1.1_all.deb",
@@ -1827,6 +1810,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/44f62f2b63894098a68cfa496f05e3d0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/29/2c1f205a4d16446bb7f3eaccbe600006.png"
+}
+,
+{
+    "Name": "无界投屏",
+    "Version": "2.1.2-1",
+    "Filename": "uncon_2.1.2-1_amd64.deb",
+    "Torrent_address": "uncon_2.1.2-1_amd64.deb.torrent",
+    "Pkgname": "uncon",
+    "Author": "@Nightmare",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://nightmare.fun/screen/",
+    "Update": "2022-10-09 18:15:58",
+    "Size": "8.47 MB",
+    "More": "无界投屏\n需要安装对应的客户端才能使用\n\n客户端下载地址：http://nightmare.fun/YanTool/resources/Remote/",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/09/292a5f7c-88c4-4609-bb58-3ee058e50257.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/09/2d207ca3-f117-45fe-986b-9822f3ca4609.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/09/4178da8e-8384-4000-9719-017b730b3af3.png"
 }
 ,
 {
@@ -2366,6 +2366,23 @@
 }
 ,
 {
+    "Name": "QGIS(书虫版)",
+    "Version": "3.32.1-fix1-cursor",
+    "Filename": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb",
+    "Torrent_address": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb.torrent",
+    "Pkgname": "org.qgis.qgis",
+    "Author": "shenmo<ouyangyunrui@uniontech.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://qgis.org/",
+    "Update": "2023-08-20 16:04:58",
+    "Size": "622.3 MB",
+    "More": "一款免费的开源地理信息系统\n\n A Geographic Information System (GIS) manages, analyzes, and displays\n databases of geographic information. QGIS supports shape file viewing and\n editing, spatial data storage with PostgreSQL/PostGIS, projection on-the-fly,\n map composition, and a number of other features via a plugin interface. QGIS\n also supports display of various georeferenced raster and Digital Elevation\n Model (DEM) formats including GeoTIFF, Arc/Info ASCII Grid, and USGS ASCII\n DEM.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/0242916c1eca488e98137daf10193c4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/74a9c8eefd83424490112c7fd3e4c1f1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/20/cc2dabfeb636416fa76e62ba58a53540.png"
+}
+,
+{
     "Name": "gnome-pie应用启动器",
     "Version": "0.7.3-1",
     "Filename": "gnome-pie_0.7.3-1_amd64.deb",
@@ -2397,23 +2414,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/80baba1166574aeda4311851af8db563.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a8b3f2a04b1f4ba78ed78e174beea988.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/a55a9b6db67f4dd0a2989787d3225506.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/caad566997094294bf3e840cc29eb129.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/29/3f3c5ec56f2d43698b1019ab4b59f26c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/29/4ac0b574bd524ef0bc1865df9346fd05.png"
-}
-,
-{
-    "Name": "QGIS(书虫版)",
-    "Version": "3.32.1-fix1-cursor",
-    "Filename": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb",
-    "Torrent_address": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb.torrent",
-    "Pkgname": "org.qgis.qgis",
-    "Author": "shenmo<ouyangyunrui@uniontech.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://qgis.org/",
-    "Update": "2023-08-20 16:04:58",
-    "Size": "622.3 MB",
-    "More": "一款免费的开源地理信息系统\n\n A Geographic Information System (GIS) manages, analyzes, and displays\n databases of geographic information. QGIS supports shape file viewing and\n editing, spatial data storage with PostgreSQL/PostGIS, projection on-the-fly,\n map composition, and a number of other features via a plugin interface. QGIS\n also supports display of various georeferenced raster and Digital Elevation\n Model (DEM) formats including GeoTIFF, Arc/Info ASCII Grid, and USGS ASCII\n DEM.",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/0242916c1eca488e98137daf10193c4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/74a9c8eefd83424490112c7fd3e4c1f1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/20/cc2dabfeb636416fa76e62ba58a53540.png"
 }
 ,
 {

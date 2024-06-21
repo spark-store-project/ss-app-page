@@ -393,24 +393,6 @@
 
 ,
 {
-    "Author": "shenmo",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "deepin-wine-thunders_20200711.s3.1_all.deb",
-    "More": "迅雷融合版\n经过修改，现已在所有支持的平台测试通过",
-    "Name": "迅雷S",
-    "Pkgname": "deepin-wine-thunders",
-    "Size": "17 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "deepin-wine-thunders_20200711.s3.1_all.deb.torrent",
-    "Update": "2023-08-05 21:22:21",
-    "Version": "20200711.s3.1",
-    "Website": " https://www.xunlei.com/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/screen_2.png\"]"
-}
-
-,
-{
     "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "browser360ent-cn-stable_10.5.2002.132-1_arm64.deb",
@@ -425,6 +407,24 @@
     "Website": "https://browser.360.net",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360ent-cn-stable/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360ent-cn-stable/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360ent-cn-stable/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "shenmo",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "deepin-wine-thunders_20200711.s3.1_all.deb",
+    "More": "迅雷融合版\n经过修改，现已在所有支持的平台测试通过",
+    "Name": "迅雷S",
+    "Pkgname": "deepin-wine-thunders",
+    "Size": "17 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "deepin-wine-thunders_20200711.s3.1_all.deb.torrent",
+    "Update": "2023-08-05 21:22:21",
+    "Version": "20200711.s3.1",
+    "Website": " https://www.xunlei.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/screen_2.png\"]"
 }
 
 ,
@@ -483,6 +483,24 @@
 
 ,
 {
+    "Author": "zzzgydi, wonfen, MystiPanda",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "clash-verge_1.6.6_arm64.deb",
+    "More": "A Clash Meta GUI based on tauri.\nClash Verge的新维护者版本,支持Linux发行版下开启系统代理",
+    "Name": "Clash Verge",
+    "Pkgname": "clash-verge",
+    "Size": "42 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "clash-verge_1.6.6_arm64.deb.torrent",
+    "Update": "2024-06-13 22:20:27",
+    "Version": "1.6.6",
+    "Website": "https://clash-verge-rev.github.io/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_3.png\"]"
+}
+
+,
+{
     "Author": "sgb76 <sgb76@163.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "vip.zhouql.bilidown.spark_1.0.5spark0_all.deb",
@@ -515,24 +533,6 @@
     "Website": "http://www.sangfor.com.cn",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.com.sangfor.atrust/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.com.sangfor.atrust/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.com.sangfor.atrust/screen_2.png\"]"
-}
-
-,
-{
-    "Author": "zzzgydi, wonfen, MystiPanda",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "clash-verge_1.6.6_arm64.deb",
-    "More": "A Clash Meta GUI based on tauri.\nClash Verge的新维护者版本,支持Linux发行版下开启系统代理",
-    "Name": "Clash Verge",
-    "Pkgname": "clash-verge",
-    "Size": "42 Mb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "clash-verge_1.6.6_arm64.deb.torrent",
-    "Update": "2024-06-13 22:20:27",
-    "Version": "1.6.6",
-    "Website": "https://clash-verge-rev.github.io/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_3.png\"]"
 }
 
 ,
@@ -861,24 +861,6 @@
 
 ,
 {
-    "Author": "佚名RJ",
-    "Contributor": "佚名RJ",
-    "Filename": "com.xiakeduanshipin.deepin_4.8_all.deb",
-    "More": ".本工具支持无水印解析下载抖音、抖音极速版、快手、快手极速版、剪映、火山、皮皮虾、皮皮搞笑、最右、微视、QQ看点、西瓜视频、小红书、淘宝、天猫、绿洲、美拍、今日头条、微博、各国外平台(随缘)、各平台图集、微信公众号...等等众多短视频平台。",
-    "Name": "侠客短视频解析去水印工具",
-    "Pkgname": "com.xiakeduanshipin.deepin",
-    "Size": "22 Mb",
-    "Tags": "deepin;uos;dwine5",
-    "Torrent_address": "com.xiakeduanshipin.deepin_4.8_all.deb.torrent",
-    "Update": "2024-06-16 10:38:15",
-    "Version": "4.8",
-    "Website": "https://www.52pojie.cn/thread-1933305-1-1.html",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.xiakeduanshipin.deepin/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.xiakeduanshipin.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.xiakeduanshipin.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.xiakeduanshipin.deepin/screen_3.png\"]"
-}
-
-,
-{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.jd.jm_11.3.3_all.deb",
@@ -893,6 +875,24 @@
     "Website": "",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.jd.jm/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.jd.jm/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "佚名RJ",
+    "Contributor": "佚名RJ",
+    "Filename": "com.xiakeduanshipin.deepin_4.8_all.deb",
+    "More": ".本工具支持无水印解析下载抖音、抖音极速版、快手、快手极速版、剪映、火山、皮皮虾、皮皮搞笑、最右、微视、QQ看点、西瓜视频、小红书、淘宝、天猫、绿洲、美拍、今日头条、微博、各国外平台(随缘)、各平台图集、微信公众号...等等众多短视频平台。",
+    "Name": "侠客短视频解析去水印工具",
+    "Pkgname": "com.xiakeduanshipin.deepin",
+    "Size": "22 Mb",
+    "Tags": "deepin;uos;dwine5",
+    "Torrent_address": "com.xiakeduanshipin.deepin_4.8_all.deb.torrent",
+    "Update": "2024-06-16 10:38:15",
+    "Version": "4.8",
+    "Website": "https://www.52pojie.cn/thread-1933305-1-1.html",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.xiakeduanshipin.deepin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.xiakeduanshipin.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.xiakeduanshipin.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.xiakeduanshipin.deepin/screen_3.png\"]"
 }
 
 ,

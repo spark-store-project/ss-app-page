@@ -918,24 +918,6 @@
 
 ,
 {
-    "Author": "huawei <huaweicloudmeeting@huawei.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "huaweicloudmeeting_9.4.2_arm64.deb",
-    "More": "“云端”协同的会议解决方案，全平台接入，全球覆盖，提供高清、稳定、安全、高效的极简会议体验",
-    "Name": "华为云会议",
-    "Pkgname": "huaweicloudmeeting",
-    "Size": "67 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "huaweicloudmeeting_9.4.2_arm64.deb.torrent",
-    "Update": "2023-10-19 22:48:13",
-    "Version": "9.4.2",
-    "Website": "https://www.meeting.huaweicloud.com",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/huaweicloudmeeting/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/huaweicloudmeeting/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/huaweicloudmeeting/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/huaweicloudmeeting/screen_3.png\"]"
-}
-
-,
-{
     "Author": "洗头_乐",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "spark.office2010-runner.com_14.0.0_all.deb",
@@ -950,6 +932,24 @@
     "Website": "https://www.microsoft.com/zh-cn",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/office/spark.office2010-runner.com/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/spark.office2010-runner.com/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/spark.office2010-runner.com/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/spark.office2010-runner.com/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "huawei <huaweicloudmeeting@huawei.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "huaweicloudmeeting_9.4.2_arm64.deb",
+    "More": "“云端”协同的会议解决方案，全平台接入，全球覆盖，提供高清、稳定、安全、高效的极简会议体验",
+    "Name": "华为云会议",
+    "Pkgname": "huaweicloudmeeting",
+    "Size": "67 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "huaweicloudmeeting_9.4.2_arm64.deb.torrent",
+    "Update": "2023-10-19 22:48:13",
+    "Version": "9.4.2",
+    "Website": "https://www.meeting.huaweicloud.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/huaweicloudmeeting/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/huaweicloudmeeting/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/huaweicloudmeeting/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/huaweicloudmeeting/screen_3.png\"]"
 }
 
 ,
@@ -972,24 +972,6 @@
 
 ,
 {
-    "Author": "gfdgd xi、为什么您不知道熊出没和阿布呢",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "spark-microsoftsharepoint_1.0.0_arm64.deb",
-    "More": "Microsoft Office SharePoint Designer For Deepin Wine 6",
-    "Name": "Microsoft Office SharePoint Designer 2007",
-    "Pkgname": "spark-microsoftsharepoint",
-    "Size": "663 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "spark-microsoftsharepoint_1.0.0_arm64.deb.torrent",
-    "Update": "2023-03-06 20:26:27",
-    "Version": "1.0.0",
-    "Website": "https://www.microsoft.com/zh-cn/",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/spark-microsoftsharepoint/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/spark-microsoftsharepoint/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/spark-microsoftsharepoint/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/spark-microsoftsharepoint/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/spark-microsoftsharepoint/screen_4.png\"]"
-}
-
-,
-{
     "Author": "wang",
     "Contributor": "wang",
     "Filename": "com.tracker-software.pdfxedit.spark_10.3.0_all.deb",
@@ -1004,6 +986,24 @@
     "Website": "https://www.pdf-xchange.com/",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/office/com.tracker-software.pdfxedit.spark/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.tracker-software.pdfxedit.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.tracker-software.pdfxedit.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.tracker-software.pdfxedit.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "gfdgd xi、为什么您不知道熊出没和阿布呢",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "spark-microsoftsharepoint_1.0.0_arm64.deb",
+    "More": "Microsoft Office SharePoint Designer For Deepin Wine 6",
+    "Name": "Microsoft Office SharePoint Designer 2007",
+    "Pkgname": "spark-microsoftsharepoint",
+    "Size": "663 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "spark-microsoftsharepoint_1.0.0_arm64.deb.torrent",
+    "Update": "2023-03-06 20:26:27",
+    "Version": "1.0.0",
+    "Website": "https://www.microsoft.com/zh-cn/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/spark-microsoftsharepoint/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/spark-microsoftsharepoint/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/spark-microsoftsharepoint/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/spark-microsoftsharepoint/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/spark-microsoftsharepoint/screen_4.png\"]"
 }
 
 ,
