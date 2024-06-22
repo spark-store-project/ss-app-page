@@ -19218,6 +19218,26 @@ Description: https://www.bilibili.com/video/BV1Fd4y1N79Y
 
 Package: gb-studio
 Architecture: amd64
+Version: 4.0.0
+Priority: optional
+Section: utils
+Maintainer: GB Studio
+Installed-Size: 268131
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin
+Recommends: pulseaudio | libasound2
+Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0, lsb-release
+Filename: games/gb-studio/gb-studio_4.0.0_amd64.deb
+Size: 78571068
+MD5sum: 16376f9ca74434db9c4a568f59a2d148
+SHA1: 127e0007fbaa74e95441e169510a02d41ec888ef
+SHA256: acbbef385ad2c444467a4f650d4af7b863a26ea015169c889d49338828cfcd95
+SHA512: fce870ac06e0ca4326f3cf6c4d636dfe2dc8d853186c89c7310a80d2a441bdcd6b09ad1184e757c8fda6a622e18e48228c9dd6dd1954123ba2833258c551fdf6
+Homepage: https://www.gbstudio.dev
+Description: Visual retro game maker
+ Visual retro game maker
+
+Package: gb-studio
+Architecture: amd64
 Version: 3.2.0
 Priority: optional
 Section: utils
@@ -30391,6 +30411,23 @@ SHA1: c38debb348e1b543aa931877afbc4a039a3ca82b
 SHA256: 4e5b5e351b882da81b0d9da55b2954714c97bb3e0b6712b51fd4f19030769aba
 SHA512: 5ba8dce10b4a0a8bcd44dd3047aa270a0d6df4a7203bfedde1150860a9aec20ee5799b3c2391a81f03e700b6149ec2e095757457126f1dcc5b2bb6795d7b80a4
 Description: 一个功能强大的开源（免费）电子邮件客户端和互联网套件
+
+Package: com.ode.deepin
+Architecture: all
+Version: 0.8.3
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: wang
+Installed-Size: 70368
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: network/com.ode.deepin/com.ode.deepin_0.8.3_all.deb
+Size: 70379624
+MD5sum: 2456dffe894649a69bc161463fef0ca6
+SHA1: cdfafcd8f80da9f94384394aebe2c8289a3c658f
+SHA256: 6fc0b9ef567f0f8099fb4879d650dd9f678a4bccfff146700fa56b416a91c45a
+SHA512: 94944e3c798d9a0fdcdf6991a5a1ce17c84eb5db11e32a97afdc78d30869f37c1f035c852ee9b30040e3cf1473cef1ceada525efab76a0bffd8f443efcc8ef63
+Description: .其实它的主要功能是链接下载，和迅雷、idm是一样类型的下载软件，支持链接下载和网盘链接解析下载。
 
 Package: com.ode.deepin
 Architecture: all

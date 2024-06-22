@@ -760,23 +760,6 @@
 }
 ,
 {
-    "Name": "Koishi(Linux版)",
-    "Version": "1.0.2",
-    "Filename": "koishi_1.0.2_amd64.deb",
-    "Torrent_address": "koishi_1.0.2_amd64.deb.torrent",
-    "Pkgname": "koishi",
-    "Author": "https://github.com/koishijs/koishi",
-    "Contributor": "Fredoong",
-    "Website": "https://koishi.chat",
-    "Update": "2024-03-10 17:00:46",
-    "Size": "34.66 MB",
-    "More": "Koishi是一个跨平台、可扩展、高性能的聊天机器人框架\n它的名字和图标设计来源于东方Project中的角色Komeiji Koishi\n\n打开浏览器，打开 http://localhost:5140/ 查看界面",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/05ef1cfaf6894117a301bafd5947e47d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/10/e0fd3810c08747eaaef9bdc8e830d892.png"
-}
-,
-{
     "Name": "Lark",
     "Version": "7.15.13-0",
     "Filename": "bytedance-lark-stable_7.15.13-0_amd64.deb",
@@ -791,6 +774,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/ecaa58843c7e41659d8ceb3509a09e6a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/d94cbfea7cd849dfa67fd236a99bb433.png"
+}
+,
+{
+    "Name": "Koishi(Linux版)",
+    "Version": "1.0.2",
+    "Filename": "koishi_1.0.2_amd64.deb",
+    "Torrent_address": "koishi_1.0.2_amd64.deb.torrent",
+    "Pkgname": "koishi",
+    "Author": "https://github.com/koishijs/koishi",
+    "Contributor": "Fredoong",
+    "Website": "https://koishi.chat",
+    "Update": "2024-03-10 17:00:46",
+    "Size": "34.66 MB",
+    "More": "Koishi是一个跨平台、可扩展、高性能的聊天机器人框架\n它的名字和图标设计来源于东方Project中的角色Komeiji Koishi\n\n打开浏览器，打开 http://localhost:5140/ 查看界面",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/05ef1cfaf6894117a301bafd5947e47d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/10/e0fd3810c08747eaaef9bdc8e830d892.png"
 }
 ,
 {
