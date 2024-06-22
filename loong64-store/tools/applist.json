@@ -56,15 +56,15 @@
 {
     "Author": "gfdgd xi <3025613752@qq.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "spark-deepin-wine-runner_3.9.0_all.deb",
+    "Filename": "spark-deepin-wine-runner_3.9.1_all.deb",
     "More": "Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序，内置了对Wine图形化的支持、各种Wine工具、自制的Wine程序打包器和运行库安装工具等。\n它同时还内置了基于VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作。\n\n一个图形化了如下命令的程序（最简单格式）\nenv WINEPREFIX=容器路径 wine（wine的路径） 可执行文件路径\n让你可以简易方便的使用 wine\n\nWine 运行器 QQ 交流群：762985460",
     "Name": "Wine运行器 3.9.0",
     "Pkgname": "spark-deepin-wine-runner",
     "Size": "53 Mb",
     "Tags": "community;deepin;uos;ubuntu;dtk5;dwine2;dwine5",
-    "Torrent_address": "spark-deepin-wine-runner_3.9.0_all.deb.torrent",
-    "Update": "2024-06-01 16:55:54",
-    "Version": "3.9.0",
+    "Torrent_address": "spark-deepin-wine-runner_3.9.1_all.deb.torrent",
+    "Update": "2024-06-22 20:33:13",
+    "Version": "3.9.1",
     "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
     "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_5.png\"]"
@@ -879,6 +879,24 @@
 }
 ,
 {
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1~beige_loong64.deb",
+    "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \n安装此包后在后续版本的 Wine 运行器虚拟机配置工具将支持调用该新版本的 Qemu\n\n该版本只支持 deepin23,如需支持其它系统版本的（如 deepin 20），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
+    "Name": "Wine 运行器 Qemu 拓展",
+    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
+    "Size": "147 Mb",
+    "Tags": "community;deepin",
+    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1~beige_loong64.deb.torrent",
+    "Update": "2024-06-22 22:21:05",
+    "Version": "9.0.1~beige",
+    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
+}
+
+,
+{
     "Name": "Slimbook Battery",
     "Version": "3.97beta",
     "Filename": "slimbookbattery_3.97beta_all.deb",
@@ -1011,6 +1029,24 @@
 }
 ,
 {
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "ghost_12.0.0.4112spark0_loong64.deb",
+    "More": "ghost64官方版是一款大名鼎鼎的硬盘备份软件，Symantec Ghost可以把一个磁盘上的全部内容复制到另外一个磁盘上，也可以把磁盘内容复制为一个磁盘的镜像文件，以后你可以用镜像文件创建一个原始磁盘的拷贝。\n原生的，需要 root 权限",
+    "Name": "Ghost（Linux）",
+    "Pkgname": "ghost",
+    "Size": "2941 Kb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "ghost_12.0.0.4112spark0_loong64.deb.torrent",
+    "Update": "2024-06-22 20:37:05",
+    "Version": "12.0.0.4112spark0",
+    "Website": "未知",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/ghost/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/ghost/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/ghost/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/ghost/screen_3.png\"]"
+}
+
+,
+{
     "Name": "钉钉视频会议日志清理",
     "Version": "1.2.3-0.1",
     "Filename": "dinglivelogclean_1.2.3-0.1_all.deb",
@@ -1062,6 +1098,24 @@
 
 ,
 {
+    "Author": "ziggy <lu1044100652@outlook.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.kaspersky.www.kvrt_24.0.4.0_loong64.deb",
+    "More": "卡巴斯基病毒清除工具",
+    "Name": "卡巴斯基病毒清除工具",
+    "Pkgname": "com.kaspersky.www.kvrt",
+    "Size": "172 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.kaspersky.www.kvrt_24.0.4.0_loong64.deb.torrent",
+    "Update": "2024-06-22 20:37:57",
+    "Version": "24.0.4.0",
+    "Website": "https://www.kaspersky.com/downloads/free-virus-removal-tool",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.kaspersky.www.kvrt/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.kaspersky.www.kvrt/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.kaspersky.www.kvrt/screen_2.png\"]"
+}
+
+,
+{
     "Name": "经传多赢股票",
     "Version": "8.0.4",
     "Filename": "com.jzdy.deepin_8.0.4_all.deb",
@@ -1099,15 +1153,15 @@
 {
     "Author": "Huorong Unix Team <unix-dev@huorong.cn>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "cn.huorong.esm_2.0.7.4_loong64.deb",
+    "Filename": "cn.huorong.esm_2.0.7.5_loong64.deb",
     "More": "涵盖桌面版与服务器版两大版本，均搭载火绒自主研发的反病毒引擎，不仅支持主要Linux系统发行版，且深度兼容主流国产操作系统和CPU。核心功能包含病毒查杀、风险隔离、添加信任、日志记录等。通过连接「火绒终端安全管理系统」的控制中心，满足企业级用户对终端的检测、查杀、管控等需求，如资产登记、多级管理、下发定制策略等。",
     "Name": "火绒安全",
     "Pkgname": "cn.huorong.esm",
     "Size": "29 Mb",
     "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "cn.huorong.esm_2.0.7.4_loong64.deb.torrent",
-    "Update": "2024-05-01 08:37:43",
-    "Version": "2.0.7.4",
+    "Torrent_address": "cn.huorong.esm_2.0.7.5_loong64.deb.torrent",
+    "Update": "2024-06-22 20:50:44",
+    "Version": "2.0.7.5",
     "Website": "https://huorong.cn",
     "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/screen_3.png\"]"

@@ -2582,6 +2582,24 @@ SHA512: 4c6943ba4bb162b3dd5159dbeab0d988ca6210055b2ea7a05ba9c295a53f818260562578
 Homepage: https://huorong.cn
 Description: 火绒终端安全管理系统
 
+Package: cn.huorong.esm
+Architecture: arm64
+Version: 2.0.7.5
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: Huorong Unix Team <unix-dev@huorong.cn>
+Installed-Size: 78747
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: tools/cn.huorong.esm/cn.huorong.esm_2.0.7.5_arm64.deb
+Size: 31707854
+MD5sum: 00adf6811c026af3fa72eab76a5264e9
+SHA1: e1ba8b0b63bea955ec30ad9da2e50233d7a4c97f
+SHA256: fae26e95df83a99b895b7841fe89878550572f555baf1d88f32546c73f429f25
+SHA512: d7ef9c593b6bab365f6f59c514100578615f19e4ba59bc48e4d35827901cf3ae9da24ca585934fbc701fb5d86eece808b82878629abedd22c72c9c745f8c608a
+Homepage: https://huorong.cn
+Description: 火绒终端安全管理系统
+
 Package: uos-packaging-tools
 Architecture: all
 Version: 1.2.1
@@ -2749,6 +2767,34 @@ SHA1: b5aba271bb4c81f899429b0a672f3548ae79ffb2
 SHA256: 407cbea38d6798fe6b179c4d892213f8fb5f0530503e6296708a49c675464df4
 SHA512: f9b679d1e7c04e2d6303022c9b68a08ab9f98846138d09ee627aa00459a03d9d41388c409e0ebdef7499bf472b1467e80fa359750ce720de8c2f6f5dc650ad09
 Description: Phyvirt provides a graphical tool to install and run guest.
+
+Package: spark-deepin-wine-runner
+Architecture: all
+Version: 3.9.1
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 192316
+Provides: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
+Depends: python3, python3-pil, python3-pil.imagetk, python3-pyquery, aria2, curl, unrar | unrar-free , unzip, python3-requests, python3-pyqt5, python3-psutil, xfce4-terminal | deepin-terminal | mate-terminal | gnome-terminal, python3-dbus, python3-pip, p7zip-full | p7zip-legacy, sudo, python3-pyperclip, bubblewrap, zenity, tree, dpkg, fakeroot
+Recommends: winbind, wimtools, python3-pyqt5.qtwebengine, binfmt-support, libc6:i386, libc6:armhf, libwine, qemu-system, qemu-full, alien
+Conflicts: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
+Replaces: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
+Filename: tools/spark-deepin-wine-runner/spark-deepin-wine-runner_3.9.1_all.deb
+Size: 53950004
+MD5sum: aac1add47e91197f3f118a6cf29123f5
+SHA1: d57802534d7fc637d6807ec0bd081bef0c537b70
+SHA256: aea8bbaeaea54da70bca2634fea2a5fc8951e91361ad5e2350651b53afa44878
+SHA512: 6d907c371567cb508c320e7d69768e75e2cae1e820c3c847da1e92d52fd7d9594cb84058eb90006da8396e05c543f50e5babdbb10a6a5ecbd2ee33a05104a226
+Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
+Description: Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序。原版的 Wine 只能使用命令操作，且安装过程较为繁琐，对小白不友好。于是该运行器为了解决该痛点，内置了对Wine图形化的支持、Wine 安装器、微型应用商店、各种Wine工具、自制的Wine程序打包器、运行库安装工具等。
+ 它同时还内置了基于Qemu/VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作，也能在非 X86 架构安装 X86 架构的 Windows 操作系统（但是效率较低，可以运行些老系统）。
+ 而且对于部分 Wine 应用适配者来说，提供了图形化的打包工具，以及提供了一些常用工具以及运行库的安装方式，以及能安装多种不同的 Wine 以测试效果，能极大提升适配效率。
+ 且对于 Deepin23 用户做了特别优化，以便能在缺少 i386 运行库的情况下运行 Wine32。同时也为非 X86 架构用户提供了 Box86/64、Qemu User 的安装方式
+Severity: serious
+Certainty: possible
+Check: binaries
+Type: binary, udeb
 
 Package: spark-deepin-wine-runner
 Architecture: all
@@ -2947,6 +2993,26 @@ SHA256: 1acd1140f86f99b7187bc388ef0d77ad99de9ade29978b4d1999b6d10af8ad17
 SHA512: 284cf7f151e9b86ebe1eb13517c6258800dbdd14925984a1ab6f12f0067158c9d00f5274d1cb6e8c3c83be9d770baa33c197c8b5f17d5a4704cd569c785e6df6
 Description: ofd-reader on deepin wine6
  一款基于我国自主 OFD 标准的版式阅读器产品，不仅支持 OFD/PDF 电子文件的阅读浏览、文档操作、图文注释等通用版式处理功能，还根据公务办公特点，提供原笔迹签批、电子印章、语义应用、修订标记等公务应用扩展功能
+
+Package: daoke-reader
+Architecture: arm64
+Version: 1.0.0
+Priority: optional
+Section: default
+Maintainer: Beijing Zhike Online <daokeyuedu@qq.com>
+Installed-Size: 267859
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, deepin-elf-verify (>= 1.1.10-1)
+Recommends: libappindicator3-1
+Filename: reading/daoke-reader/daoke-reader_1.0.0_arm64.deb
+Size: 70924494
+MD5sum: 0d7671327f707ab02e2db66b289c3fc7
+SHA1: b630dd1c85c0945786d54aefe00464126861230a
+SHA256: 316ac7ec6f05fbb2b107bc89b9302adbc1415ae8943990f33fd79d17558af53d
+SHA512: d92e4200b1b115bf585a990c79828fba8f58f99e68eea142a74c38725182a41a09f79ac3574d8cb3885e387da25309a068e4cb53673d40562e1ce3e08b339ce1
+Homepage: https://www.daokeyuedu.com/
+Description: 稻壳阅读是一款可访问海量文档资源的极速云阅读器它界面简洁、办公高效，让您阅读更加专注
+License: ISC
+Vendor: Beijing Zhike Online <daokeyuedu@qq.com>
 
 Package: com.pdfgear
 Architecture: all
@@ -4194,6 +4260,23 @@ SHA512: 844dd01c45bb363bcdb1bf2c90b40e60179f3252deaf22b0c1c38766ae8973a65ae15a84
 Homepage: https://www.zwsoft.cn
 Description: All-in-one, Affordable CAD/CAM ZW3D Linux Professional is a Demo of ZW3D Linux. ZW3D Linux Professional is an integrated CAD solution designed for Reviewing and Inspecting 3D models and 2D Drawings.  ZW3D Linux Professional also includes basic functions for 3D Modeling, 2D Sketching and 2D Drawing.
 
+Package: com.zwsoft.zwcad2025
+Architecture: arm64
+Version: 25.0.3.4
+Priority: optional
+Section: graphics
+Maintainer: lishuaiwei <lishuaiwei@zwcad.com>
+Installed-Size: 741848
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: image_graphics/com.zwsoft.zwcad2025/com.zwsoft.zwcad2025_25.0.3.4_arm64.deb
+Size: 205903470
+MD5sum: 684667cc05bf5f0ab37de828d61db8ac
+SHA1: 980412814a85a88f9be9f3085bb07d4701b0c31c
+SHA256: e3de57fff18888fd1e8079bc2d8b93cfcc4feaf20bae876bee94a8d411fe245b
+SHA512: 6615efeb2406756a5508effc0242487af1282c2f5c94ca5864b3f560e683d2b24036b7a8308d2d01a5723237f14d96d542968b3a6e8d058c3538be969d5a5ae8
+Homepage: https://www.zwsoft.cn
+Description: ZWCADLinux 2025是ZWSOFT研发的计算机辅助设计软件。
+
 Package: wps-office-fonts
 Architecture: all
 Version: 1.0
@@ -4494,6 +4577,23 @@ SHA256: a24b8c93b4fdbead891a8eaa7adc076dd9367d668deb9919e7a5a68af8c8da9b
 SHA512: 50b1c7c0f11d5c422dd3d3382290def6dca241432a7bcbcc6f0e86108370e908f78b634c4c80d3ece837fcbdd307c650e1ff36ce5ae73886dfc4c93cc707275f
 Homepage: https://codetokids.com
 Description: 编程教室
+
+Package: com.51ifind
+Architecture: arm64
+Version: 1.10.12.387.002
+Priority: optional
+Section: utils
+Maintainer: shenjianwei <shenjianwei@myhexin.com>
+Installed-Size: 576548
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: others/com.51ifind/com.51ifind_1.10.12.387.002_arm64.deb
+Size: 161928194
+MD5sum: 5b91aefa46d3f4e813901e1097d5614d
+SHA1: ef887328f963400ca221a55e3096eb2ce9fafa84
+SHA256: a1f04769b14d715da5dd64fe18445ec7c05a5efeb1236ec35adf9beb91ab05ab
+SHA512: 0e2304ff93a0f85b8e234a21ac6e6f4a7032efd5261412234b6df7ca932f696c9c382aa7f5ff4e9f8c1919be79342bd041faf4d531110e1073927407156d5886
+Homepage: http://www.51ifind.com
+Description: a market leading financial data terminal
 
 Package: com.51ifind
 Architecture: arm64
@@ -5472,6 +5572,22 @@ SHA512: 3531010a7908c7e45097ff771f78306929f67c812067f4fb5b1d7404c8cee49bd2ebf26e
 Description: 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
  思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
 
+Package: com.yiyan.uos
+Architecture: arm64
+Version: 1.0
+Priority: optional
+Section: devel
+Maintainer: <zhuyanlong@uniontech.com>
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, deepin-elf-verify (>= 1.1.10-1)
+Filename: office/com.yiyan.uos/com.yiyan.uos_1.0_arm64.deb
+Size: 70914386
+MD5sum: 1e4fe4663bfcfac756af15402847aebd
+SHA1: 05a5e31409bacf78e850751e6e47697864ffeacb
+SHA256: adf84328ef90e25294c4ca0fe8269ac87f84f3baa862a37b04094d7d1d97819d
+SHA512: 0f7c06f27d5c47fc019e00fc3716b18b529684c552921ce8544451ad8d06eb5af1dcfc41b7c875dd96a8a69d6bfdcc0bc25449bd072b2f742fdbd803c21129da
+Homepage: https://yiyan.baidu.com/?utm_source=uos
+Description: "1、文心一言是百度研发的 人工智能大语言模型产品，能够通过上一句话，预测生成下一段话。 任何人都可以通过输入【指令】和文心一言进行对话互动、提出问题或要求，让文心一言高效地帮助人们获取信息、	2、文心一言由文心大模型驱动，具备理解、生成、逻辑、记忆四大基础能力。当前文心大模型已升级至4.0版本，能够帮助你轻松搞定各类复杂任务。	理解能力： 听得懂潜台词、复杂句式、专业术语，今天，人类说的每一句话，它大概率都能听懂！	生成能力： 快速生成文本、代码、图片、图表、视频，今天，人类目光所致的所有内容，它几乎都能生成！	逻辑能力： 复杂的逻辑难题、困难的数学计算、重要的职业/生活决策统统能帮你解决，情商智商双商在线！	记忆能力： 不仅有高性能，更有好记性。N轮对话过后，你话里的重点，它总会记得，帮你步步精进，解决复杂任务！	3、文心一言是你工作、学习、生活中省时提效的好帮手；是你闲暇时刻娱乐打趣的好伙伴；也是你需要倾诉陪伴时的好朋友。在你人生旅途经历的每个阶段、面对的各种场景中，文心一言7*24小时在线，伴你左右。"
+
 Package: cn.com.tdx.spark
 Architecture: all
 Version: 7.642
@@ -5968,6 +6084,22 @@ SHA1: faab1f8a9ac2f847ec259b25dadfd39a25a4ac5e
 SHA256: 01e8a0640573636d446e6cb4600b00fb73406c8e11b2b99b38d2abc8491f53c7
 SHA512: 113615cb31ffa638f02455d377dab2e5ad21c019f95aa682ce5014acc9da32db9aa2cd2975c0d693e2a3dcef7b0a6debd934e1a4cac5a130d956669794a6cc09
 Description: H5 Solar System
+
+Package: com.xinghuo.uos
+Architecture: arm64
+Version: 1.0-1
+Priority: optional
+Section: devel
+Maintainer: <zhuyanlong@uniontech.com>
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, deepin-elf-verify (>= 1.1.10-1)
+Filename: office/com.xinghuo.uos/com.xinghuo.uos_1.0-1_arm64.deb
+Size: 70917286
+MD5sum: 1994a141d1a99d89ccb94bd73ec6d75a
+SHA1: 35594d25040678f0dfd04c6d21fd2965d22f1218
+SHA256: fabeeb1cc14176a2e220aa24f6993cfb2d0c3f5c2e5b09aca580ad1fb957c209
+SHA512: bdab827452763f5a09671d4b4e7afa84c01fb0e5dfddb35f82551d1f3f4bcf9e9c343e55894bea4857b90a3e41384ecdae8a1c1eb73be333d1cb39656295f24b
+Homepage: https://xinghuo.xfyun.cn/desk?ch=UnionTech
+Description: "科大讯飞推出的新一代认知智能大模型，拥有跨领域的知识和语言理解能力，能够基于自然对话方式理解与执行任务。在与人自然对话互动中，提供语言理解、知识问答、逻辑推理、数学题解答、代码理解与编写、多模态等多种能力。"
 
 Package: com.microsoft2003.installer.spark
 Architecture: all

@@ -777,6 +777,22 @@
 }
 ,
 {
+    "Name": "Atom",
+    "Version": "1.60.0",
+    "Filename": "atom_1.60.0_amd64.deb",
+    "Pkgname": "atom",
+    "Author": "atom",
+    "Contributor": "sgb76",
+    "Website": "https://atom.io/",
+    "Update": "2022-03-24 15:05:20",
+    "Size": "132.28 MB",
+    "More": "A hackable text editor for the 21st Century",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/24/95ba1660-ab40-11ec-9d88-c35843a2e64d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/24/9952f490-ab40-11ec-9d88-c35843a2e64d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/24/8f0e04c0-ab40-11ec-9d88-c35843a2e64d.png"
+}
+,
+{
     "Name": "Godot游戏引擎",
     "Version": "4.1.3",
     "Filename": "godot_4.1.3_amd64.deb",
@@ -791,22 +807,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/308361eef03847da9ed39e950c21e512.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/79fce1e3d55c493792c716025e272970.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/2aed699218de41e681c7e624b6a55ed5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/04/5161e6c032674cc0b0502a2820e28bb1.png"
-}
-,
-{
-    "Name": "Atom",
-    "Version": "1.60.0",
-    "Filename": "atom_1.60.0_amd64.deb",
-    "Pkgname": "atom",
-    "Author": "atom",
-    "Contributor": "sgb76",
-    "Website": "https://atom.io/",
-    "Update": "2022-03-24 15:05:20",
-    "Size": "132.28 MB",
-    "More": "A hackable text editor for the 21st Century",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/24/95ba1660-ab40-11ec-9d88-c35843a2e64d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/24/9952f490-ab40-11ec-9d88-c35843a2e64d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/24/8f0e04c0-ab40-11ec-9d88-c35843a2e64d.png"
 }
 ,
 {
@@ -1389,23 +1389,6 @@
 }
 ,
 {
-    "Name": "chat2db",
-    "Version": "2.1.0",
-    "Filename": "com.github.chat2db_2.1.0_amd64.deb",
-    "Torrent_address": "com.github.chat2db_2.1.0_amd64.deb.torrent",
-    "Pkgname": "com.github.chat2db",
-    "Author": "spark-store",
-    "Contributor": "GershonWang <986432015@qq.com>",
-    "Website": "https://chat2db.ai/",
-    "Update": "2023-09-18 15:07:08",
-    "Size": "172.99 MB",
-    "More": "Chat2DB一款开源免费的多数据库客户端工具，支持windows、mac本地安装，也支持服务器端部署，web网页访问。 和传统的数据库客户端软件Navicat、DBeaver 相比Chat2DB集成了AIGC的能力，能够将自然语言转换为SQL， 也可以将SQL转换为自然语言，可以给出研发人员SQL的优化建议，极大的提升人员的效率，是AI时代数据库研发人员的利器， 不懂SQL的运营或业务也可以轻松使用快速查询业务数据、生成报表的能力。",
-    "Tags": "community;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/18/9a6ff8bfd6914b0f9962337309a3e9c2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/18/c39c01e2b9f4462c8ef40fc97c4687d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/18/c447562a52a6482b9789fc043d3297ef.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/18/71343774701d43c9ba0c5540c0195970.png"
-}
-,
-{
     "Name": "编程猫源码编辑器",
     "Version": "3.7.14",
     "Filename": "cn.codemao.kitten3_3.7.14_amd64.deb",
@@ -1420,6 +1403,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/77aad368736846d5a4a334c995be5b63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/80225203a30647ab932d8dabcce41c93.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/6c8eab3343b9471e909518c8f34134f8.png"
+}
+,
+{
+    "Name": "chat2db",
+    "Version": "2.1.0",
+    "Filename": "com.github.chat2db_2.1.0_amd64.deb",
+    "Torrent_address": "com.github.chat2db_2.1.0_amd64.deb.torrent",
+    "Pkgname": "com.github.chat2db",
+    "Author": "spark-store",
+    "Contributor": "GershonWang <986432015@qq.com>",
+    "Website": "https://chat2db.ai/",
+    "Update": "2023-09-18 15:07:08",
+    "Size": "172.99 MB",
+    "More": "Chat2DB一款开源免费的多数据库客户端工具，支持windows、mac本地安装，也支持服务器端部署，web网页访问。 和传统的数据库客户端软件Navicat、DBeaver 相比Chat2DB集成了AIGC的能力，能够将自然语言转换为SQL， 也可以将SQL转换为自然语言，可以给出研发人员SQL的优化建议，极大的提升人员的效率，是AI时代数据库研发人员的利器， 不懂SQL的运营或业务也可以轻松使用快速查询业务数据、生成报表的能力。",
+    "Tags": "community;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/18/9a6ff8bfd6914b0f9962337309a3e9c2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/18/c39c01e2b9f4462c8ef40fc97c4687d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/18/c447562a52a6482b9789fc043d3297ef.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/18/71343774701d43c9ba0c5540c0195970.png"
 }
 ,
 {
@@ -2411,6 +2411,23 @@
 }
 ,
 {
+    "Name": "RustRover",
+    "Version": "24.1.2",
+    "Filename": "com.jetbrains.rustrover_24.1.2_amd64.deb",
+    "Torrent_address": "com.jetbrains.rustrover_24.1.2_amd64.deb.torrent",
+    "Pkgname": "com.jetbrains.rustrover",
+    "Author": "JetBrains",
+    "Contributor": "freeor",
+    "Website": "https://www.jetbrains.com/rust/",
+    "Update": "2024-06-20 10:27:23",
+    "Size": "544.46 MB",
+    "More": "A powerhouse IDE for Rust developers",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/70e20d10-2eac-11ef-b2c5-4fa9599f8cb0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/713b77b0-2eac-11ef-b2c5-4fa9599f8cb0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/71950960-2eac-11ef-b2c5-4fa9599f8cb0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/20/18806e10-2eab-11ef-b2c5-4fa9599f8cb0.png"
+}
+,
+{
     "Name": "Clion(过渡包)",
     "Version": "2022.2.4",
     "Filename": "com.jetbrains.clion_2022.2.4_all.deb",
@@ -2459,23 +2476,6 @@
     "Tags": "ubuntu;deepin;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/12/3b5e3090-ba3e-11ec-8ddb-ab07b13ee39f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/12/3fc66cb0-ba3e-11ec-8ddb-ab07b13ee39f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/12/42ef4b00-ba3e-11ec-8ddb-ab07b13ee39f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/12/369780c0-ba3e-11ec-8ddb-ab07b13ee39f.png"
-}
-,
-{
-    "Name": "RustRover",
-    "Version": "24.1.2",
-    "Filename": "com.jetbrains.rustrover_24.1.2_amd64.deb",
-    "Torrent_address": "com.jetbrains.rustrover_24.1.2_amd64.deb.torrent",
-    "Pkgname": "com.jetbrains.rustrover",
-    "Author": "JetBrains",
-    "Contributor": "freeor",
-    "Website": "https://www.jetbrains.com/rust/",
-    "Update": "2024-06-20 10:27:23",
-    "Size": "544.46 MB",
-    "More": "A powerhouse IDE for Rust developers",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/70e20d10-2eac-11ef-b2c5-4fa9599f8cb0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/713b77b0-2eac-11ef-b2c5-4fa9599f8cb0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/71950960-2eac-11ef-b2c5-4fa9599f8cb0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/20/18806e10-2eab-11ef-b2c5-4fa9599f8cb0.png"
 }
 ,
 {

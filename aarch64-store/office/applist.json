@@ -1008,6 +1008,42 @@
 
 ,
 {
+    "Author": "<zhuyanlong@uniontech.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.yiyan.uos_1.0_arm64.deb",
+    "More": "1、文心一言由文心大模型驱动，具备理解、生成、逻辑、记忆四大基础能力。当前文心大模型已升级至4.0版本，能够帮助你轻松搞定各类复杂任务。\n理解能力：听得懂潜台词、复杂句式、专业术语，今天，人类说的每一句话，它大概率都能听懂！\n生成能力：快速生成文本、代码、图片、图表、视频，今天，人类目光所致的所有内容，它几乎都能生成！\n逻辑能力： 复杂的逻辑难题、困难的数学计算、重要的职业/生活决策统统能帮你解决，情商智商双商在线！\n记忆能力：不仅有高性能，更有好记性。N轮对话过后，你话里的重点，它总会记得，帮你步步精进，解决复杂任务！\n2、文心一言是你工作、学习、生活中省时提效的好帮手；是你闲暇时刻娱乐打趣的好伙伴；也是你需要倾诉陪伴时的好朋友。在你人生旅途经历的每个阶段、面对的各种场景中，文心一言7*24小时在线，伴你左右。",
+    "Name": "文心一言（web）",
+    "Pkgname": "com.yiyan.uos",
+    "Size": "70 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.yiyan.uos_1.0_arm64.deb.torrent",
+    "Update": "2024-06-22 19:35:03",
+    "Version": "1.0",
+    "Website": "https://yiyan.baidu.com/?utm_source=uos",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/office/com.yiyan.uos/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/com.yiyan.uos/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "<zhuyanlong@uniontech.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.xinghuo.uos_1.0-1_arm64.deb",
+    "More": "科大讯飞推出的新一代认知智能大模型，拥有跨领域的知识和语言理解能力，能够基于自然对话方式理解与执行任务。在与人自然对话互动中，提供语言理解、知识问答、逻辑推理、数学题解答、代码理解与编写、多模态等多种能力。",
+    "Name": "讯飞星火（web）",
+    "Pkgname": "com.xinghuo.uos",
+    "Size": "70 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "com.xinghuo.uos_1.0-1_arm64.deb.torrent",
+    "Update": "2024-06-22 19:35:46",
+    "Version": "1.0-1",
+    "Website": "https://xinghuo.xfyun.cn/desk?ch=UnionTech",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/office/com.xinghuo.uos/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/com.xinghuo.uos/screen_1.png\"]"
+}
+
+,
+{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.doudian.workstation.spark_0.11.6_all.deb",

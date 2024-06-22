@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="daoke-reader_1.0.0_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">0d7671327f707ab02e2db66b289c3fc7</hash>
+				  
+				<hash type="sha1">b630dd1c85c0945786d54aefe00464126861230a</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/reading/daoke-reader/daoke-reader_1.0.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://pi.dog-mercat.ts.net/aarch64-store/reading/daoke-reader/daoke-reader_1.0.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://fetish.spark-app.store/aarch64-store/reading/daoke-reader/daoke-reader_1.0.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://piercing.spark-app.store/aarch64-store/reading/daoke-reader/daoke-reader_1.0.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store/aarch64-store/reading/daoke-reader/daoke-reader_1.0.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://blinder.spark-app.store/aarch64-store/reading/daoke-reader/daoke-reader_1.0.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/aarch64-store/reading/daoke-reader/daoke-reader_1.0.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/reading/daoke-reader/daoke-reader_1.0.0_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

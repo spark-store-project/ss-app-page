@@ -1113,6 +1113,23 @@
 
 ,
 {
+    "Name": "musicfox 源码编译版",
+    "Version": "2024.05.27-2",
+    "Filename": "go-musicfox-git_2024.05.27-2_amd64.deb",
+    "Torrent_address": "go-musicfox-git_2024.05.27-2_amd64.deb.torrent",
+    "Pkgname": "go-musicfox-git",
+    "Author": "go-musicfox <abhoder@88.com>",
+    "Contributor": "xmb505 <530060699@qq.com>",
+    "Website": "https://github.com/go-musicfox",
+    "Update": "2024-05-27 21:48:22",
+    "Size": "854 Bytes",
+    "More": "安装前请先添加go语言的ppa源\nsudo add-apt-repository ppa:longsleep/golang-backports\n此软件包为编译包，安装前请保持网络通畅\n\ngo-musicfox 是用 Go 写的又一款网易云音乐命令行客户端，支持各种音质级别、UnblockNeteaseMusic、Last.fm、MPRIS 和 macOS 交互响应（睡眠暂停、蓝牙耳机连接断开响应和菜单栏控制等）等功能特性。",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/e4b0756b4d984118b00e47e7221a2947.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/cb8df42c3a194357a62f49e3ec25fc35.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/5af0f5b0eb91440aaf2be4f307adeb97.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/a90862f202844246aa945464094d35bf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/59eef96031a648429e8cf1a846659c48.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/02f54b0572ad4f698c430777bb9bad5d.png"
+}
+,
+{
     "Author": "spark-store",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "io.mstream_5.11.4_amd64.deb",
@@ -1129,23 +1146,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/music/io.mstream/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/io.mstream/screen_2.png\"]"
 }
 
-,
-{
-    "Name": "musicfox 源码编译版",
-    "Version": "2024.05.27-2",
-    "Filename": "go-musicfox-git_2024.05.27-2_amd64.deb",
-    "Torrent_address": "go-musicfox-git_2024.05.27-2_amd64.deb.torrent",
-    "Pkgname": "go-musicfox-git",
-    "Author": "go-musicfox <abhoder@88.com>",
-    "Contributor": "xmb505 <530060699@qq.com>",
-    "Website": "https://github.com/go-musicfox",
-    "Update": "2024-05-27 21:48:22",
-    "Size": "854 Bytes",
-    "More": "安装前请先添加go语言的ppa源\nsudo add-apt-repository ppa:longsleep/golang-backports\n此软件包为编译包，安装前请保持网络通畅\n\ngo-musicfox 是用 Go 写的又一款网易云音乐命令行客户端，支持各种音质级别、UnblockNeteaseMusic、Last.fm、MPRIS 和 macOS 交互响应（睡眠暂停、蓝牙耳机连接断开响应和菜单栏控制等）等功能特性。",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/e4b0756b4d984118b00e47e7221a2947.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/cb8df42c3a194357a62f49e3ec25fc35.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/5af0f5b0eb91440aaf2be4f307adeb97.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/a90862f202844246aa945464094d35bf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/59eef96031a648429e8cf1a846659c48.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/02f54b0572ad4f698c430777bb9bad5d.png"
-}
 ,
 {
     "Name": "Mélodie",

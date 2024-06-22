@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="scrot_1.8.1-1_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">aed92942e6cc5f849557e4e61fc4b638</hash>
+				  
+				<hash type="sha1">452b9dba201128a38df3f0d2624e0af79fc8b426</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/depends/scrot/scrot_1.8.1-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://pi.dog-mercat.ts.net/loong64-store/depends/scrot/scrot_1.8.1-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://fetish.spark-app.store/loong64-store/depends/scrot/scrot_1.8.1-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://piercing.spark-app.store/loong64-store/depends/scrot/scrot_1.8.1-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store/loong64-store/depends/scrot/scrot_1.8.1-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://blinder.spark-app.store/loong64-store/depends/scrot/scrot_1.8.1-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/loong64-store/depends/scrot/scrot_1.8.1-1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/loong64-store/depends/scrot/scrot_1.8.1-1_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>
