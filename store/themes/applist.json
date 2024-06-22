@@ -418,6 +418,23 @@
 }
 ,
 {
+    "Name": "T 主题套组",
+    "Version": "1.0.6",
+    "Filename": "com.uniontech.theme.infinitecontrol_1.0.6_all.deb",
+    "Torrent_address": "com.uniontech.theme.infinitecontrol_1.0.6_all.deb.torrent",
+    "Pkgname": "com.uniontech.theme.infinitecontrol",
+    "Author": "Tonny",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://bbs.deepin.org.cn/zh/post/273057",
+    "Update": "2024-06-22 21:16:45",
+    "Size": "3.23 MB",
+    "More": "获奖主题作品——‘无限’主题大赛获奖作品",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/979b904cfb094c72aca1ecadde80526b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/26023be148d24532a9c16a1ec8351320.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/ebeb521946f44e8a86184a00aaee44f7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/22/d733869d0e9041e59d74b251a4049e61.png"
+}
+,
+{
     "Name": "fcitx5皮肤深度终端",
     "Version": "0.1-2",
     "Filename": "fcitx5-ui-deepin-terminal_0.1-2_all.deb",
@@ -448,23 +465,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/11/8beb7160-316e-11ed-86df-d7300db07e9f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/11/6b00ede0-316e-11ed-86df-d7300db07e9f.jpg"
-}
-,
-{
-    "Name": "T 主题套组",
-    "Version": "1.0.6",
-    "Filename": "com.uniontech.theme.infinitecontrol_1.0.6_all.deb",
-    "Torrent_address": "com.uniontech.theme.infinitecontrol_1.0.6_all.deb.torrent",
-    "Pkgname": "com.uniontech.theme.infinitecontrol",
-    "Author": "Tonny",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://bbs.deepin.org.cn/zh/post/273057",
-    "Update": "2024-06-22 21:16:45",
-    "Size": "3.23 MB",
-    "More": "获奖主题作品——‘无限’主题大赛获奖作品",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/979b904cfb094c72aca1ecadde80526b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/26023be148d24532a9c16a1ec8351320.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/ebeb521946f44e8a86184a00aaee44f7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/22/d733869d0e9041e59d74b251a4049e61.png"
 }
 ,
 {
@@ -665,22 +665,6 @@
 }
 ,
 {
-    "Name": "一言小部件",
-    "Version": "1.0",
-    "Filename": "top.yzzi.yiyanwidget_1.0_amd64.deb",
-    "Pkgname": "top.yzzi.yiyanwidget",
-    "Author": "柚子",
-    "Contributor": "柚子",
-    "Website": "https://blog.yzzi.top",
-    "Update": "2021-02-05 12:18:56",
-    "Size": "154.59 KB",
-    "More": "一言小部件，右键小部件可设置位置，点击左上角引号可刷新",
-    "Tags": "dtk5;uos;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/05/2be5a770-6769-11eb-ac63-2b7a040b33c1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/05/39f8dd50-6769-11eb-ac63-2b7a040b33c1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/05/2488e370-6769-11eb-ac63-2b7a040b33c1.svg"
-}
-,
-{
     "Name": "音乐小部件",
     "Version": "1.0",
     "Filename": "top.yzzi.musicwidget_1.0_amd64.deb",
@@ -694,6 +678,22 @@
     "Tags": "dtk5;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/05/52bb04e0-6768-11eb-ac63-2b7a040b33c1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/05/45aedec0-6768-11eb-ac63-2b7a040b33c1.svg"
+}
+,
+{
+    "Name": "一言小部件",
+    "Version": "1.0",
+    "Filename": "top.yzzi.yiyanwidget_1.0_amd64.deb",
+    "Pkgname": "top.yzzi.yiyanwidget",
+    "Author": "柚子",
+    "Contributor": "柚子",
+    "Website": "https://blog.yzzi.top",
+    "Update": "2021-02-05 12:18:56",
+    "Size": "154.59 KB",
+    "More": "一言小部件，右键小部件可设置位置，点击左上角引号可刷新",
+    "Tags": "dtk5;uos;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/05/2be5a770-6769-11eb-ac63-2b7a040b33c1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/05/39f8dd50-6769-11eb-ac63-2b7a040b33c1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/05/2488e370-6769-11eb-ac63-2b7a040b33c1.svg"
 }
 ,
 {

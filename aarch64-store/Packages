@@ -2566,24 +2566,6 @@ Vendor: tav@tencent.com
 
 Package: cn.huorong.esm
 Architecture: arm64
-Version: 2.0.7.4
-Multi-Arch: foreign
-Priority: optional
-Section: utils
-Maintainer: Huorong Unix Team <unix-dev@huorong.cn>
-Installed-Size: 78563
-Depends: deepin-elf-verify (>= 1.1.10-1)
-Filename: tools/cn.huorong.esm/cn.huorong.esm_2.0.7.4_arm64.deb
-Size: 31533746
-MD5sum: 93a066604da6a1aaa768850872e5c1f5
-SHA1: 660f6c64894e34a2bf38ec68233e4983c1818714
-SHA256: 9adcd58f0a464a62db65c688fc300c5022956b3945088c980cbd8dcd5ba37935
-SHA512: 4c6943ba4bb162b3dd5159dbeab0d988ca6210055b2ea7a05ba9c295a53f818260562578026440a10d7b3cce9e11d6d3b15779edec85bb403afd15cc5d35be2e
-Homepage: https://huorong.cn
-Description: 火绒终端安全管理系统
-
-Package: cn.huorong.esm
-Architecture: arm64
 Version: 2.0.7.5
 Multi-Arch: foreign
 Priority: optional
@@ -2786,34 +2768,6 @@ MD5sum: aac1add47e91197f3f118a6cf29123f5
 SHA1: d57802534d7fc637d6807ec0bd081bef0c537b70
 SHA256: aea8bbaeaea54da70bca2634fea2a5fc8951e91361ad5e2350651b53afa44878
 SHA512: 6d907c371567cb508c320e7d69768e75e2cae1e820c3c847da1e92d52fd7d9594cb84058eb90006da8396e05c543f50e5babdbb10a6a5ecbd2ee33a05104a226
-Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
-Description: Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序。原版的 Wine 只能使用命令操作，且安装过程较为繁琐，对小白不友好。于是该运行器为了解决该痛点，内置了对Wine图形化的支持、Wine 安装器、微型应用商店、各种Wine工具、自制的Wine程序打包器、运行库安装工具等。
- 它同时还内置了基于Qemu/VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作，也能在非 X86 架构安装 X86 架构的 Windows 操作系统（但是效率较低，可以运行些老系统）。
- 而且对于部分 Wine 应用适配者来说，提供了图形化的打包工具，以及提供了一些常用工具以及运行库的安装方式，以及能安装多种不同的 Wine 以测试效果，能极大提升适配效率。
- 且对于 Deepin23 用户做了特别优化，以便能在缺少 i386 运行库的情况下运行 Wine32。同时也为非 X86 架构用户提供了 Box86/64、Qemu User 的安装方式
-Severity: serious
-Certainty: possible
-Check: binaries
-Type: binary, udeb
-
-Package: spark-deepin-wine-runner
-Architecture: all
-Version: 3.9.0
-Priority: optional
-Section: utils
-Maintainer: gfdgd xi <3025613752@qq.com>
-Installed-Size: 192312
-Provides: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
-Depends: python3, python3-pil, python3-pil.imagetk, python3-pyquery, aria2, curl, unrar | unrar-free , unzip, python3-requests, python3-pyqt5, python3-psutil, xfce4-terminal | deepin-terminal | mate-terminal | gnome-terminal, python3-dbus, python3-pip, p7zip-full (<< 16.02+transitional.1) | p7zip-legacy (>= 16.02+dfsg-8+Mejituu-2024022216), sudo, python3-pyperclip, bubblewrap, zenity, tree, dpkg, fakeroot
-Recommends: winbind, wimtools, python3-pyqt5.qtwebengine, binfmt-support, libc6:i386, libc6:armhf, libwine, qemu-system, qemu-full, alien
-Conflicts: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
-Replaces: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
-Filename: tools/spark-deepin-wine-runner/spark-deepin-wine-runner_3.9.0_all.deb
-Size: 53954720
-MD5sum: 4e357cba76d6df2db815c893c16b502d
-SHA1: de38fa3f8ff9a4e1e399bcfb44905b84ddfd4c5a
-SHA256: b301f030fa30f5effc4ceb38e369f80a5cf2071fda0cc67514b0ef50a756a673
-SHA512: 3ce04e75321ef3d3533017edccea7d7fa9392315298bc9d99dace24b0a0b660c555a009b9b4e34b46a2c661b0c04f88be735c093d1aefd0bfbc73151078a5f94
 Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
 Description: Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序。原版的 Wine 只能使用命令操作，且安装过程较为繁琐，对小白不友好。于是该运行器为了解决该痛点，内置了对Wine图形化的支持、Wine 安装器、微型应用商店、各种Wine工具、自制的Wine程序打包器、运行库安装工具等。
  它同时还内置了基于Qemu/VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作，也能在非 X86 架构安装 X86 架构的 Windows 操作系统（但是效率较低，可以运行些老系统）。
@@ -3221,22 +3175,6 @@ SHA256: f38bc56abb730f31eb06c9768068f357d4b38a28dcbad297c04e9da66d84d00a
 SHA512: 5f6c349ed39528758335be3376e24a319036ae148c3089037623a02bf4903218976152257f1a7eae7c1c0646225eea50a67401398789b768cbd1301da209855b
 Description: 自定义主题（内包含 壁纸、光标、字体）
  有兽焉主题（壁纸来自有兽焉周边山海遗魂夏日戏水限量海报，字体为汉仪字库联名字体，字体为个人非商用）
-
-Package: com.uniontech.theme.infinitecontrol
-Architecture: all
-Version: 1.0.5
-Priority: optional
-Section: admin
-Maintainer: Tonny
-Installed-Size: 5374
-Depends: deepin-elf-verify (>= 1.1.10-1),deepin-icon-theme
-Filename: themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.5_all.deb
-Size: 3353320
-MD5sum: 062cdf9128d48d8cdc097744d63495d3
-SHA1: 0ae53848a021ff1c657335f8e05230833bc57816
-SHA256: 8b61ed5bbdf016ccaa96230af42b081ef86a4e42e0c77c06a94d4d2c62d005fc
-SHA512: 9f4320282f58aafae7070befc5eb217aabaf369b432639389ce392c6e074fe9f39666e88f35d70ce41a7514f19ed121fe05b5ed1513a1017c5d8b552bdc6fdfb
-Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
 
 Package: com.uniontech.theme.infinitecontrol
 Architecture: all
@@ -4592,23 +4530,6 @@ MD5sum: 5b91aefa46d3f4e813901e1097d5614d
 SHA1: ef887328f963400ca221a55e3096eb2ce9fafa84
 SHA256: a1f04769b14d715da5dd64fe18445ec7c05a5efeb1236ec35adf9beb91ab05ab
 SHA512: 0e2304ff93a0f85b8e234a21ac6e6f4a7032efd5261412234b6df7ca932f696c9c382aa7f5ff4e9f8c1919be79342bd041faf4d531110e1073927407156d5886
-Homepage: http://www.51ifind.com
-Description: a market leading financial data terminal
-
-Package: com.51ifind
-Architecture: arm64
-Version: 1.10.12.379.001
-Priority: optional
-Section: office
-Maintainer: shenjianwei <shenjianwei@myhexin.com>
-Installed-Size: 544700
-Depends: deepin-elf-verify (>= 1.1.1-1)
-Filename: others/com.51ifind/com.51ifind_1.10.12.379.001_arm64.deb
-Size: 149168180
-MD5sum: dbb35ec3b1338e77e0727d745378cead
-SHA1: 2cd6e6e12f46c0571157ae46109b20d584f2a222
-SHA256: 26df0462c4faeff9df3c10045aa0d3030495fbf55dc3d4037411061323a6ed4d
-SHA512: f0a7b93c4e630c4a54c1234f9724849c23250dbb6e9b253ec1eb8afda1dea891a9ace839a7178f821d17cf52cde868672b3db1a8b87cd4bdeb60cc7308be0243
 Homepage: http://www.51ifind.com
 Description: a market leading financial data terminal
 
@@ -6693,18 +6614,18 @@ Description: 奇安信可信浏览器
 
 Package: firefox-spark-ace
 Architecture: all
-Version: 125.0.3+build1-0ubuntu0.20.04.1~mt1
+Version: 125.0.3+build1-0ubuntu0.22.04.1~mt1
 Priority: optional
 Section: utils
 Maintainer: shenmo <shenmo@spark-app.store>
 Installed-Size: 10
 Depends: cn.flamescion.bookworm-compatibility-mode,bash,wget,sudo,libnotify-bin
-Filename: network/firefox-spark-ace/firefox-spark-ace_125.0.3_plus_build1-0ubuntu0.20.04.1~mt1_all.deb
+Filename: network/firefox-spark-ace/firefox-spark-ace_125.0.3_plus_build1-0ubuntu0.22.04.1~mt1_all.deb
 Size: 1672
-MD5sum: 17bd6cc8cbd7e3979c114958f708ca1f
-SHA1: 5d446cf57ff773bfaaec0339766b2c4a0af01117
-SHA256: 0d975db86d9b4d484d86d91265d0bfe16d3144208cd4aa2a2d9c058a24aa725c
-SHA512: 5aaf5f6d5080f8ae9413d53b53463a9fb233c29660a1c3ac8e9f55f947e5d8067f82fe23cfb3159b60cce7959c65f6e6ef52423c39326d8cfb208e7422d546aa
+MD5sum: 72270186bee17d64a91c05399a9bf844
+SHA1: d7dded6ed1117f1ebbbdbb91df8587cb4bb20a9f
+SHA256: 642d131dbe5aa66a87f11c5dca7d061665c2f06d9537b4761a2429a0909cd326
+SHA512: ff47b7527775f968bbe4d85809602fe1c6c63a57be12d5eef62e09ff83fefd44c9d5f995590c712d8dedd41d37765f1eabe47a79eed5411a37d12aa19ed3dc5f
 Homepage: https://gitee.com/spark-building-service/ace-host-package-creator
 Description: 一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...
 
