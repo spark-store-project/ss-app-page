@@ -1257,6 +1257,20 @@
 }
 ,
 {
+   "Name":"Figma",
+   "Version":"0.6.2",
+   "Filename":"figma-linux_0.6.2_amd64.deb",
+   "Pkgname":"figma-linux",
+   "Author":"Figma-Linux",
+   "Contributor":"zty199",
+   "Website":"https://github.com/Figma-Linux/figma-linux",
+   "Update":"2020-07-22 22:52",
+   "Size":"67.72MB",
+   "More":"Figma是一款基于浏览器的界面设计工具，方便团队进行软件开发。"
+}
+
+,
+{
     "Name": "GitFiend",
     "Version": "0.44.3",
     "Filename": "gitfiend_0.44.3_amd64.deb",
@@ -1272,20 +1286,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/9c5da42839fd48d0989e19ff3c84ad19.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/0cd8f4419b114e8c8aa6d3a8fbe0712e.png"
 }
-,
-{
-   "Name":"Figma",
-   "Version":"0.6.2",
-   "Filename":"figma-linux_0.6.2_amd64.deb",
-   "Pkgname":"figma-linux",
-   "Author":"Figma-Linux",
-   "Contributor":"zty199",
-   "Website":"https://github.com/Figma-Linux/figma-linux",
-   "Update":"2020-07-22 22:52",
-   "Size":"67.72MB",
-   "More":"Figma是一款基于浏览器的界面设计工具，方便团队进行软件开发。"
-}
-
 ,
 {
     "Name": "Distrobox",
@@ -1605,23 +1605,6 @@
 }
 ,
 {
-    "Name": "netbeans",
-    "Version": "17-1",
-    "Filename": "apache-netbeans_17-1_all.deb",
-    "Torrent_address": "apache-netbeans_17-1_all.deb.torrent",
-    "Pkgname": "apache-netbeans",
-    "Author": "Apache Software Foundation",
-    "Contributor": "freeor",
-    "Website": "https://netbeans.apache.org/",
-    "Update": "2023-03-11 11:02:27",
-    "Size": "382.05 MB",
-    "More": "开发环境、工具平台和应用程序框架。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f647c620-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f66c8c30-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f65a15a0-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f67f29d0-bfb8-11ed-9b62-5f2349990689.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/11/bd7fcb30-bfb8-11ed-9b62-5f2349990689.png"
-}
-,
-{
     "Name": "VOFA+",
     "Version": "1.3.10",
     "Filename": "vofa_plus_1.3.10_amd64.deb",
@@ -1639,19 +1622,20 @@
 }
 ,
 {
-    "Name": "sokit",
-    "Version": "1.3.1",
-    "Filename": "sokit_1.3.1_amd64.deb",
-    "Pkgname": "sokit",
-    "Author": "sinpowei",
-    "Contributor": "lidanger",
-    "Website": "https://github.com/sinpolib/sokit",
-    "Update": "2020-10-25 07:11:38",
-    "Size": "100.18 KB",
-    "More": "CP / UDP 测试工具,用来接收,发送,转发TCP或UDP数据包",
+    "Name": "netbeans",
+    "Version": "17-1",
+    "Filename": "apache-netbeans_17-1_all.deb",
+    "Torrent_address": "apache-netbeans_17-1_all.deb.torrent",
+    "Pkgname": "apache-netbeans",
+    "Author": "Apache Software Foundation",
+    "Contributor": "freeor",
+    "Website": "https://netbeans.apache.org/",
+    "Update": "2023-03-11 11:02:27",
+    "Size": "382.05 MB",
+    "More": "开发环境、工具平台和应用程序框架。",
     "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/47f77200-1691-11eb-9164-d95c0156863b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/4806db50-1691-11eb-9164-d95c0156863b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/4800e7e0-1691-11eb-9164-d95c0156863b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/25/1bcfe310-1691-11eb-9164-d95c0156863b.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f647c620-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f66c8c30-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f65a15a0-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f67f29d0-bfb8-11ed-9b62-5f2349990689.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/11/bd7fcb30-bfb8-11ed-9b62-5f2349990689.png"
 }
 ,
 {
@@ -1669,6 +1653,22 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/8ff47a9e591f450e8d0469def4ed2842.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/ba6abb843e80465ca412ef8b9c952fe9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/28/d2a52ead196b4644bd0c292098d5135d.png"
+}
+,
+{
+    "Name": "sokit",
+    "Version": "1.3.1",
+    "Filename": "sokit_1.3.1_amd64.deb",
+    "Pkgname": "sokit",
+    "Author": "sinpowei",
+    "Contributor": "lidanger",
+    "Website": "https://github.com/sinpolib/sokit",
+    "Update": "2020-10-25 07:11:38",
+    "Size": "100.18 KB",
+    "More": "CP / UDP 测试工具,用来接收,发送,转发TCP或UDP数据包",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/47f77200-1691-11eb-9164-d95c0156863b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/4806db50-1691-11eb-9164-d95c0156863b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/4800e7e0-1691-11eb-9164-d95c0156863b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/25/1bcfe310-1691-11eb-9164-d95c0156863b.png"
 }
 ,
 {

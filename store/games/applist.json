@@ -2382,23 +2382,6 @@
 }
 ,
 {
-    "Name": "中国象棋-xboard版",
-    "Version": "4.9.1-9",
-    "Filename": "xboard-xiangqi_4.9.1-9_all.deb",
-    "Torrent_address": "xboard-xiangqi_4.9.1-9_all.deb.torrent",
-    "Pkgname": "xboard-xiangqi",
-    "Author": "Careone <emacslocale@126.com>",
-    "Contributor": "Careone <emacslocale@126.com>",
-    "Website": "https://gitee.com/atzlinux/xboard-xiangqi",
-    "Update": "2023-01-15 18:55:48",
-    "Size": "484.93 KB",
-    "More": "based on Xiangqi program Maxqi. download DEB packages from:\n .\n https://sourceforge.net/projects/emacslocale/files/xiangqi/xboard-xiangqi/\n .\n 在 XBoard 上玩中国象棋游戏 (xiangqi)，支持人机对战，\n 机器对战，双引擎对战。目前支持中国象棋的引擎有:\n .\n 1* maxqi: 象棋水平一般（大致相当于腾迅天天象棋的“ 业3-业4”水平）。\n 软件包 fairymax 自带。通常默认已安装;\n .\n 2* hoixiangqi: 象棋水平一般（大致相当于腾迅天天象棋的“ 业3-业5”水平）。\n 需要安装软件包 hoichess;\n .\n 3* sjaakii: 象棋水平较高（大致相当于腾迅天天象棋的“ 业5-业6”水平）。\n 需要安装软件包 sjaakii, 并使用 -variant xiangqi 选项，指定棋种为中国象棋。\n .\n 4* eleeye_engine: 象眼 (EleEye) 引擎, 使用 UCCI 中国象棋通用引擎协议。\n 从目前测试使用的效果来看，象眼引擎的 Linux amd64 版本, 在 XBoard 4.9.1 \n 上运行不是太稳定，常常中途报错，停止运行。提示: 需要使用 \"uci2wb -x\" \n 参数来调用 UCCI 协议的中国象棋引擎，如:\n .\n xboard @xq -fcp \"uci2wb -x eleeye_engine\" -scp \"uci2wb -x eleeye_engine\"",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554370276958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554476976958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554545276958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554618976958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554694076958200.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554273276958200.png"
-}
-,
-{
     "Name": "马克思·佩恩2",
     "Version": "1.0spark1",
     "Filename": "com.maxpayne2.spark_1.0spark1_all.deb",
@@ -2413,6 +2396,23 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/fb91062f39af4cdf973aa6de8972b13c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/812c81f1bf154d03b7632d28ebab2f98.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/90dd9328a52e4100b840ecd25b4c2e47.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/22a2d0d7d2e943939b6bd1acdc10c674.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/05/5db74124a16c476fb60ea96a37593556.png"
+}
+,
+{
+    "Name": "中国象棋-xboard版",
+    "Version": "4.9.1-9",
+    "Filename": "xboard-xiangqi_4.9.1-9_all.deb",
+    "Torrent_address": "xboard-xiangqi_4.9.1-9_all.deb.torrent",
+    "Pkgname": "xboard-xiangqi",
+    "Author": "Careone <emacslocale@126.com>",
+    "Contributor": "Careone <emacslocale@126.com>",
+    "Website": "https://gitee.com/atzlinux/xboard-xiangqi",
+    "Update": "2023-01-15 18:55:48",
+    "Size": "484.93 KB",
+    "More": "based on Xiangqi program Maxqi. download DEB packages from:\n .\n https://sourceforge.net/projects/emacslocale/files/xiangqi/xboard-xiangqi/\n .\n 在 XBoard 上玩中国象棋游戏 (xiangqi)，支持人机对战，\n 机器对战，双引擎对战。目前支持中国象棋的引擎有:\n .\n 1* maxqi: 象棋水平一般（大致相当于腾迅天天象棋的“ 业3-业4”水平）。\n 软件包 fairymax 自带。通常默认已安装;\n .\n 2* hoixiangqi: 象棋水平一般（大致相当于腾迅天天象棋的“ 业3-业5”水平）。\n 需要安装软件包 hoichess;\n .\n 3* sjaakii: 象棋水平较高（大致相当于腾迅天天象棋的“ 业5-业6”水平）。\n 需要安装软件包 sjaakii, 并使用 -variant xiangqi 选项，指定棋种为中国象棋。\n .\n 4* eleeye_engine: 象眼 (EleEye) 引擎, 使用 UCCI 中国象棋通用引擎协议。\n 从目前测试使用的效果来看，象眼引擎的 Linux amd64 版本, 在 XBoard 4.9.1 \n 上运行不是太稳定，常常中途报错，停止运行。提示: 需要使用 \"uci2wb -x\" \n 参数来调用 UCCI 协议的中国象棋引擎，如:\n .\n xboard @xq -fcp \"uci2wb -x eleeye_engine\" -scp \"uci2wb -x eleeye_engine\"",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554370276958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554476976958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554545276958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554618976958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554694076958200.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/15/cc13109f361347238a2be1cff5b8f7ac2023011518554273276958200.png"
 }
 ,
 {
