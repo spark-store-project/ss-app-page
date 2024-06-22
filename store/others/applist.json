@@ -1293,6 +1293,23 @@
 }
 ,
 {
+    "Name": "图书馆宝贝",
+    "Version": "1.04",
+    "Filename": "com.library-baby-deepin20-8_1.04_amd64.deb",
+    "Torrent_address": "com.library-baby-deepin20-8_1.04_amd64.deb.torrent",
+    "Pkgname": "com.library-baby-deepin20-8",
+    "Author": "fax928 <264214467@qq.com>",
+    "Contributor": "fax928 <264214467@qq.com>",
+    "Website": "https://gitee.com/wu-wanjia",
+    "Update": "2023-03-16 19:54:51",
+    "Size": "1.44 MB",
+    "More": "数据库用的是一万级小数据库sqlite，支持最小分辨率800X600，支持导入导出数据库文件。数据库文件保存在<文档>目录下。\nV1.04修复的问题：修复书籍功能增加、修改界面备注栏不随窗口大小改变而改变。修改借阅人字体大小。修改备份功能栏下部框样式。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/61efb443af804da88d5f3579b9f2316d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/fda8e0d7f55d4c4aa369ddf136ad4703.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/73d5674bc1a24468af033b335551c80b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/e20eae70bd1046d09c8bd691603c62d0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/3671a0a8dfcd4adbb77148bc8dd26bf9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/16/533bfefaeae048d9b34c67baa509d8f3.png"
+}
+,
+{
     "Name": "NoBook高中生物（web）",
     "Version": "1.0",
     "Filename": "web-gzsw.nobook.com_1.0_all.deb",
@@ -1324,23 +1341,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/689dd61f49c64404b6f2a5465e0865d9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/0255a55838f147d1b8833066ed876afb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/3d90cb1594bf475a9324c20eef501068.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/578abdd5d39a4b31a0fca65712128f6b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/b5c02cf1546a48248c70aa7a49664988.png"
-}
-,
-{
-    "Name": "图书馆宝贝",
-    "Version": "1.04",
-    "Filename": "com.library-baby-deepin20-8_1.04_amd64.deb",
-    "Torrent_address": "com.library-baby-deepin20-8_1.04_amd64.deb.torrent",
-    "Pkgname": "com.library-baby-deepin20-8",
-    "Author": "fax928 <264214467@qq.com>",
-    "Contributor": "fax928 <264214467@qq.com>",
-    "Website": "https://gitee.com/wu-wanjia",
-    "Update": "2023-03-16 19:54:51",
-    "Size": "1.44 MB",
-    "More": "数据库用的是一万级小数据库sqlite，支持最小分辨率800X600，支持导入导出数据库文件。数据库文件保存在<文档>目录下。\nV1.04修复的问题：修复书籍功能增加、修改界面备注栏不随窗口大小改变而改变。修改借阅人字体大小。修改备份功能栏下部框样式。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/61efb443af804da88d5f3579b9f2316d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/fda8e0d7f55d4c4aa369ddf136ad4703.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/73d5674bc1a24468af033b335551c80b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/e20eae70bd1046d09c8bd691603c62d0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/3671a0a8dfcd4adbb77148bc8dd26bf9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/16/533bfefaeae048d9b34c67baa509d8f3.png"
 }
 ,
 {
@@ -1395,20 +1395,6 @@
 }
 ,
 {
-   "Name":"Cryptomator",
-   "Version":"1.5.5",
-   "Filename":"cryptomator-1.5.5_amd64.deb",
-   "Pkgname":"cryptomator",
-   "Author":" ",
-   "Contributor":"qygw",
-   "Website":" ",
-   "Update":"2020-06-25 18:03",
-   "Size":"50.52MB",
-   "More":"一个实用友好的加密文件管理器，基于qt5"
-}
-
-,
-{
     "Name": "adb",
     "Version": "2024-03",
     "Filename": "androidsdk_2024-03_amd64.deb",
@@ -1424,6 +1410,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/15/bcc9fb76dd7040abae68e1282b03767a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/15/45e80ebacef646b7aad23c3fe206f3b0.png"
 }
+,
+{
+   "Name":"Cryptomator",
+   "Version":"1.5.5",
+   "Filename":"cryptomator-1.5.5_amd64.deb",
+   "Pkgname":"cryptomator",
+   "Author":" ",
+   "Contributor":"qygw",
+   "Website":" ",
+   "Update":"2020-06-25 18:03",
+   "Size":"50.52MB",
+   "More":"一个实用友好的加密文件管理器，基于qt5"
+}
+
 ,
 {
     "Name": "广州共享课堂（Web）",

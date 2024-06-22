@@ -10010,6 +10010,22 @@ SHA256: 8b61ed5bbdf016ccaa96230af42b081ef86a4e42e0c77c06a94d4d2c62d005fc
 SHA512: 9f4320282f58aafae7070befc5eb217aabaf369b432639389ce392c6e074fe9f39666e88f35d70ce41a7514f19ed121fe05b5ed1513a1017c5d8b552bdc6fdfb
 Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
 
+Package: com.uniontech.theme.infinitecontrol
+Architecture: all
+Version: 1.0.6
+Priority: optional
+Section: admin
+Maintainer: Tonny
+Installed-Size: 5374
+Depends: deepin-elf-verify (>= 1.1.10-1),deepin-icon-theme
+Filename: themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.6_all.deb
+Size: 3384044
+MD5sum: e901b08e30f6d61a9226447e433a978d
+SHA1: 443936269e6e53bcc6fcbc40af4b06a13b901e3f
+SHA256: 086445709878cc7136866a1a1c40dd6652f2af17b1ab048f05425c10a253ab84
+SHA512: 84a9a08a954d8c2e087662f293e5e07eebdaa01814b2c56167343ce4cdd0cb1e2b62acb2fbb7f7aec16e7d85439292ba54edfe7592b5311346abb5b60237dea5
+Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
+
 Package: uos-home-icon
 Architecture: all
 Version: 1.0.0
@@ -14828,6 +14844,23 @@ SHA256: ecb4c3308512cac2f4c0848b834bf89cdb903094665fdb79affb15582856bf0c
 SHA512: 50158987edbd6e5deeb9bc76cc3312e9aafb15ca91a36a4ff9f9110c99ddcc8a868234825f44354d1765ca6409454599fa20d7d129110bac93db46ae22836b8c
 Description: Mockplus on Wine6
  一款专业的原型设计工具
+
+Package: com.zwsoft.zwcad2025
+Architecture: amd64
+Version: 25.0.3.4
+Priority: optional
+Section: graphics
+Maintainer: lishuaiwei <lishuaiwei@zwcad.com>
+Installed-Size: 849092
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: image_graphics/com.zwsoft.zwcad2025/com.zwsoft.zwcad2025_25.0.3.4_amd64.deb
+Size: 246291090
+MD5sum: 3d3a5e83fb7084a9be7029c829210f53
+SHA1: f198ae869703c382da0facf801279ad794b6a81a
+SHA256: 2fdc3971bb16486abdc4f37763733a3c7bcbc66ca3cb21ffc5c434144acf0e8a
+SHA512: d818b890562a44127dab508c544156da3e38fe762516e0b4a5161b9dc5e0bceb9fa9a53f4dc9b104316b3a9afee2fe2b365da3980b29d2f451e6b83796b2ce37
+Homepage: https://www.zwsoft.cn
+Description: ZWCADLinux 2025是ZWSOFT研发的计算机辅助设计软件。
 
 Package: cool.lingquan.spark
 Architecture: all
@@ -33699,6 +33732,24 @@ SHA512: ccd89025c6e112a8cbc7d0885cadb4355b1e2febbddaa99ac238215424f84f5efa6dd952
 Homepage: https://dbeaver.io/
 Description: DBeaver Community
  Universal Database Manager and SQL Client
+
+Package: com.dfrobot.mindplus
+Architecture: amd64
+Version: 202307011900
+Priority: optional
+Section: embedded;education;net;python
+Maintainer: DFRobot <mindplus@dfrobot.com>
+Installed-Size: 2769745
+Depends: deepin-elf-verify
+Filename: development/com.dfrobot.mindplus/com.dfrobot.mindplus_202307011900_amd64.deb
+Size: 707593862
+MD5sum: ef410a90a0c5df3fc8f28159b2432340
+SHA1: 15e91d5d497c0c5ca5440a0c337500cbc3801c2b
+SHA256: 823c007af01a4704b73bb1366418c82cc211c626af1f9884efac02c982391ae5
+SHA512: 57d8c79137cda11dc47c2d2cb97fe5594bd3e8af60eb1ee67d0328608590207b174daacd2f53fc12c2c6b4a201d89c047f2980eea8091939150080d0381c4424
+Homepage: https://mindplus.cc/
+Description: Get ready to take the leap from zero to a coding expert.
+   MindPlus can easily create a visualized story or game with coding blocks. By adding support for Arduino, micro:bit and other microcontrollers, you can even build a fun project that interacts with real life. MindPlus also comes with a build-in interpreter that converts blocks into Python or C language.
 
 Package: sublime-merge
 Architecture: amd64

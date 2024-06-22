@@ -1406,23 +1406,6 @@
 }
 ,
 {
-    "Name": "Scratch 1.4",
-    "Version": "1.4.0.6~dfsg1-6",
-    "Filename": "scratch_1.4.0.6~dfsg1-6_all.deb",
-    "Torrent_address": "scratch_1.4.0.6~dfsg1-6_all.deb.torrent",
-    "Pkgname": "scratch",
-    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "http://scratch.mit.edu",
-    "Update": "2022-12-29 22:10:10",
-    "Size": "23.93 MB",
-    "More": "Scratch is an easy, interactive, collaborative programming\n environment designed for creation of interactive stories, animations,\n games, music, and art -- and sharing these on the web.\n Scratch is designed to help young people (ages 8 and up) develop 21st\n century learning skills. As they create Scratch projects, young people\n learn important mathematical and computational ideas, while also\n gaining a deeper understanding of the process of design.",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/29/b3bc243d63d44610baf2bfc5368cf58b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/29/d7385851ae624a64b172d29665f8890e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/29/f12da169cb654dd78dad72fda224fc12.png"
-}
-,
-{
     "Name": "编程猫源码编辑器",
     "Version": "3.7.14",
     "Filename": "cn.codemao.kitten3_3.7.14_amd64.deb",
@@ -1437,6 +1420,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/77aad368736846d5a4a334c995be5b63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/80225203a30647ab932d8dabcce41c93.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/6c8eab3343b9471e909518c8f34134f8.png"
+}
+,
+{
+    "Name": "Scratch 1.4",
+    "Version": "1.4.0.6~dfsg1-6",
+    "Filename": "scratch_1.4.0.6~dfsg1-6_all.deb",
+    "Torrent_address": "scratch_1.4.0.6~dfsg1-6_all.deb.torrent",
+    "Pkgname": "scratch",
+    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "http://scratch.mit.edu",
+    "Update": "2022-12-29 22:10:10",
+    "Size": "23.93 MB",
+    "More": "Scratch is an easy, interactive, collaborative programming\n environment designed for creation of interactive stories, animations,\n games, music, and art -- and sharing these on the web.\n Scratch is designed to help young people (ages 8 and up) develop 21st\n century learning skills. As they create Scratch projects, young people\n learn important mathematical and computational ideas, while also\n gaining a deeper understanding of the process of design.",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/29/b3bc243d63d44610baf2bfc5368cf58b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/29/d7385851ae624a64b172d29665f8890e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/29/f12da169cb654dd78dad72fda224fc12.png"
 }
 ,
 {
@@ -2476,5 +2476,22 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/70e20d10-2eac-11ef-b2c5-4fa9599f8cb0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/713b77b0-2eac-11ef-b2c5-4fa9599f8cb0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/71950960-2eac-11ef-b2c5-4fa9599f8cb0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/20/18806e10-2eab-11ef-b2c5-4fa9599f8cb0.png"
+}
+,
+{
+    "Name": "Mind+",
+    "Version": "202307011900",
+    "Filename": "com.dfrobot.mindplus_202307011900_amd64.deb",
+    "Torrent_address": "com.dfrobot.mindplus_202307011900_amd64.deb.torrent",
+    "Pkgname": "com.dfrobot.mindplus",
+    "Author": "DFRobot <mindplus@dfrobot.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://mindplus.cc/",
+    "Update": "2024-06-22 20:45:08",
+    "Size": "674.81 MB",
+    "More": "Mind+是一款拥有自主知识产权的国产青少年编程软件，集成各种主流主控板及上百种开源硬件，支持人工智能（AI）与物联网（IoT）功能，既可以拖动图形化积木编程，还可以使用Python/C/C++等高级编程语言，让大家轻松体验创造的乐趣。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/860aeab96f6742cdb6a769a2993f7a77.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/7963142613304945996ec8e462f46e5c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/dfea2f033c8c47328a184a2d8e59f6b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/678204a54a0d4723963b335e97397f63.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/22/8ce6d3c24e064c4d9764617067ccfd4b.png"
 }
 ]

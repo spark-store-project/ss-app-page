@@ -3172,6 +3172,22 @@ SHA256: 8b61ed5bbdf016ccaa96230af42b081ef86a4e42e0c77c06a94d4d2c62d005fc
 SHA512: 9f4320282f58aafae7070befc5eb217aabaf369b432639389ce392c6e074fe9f39666e88f35d70ce41a7514f19ed121fe05b5ed1513a1017c5d8b552bdc6fdfb
 Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
 
+Package: com.uniontech.theme.infinitecontrol
+Architecture: all
+Version: 1.0.6
+Priority: optional
+Section: admin
+Maintainer: Tonny
+Installed-Size: 5374
+Depends: deepin-elf-verify (>= 1.1.10-1),deepin-icon-theme
+Filename: themes/com.uniontech.theme.infinitecontrol/com.uniontech.theme.infinitecontrol_1.0.6_all.deb
+Size: 3384044
+MD5sum: e901b08e30f6d61a9226447e433a978d
+SHA1: 443936269e6e53bcc6fcbc40af4b06a13b901e3f
+SHA256: 086445709878cc7136866a1a1c40dd6652f2af17b1ab048f05425c10a253ab84
+SHA512: 84a9a08a954d8c2e087662f293e5e07eebdaa01814b2c56167343ce4cdd0cb1e2b62acb2fbb7f7aec16e7d85439292ba54edfe7592b5311346abb5b60237dea5
+Description: 自定义主题（内包含 壁纸、光标、字体） 无限宇宙 以宇宙，未来，人类，星球为元素，探索对生命和世界的一个思考，对主题进行设计的一套图标
+
 Package: uos-home-icon
 Architecture: all
 Version: 1.0.0
