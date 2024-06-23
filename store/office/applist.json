@@ -995,23 +995,6 @@
 }
 ,
 {
-    "Name": "桌面",
-    "Version": "5.8.0-1",
-    "Filename": "xpad_5.8.0-1_amd64.deb",
-    "Torrent_address": "xpad_5.8.0-1_amd64.deb.torrent",
-    "Pkgname": "xpad",
-    "Author": "Michael Terry",
-    "Contributor": "Taoran",
-    "Website": "https://launchpad.net/xpad",
-    "Update": "2022-06-22 23:30:57",
-    "Size": "108.62 KB",
-    "More": "Xpad是一个桌面便签应用，能够在一个桌面创建多个记录窗口，只需要将鼠标指针移到该窗口的底部显示工具栏进行操作，具有实时记录和保存等功能。还可以通过菜单执行更多选项配置，如修改字体样式及大小、重新设置窗口背景和文字颜色等。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/3fb3cee0-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/3fccd520-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/3fef7850-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/4008f3c0-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/401f13d0-f240-11ec-8036-71833f63a538.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/22/7b668320-f23f-11ec-8036-71833f63a538.png"
-}
-,
-{
     "Name": "master PDF Editor 5.9.20",
     "Version": "5.9.82",
     "Filename": "master-pdf-editor-5_5.9.82_amd64.deb",
@@ -1026,6 +1009,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/18/b39f0dc714e847ebbe8a07c10184cbe8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/18/5ef55a2d8d474c138e4a47da466e1188.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/18/affa0c95afd0410486c600da752c6b91.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/18/c0079c946fac4bf2a9ee124798326cb1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/18/b49a0d8160ee4c1cadbac220e10fd5d6.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/18/a77b00faa80d4ba988e731764d7dc937.png"
+}
+,
+{
+    "Name": "桌面",
+    "Version": "5.8.0-1",
+    "Filename": "xpad_5.8.0-1_amd64.deb",
+    "Torrent_address": "xpad_5.8.0-1_amd64.deb.torrent",
+    "Pkgname": "xpad",
+    "Author": "Michael Terry",
+    "Contributor": "Taoran",
+    "Website": "https://launchpad.net/xpad",
+    "Update": "2022-06-22 23:30:57",
+    "Size": "108.62 KB",
+    "More": "Xpad是一个桌面便签应用，能够在一个桌面创建多个记录窗口，只需要将鼠标指针移到该窗口的底部显示工具栏进行操作，具有实时记录和保存等功能。还可以通过菜单执行更多选项配置，如修改字体样式及大小、重新设置窗口背景和文字颜色等。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/3fb3cee0-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/3fccd520-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/3fef7850-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/4008f3c0-f240-11ec-8036-71833f63a538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/22/401f13d0-f240-11ec-8036-71833f63a538.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/22/7b668320-f23f-11ec-8036-71833f63a538.png"
 }
 ,
 {
@@ -1400,23 +1400,6 @@
 }
 ,
 {
-    "Name": "Kuro(第三方微软 Todo)",
-    "Version": "9.0.0",
-    "Filename": "kuro_9.0.0_amd64.deb",
-    "Torrent_address": "kuro_9.0.0_amd64.deb.torrent",
-    "Pkgname": "kuro",
-    "Author": "davidsmorais <david@dsmorais.com>",
-    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
-    "Website": "https://github.com/davidsmorais/kuro#readme",
-    "Update": "2023-03-31 16:52:04",
-    "Size": "64.91 MB",
-    "More": "一个微软to-do的第三方客户端\n  Kuro is an unofficial, featureful, open source, community-driven, free Microsoft To-Do app, used by people in more than 120 countries. (Ao fork)",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/31/0decdf5e58284e4592f2e4c309cf88ab.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/31/ecd5b9d3ed5744cfa54bac952d8e4705.png"
-}
-,
-{
     "Name": "稻壳阅读器（Wine）",
     "Version": "2.2.21spark0",
     "Filename": "com.docbox.spark_2.2.21spark0_all.deb",
@@ -1431,6 +1414,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/5c2f33d74069430c91f2fa89b8aacc64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/48a877bb6bfa486aa4ca01aaea41916a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/e89c98d38e6f464d8b1bb33fd04b1501.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/21/cf30b76596e745aaafbf3f347a413e12.png"
+}
+,
+{
+    "Name": "Kuro(第三方微软 Todo)",
+    "Version": "9.0.0",
+    "Filename": "kuro_9.0.0_amd64.deb",
+    "Torrent_address": "kuro_9.0.0_amd64.deb.torrent",
+    "Pkgname": "kuro",
+    "Author": "davidsmorais <david@dsmorais.com>",
+    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
+    "Website": "https://github.com/davidsmorais/kuro#readme",
+    "Update": "2023-03-31 16:52:04",
+    "Size": "64.91 MB",
+    "More": "一个微软to-do的第三方客户端\n  Kuro is an unofficial, featureful, open source, community-driven, free Microsoft To-Do app, used by people in more than 120 countries. (Ao fork)",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/31/0decdf5e58284e4592f2e4c309cf88ab.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/31/ecd5b9d3ed5744cfa54bac952d8e4705.png"
 }
 ,
 {
@@ -1649,6 +1649,22 @@
 }
 ,
 {
+    "Name": "白描OCR（web）",
+    "Version": "1.0spark0",
+    "Filename": "web-baimiaoapp_1.0spark0_amd64.deb",
+    "Pkgname": "web-baimiaoapp",
+    "Author": "优零科技",
+    "Contributor": "sgb76",
+    "Website": "https://web.baimiaoapp.com/",
+    "Update": "2021-08-20 17:45:10",
+    "Size": "12.78 KB",
+    "More": "基于spark-webapp-runtime打包的白描OCR网页版",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/20/17504d20-019b-11ec-b02b-21950ac075ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/20/1bb63f50-019b-11ec-b02b-21950ac075ad.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/20/11c0a800-019b-11ec-b02b-21950ac075ad.png"
+}
+,
+{
     "Name": "平安证券慧赢客户端（wine）",
     "Version": "8.252deepin5",
     "Filename": "com.pingan.huiying.spark_8.252deepin5_i386.deb",
@@ -1663,22 +1679,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/02/671db360-c9eb-11ec-97e9-6d7208993390.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/02/692961e0-c9eb-11ec-97e9-6d7208993390.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/02/63f79430-c9eb-11ec-97e9-6d7208993390.png"
-}
-,
-{
-    "Name": "白描OCR（web）",
-    "Version": "1.0spark0",
-    "Filename": "web-baimiaoapp_1.0spark0_amd64.deb",
-    "Pkgname": "web-baimiaoapp",
-    "Author": "优零科技",
-    "Contributor": "sgb76",
-    "Website": "https://web.baimiaoapp.com/",
-    "Update": "2021-08-20 17:45:10",
-    "Size": "12.78 KB",
-    "More": "基于spark-webapp-runtime打包的白描OCR网页版",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/20/17504d20-019b-11ec-b02b-21950ac075ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/20/1bb63f50-019b-11ec-b02b-21950ac075ad.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/20/11c0a800-019b-11ec-b02b-21950ac075ad.png"
 }
 ,
 {
@@ -2470,23 +2470,6 @@
 }
 ,
 {
-    "Name": "移动办公",
-    "Version": "2.1.7008",
-    "Filename": "com.cmic.yidongbangong_2.1.7008_amd64.deb",
-    "Torrent_address": "com.cmic.yidongbangong_2.1.7008_amd64.deb.torrent",
-    "Pkgname": "com.cmic.yidongbangong",
-    "Author": "中国移动通信集团<cmic@cmic.com.cn>",
-    "Contributor": "马奕兆<1580748939@139.com>",
-    "Website": "https://o.andfx.net/gongzuoji/hebangong/index.html",
-    "Update": "2023-11-05 17:11:46",
-    "Size": "139.51 MB",
-    "More": "移动办公是中国移动为集团成员打造的专属APP，为成员客户提供高品质的办公应用、丰富的营销活动、特色的权益套餐、专属的业务办理入口及成员产品的自助服务模块，满足不同行业客户移动办公。",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/05/56b9ebf0-7bbb-11ee-ac1f-57fb07dcd3ce.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/05/2dd88750-7bbb-11ee-ac1f-57fb07dcd3ce.png"
-}
-,
-{
     "Name": "超级星学习通",
     "Version": "1.0.0",
     "Filename": "chaoxingstudy_1.0.0_i386.deb",
@@ -2501,6 +2484,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e202d70-dbf3-11ed-b7c5-79e728797698.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e32a400-dbf3-11ed-b7c5-79e728797698.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/16/2a1ddf10-dbf3-11ed-b7c5-79e728797698.png"
+}
+,
+{
+    "Name": "移动办公",
+    "Version": "2.1.7008",
+    "Filename": "com.cmic.yidongbangong_2.1.7008_amd64.deb",
+    "Torrent_address": "com.cmic.yidongbangong_2.1.7008_amd64.deb.torrent",
+    "Pkgname": "com.cmic.yidongbangong",
+    "Author": "中国移动通信集团<cmic@cmic.com.cn>",
+    "Contributor": "马奕兆<1580748939@139.com>",
+    "Website": "https://o.andfx.net/gongzuoji/hebangong/index.html",
+    "Update": "2023-11-05 17:11:46",
+    "Size": "139.51 MB",
+    "More": "移动办公是中国移动为集团成员打造的专属APP，为成员客户提供高品质的办公应用、丰富的营销活动、特色的权益套餐、专属的业务办理入口及成员产品的自助服务模块，满足不同行业客户移动办公。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/05/56b9ebf0-7bbb-11ee-ac1f-57fb07dcd3ce.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/05/2dd88750-7bbb-11ee-ac1f-57fb07dcd3ce.png"
 }
 ,
 {

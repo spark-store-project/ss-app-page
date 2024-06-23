@@ -1056,24 +1056,6 @@
 
 ,
 {
-    "Author": "help@todesk.com",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "ToDeskClient_1.3.1.5_arm64.deb",
-    "More": "详细日志\n日志+水印+录屏，信息防盗三保险\n￼ \n高效管理\n统一管理员工操作权限和设备状态\n￼ \n极速网络\n企业级优质线路和网络服务",
-    "Name": "ToDesk企业版主控端",
-    "Pkgname": "todeskclient",
-    "Size": "25 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "ToDeskClient_1.3.1.5_arm64.deb.torrent",
-    "Update": "2023-03-07 21:55:31",
-    "Version": "1.3.1.5",
-    "Website": "https://www.todesk.com",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/todeskclient/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/todeskclient/screen_1.png\"]"
-}
-
-,
-{
     "Author": "zty199 <zty2864@gmail.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb",
@@ -1088,6 +1070,24 @@
     "Website": "https://github.com/zty199/dde-dock-switch_graphics_card",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "help@todesk.com",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "ToDeskClient_1.3.1.5_arm64.deb",
+    "More": "详细日志\n日志+水印+录屏，信息防盗三保险\n￼ \n高效管理\n统一管理员工操作权限和设备状态\n￼ \n极速网络\n企业级优质线路和网络服务",
+    "Name": "ToDesk企业版主控端",
+    "Pkgname": "todeskclient",
+    "Size": "25 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "ToDeskClient_1.3.1.5_arm64.deb.torrent",
+    "Update": "2023-03-07 21:55:31",
+    "Version": "1.3.1.5",
+    "Website": "https://www.todesk.com",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/todeskclient/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/todeskclient/screen_1.png\"]"
 }
 
 ,
@@ -1272,6 +1272,24 @@
 
 ,
 {
+    "Author": "Martijn van Brummelen <mvb@debian.org>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "grsync_1.3.0-1_arm64.deb",
+    "More": "grsync是一个简单的图形界面，使用GTK2作为rsync命令行程序\n它目前只支持有限的一组最重要的rsync功能，但可以有效地用于本地目录同步。",
+    "Name": "Grsync(图形化rsync)",
+    "Pkgname": "grsync",
+    "Size": "150 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "grsync_1.3.0-1_arm64.deb.torrent",
+    "Update": "2023-11-02 09:39:06",
+    "Version": "1.3.0-1",
+    "Website": "http://www.opbyte.it/grsync/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/grsync/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/grsync/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/grsync/screen_2.png\"]"
+}
+
+,
+{
     "Author": "tav",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.tencent.yudian_2.1.0.348-1.uos20_arm64.deb",
@@ -1322,24 +1340,6 @@
     "Website": "https://www.todesk.com",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/todesksos/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/todesksos/screen_1.png\"]"
-}
-
-,
-{
-    "Author": "Martijn van Brummelen <mvb@debian.org>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "grsync_1.3.0-1_arm64.deb",
-    "More": "grsync是一个简单的图形界面，使用GTK2作为rsync命令行程序\n它目前只支持有限的一组最重要的rsync功能，但可以有效地用于本地目录同步。",
-    "Name": "Grsync(图形化rsync)",
-    "Pkgname": "grsync",
-    "Size": "150 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "grsync_1.3.0-1_arm64.deb.torrent",
-    "Update": "2023-11-02 09:39:06",
-    "Version": "1.3.0-1",
-    "Website": "http://www.opbyte.it/grsync/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/grsync/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/grsync/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/grsync/screen_2.png\"]"
 }
 
 ,

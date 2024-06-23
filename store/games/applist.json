@@ -650,6 +650,22 @@
 }
 ,
 {
+    "Name": "QQ欢乐斗地主",
+    "Version": "1.1",
+    "Filename": "qq-hlddz_1.1_amd64.deb",
+    "Pkgname": "qq-hlddz",
+    "Author": "Tencent",
+    "Contributor": "shenmo",
+    "Website": "https://hlddz.huanle.qq.com/",
+    "Update": "2020-11-23 04:31:00",
+    "Size": "11.07 KB",
+    "More": "网页版QQ斗地主",
+    "Tags": "community;deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/acf1dcd0-2d44-11eb-9540-f1dc1a0889f4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/ad7b5820-2d44-11eb-9540-f1dc1a0889f4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/23/721559c0-2d44-11eb-9540-f1dc1a0889f4.PNG"
+}
+,
+{
     "Author": "LFRon",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "deepin.ra2.enemyag4_1.2.1_all.deb",
@@ -666,22 +682,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/deepin.ra2.enemyag4/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/deepin.ra2.enemyag4/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/deepin.ra2.enemyag4/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/deepin.ra2.enemyag4/screen_4.png\"]"
 }
 
-,
-{
-    "Name": "QQ欢乐斗地主",
-    "Version": "1.1",
-    "Filename": "qq-hlddz_1.1_amd64.deb",
-    "Pkgname": "qq-hlddz",
-    "Author": "Tencent",
-    "Contributor": "shenmo",
-    "Website": "https://hlddz.huanle.qq.com/",
-    "Update": "2020-11-23 04:31:00",
-    "Size": "11.07 KB",
-    "More": "网页版QQ斗地主",
-    "Tags": "community;deepin;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/acf1dcd0-2d44-11eb-9540-f1dc1a0889f4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/ad7b5820-2d44-11eb-9540-f1dc1a0889f4.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/23/721559c0-2d44-11eb-9540-f1dc1a0889f4.PNG"
-}
 ,
 {
     "Name": "半条命2",
@@ -1187,6 +1187,23 @@
 
 ,
 {
+    "Name": "戴夫RUSH(Wine)",
+    "Version": "0.2",
+    "Filename": "spark-daifurush-bymutangm_0.2_i386.deb",
+    "Torrent_address": "spark-daifurush-bymutangm_0.2_i386.deb.torrent",
+    "Pkgname": "spark-daifurush-bymutangm",
+    "Author": "M木糖M",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://www.bilibili.com/video/BV1Fd4y1N79Y",
+    "Update": "2022-08-19 08:00:06",
+    "Size": "45.24 MB",
+    "More": "一款小游戏，详细可见：https://www.bilibili.com/video/BV1Fd4y1N79Y",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/19/bc1afa10-1f51-11ed-8355-c50a51fc911d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/19/bc0e01c0-1f51-11ed-8355-c50a51fc911d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/19/c017a320-1f51-11ed-8355-c50a51fc911d.png"
+}
+,
+{
     "Name": "开源卡丁车",
     "Version": "1.4spark0",
     "Filename": "net.supertuxkart.spark_1.4spark0_amd64.deb",
@@ -1237,23 +1254,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/uengine-dc-com.hypergryph.arknights/screen_1.png\"]"
 }
 
-,
-{
-    "Name": "戴夫RUSH(Wine)",
-    "Version": "0.2",
-    "Filename": "spark-daifurush-bymutangm_0.2_i386.deb",
-    "Torrent_address": "spark-daifurush-bymutangm_0.2_i386.deb.torrent",
-    "Pkgname": "spark-daifurush-bymutangm",
-    "Author": "M木糖M",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://www.bilibili.com/video/BV1Fd4y1N79Y",
-    "Update": "2022-08-19 08:00:06",
-    "Size": "45.24 MB",
-    "More": "一款小游戏，详细可见：https://www.bilibili.com/video/BV1Fd4y1N79Y",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/19/bc1afa10-1f51-11ed-8355-c50a51fc911d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/19/bc0e01c0-1f51-11ed-8355-c50a51fc911d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/19/c017a320-1f51-11ed-8355-c50a51fc911d.png"
-}
 ,
 {
     "Name": "仙剑奇侠传3外传:问情篇",
@@ -1655,23 +1655,6 @@
 }
 ,
 {
-    "Name": "Sans模拟器",
-    "Version": "1.5.1",
-    "Filename": "c2-sans-fight_1.5.1_all.deb",
-    "Torrent_address": "c2-sans-fight_1.5.1_all.deb.torrent",
-    "Pkgname": "c2-sans-fight",
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://github.com/Jcw87/c2-sans-fight",
-    "Update": "2023-03-12 09:57:23",
-    "Size": "4.43 MB",
-    "More": "Sans模拟器，本地网页版。\n运行时38326端口会被占用！",
-    "Tags": "community;ubuntu;deepin;uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/4ca7d3f55f904dcba79e201e00fde815.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/b7bc84e93fe9475aa8edd52c8a67ca69.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/acd9f1767f054f58b14af2afe70d3fca.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/ff51faee93f14b2fb26b9134990836de.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/12/76217072160840d8b17a9c5e395e16b5.png"
-}
-,
-{
     "Name": "特种部队全力反击",
     "Version": "1.0spark0",
     "Filename": "com.specialcounterforceattack.spark_1.0spark0_amd64.deb",
@@ -1686,6 +1669,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/25/c61e0062670149e2a065cb69fa82f2b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/25/cf6d0bd8c0fe48e89a3bdf0fb86aaada.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/25/cb9f987aa90a40d3a6e38d9a8d904a80.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/25/6fe83bd8fc87423b9f07e1ca3909ee5d.png"
+}
+,
+{
+    "Name": "Sans模拟器",
+    "Version": "1.5.1",
+    "Filename": "c2-sans-fight_1.5.1_all.deb",
+    "Torrent_address": "c2-sans-fight_1.5.1_all.deb.torrent",
+    "Pkgname": "c2-sans-fight",
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://github.com/Jcw87/c2-sans-fight",
+    "Update": "2023-03-12 09:57:23",
+    "Size": "4.43 MB",
+    "More": "Sans模拟器，本地网页版。\n运行时38326端口会被占用！",
+    "Tags": "community;ubuntu;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/4ca7d3f55f904dcba79e201e00fde815.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/b7bc84e93fe9475aa8edd52c8a67ca69.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/acd9f1767f054f58b14af2afe70d3fca.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/ff51faee93f14b2fb26b9134990836de.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/12/76217072160840d8b17a9c5e395e16b5.png"
 }
 ,
 {
@@ -2499,23 +2499,6 @@
 }
 ,
 {
-    "Name": "落叶城",
-    "Version": "1.0spark0",
-    "Filename": "com.ambercity.spark_1.0spark0_amd64.deb",
-    "Torrent_address": "com.ambercity.spark_1.0spark0_amd64.deb.torrent",
-    "Pkgname": "com.ambercity.spark",
-    "Author": "Irisloft",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-06-03 22:21:15",
-    "Size": "449.42 MB",
-    "More": "一款画面唯美、机制创新的独立解谜游戏。在手绘画面构筑的落叶城中，玩家将光源通过计算分配，解开不同的机关与谜题。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/8d91ec211ac6480ea4c7c7691969b2d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/878d15dde53347fdbeb2912582e048df.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/25072382ee06488d83962da81255b623.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/c9f29ec37f68459d8ff8fc707ae9e92e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/03/8289544f235d421b990341729ee2ad2e.png"
-}
-,
-{
     "Name": "pcsx2-qt",
     "Version": "1.7.4965",
     "Filename": "pcsx2-qt-amd64_1.7.4965_amd64.deb",
@@ -2530,6 +2513,23 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/02/95f7e3fc72704b469c280e2b22363f29.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/02/2b36a2612b454d14af00ef9a268e0493.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/02/01aa276470b14c9496e1f4dc48bd9d5c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/02/2e09f6f5b760441199a1fe471be7efe6.png"
+}
+,
+{
+    "Name": "落叶城",
+    "Version": "1.0spark0",
+    "Filename": "com.ambercity.spark_1.0spark0_amd64.deb",
+    "Torrent_address": "com.ambercity.spark_1.0spark0_amd64.deb.torrent",
+    "Pkgname": "com.ambercity.spark",
+    "Author": "Irisloft",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-06-03 22:21:15",
+    "Size": "449.42 MB",
+    "More": "一款画面唯美、机制创新的独立解谜游戏。在手绘画面构筑的落叶城中，玩家将光源通过计算分配，解开不同的机关与谜题。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/8d91ec211ac6480ea4c7c7691969b2d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/878d15dde53347fdbeb2912582e048df.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/25072382ee06488d83962da81255b623.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/c9f29ec37f68459d8ff8fc707ae9e92e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/03/8289544f235d421b990341729ee2ad2e.png"
 }
 ,
 {
