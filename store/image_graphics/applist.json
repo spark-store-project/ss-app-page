@@ -935,6 +935,20 @@
 }
 ,
 {
+   "Name":"RawTherapee",
+   "Version":"5.8",
+   "Filename":"rawtherapee_5.8_a2d_amd64.deb",
+   "Pkgname":"rawtherapee",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://rawtherapee.com/",
+   "Update":"2020-07-23 23:41",
+   "Size":"64.79MB",
+   "More":"RawTherapee is a free, cross-platform raw image processing program"
+}
+
+,
+{
     "Name": "云图三维 For Linux",
     "Version": "0.0.2.1",
     "Filename": "com.yuntucad.cloudcad_0.0.2.1_amd64.deb",
@@ -966,20 +980,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/08/cfd72680-980e-11eb-b362-5b04fbce06e6.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/08/b6cd8090-980d-11eb-b362-5b04fbce06e6.png"
 }
-,
-{
-   "Name":"RawTherapee",
-   "Version":"5.8",
-   "Filename":"rawtherapee_5.8_a2d_amd64.deb",
-   "Pkgname":"rawtherapee",
-   "Author":" ",
-   "Contributor":"sgb76",
-   "Website":"https://rawtherapee.com/",
-   "Update":"2020-07-23 23:41",
-   "Size":"64.79MB",
-   "More":"RawTherapee is a free, cross-platform raw image processing program"
-}
-
 ,
 {
     "Name": "简单图像处理工具",

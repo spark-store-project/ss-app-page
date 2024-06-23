@@ -1426,6 +1426,22 @@
 
 ,
 {
+    "Name": "QGIS",
+    "Version": "3.18.3",
+    "Filename": "qgis.gisshows_3.18.3_amd64.deb",
+    "Pkgname": "qgis.gisshows",
+    "Author": "QGIS",
+    "Contributor": "GIS Show",
+    "Website": "www.qgis.org",
+    "Update": "2021-05-18 20:43:57",
+    "Size": "57.33 MB",
+    "More": "一款免费的开源地理信息系统，针对deepin和UOS进行优化和重新编译",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/8fa658a0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/92cc77d0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/950095e0-b7d6-11eb-95cc-55162659a757.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/18/744e6070-b7d6-11eb-95cc-55162659a757.png"
+}
+,
+{
     "Name": "TLP 设置",
     "Version": "1.3.1-1",
     "Filename": "python3-tlpui_1.3.1-1_all.deb",
@@ -1456,22 +1472,6 @@
     "Tags": "deepin;ubuntu;uos;community",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/03/a78748c0-b31c-11ec-9c94-e5b618764332.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/03/a2bcef70-b31c-11ec-9c94-e5b618764332.png"
-}
-,
-{
-    "Name": "QGIS",
-    "Version": "3.18.3",
-    "Filename": "qgis.gisshows_3.18.3_amd64.deb",
-    "Pkgname": "qgis.gisshows",
-    "Author": "QGIS",
-    "Contributor": "GIS Show",
-    "Website": "www.qgis.org",
-    "Update": "2021-05-18 20:43:57",
-    "Size": "57.33 MB",
-    "More": "一款免费的开源地理信息系统，针对deepin和UOS进行优化和重新编译",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/8fa658a0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/92cc77d0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/950095e0-b7d6-11eb-95cc-55162659a757.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/18/744e6070-b7d6-11eb-95cc-55162659a757.png"
 }
 ,
 {
