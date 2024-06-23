@@ -466,23 +466,6 @@
 }
 ,
 {
-    "Name": "腾讯WeGame",
-    "Version": "1.0.0",
-    "Filename": "wegame_1.0.0_i386.deb",
-    "Torrent_address": "wegame_1.0.0_i386.deb.torrent",
-    "Pkgname": "wegame",
-    "Author": "rc3583z<huawei0086@126.com>",
-    "Contributor": "rc3583z",
-    "Website": "0",
-    "Update": "2023-06-11 11:24:06",
-    "Size": "1.41 GB",
-    "More": "腾讯WeGame，作者电脑配置不好游戏还没有测试，请谅解。目前来看功能应该可以正常使用。",
-    "Tags": "deepin;ubuntu;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/9afb71e0-0806-11ee-91ff-01da5404af49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/9b10cea0-0806-11ee-91ff-01da5404af49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/9b2a7120-0806-11ee-91ff-01da5404af49.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/11/91306d00-0806-11ee-91ff-01da5404af49.png"
-}
-,
-{
     "Name": "暴雪战网客户端（wine）",
     "Version": "2.13.1.13521deepin6",
     "Filename": "cn.blizzardgames.battlenet.spark_2.13.1.13521deepin6_amd64.deb",
@@ -497,6 +480,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/25/943f1750-f44b-11ec-95cd-334d21a0f722.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/25/92ed1be0-f44b-11ec-95cd-334d21a0f722.png"
+}
+,
+{
+    "Name": "腾讯WeGame",
+    "Version": "1.0.0",
+    "Filename": "wegame_1.0.0_i386.deb",
+    "Torrent_address": "wegame_1.0.0_i386.deb.torrent",
+    "Pkgname": "wegame",
+    "Author": "rc3583z<huawei0086@126.com>",
+    "Contributor": "rc3583z",
+    "Website": "0",
+    "Update": "2023-06-11 11:24:06",
+    "Size": "1.41 GB",
+    "More": "腾讯WeGame，作者电脑配置不好游戏还没有测试，请谅解。目前来看功能应该可以正常使用。",
+    "Tags": "deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/9afb71e0-0806-11ee-91ff-01da5404af49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/9b10cea0-0806-11ee-91ff-01da5404af49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/9b2a7120-0806-11ee-91ff-01da5404af49.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/11/91306d00-0806-11ee-91ff-01da5404af49.png"
 }
 ,
 {
@@ -1187,23 +1187,6 @@
 
 ,
 {
-    "Name": "戴夫RUSH(Wine)",
-    "Version": "0.2",
-    "Filename": "spark-daifurush-bymutangm_0.2_i386.deb",
-    "Torrent_address": "spark-daifurush-bymutangm_0.2_i386.deb.torrent",
-    "Pkgname": "spark-daifurush-bymutangm",
-    "Author": "M木糖M",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://www.bilibili.com/video/BV1Fd4y1N79Y",
-    "Update": "2022-08-19 08:00:06",
-    "Size": "45.24 MB",
-    "More": "一款小游戏，详细可见：https://www.bilibili.com/video/BV1Fd4y1N79Y",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/19/bc1afa10-1f51-11ed-8355-c50a51fc911d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/19/bc0e01c0-1f51-11ed-8355-c50a51fc911d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/19/c017a320-1f51-11ed-8355-c50a51fc911d.png"
-}
-,
-{
     "Name": "开源卡丁车",
     "Version": "1.4spark0",
     "Filename": "net.supertuxkart.spark_1.4spark0_amd64.deb",
@@ -1218,6 +1201,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/28/ed105c702ba94e2d9c7f4c0bca5c8f21.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/28/ecc55584e77447678e7955af5872116d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/28/5347abbb06654c73be341fc9ad2dc6a8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/28/5094d034776b45afa21c6da3693864bd.png"
+}
+,
+{
+    "Name": "戴夫RUSH(Wine)",
+    "Version": "0.2",
+    "Filename": "spark-daifurush-bymutangm_0.2_i386.deb",
+    "Torrent_address": "spark-daifurush-bymutangm_0.2_i386.deb.torrent",
+    "Pkgname": "spark-daifurush-bymutangm",
+    "Author": "M木糖M",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://www.bilibili.com/video/BV1Fd4y1N79Y",
+    "Update": "2022-08-19 08:00:06",
+    "Size": "45.24 MB",
+    "More": "一款小游戏，详细可见：https://www.bilibili.com/video/BV1Fd4y1N79Y",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/19/bc1afa10-1f51-11ed-8355-c50a51fc911d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/19/bc0e01c0-1f51-11ed-8355-c50a51fc911d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/19/c017a320-1f51-11ed-8355-c50a51fc911d.png"
 }
 ,
 {
@@ -1655,6 +1655,23 @@
 }
 ,
 {
+    "Name": "孤岛惊魂",
+    "Version": "1.0spark1",
+    "Filename": "com.farcry.spark_1.0spark1_all.deb",
+    "Torrent_address": "com.farcry.spark_1.0spark1_all.deb.torrent",
+    "Pkgname": "com.farcry.spark",
+    "Author": "Ubisoft",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-09-29 20:42:57",
+    "Size": "2.41 GB",
+    "More": "孤岛惊魂中文版",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/335a7030-5ec4-11ee-9c5f-6b1787933f50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/3500cd30-5ec4-11ee-9c5f-6b1787933f50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/36a380b0-5ec4-11ee-9c5f-6b1787933f50.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/29/30f81630-5ec4-11ee-9c5f-6b1787933f50.png"
+}
+,
+{
     "Name": "特种部队全力反击",
     "Version": "1.0spark0",
     "Filename": "com.specialcounterforceattack.spark_1.0spark0_amd64.deb",
@@ -1686,23 +1703,6 @@
     "Tags": "community;ubuntu;deepin;uos;dtk5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/4ca7d3f55f904dcba79e201e00fde815.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/b7bc84e93fe9475aa8edd52c8a67ca69.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/acd9f1767f054f58b14af2afe70d3fca.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/ff51faee93f14b2fb26b9134990836de.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/12/76217072160840d8b17a9c5e395e16b5.png"
-}
-,
-{
-    "Name": "孤岛惊魂",
-    "Version": "1.0spark1",
-    "Filename": "com.farcry.spark_1.0spark1_all.deb",
-    "Torrent_address": "com.farcry.spark_1.0spark1_all.deb.torrent",
-    "Pkgname": "com.farcry.spark",
-    "Author": "Ubisoft",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-09-29 20:42:57",
-    "Size": "2.41 GB",
-    "More": "孤岛惊魂中文版",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/335a7030-5ec4-11ee-9c5f-6b1787933f50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/3500cd30-5ec4-11ee-9c5f-6b1787933f50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/36a380b0-5ec4-11ee-9c5f-6b1787933f50.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/29/30f81630-5ec4-11ee-9c5f-6b1787933f50.png"
 }
 ,
 {
@@ -1773,6 +1773,23 @@
 }
 ,
 {
+    "Name": "卡车司机",
+    "Version": "1.0spark0",
+    "Filename": "com.truckdriver.spark_1.0spark0_amd64.deb",
+    "Torrent_address": "com.truckdriver.spark_1.0spark0_amd64.deb.torrent",
+    "Pkgname": "com.truckdriver.spark",
+    "Author": "Triangle Studios",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-08-11 01:15:21",
+    "Size": "1022.19 MB",
+    "More": "一款模拟驾驶游戏,打造卡车司机的职业生涯!运送各类货物,在当地社区建立起名声。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/11/3f4d6f9200d84475911e0a263df95d2b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/11/ce488acf838b4c0585ae1397fc18e5ac.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/11/0844c43f3d7944edb7b0f0f06b992ced.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/11/3e3647ee94a84eeca9111bf1f68df0cd.png"
+}
+,
+{
     "Name": "X Minecraft Launcher",
     "Version": "0.44.9-843",
     "Filename": "xmcl_0.44.9-843_amd64.deb",
@@ -1820,23 +1837,6 @@
     "Tags": "deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/05/61bbf562438e42e287877a54173f83d3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/05/60310f84467e4029a453a1a88804eb9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/05/79a985de49e946f7b6059e8e9fb91f8e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/05/8c2decf1565e4acc9b2fb7eb5bddd24a.png"
-}
-,
-{
-    "Name": "卡车司机",
-    "Version": "1.0spark0",
-    "Filename": "com.truckdriver.spark_1.0spark0_amd64.deb",
-    "Torrent_address": "com.truckdriver.spark_1.0spark0_amd64.deb.torrent",
-    "Pkgname": "com.truckdriver.spark",
-    "Author": "Triangle Studios",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-08-11 01:15:21",
-    "Size": "1022.19 MB",
-    "More": "一款模拟驾驶游戏,打造卡车司机的职业生涯!运送各类货物,在当地社区建立起名声。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/11/3f4d6f9200d84475911e0a263df95d2b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/11/ce488acf838b4c0585ae1397fc18e5ac.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/11/0844c43f3d7944edb7b0f0f06b992ced.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/11/3e3647ee94a84eeca9111bf1f68df0cd.png"
 }
 ,
 {
@@ -2073,20 +2073,6 @@
 }
 ,
 {
-   "Name":"东方绯想天",
-   "Version":"1",
-   "Filename":"com.scarletweatherrhapsody.deepin_1_amd64.deb",
-   "Pkgname":"com.scarletweatherrhapsody.deepin",
-   "Author":"zun",
-   "Contributor":"cht",
-   "Website":"https://thwiki.cc/",
-   "Update":"2020-06-24 20:12",
-   "Size":"274.5MB",
-   "More":"天子把灵梦房子弄塌了被报复"
-}
-
-,
-{
     "Name": "光晕",
     "Version": "1.0spark0",
     "Filename": "com.halo.spark_1.0spark0_amd64.deb",
@@ -2102,6 +2088,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/27/f9b548560a4640838c2466b8cf1775d1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/27/61585a964bf94c17845060915c0a8d97.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/27/0642d0886efd452ea287855d7e6dbfc2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/27/bbd3519dd2fa47ec9c5ae12dced419e7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/27/8838e4f063c2490e80c6bb65ae765486.png"
 }
+,
+{
+   "Name":"东方绯想天",
+   "Version":"1",
+   "Filename":"com.scarletweatherrhapsody.deepin_1_amd64.deb",
+   "Pkgname":"com.scarletweatherrhapsody.deepin",
+   "Author":"zun",
+   "Contributor":"cht",
+   "Website":"https://thwiki.cc/",
+   "Update":"2020-06-24 20:12",
+   "Size":"274.5MB",
+   "More":"天子把灵梦房子弄塌了被报复"
+}
+
 ,
 {
     "Name": "时光之刃",
@@ -4447,6 +4447,23 @@
 }
 ,
 {
+    "Name": "中国象棋",
+    "Version": "1.82",
+    "Filename": "com.cnvcs.xiangqi_1.82_all.deb",
+    "Torrent_address": "com.cnvcs.xiangqi_1.82_all.deb.torrent",
+    "Pkgname": "com.cnvcs.xiangqi",
+    "Author": ".cnvcs.com",
+    "Contributor": "tasuo",
+    "Website": "https://www.cnvcs.com",
+    "Update": "2024-06-06 18:14:34",
+    "Size": "16.07 MB",
+    "More": "人机对战，人人对战",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/06/7b51bb70-23ed-11ef-8345-5fe9ad82e4e9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/06/586c7960-23ed-11ef-8345-5fe9ad82e4e9.png"
+}
+,
+{
     "Name": "带他们回家",
     "Version": "1.0spark0",
     "Filename": "com.bringthemhome.spark_1.0spark0_amd64.deb",
@@ -4514,23 +4531,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.sr-cloud/screen_1.png\"]"
 }
 
-,
-{
-    "Name": "中国象棋",
-    "Version": "1.82",
-    "Filename": "com.cnvcs.xiangqi_1.82_all.deb",
-    "Torrent_address": "com.cnvcs.xiangqi_1.82_all.deb.torrent",
-    "Pkgname": "com.cnvcs.xiangqi",
-    "Author": ".cnvcs.com",
-    "Contributor": "tasuo",
-    "Website": "https://www.cnvcs.com",
-    "Update": "2024-06-06 18:14:34",
-    "Size": "16.07 MB",
-    "More": "人机对战，人人对战",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/06/7b51bb70-23ed-11ef-8345-5fe9ad82e4e9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/06/586c7960-23ed-11ef-8345-5fe9ad82e4e9.png"
-}
 ,
 {
     "Name": "五子棋大师",

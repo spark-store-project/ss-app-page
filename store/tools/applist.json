@@ -68,22 +68,21 @@
 }
 ,
 {
+    "Name": "星火应用商店",
+    "Version": "4.2.13",
+    "Filename": "spark-store_4.2.13_amd64.deb",
+    "Torrent_address": "spark-store_4.2.13_amd64.deb.torrent",
+    "Pkgname": "spark-store",
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "spark-store_4.2.12_amd64.deb",
-    "More": "  * 修复：飞腾部分设备上白屏的问题\n  * 修复：下载开始时长时等待（降低链接超时时长）\n  * 修复：spark-dstore-patch运行时报错",
-    "Name": "星火应用商店",
-    "Pkgname": "spark-store",
-    "Size": "711 Kb",
-    "Tags": "community;deepin;uos;ubuntu;dtk5",
-    "Torrent_address": "spark-store_4.2.12_amd64.deb.torrent",
-    "Update": "2024-04-27 19:22:25",
-    "Version": "4.2.12",
     "Website": "https://www.spark-app.store/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-store/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store/screen_4.png\"]"
+    "Update": "2024-06-23 16:31:28",
+    "Size": "694.87 KB",
+    "More": "* 未经测试文案修改\n* 龙芯平台并入主线\n* 修复：更新过程中中断无法再次启动更新检查",
+    "Tags": "community;ubuntu;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/a5b4ff2219364279bd8d84afea0c5d8d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/d265af219130485d9508567192f090e3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/647f8c143b6749b59063dc168295abd3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/58e8289cbeda4bc5aa8e896e4efb046a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/23/f82e0fa4c68d432987bf9f52db97ba15.png"
 }
-
 ,
 {
     "Name": "Todesk 远程控制",
@@ -1560,19 +1559,19 @@
 ,
 {
     "Name": "CopyQ",
-    "Version": "8.0.0-1",
-    "Filename": "copyq_8.0.0-1_amd64.deb",
-    "Torrent_address": "copyq_8.0.0-1_amd64.deb.torrent",
+    "Version": "9.0.0-1",
+    "Filename": "copyq_9.0.0-1_amd64.deb",
+    "Torrent_address": "copyq_9.0.0-1_amd64.deb.torrent",
     "Pkgname": "copyq",
     "Author": "Lukas Holecek",
     "Contributor": "sgb76",
     "Website": "https://hluk.github.io/CopyQ/",
-    "Update": "2024-03-17 19:35:15",
-    "Size": "1.85 MB",
+    "Update": "2024-06-23 14:49:11",
+    "Size": "1.86 MB",
     "More": "CopyQ 是具有编辑和脚本功能的高级剪贴板管理器。",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/17/9003c4e009a947ada67d55ba3925bf69.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/17/7b1a79d884b54f20b23412fac154e6c9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/17/1c329a358ac8444aa69d20182895a3ce.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/e42f4138860d4cd28ca5ca7b450170be.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/15be502006994a539a93e6288fb0b803.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/23/ab414cc6119846928ae9c9dfa2dcd6fb.png"
 }
 ,
 {
@@ -1796,23 +1795,6 @@
 }
 ,
 {
-    "Name": "ES文件管理器",
-    "Version": "4.4.1.1",
-    "Filename": "uengine-dc-com.estrongs.android.pop_4.4.1.1_all.deb",
-    "Torrent_address": "uengine-dc-com.estrongs.android.pop_4.4.1.1_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.estrongs.android.pop",
-    "Author": "ES File Explorer",
-    "Contributor": "於泓锦 <2126791993@qq.com>",
-    "Website": "http://www.estrongs.com/",
-    "Update": "2023-09-29 20:48:57",
-    "Size": "38.9 MB",
-    "More": "填补UEngine这部分的空缺",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/44f62f2b63894098a68cfa496f05e3d0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/29/2c1f205a4d16446bb7f3eaccbe600006.png"
-}
-,
-{
     "Name": "UOS AI",
     "Version": "1.2.9-1",
     "Filename": "uos-ai_1.2.9-1_amd64.deb",
@@ -1827,6 +1809,23 @@
     "Tags": "deepin;uos;dtk5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/a0cc1d1ffb5946edac5e1b3cb6b8ce26.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/c8ffe685560b49d8a9c57f6cb3624365.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/53c3dbceaf7246baa8addd13454ad699.png"
+}
+,
+{
+    "Name": "ES文件管理器",
+    "Version": "4.4.1.1",
+    "Filename": "uengine-dc-com.estrongs.android.pop_4.4.1.1_all.deb",
+    "Torrent_address": "uengine-dc-com.estrongs.android.pop_4.4.1.1_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.estrongs.android.pop",
+    "Author": "ES File Explorer",
+    "Contributor": "於泓锦 <2126791993@qq.com>",
+    "Website": "http://www.estrongs.com/",
+    "Update": "2023-09-29 20:48:57",
+    "Size": "38.9 MB",
+    "More": "填补UEngine这部分的空缺",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/44f62f2b63894098a68cfa496f05e3d0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/29/2c1f205a4d16446bb7f3eaccbe600006.png"
 }
 ,
 {
@@ -4331,6 +4330,23 @@
 }
 ,
 {
+    "Name": "GtkHash-哈希计算工具",
+    "Version": "1.5-1",
+    "Filename": "gtkhash_1.5-1_amd64.deb",
+    "Torrent_address": "gtkhash_1.5-1_amd64.deb.torrent",
+    "Pkgname": "gtkhash",
+    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+    "Contributor": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+    "Website": "https://gtkhash.org",
+    "Update": "2024-05-04 14:05:47",
+    "Size": "113.28 KB",
+    "More": "GtkHash是一个用于计算消息校验和的桌面实用程序。支持大多数著名的哈希函数，包括MD5，SHA1，SHA 2（SHA 256/SHA 512）、SHA 3和BLAKE 2。版本为1.5-1，在deepin23测试通过。在deepin20.9会报缺少依赖。",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/3c0466ee8c894032932cf06b323aa9ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/b99da6009db640cdadd419b107f2627e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/fc0ed7cb39204a06b0ba8398ea2783a9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/04/d6506139cb2245688bd6f60bb7aacdbf.png"
+}
+,
+{
     "Name": "FileGee",
     "Version": "11.7.4spark0",
     "Filename": "com.filegee.spark_11.7.4spark0_all.deb",
@@ -4379,23 +4395,6 @@
     "Tags": "deepin;ubuntu;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/23/f395aca0-0a99-11ed-824e-19b8571d7abe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/23/fc4fddc0-0a99-11ed-824e-19b8571d7abe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/23/0567bf40-0a9a-11ed-824e-19b8571d7abe.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/07/23/e6673170-0a99-11ed-824e-19b8571d7abe.png"
-}
-,
-{
-    "Name": "GtkHash-哈希计算工具",
-    "Version": "1.5-1",
-    "Filename": "gtkhash_1.5-1_amd64.deb",
-    "Torrent_address": "gtkhash_1.5-1_amd64.deb.torrent",
-    "Pkgname": "gtkhash",
-    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-    "Contributor": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-    "Website": "https://gtkhash.org",
-    "Update": "2024-05-04 14:05:47",
-    "Size": "113.28 KB",
-    "More": "GtkHash是一个用于计算消息校验和的桌面实用程序。支持大多数著名的哈希函数，包括MD5，SHA1，SHA 2（SHA 256/SHA 512）、SHA 3和BLAKE 2。版本为1.5-1，在deepin23测试通过。在deepin20.9会报缺少依赖。",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/3c0466ee8c894032932cf06b323aa9ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/b99da6009db640cdadd419b107f2627e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/fc0ed7cb39204a06b0ba8398ea2783a9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/04/d6506139cb2245688bd6f60bb7aacdbf.png"
 }
 ,
 {
@@ -4519,19 +4518,19 @@
 ,
 {
     "Name": "简传",
-    "Version": "1.1.1",
-    "Filename": "easy-send_1.1.1_amd64.deb",
-    "Torrent_address": "easy-send_1.1.1_amd64.deb.torrent",
+    "Version": "1.1.2",
+    "Filename": "easy-send_1.1.2_amd64.deb",
+    "Torrent_address": "easy-send_1.1.2_amd64.deb.torrent",
     "Pkgname": "easy-send",
     "Author": "bitporo <bitporo@qq.com>",
     "Contributor": "bitporo",
     "Website": "https://easysend.channer.cn",
-    "Update": "2024-06-23 09:55:40",
-    "Size": "64.78 MB",
+    "Update": "2024-06-23 12:24:53",
+    "Size": "66.89 MB",
     "More": "便捷的局域网共享文本文件小工具，简捷使用，传送方便，仅需一台设备启动，其余设备使用浏览器访问即可使用",
     "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/27971f77741e466ebec72d9740cc1407.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/28ed4625586c40e48470180292f38da1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/23/15f983a103e84573932c82df284c4efd.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/d70e380b2e904831af1d41e5e441f550.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/13677c1b9890469ab641d0ac3132bea9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/23/fa262ab016884c56adfbc9b0154829b6.png"
 }
 ,
 {

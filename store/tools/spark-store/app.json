@@ -1,16 +1,16 @@
 {
+    "Name": "星火应用商店",
+    "Version": "4.2.13",
+    "Filename": "spark-store_4.2.13_amd64.deb",
+    "Torrent_address": "spark-store_4.2.13_amd64.deb.torrent",
+    "Pkgname": "spark-store",
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "spark-store_4.2.12_amd64.deb",
-    "More": "  * 修复：飞腾部分设备上白屏的问题\n  * 修复：下载开始时长时等待（降低链接超时时长）\n  * 修复：spark-dstore-patch运行时报错",
-    "Name": "星火应用商店",
-    "Pkgname": "spark-store",
-    "Size": "711 Kb",
-    "Tags": "community;deepin;uos;ubuntu;dtk5",
-    "Torrent_address": "spark-store_4.2.12_amd64.deb.torrent",
-    "Update": "2024-04-27 19:22:25",
-    "Version": "4.2.12",
     "Website": "https://www.spark-app.store/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-store/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store/screen_4.png\"]"
+    "Update": "2024-06-23 16:31:28",
+    "Size": "694.87 KB",
+    "More": "* 未经测试文案修改\n* 龙芯平台并入主线\n* 修复：更新过程中中断无法再次启动更新检查",
+    "Tags": "community;ubuntu;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/a5b4ff2219364279bd8d84afea0c5d8d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/d265af219130485d9508567192f090e3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/647f8c143b6749b59063dc168295abd3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/58e8289cbeda4bc5aa8e896e4efb046a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/23/f82e0fa4c68d432987bf9f52db97ba15.png"
 }

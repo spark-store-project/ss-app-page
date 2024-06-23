@@ -1551,6 +1551,22 @@
 }
 ,
 {
+    "Name": "通达信海通证券版（wine）",
+    "Version": "1.0.0.0deepin5",
+    "Filename": "com.tdxw.deepin_1.0.0.0deepin5_i386.deb",
+    "Pkgname": "com.tdxw.deepin",
+    "Author": "ericneon",
+    "Contributor": "ericneon",
+    "Website": "github.com/ericneon",
+    "Update": "2021-05-26 20:20:20",
+    "Size": "226.78 MB",
+    "More": "通达信的海通证券专用版",
+    "Tags": "deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/78ced4a0-be1a-11eb-93b7-1fb62ee74886.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/7b3dd8d0-be1a-11eb-93b7-1fb62ee74886.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/26/c48bc1e0-be1b-11eb-93b7-1fb62ee74886.png"
+}
+,
+{
     "Name": "千牛 (Wine)",
     "Version": "9",
     "Filename": "spark-alqn-wine_9_all.deb",
@@ -1582,22 +1598,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/03/4e5967d9-48bd-4317-afd9-ebdb7309345a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/03/c0323063-0d9f-4367-9beb-ee87f4e0539a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/03/298dd756-d2a9-4cbf-bc5e-0cd0eae32723.png"
-}
-,
-{
-    "Name": "通达信海通证券版（wine）",
-    "Version": "1.0.0.0deepin5",
-    "Filename": "com.tdxw.deepin_1.0.0.0deepin5_i386.deb",
-    "Pkgname": "com.tdxw.deepin",
-    "Author": "ericneon",
-    "Contributor": "ericneon",
-    "Website": "github.com/ericneon",
-    "Update": "2021-05-26 20:20:20",
-    "Size": "226.78 MB",
-    "More": "通达信的海通证券专用版",
-    "Tags": "deepin;ubuntu;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/78ced4a0-be1a-11eb-93b7-1fb62ee74886.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/7b3dd8d0-be1a-11eb-93b7-1fb62ee74886.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/26/c48bc1e0-be1b-11eb-93b7-1fb62ee74886.png"
 }
 ,
 {
@@ -2604,6 +2604,23 @@
 }
 ,
 {
+    "Name": "WPS Office 365",
+    "Version": "12.8.2.16969.AK.preload.sw",
+    "Filename": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb",
+    "Torrent_address": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb.torrent",
+    "Pkgname": "wps-office-365",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://wps-community.org",
+    "Update": "2024-06-16 10:13:44",
+    "Size": "722.16 MB",
+    "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/819a4c6aea004b1bb9059da5c1511085.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6bd9ad01e587436fb9ca5e74ef078921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/76097ef94d21409091dbcada9fcefe7c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/2dffce17cb754c4a8407d85de5511bc2.png"
+}
+,
+{
     "Name": "搜狗输入法UOS版语言数据包",
     "Version": "1.0.0",
     "Filename": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb",
@@ -2870,23 +2887,6 @@
     "Tags": "uos;deepin;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/3644bf40-6556-11eb-b616-d112ab578751.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/45977a00-6556-11eb-b616-d112ab578751.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/02/b46263d0-6553-11eb-b616-d112ab578751.png"
-}
-,
-{
-    "Name": "WPS Office 365",
-    "Version": "12.8.2.16969.AK.preload.sw",
-    "Filename": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb",
-    "Torrent_address": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb.torrent",
-    "Pkgname": "wps-office-365",
-    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://wps-community.org",
-    "Update": "2024-06-16 10:13:44",
-    "Size": "722.16 MB",
-    "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/819a4c6aea004b1bb9059da5c1511085.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6bd9ad01e587436fb9ca5e74ef078921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/76097ef94d21409091dbcada9fcefe7c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/2dffce17cb754c4a8407d85de5511bc2.png"
 }
 ,
 {
@@ -3259,6 +3259,22 @@
 }
 ,
 {
+    "Name": "迷你日记",
+    "Version": "3.3.0spark0",
+    "Filename": "app.minidiary.spark_3.3.0spark0_amd64.deb",
+    "Pkgname": "app.minidiary.spark",
+    "Author": "Samuel Meuli",
+    "Contributor": "sgb76",
+    "Website": "https://minidiary.app/",
+    "Update": "2021-11-27 18:38:26",
+    "Size": "50.7 MB",
+    "More": "一款简单、安全的日记应用",
+    "Tags": "ubuntu;deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/27/e6476170-4f6d-11ec-ac04-2db8efe61b81.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/27/e9946990-4f6d-11ec-ac04-2db8efe61b81.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/27/ed152be0-4f6d-11ec-ac04-2db8efe61b81.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/11/27/e1f96410-4f6d-11ec-ac04-2db8efe61b81.png"
+}
+,
+{
     "Name": "QOwnNotes",
     "Version": "23.4.3-1",
     "Filename": "qownnotes_23.4.3-1_amd64.deb",
@@ -3401,22 +3417,6 @@
     "Tags": "deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/14/1ba154c0-bb48-11ec-a1d6-cfcf523501e6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/14/22432d30-bb48-11ec-a1d6-cfcf523501e6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/14/2cf95560-bb48-11ec-a1d6-cfcf523501e6.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/14/13568740-bb48-11ec-a1d6-cfcf523501e6.png"
-}
-,
-{
-    "Name": "迷你日记",
-    "Version": "3.3.0spark0",
-    "Filename": "app.minidiary.spark_3.3.0spark0_amd64.deb",
-    "Pkgname": "app.minidiary.spark",
-    "Author": "Samuel Meuli",
-    "Contributor": "sgb76",
-    "Website": "https://minidiary.app/",
-    "Update": "2021-11-27 18:38:26",
-    "Size": "50.7 MB",
-    "More": "一款简单、安全的日记应用",
-    "Tags": "ubuntu;deepin;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/27/e6476170-4f6d-11ec-ac04-2db8efe61b81.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/27/e9946990-4f6d-11ec-ac04-2db8efe61b81.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/27/ed152be0-4f6d-11ec-ac04-2db8efe61b81.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/11/27/e1f96410-4f6d-11ec-ac04-2db8efe61b81.png"
 }
 ,
 {
@@ -4864,6 +4864,23 @@
 }
 ,
 {
+    "Name": "维克日记",
+    "Version": "0.4.1",
+    "Filename": "vic-diary_0.4.1_amd64.deb",
+    "Torrent_address": "vic-diary_0.4.1_amd64.deb.torrent",
+    "Pkgname": "vic-diary",
+    "Author": "stevobm",
+    "Contributor": "sgb76",
+    "Website": "https://github.com/vo-soft/vic-diary",
+    "Update": "2024-06-19 15:55:02",
+    "Size": "65.48 MB",
+    "More": "一款支持Markdown语法的跨平台日记",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/81cfb452e0104067867ff065b43ddf5a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/0b13bbc697d14af18e068e109c08ca65.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/cc2d34f22b8542daab8372efb650344d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/19/23e33d0623634ad587412e35cc6da30a.png"
+}
+,
+{
     "Name": "好分数家长版（UEngine）",
     "Version": "3.31.95",
     "Filename": "uengine-dc-com.yunxiao.hfs4p_3.31.95_all.deb",
@@ -5076,23 +5093,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/07/97e50550-276d-11ec-a908-d7b2efc621ed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/07/9bb74300-276d-11ec-a908-d7b2efc621ed.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/07/8142f410-276d-11ec-a908-d7b2efc621ed.png"
-}
-,
-{
-    "Name": "维克日记",
-    "Version": "0.4.1",
-    "Filename": "vic-diary_0.4.1_amd64.deb",
-    "Torrent_address": "vic-diary_0.4.1_amd64.deb.torrent",
-    "Pkgname": "vic-diary",
-    "Author": "stevobm",
-    "Contributor": "sgb76",
-    "Website": "https://github.com/vo-soft/vic-diary",
-    "Update": "2024-06-19 15:55:02",
-    "Size": "65.48 MB",
-    "More": "一款支持Markdown语法的跨平台日记",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/81cfb452e0104067867ff065b43ddf5a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/0b13bbc697d14af18e068e109c08ca65.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/cc2d34f22b8542daab8372efb650344d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/19/23e33d0623634ad587412e35cc6da30a.png"
 }
 ,
 {

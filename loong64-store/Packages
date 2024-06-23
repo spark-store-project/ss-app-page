@@ -2390,6 +2390,25 @@ Homepage: https://www.spark-app.store/
 Description: Spark Store
  A community powered app store, based on DTK.
 
+Package: spark-store
+Architecture: loong64
+Version: 4.2.14
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 1377
+Provides: spark-store-console-in-container
+Depends: libc6 (>= 2.38), libdtk6core (>= 6.0), libdtk6gui (>= 6.0), libdtk6widget (>= 6.0), libgcc-s1 (>= 3.0), libglx0, libopengl0, libqt6concurrent6 (>= 6.1.2), libqt6core6 (>= 6.6.1), libqt6dbus6 (>= 6.3.0), libqt6gui6 (>= 6.4.0), libqt6network6 (>= 6.1.2), libqt6opengl6 (>= 6.1.2), libqt6positioning6 (>= 6.6.0), libqt6printsupport6 (>= 6.1.2), libqt6qml6, libqt6qmlmodels6, libqt6quick6, libqt6svg6 (>= 6.6.0), libqt6webchannel6 (>= 6.6.0), libqt6webenginecore6 (>= 6.6.0), libqt6webenginecore6-bin (>= 6.6.0), libqt6webenginewidgets6 (>= 6.6.0), libqt6widgets6 (>= 6.1.2), libqt6xml6 (>= 6.1.2), libstdc++6 (>= 11), dde-qt6integration, curl, openssl, aria2, gnupg, zenity, libnotify-bin, desktop-file-utils, dpkg-dev
+Filename: tools/spark-store/spark-store_4.2.14_loong64.deb
+Size: 705404
+MD5sum: 51dc088232cd27e41cab9a61f608b0f0
+SHA1: 9e1997f890789c56fe2e2bc860326f40fd67dcfb
+SHA256: 0016868b06d2e1fdd6b421a367d4ffbd1bea805d90fa685459f226cb4aeb2055
+SHA512: 65d9f15403a600df02532bb0067280a5ef00fd1909a7e86b62ebb2c5c416b787b04a9293494002dc63c6df3119e16a6492f80bec864ee344d1d9b49815d0e8d8
+Homepage: https://www.spark-app.store/
+Description: Spark Store
+ A community powered app store, based on DTK.
+
 Package: cn.flamescion.bookworm-compatibility-mode
 Architecture: loong64
 Version: 12.4.14

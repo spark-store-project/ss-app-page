@@ -1339,6 +1339,23 @@
 }
 ,
 {
+    "Name": "编程猫源码编辑器",
+    "Version": "3.7.14",
+    "Filename": "cn.codemao.kitten3_3.7.14_amd64.deb",
+    "Torrent_address": "cn.codemao.kitten3_3.7.14_amd64.deb.torrent",
+    "Pkgname": "cn.codemao.kitten3",
+    "Author": "编程猫 <crc@codemao.cn>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://codemao.cn",
+    "Update": "2023-01-01 18:48:08",
+    "Size": "123.71 MB",
+    "More": "支持离线编辑代码，让创作更简单。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/77aad368736846d5a4a334c995be5b63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/80225203a30647ab932d8dabcce41c93.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/6c8eab3343b9471e909518c8f34134f8.png"
+}
+,
+{
     "Name": "CuteCom",
     "Version": "0.51.0",
     "Filename": "cutecom_0.51.0_amd64.deb",
@@ -1386,23 +1403,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/880688a2a89b429ea32a6166427fe18a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/18f691a9920a4f8889a53c43a384a8a8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/05/75ecfa627abc46d19a87e679301b7127.png"
-}
-,
-{
-    "Name": "编程猫源码编辑器",
-    "Version": "3.7.14",
-    "Filename": "cn.codemao.kitten3_3.7.14_amd64.deb",
-    "Torrent_address": "cn.codemao.kitten3_3.7.14_amd64.deb.torrent",
-    "Pkgname": "cn.codemao.kitten3",
-    "Author": "编程猫 <crc@codemao.cn>",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://codemao.cn",
-    "Update": "2023-01-01 18:48:08",
-    "Size": "123.71 MB",
-    "More": "支持离线编辑代码，让创作更简单。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/77aad368736846d5a4a334c995be5b63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/80225203a30647ab932d8dabcce41c93.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/6c8eab3343b9471e909518c8f34134f8.png"
 }
 ,
 {
@@ -2126,6 +2126,23 @@
 }
 ,
 {
+    "Name": "Liberica JDK 21 Full",
+    "Version": "21.0.3+10",
+    "Filename": "bellsoft-java21-full_21.0.3_plus10_amd64.deb",
+    "Torrent_address": "bellsoft-java21-full_21.0.3_plus10_amd64.deb.torrent",
+    "Pkgname": "bellsoft-java21-full",
+    "Author": "BellSoft <info@bell-sw.com>",
+    "Contributor": "ThinkYoung",
+    "Website": "https://bell-sw.com/pages/libericajdk/",
+    "Update": "2024-05-09 11:09:43",
+    "Size": "281.55 MB",
+    "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/b0baff509e8f476285b670841a2d2e18.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/fe4c5ef81af045ffb930cbe83f1b26f4.png"
+}
+,
+{
     "Name": "Scene Builder",
     "Version": "19.0.0",
     "Filename": "scenebuilder_19.0.0_amd64.deb",
@@ -2177,23 +2194,6 @@
 }
 ,
 {
-    "Name": "Liberica JDK 21 Full",
-    "Version": "21.0.3+10",
-    "Filename": "bellsoft-java21-full_21.0.3_plus10_amd64.deb",
-    "Torrent_address": "bellsoft-java21-full_21.0.3_plus10_amd64.deb.torrent",
-    "Pkgname": "bellsoft-java21-full",
-    "Author": "BellSoft <info@bell-sw.com>",
-    "Contributor": "ThinkYoung",
-    "Website": "https://bell-sw.com/pages/libericajdk/",
-    "Update": "2024-05-09 11:09:43",
-    "Size": "281.55 MB",
-    "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/b0baff509e8f476285b670841a2d2e18.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/fe4c5ef81af045ffb930cbe83f1b26f4.png"
-}
-,
-{
     "Name": "简单的 QSS 样式编辑器",
     "Version": "0.0.1-20230507",
     "Filename": "qss-designer-panel_0.0.1-20230507_amd64.deb",
@@ -2208,6 +2208,23 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/07/a5c796f00aa64ecca7ddbcc33e655d3d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/07/d4335a31253848c4a9883bab5f65f48b.png"
+}
+,
+{
+    "Name": "华为云 obsutil",
+    "Version": "5.4.11~spark1",
+    "Filename": "huawei-cloud-obsutil_5.4.11~spark1_amd64.deb",
+    "Torrent_address": "huawei-cloud-obsutil_5.4.11~spark1_amd64.deb.torrent",
+    "Pkgname": "huawei-cloud-obsutil",
+    "Author": "华为云",
+    "Contributor": "Donald Sebastian Leung",
+    "Website": "https://support.huaweicloud.com/intl/en-us/utiltg-obs/obs_11_0001.html",
+    "Update": "2023-01-15 15:04:06",
+    "Size": "2.65 MB",
+    "More": "obsutil是一款用于访问管理华为云对象存储服务（Object Storage Service，OBS）的命令行工具，您可以使用该工具对OBS进行常用的配置管理操作，如创建桶、上传文件/文件夹、下载文件/文件夹、删除文件/文件夹等。对于熟悉命令行程序的用户，obsutil是执行批量处理、自动化任务的好的选择。\n\n声明：本软件包并非由华为云官方提供或支持，如有问题请发邮件到 donaldsebleung@qq.com 或于 https://gitee.com/donaldsebleung/huawei-cloud-obsutil-spark-store 建工单。",
+    "Tags": "deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/c8a06100-94a2-11ed-8ba3-ed09025bf416.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/c8b45e30-94a2-11ed-8ba3-ed09025bf416.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/15/c606a350-94a2-11ed-8ba3-ed09025bf416.png"
 }
 ,
 {
@@ -2274,23 +2291,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/02/b6a8af40-f37a-11eb-ae9d-738b787f68e8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/02/ad833930-f37a-11eb-ae9d-738b787f68e8.png"
-}
-,
-{
-    "Name": "华为云 obsutil",
-    "Version": "5.4.11~spark1",
-    "Filename": "huawei-cloud-obsutil_5.4.11~spark1_amd64.deb",
-    "Torrent_address": "huawei-cloud-obsutil_5.4.11~spark1_amd64.deb.torrent",
-    "Pkgname": "huawei-cloud-obsutil",
-    "Author": "华为云",
-    "Contributor": "Donald Sebastian Leung",
-    "Website": "https://support.huaweicloud.com/intl/en-us/utiltg-obs/obs_11_0001.html",
-    "Update": "2023-01-15 15:04:06",
-    "Size": "2.65 MB",
-    "More": "obsutil是一款用于访问管理华为云对象存储服务（Object Storage Service，OBS）的命令行工具，您可以使用该工具对OBS进行常用的配置管理操作，如创建桶、上传文件/文件夹、下载文件/文件夹、删除文件/文件夹等。对于熟悉命令行程序的用户，obsutil是执行批量处理、自动化任务的好的选择。\n\n声明：本软件包并非由华为云官方提供或支持，如有问题请发邮件到 donaldsebleung@qq.com 或于 https://gitee.com/donaldsebleung/huawei-cloud-obsutil-spark-store 建工单。",
-    "Tags": "deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/c8a06100-94a2-11ed-8ba3-ed09025bf416.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/c8b45e30-94a2-11ed-8ba3-ed09025bf416.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/15/c606a350-94a2-11ed-8ba3-ed09025bf416.png"
 }
 ,
 {

@@ -3397,6 +3397,27 @@ Description: 安兔兔评测 for linux 安兔兔评测（AnTuTu）是一款跨�
 
 Package: easy-send
 Architecture: amd64
+Version: 1.1.2
+Priority: optional
+Section: default
+Maintainer: bitporo <bitporo@qq.com>
+Installed-Size: 243838
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: tools/easy-send/easy-send_1.1.2_amd64.deb
+Size: 70138992
+MD5sum: 74081b9201467ef061e508517111ba0a
+SHA1: d7b0fad0e8c1894a42f0af4d980fd3deea60e6e6
+SHA256: 4e3378149961dfc38e78a9802c79c3b3da85c51ee3b60dd01abfeb7ceb32ecf3
+SHA512: 948bf6ba86e716d32fa8da77912a6d6582929a5121b10371ed2dd26cd187bcb96d7c2dcf1ee5bb8466dbf0f72d1c7d879f7e75d952c9cf218ab0bf28f853e5fe
+Homepage: https://easysend.channer.cn
+Description: 
+  A simple share text and file program
+License: GPL-2.0-only
+Vendor: bitporo <bitporo@qq.com>
+
+Package: easy-send
+Architecture: amd64
 Version: 1.1.1
 Priority: optional
 Section: default
@@ -5001,6 +5022,25 @@ SHA512: 25e0c385e9f4cfdf11d77b410e14878c22eea4bdfe4ca1970eec5fd71290ff1ab2cf30a8
 Homepage: http://www.deepin.org
 Description: system upgrade tool deepin system upgrade tool in Linux
 
+Package: spark-store
+Architecture: amd64
+Version: 4.2.13
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 1336
+Provides: spark-store-console-in-container
+Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.4), libdtkgui5 (>= 5.4), libdtkwidget5 (>= 5.4), libgcc1 (>= 1:3.0), libgl1, libqt5concurrent5 (>= 5.0.2), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.5.0), libqt5gui5 (>= 5.10.0), libqt5network5 (>= 5.0.2), libqt5positioning5 (>= 5.6.0), libqt5printsupport5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5webchannel5 (>= 5.6.1), libqt5webenginecore5 (>= 5.7.1), libqt5webenginewidgets5 (>= 5.7.1), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 5.2), qtwayland5, curl, openssl, dde-qt5integration, aria2, gnupg, zenity, policykit-1, libnotify-bin, desktop-file-utils, dpkg-dev
+Filename: tools/spark-store/spark-store_4.2.13_amd64.deb
+Size: 711544
+MD5sum: e063df04691237970371523b922bef83
+SHA1: e7f0b8fe27750d8482c4abdf159c6e4097b42f35
+SHA256: 85f9e85e9e7aba870e0e3a9aea6d5527befd2f2bb67807fc3a15b524b1fdd331
+SHA512: 85128e3c48a800590fff2656de07ed1b26b7843d606f0614477a668aa53fe733eb88985fd0be131a37ca233486379abb2c2e098619c431ed47f4f46b7b7b3591
+Homepage: https://www.spark-app.store/
+Description: Spark Store
+ A community powered app store, based on DTK.
+
 Package: spark-store-dtk2
 Architecture: amd64
 Version: 1.0-beta5.2+sm1
@@ -6058,6 +6098,47 @@ MD5sum: bf983fc5a6b9ca64293a963600d3db81
 SHA1: d6762395cd59aaa9cb4ec16e39efff1f4618c7ba
 SHA256: 3283b987c900596c5e68a8236ef4548f8a150187fd298f83fcc3225268999d2c
 SHA512: 79751278ada51f6b5618de358ee24794bcfbc104fc46ff22d778cfc57e9c3fce027ca1ce777d62724e5b3026d58d442a3b82c497b394df4f0e9b1bd9d37e46c0
+Homepage: https://hluk.github.io/CopyQ/
+Description: Advanced clipboard manager with editing and scripting features
+ CopyQ monitors system clipboard and saves its content in customized tabs.
+ Saved clipboard can be later copied and pasted directly into any application.
+ .
+ Items can be:
+  * edited with internal editor or with preferred text editor,
+  * moved to other tabs,
+  * drag'n'dropped to applications,
+  * marked with tag or a note,
+  * passed to or changed by custom commands,
+  * or simply removed.
+ .
+ Features:
+  * Support for Linux, Windows and OS X 10.9+
+  * Store text, HTML, images or any other custom formats
+  * Quickly browse and filter items in clipboard history
+  * Sort, create, edit, remove, copy/paste, drag'n'drop items in tabs
+  * Add notes or tags to items
+  * System-wide shortcuts with customizable commands
+  * Paste items with shortcut or from tray or main window
+  * Fully customizable appearance
+  * Advanced command-line interface and scripting
+  * Ignore clipboard copied from some windows or containing some text
+  * Support for simple Vim-like editor and shortcuts
+  * Many more features
+
+Package: copyq
+Architecture: amd64
+Version: 9.0.0-1
+Priority: optional
+Section: utils
+Maintainer: Lukas Holecek <hluk@email.cz>
+Installed-Size: 8247
+Depends: libqt5svg5 (>= 5.6.0~beta), libc6 (>= 2.14), libgcc1 (>= 1:3.0), libkf5notifications5 (>= 5.3.0+git20141030.0311), libqt5core5a (>= 5.11.0~rc1), libqt5gui5 (>= 5.11.0~rc1), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.9.0~beta), libqt5waylandclient5 (>= 5.10.1), libqt5widgets5 (>= 5.11.0~rc1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5), libwayland-client0 (>= 1.9.91), libx11-6, libxtst6
+Filename: tools/copyq/copyq_9.0.0-1_amd64.deb
+Size: 1954560
+MD5sum: 60b24858bf5f22d345f9dd98233f860f
+SHA1: 5687d8b871a74a4a446412a44f0a85f53e072fcc
+SHA256: bdaa12d79e455d56a4eee50efd33a33899e4e93d8ae32d6d01dba19d60b60169
+SHA512: f240ab490f8812177fde7a7fa1b9ac16fc2f7aa042b4fb04f48bfef12f9d6553c2545ab573c6c14b4d28cf4a3391effc38b498cd3d8e2bba0bc73d5b57197b22
 Homepage: https://hluk.github.io/CopyQ/
 Description: Advanced clipboard manager with editing and scripting features
  CopyQ monitors system clipboard and saves its content in customized tabs.
