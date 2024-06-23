@@ -1164,23 +1164,6 @@
 }
 ,
 {
-    "Name": "Microsoft Teams",
-    "Version": "1.5.00.23861",
-    "Filename": "teams_1.5.00.23861_amd64.deb",
-    "Torrent_address": "teams_1.5.00.23861_amd64.deb.torrent",
-    "Pkgname": "teams",
-    "Author": "Microsoft Corporation",
-    "Contributor": "Microsoft Corporation",
-    "Website": "https://www.microsoft.com/zh-cn/microsoft-teams/group-chat-software",
-    "Update": "2022-12-16 23:20:52",
-    "Size": "81.51 MB",
-    "More": "在家里、在办公室里以及在学校里共同创造非凡成就。\nMicrosoft Teams 成就更多可能: 随时保持联系并访问共享内容，协同进行学习、规划和创新。\n自如保持联系: 只需在一个位置即可聊天、通话和分享视频，帮助你与生活中的所有人保持密切联系。\n协同实现大有作为: 共享文档和文件始终可用，您可以随时创建、共享和交换创意，并让事情协同向前发展。\n随时了解最新动态: 当你需要的所有优质应用和功能触手可及时，你就会变得更加专注和高效。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/16/794b9c50f6664bbb8692d6ad61b7b6a5.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/16/7d8baeefcf804cff9dab737a1bdccb02.png"
-}
-,
-{
     "Name": "QQ邮箱(web)",
     "Version": "1.0",
     "Filename": "web-qqmail_1.0_amd64.deb",
@@ -1195,6 +1178,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/2a572d978d8340c397b5b78b1cffb520.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/d52fa7b991cd409fb29b3349c35992bb.png"
+}
+,
+{
+    "Name": "Microsoft Teams",
+    "Version": "1.5.00.23861",
+    "Filename": "teams_1.5.00.23861_amd64.deb",
+    "Torrent_address": "teams_1.5.00.23861_amd64.deb.torrent",
+    "Pkgname": "teams",
+    "Author": "Microsoft Corporation",
+    "Contributor": "Microsoft Corporation",
+    "Website": "https://www.microsoft.com/zh-cn/microsoft-teams/group-chat-software",
+    "Update": "2022-12-16 23:20:52",
+    "Size": "81.51 MB",
+    "More": "在家里、在办公室里以及在学校里共同创造非凡成就。\nMicrosoft Teams 成就更多可能: 随时保持联系并访问共享内容，协同进行学习、规划和创新。\n自如保持联系: 只需在一个位置即可聊天、通话和分享视频，帮助你与生活中的所有人保持密切联系。\n协同实现大有作为: 共享文档和文件始终可用，您可以随时创建、共享和交换创意，并让事情协同向前发展。\n随时了解最新动态: 当你需要的所有优质应用和功能触手可及时，你就会变得更加专注和高效。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/16/794b9c50f6664bbb8692d6ad61b7b6a5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/16/7d8baeefcf804cff9dab737a1bdccb02.png"
 }
 ,
 {
@@ -3538,6 +3538,23 @@
 }
 ,
 {
+    "Name": "希沃白板Web",
+    "Version": "1.14514",
+    "Filename": "wed-seewo_1.14514_all.deb",
+    "Torrent_address": "wed-seewo_1.14514_all.deb.torrent",
+    "Pkgname": "wed-seewo",
+    "Author": "baimacao",
+    "Contributor": "baimacao",
+    "Website": "https://enweb.seewo.com/",
+    "Update": "2024-05-22 17:50:56",
+    "Size": "29.16 KB",
+    "More": "唯一被老师认可的希沃白板，可以正常上课，web应用",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/a0ba4974dee742fcb656146be01cb321.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/49082957d0c64a059f6cadb90be58342.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/b80a658ca0594703ad75bcbd7c0abccb.png"
+}
+,
+{
     "Name": "番茄作家助手",
     "Version": "2.9.0",
     "Filename": "uengine-dc-com.bytedance.writer-assistant-flutter_2.9.0_all.deb",
@@ -3586,23 +3603,6 @@
     "Tags": "uos;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/31/1937f290-b097-11ec-a273-5b4aeeaba9c2.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/31/19516e00-b097-11ec-a273-5b4aeeaba9c2.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/31/196ae970-b097-11ec-a273-5b4aeeaba9c2.jpg\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/31/15b0c7a0-b097-11ec-a273-5b4aeeaba9c2.png"
-}
-,
-{
-    "Name": "希沃白板Web",
-    "Version": "1.14514",
-    "Filename": "wed-seewo_1.14514_all.deb",
-    "Torrent_address": "wed-seewo_1.14514_all.deb.torrent",
-    "Pkgname": "wed-seewo",
-    "Author": "baimacao",
-    "Contributor": "baimacao",
-    "Website": "https://enweb.seewo.com/",
-    "Update": "2024-05-22 17:50:56",
-    "Size": "29.16 KB",
-    "More": "唯一被老师认可的希沃白板，可以正常上课，web应用",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/a0ba4974dee742fcb656146be01cb321.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/49082957d0c64a059f6cadb90be58342.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/b80a658ca0594703ad75bcbd7c0abccb.png"
 }
 ,
 {

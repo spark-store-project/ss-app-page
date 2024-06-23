@@ -487,6 +487,24 @@
 }
 ,
 {
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "cn.com.tdx.spark_7.642_all.deb",
+    "More": "通达信金融终端V7.612，由deepin-wine6运行。（拥有内嵌闪电交易功能，可登录各大券商账号）\n提示：\n（1）登录界面在不同分辨率的电脑上显示可能会错位，但不影响使用；\n（2）字体问题，可下载星火应用商店里的wine字体；\n（3）若你此前在星火应用商店安装过老版本，请自行备份~/.deepinwine/Deepin-TdxSpark/drive_c/new_tdx文件夹下T0001、T0002、vipdoc文件夹，以免个人数据被抹除。",
+    "Name": "通达信金融终端（wine）",
+    "Pkgname": "cn.com.tdx.spark",
+    "Size": "223 Mb",
+    "Tags": "community;deepin",
+    "Torrent_address": "cn.com.tdx.spark_7.642_all.deb.torrent",
+    "Update": "2024-04-24 18:12:51",
+    "Version": "7.642",
+    "Website": "https://www.tdx.com.cn/soft.html",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_5.png\"]"
+}
+
+,
+{
     "Name": "白杉树背单词训练软件",
     "Version": "2.1.1",
     "Filename": "bssenglish_2.1.1_all.deb",
@@ -977,24 +995,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/10/8689e29156c3468b900327e7d2bd6a03.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/10/2d7d2f2488d74a9bba07b073d029b223.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/10/a9cd796643c14640ab9133af9d043acf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/10/90b3f7b5728f4a92a4621df308a7db5f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/10/957a553c05b5477c9b7cac00cc85132e.png"
 }
-,
-{
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "cn.com.tdx.spark_7.642_all.deb",
-    "More": "通达信金融终端V7.612，由deepin-wine6运行。（拥有内嵌闪电交易功能，可登录各大券商账号）\n提示：\n（1）登录界面在不同分辨率的电脑上显示可能会错位，但不影响使用；\n（2）字体问题，可下载星火应用商店里的wine字体；\n（3）若你此前在星火应用商店安装过老版本，请自行备份~/.deepinwine/Deepin-TdxSpark/drive_c/new_tdx文件夹下T0001、T0002、vipdoc文件夹，以免个人数据被抹除。",
-    "Name": "通达信金融终端（wine）",
-    "Pkgname": "cn.com.tdx.spark",
-    "Size": "223 Mb",
-    "Tags": "community;deepin",
-    "Torrent_address": "cn.com.tdx.spark_7.642_all.deb.torrent",
-    "Update": "2024-04-24 18:12:51",
-    "Version": "7.642",
-    "Website": "https://www.tdx.com.cn/soft.html",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_5.png\"]"
-}
-
 ,
 {
     "Name": "中国移动云电脑（wine）",

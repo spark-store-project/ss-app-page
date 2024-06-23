@@ -233,24 +233,6 @@
 
 ,
 {
-    "Author": "Huorong Unix Team <unix-dev@huorong.cn>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "cn.huorong.esm_2.0.7.5_arm64.deb",
-    "More": "涵盖桌面版与服务器版两大版本，均搭载火绒自主研发的反病毒引擎，不仅支持主要Linux系统发行版，且深度兼容主流国产操作系统和CPU。核心功能包含病毒查杀、风险隔离、添加信任、日志记录等。通过连接「火绒终端安全管理系统」的控制中心，满足企业级用户对终端的检测、查杀、管控等需求，如资产登记、多级管理、下发定制策略等。",
-    "Name": "火绒安全",
-    "Pkgname": "cn.huorong.esm",
-    "Size": "31 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "cn.huorong.esm_2.0.7.5_arm64.deb.torrent",
-    "Update": "2024-06-22 19:33:22",
-    "Version": "2.0.7.5",
-    "Website": "https://huorong.cn",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.huorong.esm/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.huorong.esm/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.huorong.esm/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.huorong.esm/screen_3.png\"]"
-}
-
-,
-{
     "Author": "360 BiFang team <BiFang@360.cn>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.qihoo.360safe_1.0.0.1018_arm64.deb",
@@ -265,6 +247,24 @@
     "Website": "http://www.360.cn/",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qihoo.360safe/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qihoo.360safe/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "Huorong Unix Team <unix-dev@huorong.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "cn.huorong.esm_2.0.7.5_arm64.deb",
+    "More": "涵盖桌面版与服务器版两大版本，均搭载火绒自主研发的反病毒引擎，不仅支持主要Linux系统发行版，且深度兼容主流国产操作系统和CPU。核心功能包含病毒查杀、风险隔离、添加信任、日志记录等。通过连接「火绒终端安全管理系统」的控制中心，满足企业级用户对终端的检测、查杀、管控等需求，如资产登记、多级管理、下发定制策略等。",
+    "Name": "火绒安全",
+    "Pkgname": "cn.huorong.esm",
+    "Size": "31 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "cn.huorong.esm_2.0.7.5_arm64.deb.torrent",
+    "Update": "2024-06-22 19:33:22",
+    "Version": "2.0.7.5",
+    "Website": "https://huorong.cn",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.huorong.esm/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.huorong.esm/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.huorong.esm/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.huorong.esm/screen_3.png\"]"
 }
 
 ,
@@ -588,24 +588,6 @@
 
 ,
 {
-    "Author": "Careone <emacslocale@126.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "wps-check_0.3-1_all.deb",
-    "More": "License: MulanPSL2 (Mulan Permissive Software License，Version 2)\n .\n 许可证：MulanPSL2 (木兰宽松许可证, 第2版)\n .\n WPS Office 版本信息检测报告工具。可以自动自动填写当前Linux系统版本号、\n 硬件平台；内核版本；WPS Office 版本号；以及其它相关信息。\n .\n 主要用途：方便用户反馈和上报 WPS Office 异常、缺陷; 缺失的常用中文/英文\n /符号字体，以及其它建议。\n .\n 测试环境:\n  * WPS Office 11.1.0.11664 (2022-6-08 发布)\n  * Debian 11.6 amd64\n .\n SourceForge: https://sourceforge.net/projects/emacslocale/files/wps-check/\n\n用法：\n以普通用户运行命令\nwps-check\n或者 带 -a 参数（可检测并记录 Windows 相关字体信息）\nwps-check -a",
-    "Name": "WPS Office 版本信息及字体检测小工具",
-    "Pkgname": "wps-check",
-    "Size": "126 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "wps-check_0.3-1_all.deb.torrent",
-    "Update": "2023-03-05 18:41:53",
-    "Version": "0.3-1",
-    "Website": "https://bbs.deepin.org/post/248386",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/wps-check/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/wps-check/screen_1.png\"]"
-}
-
-,
-{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "spark-dwine-helper_5.6.4.1-5.3.14_all.deb",
@@ -620,6 +602,24 @@
     "Website": "https://gitee.com/deepin-community-store/spark-wine",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "Careone <emacslocale@126.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "wps-check_0.3-1_all.deb",
+    "More": "License: MulanPSL2 (Mulan Permissive Software License，Version 2)\n .\n 许可证：MulanPSL2 (木兰宽松许可证, 第2版)\n .\n WPS Office 版本信息检测报告工具。可以自动自动填写当前Linux系统版本号、\n 硬件平台；内核版本；WPS Office 版本号；以及其它相关信息。\n .\n 主要用途：方便用户反馈和上报 WPS Office 异常、缺陷; 缺失的常用中文/英文\n /符号字体，以及其它建议。\n .\n 测试环境:\n  * WPS Office 11.1.0.11664 (2022-6-08 发布)\n  * Debian 11.6 amd64\n .\n SourceForge: https://sourceforge.net/projects/emacslocale/files/wps-check/\n\n用法：\n以普通用户运行命令\nwps-check\n或者 带 -a 参数（可检测并记录 Windows 相关字体信息）\nwps-check -a",
+    "Name": "WPS Office 版本信息及字体检测小工具",
+    "Pkgname": "wps-check",
+    "Size": "126 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "wps-check_0.3-1_all.deb.torrent",
+    "Update": "2023-03-05 18:41:53",
+    "Version": "0.3-1",
+    "Website": "https://bbs.deepin.org/post/248386",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/wps-check/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/wps-check/screen_1.png\"]"
 }
 
 ,

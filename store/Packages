@@ -3416,27 +3416,6 @@ Description:
 License: GPL-2.0-only
 Vendor: bitporo <bitporo@qq.com>
 
-Package: easy-send
-Architecture: amd64
-Version: 1.1.1
-Priority: optional
-Section: default
-Maintainer: bitporo <bitporo@qq.com>
-Installed-Size: 243838
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: tools/easy-send/easy-send_1.1.1_amd64.deb
-Size: 67924288
-MD5sum: 5578ff2ecca823358f3e5ebe179dd8a1
-SHA1: 9e33c8073a10781c83e42cf1fbbea2ac29598b18
-SHA256: ff3f7f997669ac2eeb3fb1988f73f958c4fe6eb112c9304a1181d2bab2317bc9
-SHA512: b359185bfcaf810439c70206f3851c1a847fcbc980bca8c5fb4592d1c17cf28e9b3609d44857f6fd8dbf36af03996f54ead908ccabe4e6f75f9925aa8fa58a9c
-Homepage: https://easysend.channer.cn
-Description: 
-  A simple share text and file program
-License: GPL-2.0-only
-Vendor: bitporo <bitporo@qq.com>
-
 Package: gxde-kernel-manager
 Architecture: amd64
 Version: 1.1.0
@@ -5057,25 +5036,6 @@ SHA256: 7c299118a9a4f51b410c53b76276cd3fa0021eb8ca0f95651a0b2c7ef6953372
 SHA512: f7fa8e7a0295f3b08fac75ff5f4b321e1e4d8b422568cd88c3125b04db588e92b7cccd8a935451cd27554442413503970dd109074daf84e19d0afd38fee5a89c
 Description: Spark应用商店beta dtk2版本。
 
-Package: spark-store
-Architecture: amd64
-Version: 4.2.12
-Priority: optional
-Section: utils
-Maintainer: shenmo <shenmo@spark-app.store>
-Installed-Size: 1339
-Provides: spark-store-console-in-container
-Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.4), libdtkgui5 (>= 5.4), libdtkwidget5 (>= 5.4), libgcc1 (>= 1:3.0), libgl1, libqt5concurrent5 (>= 5.0.2), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.5.0), libqt5gui5 (>= 5.10.0), libqt5network5 (>= 5.0.2), libqt5positioning5 (>= 5.6.0), libqt5printsupport5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5webchannel5 (>= 5.6.1), libqt5webenginecore5 (>= 5.7.1), libqt5webenginewidgets5 (>= 5.7.1), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 5.2), qtwayland5, curl, openssl, dde-qt5integration, aria2, gnupg, zenity, policykit-1, libnotify-bin, desktop-file-utils
-Filename: tools/spark-store/spark-store_4.2.12_amd64.deb
-Size: 711904
-MD5sum: 8f93f678a774303d70f84ed099990820
-SHA1: 1dd2ad7db1d2272d908525e914346a2c15c884bd
-SHA256: 13753353ec6dfcca916eedaf0f3e7fb7604d831f0c18679bc12cff1f92da065c
-SHA512: 7e029e0bd3d62c02c7879b1a2952d23955a12a643aa44827ca8d7f5daca0f7a2671d8cc4a7b4b64e2c9abca23e906114ddf25e17ef45e90e859d386c87c97c3f
-Homepage: https://www.spark-app.store/
-Description: Spark Store
- A community powered app store, based on DTK.
-
 Package: com.furmark.deepin
 Architecture: all
 Version: 2.2.0.1spark0
@@ -6083,47 +6043,6 @@ SHA256: f64dff5e16fb2b4ccad0e944d9d7c50157116e89f5b37c851f5ae8adadb28269
 SHA512: 6f2498b7cb9067f079cd1bf2a6107a7c69ce9c438ee1c2327f69ef58106278c29b72a85810120444b64819b2a7fb7d2b6911069406a8104dec471849df0b634f
 Homepage: https://github.com/d4nj1/TLPUI
 Description: GTK UI for tlp (Python 3)
-
-Package: copyq
-Architecture: amd64
-Version: 8.0.0-1
-Priority: optional
-Section: utils
-Maintainer: Lukas Holecek <hluk@email.cz>
-Installed-Size: 8140
-Depends: libqt5svg5 (>= 5.6.0~beta), libc6 (>= 2.14), libgcc1 (>= 1:3.0), libkf5notifications5 (>= 5.3.0+git20141030.0311), libqt5core5a (>= 5.11.0~rc1), libqt5gui5 (>= 5.11.0~rc1), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.9.0~beta), libqt5waylandclient5 (>= 5.10.1), libqt5widgets5 (>= 5.11.0~rc1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5), libwayland-client0 (>= 1.9.91), libx11-6, libxtst6
-Filename: tools/copyq/copyq_8.0.0-1_amd64.deb
-Size: 1939412
-MD5sum: bf983fc5a6b9ca64293a963600d3db81
-SHA1: d6762395cd59aaa9cb4ec16e39efff1f4618c7ba
-SHA256: 3283b987c900596c5e68a8236ef4548f8a150187fd298f83fcc3225268999d2c
-SHA512: 79751278ada51f6b5618de358ee24794bcfbc104fc46ff22d778cfc57e9c3fce027ca1ce777d62724e5b3026d58d442a3b82c497b394df4f0e9b1bd9d37e46c0
-Homepage: https://hluk.github.io/CopyQ/
-Description: Advanced clipboard manager with editing and scripting features
- CopyQ monitors system clipboard and saves its content in customized tabs.
- Saved clipboard can be later copied and pasted directly into any application.
- .
- Items can be:
-  * edited with internal editor or with preferred text editor,
-  * moved to other tabs,
-  * drag'n'dropped to applications,
-  * marked with tag or a note,
-  * passed to or changed by custom commands,
-  * or simply removed.
- .
- Features:
-  * Support for Linux, Windows and OS X 10.9+
-  * Store text, HTML, images or any other custom formats
-  * Quickly browse and filter items in clipboard history
-  * Sort, create, edit, remove, copy/paste, drag'n'drop items in tabs
-  * Add notes or tags to items
-  * System-wide shortcuts with customizable commands
-  * Paste items with shortcut or from tray or main window
-  * Fully customizable appearance
-  * Advanced command-line interface and scripting
-  * Ignore clipboard copied from some windows or containing some text
-  * Support for simple Vim-like editor and shortcuts
-  * Many more features
 
 Package: copyq
 Architecture: amd64

@@ -340,20 +340,6 @@
 }
 ,
 {
-   "Name":"祖玛豪华版（wine）",
-   "Version":"1.0.0.1spark0",
-   "Filename":"zuma-luxury.spark_1.0.0.1spark0_i386.deb",
-   "Pkgname":"zuma-luxury.spark",
-   "Author":" ",
-   "Contributor":"anima",
-   "Website":" ",
-   "Update":"2020-08-14 14:03",
-   "Size":"25.42MB",
-   "More":"本游戏是原版祖玛的豪华版，画面上与原作并无太大区别。本游戏能在当今多如牛毛的游戏中脱颖而出取决于它设计的几大优点：古老的界面，神秘的印加背景音乐，加上游戏的主人翁一只青蛙坐在其中，吐出各种颜色的珠子，石青蛙环绕着石青蛙的是载着彩球的轨道，彩球会沿着轨滚动。石青蛙吐出彩球进入轨道，轨道上颜色相同的彩球，数量达到三个以上就会消除得分。看似简单的游戏经过精心巧妙的设计后，让人玩起来趣味无穷。"
-}
-
-,
-{
     "Name": "yuzu模拟器",
     "Version": "3708",
     "Filename": "com.yuzu.sugarcane.deepin_3708_amd64.deb",
@@ -369,6 +355,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/24/4d10235318af4d47940278f281aaa9e5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/24/797c5e35402240b69bd40aaa26a809eb.png"
 }
+,
+{
+   "Name":"祖玛豪华版（wine）",
+   "Version":"1.0.0.1spark0",
+   "Filename":"zuma-luxury.spark_1.0.0.1spark0_i386.deb",
+   "Pkgname":"zuma-luxury.spark",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":" ",
+   "Update":"2020-08-14 14:03",
+   "Size":"25.42MB",
+   "More":"本游戏是原版祖玛的豪华版，画面上与原作并无太大区别。本游戏能在当今多如牛毛的游戏中脱颖而出取决于它设计的几大优点：古老的界面，神秘的印加背景音乐，加上游戏的主人翁一只青蛙坐在其中，吐出各种颜色的珠子，石青蛙环绕着石青蛙的是载着彩球的轨道，彩球会沿着轨滚动。石青蛙吐出彩球进入轨道，轨道上颜色相同的彩球，数量达到三个以上就会消除得分。看似简单的游戏经过精心巧妙的设计后，让人玩起来趣味无穷。"
+}
+
 ,
 {
     "Name": "QQ游戏大厅",
@@ -466,23 +466,6 @@
 }
 ,
 {
-    "Name": "暴雪战网客户端（wine）",
-    "Version": "2.13.1.13521deepin6",
-    "Filename": "cn.blizzardgames.battlenet.spark_2.13.1.13521deepin6_amd64.deb",
-    "Torrent_address": "cn.blizzardgames.battlenet.spark_2.13.1.13521deepin6_amd64.deb.torrent",
-    "Pkgname": "cn.blizzardgames.battlenet.spark",
-    "Author": "暴雪娱乐有限公司",
-    "Contributor": "delsin",
-    "Website": "https://www.blizzardgames.cn/",
-    "Update": "2022-06-25 13:59:24",
-    "Size": "819.69 MB",
-    "More": "如果有字体显示问题，装星火商店里“Win字体”基本能解决。",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/25/943f1750-f44b-11ec-95cd-334d21a0f722.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/25/92ed1be0-f44b-11ec-95cd-334d21a0f722.png"
-}
-,
-{
     "Name": "腾讯WeGame",
     "Version": "1.0.0",
     "Filename": "wegame_1.0.0_i386.deb",
@@ -497,6 +480,23 @@
     "Tags": "deepin;ubuntu;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/9afb71e0-0806-11ee-91ff-01da5404af49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/9b10cea0-0806-11ee-91ff-01da5404af49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/9b2a7120-0806-11ee-91ff-01da5404af49.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/11/91306d00-0806-11ee-91ff-01da5404af49.png"
+}
+,
+{
+    "Name": "暴雪战网客户端（wine）",
+    "Version": "2.13.1.13521deepin6",
+    "Filename": "cn.blizzardgames.battlenet.spark_2.13.1.13521deepin6_amd64.deb",
+    "Torrent_address": "cn.blizzardgames.battlenet.spark_2.13.1.13521deepin6_amd64.deb.torrent",
+    "Pkgname": "cn.blizzardgames.battlenet.spark",
+    "Author": "暴雪娱乐有限公司",
+    "Contributor": "delsin",
+    "Website": "https://www.blizzardgames.cn/",
+    "Update": "2022-06-25 13:59:24",
+    "Size": "819.69 MB",
+    "More": "如果有字体显示问题，装星火商店里“Win字体”基本能解决。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/25/943f1750-f44b-11ec-95cd-334d21a0f722.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/25/92ed1be0-f44b-11ec-95cd-334d21a0f722.png"
 }
 ,
 {
@@ -2616,6 +2616,24 @@
 }
 ,
 {
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.steampowered.steam_1.0_all.deb",
+    "More": "Arm下仅测试了exagear\n\n龙芯未测试\n\n正在飞车阶段~",
+    "Name": "Steam(Wine)",
+    "Pkgname": "com.steampowered.steam",
+    "Size": "246 Mb",
+    "Tags": "deepin;ubuntu;dwine5",
+    "Torrent_address": "com.steampowered.steam_1.0_all.deb.torrent",
+    "Update": "2024-03-24 21:07:07",
+    "Version": "1.0",
+    "Website": "https://s.team",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.steampowered.steam/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.steampowered.steam/screen_1.png\"]"
+}
+
+,
+{
    "Name":"永远的伊苏ＩＩ",
    "Version":"1.0-1",
    "Filename":"com.falcom.ys2.deepin_1.0-1_i386.deb",
@@ -2628,6 +2646,23 @@
    "More":"基于deepin-wine打包的，经典ＡＲＰＧ游戏——《永远的伊苏ＩＩ》。已知无法播放ＯＰ动画；无法播放ＢＧＭ。"
 }
 
+,
+{
+    "Name": "帝国时代2高清版",
+    "Version": "1.0spark0",
+    "Filename": "com.ageofempires2hd.spark_1.0spark0_all.deb",
+    "Torrent_address": "com.ageofempires2hd.spark_1.0spark0_all.deb.torrent",
+    "Pkgname": "com.ageofempires2hd.spark",
+    "Author": "微软",
+    "Contributor": "sgb76",
+    "Website": "www.ageofempires.com",
+    "Update": "2024-05-02 00:10:23",
+    "Size": "893.99 MB",
+    "More": "帝国时代2高清版",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/52ffee28a4bb4aae890e4cf2fa067107.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/47c862c80535475cb0d6975745d3cb55.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/dae90fa02c78421b9e044e31d35cd429.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/02/46736fd4ef564a9aaced11e2d6af26fc.png"
+}
 ,
 {
     "Name": "救救狗狗(uengine)",
@@ -2647,24 +2682,6 @@
 }
 ,
 {
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.steampowered.steam_1.0_all.deb",
-    "More": "Arm下仅测试了exagear\n\n龙芯未测试\n\n正在飞车阶段~",
-    "Name": "Steam(Wine)",
-    "Pkgname": "com.steampowered.steam",
-    "Size": "246 Mb",
-    "Tags": "deepin;ubuntu;dwine5",
-    "Torrent_address": "com.steampowered.steam_1.0_all.deb.torrent",
-    "Update": "2024-03-24 21:07:07",
-    "Version": "1.0",
-    "Website": "https://s.team",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.steampowered.steam/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.steampowered.steam/screen_1.png\"]"
-}
-
-,
-{
     "Name": "破门而入",
     "Version": "1.0spark1",
     "Filename": "com.doorkickers.spark_1.0spark1_all.deb",
@@ -2679,23 +2696,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/11/220927b2098949e9a3696e96a3a25aab.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/11/cffd472d51b64229b2d5a45e129a8f95.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/11/55284197916e4d0a8ebe626905b2f9fe.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/11/ba5b65fd572b451681f01f5b62f40557.png"
-}
-,
-{
-    "Name": "帝国时代2高清版",
-    "Version": "1.0spark0",
-    "Filename": "com.ageofempires2hd.spark_1.0spark0_all.deb",
-    "Torrent_address": "com.ageofempires2hd.spark_1.0spark0_all.deb.torrent",
-    "Pkgname": "com.ageofempires2hd.spark",
-    "Author": "微软",
-    "Contributor": "sgb76",
-    "Website": "www.ageofempires.com",
-    "Update": "2024-05-02 00:10:23",
-    "Size": "893.99 MB",
-    "More": "帝国时代2高清版",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/52ffee28a4bb4aae890e4cf2fa067107.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/47c862c80535475cb0d6975745d3cb55.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/dae90fa02c78421b9e044e31d35cd429.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/02/46736fd4ef564a9aaced11e2d6af26fc.png"
 }
 ,
 {
@@ -3220,6 +3220,23 @@
 }
 ,
 {
+    "Name": "yuzu",
+    "Version": "1.5",
+    "Filename": "yuzu-emu_1.5_amd64.deb",
+    "Torrent_address": "yuzu-emu_1.5_amd64.deb.torrent",
+    "Pkgname": "yuzu-emu",
+    "Author": "Aphcity",
+    "Contributor": "Aphcity",
+    "Website": "https://github.com/Aphcity/yuzu",
+    "Update": "2024-04-12 23:32:45",
+    "Size": "44.86 MB",
+    "More": "yuzu是一款优秀的Nintendo Switch模拟器。\n该上传版是yuzu的改版，在兼容新特性的同时修复了yuzu的贴图问题（比如月姬R汉化贴图花屏）。",
+    "Tags": "ubuntu;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/a2f74c30-f8e1-11ee-94b3-3598cf0b4d68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/a4b63a40-f8e1-11ee-94b3-3598cf0b4d68.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/9924a630-f8e1-11ee-94b3-3598cf0b4d68.png"
+}
+,
+{
     "Name": "osu!",
     "Version": "2024.521.2",
     "Filename": "osu-lazer_2024.521.2_amd64.deb",
@@ -3302,23 +3319,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/02/85d630d0-e8f2-11ed-875c-a3958b45c1eb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/02/893bf110-e8f2-11ed-875c-a3958b45c1eb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/02/8c324db0-e8f2-11ed-875c-a3958b45c1eb.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/02/825fa7b0-e8f2-11ed-875c-a3958b45c1eb.png"
-}
-,
-{
-    "Name": "yuzu",
-    "Version": "1.5",
-    "Filename": "yuzu-emu_1.5_amd64.deb",
-    "Torrent_address": "yuzu-emu_1.5_amd64.deb.torrent",
-    "Pkgname": "yuzu-emu",
-    "Author": "Aphcity",
-    "Contributor": "Aphcity",
-    "Website": "https://github.com/Aphcity/yuzu",
-    "Update": "2024-04-12 23:32:45",
-    "Size": "44.86 MB",
-    "More": "yuzu是一款优秀的Nintendo Switch模拟器。\n该上传版是yuzu的改版，在兼容新特性的同时修复了yuzu的贴图问题（比如月姬R汉化贴图花屏）。",
-    "Tags": "ubuntu;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/a2f74c30-f8e1-11ee-94b3-3598cf0b4d68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/a4b63a40-f8e1-11ee-94b3-3598cf0b4d68.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/9924a630-f8e1-11ee-94b3-3598cf0b4d68.png"
 }
 ,
 {
@@ -3745,6 +3745,22 @@
 }
 ,
 {
+    "Name": "GDevelop 5",
+    "Version": "5.0.121spark0",
+    "Filename": "com.gdevelop.spark_5.0.121spark0_amd64.deb",
+    "Pkgname": "com.gdevelop.spark",
+    "Author": "Florian \"4ian\" Rival",
+    "Contributor": "sgb76",
+    "Website": "https://gdevelop-app.com/zh/",
+    "Update": "2021-10-29 19:00:19",
+    "Size": "77.21 MB",
+    "More": "Game making for everyone\n一款免费、开源的游戏开发工具",
+    "Tags": "ubuntu;deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/29/279b3620-38a7-11ec-8bae-13ccdb9ef908.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/29/2aea6120-38a7-11ec-8bae-13ccdb9ef908.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/29/2d56cd40-38a7-11ec-8bae-13ccdb9ef908.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/29/2288b040-38a7-11ec-8bae-13ccdb9ef908.png"
+}
+,
+{
     "Name": "爱丽丝的拼图时间旅行2",
     "Version": "1.0spark0",
     "Filename": "com.alices.spark_1.0spark0_amd64.deb",
@@ -3776,22 +3792,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/14/9fb72b0f55124e4f8b1de02990f3f9c0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/14/0cf75e8bc39d4ebaa22925c44fc34cea.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/14/35f172856cd7439f83f59d493756d26d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/14/00f3af9e0e384c96a407451d48959420.png"
-}
-,
-{
-    "Name": "GDevelop 5",
-    "Version": "5.0.121spark0",
-    "Filename": "com.gdevelop.spark_5.0.121spark0_amd64.deb",
-    "Pkgname": "com.gdevelop.spark",
-    "Author": "Florian \"4ian\" Rival",
-    "Contributor": "sgb76",
-    "Website": "https://gdevelop-app.com/zh/",
-    "Update": "2021-10-29 19:00:19",
-    "Size": "77.21 MB",
-    "More": "Game making for everyone\n一款免费、开源的游戏开发工具",
-    "Tags": "ubuntu;deepin;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/29/279b3620-38a7-11ec-8bae-13ccdb9ef908.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/29/2aea6120-38a7-11ec-8bae-13ccdb9ef908.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/29/2d56cd40-38a7-11ec-8bae-13ccdb9ef908.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/29/2288b040-38a7-11ec-8bae-13ccdb9ef908.png"
 }
 ,
 {
@@ -4232,6 +4232,23 @@
 }
 ,
 {
+    "Name": "围棋",
+    "Version": "1.37",
+    "Filename": "uengine-dc-com.cnvcs.go_1.37_all.deb",
+    "Torrent_address": "uengine-dc-com.cnvcs.go_1.37_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.cnvcs.go",
+    "Author": "cnvcs.com",
+    "Contributor": "tasuo",
+    "Website": "https://www.cnvcs.com",
+    "Update": "2024-06-06 20:29:16",
+    "Size": "24.37 MB",
+    "More": "可人机，可人与人对战。无广告，干净的游戏。",
+    "Tags": "uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/06/4199e7a0-2400-11ef-9e24-afc67cc7b45e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/06/419fb400-2400-11ef-9e24-afc67cc7b45e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/06/38694e00-2400-11ef-9e24-afc67cc7b45e.png"
+}
+,
+{
     "Name": "点点飞机",
     "Version": "1.0",
     "Filename": "tabbyplane_1.0_amd64.deb",
@@ -4428,23 +4445,6 @@
    "More":"Chiaki 是一款免费开源的 PS4 远程游戏客户端，兼容Linux，FreeBSD，OpenBSD，Android，macOS，Windows等多平台。"
 }
 
-,
-{
-    "Name": "围棋",
-    "Version": "1.37",
-    "Filename": "uengine-dc-com.cnvcs.go_1.37_all.deb",
-    "Torrent_address": "uengine-dc-com.cnvcs.go_1.37_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.cnvcs.go",
-    "Author": "cnvcs.com",
-    "Contributor": "tasuo",
-    "Website": "https://www.cnvcs.com",
-    "Update": "2024-06-06 20:29:16",
-    "Size": "24.37 MB",
-    "More": "可人机，可人与人对战。无广告，干净的游戏。",
-    "Tags": "uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/06/4199e7a0-2400-11ef-9e24-afc67cc7b45e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/06/419fb400-2400-11ef-9e24-afc67cc7b45e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/06/38694e00-2400-11ef-9e24-afc67cc7b45e.png"
-}
 ,
 {
     "Name": "中国象棋",

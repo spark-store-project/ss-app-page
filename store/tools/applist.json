@@ -1412,20 +1412,6 @@
 
 ,
 {
-   "Name":"海天鹰文件管理器",
-   "Version":"2.9",
-   "Filename":"htyfm-spark_2.9_amd64.deb",
-   "Pkgname":"htyfm-spark",
-   "Author":"黄颖",
-   "Contributor":"shenmo",
-   "Website":"github.com/sonichy",
-   "Update":"2020-09-05 19:17",
-   "Size":"83.60KB",
-   "More":"一款好用的文件管理器"
-}
-
-,
-{
     "Name": "QGIS",
     "Version": "3.18.3",
     "Filename": "qgis.gisshows_3.18.3_amd64.deb",
@@ -1440,6 +1426,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/8fa658a0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/92cc77d0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/950095e0-b7d6-11eb-95cc-55162659a757.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/18/744e6070-b7d6-11eb-95cc-55162659a757.png"
 }
+,
+{
+   "Name":"海天鹰文件管理器",
+   "Version":"2.9",
+   "Filename":"htyfm-spark_2.9_amd64.deb",
+   "Pkgname":"htyfm-spark",
+   "Author":"黄颖",
+   "Contributor":"shenmo",
+   "Website":"github.com/sonichy",
+   "Update":"2020-09-05 19:17",
+   "Size":"83.60KB",
+   "More":"一款好用的文件管理器"
+}
+
 ,
 {
     "Name": "TLP 设置",
@@ -1912,23 +1912,6 @@
 }
 ,
 {
-    "Name": "系统监视中心",
-    "Version": "2.26.0",
-    "Filename": "system-monitoring-center_2.26.0_all.deb",
-    "Torrent_address": "system-monitoring-center_2.26.0_all.deb.torrent",
-    "Pkgname": "system-monitoring-center",
-    "Author": "Hakan Dündar <hakandundar34coding@gmail.com>",
-    "Contributor": "Hakan Dündar <hakandundar34coding@gmail.com>",
-    "Website": "https://github.com/hakandundar34coding/system-monitoring-center",
-    "Update": "2023-11-18 22:29:40",
-    "Size": "174.94 KB",
-    "More": "Provides information about CPU/RAM/Disk/Network/GPU performance, sensors,\n processes, users, services and system.\n提示：此软件为最终版本，作者已经宣布停更。\n deepin用户可安装ACE后在ACE环境中安装",
-    "Tags": "ubuntu;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/d9637c265212451b99c2eb2c21cfcd3a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/7823e438c63945d98e784149eccb311f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/18/7fa7aea14fad473ebfc6221f7ecee220.png"
-}
-,
-{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "spark-dwine-helper_5.6.4.1-5.3.14_all.deb",
@@ -1945,6 +1928,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/screen_1.png\"]"
 }
 
+,
+{
+    "Name": "系统监视中心",
+    "Version": "2.26.0",
+    "Filename": "system-monitoring-center_2.26.0_all.deb",
+    "Torrent_address": "system-monitoring-center_2.26.0_all.deb.torrent",
+    "Pkgname": "system-monitoring-center",
+    "Author": "Hakan Dündar <hakandundar34coding@gmail.com>",
+    "Contributor": "Hakan Dündar <hakandundar34coding@gmail.com>",
+    "Website": "https://github.com/hakandundar34coding/system-monitoring-center",
+    "Update": "2023-11-18 22:29:40",
+    "Size": "174.94 KB",
+    "More": "Provides information about CPU/RAM/Disk/Network/GPU performance, sensors,\n processes, users, services and system.\n提示：此软件为最终版本，作者已经宣布停更。\n deepin用户可安装ACE后在ACE环境中安装",
+    "Tags": "ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/d9637c265212451b99c2eb2c21cfcd3a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/7823e438c63945d98e784149eccb311f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/18/7fa7aea14fad473ebfc6221f7ecee220.png"
+}
 ,
 {
     "Name": "Q4Wine",
@@ -2013,23 +2013,6 @@
 }
 ,
 {
-    "Name": "简易桌面悬浮时钟",
-    "Version": "2.0.0",
-    "Filename": "floatclock_2.0.0_amd64.deb",
-    "Torrent_address": "floatclock_2.0.0_amd64.deb.torrent",
-    "Pkgname": "floatclock",
-    "Author": "zerofancy",
-    "Contributor": "zerofancy",
-    "Website": "https://github.com/zerofancy/floatclock",
-    "Update": "2022-10-08 00:11:59",
-    "Size": "51.88 MB",
-    "More": "简易数字桌面置顶时钟，帮助掌握摸鱼节奏。\n安装后会生成 简易桌面悬浮时钟 菜单项，点击打开则在桌面右下方显示。\n支持普通数字和数码管两种样式。",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/08/6218d930-465a-11ed-aa45-459652165a5b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/08/665a2c60-465a-11ed-aa45-459652165a5b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/08/5a3c36d0-465a-11ed-aa45-459652165a5b.png"
-}
-,
-{
     "Name": "奇安信网神终端安全管理系统",
     "Version": "7.0.5.1600",
     "Filename": "com.qianxin.qaxsafe_7.0.5.1600_amd64.deb",
@@ -2044,6 +2027,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/e09fefaa861d4c72a4a35f0fec293ee8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/515d6f69d687424097b48f409ad614c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/d6043d97cf784955b856210763893ce4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/ad6833efdc524d84aabb04d5ec0c2928.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/01/cbe6253af7d547bda9c80f37fb59991f.png"
+}
+,
+{
+    "Name": "简易桌面悬浮时钟",
+    "Version": "2.0.0",
+    "Filename": "floatclock_2.0.0_amd64.deb",
+    "Torrent_address": "floatclock_2.0.0_amd64.deb.torrent",
+    "Pkgname": "floatclock",
+    "Author": "zerofancy",
+    "Contributor": "zerofancy",
+    "Website": "https://github.com/zerofancy/floatclock",
+    "Update": "2022-10-08 00:11:59",
+    "Size": "51.88 MB",
+    "More": "简易数字桌面置顶时钟，帮助掌握摸鱼节奏。\n安装后会生成 简易桌面悬浮时钟 菜单项，点击打开则在桌面右下方显示。\n支持普通数字和数码管两种样式。",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/08/6218d930-465a-11ed-aa45-459652165a5b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/08/665a2c60-465a-11ed-aa45-459652165a5b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/08/5a3c36d0-465a-11ed-aa45-459652165a5b.png"
 }
 ,
 {
@@ -2333,21 +2333,6 @@
 
 ,
 {
-   "Name":"一键息屏 one key shut screen",
-   "Version":"1.0.0",
-   "Filename":"one-key-shut-screen_1.0.0_amd64.deb",
-   "Pkgname":"one-key-shut-screen",
-   "Author":"shenmo",
-   "Contributor":"shenmo",
-   "Website":"http://www.shenmo.tech:666/",
-   "Update":"2020-09-28 17:39",
-   "Size":"15.48KB",
-   "More":"学 生 党 必 备 \n摸 鱼 族 必 备",
-   "Tags":"community;deepin;uos;ubuntu"
-}
-
-,
-{
     "Name": "GitHub 访问加速包",
     "Version": "0.0.1-20240206",
     "Filename": "github-fast-access_0.0.1-20240206_all.deb",
@@ -2380,6 +2365,21 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/0242916c1eca488e98137daf10193c4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/74a9c8eefd83424490112c7fd3e4c1f1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/20/cc2dabfeb636416fa76e62ba58a53540.png"
 }
+,
+{
+   "Name":"一键息屏 one key shut screen",
+   "Version":"1.0.0",
+   "Filename":"one-key-shut-screen_1.0.0_amd64.deb",
+   "Pkgname":"one-key-shut-screen",
+   "Author":"shenmo",
+   "Contributor":"shenmo",
+   "Website":"http://www.shenmo.tech:666/",
+   "Update":"2020-09-28 17:39",
+   "Size":"15.48KB",
+   "More":"学 生 党 必 备 \n摸 鱼 族 必 备",
+   "Tags":"community;deepin;uos;ubuntu"
+}
+
 ,
 {
     "Name": "gnome-pie应用启动器",
@@ -3000,6 +3000,23 @@
 }
 ,
 {
+    "Name": "换源宝贝",
+    "Version": "1.01",
+    "Filename": "com.huanyuanbaobei.spark_1.01_amd64.deb",
+    "Torrent_address": "com.huanyuanbaobei.spark_1.01_amd64.deb.torrent",
+    "Pkgname": "com.huanyuanbaobei.spark",
+    "Author": "fax928 <264214467@qq.com>",
+    "Contributor": "fax928",
+    "Website": "https://gitee.com/wu-wanjia/huan-yuan-bao-bei",
+    "Update": "2024-01-12 20:46:41",
+    "Size": "153.48 KB",
+    "More": "换源宝贝是一款可以修改源的迷你软件，亦是一款迷你的文件内容编辑软件。\n\n2024-01-07 V1.00发布。\n2024-01-10 V1.01-优化了帮助窗口。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/0f822586a78e4a9e8cb838836b425238.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/f7476b3265cb40009a299c4d987aa110.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/d8056da80eaa4c21b587c34267022a39.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/12/bfcc4f6a70e347dfa6ea808dcc4c87f1.png"
+}
+,
+{
     "Name": "超级标签栏",
     "Version": "0.1.0",
     "Filename": "top.yzzi.supertabbar_0.1.0_amd64.deb",
@@ -3064,23 +3081,6 @@
     "Tags": "community;ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/26522e341b95469988119147e14d057c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/c2fbb5c4b55b4b739acef706d1b2dff3.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/08/3cb1607e5d7c424ea3c7fbbc1407de64.png"
-}
-,
-{
-    "Name": "换源宝贝",
-    "Version": "1.01",
-    "Filename": "com.huanyuanbaobei.spark_1.01_amd64.deb",
-    "Torrent_address": "com.huanyuanbaobei.spark_1.01_amd64.deb.torrent",
-    "Pkgname": "com.huanyuanbaobei.spark",
-    "Author": "fax928 <264214467@qq.com>",
-    "Contributor": "fax928",
-    "Website": "https://gitee.com/wu-wanjia/huan-yuan-bao-bei",
-    "Update": "2024-01-12 20:46:41",
-    "Size": "153.48 KB",
-    "More": "换源宝贝是一款可以修改源的迷你软件，亦是一款迷你的文件内容编辑软件。\n\n2024-01-07 V1.00发布。\n2024-01-10 V1.01-优化了帮助窗口。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/0f822586a78e4a9e8cb838836b425238.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/f7476b3265cb40009a299c4d987aa110.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/d8056da80eaa4c21b587c34267022a39.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/12/bfcc4f6a70e347dfa6ea808dcc4c87f1.png"
 }
 ,
 {
@@ -4245,6 +4245,23 @@
 }
 ,
 {
+    "Name": "GtkHash-哈希计算工具",
+    "Version": "1.5-1",
+    "Filename": "gtkhash_1.5-1_amd64.deb",
+    "Torrent_address": "gtkhash_1.5-1_amd64.deb.torrent",
+    "Pkgname": "gtkhash",
+    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+    "Contributor": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+    "Website": "https://gtkhash.org",
+    "Update": "2024-05-04 14:05:47",
+    "Size": "113.28 KB",
+    "More": "GtkHash是一个用于计算消息校验和的桌面实用程序。支持大多数著名的哈希函数，包括MD5，SHA1，SHA 2（SHA 256/SHA 512）、SHA 3和BLAKE 2。版本为1.5-1，在deepin23测试通过。在deepin20.9会报缺少依赖。",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/3c0466ee8c894032932cf06b323aa9ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/b99da6009db640cdadd419b107f2627e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/fc0ed7cb39204a06b0ba8398ea2783a9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/04/d6506139cb2245688bd6f60bb7aacdbf.png"
+}
+,
+{
     "Author": "Martijn van Brummelen <mvb@debian.org>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "grsync_1.3.0-1_plus_b1_amd64.deb",
@@ -4330,23 +4347,6 @@
 }
 ,
 {
-    "Name": "GtkHash-哈希计算工具",
-    "Version": "1.5-1",
-    "Filename": "gtkhash_1.5-1_amd64.deb",
-    "Torrent_address": "gtkhash_1.5-1_amd64.deb.torrent",
-    "Pkgname": "gtkhash",
-    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-    "Contributor": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-    "Website": "https://gtkhash.org",
-    "Update": "2024-05-04 14:05:47",
-    "Size": "113.28 KB",
-    "More": "GtkHash是一个用于计算消息校验和的桌面实用程序。支持大多数著名的哈希函数，包括MD5，SHA1，SHA 2（SHA 256/SHA 512）、SHA 3和BLAKE 2。版本为1.5-1，在deepin23测试通过。在deepin20.9会报缺少依赖。",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/3c0466ee8c894032932cf06b323aa9ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/b99da6009db640cdadd419b107f2627e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/fc0ed7cb39204a06b0ba8398ea2783a9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/04/d6506139cb2245688bd6f60bb7aacdbf.png"
-}
-,
-{
     "Name": "FileGee",
     "Version": "11.7.4spark0",
     "Filename": "com.filegee.spark_11.7.4spark0_all.deb",
@@ -4412,6 +4412,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/18/0145c0b17d874757b919dd3023072620.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/18/c3de0aa21390497da88b1e548d935f23.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/18/af2d2d4469ba480ebc7c0c12780a4135.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/18/af06c3f3b3f1441c9de0b5f0d338208b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/18/f2132a5b1bf249108124fd8dc23495b8.png"
+}
+,
+{
+    "Name": "简传",
+    "Version": "1.1.2",
+    "Filename": "easy-send_1.1.2_amd64.deb",
+    "Torrent_address": "easy-send_1.1.2_amd64.deb.torrent",
+    "Pkgname": "easy-send",
+    "Author": "bitporo <bitporo@qq.com>",
+    "Contributor": "bitporo",
+    "Website": "https://easysend.channer.cn",
+    "Update": "2024-06-23 12:24:53",
+    "Size": "66.89 MB",
+    "More": "便捷的局域网共享文本文件小工具，简捷使用，传送方便，仅需一台设备启动，其余设备使用浏览器访问即可使用",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/d70e380b2e904831af1d41e5e441f550.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/13677c1b9890469ab641d0ac3132bea9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/23/fa262ab016884c56adfbc9b0154829b6.png"
 }
 ,
 {
@@ -4517,23 +4534,6 @@
 }
 ,
 {
-    "Name": "简传",
-    "Version": "1.1.2",
-    "Filename": "easy-send_1.1.2_amd64.deb",
-    "Torrent_address": "easy-send_1.1.2_amd64.deb.torrent",
-    "Pkgname": "easy-send",
-    "Author": "bitporo <bitporo@qq.com>",
-    "Contributor": "bitporo",
-    "Website": "https://easysend.channer.cn",
-    "Update": "2024-06-23 12:24:53",
-    "Size": "66.89 MB",
-    "More": "便捷的局域网共享文本文件小工具，简捷使用，传送方便，仅需一台设备启动，其余设备使用浏览器访问即可使用",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/d70e380b2e904831af1d41e5e441f550.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/13677c1b9890469ab641d0ac3132bea9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/23/fa262ab016884c56adfbc9b0154829b6.png"
-}
-,
-{
     "Name": "Soup",
     "Version": "0.0.1-20240312",
     "Filename": "com.gitee.zinface.soup_0.0.1-20240312_amd64.deb",
@@ -4548,6 +4548,23 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/12/ca58cb1f9074499e918a5e9bcf73999e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/12/8dd839092b284093a360ad6c9ea56379.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/12/114ef85429f94fa682d439de3a02175a.png"
+}
+,
+{
+    "Name": "Wine 运行器 Qemu 拓展",
+    "Version": "9.0.1~beige",
+    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1~beige_amd64.deb",
+    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1~beige_amd64.deb.torrent",
+    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
+    "Update": "2024-06-22 21:38:19",
+    "Size": "143.01 MB",
+    "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \n安装此包后在后续版本的 Wine 运行器虚拟机配置工具将支持调用该新版本的 Qemu\n\n该版本只支持 deepin23,如需支持其它系统版本的（如 deepin 20），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/d18500842b194facbb9e237e26a09c8c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/c5b2ae498c1343e6b891b6e236a38bb7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/26f9e1e9421e43119d11c36cab473dad.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/22/69d5c06a79d54f56a116108c71971100.png"
 }
 ,
 {
@@ -4599,23 +4616,6 @@
     "Tags": "ubuntu;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/7883f547bf204084b0e4ff1e2e8ffe33.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/b0048b8ee54a4c2ab046bce26ef24be1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/f541ab1caf754b1c86782f99312cdc2e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/08/5a167e64be0f4fe0aeaef2ef3790531f.png"
-}
-,
-{
-    "Name": "Wine 运行器 Qemu 拓展",
-    "Version": "9.0.1~beige",
-    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1~beige_amd64.deb",
-    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1~beige_amd64.deb.torrent",
-    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
-    "Update": "2024-06-22 21:38:19",
-    "Size": "143.01 MB",
-    "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \n安装此包后在后续版本的 Wine 运行器虚拟机配置工具将支持调用该新版本的 Qemu\n\n该版本只支持 deepin23,如需支持其它系统版本的（如 deepin 20），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
-    "Tags": "community;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/d18500842b194facbb9e237e26a09c8c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/c5b2ae498c1343e6b891b6e236a38bb7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/26f9e1e9421e43119d11c36cab473dad.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/22/69d5c06a79d54f56a116108c71971100.png"
 }
 ,
 {

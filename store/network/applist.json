@@ -137,6 +137,23 @@
 }
 ,
 {
+    "Name": "Clash Verge",
+    "Version": "1.6.6",
+    "Filename": "clash-verge_1.6.6_amd64.deb",
+    "Torrent_address": "clash-verge_1.6.6_amd64.deb.torrent",
+    "Pkgname": "clash-verge",
+    "Author": "zzzgydi, wonfen, MystiPanda",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://clash-verge-rev.github.io/",
+    "Update": "2024-06-13 22:25:20",
+    "Size": "41.67 MB",
+    "More": "A Clash Meta GUI based on tauri.\nClash Verge的新维护者版本,支持Linux发行版下开启系统代理",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/13/9fa9b238f11d4468b49dcdee2a618b9c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/13/a2c3f1722fe44d099f6ca7dbe87f9eb2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/13/d5928692be8f452c86cdcc9b07d74f94.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/13/5a6850a8ab174193b7dcb6dbbc735c33.png"
+}
+,
+{
     "Name": "火狐浏览器国际版 Firefox",
     "Version": "127.0.1",
     "Filename": "firefox-spark_127.0.1_amd64.deb",
@@ -153,23 +170,6 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/30/f4ee46124c644408b6e430c1d38aff1f.png"
 }
 
-,
-{
-    "Name": "Clash Verge",
-    "Version": "1.6.6",
-    "Filename": "clash-verge_1.6.6_amd64.deb",
-    "Torrent_address": "clash-verge_1.6.6_amd64.deb.torrent",
-    "Pkgname": "clash-verge",
-    "Author": "zzzgydi, wonfen, MystiPanda",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://clash-verge-rev.github.io/",
-    "Update": "2024-06-13 22:25:20",
-    "Size": "41.67 MB",
-    "More": "A Clash Meta GUI based on tauri.\nClash Verge的新维护者版本,支持Linux发行版下开启系统代理",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/13/9fa9b238f11d4468b49dcdee2a618b9c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/13/a2c3f1722fe44d099f6ca7dbe87f9eb2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/13/d5928692be8f452c86cdcc9b07d74f94.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/13/5a6850a8ab174193b7dcb6dbbc735c33.png"
-}
 ,
 {
     "Name": "360安全浏览器(Linux版)",
@@ -848,23 +848,6 @@
 }
 ,
 {
-    "Name": "RPD远程桌面-寒尘汉化（UEngine）",
-    "Version": "8.1.75.406",
-    "Filename": "uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb",
-    "Torrent_address": "uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.microsoft.rdc.android",
-    "Author": "寒尘工作室",
-    "Contributor": "燕戏竹林",
-    "Website": "抱歉我们联系不到作者，也只能找到这一个版本",
-    "Update": "2023-01-09 14:56:01",
-    "Size": "15.22 MB",
-    "More": "这个是安卓版本的微软远程软件的国内汉化版，虽然部分地方汉化的不是很到位，但是至少不至于不能用",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/09/ab853e77d45d4d4cb63188153d6e78ff.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/09/6bec763bfcd747cdab03f57bb3df183e.png"
-}
-,
-{
     "Name": "AnyDesk在线远程桌面",
     "Version": "6.3.0",
     "Filename": "anydesk_6.3.0_amd64.deb",
@@ -879,6 +862,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/15/b6fbc26e62964f21a87811ff1138f6d8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/15/a3a84a4b98c54de6b51b9b7db24efef9.png"
+}
+,
+{
+    "Name": "RPD远程桌面-寒尘汉化（UEngine）",
+    "Version": "8.1.75.406",
+    "Filename": "uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb",
+    "Torrent_address": "uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.microsoft.rdc.android",
+    "Author": "寒尘工作室",
+    "Contributor": "燕戏竹林",
+    "Website": "抱歉我们联系不到作者，也只能找到这一个版本",
+    "Update": "2023-01-09 14:56:01",
+    "Size": "15.22 MB",
+    "More": "这个是安卓版本的微软远程软件的国内汉化版，虽然部分地方汉化的不是很到位，但是至少不至于不能用",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/09/ab853e77d45d4d4cb63188153d6e78ff.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/09/6bec763bfcd747cdab03f57bb3df183e.png"
 }
 ,
 {
@@ -1131,6 +1131,23 @@
 
 ,
 {
+    "Name": "VNC Server",
+    "Version": "7.11.0.18",
+    "Filename": "realvnc-vnc-server_7.11.0.18_amd64.deb",
+    "Torrent_address": "realvnc-vnc-server_7.11.0.18_amd64.deb.torrent",
+    "Pkgname": "realvnc-vnc-server",
+    "Author": "RealVNC <noreply@realvnc.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://www.realvnc.com/",
+    "Update": "2024-05-09 16:48:07",
+    "Size": "8.1 MB",
+    "More": "VNC Server, from RealVNC, the original inventor of VNC technology, is remote access\n software that enables you to securely share one or more desktops on this\n computer with any number of other computers or devices.\n RealVNC recommends the realvnc-vnc-viewer package (VNC Viewer) for these other\n computers and devices, for seamless, secure and reliable connections.",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/b7514ccb049f4cb19221d876cbc9d548.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/1f75b4e59a024ddba65b1d397408a7ae.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/09ae18a64e8c4cad9c52ce4581f125a7.png"
+}
+,
+{
     "Name": "Microsoft Edge(Beta)",
     "Version": "126.0.2592.49-1",
     "Filename": "microsoft-edge-beta_126.0.2592.49-1_amd64.deb",
@@ -1147,23 +1164,6 @@
     "icons": "https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-beta/icon.png"
 }
 
-,
-{
-    "Name": "VNC Server",
-    "Version": "7.11.0.18",
-    "Filename": "realvnc-vnc-server_7.11.0.18_amd64.deb",
-    "Torrent_address": "realvnc-vnc-server_7.11.0.18_amd64.deb.torrent",
-    "Pkgname": "realvnc-vnc-server",
-    "Author": "RealVNC <noreply@realvnc.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://www.realvnc.com/",
-    "Update": "2024-05-09 16:48:07",
-    "Size": "8.1 MB",
-    "More": "VNC Server, from RealVNC, the original inventor of VNC technology, is remote access\n software that enables you to securely share one or more desktops on this\n computer with any number of other computers or devices.\n RealVNC recommends the realvnc-vnc-viewer package (VNC Viewer) for these other\n computers and devices, for seamless, secure and reliable connections.",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/b7514ccb049f4cb19221d876cbc9d548.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/1f75b4e59a024ddba65b1d397408a7ae.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/09ae18a64e8c4cad9c52ce4581f125a7.png"
-}
 ,
 {
     "Name": "Google Chrome浏览器测试版",
@@ -2479,6 +2479,23 @@
 }
 ,
 {
+    "Name": "侠客短视频解析去水印工具",
+    "Version": "4.8",
+    "Filename": "com.xiakeduanshipin.deepin_4.8_all.deb",
+    "Torrent_address": "com.xiakeduanshipin.deepin_4.8_all.deb.torrent",
+    "Pkgname": "com.xiakeduanshipin.deepin",
+    "Author": "佚名RJ",
+    "Contributor": "佚名RJ",
+    "Website": "https://www.52pojie.cn/thread-1933305-1-1.html",
+    "Update": "2024-06-16 10:40:00",
+    "Size": "21.71 MB",
+    "More": ".本工具支持无水印解析下载抖音、抖音极速版、快手、快手极速版、剪映、火山、皮皮虾、皮皮搞笑、最右、微视、QQ看点、西瓜视频、小红书、淘宝、天猫、绿洲、美拍、今日头条、微博、各国外平台(随缘)、各平台图集、微信公众号...等等众多短视频平台。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/ee0e20fc3e234fdcb3bbbba72db1d4e0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/4d68576431604f4294f3e1cfd535796e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/c78841dd591540c5b22ca81a48439472.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/aad1ca78729842229f55aad0d3e932b8.png"
+}
+,
+{
     "Name": "ODE 多功能助手",
     "Version": "0.8.3",
     "Filename": "com.ode.deepin_0.8.3_all.deb",
@@ -2510,23 +2527,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/76f975593fa64114944c0d15bb37c439.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/fcd7bd1efccf47d096899ed9eb68019d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/799c32d36e5c4d12af9994133c82f06f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/30/39c35facca4c4456ab7f2e4efbd2f6ab.png"
-}
-,
-{
-    "Name": "侠客短视频解析去水印工具",
-    "Version": "4.8",
-    "Filename": "com.xiakeduanshipin.deepin_4.8_all.deb",
-    "Torrent_address": "com.xiakeduanshipin.deepin_4.8_all.deb.torrent",
-    "Pkgname": "com.xiakeduanshipin.deepin",
-    "Author": "佚名RJ",
-    "Contributor": "佚名RJ",
-    "Website": "https://www.52pojie.cn/thread-1933305-1-1.html",
-    "Update": "2024-06-16 10:40:00",
-    "Size": "21.71 MB",
-    "More": ".本工具支持无水印解析下载抖音、抖音极速版、快手、快手极速版、剪映、火山、皮皮虾、皮皮搞笑、最右、微视、QQ看点、西瓜视频、小红书、淘宝、天猫、绿洲、美拍、今日头条、微博、各国外平台(随缘)、各平台图集、微信公众号...等等众多短视频平台。",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/ee0e20fc3e234fdcb3bbbba72db1d4e0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/4d68576431604f4294f3e1cfd535796e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/c78841dd591540c5b22ca81a48439472.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/aad1ca78729842229f55aad0d3e932b8.png"
 }
 ,
 {

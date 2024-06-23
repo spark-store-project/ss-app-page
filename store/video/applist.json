@@ -597,23 +597,6 @@
 }
 ,
 {
-    "Name": "必剪（wine）",
-    "Version": "1.4.1spark1",
-    "Filename": "com.drawyoo.bcut.spark_1.4.1spark1_i386.deb",
-    "Torrent_address": "com.drawyoo.bcut.spark_1.4.1spark1_i386.deb.torrent",
-    "Pkgname": "com.drawyoo.bcut.spark",
-    "Author": "上海哔哩哔哩科技有限公司",
-    "Contributor": "sgb76",
-    "Website": "http://bcut.drawyoo.com/",
-    "Update": "2022-04-10 14:53:23",
-    "Size": "169.94 MB",
-    "More": "B站出品，就很不同 \n\n注：基于deepin-wine6打包，已知问题：摄像头不可用，窗口无法自由调整。测试有限，还可能有其他问题，仅供尝鲜。",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/10/a824a150-b89a-11ec-81a7-21937782046e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/10/aae2afe0-b89a-11ec-81a7-21937782046e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/10/ad37c370-b89a-11ec-81a7-21937782046e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/10/a59cbdf0-b89a-11ec-81a7-21937782046e.png"
-}
-,
-{
     "Name": "Bilibili客户端(第三方)",
     "Version": "0.2.2",
     "Filename": "avalonia.bilibili_0.2.2_amd64.deb",
@@ -628,6 +611,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/19/5789cf7e-852b-41e2-a545-88c82a193814.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/19/98f7ac13-288e-403e-8034-99a3d6b9a25b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/19/ed172989-61e4-4366-a01d-ca34940a1e8a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/19/b57a3724-3643-4ede-a208-e7e008a62852.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/19/5875cb2c-ddef-4ff8-b0d2-5f74035dc074.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/19/7ecd3c39-c81c-437d-ae06-69a338857592.png"
+}
+,
+{
+    "Name": "必剪（wine）",
+    "Version": "1.4.1spark1",
+    "Filename": "com.drawyoo.bcut.spark_1.4.1spark1_i386.deb",
+    "Torrent_address": "com.drawyoo.bcut.spark_1.4.1spark1_i386.deb.torrent",
+    "Pkgname": "com.drawyoo.bcut.spark",
+    "Author": "上海哔哩哔哩科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "http://bcut.drawyoo.com/",
+    "Update": "2022-04-10 14:53:23",
+    "Size": "169.94 MB",
+    "More": "B站出品，就很不同 \n\n注：基于deepin-wine6打包，已知问题：摄像头不可用，窗口无法自由调整。测试有限，还可能有其他问题，仅供尝鲜。",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/10/a824a150-b89a-11ec-81a7-21937782046e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/10/aae2afe0-b89a-11ec-81a7-21937782046e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/10/ad37c370-b89a-11ec-81a7-21937782046e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/10/a59cbdf0-b89a-11ec-81a7-21937782046e.png"
 }
 ,
 {
