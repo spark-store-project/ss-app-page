@@ -3396,27 +3396,6 @@ Homepage: https://www.antutu.com/
 Description: 安兔兔评测 for linux 安兔兔评测（AnTuTu）是一款跨平台，支持手机、电脑设备的专业性能评定软件。Linux版本的安兔兔支持一键跑分，可评估CPU/GPU/MEM/UX性能。
 
 Package: easy-send
-Architecture: amd64
-Version: 1.1.2
-Priority: optional
-Section: default
-Maintainer: bitporo <bitporo@qq.com>
-Installed-Size: 243838
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: tools/easy-send/easy-send_1.1.2_amd64.deb
-Size: 70138992
-MD5sum: 74081b9201467ef061e508517111ba0a
-SHA1: d7b0fad0e8c1894a42f0af4d980fd3deea60e6e6
-SHA256: 4e3378149961dfc38e78a9802c79c3b3da85c51ee3b60dd01abfeb7ceb32ecf3
-SHA512: 948bf6ba86e716d32fa8da77912a6d6582929a5121b10371ed2dd26cd187bcb96d7c2dcf1ee5bb8466dbf0f72d1c7d879f7e75d952c9cf218ab0bf28f853e5fe
-Homepage: https://easysend.channer.cn
-Description: 
-  A simple share text and file program
-License: GPL-2.0-only
-Vendor: bitporo <bitporo@qq.com>
-
-Package: easy-send
 Architecture: all
 Version: 1.1.3
 Priority: optional
@@ -5037,25 +5016,6 @@ MD5sum: ba4dff18f626907d7a02fd44032047ff
 SHA1: 6cf1df7da240fa88e7da86b66be6c508f42bb300
 SHA256: 202d6e43443f0aa71693f14d3100eb895a6cda26ec38d67198ffe2a72dec861c
 SHA512: 487878d6ec33ec51440afebbcb4b485fb465df3c4fb188a50d6db4a3f35b32c5d73f87ba3e40ae9051cacfe863eeff3645d8a925f030badde9782b19cf20fd4e
-Homepage: https://www.spark-app.store/
-Description: Spark Store
- A community powered app store, based on DTK.
-
-Package: spark-store
-Architecture: amd64
-Version: 4.2.13
-Priority: optional
-Section: utils
-Maintainer: shenmo <shenmo@spark-app.store>
-Installed-Size: 1336
-Provides: spark-store-console-in-container
-Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.4), libdtkgui5 (>= 5.4), libdtkwidget5 (>= 5.4), libgcc1 (>= 1:3.0), libgl1, libqt5concurrent5 (>= 5.0.2), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.5.0), libqt5gui5 (>= 5.10.0), libqt5network5 (>= 5.0.2), libqt5positioning5 (>= 5.6.0), libqt5printsupport5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5webchannel5 (>= 5.6.1), libqt5webenginecore5 (>= 5.7.1), libqt5webenginewidgets5 (>= 5.7.1), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 5.2), qtwayland5, curl, openssl, dde-qt5integration, aria2, gnupg, zenity, policykit-1, libnotify-bin, desktop-file-utils, dpkg-dev
-Filename: tools/spark-store/spark-store_4.2.13_amd64.deb
-Size: 711544
-MD5sum: e063df04691237970371523b922bef83
-SHA1: e7f0b8fe27750d8482c4abdf159c6e4097b42f35
-SHA256: 85f9e85e9e7aba870e0e3a9aea6d5527befd2f2bb67807fc3a15b524b1fdd331
-SHA512: 85128e3c48a800590fff2656de07ed1b26b7843d606f0614477a668aa53fe733eb88985fd0be131a37ca233486379abb2c2e098619c431ed47f4f46b7b7b3591
 Homepage: https://www.spark-app.store/
 Description: Spark Store
  A community powered app store, based on DTK.
@@ -34321,28 +34281,6 @@ Description:
 License: unknown
 Vendor: Eugene Pankov <e@ajenti.org>
 
-Package: tabby-terminal
-Architecture: amd64
-Version: 1.0.207
-Priority: optional
-Section: default
-Maintainer: Eugene Pankov <e@ajenti.org>
-Installed-Size: 389941
-Depends: gconf2, gconf-service, gnome-keyring, libnotify4, libsecret-1-0, libxtst6, libnss3
-Recommends: libappindicator3-1
-Replaces: terminus-terminal
-Filename: development/tabby-terminal/tabby-terminal_1.0.207_amd64.deb
-Size: 88799364
-MD5sum: a0b16bbb805834da932d0e03bb85405d
-SHA1: f34a3c7267ecb81b287dfbd39b193856618aacd1
-SHA256: 3d34e42f7fa661beca33c7c3526802b80176954f3c7d83acb465a9fcee5665ab
-SHA512: 2ba634e70290fc86d723bd8ad374320b1960629a4c32d4186ddf21b1c1b5caf0881b47063359b58f5f2523f15e10ed34edcc6e47460abeec5adfa990aa44f5d1
-Homepage: https://github.com/Eugeny/tabby#readme
-Description: 
-  A terminal for a modern age
-License: unknown
-Vendor: Eugene Pankov <e@ajenti.org>
-
 Package: github-desktop
 Architecture: amd64
 Version: 3.3.3-linux2
@@ -35734,22 +35672,6 @@ MD5sum: 59ce935ce5de5138ee09b09b3ad001ec
 SHA1: 12c15f6e5fa99c76ae488059af3bf52906bfb0fe
 SHA256: de2b6975c6d304746811d29537e1bed168eaae695c8bdf6700a7c7c828afb57e
 SHA512: 8d2c5330bb1f3c0327f9070c6cb5511c8a10b304ceaa372e949cd5596e79a827f7e9d62fef1b6aa6dba1f6d967cb0f469ea724fbfee980849c175e12b257474f
-Description: WeiXin Client on Deepin Wine8
-
-Package: com.qq.weixin.spark
-Architecture: all
-Version: 3.9.10deepin1
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: sgb76 <sgb76@163.com>
-Depends: deepin-wine8-stable, spark-dwine-helper (>= 5.6.3.1-5.3.14), fonts-wqy-microhei, fonts-wqy-zenhei
-Filename: chat/com.qq.weixin.spark/com.qq.weixin.spark_3.9.10deepin1_all.deb
-Size: 396979660
-MD5sum: 4661d186b310565ad8870160eb911661
-SHA1: a5f9ee28d2bcc90ee5cf1a61ea760929fcc0ce2d
-SHA256: 6751231ccdf2d5ae548fd18b10a824a9b591f79c10bca3a57282e565f800e6ff
-SHA512: d84db747f497e9e1de55c50d9f63473f5f489dc06aa917946ac5e9e7951c1e72bc53be4c8b397fa39529c71f07e1017119f09604be8587cea5a4e1dc001817a8
 Description: WeiXin Client on Deepin Wine8
 
 Package: web-jgchat
