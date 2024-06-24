@@ -69,19 +69,19 @@
 ,
 {
     "Name": "星火应用商店",
-    "Version": "4.2.13",
-    "Filename": "spark-store_4.2.13_amd64.deb",
-    "Torrent_address": "spark-store_4.2.13_amd64.deb.torrent",
+    "Version": "4.2.13.1",
+    "Filename": "spark-store_4.2.13.1_amd64.deb",
+    "Torrent_address": "spark-store_4.2.13.1_amd64.deb.torrent",
     "Pkgname": "spark-store",
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Website": "https://www.spark-app.store/",
-    "Update": "2024-06-23 16:31:28",
-    "Size": "694.87 KB",
-    "More": "* 未经测试文案修改\n* 龙芯平台并入主线\n* 修复：更新过程中中断无法再次启动更新检查",
+    "Update": "2024-06-24 12:37:05",
+    "Size": "695.34 KB",
+    "More": "降低安装失败概率",
     "Tags": "community;ubuntu;deepin;uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/a5b4ff2219364279bd8d84afea0c5d8d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/d265af219130485d9508567192f090e3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/647f8c143b6749b59063dc168295abd3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/58e8289cbeda4bc5aa8e896e4efb046a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/23/f82e0fa4c68d432987bf9f52db97ba15.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/f409e692897d43ecb519943059a4f359.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/992fc1e1377a47f6a5de3616838c3e43.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/da47d1ffec1d4eb98b2634583af7d7f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/2267c4fdf6d74515b867ed35a03084a3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/24/5362020fc87f402a87e7e1b3acea8b66.png"
 }
 ,
 {
@@ -1912,6 +1912,23 @@
 }
 ,
 {
+    "Name": "系统监视中心",
+    "Version": "2.26.0",
+    "Filename": "system-monitoring-center_2.26.0_all.deb",
+    "Torrent_address": "system-monitoring-center_2.26.0_all.deb.torrent",
+    "Pkgname": "system-monitoring-center",
+    "Author": "Hakan Dündar <hakandundar34coding@gmail.com>",
+    "Contributor": "Hakan Dündar <hakandundar34coding@gmail.com>",
+    "Website": "https://github.com/hakandundar34coding/system-monitoring-center",
+    "Update": "2023-11-18 22:29:40",
+    "Size": "174.94 KB",
+    "More": "Provides information about CPU/RAM/Disk/Network/GPU performance, sensors,\n processes, users, services and system.\n提示：此软件为最终版本，作者已经宣布停更。\n deepin用户可安装ACE后在ACE环境中安装",
+    "Tags": "ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/d9637c265212451b99c2eb2c21cfcd3a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/7823e438c63945d98e784149eccb311f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/18/7fa7aea14fad473ebfc6221f7ecee220.png"
+}
+,
+{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "spark-dwine-helper_5.6.4.1-5.3.14_all.deb",
@@ -1928,23 +1945,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/screen_1.png\"]"
 }
 
-,
-{
-    "Name": "系统监视中心",
-    "Version": "2.26.0",
-    "Filename": "system-monitoring-center_2.26.0_all.deb",
-    "Torrent_address": "system-monitoring-center_2.26.0_all.deb.torrent",
-    "Pkgname": "system-monitoring-center",
-    "Author": "Hakan Dündar <hakandundar34coding@gmail.com>",
-    "Contributor": "Hakan Dündar <hakandundar34coding@gmail.com>",
-    "Website": "https://github.com/hakandundar34coding/system-monitoring-center",
-    "Update": "2023-11-18 22:29:40",
-    "Size": "174.94 KB",
-    "More": "Provides information about CPU/RAM/Disk/Network/GPU performance, sensors,\n processes, users, services and system.\n提示：此软件为最终版本，作者已经宣布停更。\n deepin用户可安装ACE后在ACE环境中安装",
-    "Tags": "ubuntu;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/d9637c265212451b99c2eb2c21cfcd3a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/7823e438c63945d98e784149eccb311f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/18/7fa7aea14fad473ebfc6221f7ecee220.png"
-}
 ,
 {
     "Name": "Q4Wine",
@@ -2230,23 +2230,6 @@
 }
 ,
 {
-    "Name": "Bitwarden密码管理",
-    "Version": "2022.9.1",
-    "Filename": "bitwarden-spark_2022.9.1_amd64.deb",
-    "Torrent_address": "bitwarden-spark_2022.9.1_amd64.deb.torrent",
-    "Pkgname": "bitwarden-spark",
-    "Author": "spark-store",
-    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
-    "Website": "https://bitwarden.com/",
-    "Update": "2022-10-11 13:14:50",
-    "Size": "86.93 MB",
-    "More": "Bitwarden密码管理。",
-    "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/11/60f5c865-61cf-4375-94a3-e9da3d24b0de.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/11/e4e8a83f-5036-4821-988c-697bfc04cea3.png"
-}
-,
-{
     "Name": "GXDE 内核管理器 1.1.0",
     "Version": "1.1.0",
     "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
@@ -2261,6 +2244,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
+}
+,
+{
+    "Name": "Bitwarden密码管理",
+    "Version": "2022.9.1",
+    "Filename": "bitwarden-spark_2022.9.1_amd64.deb",
+    "Torrent_address": "bitwarden-spark_2022.9.1_amd64.deb.torrent",
+    "Pkgname": "bitwarden-spark",
+    "Author": "spark-store",
+    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
+    "Website": "https://bitwarden.com/",
+    "Update": "2022-10-11 13:14:50",
+    "Size": "86.93 MB",
+    "More": "Bitwarden密码管理。",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/11/60f5c865-61cf-4375-94a3-e9da3d24b0de.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/11/e4e8a83f-5036-4821-988c-697bfc04cea3.png"
 }
 ,
 {
@@ -2482,23 +2482,6 @@
 }
 ,
 {
-    "Name": "屏亮小灯",
-    "Version": "1.0.0",
-    "Filename": "com.wingsummer.screenlight_1.0.0_amd64.deb",
-    "Torrent_address": "com.wingsummer.screenlight_1.0.0_amd64.deb.torrent",
-    "Pkgname": "com.wingsummer.screenlight",
-    "Author": "寂静的羽夏(wingsummer)",
-    "Contributor": "wingsummer <1326224942@qq.com>",
-    "Website": "https://www.cnblogs.com/wingsummer/",
-    "Update": "2022-12-02 18:36:46",
-    "Size": "69.42 KB",
-    "More": "本软件是基于 QT 编写的屏幕亮度调节工具，采用 C++ 进行开发。如果你在使用 Deepin 无法使用设置中心或者调控屏幕亮度的热键调控亮度，你可以尝试一下使用该程序是否能够解决问题。 本程序可能会和系统设置的屏幕亮度会有冲突，除非你只想用该程序设置屏幕亮度。程序退出之后，亮度的设置应用仍旧有效。\n帮助文档：https://code.gitlink.org.cn/wingsummer/ScreenLight/wiki/%E6%96%87%E6%A1%A3",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/02/c9cd975959b14de8915cf13463475162.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/02/e6c8e979077a4bfebb9205162013f246.png"
-}
-,
-{
     "Name": "Apk 文件查看器",
     "Version": "1.1-20231207",
     "Filename": "z-tools-base-apk-view_1.1-20231207_amd64.deb",
@@ -2516,20 +2499,20 @@
 }
 ,
 {
-    "Name": "Podman Desktop",
-    "Version": "1.2.0",
-    "Filename": "podman-desktop_1.2.0_amd64.deb",
-    "Torrent_address": "podman-desktop_1.2.0_amd64.deb.torrent",
-    "Pkgname": "podman-desktop",
-    "Author": "懵仙兔兔 <acgm@qq.com>",
-    "Contributor": "rainoffallingstar <15860147513@163.com>",
-    "Website": "https://github.com/containers/podman-desktop",
-    "Update": "2023-07-15 16:21:04",
-    "Size": "80.93 MB",
-    "More": "Podman Desktop 是一个图形界面工具，使应用程序开发人员能够无缝地使用容器和 Kubernetes。\n\nPodman Desktop 在您的本地环境中安装、配置 Podman 并使 Podman 保持最新。它提供了一个系统托盘，用于检查状态并与您的容器引擎交互，而不会失去对其他任务的关注。桌面应用程序提供了一个仪表板来与容器、图像、pod 和卷进行交互，还可以使用 OCI 注册表和网络设置来配置您的环境。Podman Desktop 还提供将 pod 连接和部署到 Kubernetes 环境的功能。\n\nPodman Desktop 还支持多种容器引擎，选择你最喜欢的并使用该工具！",
+    "Name": "屏亮小灯",
+    "Version": "1.0.0",
+    "Filename": "com.wingsummer.screenlight_1.0.0_amd64.deb",
+    "Torrent_address": "com.wingsummer.screenlight_1.0.0_amd64.deb.torrent",
+    "Pkgname": "com.wingsummer.screenlight",
+    "Author": "寂静的羽夏(wingsummer)",
+    "Contributor": "wingsummer <1326224942@qq.com>",
+    "Website": "https://www.cnblogs.com/wingsummer/",
+    "Update": "2022-12-02 18:36:46",
+    "Size": "69.42 KB",
+    "More": "本软件是基于 QT 编写的屏幕亮度调节工具，采用 C++ 进行开发。如果你在使用 Deepin 无法使用设置中心或者调控屏幕亮度的热键调控亮度，你可以尝试一下使用该程序是否能够解决问题。 本程序可能会和系统设置的屏幕亮度会有冲突，除非你只想用该程序设置屏幕亮度。程序退出之后，亮度的设置应用仍旧有效。\n帮助文档：https://code.gitlink.org.cn/wingsummer/ScreenLight/wiki/%E6%96%87%E6%A1%A3",
     "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/ef47a4cb336141df8eb993963fa2df63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/2be514f2364a45f195cb6181f57d205f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/9cad5d8694c74e1888a3f91faf7d7319.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/2faabf82fca341068dfce93d83e0e824.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/7ca47916afe545e592e32cf8c14b2b72.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/15/4602ae8e6a33439a988e9a2cda17ccfa.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/02/c9cd975959b14de8915cf13463475162.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/02/e6c8e979077a4bfebb9205162013f246.png"
 }
 ,
 {
@@ -2547,6 +2530,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/10/5d0f1c4847064375847fa4812cebede2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/10/13c55cd32bee4160a60c5ceffccb674c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/10/0f659508bc21450a8f986706d41db058.png"
+}
+,
+{
+    "Name": "Podman Desktop",
+    "Version": "1.2.0",
+    "Filename": "podman-desktop_1.2.0_amd64.deb",
+    "Torrent_address": "podman-desktop_1.2.0_amd64.deb.torrent",
+    "Pkgname": "podman-desktop",
+    "Author": "懵仙兔兔 <acgm@qq.com>",
+    "Contributor": "rainoffallingstar <15860147513@163.com>",
+    "Website": "https://github.com/containers/podman-desktop",
+    "Update": "2023-07-15 16:21:04",
+    "Size": "80.93 MB",
+    "More": "Podman Desktop 是一个图形界面工具，使应用程序开发人员能够无缝地使用容器和 Kubernetes。\n\nPodman Desktop 在您的本地环境中安装、配置 Podman 并使 Podman 保持最新。它提供了一个系统托盘，用于检查状态并与您的容器引擎交互，而不会失去对其他任务的关注。桌面应用程序提供了一个仪表板来与容器、图像、pod 和卷进行交互，还可以使用 OCI 注册表和网络设置来配置您的环境。Podman Desktop 还提供将 pod 连接和部署到 Kubernetes 环境的功能。\n\nPodman Desktop 还支持多种容器引擎，选择你最喜欢的并使用该工具！",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/ef47a4cb336141df8eb993963fa2df63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/2be514f2364a45f195cb6181f57d205f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/9cad5d8694c74e1888a3f91faf7d7319.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/2faabf82fca341068dfce93d83e0e824.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/7ca47916afe545e592e32cf8c14b2b72.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/15/4602ae8e6a33439a988e9a2cda17ccfa.png"
 }
 ,
 {
@@ -3219,6 +3219,23 @@
 
 ,
 {
+    "Name": "CPU 排名搜索工具",
+    "Version": "0.1-20231206",
+    "Filename": "cpu-rank-search_0.1-20231206_amd64.deb",
+    "Torrent_address": "cpu-rank-search_0.1-20231206_amd64.deb.torrent",
+    "Pkgname": "cpu-rank-search",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/qt.bmxc-cpu",
+    "Update": "2023-12-06 17:16:38",
+    "Size": "21.53 KB",
+    "More": "本软件基于 BMCX (便民查询) 网的数据简要，作为CPU的排名来源。\n .\n 包含一个可执行文件;\n .\n Build for Deepin20.9 through spark-deb-build.",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/2a89a282a98c49c5a0e0055076ab87e7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/be4215830ba54d0da98e2bf2e9438a2d.png"
+}
+,
+{
     "Name": "键盘检测(Wine)",
     "Version": "1.0.0",
     "Filename": "com.jianpanjiancegongju.spark_1.0.0_i386.deb",
@@ -3250,23 +3267,6 @@
     "Tags": "community;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/31b6b713b891428dbf6cd1ac3b12376f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/e2801c76dcd24fe68f7118439cb073d7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/6e3b4b484adb44e19998b2f413b0a0f4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/08f655712b4441bbb59256f7e049c2c9.png"
-}
-,
-{
-    "Name": "CPU 排名搜索工具",
-    "Version": "0.1-20231206",
-    "Filename": "cpu-rank-search_0.1-20231206_amd64.deb",
-    "Torrent_address": "cpu-rank-search_0.1-20231206_amd64.deb.torrent",
-    "Pkgname": "cpu-rank-search",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/qt.bmxc-cpu",
-    "Update": "2023-12-06 17:16:38",
-    "Size": "21.53 KB",
-    "More": "本软件基于 BMCX (便民查询) 网的数据简要，作为CPU的排名来源。\n .\n 包含一个可执行文件;\n .\n Build for Deepin20.9 through spark-deb-build.",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/2a89a282a98c49c5a0e0055076ab87e7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/be4215830ba54d0da98e2bf2e9438a2d.png"
 }
 ,
 {
@@ -4602,6 +4602,23 @@
 }
 ,
 {
+    "Name": "时钟大师",
+    "Version": "1.5-20240517",
+    "Filename": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb",
+    "Torrent_address": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb.torrent",
+    "Pkgname": "com.gitee.xinghuo.clock",
+    "Author": "夜行者",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gitee.com/xinghuowangluo/clockwidget",
+    "Update": "2024-06-08 09:33:03",
+    "Size": "54.19 KB",
+    "More": "桌面时钟圆形钟盘设计，钟盘内为星期、时间及日期显示。可设置圆环颜色、刻度及指针颜色，同时可以设置闹钟。",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/5e2984ccd58b425f82f553dc1cde8dcf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/c05fd447264b4d579157d087f7b929e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/d10a9b5894d247cf96413130496e8ead.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/17c17f17215047d69e2b19389ea120e3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/d6cd5c8c76fe4785865048fcdca8c748.png"
+}
+,
+{
     "Name": "Advanced PassGen",
     "Version": "2.4.0spark0",
     "Filename": "com.codedead.advanced-passgen.spark_2.4.0spark0_amd64.deb",
@@ -4633,23 +4650,6 @@
     "Tags": "community",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/583593b26b9741449ca7ba8789f76d73.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/a6712da25a2f473e84becf093fb845d4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/3e364e153b69436f8a450a0304090265.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/1343c23fd2b34f60885703b6472b56a4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/22/2a7cb8978cdc4c11b4a00ad3b8a23d02.png"
-}
-,
-{
-    "Name": "时钟大师",
-    "Version": "1.5-20240517",
-    "Filename": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb",
-    "Torrent_address": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb.torrent",
-    "Pkgname": "com.gitee.xinghuo.clock",
-    "Author": "夜行者",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gitee.com/xinghuowangluo/clockwidget",
-    "Update": "2024-06-08 09:33:03",
-    "Size": "54.19 KB",
-    "More": "桌面时钟圆形钟盘设计，钟盘内为星期、时间及日期显示。可设置圆环颜色、刻度及指针颜色，同时可以设置闹钟。",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/5e2984ccd58b425f82f553dc1cde8dcf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/c05fd447264b4d579157d087f7b929e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/d10a9b5894d247cf96413130496e8ead.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/17c17f17215047d69e2b19389ea120e3.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/d6cd5c8c76fe4785865048fcdca8c748.png"
 }
 ,
 {

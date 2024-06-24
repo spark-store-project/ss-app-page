@@ -1417,23 +1417,6 @@
 }
 ,
 {
-    "Name": "Kuro(第三方微软 Todo)",
-    "Version": "9.0.0",
-    "Filename": "kuro_9.0.0_amd64.deb",
-    "Torrent_address": "kuro_9.0.0_amd64.deb.torrent",
-    "Pkgname": "kuro",
-    "Author": "davidsmorais <david@dsmorais.com>",
-    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
-    "Website": "https://github.com/davidsmorais/kuro#readme",
-    "Update": "2023-03-31 16:52:04",
-    "Size": "64.91 MB",
-    "More": "一个微软to-do的第三方客户端\n  Kuro is an unofficial, featureful, open source, community-driven, free Microsoft To-Do app, used by people in more than 120 countries. (Ao fork)",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/31/0decdf5e58284e4592f2e4c309cf88ab.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/31/ecd5b9d3ed5744cfa54bac952d8e4705.png"
-}
-,
-{
     "Name": "中国大学MOOC(uengine)",
     "Version": "4.24.12",
     "Filename": "uengine-dc-com.netease.edu.ucmooc_4.24.12_all.deb",
@@ -1448,6 +1431,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/29/5cb3ce18-48d8-4b1e-8029-707c9347476f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/29/d9d227dd-09ce-428f-92c4-84b5452ae128.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/29/87a0218a-6634-4964-a1a3-51e45d9038f0.netease.edu.ucmooc.png"
+}
+,
+{
+    "Name": "Kuro(第三方微软 Todo)",
+    "Version": "9.0.0",
+    "Filename": "kuro_9.0.0_amd64.deb",
+    "Torrent_address": "kuro_9.0.0_amd64.deb.torrent",
+    "Pkgname": "kuro",
+    "Author": "davidsmorais <david@dsmorais.com>",
+    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
+    "Website": "https://github.com/davidsmorais/kuro#readme",
+    "Update": "2023-03-31 16:52:04",
+    "Size": "64.91 MB",
+    "More": "一个微软to-do的第三方客户端\n  Kuro is an unofficial, featureful, open source, community-driven, free Microsoft To-Do app, used by people in more than 120 countries. (Ao fork)",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/31/0decdf5e58284e4592f2e4c309cf88ab.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/31/ecd5b9d3ed5744cfa54bac952d8e4705.png"
 }
 ,
 {
@@ -1535,22 +1535,6 @@
 }
 ,
 {
-    "Name": "PDF OCR识别工具",
-    "Version": "0.1",
-    "Filename": "nexfia.pdf-ocr_0.1_amd64.deb",
-    "Pkgname": "nexfia.pdf-ocr",
-    "Author": "nexfia",
-    "Contributor": "nexfia",
-    "Website": "https://gitee.com/nexfia",
-    "Update": "2021-05-21 18:23:57",
-    "Size": "91.36 KB",
-    "More": "PDF扫描件OCR识别。支持中英文识别。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/21/a2e453f0-ba1e-11eb-9784-eb09de216206.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/21/9341f290-ba1e-11eb-9784-eb09de216206.svg"
-}
-,
-{
     "Name": "通达信海通证券版（wine）",
     "Version": "1.0.0.0deepin5",
     "Filename": "com.tdxw.deepin_1.0.0.0deepin5_i386.deb",
@@ -1564,6 +1548,22 @@
     "Tags": "deepin;ubuntu;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/78ced4a0-be1a-11eb-93b7-1fb62ee74886.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/7b3dd8d0-be1a-11eb-93b7-1fb62ee74886.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/26/c48bc1e0-be1b-11eb-93b7-1fb62ee74886.png"
+}
+,
+{
+    "Name": "PDF OCR识别工具",
+    "Version": "0.1",
+    "Filename": "nexfia.pdf-ocr_0.1_amd64.deb",
+    "Pkgname": "nexfia.pdf-ocr",
+    "Author": "nexfia",
+    "Contributor": "nexfia",
+    "Website": "https://gitee.com/nexfia",
+    "Update": "2021-05-21 18:23:57",
+    "Size": "91.36 KB",
+    "More": "PDF扫描件OCR识别。支持中英文识别。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/21/a2e453f0-ba1e-11eb-9784-eb09de216206.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/21/9341f290-ba1e-11eb-9784-eb09de216206.svg"
 }
 ,
 {
@@ -1665,23 +1665,6 @@
 }
 ,
 {
-    "Name": "平安证券慧赢客户端（wine）",
-    "Version": "8.252deepin5",
-    "Filename": "com.pingan.huiying.spark_8.252deepin5_i386.deb",
-    "Torrent_address": "com.pingan.huiying.spark_8.252deepin5_i386.deb.torrent",
-    "Pkgname": "com.pingan.huiying.spark",
-    "Author": "中国平安保险（集团）股份有限公司",
-    "Contributor": "delsin",
-    "Website": "https://stock.pingan.com/static/info/download/index.html",
-    "Update": "2022-05-02 15:44:21",
-    "Size": "325.44 MB",
-    "More": "平安证券慧赢客户端v8.25，由Deepin-wine5运行。\nPingAnZhengQuan HuiYing Client v8.25 on Deepin-Wine5.\n提示：\n（1）本版本更改了注册表以优化字体显示。\n（2）本版本更新时会覆盖原有版本的安装目录，请在更新前手动备份安装目录下的T0002、vipdoc文件夹，以免日线数据、用户自定义数据被抹除。\n（3）对于高分辨率屏幕字体显示太小的问题，请在终端安装并自定义winetricks。安装命令：sudo apt install winetricks。自定义分辨率的终端命令：WINEPREFIX=\"/home/你的用户名/.deepinwine/Deepin-PingAnHuiYing\" winetricks 请在弹出的界面中选择默认的wine容器——运行winecfg——显示——屏幕分辨率。屏幕分辨率越高，dpi需设置越大（可多调整几次dpi，以期达到最佳显示效果）。另外，在通达信运行后在系统设置——外观——报价字号——大型/超大型，大号菜单，也可一定程度解决显示字体太小的问题；\n（4）卸载该应用后会在~/.deepinwine/Deepin-PingAnHuiYing留下残留，需自行删除Deepin-PingAnHuiYing文件夹。",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/02/671db360-c9eb-11ec-97e9-6d7208993390.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/02/692961e0-c9eb-11ec-97e9-6d7208993390.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/02/63f79430-c9eb-11ec-97e9-6d7208993390.png"
-}
-,
-{
     "Name": "Trilium Notes",
     "Version": "0.63.7",
     "Filename": "trilium_0.63.7_amd64.deb",
@@ -1696,6 +1679,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/18/780f51ef5acb4bd48fd7fbfdd3436c70.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/18/68785c2e222943208891e5a3ec421d31.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/18/1b04299d6bd647c4a2843e302eb415cf.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/18/8479e35807e04d5fb6e390c0a2fab762.png"
+}
+,
+{
+    "Name": "平安证券慧赢客户端（wine）",
+    "Version": "8.252deepin5",
+    "Filename": "com.pingan.huiying.spark_8.252deepin5_i386.deb",
+    "Torrent_address": "com.pingan.huiying.spark_8.252deepin5_i386.deb.torrent",
+    "Pkgname": "com.pingan.huiying.spark",
+    "Author": "中国平安保险（集团）股份有限公司",
+    "Contributor": "delsin",
+    "Website": "https://stock.pingan.com/static/info/download/index.html",
+    "Update": "2022-05-02 15:44:21",
+    "Size": "325.44 MB",
+    "More": "平安证券慧赢客户端v8.25，由Deepin-wine5运行。\nPingAnZhengQuan HuiYing Client v8.25 on Deepin-Wine5.\n提示：\n（1）本版本更改了注册表以优化字体显示。\n（2）本版本更新时会覆盖原有版本的安装目录，请在更新前手动备份安装目录下的T0002、vipdoc文件夹，以免日线数据、用户自定义数据被抹除。\n（3）对于高分辨率屏幕字体显示太小的问题，请在终端安装并自定义winetricks。安装命令：sudo apt install winetricks。自定义分辨率的终端命令：WINEPREFIX=\"/home/你的用户名/.deepinwine/Deepin-PingAnHuiYing\" winetricks 请在弹出的界面中选择默认的wine容器——运行winecfg——显示——屏幕分辨率。屏幕分辨率越高，dpi需设置越大（可多调整几次dpi，以期达到最佳显示效果）。另外，在通达信运行后在系统设置——外观——报价字号——大型/超大型，大号菜单，也可一定程度解决显示字体太小的问题；\n（4）卸载该应用后会在~/.deepinwine/Deepin-PingAnHuiYing留下残留，需自行删除Deepin-PingAnHuiYing文件夹。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/02/671db360-c9eb-11ec-97e9-6d7208993390.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/02/692961e0-c9eb-11ec-97e9-6d7208993390.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/02/63f79430-c9eb-11ec-97e9-6d7208993390.png"
 }
 ,
 {
@@ -2571,6 +2571,23 @@
 }
 ,
 {
+    "Name": "WPS Office 365",
+    "Version": "12.8.2.16969.AK.preload.sw",
+    "Filename": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb",
+    "Torrent_address": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb.torrent",
+    "Pkgname": "wps-office-365",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://wps-community.org",
+    "Update": "2024-06-16 10:13:44",
+    "Size": "722.16 MB",
+    "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/819a4c6aea004b1bb9059da5c1511085.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6bd9ad01e587436fb9ca5e74ef078921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/76097ef94d21409091dbcada9fcefe7c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/2dffce17cb754c4a8407d85de5511bc2.png"
+}
+,
+{
     "Name": "全球学术快报",
     "Version": "0.2.31spark0",
     "Filename": "net.cnki.cnkiexpress.spark_0.2.31spark0_amd64.deb",
@@ -2601,23 +2618,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/26/bf9e1ca0-96b5-11ec-824e-3f1c67982b36.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/02/26/b50e4120-96b5-11ec-824e-3f1c67982b36.svg"
-}
-,
-{
-    "Name": "WPS Office 365",
-    "Version": "12.8.2.16969.AK.preload.sw",
-    "Filename": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb",
-    "Torrent_address": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb.torrent",
-    "Pkgname": "wps-office-365",
-    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://wps-community.org",
-    "Update": "2024-06-16 10:13:44",
-    "Size": "722.16 MB",
-    "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/819a4c6aea004b1bb9059da5c1511085.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6bd9ad01e587436fb9ca5e74ef078921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/76097ef94d21409091dbcada9fcefe7c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/2dffce17cb754c4a8407d85de5511bc2.png"
 }
 ,
 {

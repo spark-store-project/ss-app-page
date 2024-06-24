@@ -1,16 +1,16 @@
 {
     "Name": "星火应用商店",
-    "Version": "4.2.13",
-    "Filename": "spark-store_4.2.13_amd64.deb",
-    "Torrent_address": "spark-store_4.2.13_amd64.deb.torrent",
+    "Version": "4.2.13.1",
+    "Filename": "spark-store_4.2.13.1_amd64.deb",
+    "Torrent_address": "spark-store_4.2.13.1_amd64.deb.torrent",
     "Pkgname": "spark-store",
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Website": "https://www.spark-app.store/",
-    "Update": "2024-06-23 16:31:28",
-    "Size": "694.87 KB",
-    "More": "* 未经测试文案修改\n* 龙芯平台并入主线\n* 修复：更新过程中中断无法再次启动更新检查",
+    "Update": "2024-06-24 12:37:05",
+    "Size": "695.34 KB",
+    "More": "降低安装失败概率",
     "Tags": "community;ubuntu;deepin;uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/a5b4ff2219364279bd8d84afea0c5d8d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/d265af219130485d9508567192f090e3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/647f8c143b6749b59063dc168295abd3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/58e8289cbeda4bc5aa8e896e4efb046a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/23/f82e0fa4c68d432987bf9f52db97ba15.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/f409e692897d43ecb519943059a4f359.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/992fc1e1377a47f6a5de3616838c3e43.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/da47d1ffec1d4eb98b2634583af7d7f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/2267c4fdf6d74515b867ed35a03084a3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/24/5362020fc87f402a87e7e1b3acea8b66.png"
 }

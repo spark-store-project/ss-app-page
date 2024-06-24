@@ -943,6 +943,22 @@
 
 ,
 {
+    "Name": "Zulip",
+    "Version": "5.8.1spark0",
+    "Filename": "com.zulip.spark_5.8.1spark0_amd64.deb",
+    "Pkgname": "com.zulip.spark",
+    "Author": "Tim Abbott",
+    "Contributor": "sgb76",
+    "Website": "https://zulip.com/",
+    "Update": "2021-09-06 15:11:39",
+    "Size": "56.58 MB",
+    "More": "Zulip是一款将实时聊天的即时性与电子邮件线程模型相结合的分布式团队聊天软件。",
+    "Tags": "ubuntu;deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/06/812ca560-0ee1-11ec-92cb-f1d97def1689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/06/864daa30-0ee1-11ec-92cb-f1d97def1689.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/09/06/78376710-0ee1-11ec-92cb-f1d97def1689.png"
+}
+,
+{
     "Name": "云视频会议系统",
     "Version": "8.0.9.4513-1",
     "Filename": "com.lhmeeting.client_8.0.9.4513-1_amd64.deb",
@@ -972,22 +988,6 @@
    "More":"潮信：和重要的人，聊重要的事。潮信旨在为用户提供安全可靠的聊天环境，专精要事交谈。潮信安全聊天采用端对端加密消息传输，服务器不留痕迹，消息阅后即焚，真正做到绝密、无痕。潮信支持Android、iOS、Windows以及Mac等各种平台，亦拥有Web版本。同一账号可同时登陆多个平台，各设备之间消息实时同步，并能互传文件。"
 }
 
-,
-{
-    "Name": "Zulip",
-    "Version": "5.8.1spark0",
-    "Filename": "com.zulip.spark_5.8.1spark0_amd64.deb",
-    "Pkgname": "com.zulip.spark",
-    "Author": "Tim Abbott",
-    "Contributor": "sgb76",
-    "Website": "https://zulip.com/",
-    "Update": "2021-09-06 15:11:39",
-    "Size": "56.58 MB",
-    "More": "Zulip是一款将实时聊天的即时性与电子邮件线程模型相结合的分布式团队聊天软件。",
-    "Tags": "ubuntu;deepin;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/06/812ca560-0ee1-11ec-92cb-f1d97def1689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/06/864daa30-0ee1-11ec-92cb-f1d97def1689.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/09/06/78376710-0ee1-11ec-92cb-f1d97def1689.png"
-}
 ,
 {
     "Name": "Ferdium",
