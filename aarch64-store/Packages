@@ -1240,6 +1240,27 @@ SHA512: f9d39fbc15ca49b33e36bfc1154bcda6bed9fd058b5ac1d2492a9dc6db3fa4bf940bbb51
 Homepage: https://www.antutu.com/
 Description: 安兔兔评测 for linux 安兔兔评测（AnTuTu）是一款跨平台，支持手机、电脑设备的专业性能评定软件。Linux版本的安兔兔支持一键跑分，可评估CPU/GPU/MEM/UX性能。
 
+Package: easy-send
+Architecture: all
+Version: 1.1.3
+Priority: optional
+Section: default
+Maintainer: bitporo <bitporo@qq.com>
+Installed-Size: 244123
+Depends: com.electron
+Recommends: libappindicator3-1
+Filename: tools/easy-send/easy-send_1.1.3_all.deb
+Size: 7955468
+MD5sum: 29300b95fa459899ef55829cdaba0ad7
+SHA1: ba85f3b9c65a89c7e512f29fdc8466bfb1380195
+SHA256: 76953694214766590b482cea4fc2f97d6fbd7d3eae78384f3ffc1dc04f6147de
+SHA512: 9717f9b23481823eae50d30dc5f68fcf2f2047f1d3a2393e5d8f1b12d265d872f94c90f535ce01d696413662479a058747916678519dd7a9ebdb3a2b4392b2a3
+Homepage: https://easysend.channer.cn
+Description: 
+  便捷的局域网共享文本文件小工具，简捷使用，传送方便，仅需一台设备启动，其余设备使用浏览器访问即可使用
+License: GPL-2.0-only
+Vendor: bitporo <bitporo@qq.com>
+
 Package: gxde-kernel-manager
 Architecture: arm64
 Version: 1.1.0

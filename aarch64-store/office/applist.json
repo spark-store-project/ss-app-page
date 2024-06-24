@@ -612,6 +612,24 @@
 
 ,
 {
+    "Author": "Xylink team <support@xylink.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.xylink.linuxclient_3.3.1.15042_arm64.deb",
+    "More": "小鱼易连（Linux）",
+    "Name": "小鱼易连",
+    "Pkgname": "com.xylink.linuxclient",
+    "Size": "103 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.xylink.linuxclient_3.3.1.15042_arm64.deb.torrent",
+    "Update": "2023-11-04 13:25:24",
+    "Version": "3.3.1.15042",
+    "Website": "https://www.xylink.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/com.xylink.linuxclient/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.xylink.linuxclient/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.xylink.linuxclient/screen_2.png\"]"
+}
+
+,
+{
     "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb",
@@ -662,24 +680,6 @@
     "Website": "http://www.haoxg.net/index.html",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/office/net.haoxg.ediary.spark/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/net.haoxg.ediary.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/net.haoxg.ediary.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/net.haoxg.ediary.spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/net.haoxg.ediary.spark/screen_4.png\"]"
-}
-
-,
-{
-    "Author": "Xylink team <support@xylink.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.xylink.linuxclient_3.3.1.15042_arm64.deb",
-    "More": "小鱼易连（Linux）",
-    "Name": "小鱼易连",
-    "Pkgname": "com.xylink.linuxclient",
-    "Size": "103 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "com.xylink.linuxclient_3.3.1.15042_arm64.deb.torrent",
-    "Update": "2023-11-04 13:25:24",
-    "Version": "3.3.1.15042",
-    "Website": "https://www.xylink.com",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/com.xylink.linuxclient/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.xylink.linuxclient/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.xylink.linuxclient/screen_2.png\"]"
 }
 
 ,
@@ -900,24 +900,6 @@
 
 ,
 {
-    "Author": "快对",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "uengine-dc-com.kuaiduizuoye.scan_6.7.2_all.deb",
-    "More": "快对-在线搜索答疑软件,家长课外辅导神器,检查作业,获取题目答案与解析。\n安卓版",
-    "Name": "快对(uengine)",
-    "Pkgname": "uengine-dc-com.kuaiduizuoye.scan",
-    "Size": "42 Mb",
-    "Tags": "deepin;uos",
-    "Torrent_address": "uengine-dc-com.kuaiduizuoye.scan_6.7.2_all.deb.torrent",
-    "Update": "2023-04-29 09:32:37",
-    "Version": "6.7.2",
-    "Website": "https://www.kuaiduizuoye.com/",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/uengine-dc-com.kuaiduizuoye.scan/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/uengine-dc-com.kuaiduizuoye.scan/screen_1.png\"]"
-}
-
-,
-{
     "Author": "洗头_乐",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "spark.office2010-runner.com_14.0.0_all.deb",
@@ -932,6 +914,24 @@
     "Website": "https://www.microsoft.com/zh-cn",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/office/spark.office2010-runner.com/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/spark.office2010-runner.com/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/spark.office2010-runner.com/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/spark.office2010-runner.com/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "快对",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "uengine-dc-com.kuaiduizuoye.scan_6.7.2_all.deb",
+    "More": "快对-在线搜索答疑软件,家长课外辅导神器,检查作业,获取题目答案与解析。\n安卓版",
+    "Name": "快对(uengine)",
+    "Pkgname": "uengine-dc-com.kuaiduizuoye.scan",
+    "Size": "42 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "uengine-dc-com.kuaiduizuoye.scan_6.7.2_all.deb.torrent",
+    "Update": "2023-04-29 09:32:37",
+    "Version": "6.7.2",
+    "Website": "https://www.kuaiduizuoye.com/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/uengine-dc-com.kuaiduizuoye.scan/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/uengine-dc-com.kuaiduizuoye.scan/screen_1.png\"]"
 }
 
 ,
@@ -954,24 +954,6 @@
 
 ,
 {
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "ofdview_1.0_all.deb",
-    "More": "好用的本地网页版OFD预览器",
-    "Name": "OFDView预览器(本地网页版)",
-    "Pkgname": "ofdview",
-    "Size": "22 Mb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "ofdview_1.0_all.deb.torrent",
-    "Update": "2024-04-07 22:09:38",
-    "Version": "1.0",
-    "Website": "http://www.cnofd.cn/home.html",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/ofdview/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/ofdview/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/ofdview/screen_2.png\"]"
-}
-
-,
-{
     "Author": "wang",
     "Contributor": "wang",
     "Filename": "com.tracker-software.pdfxedit.spark_10.3.0_all.deb",
@@ -986,6 +968,24 @@
     "Website": "https://www.pdf-xchange.com/",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/office/com.tracker-software.pdfxedit.spark/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.tracker-software.pdfxedit.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.tracker-software.pdfxedit.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.tracker-software.pdfxedit.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "ofdview_1.0_all.deb",
+    "More": "好用的本地网页版OFD预览器",
+    "Name": "OFDView预览器(本地网页版)",
+    "Pkgname": "ofdview",
+    "Size": "22 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "ofdview_1.0_all.deb.torrent",
+    "Update": "2024-04-07 22:09:38",
+    "Version": "1.0",
+    "Website": "http://www.cnofd.cn/home.html",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/ofdview/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/ofdview/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/ofdview/screen_2.png\"]"
 }
 
 ,

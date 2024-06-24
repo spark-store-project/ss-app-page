@@ -3416,6 +3416,27 @@ Description:
 License: GPL-2.0-only
 Vendor: bitporo <bitporo@qq.com>
 
+Package: easy-send
+Architecture: all
+Version: 1.1.3
+Priority: optional
+Section: default
+Maintainer: bitporo <bitporo@qq.com>
+Installed-Size: 244123
+Depends: com.electron
+Recommends: libappindicator3-1
+Filename: tools/easy-send/easy-send_1.1.3_all.deb
+Size: 7950096
+MD5sum: e35d22aca2ee3bdde911e7a7af6c7d0f
+SHA1: d849f5354d8349c318eae8990d2a4a3436f7adfd
+SHA256: 8b39f064ee663377b78f8c787d2aa1138ddff73f7f8d0452992ef92ee69af472
+SHA512: e091b4537fa017ef8958e105972b7d4dcfd33d90858f85144e82357d9d7311530c5e35b9dbe1dc4dab378ef74c289a320afd6b3e6e4a9bc471a4d12cef9a4c3b
+Homepage: https://easysend.channer.cn
+Description: 
+  便捷的局域网共享文本文件小工具，简捷使用，传送方便，仅需一台设备启动，其余设备使用浏览器访问即可使用
+License: GPL-2.0-only
+Vendor: bitporo <bitporo@qq.com>
+
 Package: gxde-kernel-manager
 Architecture: amd64
 Version: 1.1.0
@@ -35698,6 +35719,22 @@ SHA256: ca39c1a282c7918cdd4ba44d390a6ce768369773257cffdb064c056c57e89320
 SHA512: 475c4f78512816b82b01eb86dc0407ae368bcf171c2479ebfc6bc15493d8626256226bb14aad26b282956faa1f89434aca62a4f17fb17e14c893c2a556f886e5
 Description: WhatsApp Client on Spark Wine
  WhatsApp Client on Spark Wine
+
+Package: com.qq.weixin.spark
+Architecture: all
+Version: 3.9.10deepin1.1
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: sgb76 <sgb76@163.com>
+Depends: mejituu-wine8, spark-dwine-helper (>= 5.6.3.1-5.3.14), fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: chat/com.qq.weixin.spark/com.qq.weixin.spark_3.9.10deepin1.1_all.deb
+Size: 396979644
+MD5sum: 59ce935ce5de5138ee09b09b3ad001ec
+SHA1: 12c15f6e5fa99c76ae488059af3bf52906bfb0fe
+SHA256: de2b6975c6d304746811d29537e1bed168eaae695c8bdf6700a7c7c828afb57e
+SHA512: 8d2c5330bb1f3c0327f9070c6cb5511c8a10b304ceaa372e949cd5596e79a827f7e9d62fef1b6aa6dba1f6d967cb0f469ea724fbfee980849c175e12b257474f
+Description: WeiXin Client on Deepin Wine8
 
 Package: com.qq.weixin.spark
 Architecture: all

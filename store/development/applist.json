@@ -911,6 +911,22 @@
 }
 ,
 {
+    "Name": "TeXstudio",
+    "Version": "4.1.2-1_plus_3.1",
+    "Filename": "texstudio_4.1.2-1_plus_3.1_amd64.deb",
+    "Pkgname": "texstudio",
+    "Author": "Benito van der Zander, Jan Sundermeyer, Daniel Braun, Tim Hoffmann",
+    "Contributor": "sgb76",
+    "Website": "http://texstudio.sourceforge.net/",
+    "Update": "2021-12-16 20:38:42",
+    "Size": "19.37 MB",
+    "More": "TeXstudio是一个用于创建LaTeX文档的集成写作环境。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/16/05cadd70-5e6d-11ec-95f6-1d6d123aedfa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/16/0b9f2cb0-5e6d-11ec-95f6-1d6d123aedfa.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/16/0032faf0-5e6d-11ec-95f6-1d6d123aedfa.png"
+}
+,
+{
     "Name": "STM32CubeMX",
     "Version": "6.0.1",
     "Filename": "stm32cubemx_6.0.1_amd64.deb",
@@ -941,22 +957,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/638e4f5be0004059af4a962f6b6a9e70.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/acfcd1d3f69c4067b5f4e5beabdef236.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/541db7c647cf447890753599bbc8e0ce.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/e384a0c09ff341daaacdb5f0ca7bd4ab.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/1a3727a167cd40c49524dffe2e0a764d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/31/6804396d1fc346b5861542c8037a7607.png"
-}
-,
-{
-    "Name": "TeXstudio",
-    "Version": "4.1.2-1_plus_3.1",
-    "Filename": "texstudio_4.1.2-1_plus_3.1_amd64.deb",
-    "Pkgname": "texstudio",
-    "Author": "Benito van der Zander, Jan Sundermeyer, Daniel Braun, Tim Hoffmann",
-    "Contributor": "sgb76",
-    "Website": "http://texstudio.sourceforge.net/",
-    "Update": "2021-12-16 20:38:42",
-    "Size": "19.37 MB",
-    "More": "TeXstudio是一个用于创建LaTeX文档的集成写作环境。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/16/05cadd70-5e6d-11ec-95f6-1d6d123aedfa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/16/0b9f2cb0-5e6d-11ec-95f6-1d6d123aedfa.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/16/0032faf0-5e6d-11ec-95f6-1d6d123aedfa.png"
 }
 ,
 {
@@ -1605,6 +1605,23 @@
 }
 ,
 {
+    "Name": "VSCode 历史项目信息分析器",
+    "Version": "0.0.4-20230828",
+    "Filename": "vscode-history-analyzer_0.0.4-20230828_amd64.deb",
+    "Torrent_address": "vscode-history-analyzer_0.0.4-20230828_amd64.deb.torrent",
+    "Pkgname": "vscode-history-analyzer",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/qt.vscode-history-analyzer",
+    "Update": "2023-08-28 11:40:33",
+    "Size": "132.97 KB",
+    "More": "一个可以帮助您了解 VSCode 历史项目信息的分析器",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/8ff47a9e591f450e8d0469def4ed2842.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/ba6abb843e80465ca412ef8b9c952fe9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/28/d2a52ead196b4644bd0c292098d5135d.png"
+}
+,
+{
     "Name": "VOFA+",
     "Version": "1.3.10",
     "Filename": "vofa_plus_1.3.10_amd64.deb",
@@ -1636,23 +1653,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f647c620-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f66c8c30-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f65a15a0-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f67f29d0-bfb8-11ed-9b62-5f2349990689.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/11/bd7fcb30-bfb8-11ed-9b62-5f2349990689.png"
-}
-,
-{
-    "Name": "VSCode 历史项目信息分析器",
-    "Version": "0.0.4-20230828",
-    "Filename": "vscode-history-analyzer_0.0.4-20230828_amd64.deb",
-    "Torrent_address": "vscode-history-analyzer_0.0.4-20230828_amd64.deb.torrent",
-    "Pkgname": "vscode-history-analyzer",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/qt.vscode-history-analyzer",
-    "Update": "2023-08-28 11:40:33",
-    "Size": "132.97 KB",
-    "More": "一个可以帮助您了解 VSCode 历史项目信息的分析器",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/8ff47a9e591f450e8d0469def4ed2842.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/ba6abb843e80465ca412ef8b9c952fe9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/28/d2a52ead196b4644bd0c292098d5135d.png"
 }
 ,
 {

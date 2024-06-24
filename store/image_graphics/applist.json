@@ -1113,23 +1113,6 @@
 }
 ,
 {
-    "Name": "图片吸收器(升级版)",
-    "Version": "1.1.0-20240403",
-    "Filename": "image-absorber_1.1.0-20240403_amd64.deb",
-    "Torrent_address": "image-absorber_1.1.0-20240403_amd64.deb.torrent",
-    "Pkgname": "image-absorber",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/qt.image-absorber",
-    "Update": "2024-04-03 18:00:24",
-    "Size": "98.43 KB",
-    "More": "图片吸收器可以仅预览，在进行存储时，只需要复制图片将会自动存储到指定或默认位置\n\nv1.0.0: 增强图片吸收能力，已通过瞬时大量图片吸收达到预期效果(例如在QQ群收集图片信息)\nv1.1.0: 增强原图复制能力，QQ中复制图片粘贴到论坛时是本地路径，通过原图复制得到原始数据。\n\n瞬时收集方式基本操作：方向键、鼠标右键、鼠标左键\n1. 右点呼出菜单，点击复制，\n2. 按下方向键切换到下一张\n3. 重复步骤 1, 2\n\n最快速度 1 min 可存下100张以上图片。",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/03/bb2750358d4548feaf0958136833807c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/03/2dbad487251447bc8eded1687878becb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/03/9a049ab9e49542a2af02e4fe1bc1425b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/03/e1da53ab4c0d43169ba7005c6159260b.png"
-}
-,
-{
     "Name": "Photopea（web）",
     "Version": "1.0",
     "Filename": "spark.photopea.web_1.0_amd64.deb",
@@ -1159,6 +1142,23 @@
     "Tags": "deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/17/a1079ae0-1777-11ec-8ee1-3f9aa6e869bb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/17/a1168f00-1777-11ec-8ee1-3f9aa6e869bb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/17/a1277ef0-1777-11ec-8ee1-3f9aa6e869bb.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/09/17/94655a20-1777-11ec-8ee1-3f9aa6e869bb.png"
+}
+,
+{
+    "Name": "图片吸收器(升级版)",
+    "Version": "1.1.0-20240403",
+    "Filename": "image-absorber_1.1.0-20240403_amd64.deb",
+    "Torrent_address": "image-absorber_1.1.0-20240403_amd64.deb.torrent",
+    "Pkgname": "image-absorber",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/qt.image-absorber",
+    "Update": "2024-04-03 18:00:24",
+    "Size": "98.43 KB",
+    "More": "图片吸收器可以仅预览，在进行存储时，只需要复制图片将会自动存储到指定或默认位置\n\nv1.0.0: 增强图片吸收能力，已通过瞬时大量图片吸收达到预期效果(例如在QQ群收集图片信息)\nv1.1.0: 增强原图复制能力，QQ中复制图片粘贴到论坛时是本地路径，通过原图复制得到原始数据。\n\n瞬时收集方式基本操作：方向键、鼠标右键、鼠标左键\n1. 右点呼出菜单，点击复制，\n2. 按下方向键切换到下一张\n3. 重复步骤 1, 2\n\n最快速度 1 min 可存下100张以上图片。",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/03/bb2750358d4548feaf0958136833807c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/03/2dbad487251447bc8eded1687878becb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/03/9a049ab9e49542a2af02e4fe1bc1425b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/03/e1da53ab4c0d43169ba7005c6159260b.png"
 }
 ,
 {
@@ -2208,6 +2208,23 @@
 }
 ,
 {
+    "Name": "中望CAD 2025",
+    "Version": "25.0.3.4",
+    "Filename": "com.zwsoft.zwcad2025_25.0.3.4_amd64.deb",
+    "Torrent_address": "com.zwsoft.zwcad2025_25.0.3.4_amd64.deb.torrent",
+    "Pkgname": "com.zwsoft.zwcad2025",
+    "Author": "lishuaiwei <lishuaiwei@zwcad.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.zwsoft.cn",
+    "Update": "2024-06-22 21:06:02",
+    "Size": "234.88 MB",
+    "More": "中望CAD是由中望软件自主研发的国内首款适配国产操作系统的CAD设计软件，具有良好的兼容性和稳定性，可查看主流版本格式的图纸文件如DWG/DXF/DWF/DWFX等，提供了强大的图纸浏览、绘制、编辑、标注和打印等功能，以及参数化约束、光栅图像矢量化等特色功能，结合友好简洁的操作界面，帮助用户高效完成各类设计工作。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/0e7fddedcccd46bd8b91d3df03d2e7b2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/22/205a065ee468440d9f03f3d465539646.png"
+}
+,
+{
     "Author": " 深圳市超时代软件有限公司",
     "Contributor": "wang",
     "Filename": "com.qnwzjz.deepin_2.0.0.3deepin0_all.deb",
@@ -2323,23 +2340,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/22/08bf7b90-74ed-11eb-b875-55197d1581bb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/22/0dbcf2d0-74ed-11eb-b875-55197d1581bb.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/22/00cc1ce0-74ed-11eb-b875-55197d1581bb.png"
-}
-,
-{
-    "Name": "中望CAD 2025",
-    "Version": "25.0.3.4",
-    "Filename": "com.zwsoft.zwcad2025_25.0.3.4_amd64.deb",
-    "Torrent_address": "com.zwsoft.zwcad2025_25.0.3.4_amd64.deb.torrent",
-    "Pkgname": "com.zwsoft.zwcad2025",
-    "Author": "lishuaiwei <lishuaiwei@zwcad.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.zwsoft.cn",
-    "Update": "2024-06-22 21:06:02",
-    "Size": "234.88 MB",
-    "More": "中望CAD是由中望软件自主研发的国内首款适配国产操作系统的CAD设计软件，具有良好的兼容性和稳定性，可查看主流版本格式的图纸文件如DWG/DXF/DWF/DWFX等，提供了强大的图纸浏览、绘制、编辑、标注和打印等功能，以及参数化约束、光栅图像矢量化等特色功能，结合友好简洁的操作界面，帮助用户高效完成各类设计工作。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/0e7fddedcccd46bd8b91d3df03d2e7b2.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/22/205a065ee468440d9f03f3d465539646.png"
 }
 ,
 {

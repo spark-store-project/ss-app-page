@@ -738,23 +738,6 @@
 
 ,
 {
-    "Name": "阿里妈妈数黑体",
-    "Version": "1.003-1",
-    "Filename": "fonts-alimama-shuheiti_1.003-1_all.deb",
-    "Torrent_address": "fonts-alimama-shuheiti_1.003-1_all.deb.torrent",
-    "Pkgname": "fonts-alimama-shuheiti",
-    "Author": "Careone <emacslocale@126.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://bbs.deepin.org/post/257679",
-    "Update": "2023-06-04 21:17:38",
-    "Size": "795.91 KB",
-    "More": "一款简体中文字体：阿里妈妈数黑体 (Alimama ShuHeiTi)\n .\n 字体授权：阿里妈妈数黑体法律声明 (企业、个人均可免费商用) \n .\n 字体来源 (官网): https://www.iconfont.cn/fonts/index",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/04/bfbda319a8384caf801f61a383616a2c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/04/c79578564dc34902b2292e68a65783a7.png"
-}
-,
-{
     "Name": "同花顺iFinD",
     "Version": "1.10.12.387.002",
     "Filename": "com.51ifind_1.10.12.387.002_amd64.deb",
@@ -769,6 +752,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/f4a1e6518904413d9543215433cacad9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/70472171c057492e90e920a53ecff961.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/e4b299e40e524e7eb1ca5cc5307d0d18.png"
+}
+,
+{
+    "Name": "阿里妈妈数黑体",
+    "Version": "1.003-1",
+    "Filename": "fonts-alimama-shuheiti_1.003-1_all.deb",
+    "Torrent_address": "fonts-alimama-shuheiti_1.003-1_all.deb.torrent",
+    "Pkgname": "fonts-alimama-shuheiti",
+    "Author": "Careone <emacslocale@126.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://bbs.deepin.org/post/257679",
+    "Update": "2023-06-04 21:17:38",
+    "Size": "795.91 KB",
+    "More": "一款简体中文字体：阿里妈妈数黑体 (Alimama ShuHeiTi)\n .\n 字体授权：阿里妈妈数黑体法律声明 (企业、个人均可免费商用) \n .\n 字体来源 (官网): https://www.iconfont.cn/fonts/index",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/04/bfbda319a8384caf801f61a383616a2c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/04/c79578564dc34902b2292e68a65783a7.png"
 }
 ,
 {
@@ -874,23 +874,6 @@
 }
 ,
 {
-    "Name": "萌神拼音体：带拼音的中文宋体",
-    "Version": "1.02-1",
-    "Filename": "fonts-cjk-zh-mengshen_1.02-1_all.deb",
-    "Torrent_address": "fonts-cjk-zh-mengshen_1.02-1_all.deb.torrent",
-    "Pkgname": "fonts-cjk-zh-mengshen",
-    "Author": "MaruTama(日本)",
-    "Contributor": "Careone",
-    "Website": "https://github.com/MaruTama/Mengshen-pinyin-font",
-    "Update": "2023-05-04 22:26:47",
-    "Size": "9.55 MB",
-    "More": "萌神拼音体 (Mengshen-Regular) 是用于学习中国汉字的一款字体，是使用思源宋体 和 M+ 字体进行改造而成的一款免费商用字体。这是一种用来帮助学生更快地学习 和阅读汉语的字体。\n在某些设计场景其实也挺实用的，特别是对教育类的设计比较有用。\n* 字体授权协议: SIL 1.1 开源字体许可证（注：可以免费商用）\n* 对简体/繁体中文支持良好。收录字形共 60151 个 (版本 1.02, 2020-12-19)。\n* 字体风格：中文汉字上面带拼音（注：如果是多音字，标注的拼音可能不准确）\n* ----\n* 字体版本 1.02 的新增功能：在部分文字编辑程序中，可以根据上下文， 智能判断多音字的读音;\n* ----\n字体版本 1.02 的注意事项、已知问题：\n* 在某些文字处理软件中 (如 gedit, leafpad, mousepad)，多音字能根据上下文， 自动标注正确的读音。如：学(校 xiao), (校 jiao)对；银(行 hang), (行 xing)为;\n* 而在另一些文字处理软件中 (如 WPS Office 11.1.0.9719, amd64)， 多音字可能无法显示正确的读音。如：学(校), (校)对————都标注为 xiao； 银(行), (行)为————都标注为 xing;\n* 如果多音字词组的中间，被空格或者其它字符隔断，则多音字的拼音标注可能不准确。\nMengshen Chinese Pinyin font, support Simplified/Traditional Chinese\nfont license: SIL 1.1 Open Font License, used for commercial purposes allowed.\n* font TTF family name: Mengshen-Regular (version 1.02, 2020-12-19)\n* 字体 TTF family 日文名: \"萌神 明朝体 CN\"\n* font PostScript name: Mengshen-HanSerif-CN (version 1.02, 2020-12-19)\nfont download: https://www.maoken.com/freefonts/4213.html",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/04/f6eaa210-ea87-11ed-bc94-3327a699b8e3.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/04/11f47a40-ea88-11ed-bc94-3327a699b8e3.png"
-}
-,
-{
     "Name": "重启至uefi",
     "Version": "0.0.1",
     "Filename": "reboot-uefi_0.0.1_all.deb",
@@ -905,6 +888,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/6c0e1a5aef104c87856404fafd58836a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/27/33dc74f16e8847e0bfb4c98651966a1e.png"
+}
+,
+{
+    "Name": "萌神拼音体：带拼音的中文宋体",
+    "Version": "1.02-1",
+    "Filename": "fonts-cjk-zh-mengshen_1.02-1_all.deb",
+    "Torrent_address": "fonts-cjk-zh-mengshen_1.02-1_all.deb.torrent",
+    "Pkgname": "fonts-cjk-zh-mengshen",
+    "Author": "MaruTama(日本)",
+    "Contributor": "Careone",
+    "Website": "https://github.com/MaruTama/Mengshen-pinyin-font",
+    "Update": "2023-05-04 22:26:47",
+    "Size": "9.55 MB",
+    "More": "萌神拼音体 (Mengshen-Regular) 是用于学习中国汉字的一款字体，是使用思源宋体 和 M+ 字体进行改造而成的一款免费商用字体。这是一种用来帮助学生更快地学习 和阅读汉语的字体。\n在某些设计场景其实也挺实用的，特别是对教育类的设计比较有用。\n* 字体授权协议: SIL 1.1 开源字体许可证（注：可以免费商用）\n* 对简体/繁体中文支持良好。收录字形共 60151 个 (版本 1.02, 2020-12-19)。\n* 字体风格：中文汉字上面带拼音（注：如果是多音字，标注的拼音可能不准确）\n* ----\n* 字体版本 1.02 的新增功能：在部分文字编辑程序中，可以根据上下文， 智能判断多音字的读音;\n* ----\n字体版本 1.02 的注意事项、已知问题：\n* 在某些文字处理软件中 (如 gedit, leafpad, mousepad)，多音字能根据上下文， 自动标注正确的读音。如：学(校 xiao), (校 jiao)对；银(行 hang), (行 xing)为;\n* 而在另一些文字处理软件中 (如 WPS Office 11.1.0.9719, amd64)， 多音字可能无法显示正确的读音。如：学(校), (校)对————都标注为 xiao； 银(行), (行)为————都标注为 xing;\n* 如果多音字词组的中间，被空格或者其它字符隔断，则多音字的拼音标注可能不准确。\nMengshen Chinese Pinyin font, support Simplified/Traditional Chinese\nfont license: SIL 1.1 Open Font License, used for commercial purposes allowed.\n* font TTF family name: Mengshen-Regular (version 1.02, 2020-12-19)\n* 字体 TTF family 日文名: \"萌神 明朝体 CN\"\n* font PostScript name: Mengshen-HanSerif-CN (version 1.02, 2020-12-19)\nfont download: https://www.maoken.com/freefonts/4213.html",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/04/f6eaa210-ea87-11ed-bc94-3327a699b8e3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/04/11f47a40-ea88-11ed-bc94-3327a699b8e3.png"
 }
 ,
 {
