@@ -215,24 +215,6 @@
 
 ,
 {
-    "Author": "maicss@126.com",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "com.appimage-installer_2.1_arm64.deb",
-    "More": "用于将AppImage格式安装包添加至启动器。",
-    "Name": "AppImage安装器",
-    "Pkgname": "com.appimage-installer",
-    "Size": "72 Kb",
-    "Tags": "community;dtk5",
-    "Torrent_address": "com.appimage-installer_2.1_arm64.deb.torrent",
-    "Update": "2023-03-05 18:26:23",
-    "Version": "2.1",
-    "Website": "无",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_3.png\"]"
-}
-
-,
-{
     "Author": "360 BiFang team <BiFang@360.cn>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.qihoo.360safe_1.0.0.1018_arm64.deb",
@@ -247,6 +229,24 @@
     "Website": "http://www.360.cn/",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qihoo.360safe/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qihoo.360safe/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "maicss@126.com",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.appimage-installer_2.1_arm64.deb",
+    "More": "用于将AppImage格式安装包添加至启动器。",
+    "Name": "AppImage安装器",
+    "Pkgname": "com.appimage-installer",
+    "Size": "72 Kb",
+    "Tags": "community;dtk5",
+    "Torrent_address": "com.appimage-installer_2.1_arm64.deb.torrent",
+    "Update": "2023-03-05 18:26:23",
+    "Version": "2.1",
+    "Website": "无",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_3.png\"]"
 }
 
 ,
@@ -786,24 +786,6 @@
 
 ,
 {
-    "Author": "qihoo360 company <support@360.cn>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "com.360.epp_10.0.0.2316_arm64.deb",
-    "More": "360终端安全防护系统是在360安全大脑极智赋能下，面向政府、公检法、电信、能源、金融等各行业企事业单位推出的以安全防御为核心、以安全策略管控为重点、以自动化运维管理为支撑的专业化国产主机防护产品。",
-    "Name": "360终端安全防护系统",
-    "Pkgname": "com.360.epp",
-    "Size": "85 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "com.360.epp_10.0.0.2316_arm64.deb.torrent",
-    "Update": "2023-03-05 18:25:52",
-    "Version": "10.0.0.2316",
-    "Website": "http://www.360.cn/",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.360.epp/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.360.epp/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.360.epp/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.360.epp/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.360.epp/screen_4.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.360.epp/screen_5.png\"]"
-}
-
-,
-{
     "Author": "phytium",
     "Contributor": "phytium",
     "Filename": "cn.com.phytium.phyvirt_1.5.5.0_arm64.deb",
@@ -818,6 +800,24 @@
     "Website": "https://www.phytium.com.cn/developer/39/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "qihoo360 company <support@360.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.360.epp_10.0.0.2316_arm64.deb",
+    "More": "360终端安全防护系统是在360安全大脑极智赋能下，面向政府、公检法、电信、能源、金融等各行业企事业单位推出的以安全防御为核心、以安全策略管控为重点、以自动化运维管理为支撑的专业化国产主机防护产品。",
+    "Name": "360终端安全防护系统",
+    "Pkgname": "com.360.epp",
+    "Size": "85 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.360.epp_10.0.0.2316_arm64.deb.torrent",
+    "Update": "2023-03-05 18:25:52",
+    "Version": "10.0.0.2316",
+    "Website": "http://www.360.cn/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.360.epp/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.360.epp/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.360.epp/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.360.epp/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.360.epp/screen_4.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.360.epp/screen_5.png\"]"
 }
 
 ,

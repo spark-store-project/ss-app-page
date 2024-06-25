@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.flamescion.bookworm-compatibility-mode_12.4.14-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">89c46baf1f73c5b9c5c176e0c3aab9b8</hash>
+				  
+				<hash type="sha1">25fbb57f9a23608d4383308a50cc134eab0f5811</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/cn.flamescion.bookworm-compatibility-mode/cn.flamescion.bookworm-compatibility-mode_12.4.14-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://pi.dog-mercat.ts.net/store/tools/cn.flamescion.bookworm-compatibility-mode/cn.flamescion.bookworm-compatibility-mode_12.4.14-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://fetish.spark-app.store/store/tools/cn.flamescion.bookworm-compatibility-mode/cn.flamescion.bookworm-compatibility-mode_12.4.14-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://piercing.spark-app.store/store/tools/cn.flamescion.bookworm-compatibility-mode/cn.flamescion.bookworm-compatibility-mode_12.4.14-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store/store/tools/cn.flamescion.bookworm-compatibility-mode/cn.flamescion.bookworm-compatibility-mode_12.4.14-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://blinder.spark-app.store/store/tools/cn.flamescion.bookworm-compatibility-mode/cn.flamescion.bookworm-compatibility-mode_12.4.14-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/tools/cn.flamescion.bookworm-compatibility-mode/cn.flamescion.bookworm-compatibility-mode_12.4.14-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/cn.flamescion.bookworm-compatibility-mode/cn.flamescion.bookworm-compatibility-mode_12.4.14-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

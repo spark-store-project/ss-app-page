@@ -218,15 +218,15 @@
 {
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "cn.flamescion.bookworm-compatibility-mode_12.4.14_amd64.deb",
-    "More": "ACE兼容环境，使用bwrap容器在deepin或UOS上使用Debian 12的应用，为你带来更好的使用体验！\n使用教程： https://bbs.deepin.org/post/261794 \n更新内容：\n\n\n    feat: UOS 1070 /data直通\n    adjust: localtime不再直通，而是首次Init复制，避免部分包配置问题\n    adjust: 移除依赖gcc\n",
+    "Filename": "cn.flamescion.bookworm-compatibility-mode_12.4.14-1_amd64.deb",
+    "More": "ACE兼容环境，使用bwrap容器在deepin或UOS上使用Debian 12的应用，为你带来更好的使用体验！\n使用教程： https://bbs.deepin.org/post/261794 \n更新内容：\n\n\n* 修复AppArmor报错",
     "Name": "ACE兼容环境",
     "Pkgname": "cn.flamescion.bookworm-compatibility-mode",
-    "Size": "158 Mb",
+    "Size": "154 Mb",
     "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "cn.flamescion.bookworm-compatibility-mode_12.4.14_amd64.deb.torrent",
-    "Update": "2024-06-05 21:16:20",
-    "Version": "12.4.14",
+    "Torrent_address": "cn.flamescion.bookworm-compatibility-mode_12.4.14-1_amd64.deb.torrent",
+    "Update": "2024-06-25 13:23:07",
+    "Version": "12.4.14-1",
     "Website": "https://gitee.com/amber-compatability-environment/",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/cn.flamescion.bookworm-compatibility-mode/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/cn.flamescion.bookworm-compatibility-mode/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/cn.flamescion.bookworm-compatibility-mode/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/cn.flamescion.bookworm-compatibility-mode/screen_3.png\"]"
@@ -1313,22 +1313,6 @@
 }
 ,
 {
-    "Name": "fsearch",
-    "Version": "20201209+r819.4afd0c6~ubuntu20.04.1",
-    "Filename": "fsearch-trunk_20201209_plus_r819.4afd0c6~ubuntu20.04.1_amd64.deb",
-    "Pkgname": "fsearch-trunk",
-    "Author": "cboxdoerfer",
-    "Contributor": "jerrywang",
-    "Website": "https://github.com/cboxdoerfer/fsearch",
-    "Update": "2020-12-29 17:44:26",
-    "Size": "125.2 KB",
-    "More": "基于GTK + 3的类Unix系统的快速文件搜索实用程序。布局和功能和windows下的everything十分类似，速度也相当快。",
-    "Tags": "ubuntu;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/29/0a379360-49fd-11eb-98c6-4bd0150970dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/29/0b309960-49fd-11eb-98c6-4bd0150970dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/29/0b349100-49fd-11eb-98c6-4bd0150970dc.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/29/660e0340-49fd-11eb-98c6-4bd0150970dc.png"
-}
-,
-{
     "Name": "linux窗口透明工具",
     "Version": "1.0.0-4",
     "Filename": "x11opacity-tool_1.0.0-4_amd64.deb",
@@ -1342,6 +1326,22 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/10/e1ecc550-99d0-11eb-a1c7-3d36672ee7aa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/10/e1d63010-99d0-11eb-a1c7-3d36672ee7aa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/10/e2033380-99d0-11eb-a1c7-3d36672ee7aa.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/10/a9dde130-99d0-11eb-a1c7-3d36672ee7aa.svg"
+}
+,
+{
+    "Name": "fsearch",
+    "Version": "20201209+r819.4afd0c6~ubuntu20.04.1",
+    "Filename": "fsearch-trunk_20201209_plus_r819.4afd0c6~ubuntu20.04.1_amd64.deb",
+    "Pkgname": "fsearch-trunk",
+    "Author": "cboxdoerfer",
+    "Contributor": "jerrywang",
+    "Website": "https://github.com/cboxdoerfer/fsearch",
+    "Update": "2020-12-29 17:44:26",
+    "Size": "125.2 KB",
+    "More": "基于GTK + 3的类Unix系统的快速文件搜索实用程序。布局和功能和windows下的everything十分类似，速度也相当快。",
+    "Tags": "ubuntu;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/29/0a379360-49fd-11eb-98c6-4bd0150970dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/29/0b309960-49fd-11eb-98c6-4bd0150970dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/29/0b349100-49fd-11eb-98c6-4bd0150970dc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/29/660e0340-49fd-11eb-98c6-4bd0150970dc.png"
 }
 ,
 {
@@ -1694,23 +1694,6 @@
 }
 ,
 {
-    "Name": "He3 开发者万能工具箱",
-    "Version": "2.0.0",
-    "Filename": "he3_2.0.0_amd64.deb",
-    "Torrent_address": "he3_2.0.0_amd64.deb.torrent",
-    "Pkgname": "he3",
-    "Author": "he3",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://github.com/h8r-dev/he3-client",
-    "Update": "2023-11-02 09:34:15",
-    "Size": "105.14 MB",
-    "More": "内置超过 200 种实用工具，免费持续更新更多品类。包含智能搜索、类型识别、自定义快捷键等特性，让你的开发效率直接起飞。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/7ee2a653f8db414680a21f3aa252a1cc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/ca35c9013f414b3e9e90abb03e09594e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/8d70f0dbb02a44dbbbf714a4239b6d67.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/278e5a401a734bc0ba79d5cdef6ce665.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/3d8ca0cbffd74ff490f70a5aa58fedf0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/02/175eee01a8a8425d9220320007aade41.png"
-}
-,
-{
     "Name": "KeePassXC 密码管理器",
     "Version": "2.7.7",
     "Filename": "keepassxc_2.7.7_amd64.deb",
@@ -1725,6 +1708,23 @@
     "Tags": "community;ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/17/b1c3483684494791bb8b3f65a8941a69.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/17/67c5fc0b2d5b46f783531e1b7c4ab9ff.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/17/1ae2db9211dc4b1c922905ec94f78bfd.png"
+}
+,
+{
+    "Name": "He3 开发者万能工具箱",
+    "Version": "2.0.0",
+    "Filename": "he3_2.0.0_amd64.deb",
+    "Torrent_address": "he3_2.0.0_amd64.deb.torrent",
+    "Pkgname": "he3",
+    "Author": "he3",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://github.com/h8r-dev/he3-client",
+    "Update": "2023-11-02 09:34:15",
+    "Size": "105.14 MB",
+    "More": "内置超过 200 种实用工具，免费持续更新更多品类。包含智能搜索、类型识别、自定义快捷键等特性，让你的开发效率直接起飞。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/7ee2a653f8db414680a21f3aa252a1cc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/ca35c9013f414b3e9e90abb03e09594e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/8d70f0dbb02a44dbbbf714a4239b6d67.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/278e5a401a734bc0ba79d5cdef6ce665.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/3d8ca0cbffd74ff490f70a5aa58fedf0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/02/175eee01a8a8425d9220320007aade41.png"
 }
 ,
 {
@@ -2482,23 +2482,6 @@
 }
 ,
 {
-    "Name": "Apk 文件查看器",
-    "Version": "1.1-20231207",
-    "Filename": "z-tools-base-apk-view_1.1-20231207_amd64.deb",
-    "Torrent_address": "z-tools-base-apk-view_1.1-20231207_amd64.deb.torrent",
-    "Pkgname": "z-tools-base-apk-view",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/z-tools",
-    "Update": "2023-12-07 18:14:48",
-    "Size": "1.59 MB",
-    "More": "如图：但依赖于 aapt 工具\n\nfeat: 拥有了双击 apk 即可预览的能力\nplugin: 添加用于 zToolsBox 的扩展构建",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/d89de06007bd414db3a959c247617626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/4c0dd3a9d7ec45d8a7bf57cfdba5a3a2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/3e97058339ea481fb304517375e69ec8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/07/db4b10f23e4c4457b76d95be833c99ba.png"
-}
-,
-{
     "Name": "屏亮小灯",
     "Version": "1.0.0",
     "Filename": "com.wingsummer.screenlight_1.0.0_amd64.deb",
@@ -2513,6 +2496,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/02/c9cd975959b14de8915cf13463475162.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/02/e6c8e979077a4bfebb9205162013f246.png"
+}
+,
+{
+    "Name": "Apk 文件查看器",
+    "Version": "1.1-20231207",
+    "Filename": "z-tools-base-apk-view_1.1-20231207_amd64.deb",
+    "Torrent_address": "z-tools-base-apk-view_1.1-20231207_amd64.deb.torrent",
+    "Pkgname": "z-tools-base-apk-view",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/z-tools",
+    "Update": "2023-12-07 18:14:48",
+    "Size": "1.59 MB",
+    "More": "如图：但依赖于 aapt 工具\n\nfeat: 拥有了双击 apk 即可预览的能力\nplugin: 添加用于 zToolsBox 的扩展构建",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/d89de06007bd414db3a959c247617626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/4c0dd3a9d7ec45d8a7bf57cfdba5a3a2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/3e97058339ea481fb304517375e69ec8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/07/db4b10f23e4c4457b76d95be833c99ba.png"
 }
 ,
 {
@@ -3538,6 +3538,23 @@
 
 ,
 {
+    "Name": "简传",
+    "Version": "1.1.3",
+    "Filename": "easy-send_1.1.3_all.deb",
+    "Torrent_address": "easy-send_1.1.3_all.deb.torrent",
+    "Pkgname": "easy-send",
+    "Author": "bitporo <bitporo@qq.com>",
+    "Contributor": "bitporo <bitporo@qq.com>",
+    "Website": "https://easysend.channer.cn",
+    "Update": "2024-06-24 21:56:13",
+    "Size": "7.58 MB",
+    "More": "便捷的局域网共享文本文件小工具，简捷使用，传送方便，仅需一台设备启动，其余设备使用浏览器访问即可使用",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/7b034e838df94134b4f6a1288d0db08b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/ffc7e5b0ae844295b191a3eb9e347339.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/24/b8cc798b0f4b473cbac35d13a5a4fceb.png"
+}
+,
+{
     "Name": "dock栏居中配置(dde)",
     "Version": "0.0.2",
     "Filename": "dde-dock-display-center_0.0.2_all.deb",
@@ -4277,23 +4294,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/3c0466ee8c894032932cf06b323aa9ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/b99da6009db640cdadd419b107f2627e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/fc0ed7cb39204a06b0ba8398ea2783a9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/04/d6506139cb2245688bd6f60bb7aacdbf.png"
-}
-,
-{
-    "Name": "简传",
-    "Version": "1.1.3",
-    "Filename": "easy-send_1.1.3_all.deb",
-    "Torrent_address": "easy-send_1.1.3_all.deb.torrent",
-    "Pkgname": "easy-send",
-    "Author": "bitporo <bitporo@qq.com>",
-    "Contributor": "bitporo <bitporo@qq.com>",
-    "Website": "https://easysend.channer.cn",
-    "Update": "2024-06-24 21:56:13",
-    "Size": "7.58 MB",
-    "More": "便捷的局域网共享文本文件小工具，简捷使用，传送方便，仅需一台设备启动，其余设备使用浏览器访问即可使用",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/7b034e838df94134b4f6a1288d0db08b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/ffc7e5b0ae844295b191a3eb9e347339.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/24/b8cc798b0f4b473cbac35d13a5a4fceb.png"
 }
 ,
 {

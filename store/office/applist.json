@@ -978,23 +978,6 @@
 }
 ,
 {
-    "Name": "浙政钉（wine）",
-    "Version": "2.15.0-Release.4spark1",
-    "Filename": "com.dingtalkzjgov.deepin_2.15.0-Release.4spark1_all.deb",
-    "Torrent_address": "com.dingtalkzjgov.deepin_2.15.0-Release.4spark1_all.deb.torrent",
-    "Pkgname": "com.dingtalkzjgov.deepin",
-    "Author": "shenmo",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://pjep.cn/kaifa/188.html",
-    "Update": "2023-08-16 14:13:47",
-    "Size": "267.42 MB",
-    "More": "基于deepin-wine6的浙政钉PC端安装包，按照deepin的官方打包方式完成，deepinV20社区版测试通过。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/16/c77837b3f7de4b99b691efccfc2fbe50.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/16/dd3a0afacdc94331b02994a9e5723245.png"
-}
-,
-{
     "Name": "master PDF Editor 5.9.20",
     "Version": "5.9.82",
     "Filename": "master-pdf-editor-5_5.9.82_amd64.deb",
@@ -1009,6 +992,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/18/b39f0dc714e847ebbe8a07c10184cbe8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/18/5ef55a2d8d474c138e4a47da466e1188.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/18/affa0c95afd0410486c600da752c6b91.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/18/c0079c946fac4bf2a9ee124798326cb1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/18/b49a0d8160ee4c1cadbac220e10fd5d6.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/18/a77b00faa80d4ba988e731764d7dc937.png"
+}
+,
+{
+    "Name": "浙政钉（wine）",
+    "Version": "2.15.0-Release.4spark1",
+    "Filename": "com.dingtalkzjgov.deepin_2.15.0-Release.4spark1_all.deb",
+    "Torrent_address": "com.dingtalkzjgov.deepin_2.15.0-Release.4spark1_all.deb.torrent",
+    "Pkgname": "com.dingtalkzjgov.deepin",
+    "Author": "shenmo",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://pjep.cn/kaifa/188.html",
+    "Update": "2023-08-16 14:13:47",
+    "Size": "267.42 MB",
+    "More": "基于deepin-wine6的浙政钉PC端安装包，按照deepin的官方打包方式完成，deepinV20社区版测试通过。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/16/c77837b3f7de4b99b691efccfc2fbe50.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/16/dd3a0afacdc94331b02994a9e5723245.png"
 }
 ,
 {
@@ -2269,6 +2269,23 @@
 }
 ,
 {
+    "Name": "WPS Office 365",
+    "Version": "12.8.2.16969.AK.preload.sw",
+    "Filename": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb",
+    "Torrent_address": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb.torrent",
+    "Pkgname": "wps-office-365",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://wps-community.org",
+    "Update": "2024-06-16 10:13:44",
+    "Size": "722.16 MB",
+    "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/819a4c6aea004b1bb9059da5c1511085.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6bd9ad01e587436fb9ca5e74ef078921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/76097ef94d21409091dbcada9fcefe7c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/2dffce17cb754c4a8407d85de5511bc2.png"
+}
+,
+{
     "Name": "Maxhub传屏助手",
     "Version": "5.5.72.0",
     "Filename": "com.cvte.exceedshare_5.5.72.0_amd64.deb",
@@ -2350,23 +2367,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/24/e90bfb427fa94e34be316feb982051fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/24/b9c7c68aa0a846ce9425eae0713b4bf7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/24/382ede4247644694b26ee776adf209db.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/24/d3f0fad20ca34e6dac33e04e1d0be4f1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/24/9e486eadf495450fb2a8138f591386b8.png"
-}
-,
-{
-    "Name": "WPS Office 365",
-    "Version": "12.8.2.16969.AK.preload.sw",
-    "Filename": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb",
-    "Torrent_address": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb.torrent",
-    "Pkgname": "wps-office-365",
-    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://wps-community.org",
-    "Update": "2024-06-16 10:13:44",
-    "Size": "722.16 MB",
-    "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/819a4c6aea004b1bb9059da5c1511085.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6bd9ad01e587436fb9ca5e74ef078921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/76097ef94d21409091dbcada9fcefe7c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/2dffce17cb754c4a8407d85de5511bc2.png"
 }
 ,
 {
@@ -3768,6 +3768,23 @@
 }
 ,
 {
+    "Name": "文心一言（web）",
+    "Version": "1.0",
+    "Filename": "com.yiyan.uos_1.0_amd64.deb",
+    "Torrent_address": "com.yiyan.uos_1.0_amd64.deb.torrent",
+    "Pkgname": "com.yiyan.uos",
+    "Author": "<zhuyanlong@uniontech.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://yiyan.baidu.com/?utm_source=uos",
+    "Update": "2024-06-15 20:22:08",
+    "Size": "72.29 MB",
+    "More": "1、文心一言由文心大模型驱动，具备理解、生成、逻辑、记忆四大基础能力。当前文心大模型已升级至4.0版本，能够帮助你轻松搞定各类复杂任务。\n理解能力：听得懂潜台词、复杂句式、专业术语，今天，人类说的每一句话，它大概率都能听懂！\n生成能力：快速生成文本、代码、图片、图表、视频，今天，人类目光所致的所有内容，它几乎都能生成！\n逻辑能力： 复杂的逻辑难题、困难的数学计算、重要的职业/生活决策统统能帮你解决，情商智商双商在线！\n记忆能力：不仅有高性能，更有好记性。N轮对话过后，你话里的重点，它总会记得，帮你步步精进，解决复杂任务！\n2、文心一言是你工作、学习、生活中省时提效的好帮手；是你闲暇时刻娱乐打趣的好伙伴；也是你需要倾诉陪伴时的好朋友。在你人生旅途经历的每个阶段、面对的各种场景中，文心一言7*24小时在线，伴你左右。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/a41a95ff5ac0478384e7173599fb7cbc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/38ba0bfcb5a741858da5b97a8d9ca465.png"
+}
+,
+{
     "Name": "学而思网校",
     "Version": "1.0",
     "Filename": "com.xueersi.wangxiao_1.0_amd64.deb",
@@ -3914,23 +3931,6 @@
    "More":"The Markdown enabled Next Document Processor.\n新一代Markdown文档编辑工具。\n优化了打包，官网提供的版本可能无法安装。"
 }
 
-,
-{
-    "Name": "文心一言（web）",
-    "Version": "1.0",
-    "Filename": "com.yiyan.uos_1.0_amd64.deb",
-    "Torrent_address": "com.yiyan.uos_1.0_amd64.deb.torrent",
-    "Pkgname": "com.yiyan.uos",
-    "Author": "<zhuyanlong@uniontech.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://yiyan.baidu.com/?utm_source=uos",
-    "Update": "2024-06-15 20:22:08",
-    "Size": "72.29 MB",
-    "More": "1、文心一言由文心大模型驱动，具备理解、生成、逻辑、记忆四大基础能力。当前文心大模型已升级至4.0版本，能够帮助你轻松搞定各类复杂任务。\n理解能力：听得懂潜台词、复杂句式、专业术语，今天，人类说的每一句话，它大概率都能听懂！\n生成能力：快速生成文本、代码、图片、图表、视频，今天，人类目光所致的所有内容，它几乎都能生成！\n逻辑能力： 复杂的逻辑难题、困难的数学计算、重要的职业/生活决策统统能帮你解决，情商智商双商在线！\n记忆能力：不仅有高性能，更有好记性。N轮对话过后，你话里的重点，它总会记得，帮你步步精进，解决复杂任务！\n2、文心一言是你工作、学习、生活中省时提效的好帮手；是你闲暇时刻娱乐打趣的好伙伴；也是你需要倾诉陪伴时的好朋友。在你人生旅途经历的每个阶段、面对的各种场景中，文心一言7*24小时在线，伴你左右。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/a41a95ff5ac0478384e7173599fb7cbc.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/38ba0bfcb5a741858da5b97a8d9ca465.png"
-}
 ,
 {
     "Name": "全能王PDF转换软件",
@@ -4438,6 +4438,23 @@
 }
 ,
 {
+    "Name": "office2010 deepinV23版",
+    "Version": "14.0.0",
+    "Filename": "spark.office2010-runner.com_14.0.0_all.deb",
+    "Torrent_address": "spark.office2010-runner.com_14.0.0_all.deb.torrent",
+    "Pkgname": "spark.office2010-runner.com",
+    "Author": "microsofft",
+    "Contributor": "洗头 乐  ",
+    "Website": "https://www.microsoft.com/zh-cn",
+    "Update": "2024-06-09 07:42:44",
+    "Size": "1.01 GB",
+    "More": "会用的都会用",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceaa6660-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceddd270-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/cecfc8b0-25ef-11ef-a857-8d6ee211e447.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/09/c8f47490-25ef-11ef-a857-8d6ee211e447.png"
+}
+,
+{
     "Name": "山东省农村信用社联合社网银助手",
     "Version": "1.0.0.0-1",
     "Filename": "sdnxbankclient_1.0.0.0-1_amd64.deb",
@@ -4651,23 +4668,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/43c30ee0-a5d4-11ed-aa8d-11ba9e7e0472.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/43d7cf60-a5d4-11ed-aa8d-11ba9e7e0472.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/43ebf3a0-a5d4-11ed-aa8d-11ba9e7e0472.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/44008d10-a5d4-11ed-aa8d-11ba9e7e0472.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/44159bb0-a5d4-11ed-aa8d-11ba9e7e0472.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/06/c0d6f9b0-a5d3-11ed-aa8d-11ba9e7e0472.png"
-}
-,
-{
-    "Name": "office2010 deepinV23版",
-    "Version": "14.0.0",
-    "Filename": "spark.office2010-runner.com_14.0.0_all.deb",
-    "Torrent_address": "spark.office2010-runner.com_14.0.0_all.deb.torrent",
-    "Pkgname": "spark.office2010-runner.com",
-    "Author": "microsofft",
-    "Contributor": "洗头 乐  ",
-    "Website": "https://www.microsoft.com/zh-cn",
-    "Update": "2024-06-09 07:42:44",
-    "Size": "1.01 GB",
-    "More": "会用的都会用",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceaa6660-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceddd270-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/cecfc8b0-25ef-11ef-a857-8d6ee211e447.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/09/c8f47490-25ef-11ef-a857-8d6ee211e447.png"
 }
 ,
 {

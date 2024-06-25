@@ -85,21 +85,22 @@
 }
 ,
 {
-    "Name": "Watt Toolkit（Steam++）",
-    "Version": "2.8.6",
-    "Filename": "steam_plus_plus_2.8.6_amd64.deb",
-    "Torrent_address": "steam_plus_plus_2.8.6_amd64.deb.torrent",
-    "Pkgname": "steam++",
     "Author": "长沙次元超越科技有限公司",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://steampp.net",
-    "Update": "2023-01-05 13:51:23",
-    "Size": "42.97 MB",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "watt-toolkit_3.0.0-rc.8_amd64.deb",
     "More": "「Watt Toolkit 工具箱」是一个开源跨平台的多功能游戏工具箱。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/05/db4957bf261b42c886e08eb134882687.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/05/de86535a5d504d9c85b3c366fbbb2236.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/05/e6e4a683d4ab4c1facb7d4c9303e01f8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/05/696fe761cb154b0cb231c247686092ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/05/8d4b5368f27e43f5a1a85ccb2df74240.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/05/b9affe58a21347298077176aa90de7cf.png"
+    "Name": "Watt Toolkit（Steam++）",
+    "Pkgname": "watt-toolkit",
+    "Size": "1 Kb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "watt-toolkit_3.0.0-rc.8_amd64.deb.torrent",
+    "Update": "2024-06-25 13:52:51",
+    "Version": "3.0.0-rc.8",
+    "Website": "https://steampp.net",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/steam++/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/steam++/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/steam++/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/steam++/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/steam++/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/steam++/screen_5.png\"]"
 }
+
 ,
 {
    "Name":"反恐精英",
@@ -650,22 +651,6 @@
 }
 ,
 {
-    "Name": "QQ欢乐斗地主",
-    "Version": "1.1",
-    "Filename": "qq-hlddz_1.1_amd64.deb",
-    "Pkgname": "qq-hlddz",
-    "Author": "Tencent",
-    "Contributor": "shenmo",
-    "Website": "https://hlddz.huanle.qq.com/",
-    "Update": "2020-11-23 04:31:00",
-    "Size": "11.07 KB",
-    "More": "网页版QQ斗地主",
-    "Tags": "community;deepin;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/acf1dcd0-2d44-11eb-9540-f1dc1a0889f4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/ad7b5820-2d44-11eb-9540-f1dc1a0889f4.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/23/721559c0-2d44-11eb-9540-f1dc1a0889f4.PNG"
-}
-,
-{
     "Author": "LFRon",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "deepin.ra2.enemyag4_1.2.1_all.deb",
@@ -682,6 +667,22 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/deepin.ra2.enemyag4/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/deepin.ra2.enemyag4/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/deepin.ra2.enemyag4/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/deepin.ra2.enemyag4/screen_4.png\"]"
 }
 
+,
+{
+    "Name": "QQ欢乐斗地主",
+    "Version": "1.1",
+    "Filename": "qq-hlddz_1.1_amd64.deb",
+    "Pkgname": "qq-hlddz",
+    "Author": "Tencent",
+    "Contributor": "shenmo",
+    "Website": "https://hlddz.huanle.qq.com/",
+    "Update": "2020-11-23 04:31:00",
+    "Size": "11.07 KB",
+    "More": "网页版QQ斗地主",
+    "Tags": "community;deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/acf1dcd0-2d44-11eb-9540-f1dc1a0889f4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/ad7b5820-2d44-11eb-9540-f1dc1a0889f4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/23/721559c0-2d44-11eb-9540-f1dc1a0889f4.PNG"
+}
 ,
 {
     "Name": "半条命2",
@@ -935,22 +936,6 @@
 }
 ,
 {
-    "Name": "人生重开模拟器（网页版）",
-    "Version": "1.0",
-    "Filename": "io.syaro.liferestart.web_1.0_amd64.deb",
-    "Pkgname": "io.syaro.liferestart.web",
-    "Author": "syaro",
-    "Contributor": "shenmo",
-    "Website": "https://liferestart.syaro.io/view/",
-    "Update": "2021-12-31 01:28:51",
-    "Size": "3.68 KB",
-    "More": "眼看着UOS开始上架网页应用，这不就复刻了嘛\n单纯的一个人生重开模拟器，网页套壳版本\n----------------------\n\n\n暗搓搓吐槽下UOS上架的H5斗地主和星火的斗地主像素级相似。。。而且明明首先移植腾讯游戏H5到dtk的是星火环境。。。\n\n《首款》\n呵呵\n\n星火的欢乐斗地主链接在这 spk://store/games/qq-hlddz\n\n",
-    "Tags": "community;ubuntu;deepin;uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/31/f27c78d0-6995-11ec-be59-0bb69df78c48.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/31/e9dd22b0-6995-11ec-be59-0bb69df78c48.png"
-}
-,
-{
     "Name": "半条命",
     "Version": "1.0spark0",
     "Filename": "com.halflife.spark_1.0spark0_amd64.deb",
@@ -965,6 +950,22 @@
     "Tags": "deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/05/a82e223b646e44d9a03a7fbe50ecaedc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/05/d5198e5fbf7b457db3c702100912b28e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/05/3acb37854b0d4f0eb78316d542819005.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/05/7f635876bff5426aba6681e1098b4c7f.png"
+}
+,
+{
+    "Name": "人生重开模拟器（网页版）",
+    "Version": "1.0",
+    "Filename": "io.syaro.liferestart.web_1.0_amd64.deb",
+    "Pkgname": "io.syaro.liferestart.web",
+    "Author": "syaro",
+    "Contributor": "shenmo",
+    "Website": "https://liferestart.syaro.io/view/",
+    "Update": "2021-12-31 01:28:51",
+    "Size": "3.68 KB",
+    "More": "眼看着UOS开始上架网页应用，这不就复刻了嘛\n单纯的一个人生重开模拟器，网页套壳版本\n----------------------\n\n\n暗搓搓吐槽下UOS上架的H5斗地主和星火的斗地主像素级相似。。。而且明明首先移植腾讯游戏H5到dtk的是星火环境。。。\n\n《首款》\n呵呵\n\n星火的欢乐斗地主链接在这 spk://store/games/qq-hlddz\n\n",
+    "Tags": "community;ubuntu;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/31/f27c78d0-6995-11ec-be59-0bb69df78c48.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/31/e9dd22b0-6995-11ec-be59-0bb69df78c48.png"
 }
 ,
 {
@@ -1204,23 +1205,6 @@
 }
 ,
 {
-    "Name": "戴夫RUSH(Wine)",
-    "Version": "0.2",
-    "Filename": "spark-daifurush-bymutangm_0.2_i386.deb",
-    "Torrent_address": "spark-daifurush-bymutangm_0.2_i386.deb.torrent",
-    "Pkgname": "spark-daifurush-bymutangm",
-    "Author": "M木糖M",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://www.bilibili.com/video/BV1Fd4y1N79Y",
-    "Update": "2022-08-19 08:00:06",
-    "Size": "45.24 MB",
-    "More": "一款小游戏，详细可见：https://www.bilibili.com/video/BV1Fd4y1N79Y",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/19/bc1afa10-1f51-11ed-8355-c50a51fc911d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/19/bc0e01c0-1f51-11ed-8355-c50a51fc911d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/19/c017a320-1f51-11ed-8355-c50a51fc911d.png"
-}
-,
-{
     "Name": "腾讯先锋",
     "Version": "1.0.0",
     "Filename": "com.tencent.gamereva_1.0.0_amd64.deb",
@@ -1235,6 +1219,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/4ad8941ce938491e9ed97a3093f0f968.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/958ce612bccc4ad282ddd95bc8e64ab8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/6fe20f495eef46f8866ac286eb9ccd57.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/c17d4509b1b1486990aa592100097e45.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/28/d0355f82140b4d58b791e1f597f51c95.png"
+}
+,
+{
+    "Name": "戴夫RUSH(Wine)",
+    "Version": "0.2",
+    "Filename": "spark-daifurush-bymutangm_0.2_i386.deb",
+    "Torrent_address": "spark-daifurush-bymutangm_0.2_i386.deb.torrent",
+    "Pkgname": "spark-daifurush-bymutangm",
+    "Author": "M木糖M",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://www.bilibili.com/video/BV1Fd4y1N79Y",
+    "Update": "2022-08-19 08:00:06",
+    "Size": "45.24 MB",
+    "More": "一款小游戏，详细可见：https://www.bilibili.com/video/BV1Fd4y1N79Y",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/19/bc1afa10-1f51-11ed-8355-c50a51fc911d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/19/bc0e01c0-1f51-11ed-8355-c50a51fc911d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/19/c017a320-1f51-11ed-8355-c50a51fc911d.png"
 }
 ,
 {

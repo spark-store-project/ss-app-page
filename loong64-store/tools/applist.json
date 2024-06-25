@@ -161,23 +161,6 @@
 
 ,
 {
-    "Name": "GitHub 访问加速包",
-    "Version": "0.0.1-20240206",
-    "Filename": "github-fast-access_0.0.1-20240206_all.deb",
-    "Torrent_address": "github-fast-access_0.0.1-20240206_all.deb.torrent",
-    "Pkgname": "github-fast-access",
-    "Author": "麻本法 <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface",
-    "Update": "2024-02-06 11:12:21",
-    "Size": "1.14 KB",
-    "More": "通过使用 iptables 进行 DNAT 操作将 ;即将要访问错误ip的流量导向正确的ip;\n .\n 安装时:\n iptables -t nat -A OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n 卸载时:\n iptables -t nat -D OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n Build for Deepin20.9 through spark-deb-build.",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/7cb23da7c5c84dd3a56fe99527159868.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/b08881f8c2ea4c859fb42422748a8370.png"
-}
-,
-{
     "Name": "WinRAR",
     "Version": "7.00spark0",
     "Filename": "com.rarlab.winrar.spark_7.00spark0_all.deb",
@@ -192,6 +175,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/4aa9b8c1520244c6887da7417380f2d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/2f79116ffa7a49429dc9130fa42fd19b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/2f048e1bb3a1431ab99152b2d0b6023d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/09/a015fc0e07f84f00aefd5ee775f78d04.png"
+}
+,
+{
+    "Name": "GitHub 访问加速包",
+    "Version": "0.0.1-20240206",
+    "Filename": "github-fast-access_0.0.1-20240206_all.deb",
+    "Torrent_address": "github-fast-access_0.0.1-20240206_all.deb.torrent",
+    "Pkgname": "github-fast-access",
+    "Author": "麻本法 <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface",
+    "Update": "2024-02-06 11:12:21",
+    "Size": "1.14 KB",
+    "More": "通过使用 iptables 进行 DNAT 操作将 ;即将要访问错误ip的流量导向正确的ip;\n .\n 安装时:\n iptables -t nat -A OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n 卸载时:\n iptables -t nat -D OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n Build for Deepin20.9 through spark-deb-build.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/7cb23da7c5c84dd3a56fe99527159868.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/b08881f8c2ea4c859fb42422748a8370.png"
 }
 ,
 {

@@ -5083,6 +5083,21 @@ SHA256: 1530bc216571e3dbbcbd85b5b4a0d7246f44d7a9762e520976eb6c15377b850a
 SHA512: 2db3ed04086d997c609980100ad1a70199aaeea4f317b3970a0cd02fb6c8c2b84adc6f8d2c7f7331e4d43f56ebeddff8137f43e457278e0b5af8e34d9cea6461
 Description: Transaction package to amber-ce-bookworm
 
+Package: cn.flamescion.bookworm-compatibility-mode
+Architecture: amd64
+Version: 12.4.14-1
+Priority: optional
+Section: misc
+Maintainer: shenmo <shenmo@spark-app.store>
+Depends: bubblewrap,flatpak,zenity,policykit-1,systemd,procps
+Filename: tools/cn.flamescion.bookworm-compatibility-mode/cn.flamescion.bookworm-compatibility-mode_12.4.14-1_amd64.deb
+Size: 154443264
+MD5sum: 89c46baf1f73c5b9c5c176e0c3aab9b8
+SHA1: 25fbb57f9a23608d4383308a50cc134eab0f5811
+SHA256: 8b86b589eeeb42c36a5e88dda99bee802ebbf6352b31641843b09d66aa76f5bf
+SHA512: ff3b6d1b46f5a338662c95ca1c558b8a8cd909fb3f271f30d4b27c1ca6b05b28419180dad8a947d0fd491470d5cfc67c27efe200fda649e00b215d13c7ce3175
+Description: bwrap wrapper for install and running debs inside a bookworm container
+
 Package: electerm
 Architecture: amd64
 Version: 1.38.30-1
@@ -17784,6 +17799,71 @@ SHA256: d4b5f4ed78f1de9e83e01513000592cddbb63f7353b4ab3f9ab91587e3034b06
 SHA512: d1ee335958ab4d1ee750909f4925c278da16a0a9c5369b31ae1e7259088652cab77962f0c0ba9edacb395f1f01c0d8adc4c2b298cf982bdc84a3272ab933b4ac
 Description: 本次更新版本1.19.1.0 64位版本，新增解药模式，官方场景更新至最新冰冻病毒
 
+Package: steam++
+Architecture: amd64
+Version: 2.7.2
+Priority: extra
+Section: utils
+Maintainer: 长沙次元超越科技有限公司
+Installed-Size: 138817
+Filename: games/watt-toolkit/steam_plus__plus__2.7.2_amd64.deb
+Size: 44192932
+MD5sum: b891b939fe3cf7fed82c0b05ca4a0aed
+SHA1: e3dadd87df4a231d0f5a66c471f9c9464ee1c6e8
+SHA256: 92b337dd26fb4046280272f34d249a95207fc5daebeca14b10a9cb1368b37ce8
+SHA512: d762c4d8185ac50c116074621de966060956e3c56174a6f9f3163c8cec52f5cb19b78fd4a171f36776085449299a25a97a3911bb925ab1d5f830af41798edcbc
+Homepage: https://steampp.net
+Description: 「Steam++ 工具箱」是一个开源跨平台的多功能游戏工具箱。
+
+Package: watt-toolkit
+Architecture: amd64
+Version: 3.0.0-rc.8
+Priority: extra
+Section: utils
+Maintainer: 长沙次元超越科技有限公司
+Installed-Size: 141832
+Filename: games/watt-toolkit/watt-toolkit_3.0.0-rc.8_amd64.deb
+Size: 53804012
+MD5sum: 28e756b8ea82c527f35255918f084310
+SHA1: 7160748716581d7110370747066951f46d706ac4
+SHA256: 434432e12fb1bf4b0ef47a6f8dc5284635cdd75c4ec3c37c5aaed60148d51673
+SHA512: 8d3d5ab59b45388b6a1afe01ec2e0458fe08906127bacbbfe7019a30e3a48ca1074caf9062d320b5524fab10a5b9b6faba83cec869b9892ba1aaee7b4c7b9316
+Homepage: https://steampp.net
+Description: 「Watt Toolkit」是一个开源跨平台的多功能游戏工具箱。
+
+Package: steam++
+Architecture: amd64
+Version: 3.0.0-rc.8
+Priority: extra
+Section: utils
+Maintainer: 长沙次元超越科技有限公司
+Installed-Size: 141832
+Depends: watt-toolkit
+Filename: games/watt-toolkit/steam++_3.0.0-rc.8_amd64.deb
+Size: 1128
+MD5sum: 71f0535b79c544249a760063a81860e9
+SHA1: c7a9c2010c6b8ee0349b105f4ea249b5b8028616
+SHA256: ed2706f43165d7471a00af25c166c540d930ed3c9d92669c90573f19846a8051
+SHA512: 986e169dcdf9db7455b630fbc78bbaa7b8186788bd3f3e2dd217cfce041c97b87fb5d6490b5682e9169665f235f5676412b696270f06e0dfa818d8b4e2c9d428
+Homepage: https://steampp.net
+Description: 「Watt Toolkit」是一个开源跨平台的多功能游戏工具箱。
+
+Package: steam++
+Architecture: amd64
+Version: 2.8.6
+Priority: extra
+Section: utils
+Maintainer: 长沙次元超越科技有限公司
+Installed-Size: 141832
+Filename: games/watt-toolkit/steam_plus_plus_2.8.6_amd64.deb
+Size: 45053712
+MD5sum: 3bd35cc14af3a606fb17fb1e1e2fde50
+SHA1: c50783b2418ca04f5b2b8ad8d0d21bdfe6867a5c
+SHA256: 68ba063e57b1915891df08f802463f9a71c88a6dfffa48f1873f4fab6b03922c
+SHA512: 1b7437ece1415b09eb6a4fad834510bf7d23da330efefafbbbed930639c2cfd5f68135cd07157cdc11e050096cb15b794d87f0a6848e65115b1b37340e072e59
+Homepage: https://steampp.net
+Description: 「Watt Toolkit」是一个开源跨平台的多功能游戏工具箱。
+
 Package: qtwuziqi
 Architecture: amd64
 Version: 1.0.0
@@ -20314,38 +20394,6 @@ SHA256: 2cb8ef453698802aaa4999a0aee47a4b8d96b6fec1dcbaea121c35c9fd403b1b
 SHA512: 381518e8757db20fcd656cbb8658672da613404104cfd34b3f1da501c079d1e9896c686c9b79cb0f372d908bec3a6914c60362ec92797da15d61f508e956e861
 Description: Jack of All Tribes on Deepin Wine6
  一款带有益智元素的趣味时间管理游戏。游戏中玩家回到过去，统治史前部落！帮助部落里成员建立家园，打造繁荣的村庄。
-
-Package: steam++
-Architecture: amd64
-Version: 2.7.2
-Priority: extra
-Section: utils
-Maintainer: 长沙次元超越科技有限公司
-Installed-Size: 138817
-Filename: games/steam++/steam_plus__plus__2.7.2_amd64.deb
-Size: 44192932
-MD5sum: b891b939fe3cf7fed82c0b05ca4a0aed
-SHA1: e3dadd87df4a231d0f5a66c471f9c9464ee1c6e8
-SHA256: 92b337dd26fb4046280272f34d249a95207fc5daebeca14b10a9cb1368b37ce8
-SHA512: d762c4d8185ac50c116074621de966060956e3c56174a6f9f3163c8cec52f5cb19b78fd4a171f36776085449299a25a97a3911bb925ab1d5f830af41798edcbc
-Homepage: https://steampp.net
-Description: 「Steam++ 工具箱」是一个开源跨平台的多功能游戏工具箱。
-
-Package: steam++
-Architecture: amd64
-Version: 2.8.6
-Priority: extra
-Section: utils
-Maintainer: 长沙次元超越科技有限公司
-Installed-Size: 141832
-Filename: games/steam++/steam_plus_plus_2.8.6_amd64.deb
-Size: 45053712
-MD5sum: 3bd35cc14af3a606fb17fb1e1e2fde50
-SHA1: c50783b2418ca04f5b2b8ad8d0d21bdfe6867a5c
-SHA256: 68ba063e57b1915891df08f802463f9a71c88a6dfffa48f1873f4fab6b03922c
-SHA512: 1b7437ece1415b09eb6a4fad834510bf7d23da330efefafbbbed930639c2cfd5f68135cd07157cdc11e050096cb15b794d87f0a6848e65115b1b37340e072e59
-Homepage: https://steampp.net
-Description: 「Watt Toolkit」是一个开源跨平台的多功能游戏工具箱。
 
 Package: com.github.chvin.react-tetris.web
 Architecture: amd64
@@ -35286,22 +35334,6 @@ Homepage: https://www.jetbrains.com/zh-cn/pycharm/
 Description: PyCharm Professional Edition 过渡包
  面向专业开发者的 Python IDE
 
-Package: com.qq.im.spark
-Architecture: i386
-Version: 9.6.3spark4
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: sgb76 <sgb76@163.com>
-Depends: deepin-wine6-stable, spark-dwine-helper (>= 1.6.5), fonts-wqy-microhei, fonts-wqy-zenhei
-Filename: chat/com.qq.im.spark/com.qq.im.spark_9.6.3spark4_i386.deb
-Size: 175518232
-MD5sum: 590a2c700ad618005f6ad141d2f93e36
-SHA1: 8581fabec63a0b3f94414475b45ba91db6c79c00
-SHA256: 7520e4eac30597258cb434bb3af5c2f250dc20948dc7798eacf63c126174d938
-SHA512: c6b489dc4aea1505b26f06be270cec8390db054cb45e63d33d19e9253ca081ebe23677ec90ad4ee933746a3b1cc3a39c95d7b058ef52089c0279740f11291151
-Homepage: https://tim.qq.com/
-Description: Tencent QQ Client on Deepin Wine5
-
 Package: bytedance-feishu-stable
 Architecture: amd64
 Version: 7.15.13-0
@@ -35442,23 +35474,6 @@ Description: mail/news client with RSS, chat and integrated spam filter support
  .
  The goal of Thunderbird is to produce a cross platform standalone mail
  application using the XUL user interface language.
-
-Package: com.qq.im.deepin.spark
-Architecture: all
-Version: 9.6.7.28815+spark4
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: Spark WINE Team
-Installed-Size: 140440
-Depends: deepin-wine6-stable, spark-dwine-helper (>= 1.7.4.3) | store.spark-app.spark-dwine-helper (>= 1.7.4.3)
-Filename: chat/com.qq.im.deepin.spark/com.qq.im.deepin.spark_9.6.7.28815_plus_spark4_all.deb
-Size: 355978448
-MD5sum: db604bce401b838a54876ff7eca7d7d3
-SHA1: e05f70c0d1b888bba7ddb6da69d4b30d853935f4
-SHA256: f33ca8164b28dca94ecd5c956eceb09043dfde0e20f5229774ff8c41f688effd
-SHA512: b8ea50ddc015fc7dd2556693ce2bb9eaaee3b53ead3f33e48eb4eaf5f2baa201bb39415b2229cbba2d4575a4fbc9bb8e39c492bcbf0ac13817fec72b7cd0a573
-Description: Tencent QQ Client on Deepin Wine 6. Modified by Spark Wine Team
 
 Package: web-weixin.qq.com
 Architecture: amd64
@@ -35872,25 +35887,6 @@ Description:
 License: unknown
 Vendor: xiaobei <yebeixiaohai@gmail.com>
 
-Package: deepin.com.qq.im.light
-Architecture: i386
-Version: 7.9.14308deepin9
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: Deepin WINE Team
-Provides: apps.com.qq.im.light
-Depends: deepin-wine5 (>= 5.0-deepin0), deepin-wine5-i386 (>= 5.0-deepin0), deepin-wine-helper (>= 5.0deepin0)
-Conflicts: apps.com.qq.im.light
-Replaces: apps.com.qq.im.light
-Filename: chat/deepin.com.qq.im.light/deepin.com.qq.im.light_7.9.14308deepin9_i386.deb
-Size: 52958228
-MD5sum: b9ad3b5029ab422ae72de73d6465f8a0
-SHA1: 391a53d24c11604ed04985beeaedeed14077bf96
-SHA256: b86aacb351d94e518d1aeb6aac71eb48528479fe6fd7aea17347f07783effee1
-SHA512: 20cd89c298f9ef77ec3b53fb47960600a770b6866ef9bb37c05d41846b9ad4300e59419bd9b4e3664bac7a251456985625a6a9e7260b77e4b059288b6873ceb8
-Description: Tencent QQ Client on Deepin Wine 5
-
 Package: zoom
 Architecture: amd64
 Version: 5.1.418436.0628
@@ -35924,27 +35920,6 @@ SHA1: e2ba878704b1d128bcd8ad07bc861d7ee6482d96
 SHA256: 0c9884dcbb2b967d3ab056a5ca5cf693957c1dc6d9885063e381fdf9742e512b
 SHA512: 60c13d669cf9fe551f62035dd1d6f1e4af587e948ab12d20c3c78f860633b95afa84a31ece8d6ccb928a09d7c4002fe7ca659f48e6960305b8a4a6d8a4d48f29
 Description: Ali WangWang Client on Deepin Wine5
-
-Package: com.qquwp.im.gtj
-Architecture: i386
-Version: 9.4.2UWP
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: Deepin WINE Team And Gou Tengjiao
-Installed-Size: 158400
-Provides: apps.com.qquwp.im, deepin.com.qquwp.im
-Depends: libasound2 (>= 1.0.16), libc6 (>= 2.28), libglib2.0-0 (>= 2.12.0), libgphoto2-6 (>= 2.5.10), libgphoto2-port12 (>= 2.5.10), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.4.0), liblcms2-2 (>= 2.2+git20110628), libldap-2.4-2 (>= 2.4.7), libmpg123-0 (>= 1.13.7), libopenal1 (>= 1.14), libpcap0.8 (>= 0.9.8), libpulse0 (>= 0.99.1), libudev1 (>= 183), libvkd3d1 (>= 1.0), libx11-6, libxext6, libxml2 (>= 2.9.0), ocl-icd-libopencl1 | libopencl1, udis86, zlib1g (>= 1:1.1.4), libasound2-plugins, libncurses6 | libncurses5 | libncurses, deepin-wine-plugin, deepin-wine-plugin-virtual
-Recommends: libcapi20-3, libcups2, libdbus-1-3, libfontconfig1, libfreetype6, libglu1-mesa | libglu1, libgnutls30 | libgnutls28 | libgnutls26, libgsm1, libgssapi-krb5-2, libjpeg62-turbo | libjpeg8, libkrb5-3, libodbc1, libosmesa6, libpng16-16 | libpng12-0, libsane | libsane1, libsdl2-2.0-0, libtiff5, libv4l-0, libxcomposite1, libxcursor1, libxfixes3, libxi6, libxinerama1, libxrandr2, libxrender1, libxslt1.1, libxxf86vm1
-Conflicts: apps.com.qquwp.im, deepin.com.qquwp.im
-Replaces: apps.com.qquwp.im, deepin.com.qquwp.im
-Filename: chat/com.qquwp.im.gtj/com.qquwp.im.gtj_9.4.2UWP_i386.deb
-Size: 158131676
-MD5sum: c10d5cd05134c3bfbbe4c9e1c291d425
-SHA1: a74bab346175bf772947525559622e56538000e8
-SHA256: 324fe6a405d1aa43fdea252d332b76b7f7fef81eb3d8e50b32e81c509533226a
-SHA512: 16bbac56f76f6c3574d0704fbac4386b9bab299340f6187a749d2ac021defe25a27ed844977027e8226cf0b9cb8de80c85e2a5f07913f9bbfd9af0f582f4cb41
-Description: Tencent QQ UWP-Win32 Client from Windows10' App Store on Deepin Wine
 
 Package: com.huaweicloud.welink.spark
 Architecture: i386
@@ -36324,6 +36299,28 @@ SHA512: f2f61ccfe18b7357866506c0e8cc2cc26ab370f6a242900fdce78ab4859140d763c7c64b
 Homepage: https://wx.qq.com/
 Description: WeChat Desktop
  WeChat Desktop
+
+Package: store.spark-app.wechat-linux-spark
+Architecture: amd64
+Version: 2.2.1-real1.0.0.241.7
+Priority: optional
+Section: default
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 351725
+Provides: wechat-linux-spark (= 2.1.3-3)
+Depends: libgtk2.0-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin, bubblewrap,  libasound2,procps, deepin-elf-verify (>= 1.1.10-1)
+Recommends: deepin-elf-verify (>= 0.0.16.7-1), libgconf-2-4 | libgconf2-4, libappindicator3-1
+Conflicts: com.qq.weixin, weixin, com.tencent.weixin, com.tencent.wechat
+Breaks: wechat-linux-spark (<< 2.1.2-1)
+Replaces: wechat-linux-spark (<< 2.1.2-1)
+Filename: chat/store.spark-app.wechat-linux-spark/store.spark-app.wechat-linux-spark_2.2.1-real1.0.0.241.7_amd64.deb
+Size: 119490124
+MD5sum: 681013891282135136673823dc8ed445
+SHA1: c192ad25672f588880ca3b52c6f6d99df2762ff0
+SHA256: 020eb07966e37707412b88daa730e9379d76e49718afa24f54cde0143d6ca4cb
+SHA512: 9b32ab71822d330253834ae14004f1479c0066b49fd76bfe0052824431baacbe08ebcf01425145908fe9e40bea9256ef709c0337e46d61fed4dd5dd0221c2039
+Homepage: https://wx.qq.com/
+Description: WeChat Desktop WeChat Desktop
 
 Package: cn.gov.gdzwfw.yzy
 Architecture: amd64
