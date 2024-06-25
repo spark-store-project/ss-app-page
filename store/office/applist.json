@@ -1147,23 +1147,6 @@
 }
 ,
 {
-    "Name": "Microsoft Teams",
-    "Version": "1.5.00.23861",
-    "Filename": "teams_1.5.00.23861_amd64.deb",
-    "Torrent_address": "teams_1.5.00.23861_amd64.deb.torrent",
-    "Pkgname": "teams",
-    "Author": "Microsoft Corporation",
-    "Contributor": "Microsoft Corporation",
-    "Website": "https://www.microsoft.com/zh-cn/microsoft-teams/group-chat-software",
-    "Update": "2022-12-16 23:20:52",
-    "Size": "81.51 MB",
-    "More": "在家里、在办公室里以及在学校里共同创造非凡成就。\nMicrosoft Teams 成就更多可能: 随时保持联系并访问共享内容，协同进行学习、规划和创新。\n自如保持联系: 只需在一个位置即可聊天、通话和分享视频，帮助你与生活中的所有人保持密切联系。\n协同实现大有作为: 共享文档和文件始终可用，您可以随时创建、共享和交换创意，并让事情协同向前发展。\n随时了解最新动态: 当你需要的所有优质应用和功能触手可及时，你就会变得更加专注和高效。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/16/794b9c50f6664bbb8692d6ad61b7b6a5.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/16/7d8baeefcf804cff9dab737a1bdccb02.png"
-}
-,
-{
     "Name": "幕布（wine）",
     "Version": "4.0.3spark4",
     "Filename": "com.mubu.spark_4.0.3spark4_all.deb",
@@ -1195,6 +1178,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/2a572d978d8340c397b5b78b1cffb520.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/d52fa7b991cd409fb29b3349c35992bb.png"
+}
+,
+{
+    "Name": "Microsoft Teams",
+    "Version": "1.5.00.23861",
+    "Filename": "teams_1.5.00.23861_amd64.deb",
+    "Torrent_address": "teams_1.5.00.23861_amd64.deb.torrent",
+    "Pkgname": "teams",
+    "Author": "Microsoft Corporation",
+    "Contributor": "Microsoft Corporation",
+    "Website": "https://www.microsoft.com/zh-cn/microsoft-teams/group-chat-software",
+    "Update": "2022-12-16 23:20:52",
+    "Size": "81.51 MB",
+    "More": "在家里、在办公室里以及在学校里共同创造非凡成就。\nMicrosoft Teams 成就更多可能: 随时保持联系并访问共享内容，协同进行学习、规划和创新。\n自如保持联系: 只需在一个位置即可聊天、通话和分享视频，帮助你与生活中的所有人保持密切联系。\n协同实现大有作为: 共享文档和文件始终可用，您可以随时创建、共享和交换创意，并让事情协同向前发展。\n随时了解最新动态: 当你需要的所有优质应用和功能触手可及时，你就会变得更加专注和高效。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/16/794b9c50f6664bbb8692d6ad61b7b6a5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/16/7d8baeefcf804cff9dab737a1bdccb02.png"
 }
 ,
 {
@@ -1518,6 +1518,22 @@
 }
 ,
 {
+    "Name": "通达信海通证券版（wine）",
+    "Version": "1.0.0.0deepin5",
+    "Filename": "com.tdxw.deepin_1.0.0.0deepin5_i386.deb",
+    "Pkgname": "com.tdxw.deepin",
+    "Author": "ericneon",
+    "Contributor": "ericneon",
+    "Website": "github.com/ericneon",
+    "Update": "2021-05-26 20:20:20",
+    "Size": "226.78 MB",
+    "More": "通达信的海通证券专用版",
+    "Tags": "deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/78ced4a0-be1a-11eb-93b7-1fb62ee74886.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/7b3dd8d0-be1a-11eb-93b7-1fb62ee74886.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/26/c48bc1e0-be1b-11eb-93b7-1fb62ee74886.png"
+}
+,
+{
     "Name": "Todo清单",
     "Version": "3.6.1spark2",
     "Filename": "cn.evestudio.todo.spark_3.6.1spark2_all.deb",
@@ -1535,19 +1551,20 @@
 }
 ,
 {
-    "Name": "通达信海通证券版（wine）",
-    "Version": "1.0.0.0deepin5",
-    "Filename": "com.tdxw.deepin_1.0.0.0deepin5_i386.deb",
-    "Pkgname": "com.tdxw.deepin",
-    "Author": "ericneon",
-    "Contributor": "ericneon",
-    "Website": "github.com/ericneon",
-    "Update": "2021-05-26 20:20:20",
-    "Size": "226.78 MB",
-    "More": "通达信的海通证券专用版",
-    "Tags": "deepin;ubuntu;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/78ced4a0-be1a-11eb-93b7-1fb62ee74886.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/7b3dd8d0-be1a-11eb-93b7-1fb62ee74886.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/26/c48bc1e0-be1b-11eb-93b7-1fb62ee74886.png"
+    "Name": "千牛 (Wine)",
+    "Version": "9",
+    "Filename": "spark-alqn-wine_9_all.deb",
+    "Torrent_address": "spark-alqn-wine_9_all.deb.torrent",
+    "Pkgname": "spark-alqn-wine",
+    "Author": "阿里",
+    "Contributor": "1074536311",
+    "Website": "https://work.taobao.com/portal.html",
+    "Update": "2023-10-29 11:26:48",
+    "Size": "384.31 MB",
+    "More": "千牛",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/29/8e3543b0-760a-11ee-b2c1-47e2c45d7924.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/29/918b4c80-760a-11ee-b2c1-47e2c45d7924.png"
 }
 ,
 {
@@ -1564,23 +1581,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/21/a2e453f0-ba1e-11eb-9784-eb09de216206.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/21/9341f290-ba1e-11eb-9784-eb09de216206.svg"
-}
-,
-{
-    "Name": "千牛 (Wine)",
-    "Version": "9",
-    "Filename": "spark-alqn-wine_9_all.deb",
-    "Torrent_address": "spark-alqn-wine_9_all.deb.torrent",
-    "Pkgname": "spark-alqn-wine",
-    "Author": "阿里",
-    "Contributor": "1074536311",
-    "Website": "https://work.taobao.com/portal.html",
-    "Update": "2023-10-29 11:26:48",
-    "Size": "384.31 MB",
-    "More": "千牛",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/29/8e3543b0-760a-11ee-b2c1-47e2c45d7924.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/29/918b4c80-760a-11ee-b2c1-47e2c45d7924.png"
 }
 ,
 {
@@ -2152,6 +2152,22 @@
 }
 ,
 {
+    "Name": "为知笔记Plus (Wiznote+)",
+    "Version": "2.8.3",
+    "Filename": "wiznoteplus_2.8.3_amd64.deb",
+    "Pkgname": "wiznoteplus",
+    "Author": "altairwei",
+    "Contributor": "shenmo",
+    "Website": "https://github.com/altairwei/WizNotePlus",
+    "Update": "2021-08-09 20:04:09",
+    "Size": "108.46 MB",
+    "More": "为知笔记客户端的社区分支版",
+    "Tags": "community;deepin;ubuntu;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/09/d2095160-f909-11eb-b88d-83369b50dd13.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/09/d207f1d0-f909-11eb-b88d-83369b50dd13.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/09/d2158660-f909-11eb-b88d-83369b50dd13.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/09/d20ad800-f909-11eb-b88d-83369b50dd13.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/09/cd89bcb0-f909-11eb-b88d-83369b50dd13.png"
+}
+,
+{
     "Name": "WeekToDo",
     "Version": "2.2.0",
     "Filename": "weektodo_2.2.0_amd64.deb",
@@ -2183,22 +2199,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/18ccc0815107433c91bd7a2aec462ff4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/16/b7c44209c71842ffbf0fde7db3e948e6.png"
-}
-,
-{
-    "Name": "为知笔记Plus (Wiznote+)",
-    "Version": "2.8.3",
-    "Filename": "wiznoteplus_2.8.3_amd64.deb",
-    "Pkgname": "wiznoteplus",
-    "Author": "altairwei",
-    "Contributor": "shenmo",
-    "Website": "https://github.com/altairwei/WizNotePlus",
-    "Update": "2021-08-09 20:04:09",
-    "Size": "108.46 MB",
-    "More": "为知笔记客户端的社区分支版",
-    "Tags": "community;deepin;ubuntu;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/09/d2095160-f909-11eb-b88d-83369b50dd13.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/09/d207f1d0-f909-11eb-b88d-83369b50dd13.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/09/d2158660-f909-11eb-b88d-83369b50dd13.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/09/d20ad800-f909-11eb-b88d-83369b50dd13.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/09/cd89bcb0-f909-11eb-b88d-83369b50dd13.png"
 }
 ,
 {
@@ -2252,23 +2252,6 @@
 }
 ,
 {
-    "Name": "作业帮学生端",
-    "Version": "0.02+1",
-    "Filename": "zybang.spark_0.02_plus_1_i386.deb",
-    "Torrent_address": "zybang.spark_0.02_plus_1_i386.deb.torrent",
-    "Pkgname": "zybang.spark",
-    "Author": "北京作业帮/僵尸朱灵-shy",
-    "Contributor": "shenmo",
-    "Website": "www.zybang.com",
-    "Update": "2022-08-30 02:19:46",
-    "Size": "92.36 MB",
-    "More": "更改了打包，减小了体积\n采用dwine6\n现在会清理卸载残留",
-    "Tags": "ubuntu;deepin;uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/30/04c2bdc0-27c7-11ed-b893-f3f9757c3eee.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/30/04c13720-27c7-11ed-b893-f3f9757c3eee.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/30/04c83c00-27c7-11ed-b893-f3f9757c3eee.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/30/03905840-27c7-11ed-b893-f3f9757c3eee.png"
-}
-,
-{
     "Name": "WPS Office 365",
     "Version": "12.8.2.16969.AK.preload.sw",
     "Filename": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb",
@@ -2283,6 +2266,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/819a4c6aea004b1bb9059da5c1511085.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6bd9ad01e587436fb9ca5e74ef078921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/76097ef94d21409091dbcada9fcefe7c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/2dffce17cb754c4a8407d85de5511bc2.png"
+}
+,
+{
+    "Name": "作业帮学生端",
+    "Version": "0.02+1",
+    "Filename": "zybang.spark_0.02_plus_1_i386.deb",
+    "Torrent_address": "zybang.spark_0.02_plus_1_i386.deb.torrent",
+    "Pkgname": "zybang.spark",
+    "Author": "北京作业帮/僵尸朱灵-shy",
+    "Contributor": "shenmo",
+    "Website": "www.zybang.com",
+    "Update": "2022-08-30 02:19:46",
+    "Size": "92.36 MB",
+    "More": "更改了打包，减小了体积\n采用dwine6\n现在会清理卸载残留",
+    "Tags": "ubuntu;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/30/04c2bdc0-27c7-11ed-b893-f3f9757c3eee.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/30/04c13720-27c7-11ed-b893-f3f9757c3eee.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/30/04c83c00-27c7-11ed-b893-f3f9757c3eee.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/30/03905840-27c7-11ed-b893-f3f9757c3eee.png"
 }
 ,
 {
@@ -2437,6 +2437,23 @@
 }
 ,
 {
+    "Name": "千牛",
+    "Version": "9.8.211",
+    "Filename": "uengine-dc-com.taobao.qianniu_9.8.211_all.deb",
+    "Torrent_address": "uengine-dc-com.taobao.qianniu_9.8.211_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.taobao.qianniu",
+    "Author": "浙江淘宝网络有限公司",
+    "Contributor": "菜鸟",
+    "Website": "https://work.taobao.com/?at_iframe=1",
+    "Update": "2024-03-02 18:07:43",
+    "Size": "136.4 MB",
+    "More": "一站式商家工作台，满足商家全场景经营诉求",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/02/9ec59a10ac854f308fc63b43462aae37.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/02/e9396997d2924592b31f37f352d215db.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/02/16df933531c3487790b1869e705bbe06.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/02/721eb3531d4b429193f4ce85096e4e3d.png"
+}
+,
+{
     "Name": "Mendeley Desktop",
     "Version": "1.19.8",
     "Filename": "mendeleydesktop_1.19.8_amd64.deb",
@@ -2467,23 +2484,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/23/47142530-daae-11ec-afcf-0b2b115ffe8e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/23/438de4a0-daae-11ec-afcf-0b2b115ffe8e.png"
-}
-,
-{
-    "Name": "千牛",
-    "Version": "9.8.211",
-    "Filename": "uengine-dc-com.taobao.qianniu_9.8.211_all.deb",
-    "Torrent_address": "uengine-dc-com.taobao.qianniu_9.8.211_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.taobao.qianniu",
-    "Author": "浙江淘宝网络有限公司",
-    "Contributor": "菜鸟",
-    "Website": "https://work.taobao.com/?at_iframe=1",
-    "Update": "2024-03-02 18:07:43",
-    "Size": "136.4 MB",
-    "More": "一站式商家工作台，满足商家全场景经营诉求",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/02/9ec59a10ac854f308fc63b43462aae37.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/02/e9396997d2924592b31f37f352d215db.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/02/16df933531c3487790b1869e705bbe06.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/02/721eb3531d4b429193f4ce85096e4e3d.png"
 }
 ,
 {
@@ -3999,6 +3999,20 @@
 }
 ,
 {
+   "Name":"RedNotebook",
+   "Version":"2.20",
+   "Filename":"rednotebook_2.20-0_202008022312_ubuntu20.04.1_all.deb",
+   "Pkgname":"rednotebook",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://rednotebook.sourceforge.io/index.html",
+   "Update":"2020-08-08 22:04",
+   "Size":"384.11KB",
+   "More":"RedNotebookj是一款桌面日记和日志软件，它支持Linux、Windows、Mac OS X等平台，它允许你格式化、标记和搜索条目。还可以添加图片、链接和自定义的模板，拼写检查笔记，以及导出为纯文本、HTML、Latex或PDF。"
+}
+
+,
+{
     "Name": "desmos",
     "Version": "1.0.0",
     "Filename": "desmos_1.0.0_amd64.deb",
@@ -4114,20 +4128,6 @@
 }
 ,
 {
-   "Name":"RedNotebook",
-   "Version":"2.20",
-   "Filename":"rednotebook_2.20-0_202008022312_ubuntu20.04.1_all.deb",
-   "Pkgname":"rednotebook",
-   "Author":" ",
-   "Contributor":"sgb76",
-   "Website":"https://rednotebook.sourceforge.io/index.html",
-   "Update":"2020-08-08 22:04",
-   "Size":"384.11KB",
-   "More":"RedNotebookj是一款桌面日记和日志软件，它支持Linux、Windows、Mac OS X等平台，它允许你格式化、标记和搜索条目。还可以添加图片、链接和自定义的模板，拼写检查笔记，以及导出为纯文本、HTML、Latex或PDF。"
-}
-
-,
-{
    "Name":"青竹",
    "Version":"3.1.7",
    "Filename":"qing-zhu_3.1.7_amd64.deb",
@@ -4206,6 +4206,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/12/e8048c36ef6a47a19ca0ee4f36125651.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/12/18230211a1ad478790b7e5dc593a9628.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/12/31e455adc8fc47ef88848e53cd596472.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/12/d0171a76d1224cc9a7bdba9daed6cd89.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/12/64d8639ee1d64aa5885a4bbf584b9d65.png"
+}
+,
+{
+    "Name": "office2010 deepinV23版",
+    "Version": "14.0.0",
+    "Filename": "spark.office2010-runner.com_14.0.0_all.deb",
+    "Torrent_address": "spark.office2010-runner.com_14.0.0_all.deb.torrent",
+    "Pkgname": "spark.office2010-runner.com",
+    "Author": "microsofft",
+    "Contributor": "洗头 乐  ",
+    "Website": "https://www.microsoft.com/zh-cn",
+    "Update": "2024-06-09 07:42:44",
+    "Size": "1.01 GB",
+    "More": "会用的都会用",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceaa6660-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceddd270-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/cecfc8b0-25ef-11ef-a857-8d6ee211e447.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/09/c8f47490-25ef-11ef-a857-8d6ee211e447.png"
 }
 ,
 {
@@ -4438,23 +4455,6 @@
 }
 ,
 {
-    "Name": "office2010 deepinV23版",
-    "Version": "14.0.0",
-    "Filename": "spark.office2010-runner.com_14.0.0_all.deb",
-    "Torrent_address": "spark.office2010-runner.com_14.0.0_all.deb.torrent",
-    "Pkgname": "spark.office2010-runner.com",
-    "Author": "microsofft",
-    "Contributor": "洗头 乐  ",
-    "Website": "https://www.microsoft.com/zh-cn",
-    "Update": "2024-06-09 07:42:44",
-    "Size": "1.01 GB",
-    "More": "会用的都会用",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceaa6660-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceddd270-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/cecfc8b0-25ef-11ef-a857-8d6ee211e447.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/09/c8f47490-25ef-11ef-a857-8d6ee211e447.png"
-}
-,
-{
     "Name": "山东省农村信用社联合社网银助手",
     "Version": "1.0.0.0-1",
     "Filename": "sdnxbankclient_1.0.0.0-1_amd64.deb",
@@ -4503,6 +4503,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/20/1d6aec70-4fcd-11ed-a9a5-31bbd6cb6df0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/20/219227f0-4fcd-11ed-a9a5-31bbd6cb6df0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/20/07be37b0-4fcd-11ed-a9a5-31bbd6cb6df0.png"
+}
+,
+{
+    "Name": "讯飞星火（web）",
+    "Version": "1.0-1",
+    "Filename": "com.xinghuo.uos_1.0-1_amd64.deb",
+    "Torrent_address": "com.xinghuo.uos_1.0-1_amd64.deb.torrent",
+    "Pkgname": "com.xinghuo.uos",
+    "Author": "<zhuyanlong@uniontech.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://xinghuo.xfyun.cn/desk?ch=UnionTech",
+    "Update": "2024-06-15 19:52:45",
+    "Size": "72.32 MB",
+    "More": "科大讯飞推出的新一代认知智能大模型，拥有跨领域的知识和语言理解能力，能够基于自然对话方式理解与执行任务。在与人自然对话互动中，提供语言理解、知识问答、逻辑推理、数学题解答、代码理解与编写、多模态等多种能力。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/f4c6eb8876174be1bba323fabc40f677.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/1774d3a3050348c48a32af103d6a4c3c.png"
 }
 ,
 {
@@ -4734,23 +4751,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/04/36894f10-b3df-11ec-bb1c-fb87f47f7081.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/04/524fe790-b3df-11ec-bb1c-fb87f47f7081.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/04/53297eb0-b3df-11ec-bb1c-fb87f47f7081.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/04/532c64e0-b3df-11ec-bb1c-fb87f47f7081.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/04/532ed5e0-b3df-11ec-bb1c-fb87f47f7081.jpg\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/04/8ed50700-b3de-11ec-bb1c-fb87f47f7081.png"
-}
-,
-{
-    "Name": "讯飞星火（web）",
-    "Version": "1.0-1",
-    "Filename": "com.xinghuo.uos_1.0-1_amd64.deb",
-    "Torrent_address": "com.xinghuo.uos_1.0-1_amd64.deb.torrent",
-    "Pkgname": "com.xinghuo.uos",
-    "Author": "<zhuyanlong@uniontech.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://xinghuo.xfyun.cn/desk?ch=UnionTech",
-    "Update": "2024-06-15 19:52:45",
-    "Size": "72.32 MB",
-    "More": "科大讯飞推出的新一代认知智能大模型，拥有跨领域的知识和语言理解能力，能够基于自然对话方式理解与执行任务。在与人自然对话互动中，提供语言理解、知识问答、逻辑推理、数学题解答、代码理解与编写、多模态等多种能力。",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/f4c6eb8876174be1bba323fabc40f677.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/1774d3a3050348c48a32af103d6a4c3c.png"
 }
 ,
 {

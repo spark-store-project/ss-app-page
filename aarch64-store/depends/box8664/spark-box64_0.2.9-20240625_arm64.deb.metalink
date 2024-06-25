@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-box64_0.2.9-20240625_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ca92871e9f1ff7c61de2fd328833059e</hash>
+				  
+				<hash type="sha1">4cbbbd328f031f6781a21ee781cb27508cd03e9c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/depends/box8664/spark-box64_0.2.9-20240625_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://pi.dog-mercat.ts.net/aarch64-store/depends/box8664/spark-box64_0.2.9-20240625_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://fetish.spark-app.store/aarch64-store/depends/box8664/spark-box64_0.2.9-20240625_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://piercing.spark-app.store/aarch64-store/depends/box8664/spark-box64_0.2.9-20240625_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store/aarch64-store/depends/box8664/spark-box64_0.2.9-20240625_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://blinder.spark-app.store/aarch64-store/depends/box8664/spark-box64_0.2.9-20240625_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/aarch64-store/depends/box8664/spark-box64_0.2.9-20240625_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/depends/box8664/spark-box64_0.2.9-20240625_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

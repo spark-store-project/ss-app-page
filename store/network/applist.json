@@ -460,23 +460,6 @@
 
 ,
 {
-    "Name": "easyconnect(V23)",
-    "Version": "7.6.7.7",
-    "Filename": "easyconnect_7.6.7.7_amd64.deb",
-    "Torrent_address": "easyconnect_7.6.7.7_amd64.deb.torrent",
-    "Pkgname": "easyconnect",
-    "Author": "Sangfor Technologies Inc <support@sangfor.com>",
-    "Contributor": "rainoffallingstar <15860147513@163.com>",
-    "Website": "http://www.sangfor.com.cn",
-    "Update": "2023-07-15 16:40:04",
-    "Size": "41.2 MB",
-    "More": "Easyconnect with DeepinV23,适用于V23,及ubuntu20以上版本",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/a34c840bb40f4e7b8974e440f6adacf5.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/15/7500827e5104428480d344850edb0159.png"
-}
-,
-{
     "Name": "rdp远程桌面连接工具",
     "Version": "1.2.0-1",
     "Filename": "spark-simple-remote-desktop-accessor_1.2.0-1_amd64.deb",
@@ -491,6 +474,23 @@
     "Tags": "community;ubuntu;deepin;uos;dtk5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/29/0b9d2a60-dee1-11ec-9a20-d5abed6e3fbc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/29/0bb60990-dee1-11ec-9a20-d5abed6e3fbc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/29/0bbe1fe0-dee1-11ec-9a20-d5abed6e3fbc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/29/0bdaf6b0-dee1-11ec-9a20-d5abed6e3fbc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/29/0bcc77c0-dee1-11ec-9a20-d5abed6e3fbc.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/29/026f01c0-dee1-11ec-9a20-d5abed6e3fbc.png"
+}
+,
+{
+    "Name": "easyconnect(V23)",
+    "Version": "7.6.7.7",
+    "Filename": "easyconnect_7.6.7.7_amd64.deb",
+    "Torrent_address": "easyconnect_7.6.7.7_amd64.deb.torrent",
+    "Pkgname": "easyconnect",
+    "Author": "Sangfor Technologies Inc <support@sangfor.com>",
+    "Contributor": "rainoffallingstar <15860147513@163.com>",
+    "Website": "http://www.sangfor.com.cn",
+    "Update": "2023-07-15 16:40:04",
+    "Size": "41.2 MB",
+    "More": "Easyconnect with DeepinV23,适用于V23,及ubuntu20以上版本",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/a34c840bb40f4e7b8974e440f6adacf5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/15/7500827e5104428480d344850edb0159.png"
 }
 ,
 {
@@ -848,23 +848,6 @@
 }
 ,
 {
-    "Name": "AnyDesk在线远程桌面",
-    "Version": "6.3.0",
-    "Filename": "anydesk_6.3.0_amd64.deb",
-    "Torrent_address": "anydesk_6.3.0_amd64.deb.torrent",
-    "Pkgname": "anydesk",
-    "Author": "AnyDesk Software GmbH <linux-support@anydesk.com>",
-    "Contributor": "AnyDesk Software GmbH <linux-support@anydesk.com>",
-    "Website": "https://anydesk.com/",
-    "Update": "2023-08-15 22:14:52",
-    "Size": "6.7 MB",
-    "More": "The fastest remote desktop software on the market.\n  It allows for new usage scenarios and applications that have not been possible with current remote desktop software.",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/15/b6fbc26e62964f21a87811ff1138f6d8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/15/a3a84a4b98c54de6b51b9b7db24efef9.png"
-}
-,
-{
     "Name": "RPD远程桌面-寒尘汉化（UEngine）",
     "Version": "8.1.75.406",
     "Filename": "uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb",
@@ -879,6 +862,23 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/09/ab853e77d45d4d4cb63188153d6e78ff.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/09/6bec763bfcd747cdab03f57bb3df183e.png"
+}
+,
+{
+    "Name": "AnyDesk在线远程桌面",
+    "Version": "6.3.0",
+    "Filename": "anydesk_6.3.0_amd64.deb",
+    "Torrent_address": "anydesk_6.3.0_amd64.deb.torrent",
+    "Pkgname": "anydesk",
+    "Author": "AnyDesk Software GmbH <linux-support@anydesk.com>",
+    "Contributor": "AnyDesk Software GmbH <linux-support@anydesk.com>",
+    "Website": "https://anydesk.com/",
+    "Update": "2023-08-15 22:14:52",
+    "Size": "6.7 MB",
+    "More": "The fastest remote desktop software on the market.\n  It allows for new usage scenarios and applications that have not been possible with current remote desktop software.",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/15/b6fbc26e62964f21a87811ff1138f6d8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/15/a3a84a4b98c54de6b51b9b7db24efef9.png"
 }
 ,
 {
@@ -1247,23 +1247,6 @@
 
 ,
 {
-    "Name": "360企业安全浏览器",
-    "Version": "10.5.2002.473-1",
-    "Filename": "browser360ent-cn-stable_10.5.2002.473-1_amd64.deb",
-    "Torrent_address": "browser360ent-cn-stable_10.5.2002.473-1_amd64.deb.torrent",
-    "Pkgname": "browser360ent-cn-stable",
-    "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://browser.360.net",
-    "Update": "2024-03-23 08:08:13",
-    "Size": "92.58 MB",
-    "More": "360安全浏览器结合最新的Chromium内核，领先的国密套件支持，完整的信创迁移方案，为政企客户提供最极速、最安全、最易用的浏览器。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/e6ff1dc787304065b8a373dcffae87ab.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/73cb9b3ec66d4daa95f9fae36593c012.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/1ad86b5503cf4ef3872b82718189de32.png"
-}
-,
-{
     "Name": "在线视频下载器",
     "Version": "2.8.0-1",
     "Filename": "media-downloader_2.8.0-1_amd64.deb",
@@ -1278,6 +1261,23 @@
     "Tags": "ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/f2d4508a71a74272ade330166f967b46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/ab3c081001d8452cbe08e616e77d0b46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/e5c0410412f14bc0bdf0de36a512f8f4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/6874582326514388bbbee71ad1429450.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/22/fab7a65e5c3e44ef81b8c8eb757e0e22.png"
+}
+,
+{
+    "Name": "360企业安全浏览器",
+    "Version": "10.5.2002.473-1",
+    "Filename": "browser360ent-cn-stable_10.5.2002.473-1_amd64.deb",
+    "Torrent_address": "browser360ent-cn-stable_10.5.2002.473-1_amd64.deb.torrent",
+    "Pkgname": "browser360ent-cn-stable",
+    "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://browser.360.net",
+    "Update": "2024-03-23 08:08:13",
+    "Size": "92.58 MB",
+    "More": "360安全浏览器结合最新的Chromium内核，领先的国密套件支持，完整的信创迁移方案，为政企客户提供最极速、最安全、最易用的浏览器。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/e6ff1dc787304065b8a373dcffae87ab.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/73cb9b3ec66d4daa95f9fae36593c012.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/1ad86b5503cf4ef3872b82718189de32.png"
 }
 ,
 {

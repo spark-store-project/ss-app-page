@@ -1529,6 +1529,58 @@ SHA256: c3355ab97bb0505e7e2d2fd8d934601320c8569ebdd25798cf7f65968f74e5df
 SHA512: cca2a31ea963c0d48e5a9b7df20ba7f2bcd861b3544d987a9b5d95ac2cb8af516d387c239f3d1146d8dfc2a60d8c83c1478189cfdc96332e44cbc785c79aa5cc
 Description: Spark wine meta package
 
+Package: spark-wine9-i386
+Architecture: i386
+Version: 9.8-spark-2
+Multi-Arch: foreign
+Priority: optional
+Section: otherosfs
+Source: wine
+Maintainer: RX7900XT
+Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
+Installed-Size: 658204
+Pre-Depends: dpkg (>= 1.14.12ubuntu3)
+Depends: libasound2 (>= 1.0.16), libc6 (>= 2.28), libglib2.0-0 (>= 2.37.3), libgphoto2-6 (>= 2.5.10), libgphoto2-port12 (>= 2.5.10), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.4.0), libldap-2.4-2 (>= 2.4.7), libopenal1 (>= 1.14), libpcap0.8 (>= 1.5.1), libpulse0 (>= 0.99.1), libsane (>= 1.0.24), libudev1 (>= 183), libusb-1.0-0 (>= 2:1.0.21), libx11-6, libxext6, ocl-icd-libopencl1 | libopencl1, ocl-icd-libopencl1 (>= 1.0) | libopencl-1.2-1, libasound2-plugins, libncurses6 | libncurses5 | libncurses, spark-wine9 (= 9.8-spark-2)
+Recommends: libcap2-bin, libcups2, libdbus-1-3, libfontconfig1, libfreetype6, libglu1-mesa | libglu1, libgnutls30 | libgnutls28 | libgnutls26, libgssapi-krb5-2, libkrb5-3, libodbc1, libosmesa6, libsdl2-2.0-0, libv4l-0, libxcomposite1, libxcursor1, libxfixes3, libxi6, libxinerama1, libxrandr2, libxrender1, libxxf86vm1
+Filename: depends/spark-wine/spark-wine9/spark-wine9-i386_9.8-spark-2_i386.deb
+Size: 99445092
+MD5sum: 108064abbe737fa4e37601a2974409f9
+SHA1: cfebced9e1dc83008be9fbd3b711f950b594e73a
+SHA256: 0115c699c6cbbaf8b39ff376d4df9114be62e84ac9d6309c11bac48fe11eff2b
+SHA512: 290a8619060e65ccdf9bf7b21ba3341e3f8b4657168cf54ddea93a371c6a518d8e8ce1cf5042422521cd91fb192580c086719ad6812de7cbbb85f7a69b182419
+Description: WINE Is Not An Emulator - runs MS Windows programs
+ Wine is a program which allows running Microsoft Windows programs
+ (including DOS, Windows 3.x and Win32 executables) on Unix.
+ .
+ This package contains the files needed to support 32-bit Windows
+ programs.
+
+Package: spark-wine9-amd64
+Architecture: amd64
+Version: 9.8-spark-2
+Multi-Arch: foreign
+Priority: optional
+Section: otherosfs
+Source: wine
+Maintainer: RX6900XT
+Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
+Installed-Size: 779508
+Pre-Depends: dpkg (>= 1.14.12ubuntu3)
+Depends: libasound2 (>= 1.0.16), libc6 (>= 2.25), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.37.3), libgphoto2-6 (>= 2.5.10), libgphoto2-port12 (>= 2.5.10), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.4.0), libldap-2.4-2 (>= 2.4.7), libopenal1 (>= 1.14), libpcap0.8 (>= 1.5.1), libpulse0 (>= 0.99.1), libsane (>= 1.0.24), libudev1 (>= 183), libusb-1.0-0 (>= 2:1.0.21), libx11-6, libxext6, ocl-icd-libopencl1 | libopencl1, ocl-icd-libopencl1 (>= 1.0) | libopencl-1.2-1, libasound2-plugins, libncurses6 | libncurses5 | libncurses, spark-wine9 (= 9.8-spark-2)
+Recommends: libcap2-bin, libcups2, libdbus-1-3, libfontconfig1, libfreetype6, libglu1-mesa | libglu1, libgnutls30 | libgnutls28 | libgnutls26, libgssapi-krb5-2, libjpeg62-turbo | libjpeg8, libkrb5-3, libodbc1, libosmesa6, libsdl2-2.0-0, libv4l-0, libxcomposite1, libxcursor1, libxfixes3, libxi6, libxinerama1, libxrandr2, libxrender1, libxxf86vm1
+Filename: depends/spark-wine/spark-wine9/spark-wine9-amd64_9.8-spark-2_amd64.deb
+Size: 105790000
+MD5sum: 75cb8aab45e47a6953d43c082e10e849
+SHA1: 2eab3bca6a34baa15d2a286ecf3d8ed37d44b86e
+SHA256: 05708df66e8f37ab13fc087619eeb4efe263ec7f07c335bb6d74fd8a4d98c16a
+SHA512: 56fd285be7b26397bace82cd378af7471e75ff19054ac8b6362627d0b9359a972217e0c1623fc4679a978d2c789c4f0fb3326da2bb53ddc57cecd3321ad4045c
+Description: WINE Is Not An Emulator - runs MS Windows programs
+ Wine is a program which allows running Microsoft Windows programs
+ (including DOS, Windows 3.x and Win32 executables) on Unix.
+ .
+ This package contains the files needed to support 64-bit Windows
+ programs.
+
 Package: spark-wine9-wow
 Architecture: amd64
 Version: 9.1-spark-0
@@ -1581,6 +1633,31 @@ Description: WINE Is Not An Emulator - runs MS Windows programs
  This compatibility package allows to use wine-devel system-wide as
  the default Wine version.
 
+Package: spark-winehq9
+Architecture: amd64
+Version: 9.8-spark-2
+Priority: optional
+Section: otherosfs
+Source: wine
+Maintainer: RX7900XT, shenmo<jifengshenmo@outlook.com>
+Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
+Installed-Size: 28
+Depends: spark-wine9 (= 9.8-spark-2)
+Conflicts: spark-wine9 (<< 9.8-spark-2)
+Replaces: spark-wine9 (<< 9.8-spark-2)
+Filename: depends/spark-wine/spark-wine9/spark-winehq9_9.8-spark-2_amd64.deb
+Size: 1748
+MD5sum: 2946b10f37d58af84252cfeef310949c
+SHA1: 187cd452938bc63504180501f0557f9b1ffdab23
+SHA256: e0a75273e90b954242ed3ebd95b943de10e951080afa85c6545fa530ac189c47
+SHA512: 8e122d04b14a5220bbeae6e959ca1079463d681ce8a9dcfd7853d9b3b0367031d8b44e10ecf4397018a3245beaf3b0dd0ad81ccfe1abe9a77c05b7b51f9bcdf9
+Description: WINE Is Not An Emulator - runs MS Windows programs
+ Wine is a program which allows running Microsoft Windows programs
+ (including DOS, Windows 3.x and Win32 executables) on Unix.
+ .
+ This compatibility package allows to use wine-devel system-wide as
+ the default Wine version.
+
 Package: spark-wine-wow
 Architecture: all
 Version: 9.1-spark-0
@@ -1597,6 +1674,27 @@ SHA1: 0d526c585c665a033700c7302e75b17547cdaaec
 SHA256: 1cb941a32d060a80dc6de5af630ceb1e2fa272ce1db5fdc9ce65e65acab2d975
 SHA512: 8c6693c76f45a52f1b4bf4831d0843972d551f0b0003480c0faf7ef95690c45829cf076606abf7cd76ca96299992a1d975f1d4c32189565f507074fc987fa8bd
 Description: Spark wine meta package
+
+Package: spark-wine9-ace
+Architecture: all
+Version: 9.8-spark-2
+Priority: optional
+Section: utils
+Maintainer: shenmo <jifengshenmo@outlook.com>
+Installed-Size: 36
+Provides: spark-wine9(=9.1-spark-0)
+Depends: cn.flamescion.bookworm-compatibility-mode,bash,wget,sudo,libnotify-bin
+Conflicts: spark-wine9, spark-winehq9, spark-wine9-i386, spark-wine9-amd64
+Replaces: spark-wine9, spark-winehq9, spark-wine9-i386, spark-wine9-amd64
+Filename: depends/spark-wine/spark-wine9/spark-wine9-ace_9.8-spark-2_all.deb
+Size: 1796
+MD5sum: 6342bbc2161d7fd4e03dea63ca64dd2f
+SHA1: 1550dbe1f61d8ed736848495b2b684e55a1f9b89
+SHA256: f5a8141d99021dcba24c3a8d8fbf73cd258b943a84520ee70d91d33b94d007df
+SHA512: dbc34360226f04d3546175c4f6400165a08384b815ac4bfae5b87cecba7c2ff86de28f4e302a4046cdf5681a4a5cc020975e1f3aa4b2034171e40aa95a3564c9
+Homepage: https://shenmo7192.gitee.io/
+Description: spark-wine9 ACE test package
+ spark-wine9 ACE test package
 
 Package: spark-wine9-ace
 Architecture: all
@@ -1618,6 +1716,33 @@ SHA512: ddef53de2b6388d6ffd41c1d7e217e034f51cf27b3f1828a636792888ef978fa3c82b30c
 Homepage: https://shenmo7192.gitee.io/
 Description: spark-wine9 ACE test package
  spark-wine9 ACE test package
+
+Package: spark-wine9
+Architecture: amd64
+Version: 9.8-spark-2
+Multi-Arch: foreign
+Priority: optional
+Section: otherosfs
+Source: wine
+Maintainer: RX7900XT
+Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
+Installed-Size: 74800
+Pre-Depends: dpkg (>= 1.14.12ubuntu3)
+Depends: debconf (>= 0.5) | debconf-2.0, libc6 (>= 2.17), spark-wine9-i386 (= 9.8-spark-2), spark-wine9-amd64 (= 9.8-spark-2), spark-winehq9 (= 9.8-spark-2), spark-dwine-helper
+Recommends: libcap2-bin
+Filename: depends/spark-wine/spark-wine9/spark-wine9_9.8-spark-2_amd64.deb
+Size: 31454580
+MD5sum: 67da257ff51a0048a1bde08eff254aac
+SHA1: 77c183e993f56256b0635012c15ca8da4030f68e
+SHA256: 7f2ecb04dc9a4a00ddd60fd660cfdc7b1b4d8094de77df6e9d179390a90d903e
+SHA512: cce4f51b3719c46aedd91228b88ad367486beb347f354d378c90ede3f528e2a4e7523eacb395aa5dedd5106bccf1d177270a73c4594705c1c77405f8b47a4e5f
+Description: WINE Is Not An Emulator - runs MS Windows programs
+ Wine is a program which allows running Microsoft Windows programs
+ (including DOS, Windows 3.x and Win32 executables) on Unix. It
+ consists of a program loader which loads and executes a Microsoft
+ Windows binary, and a library (called Winelib) that implements Windows
+ API calls using their Unix or X11 equivalents.  The library may also
+ be used for porting Win32 code into native Unix executables.
 
 Package: spark-wine9-i386
 Architecture: i386
@@ -17815,6 +17940,23 @@ SHA512: d762c4d8185ac50c116074621de966060956e3c56174a6f9f3163c8cec52f5cb19b78fd4
 Homepage: https://steampp.net
 Description: 「Steam++ 工具箱」是一个开源跨平台的多功能游戏工具箱。
 
+Package: steam++
+Architecture: amd64
+Version: 3.0.0-rc.8
+Priority: extra
+Section: utils
+Maintainer: 长沙次元超越科技有限公司
+Installed-Size: 141832
+Depends: watt-toolkit
+Filename: games/watt-toolkit/steam_plus__plus__3.0.0-rc.8_amd64.deb
+Size: 1128
+MD5sum: 71f0535b79c544249a760063a81860e9
+SHA1: c7a9c2010c6b8ee0349b105f4ea249b5b8028616
+SHA256: ed2706f43165d7471a00af25c166c540d930ed3c9d92669c90573f19846a8051
+SHA512: 986e169dcdf9db7455b630fbc78bbaa7b8186788bd3f3e2dd217cfce041c97b87fb5d6490b5682e9169665f235f5676412b696270f06e0dfa818d8b4e2c9d428
+Homepage: https://steampp.net
+Description: 「Watt Toolkit」是一个开源跨平台的多功能游戏工具箱。
+
 Package: watt-toolkit
 Architecture: amd64
 Version: 3.0.0-rc.8
@@ -17828,23 +17970,6 @@ MD5sum: 28e756b8ea82c527f35255918f084310
 SHA1: 7160748716581d7110370747066951f46d706ac4
 SHA256: 434432e12fb1bf4b0ef47a6f8dc5284635cdd75c4ec3c37c5aaed60148d51673
 SHA512: 8d3d5ab59b45388b6a1afe01ec2e0458fe08906127bacbbfe7019a30e3a48ca1074caf9062d320b5524fab10a5b9b6faba83cec869b9892ba1aaee7b4c7b9316
-Homepage: https://steampp.net
-Description: 「Watt Toolkit」是一个开源跨平台的多功能游戏工具箱。
-
-Package: steam++
-Architecture: amd64
-Version: 3.0.0-rc.8
-Priority: extra
-Section: utils
-Maintainer: 长沙次元超越科技有限公司
-Installed-Size: 141832
-Depends: watt-toolkit
-Filename: games/watt-toolkit/steam++_3.0.0-rc.8_amd64.deb
-Size: 1128
-MD5sum: 71f0535b79c544249a760063a81860e9
-SHA1: c7a9c2010c6b8ee0349b105f4ea249b5b8028616
-SHA256: ed2706f43165d7471a00af25c166c540d930ed3c9d92669c90573f19846a8051
-SHA512: 986e169dcdf9db7455b630fbc78bbaa7b8186788bd3f3e2dd217cfce041c97b87fb5d6490b5682e9169665f235f5676412b696270f06e0dfa818d8b4e2c9d428
 Homepage: https://steampp.net
 Description: 「Watt Toolkit」是一个开源跨平台的多功能游戏工具箱。
 

@@ -493,6 +493,33 @@ SHA256: 9b3ed9b0683ffdf989c803b7d1624ae4cd918720d589316fc70f6d7f6d35310b
 SHA512: 0da3cd6854173d468cf5b8f0a8b53d959753439491055816d6df524b506f4d51bd945c93d82c1c0b22d880aa79c9fe7c6c232b1dc2a7e5607b45f185ab4d3caa
 Description: wine7 is wine8
 
+Package: spark-wine9
+Architecture: arm64
+Version: 9.8-spark-2
+Multi-Arch: foreign
+Priority: optional
+Section: otherosfs
+Source: wine
+Maintainer: RX7900XT
+Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
+Installed-Size: 74800
+Pre-Depends: dpkg (>= 1.14.12ubuntu3)
+Depends: debconf (>= 0.5) | debconf-2.0, libc6 (>= 2.17), spark-dwine-helper,spark-box86 | box86, spark-box64 | box64, gir1.2-gtk-3.0, gir1.2-gnomedesktop-3.0, gir1.2-webkit2-4.0, gir1.2-notify-0.7, psmisc, cabextract, x11-xserver-utils, gvfs-backends, com.deepin-wine-runtime.deepin, libgl1-mesa-dri, mesa-vulkan-drivers, libvulkan1, vulkan-utils | vulkan-tools, mesa-utils, libgnutls30,deepin-emu-tool,libunwind8
+Recommends: libcap2-bin
+Filename: depends/spark-wine/wine9/spark-wine9_9.8-spark-2_arm64.deb
+Size: 235256232
+MD5sum: 97e37adf1a6be856f3349f6636dbe56d
+SHA1: 7bc8c3194909042f7f0fc368bf75aadbc5c6ef04
+SHA256: 0cdb4b9d9dede62eb6bbc2766164063af89a6b8a118e2f1b2a6099a22f673138
+SHA512: c2835804ee5aceeaf8c57ca904c1a54cd9adc91cacb170142daf079812dd9c66e8985a0fc390b2173cfbb10b9044f2b33a4ccc3ddeec2d624cf8e599bdb5607b
+Description: WINE Is Not An Emulator - runs MS Windows programs
+ Wine is a program which allows running Microsoft Windows programs
+ (including DOS, Windows 3.x and Win32 executables) on Unix. It
+ consists of a program loader which loads and executes a Microsoft
+ Windows binary, and a library (called Winelib) that implements Windows
+ API calls using their Unix or X11 equivalents.  The library may also
+ be used for porting Win32 code into native Unix executables.
+
 Package: spark-wine
 Architecture: all
 Version: 9.1-spark-1
@@ -529,6 +556,33 @@ MD5sum: f5c936233393a9f5ed8e611cffda656a
 SHA1: 16543b4f827d2c0ada6dcdf670b554da86671b2e
 SHA256: 7d1993f3a4c7cd822926720413a091f3c3e24f4fb192ed0bfa85d9dfcf5a7dd5
 SHA512: 796dbbf50cb3f745e6b844e13fd699ed6d237f7c07e5ab4582c65a2f6c2b99987f682a80bf4cf3562aaf9177c6b68985e098a8cde5bd2d631963736574cc0580
+Description: WINE Is Not An Emulator - runs MS Windows programs
+ Wine is a program which allows running Microsoft Windows programs
+ (including DOS, Windows 3.x and Win32 executables) on Unix. It
+ consists of a program loader which loads and executes a Microsoft
+ Windows binary, and a library (called Winelib) that implements Windows
+ API calls using their Unix or X11 equivalents.  The library may also
+ be used for porting Win32 code into native Unix executables.
+
+Package: spark-wine9-wow
+Architecture: arm64
+Version: 9.11-staging
+Multi-Arch: foreign
+Priority: optional
+Section: otherosfs
+Source: wine
+Maintainer: RX7900XT
+Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
+Installed-Size: 74704
+Pre-Depends: dpkg (>= 1.14.12ubuntu3)
+Depends: debconf (>= 0.5) | debconf-2.0, libc6 (>= 2.17), spark-dwine-helper, libasound2 (>= 1.0.16), libc6 (>= 2.25), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.37.3), libgphoto2-6 (>= 2.5.10), libgphoto2-port12 (>= 2.5.10), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.4.0), libldap-2.4-2 (>= 2.4.7), libopenal1 (>= 1.14), libpcap0.8 (>= 1.5.1), libpulse0 (>= 0.99.1), libsane (>= 1.0.24), libudev1 (>= 183), libusb-1.0-0 (>= 2:1.0.21), libx11-6, libxext6, ocl-icd-libopencl1 | libopencl1, ocl-icd-libopencl1 (>= 1.0) | libopencl-1.2-1, libasound2-plugins, libncurses6 | libncurses5 | libncurses, spark-box64 | box64,  libgl1-mesa-glx
+Recommends: libcap2-bin
+Filename: depends/spark-wine/wine9/spark-wine9-wow_9.11-staging_arm64.deb
+Size: 204975860
+MD5sum: 30a26fcccdbd3e7b87272369be358b39
+SHA1: 9441c7dcaa9d8e2c74ec6fe6cc41789df7ed9f02
+SHA256: feb0f2ecc127ee3c4149ad54bf13f6e6073245cdd59bb7e86c54d814f49703cf
+SHA512: 74c1ab685e080a2fc2b7f657421d0253d83ab16f8eb12aaf3f6782d48eb563f7cbc065ba538d47c995d71e2f567329124af2dfdbcd3be9f74a4c94c91bba0e64
 Description: WINE Is Not An Emulator - runs MS Windows programs
  Wine is a program which allows running Microsoft Windows programs
  (including DOS, Windows 3.x and Win32 executables) on Unix. It
@@ -1051,6 +1105,25 @@ SHA512: ccb86b3a743985679b230787f4dcedd107834d6a4a5e6ea117c210e8cf82e71b6219d184
 Homepage: https://github.com/linuxdeepin/deepin-icon-theme
 Description: Deepin Icons
  This package is DeepinIconTheme
+
+Package: spark-box64
+Architecture: arm64
+Version: 0.2.9-20240625
+Priority: extra
+Section: utils
+Maintainer: shenmo@spark-app.store
+Installed-Size: 35220
+Provides: box64
+Depends: binfmt-support
+Conflicts:  box64-android, box64-rpi4arm64, box64-rpi3arm64, box64-tegrax1, box64-rk3399, box64-rk3588
+Filename: depends/box8664/spark-box64_0.2.9-20240625_arm64.deb
+Size: 10649764
+MD5sum: ca92871e9f1ff7c61de2fd328833059e
+SHA1: 4cbbbd328f031f6781a21ee781cb27508cd03e9c
+SHA256: a07ae22d865bb0a495c8694c15436d341b045f0ec543f849097bf711a4a5d943
+SHA512: 1b23b7e50be78de2d4423f642302fb1a0af3cde75c2cf20216a3483a532351776f7ed496d0e4fdde203d1ade71617be984225bb7b93ac7f2dfbf1a711a146464
+Description: Box64 lets you run x86_64 Linux programs (such as games) on non-x86_64 Linux systems, like ARM (host system needs to be 64bit little-endian)
+ Box64 lets you run x86_64 Linux programs (such as games) on non-x86_64 Linux systems, like ARM (host system needs to be 64bit little-endian)
 
 Package: com.deepin-box86.deepin
 Architecture: arm64
@@ -8131,6 +8204,22 @@ SHA1: e05f70c0d1b888bba7ddb6da69d4b30d853935f4
 SHA256: f33ca8164b28dca94ecd5c956eceb09043dfde0e20f5229774ff8c41f688effd
 SHA512: b8ea50ddc015fc7dd2556693ce2bb9eaaee3b53ead3f33e48eb4eaf5f2baa201bb39415b2229cbba2d4575a4fbc9bb8e39c492bcbf0ac13817fec72b7cd0a573
 Description: Tencent QQ Client on Deepin Wine 6. Modified by Spark Wine Team
+
+Package: com.qq.weixin.spark
+Architecture: all
+Version: 3.9.11.17
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: sgb76 <sgb76@163.com>
+Depends: spark-wine-wow, spark-dwine-helper (>= 1.6.2), fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: chat/com.qq.weixin.spark/com.qq.weixin.spark_3.9.11.17_all.deb
+Size: 629131876
+MD5sum: 2233d1bd9b29bfa28f0caf9fa93cd221
+SHA1: 91dd554070b14bc6a06ca15911ea11f71cb286fd
+SHA256: 932287fab1d1c5ba6eb04c91a69b28f81282b3e16687161003f49a983e3487b4
+SHA512: 4a6aa21774933f449af5e51dfe73261616b9fe0bac4193650de96f7b53243c39270fd7e52f8be38ef92356309821906758a68f7392cd734f95fcc925ded9c36d
+Description: WeiXin Client on Deepin Wine6
 
 Package: com.qq.weixin.spark
 Architecture: all

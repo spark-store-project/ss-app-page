@@ -197,24 +197,6 @@
 
 ,
 {
-    "Author": "liuminghang  <liuminghang0821@gmail.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "minesweep_1.0.1_arm64.deb",
-    "More": "经典扫雷",
-    "Name": "扫雷",
-    "Pkgname": "minesweep",
-    "Size": "24 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "minesweep_1.0.1_arm64.deb.torrent",
-    "Update": "2023-03-05 19:18:42",
-    "Version": "1.0.1",
-    "Website": "minesweep",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/minesweep/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/minesweep/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/minesweep/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/minesweep/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/minesweep/screen_4.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/minesweep/screen_5.png\"]"
-}
-
-,
-{
     "Author": "Anysets <1443454956@qq.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "cstrike_1.6_arm64.deb",
@@ -229,6 +211,24 @@
     "Website": " https://s.team",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/games/cstrike/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/cstrike/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/cstrike/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/cstrike/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "liuminghang  <liuminghang0821@gmail.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "minesweep_1.0.1_arm64.deb",
+    "More": "经典扫雷",
+    "Name": "扫雷",
+    "Pkgname": "minesweep",
+    "Size": "24 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "minesweep_1.0.1_arm64.deb.torrent",
+    "Update": "2023-03-05 19:18:42",
+    "Version": "1.0.1",
+    "Website": "minesweep",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/minesweep/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/minesweep/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/minesweep/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/minesweep/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/minesweep/screen_4.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/minesweep/screen_5.png\"]"
 }
 
 ,
@@ -269,24 +269,6 @@
 
 ,
 {
-    "Author": "长沙次元超越科技有限公司",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "Steam_plus__plus__2.8.6_arm64.deb",
-    "More": "「Watt Toolkit 工具箱」是一个开源跨平台的多功能游戏工具箱。",
-    "Name": "Watt Toolkit（Steam++）",
-    "Pkgname": "steam++",
-    "Size": "41 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "Steam_plus__plus__2.8.6_arm64.deb.torrent",
-    "Update": "2023-04-29 08:00:33",
-    "Version": "2.8.6",
-    "Website": "https://steampp.net",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/steam++/icon.png",
-    "img_urls": "[]"
-}
-
-,
-{
     "Author": "spark-store",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "mcpelauncher-ui-qt_0.13.0.786_arm64.deb",
@@ -305,6 +287,24 @@
 
 ,
 {
+    "Author": "长沙次元超越科技有限公司",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "Steam_plus__plus__2.8.6_arm64.deb",
+    "More": "「Watt Toolkit 工具箱」是一个开源跨平台的多功能游戏工具箱。",
+    "Name": "Watt Toolkit（Steam++）",
+    "Pkgname": "steam++",
+    "Size": "41 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "Steam_plus__plus__2.8.6_arm64.deb.torrent",
+    "Update": "2023-04-29 08:00:33",
+    "Version": "2.8.6",
+    "Website": "https://steampp.net",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/steam++/icon.png",
+    "img_urls": "[]"
+}
+
+,
+{
     "Author": "明日方舟",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "uengine-dc-com.hypergryph.arknights_2.1.01_all.deb",
@@ -319,6 +319,24 @@
     "Website": "https://ak.hypergryph.com/",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/games/uengine-dc-com.hypergryph.arknights/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/uengine-dc-com.hypergryph.arknights/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "shenmo@spark-app.store",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.pvzhz.spark_2.1_all.deb",
+    "More": "一个植物大战僵尸改版\n详细可见：https://www.bilibili.com/video/BV15z42127up",
+    "Name": "植物大战僵尸杂交版（潜艇伟伟迷）（Wine）",
+    "Pkgname": "com.pvzhz.spark",
+    "Size": "365 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.pvzhz.spark_2.1_all.deb.torrent",
+    "Update": "2024-06-13 18:27:06",
+    "Version": "2.1",
+    "Website": "https://space.bilibili.com/97213827",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_2.png\"]"
 }
 
 ,
@@ -355,24 +373,6 @@
     "Website": "qtwuziqi",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/qtwuziqi/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/qtwuziqi/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/qtwuziqi/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/qtwuziqi/screen_3.png\"]"
-}
-
-,
-{
-    "Author": "shenmo@spark-app.store",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.pvzhz.spark_2.1_all.deb",
-    "More": "一个植物大战僵尸改版\n详细可见：https://www.bilibili.com/video/BV15z42127up",
-    "Name": "植物大战僵尸杂交版（潜艇伟伟迷）（Wine）",
-    "Pkgname": "com.pvzhz.spark",
-    "Size": "365 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "com.pvzhz.spark_2.1_all.deb.torrent",
-    "Update": "2024-06-13 18:27:06",
-    "Version": "2.1",
-    "Website": "https://space.bilibili.com/97213827",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.pvzhz.spark/screen_2.png\"]"
 }
 
 ,

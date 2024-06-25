@@ -1,16 +1,16 @@
 {
     "Author": "sgb76 <sgb76@163.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.qq.weixin.spark_3.9.5.80deepin12_all.deb",
-    "More": "微信PC客户端 \n\n更新说明：\n1.deepin23可用\n2.arm可用\n3. 使用deepin-wine6",
+    "Filename": "com.qq.weixin.spark_3.9.11.17_all.deb",
+    "More": "微信PC客户端 \n\n更新说明：\n1.建议UOS用户用官方版本\n2.arm可用\n3. 使用spark-wine-wow",
     "Name": "微信（wine）",
     "Pkgname": "com.qq.weixin.spark",
-    "Size": "284 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "com.qq.weixin.spark_3.9.5.80deepin12_all.deb.torrent",
-    "Update": "2024-02-23 17:37:47",
-    "Version": "3.9.5.80deepin12",
+    "Size": "629 Mb",
+    "Tags": "deepin;ubuntu;dwine5",
+    "Torrent_address": "com.qq.weixin.spark_3.9.11.17_all.deb.torrent",
+    "Update": "2024-06-25 22:11:36",
+    "Version": "3.9.11.17",
     "Website": "https://weixin.qq.com/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.spark/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.spark/screen_3.png\"]"
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/com.qq.weixin.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/com.qq.weixin.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/com.qq.weixin.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/chat/com.qq.weixin.spark/screen_3.png\"]"
 }

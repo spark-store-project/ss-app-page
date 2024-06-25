@@ -607,21 +607,6 @@
 }
 ,
 {
-   "Name":"以管理员身份打开文件（夹）",
-   "Version":"1.1.1",
-   "Filename":"admin-xdg-open_1.1.1_all.deb",
-   "Pkgname":"admin-xdg-open",
-   "Author":"zty199",
-   "Contributor":"zty199",
-   "Website":"https://gitee.com/zty199/",
-   "Update":"2020-09-15 01:40",
-   "Size":"1.64KB",
-   "More":"利用 xdg-open 以管理员身份直接打开文件（夹），避免文件管理器假死。",
-   "Tags":"community;deepin;uos"
-}
-
-,
-{
     "Author": "DebuggerX <dx8913712@163.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.debuggerx.fcitx5-customizer_1.0.6_all.deb",
@@ -636,6 +621,21 @@
     "Website": "https://github.com/debuggerx01/fcitx5_customizer",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_4.png\"]"
+}
+
+,
+{
+   "Name":"以管理员身份打开文件（夹）",
+   "Version":"1.1.1",
+   "Filename":"admin-xdg-open_1.1.1_all.deb",
+   "Pkgname":"admin-xdg-open",
+   "Author":"zty199",
+   "Contributor":"zty199",
+   "Website":"https://gitee.com/zty199/",
+   "Update":"2020-09-15 01:40",
+   "Size":"1.64KB",
+   "More":"利用 xdg-open 以管理员身份直接打开文件（夹），避免文件管理器假死。",
+   "Tags":"community;deepin;uos"
 }
 
 ,
@@ -1345,21 +1345,6 @@
 }
 ,
 {
-   "Name":"共享文件夹",
-   "Version":"1.5-1",
-   "Filename":"sendbylan_1.5-1_amd64.deb",
-   "Pkgname":"sendbylan",
-   "Author":"Maicss",
-   "Contributor":"shenmo",
-   "Website":"https://gitee.com/Maicss/SendByLAN",
-   "Update":"2023年6月6日",
-   "Size":"52.8Kb",
-   "Tags": "community;deepin;uos;dtk5",
-   "More":"这是一个简易的文件夹共享插件，集成到文件管理器右键中，仅支持deepin文件管理器。"
-}
-
-,
-{
     "Name": "WinRAR",
     "Version": "7.01spark1",
     "Filename": "com.rarlab.winrar.spark_7.01spark1_all.deb",
@@ -1375,6 +1360,21 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/1d09fb9bc0464504aad41ad5cf1b85ca.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/dcf9bdbba39d4829b89c0a794089c471.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/269b84a6bffb40fb84515f45c206f669.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/61f91289ce714cb9afb0545169ca7dd8.png"
 }
+,
+{
+   "Name":"共享文件夹",
+   "Version":"1.5-1",
+   "Filename":"sendbylan_1.5-1_amd64.deb",
+   "Pkgname":"sendbylan",
+   "Author":"Maicss",
+   "Contributor":"shenmo",
+   "Website":"https://gitee.com/Maicss/SendByLAN",
+   "Update":"2023年6月6日",
+   "Size":"52.8Kb",
+   "Tags": "community;deepin;uos;dtk5",
+   "More":"这是一个简易的文件夹共享插件，集成到文件管理器右键中，仅支持deepin文件管理器。"
+}
+
 ,
 {
     "Name": "羽云十六进制编辑器",
@@ -1609,23 +1609,6 @@
 }
 ,
 {
-    "Name": "FreeFileSync",
-    "Version": "13.2spark4",
-    "Filename": "org.freefilesync.spark_13.2spark4_amd64.deb",
-    "Torrent_address": "org.freefilesync.spark_13.2spark4_amd64.deb.torrent",
-    "Pkgname": "org.freefilesync.spark",
-    "Author": "Zenju",
-    "Contributor": "sgb76",
-    "Website": "https://freefilesync.org/",
-    "Update": "2023-11-24 17:00:40",
-    "Size": "23.11 MB",
-    "More": "一款免费、开源的文件夹比较和同步软件",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/24/1198b481ad064835a4b201583e6272c0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/24/11012b11d6a34992b48222ccd01c3c9c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/24/f9e39089ee484cddbee9521629f07cc8.png"
-}
-,
-{
     "Name": "MT管理器（UEngine）",
     "Version": "2.12.3",
     "Filename": "uengine-dc-bin.mt.plus_2.12.3_all.deb",
@@ -1640,6 +1623,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/6cba6ea862054a23a3a1a645b5845cd6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/179b20db6bf547099d7bee0a0b10d185.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/28/505c2ca3727a4fbb93191c70dfc51fc1.png"
+}
+,
+{
+    "Name": "FreeFileSync",
+    "Version": "13.2spark4",
+    "Filename": "org.freefilesync.spark_13.2spark4_amd64.deb",
+    "Torrent_address": "org.freefilesync.spark_13.2spark4_amd64.deb.torrent",
+    "Pkgname": "org.freefilesync.spark",
+    "Author": "Zenju",
+    "Contributor": "sgb76",
+    "Website": "https://freefilesync.org/",
+    "Update": "2023-11-24 17:00:40",
+    "Size": "23.11 MB",
+    "More": "一款免费、开源的文件夹比较和同步软件",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/24/1198b481ad064835a4b201583e6272c0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/24/11012b11d6a34992b48222ccd01c3c9c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/24/f9e39089ee484cddbee9521629f07cc8.png"
 }
 ,
 {
@@ -1896,22 +1896,6 @@
 }
 ,
 {
-    "Name": "lfxNet",
-    "Version": "1.0.0-1",
-    "Filename": "lfxnet_1.0.0-1_amd64.deb",
-    "Pkgname": "lfxnet",
-    "Author": "偕臧<xmuli>",
-    "Contributor": "偕臧<xmuli>",
-    "Website": "https://xmuli.tech",
-    "Update": "2021-02-02 19:20:35",
-    "Size": "145.43 KB",
-    "More": "lfxNet 是一款轻量、快速的实时显示系统资源信息的应用程序, 是 dde-dock 的网速插件； 项目地址 https://github.com/xmuli/lfxNet",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/86733540-6548-11eb-a7d4-295ea2f68a3b.gif\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/868d25e0-6548-11eb-a7d4-295ea2f68a3b.gif\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/9a390190-6548-11eb-a7d4-295ea2f68a3b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/9a55ff70-6548-11eb-a7d4-295ea2f68a3b.gif\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/02/43a77230-6548-11eb-a7d4-295ea2f68a3b.png"
-}
-,
-{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "spark-dwine-helper_5.6.4.1-5.3.14_all.deb",
@@ -1928,6 +1912,22 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/screen_1.png\"]"
 }
 
+,
+{
+    "Name": "lfxNet",
+    "Version": "1.0.0-1",
+    "Filename": "lfxnet_1.0.0-1_amd64.deb",
+    "Pkgname": "lfxnet",
+    "Author": "偕臧<xmuli>",
+    "Contributor": "偕臧<xmuli>",
+    "Website": "https://xmuli.tech",
+    "Update": "2021-02-02 19:20:35",
+    "Size": "145.43 KB",
+    "More": "lfxNet 是一款轻量、快速的实时显示系统资源信息的应用程序, 是 dde-dock 的网速插件； 项目地址 https://github.com/xmuli/lfxNet",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/86733540-6548-11eb-a7d4-295ea2f68a3b.gif\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/868d25e0-6548-11eb-a7d4-295ea2f68a3b.gif\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/9a390190-6548-11eb-a7d4-295ea2f68a3b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/9a55ff70-6548-11eb-a7d4-295ea2f68a3b.gif\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/02/43a77230-6548-11eb-a7d4-295ea2f68a3b.png"
+}
 ,
 {
     "Name": "系统监视中心",
@@ -2780,6 +2780,23 @@
 }
 ,
 {
+    "Name": "CPU-Z（Wine）",
+    "Version": "2.09spark0",
+    "Filename": "com.cpuz.spark_2.09spark0_all.deb",
+    "Torrent_address": "com.cpuz.spark_2.09spark0_all.deb.torrent",
+    "Pkgname": "com.cpuz.spark",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.cpuid.com/",
+    "Update": "2024-04-26 22:50:38",
+    "Size": "6.22 MB",
+    "More": "免费的 CPU 信息检测软件。这些信息包括：CPU 名称、厂商、性能、当前电压、L1 L2 cache情况；内核进程；内部和外部时钟等，支持全系列的Intel以及AMD品牌的CPU。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
+}
+,
+{
     "Name": "dockerfile生成器(测试版本)",
     "Version": "0.1-20230107",
     "Filename": "z-tools-dockerfile_0.1-20230107_amd64.deb",
@@ -2811,23 +2828,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/13/0e7a13d0-1af3-11ed-be90-b3ed8091373f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/13/f76088a0-1af2-11ed-be90-b3ed8091373f.png"
-}
-,
-{
-    "Name": "CPU-Z（Wine）",
-    "Version": "2.09spark0",
-    "Filename": "com.cpuz.spark_2.09spark0_all.deb",
-    "Torrent_address": "com.cpuz.spark_2.09spark0_all.deb.torrent",
-    "Pkgname": "com.cpuz.spark",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.cpuid.com/",
-    "Update": "2024-04-26 22:50:38",
-    "Size": "6.22 MB",
-    "More": "免费的 CPU 信息检测软件。这些信息包括：CPU 名称、厂商、性能、当前电压、L1 L2 cache情况；内核进程；内部和外部时钟等，支持全系列的Intel以及AMD品牌的CPU。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
 }
 ,
 {
@@ -3422,6 +3422,23 @@
 }
 ,
 {
+    "Name": "简传",
+    "Version": "1.1.3",
+    "Filename": "easy-send_1.1.3_all.deb",
+    "Torrent_address": "easy-send_1.1.3_all.deb.torrent",
+    "Pkgname": "easy-send",
+    "Author": "bitporo <bitporo@qq.com>",
+    "Contributor": "bitporo <bitporo@qq.com>",
+    "Website": "https://easysend.channer.cn",
+    "Update": "2024-06-24 21:56:13",
+    "Size": "7.58 MB",
+    "More": "便捷的局域网共享文本文件小工具，简捷使用，传送方便，仅需一台设备启动，其余设备使用浏览器访问即可使用",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/7b034e838df94134b4f6a1288d0db08b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/ffc7e5b0ae844295b191a3eb9e347339.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/24/b8cc798b0f4b473cbac35d13a5a4fceb.png"
+}
+,
+{
     "Name": "Deepin 壁纸设置工具(此包仅限v23可用)",
     "Version": "0.1",
     "Filename": "deepin-wallpaper-quiksetting_0.1_amd64.deb",
@@ -3536,23 +3553,6 @@
    "More":"支持的功能Host切换（支持系统托盘快速切换）时间转换（时间戳和高可读性本地时间的相互转换，对网上常见的转换页重新设计，支持快速复制，简单高效）Json格式化发送HTTP请求（支持GET、POST、PUT、DELETE等常用请求方式，支持参数、header、cookie、body等）编码转换二维码生成/二维码识别（支持自定义尺寸、纠错级别、logo图片）加解密/随机随手记（可以用来快速记录一些：代码片段、常用的SQL、常用的接口、常用的数据、暂存一些临时log等）计算（四则运算/进制转换/最大公约数/最小公倍数/排列组合数）网络/IP（ip地址转换/本机ip信息/根据域名获取ip）调色板（取色器/颜色管理）"
 }
 
-,
-{
-    "Name": "简传",
-    "Version": "1.1.3",
-    "Filename": "easy-send_1.1.3_all.deb",
-    "Torrent_address": "easy-send_1.1.3_all.deb.torrent",
-    "Pkgname": "easy-send",
-    "Author": "bitporo <bitporo@qq.com>",
-    "Contributor": "bitporo <bitporo@qq.com>",
-    "Website": "https://easysend.channer.cn",
-    "Update": "2024-06-24 21:56:13",
-    "Size": "7.58 MB",
-    "More": "便捷的局域网共享文本文件小工具，简捷使用，传送方便，仅需一台设备启动，其余设备使用浏览器访问即可使用",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/7b034e838df94134b4f6a1288d0db08b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/ffc7e5b0ae844295b191a3eb9e347339.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/24/b8cc798b0f4b473cbac35d13a5a4fceb.png"
-}
 ,
 {
     "Name": "dock栏居中配置(dde)",
@@ -3757,6 +3757,23 @@
 }
 ,
 {
+    "Name": "经传多赢股票",
+    "Version": "8.0.4",
+    "Filename": "com.jzdy.deepin_8.0.4_all.deb",
+    "Torrent_address": "com.jzdy.deepin_8.0.4_all.deb.torrent",
+    "Pkgname": "com.jzdy.deepin",
+    "Author": "Guangzhou JingZhuanDuoYing Investment Consulting . Ltd.",
+    "Contributor": "Guangzhou JingZhuanDuoYing Investment Consulting . Ltd.",
+    "Website": "https://www.jingzhuan.cn/",
+    "Update": "2024-01-16 10:45:41",
+    "Size": "165.38 MB",
+    "More": "[现在下载经传多赢股票，体验新人炒股权益，领取价值千元大礼！] [经传多赢股票] 提供沪深Level-1行情、Level-2行情、股市热点资讯等。20年深耕证券信息领域，沉淀100+盈利模型，股票投资，就选经传多赢股票！ [三板斧战法+出击信号] 结合三大自研指标，个股出击信号实时推送！系统性衍生战法实战运用，把握趋势机会，锁住波段收益！ [经选内参] 投研团队倾力制作，爆品策略解读文+行业热门专题剖析，紧紧抓住股市大小机遇！",
+    "Tags": "uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/2fad901da12b4d8a9a9e90793129db27.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/1fad636144ba4f5595bcf5dfb41ec014.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/ed1de7c620274c4d977526cbecec49a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/3065f6cd0e064662adfb497dc54649be.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/adfa3e43626d46a185f0766d446e8b7c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/16/2d549608e3814883815a54522f000dbc.png"
+}
+,
+{
     "Name": "Fishing Funds",
     "Version": "8.1.0spark4",
     "Filename": "top.1zilc.fishingfunds.spark_8.1.0spark4_amd64.deb",
@@ -3874,23 +3891,6 @@
 }
 ,
 {
-    "Name": "经传多赢股票",
-    "Version": "8.0.4",
-    "Filename": "com.jzdy.deepin_8.0.4_all.deb",
-    "Torrent_address": "com.jzdy.deepin_8.0.4_all.deb.torrent",
-    "Pkgname": "com.jzdy.deepin",
-    "Author": "Guangzhou JingZhuanDuoYing Investment Consulting . Ltd.",
-    "Contributor": "Guangzhou JingZhuanDuoYing Investment Consulting . Ltd.",
-    "Website": "https://www.jingzhuan.cn/",
-    "Update": "2024-01-16 10:45:41",
-    "Size": "165.38 MB",
-    "More": "[现在下载经传多赢股票，体验新人炒股权益，领取价值千元大礼！] [经传多赢股票] 提供沪深Level-1行情、Level-2行情、股市热点资讯等。20年深耕证券信息领域，沉淀100+盈利模型，股票投资，就选经传多赢股票！ [三板斧战法+出击信号] 结合三大自研指标，个股出击信号实时推送！系统性衍生战法实战运用，把握趋势机会，锁住波段收益！ [经选内参] 投研团队倾力制作，爆品策略解读文+行业热门专题剖析，紧紧抓住股市大小机遇！",
-    "Tags": "uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/2fad901da12b4d8a9a9e90793129db27.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/1fad636144ba4f5595bcf5dfb41ec014.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/ed1de7c620274c4d977526cbecec49a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/3065f6cd0e064662adfb497dc54649be.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/adfa3e43626d46a185f0766d446e8b7c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/16/2d549608e3814883815a54522f000dbc.png"
-}
-,
-{
     "Name": "AlphaPlot",
     "Version": "1.02-1",
     "Filename": "alphaplot_1.02-1_amd64.deb",
@@ -3989,6 +3989,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/64dbe3af88044995befc21feb654fbf8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/a9c8ffd5a9154b2ba03b44d613dd5c3c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/e320b72570f34089a30f44a95f64d6da.png"
+}
+,
+{
+    "Name": "编程猫格式工厂",
+    "Version": "1.3.0",
+    "Filename": "bcm-convertor.yzf_1.3.0_amd64.deb",
+    "Torrent_address": "bcm-convertor.yzf_1.3.0_amd64.deb.torrent",
+    "Pkgname": "bcm-convertor.yzf",
+    "Author": "小鱼yuzifu",
+    "Contributor": "小鱼yuzifu",
+    "Website": "https://gitee.com/sf-yuzifu/bcm_convertor",
+    "Update": "2022-08-20 09:43:35",
+    "Size": "156.42 MB",
+    "More": "将自己在kitten3/4上的作品在Linux上快速制作成独立应用程序！\n\n本次更新内容：\n1.支持图标自定义",
+    "Tags": "community;uos;deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/20/5b5872d0-2027-11ed-b35c-3542f52d4749.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/20/5ddc1070-2027-11ed-b35c-3542f52d4749.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/20/60251610-2027-11ed-b35c-3542f52d4749.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/20/381447e0-2027-11ed-b35c-3542f52d4749.svg"
 }
 ,
 {
@@ -4111,23 +4128,6 @@
 }
 ,
 {
-    "Name": "编程猫格式工厂",
-    "Version": "1.3.0",
-    "Filename": "bcm-convertor.yzf_1.3.0_amd64.deb",
-    "Torrent_address": "bcm-convertor.yzf_1.3.0_amd64.deb.torrent",
-    "Pkgname": "bcm-convertor.yzf",
-    "Author": "小鱼yuzifu",
-    "Contributor": "小鱼yuzifu",
-    "Website": "https://gitee.com/sf-yuzifu/bcm_convertor",
-    "Update": "2022-08-20 09:43:35",
-    "Size": "156.42 MB",
-    "More": "将自己在kitten3/4上的作品在Linux上快速制作成独立应用程序！\n\n本次更新内容：\n1.支持图标自定义",
-    "Tags": "community;uos;deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/20/5b5872d0-2027-11ed-b35c-3542f52d4749.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/20/5ddc1070-2027-11ed-b35c-3542f52d4749.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/20/60251610-2027-11ed-b35c-3542f52d4749.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/20/381447e0-2027-11ed-b35c-3542f52d4749.svg"
-}
-,
-{
     "Name": "PicList",
     "Version": "2.6.1",
     "Filename": "piclist_2.6.1_amd64.deb",
@@ -4142,6 +4142,22 @@
     "Tags": "deepin;a2d;community",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/23/55012150-59ee-11ee-85d4-79a50bfb310a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/23/590e9340-59ee-11ee-85d4-79a50bfb310a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/23/5ea8e6c0-59ee-11ee-85d4-79a50bfb310a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/23/62528dd0-59ee-11ee-85d4-79a50bfb310a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/23/6622f6c0-59ee-11ee-85d4-79a50bfb310a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/23/9f043b80-59ed-11ee-85d4-79a50bfb310a.png"
+}
+,
+{
+    "Name": "Keeweb",
+    "Version": "1.17.6-1",
+    "Filename": "keeweb-desktop_1.17.6-1_amd64.deb",
+    "Pkgname": "keeweb-desktop",
+    "Author": "keeweb",
+    "Contributor": "jerrywang",
+    "Website": "keeweb",
+    "Update": "2021-04-21 23:18:26",
+    "Size": "76.32 MB",
+    "More": "keeweb是一个开源免费的密码管理器, 100%兼容keepass。\n可安装中文插件。",
+    "Tags": "ubuntu;community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/21/ae816260-a2b4-11eb-8bc4-3d1ce405dce1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/21/ae8707b0-a2b4-11eb-8bc4-3d1ce405dce1.png"
 }
 ,
 {
@@ -4261,22 +4277,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/40d34b20-884a-11ed-96cb-3d8750470e30.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/30/3eff9c90-884a-11ed-96cb-3d8750470e30.png"
-}
-,
-{
-    "Name": "Keeweb",
-    "Version": "1.17.6-1",
-    "Filename": "keeweb-desktop_1.17.6-1_amd64.deb",
-    "Pkgname": "keeweb-desktop",
-    "Author": "keeweb",
-    "Contributor": "jerrywang",
-    "Website": "keeweb",
-    "Update": "2021-04-21 23:18:26",
-    "Size": "76.32 MB",
-    "More": "keeweb是一个开源免费的密码管理器, 100%兼容keepass。\n可安装中文插件。",
-    "Tags": "ubuntu;community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/21/ae816260-a2b4-11eb-8bc4-3d1ce405dce1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/21/ae8707b0-a2b4-11eb-8bc4-3d1ce405dce1.png"
 }
 ,
 {
@@ -4466,6 +4466,23 @@
 }
 ,
 {
+    "Name": "Wine 运行器 Qemu 拓展",
+    "Version": "9.0.1~beige",
+    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1~beige_amd64.deb",
+    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1~beige_amd64.deb.torrent",
+    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
+    "Update": "2024-06-22 21:38:19",
+    "Size": "143.01 MB",
+    "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \n安装此包后在后续版本的 Wine 运行器虚拟机配置工具将支持调用该新版本的 Qemu\n\n该版本只支持 deepin23,如需支持其它系统版本的（如 deepin 20），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/d18500842b194facbb9e237e26a09c8c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/c5b2ae498c1343e6b891b6e236a38bb7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/26f9e1e9421e43119d11c36cab473dad.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/22/69d5c06a79d54f56a116108c71971100.png"
+}
+,
+{
     "Name": "星火构建服务 SBS",
     "Version": "0.3",
     "Filename": "spark-building-service_0.3_all.deb",
@@ -4551,20 +4568,20 @@
 }
 ,
 {
-    "Name": "Wine 运行器 Qemu 拓展",
-    "Version": "9.0.1~beige",
-    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1~beige_amd64.deb",
-    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1~beige_amd64.deb.torrent",
-    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
-    "Update": "2024-06-22 21:38:19",
-    "Size": "143.01 MB",
-    "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \n安装此包后在后续版本的 Wine 运行器虚拟机配置工具将支持调用该新版本的 Qemu\n\n该版本只支持 deepin23,如需支持其它系统版本的（如 deepin 20），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
-    "Tags": "community;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/d18500842b194facbb9e237e26a09c8c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/c5b2ae498c1343e6b891b6e236a38bb7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/26f9e1e9421e43119d11c36cab473dad.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/22/69d5c06a79d54f56a116108c71971100.png"
+    "Name": "Advanced PassGen",
+    "Version": "2.4.0spark0",
+    "Filename": "com.codedead.advanced-passgen.spark_2.4.0spark0_amd64.deb",
+    "Torrent_address": "com.codedead.advanced-passgen.spark_2.4.0spark0_amd64.deb.torrent",
+    "Pkgname": "com.codedead.advanced-passgen.spark",
+    "Author": "CodeDead",
+    "Contributor": "sgb76",
+    "Website": "https://codedead.com/software/advanced-passgen",
+    "Update": "2023-03-08 21:19:32",
+    "Size": "55.56 MB",
+    "More": "一款可以快速、便捷生成密码，并对密码进行管理的开源免费工具\n\n说明：该应用适用于Ubuntu，deepin下测试无法运行",
+    "Tags": "ubuntu;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/7883f547bf204084b0e4ff1e2e8ffe33.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/b0048b8ee54a4c2ab046bce26ef24be1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/f541ab1caf754b1c86782f99312cdc2e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/08/5a167e64be0f4fe0aeaef2ef3790531f.png"
 }
 ,
 {
@@ -4619,23 +4636,6 @@
 }
 ,
 {
-    "Name": "Advanced PassGen",
-    "Version": "2.4.0spark0",
-    "Filename": "com.codedead.advanced-passgen.spark_2.4.0spark0_amd64.deb",
-    "Torrent_address": "com.codedead.advanced-passgen.spark_2.4.0spark0_amd64.deb.torrent",
-    "Pkgname": "com.codedead.advanced-passgen.spark",
-    "Author": "CodeDead",
-    "Contributor": "sgb76",
-    "Website": "https://codedead.com/software/advanced-passgen",
-    "Update": "2023-03-08 21:19:32",
-    "Size": "55.56 MB",
-    "More": "一款可以快速、便捷生成密码，并对密码进行管理的开源免费工具\n\n说明：该应用适用于Ubuntu，deepin下测试无法运行",
-    "Tags": "ubuntu;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/7883f547bf204084b0e4ff1e2e8ffe33.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/b0048b8ee54a4c2ab046bce26ef24be1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/f541ab1caf754b1c86782f99312cdc2e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/08/5a167e64be0f4fe0aeaef2ef3790531f.png"
-}
-,
-{
     "Name": "幻梦动态壁纸GXDE特别版",
     "Version": "1.7.0",
     "Filename": "fantascene-gxde_1.7.0_amd64.deb",
@@ -4650,6 +4650,23 @@
     "Tags": "community",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/583593b26b9741449ca7ba8789f76d73.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/a6712da25a2f473e84becf093fb845d4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/3e364e153b69436f8a450a0304090265.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/1343c23fd2b34f60885703b6472b56a4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/22/2a7cb8978cdc4c11b4a00ad3b8a23d02.png"
+}
+,
+{
+    "Name": "ARCHPR 压缩文件密码破解",
+    "Version": "4.66.266spark1",
+    "Filename": "com.elcomsoft.deepin_4.66.266spark1_all.deb",
+    "Torrent_address": "com.elcomsoft.deepin_4.66.266spark1_all.deb.torrent",
+    "Pkgname": "com.elcomsoft.deepin",
+    "Author": "wang",
+    "Contributor": "wang",
+    "Website": " https://www.elcomsoft.com/",
+    "Update": "2024-05-23 21:29:42",
+    "Size": "10.28 MB",
+    "More": "最好的工具是通过软件破解：Advanced Archive Password Recovery简称“ARCHPR” 是一款加密压缩文件密码破解恢复工具。可以实现暴力破解、字典破解。",
+    "Tags": "deepin;uos;ubuntu;wine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/664845e0-1908-11ef-8b98-af7814f0fdda.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/666347f0-1908-11ef-8b98-af7814f0fdda.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/23/619f0920-1908-11ef-8b98-af7814f0fdda.png"
 }
 ,
 {
@@ -4805,21 +4822,4 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.kaspersky.www.kvrt/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.kaspersky.www.kvrt/screen_2.png\"]"
 }
 
-,
-{
-    "Name": "ARCHPR 压缩文件密码破解",
-    "Version": "4.66.266spark1",
-    "Filename": "com.elcomsoft.deepin_4.66.266spark1_all.deb",
-    "Torrent_address": "com.elcomsoft.deepin_4.66.266spark1_all.deb.torrent",
-    "Pkgname": "com.elcomsoft.deepin",
-    "Author": "wang",
-    "Contributor": "wang",
-    "Website": " https://www.elcomsoft.com/",
-    "Update": "2024-05-23 21:29:42",
-    "Size": "10.28 MB",
-    "More": "最好的工具是通过软件破解：Advanced Archive Password Recovery简称“ARCHPR” 是一款加密压缩文件密码破解恢复工具。可以实现暴力破解、字典破解。",
-    "Tags": "deepin;uos;ubuntu;wine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/664845e0-1908-11ef-8b98-af7814f0fdda.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/666347f0-1908-11ef-8b98-af7814f0fdda.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/23/619f0920-1908-11ef-8b98-af7814f0fdda.png"
-}
 ]

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-wine9_9.8-spark-2_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">97e37adf1a6be856f3349f6636dbe56d</hash>
+				  
+				<hash type="sha1">7bc8c3194909042f7f0fc368bf75aadbc5c6ef04</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/depends/spark-wine/wine9/spark-wine9_9.8-spark-2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://pi.dog-mercat.ts.net/aarch64-store/depends/spark-wine/wine9/spark-wine9_9.8-spark-2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://fetish.spark-app.store/aarch64-store/depends/spark-wine/wine9/spark-wine9_9.8-spark-2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://piercing.spark-app.store/aarch64-store/depends/spark-wine/wine9/spark-wine9_9.8-spark-2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store/aarch64-store/depends/spark-wine/wine9/spark-wine9_9.8-spark-2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://blinder.spark-app.store/aarch64-store/depends/spark-wine/wine9/spark-wine9_9.8-spark-2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/aarch64-store/depends/spark-wine/wine9/spark-wine9_9.8-spark-2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/depends/spark-wine/wine9/spark-wine9_9.8-spark-2_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

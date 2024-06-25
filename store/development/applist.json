@@ -1305,6 +1305,23 @@
 }
 ,
 {
+    "Name": "编程猫源码编辑器",
+    "Version": "3.7.14",
+    "Filename": "cn.codemao.kitten3_3.7.14_amd64.deb",
+    "Torrent_address": "cn.codemao.kitten3_3.7.14_amd64.deb.torrent",
+    "Pkgname": "cn.codemao.kitten3",
+    "Author": "编程猫 <crc@codemao.cn>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://codemao.cn",
+    "Update": "2023-01-01 18:48:08",
+    "Size": "123.71 MB",
+    "More": "支持离线编辑代码，让创作更简单。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/77aad368736846d5a4a334c995be5b63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/80225203a30647ab932d8dabcce41c93.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/6c8eab3343b9471e909518c8f34134f8.png"
+}
+,
+{
     "Name": "Beekeeper Studio",
     "Version": "3.8.9",
     "Filename": "beekeeper-studio_3.8.9_amd64.deb",
@@ -1336,23 +1353,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/8141a97d28ff442bacd9099fa83f6c9b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/228c715049324f079fb002c5ad03e692.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/0b42601d1db3429e951ee1387ca8b916.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/99e9088f8b034ef5baf9d39148003d2f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/3d335aef49144bc8813d681025dfc083.png"
-}
-,
-{
-    "Name": "编程猫源码编辑器",
-    "Version": "3.7.14",
-    "Filename": "cn.codemao.kitten3_3.7.14_amd64.deb",
-    "Torrent_address": "cn.codemao.kitten3_3.7.14_amd64.deb.torrent",
-    "Pkgname": "cn.codemao.kitten3",
-    "Author": "编程猫 <crc@codemao.cn>",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://codemao.cn",
-    "Update": "2023-01-01 18:48:08",
-    "Size": "123.71 MB",
-    "More": "支持离线编辑代码，让创作更简单。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/77aad368736846d5a4a334c995be5b63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/80225203a30647ab932d8dabcce41c93.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/6c8eab3343b9471e909518c8f34134f8.png"
 }
 ,
 {
@@ -1504,23 +1504,6 @@
 }
 ,
 {
-    "Name": "DataSpell",
-    "Version": "2024.1",
-    "Filename": "jetbrains-dataspell_2024.1_all.deb",
-    "Torrent_address": "jetbrains-dataspell_2024.1_all.deb.torrent",
-    "Pkgname": "jetbrains-dataspell",
-    "Author": "懵仙兔兔",
-    "Contributor": "懵仙兔兔",
-    "Website": "https://www.jetbrains.com/zh-cn/dataspell/",
-    "Update": "2024-04-10 21:31:27",
-    "Size": "2.55 KB",
-    "More": "DataSpell\n  专业数据科学家的 IDE\n\n- 修复Wayland下在线安装显示问题\n- 增加检测 /tmp 目录空闲空间大小或使用 /var/tmp 目录\n\n  此安装包为在线安装包 - 懵仙兔兔",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/a35efe71c3f9460b8a88aa146d90eb55.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/68d023d76a58481cb72aadbeeb4ef885.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/2e2eaf2f84444d9bbaa9d81336d03db6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/ab4b85b56e014a588f78bc4bad467271.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/c7e67fb250aa4eaea96a92b7aed69c57.png"
-}
-,
-{
     "Name": "阿里云 OSS Browser",
     "Version": "1.18.0",
     "Filename": "aliyun-oss-browser_1.18.0_amd64.deb",
@@ -1535,6 +1518,23 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/527e90fcdb554436bdaab80f0570cea1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/173bae9edd0a4d23a9659b6a8f1fb089.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/7040b3068c994dce8fc71ec9e9246908.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/a5e343b744d54d15a880954d1cd3ebfe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/d659fed789c34902b952c8b40ff2753f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/230ac02c87634ee793bbd0aa7c53a108.png"
+}
+,
+{
+    "Name": "DataSpell",
+    "Version": "2024.1",
+    "Filename": "jetbrains-dataspell_2024.1_all.deb",
+    "Torrent_address": "jetbrains-dataspell_2024.1_all.deb.torrent",
+    "Pkgname": "jetbrains-dataspell",
+    "Author": "懵仙兔兔",
+    "Contributor": "懵仙兔兔",
+    "Website": "https://www.jetbrains.com/zh-cn/dataspell/",
+    "Update": "2024-04-10 21:31:27",
+    "Size": "2.55 KB",
+    "More": "DataSpell\n  专业数据科学家的 IDE\n\n- 修复Wayland下在线安装显示问题\n- 增加检测 /tmp 目录空闲空间大小或使用 /var/tmp 目录\n\n  此安装包为在线安装包 - 懵仙兔兔",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/a35efe71c3f9460b8a88aa146d90eb55.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/68d023d76a58481cb72aadbeeb4ef885.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/2e2eaf2f84444d9bbaa9d81336d03db6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/ab4b85b56e014a588f78bc4bad467271.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/c7e67fb250aa4eaea96a92b7aed69c57.png"
 }
 ,
 {
@@ -1588,40 +1588,6 @@
 }
 ,
 {
-    "Name": "R编辑器",
-    "Version": "5.2.191161",
-    "Filename": "rstudio_5.2.191161_amd64.deb",
-    "Torrent_address": "rstudio_5.2.191161_amd64.deb.torrent",
-    "Pkgname": "rstudio",
-    "Author": "R-Tools Technology <support@r-tt.com>",
-    "Contributor": "R-Tools Technology <support@r-tt.com>",
-    "Website": "http://www.r-tt.com",
-    "Update": "2023-06-13 17:38:33",
-    "Size": "77.98 MB",
-    "More": "(suitable for deepinV20/Debian10+)RStudio is a set of integrated tools designed to help you be more productive with R. It includes a console, syntax-highlighting editor that supports direct code execution, as well as tools for plotting, history, and workspace management.",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/13/6d583866228c4d6e9f24e498db541685.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/13/eac9e657419d45dcac4b842ee40d054f.png"
-}
-,
-{
-    "Name": "VSCode 历史项目信息分析器",
-    "Version": "0.0.4-20230828",
-    "Filename": "vscode-history-analyzer_0.0.4-20230828_amd64.deb",
-    "Torrent_address": "vscode-history-analyzer_0.0.4-20230828_amd64.deb.torrent",
-    "Pkgname": "vscode-history-analyzer",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/qt.vscode-history-analyzer",
-    "Update": "2023-08-28 11:40:33",
-    "Size": "132.97 KB",
-    "More": "一个可以帮助您了解 VSCode 历史项目信息的分析器",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/8ff47a9e591f450e8d0469def4ed2842.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/ba6abb843e80465ca412ef8b9c952fe9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/28/d2a52ead196b4644bd0c292098d5135d.png"
-}
-,
-{
     "Name": "VOFA+",
     "Version": "1.3.10",
     "Filename": "vofa_plus_1.3.10_amd64.deb",
@@ -1639,6 +1605,23 @@
 }
 ,
 {
+    "Name": "R编辑器",
+    "Version": "5.2.191161",
+    "Filename": "rstudio_5.2.191161_amd64.deb",
+    "Torrent_address": "rstudio_5.2.191161_amd64.deb.torrent",
+    "Pkgname": "rstudio",
+    "Author": "R-Tools Technology <support@r-tt.com>",
+    "Contributor": "R-Tools Technology <support@r-tt.com>",
+    "Website": "http://www.r-tt.com",
+    "Update": "2023-06-13 17:38:33",
+    "Size": "77.98 MB",
+    "More": "(suitable for deepinV20/Debian10+)RStudio is a set of integrated tools designed to help you be more productive with R. It includes a console, syntax-highlighting editor that supports direct code execution, as well as tools for plotting, history, and workspace management.",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/13/6d583866228c4d6e9f24e498db541685.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/13/eac9e657419d45dcac4b842ee40d054f.png"
+}
+,
+{
     "Name": "finalshell-2024年更新版",
     "Version": "4.3.10",
     "Filename": "finalshell_4.3.10_amd64.deb",
@@ -1653,6 +1636,23 @@
     "Tags": "deepin;ubuntu;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/8bf86c80-0377-11ef-ab63-e103c5305d10.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/6933f8e0-0377-11ef-ab63-e103c5305d10.desktop"
+}
+,
+{
+    "Name": "VSCode 历史项目信息分析器",
+    "Version": "0.0.4-20230828",
+    "Filename": "vscode-history-analyzer_0.0.4-20230828_amd64.deb",
+    "Torrent_address": "vscode-history-analyzer_0.0.4-20230828_amd64.deb.torrent",
+    "Pkgname": "vscode-history-analyzer",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/qt.vscode-history-analyzer",
+    "Update": "2023-08-28 11:40:33",
+    "Size": "132.97 KB",
+    "More": "一个可以帮助您了解 VSCode 历史项目信息的分析器",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/8ff47a9e591f450e8d0469def4ed2842.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/ba6abb843e80465ca412ef8b9c952fe9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/28/d2a52ead196b4644bd0c292098d5135d.png"
 }
 ,
 {
@@ -1857,6 +1857,23 @@
 }
 ,
 {
+    "Name": "Liberica JDK 21 Full",
+    "Version": "21.0.3+10",
+    "Filename": "bellsoft-java21-full_21.0.3_plus10_amd64.deb",
+    "Torrent_address": "bellsoft-java21-full_21.0.3_plus10_amd64.deb.torrent",
+    "Pkgname": "bellsoft-java21-full",
+    "Author": "BellSoft <info@bell-sw.com>",
+    "Contributor": "ThinkYoung",
+    "Website": "https://bell-sw.com/pages/libericajdk/",
+    "Update": "2024-05-09 11:09:43",
+    "Size": "281.55 MB",
+    "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/b0baff509e8f476285b670841a2d2e18.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/fe4c5ef81af045ffb930cbe83f1b26f4.png"
+}
+,
+{
     "Name": "Responsivize",
     "Version": "3.0.0spark0",
     "Filename": "io.github.virejdasani.responsivize.spark_3.0.0spark0_amd64.deb",
@@ -1991,23 +2008,6 @@
 
 ,
 {
-    "Name": "阿里云命令行工具",
-    "Version": "3.0.161~spark1",
-    "Filename": "aliyun-cli_3.0.161~spark1_amd64.deb",
-    "Torrent_address": "aliyun-cli_3.0.161~spark1_amd64.deb.torrent",
-    "Pkgname": "aliyun-cli",
-    "Author": "阿里云",
-    "Contributor": "Donald Sebastian Leung",
-    "Website": "https://github.com/aliyun/aliyun-cli",
-    "Update": "2023-04-13 22:11:04",
-    "Size": "3.09 MB",
-    "More": "阿里云命令行工具是用 Go 语言编写的, 基于阿里云 OpenAPI 打造的，用于管理阿里云资源的工具。通过下载和配置该工具，您可以在一个命令行方式下管理多个阿里云产品资源。\n\n声明：本软件包并非由阿里云官方提供或支持，如有问题请发邮件到 donaldsebleung@qq.com 或于 https://gitee.com/donaldsebleung/aliyun-cli-spark-store 建工单。",
-    "Tags": "community;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/02fe1110-da05-11ed-84b8-a9e6dfd6bea3.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/13/00b9ed70-da05-11ed-84b8-a9e6dfd6bea3.png"
-}
-,
-{
     "Name": "Mixly",
     "Version": "2.0",
     "Filename": "org.mixly_2.0_amd64.deb",
@@ -2022,6 +2022,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/28ab1857d4064c4994a0949a1ac505eb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/faa4d13b1475480699ec53ba27ea2646.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/7f053b2b44844d139cb6ab712eb38d11.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/30/ffe4c3ad968441c1abaa37e3905843e2.png"
+}
+,
+{
+    "Name": "阿里云命令行工具",
+    "Version": "3.0.161~spark1",
+    "Filename": "aliyun-cli_3.0.161~spark1_amd64.deb",
+    "Torrent_address": "aliyun-cli_3.0.161~spark1_amd64.deb.torrent",
+    "Pkgname": "aliyun-cli",
+    "Author": "阿里云",
+    "Contributor": "Donald Sebastian Leung",
+    "Website": "https://github.com/aliyun/aliyun-cli",
+    "Update": "2023-04-13 22:11:04",
+    "Size": "3.09 MB",
+    "More": "阿里云命令行工具是用 Go 语言编写的, 基于阿里云 OpenAPI 打造的，用于管理阿里云资源的工具。通过下载和配置该工具，您可以在一个命令行方式下管理多个阿里云产品资源。\n\n声明：本软件包并非由阿里云官方提供或支持，如有问题请发邮件到 donaldsebleung@qq.com 或于 https://gitee.com/donaldsebleung/aliyun-cli-spark-store 建工单。",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/02fe1110-da05-11ed-84b8-a9e6dfd6bea3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/13/00b9ed70-da05-11ed-84b8-a9e6dfd6bea3.png"
 }
 ,
 {
@@ -2056,23 +2073,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/414fa85ea4c34f0796ba83893603ec89.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/8bc85a35f1014aa89dfb7af038b76207.png"
-}
-,
-{
-    "Name": "Liberica JDK 21 Full",
-    "Version": "21.0.3+10",
-    "Filename": "bellsoft-java21-full_21.0.3_plus10_amd64.deb",
-    "Torrent_address": "bellsoft-java21-full_21.0.3_plus10_amd64.deb.torrent",
-    "Pkgname": "bellsoft-java21-full",
-    "Author": "BellSoft <info@bell-sw.com>",
-    "Contributor": "ThinkYoung",
-    "Website": "https://bell-sw.com/pages/libericajdk/",
-    "Update": "2024-05-09 11:09:43",
-    "Size": "281.55 MB",
-    "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/b0baff509e8f476285b670841a2d2e18.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/fe4c5ef81af045ffb930cbe83f1b26f4.png"
 }
 ,
 {
