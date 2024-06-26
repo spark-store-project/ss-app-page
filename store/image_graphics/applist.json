@@ -85,23 +85,6 @@
 }
 ,
 {
-    "Name": "draw.io",
-    "Version": "24.4.8",
-    "Filename": "draw.io_24.4.8_amd64.deb",
-    "Torrent_address": "draw.io_24.4.8_amd64.deb.torrent",
-    "Pkgname": "draw.io",
-    "Author": "JGraph <support@draw.io>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://github.com/jgraph/drawio",
-    "Update": "2024-05-27 18:58:00",
-    "Size": "92.9 MB",
-    "More": "draw.io 是一个强大简洁的绘图软件，支持流程图，UML图，架构图，原型图等图标。支持Github，Google Drive, One drive等网盘同步，并且永久免费。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b7622698506849078aed37f4a37359a2.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/d2c7405bd74948179082e76e3978514f.png"
-}
-,
-{
     "Name": "美图秀秀（Linux）",
     "Version": "2.0.4",
     "Filename": "com.meitu.mtxx_2.0.4_amd64.deb",
@@ -116,6 +99,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/cb2f193d08b544eb918d6d61845473a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/f7ae101fff5f4f6aa2b050ed185299e8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/2e83c1cc166747ba81bb209a819a2674.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/02/f86394d7156a467f931c30930b07cd7f.png"
+}
+,
+{
+    "Name": "draw.io",
+    "Version": "24.4.8",
+    "Filename": "draw.io_24.4.8_amd64.deb",
+    "Torrent_address": "draw.io_24.4.8_amd64.deb.torrent",
+    "Pkgname": "draw.io",
+    "Author": "JGraph <support@draw.io>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://github.com/jgraph/drawio",
+    "Update": "2024-05-27 18:58:00",
+    "Size": "92.9 MB",
+    "More": "draw.io 是一个强大简洁的绘图软件，支持流程图，UML图，架构图，原型图等图标。支持Github，Google Drive, One drive等网盘同步，并且永久免费。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b7622698506849078aed37f4a37359a2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/d2c7405bd74948179082e76e3978514f.png"
 }
 ,
 {
@@ -621,23 +621,6 @@
 }
 ,
 {
-    "Name": "万能看图王",
-    "Version": "1.0.1",
-    "Filename": "com.wn51.picture_1.0.1_amd64.deb",
-    "Torrent_address": "com.wn51.picture_1.0.1_amd64.deb.torrent",
-    "Pkgname": "com.wn51.picture",
-    "Author": "frank_886",
-    "Contributor": "shenmo",
-    "Website": "http://cd0dhd10.net/",
-    "Update": "2022-09-05 20:31:13",
-    "Size": "314.73 KB",
-    "More": "多平台的看图软件",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/05/9d664890-2d16-11ed-ac6b-b13c6500782d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/05/9d681d50-2d16-11ed-ac6b-b13c6500782d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/05/7bd85920-2d16-11ed-ac6b-b13c6500782d.png"
-}
-,
-{
     "Name": "中望 CAD 2024",
     "Version": "24.1.3.4",
     "Filename": "com.zwsoft.zwcad2024_24.1.3.4_amd64.deb",
@@ -652,6 +635,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/ed9410e050b3420caac2b48416ac7289.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/85abd1a315da49a288f5e5eac03b8800.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/57b1d030976a43cd8352d9ddfbc30e21.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/5c52e8a1e7614ee1bfb09d30a72bbdde.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/e066af2fbca448f798addb73322fc051.png"
+}
+,
+{
+    "Name": "万能看图王",
+    "Version": "1.0.1",
+    "Filename": "com.wn51.picture_1.0.1_amd64.deb",
+    "Torrent_address": "com.wn51.picture_1.0.1_amd64.deb.torrent",
+    "Pkgname": "com.wn51.picture",
+    "Author": "frank_886",
+    "Contributor": "shenmo",
+    "Website": "http://cd0dhd10.net/",
+    "Update": "2022-09-05 20:31:13",
+    "Size": "314.73 KB",
+    "More": "多平台的看图软件",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/05/9d664890-2d16-11ed-ac6b-b13c6500782d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/05/9d681d50-2d16-11ed-ac6b-b13c6500782d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/05/7bd85920-2d16-11ed-ac6b-b13c6500782d.png"
 }
 ,
 {

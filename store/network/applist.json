@@ -173,19 +173,19 @@
 ,
 {
     "Name": "360安全浏览器(Linux版)",
-    "Version": "13.3.1013.59-1",
-    "Filename": "browser360-cn-stable_13.3.1013.59-1_amd64.deb",
-    "Torrent_address": "browser360-cn-stable_13.3.1013.59-1_amd64.deb.torrent",
+    "Version": "13.3.1014.32-1",
+    "Filename": "browser360-cn-stable_13.3.1014.32-1_amd64.deb",
+    "Torrent_address": "browser360-cn-stable_13.3.1014.32-1_amd64.deb.torrent",
     "Pkgname": "browser360-cn-stable",
     "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
-    "Contributor": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
+    "Contributor": "Fredoong",
     "Website": "https://browser.360.net/gc/",
-    "Update": "2024-06-06 11:34:55",
-    "Size": "128.06 MB",
+    "Update": "2024-06-26 06:16:19",
+    "Size": "128.04 MB",
     "More": "360安全浏览器\n360安全浏览器结合最新的Chromium内核，领先的国密套件支持，完整的信创迁移方案，为政企客户提供最极速、最安全、最易用的浏览器。",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/06/daa155725b2a4e348fcf5f2a7cab7713.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/06/e67b24c6e7a74373965ac852c64d92e0.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/361aed1888db441c8a87655cca1bd8b2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/26/bff5e4b0f4ec4de4b77dc7b38ef7770f.png"
 }
 ,
 {
@@ -848,23 +848,6 @@
 }
 ,
 {
-    "Name": "RPD远程桌面-寒尘汉化（UEngine）",
-    "Version": "8.1.75.406",
-    "Filename": "uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb",
-    "Torrent_address": "uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.microsoft.rdc.android",
-    "Author": "寒尘工作室",
-    "Contributor": "燕戏竹林",
-    "Website": "抱歉我们联系不到作者，也只能找到这一个版本",
-    "Update": "2023-01-09 14:56:01",
-    "Size": "15.22 MB",
-    "More": "这个是安卓版本的微软远程软件的国内汉化版，虽然部分地方汉化的不是很到位，但是至少不至于不能用",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/09/ab853e77d45d4d4cb63188153d6e78ff.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/09/6bec763bfcd747cdab03f57bb3df183e.png"
-}
-,
-{
     "Name": "AnyDesk在线远程桌面",
     "Version": "6.3.0",
     "Filename": "anydesk_6.3.0_amd64.deb",
@@ -879,6 +862,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/15/b6fbc26e62964f21a87811ff1138f6d8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/15/a3a84a4b98c54de6b51b9b7db24efef9.png"
+}
+,
+{
+    "Name": "RPD远程桌面-寒尘汉化（UEngine）",
+    "Version": "8.1.75.406",
+    "Filename": "uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb",
+    "Torrent_address": "uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.microsoft.rdc.android",
+    "Author": "寒尘工作室",
+    "Contributor": "燕戏竹林",
+    "Website": "抱歉我们联系不到作者，也只能找到这一个版本",
+    "Update": "2023-01-09 14:56:01",
+    "Size": "15.22 MB",
+    "More": "这个是安卓版本的微软远程软件的国内汉化版，虽然部分地方汉化的不是很到位，但是至少不至于不能用",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/09/ab853e77d45d4d4cb63188153d6e78ff.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/09/6bec763bfcd747cdab03f57bb3df183e.png"
 }
 ,
 {
@@ -1166,23 +1166,6 @@
 
 ,
 {
-    "Name": "Google Chrome浏览器测试版",
-    "Version": "112.0.5615.39-1",
-    "Filename": "google-chrome-beta_112.0.5615.39-1_amd64.deb",
-    "Torrent_address": "google-chrome-beta_112.0.5615.39-1_amd64.deb.torrent",
-    "Pkgname": "google-chrome-beta",
-    "Author": "Chrome Linux Team <chromium-dev@chromium.org>",
-    "Contributor": "卢博轩",
-    "Website": "https://www.google.com/intl/zh-CN/chrome/beta/",
-    "Update": "2023-03-26 11:19:33",
-    "Size": "89.39 MB",
-    "More": "The web browser from Google\nGoogle Chrome is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.\n翻译：\n来自谷歌的网络浏览器\n谷歌浏览器是一款将极简设计与先进技术相结合的浏览器，使网络更快、更安全、更容易。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/26/8110807de8784de18c4f59739efaf12f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/26/bf8062518fe0416fa1abddb541f0e8ed.png"
-}
-,
-{
     "Name": "Clash Nyanpasu～(∠・ω< )⌒☆​ ",
     "Version": "1.5.1",
     "Filename": "clash-nyanpasu_1.5.1_amd64.deb",
@@ -1197,6 +1180,23 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/e7122150-f8dd-11ee-94b3-3598cf0b4d68.gif\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/d8f3eef0-f8dd-11ee-94b3-3598cf0b4d68.png"
+}
+,
+{
+    "Name": "Google Chrome浏览器测试版",
+    "Version": "112.0.5615.39-1",
+    "Filename": "google-chrome-beta_112.0.5615.39-1_amd64.deb",
+    "Torrent_address": "google-chrome-beta_112.0.5615.39-1_amd64.deb.torrent",
+    "Pkgname": "google-chrome-beta",
+    "Author": "Chrome Linux Team <chromium-dev@chromium.org>",
+    "Contributor": "卢博轩",
+    "Website": "https://www.google.com/intl/zh-CN/chrome/beta/",
+    "Update": "2023-03-26 11:19:33",
+    "Size": "89.39 MB",
+    "More": "The web browser from Google\nGoogle Chrome is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.\n翻译：\n来自谷歌的网络浏览器\n谷歌浏览器是一款将极简设计与先进技术相结合的浏览器，使网络更快、更安全、更容易。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/26/8110807de8784de18c4f59739efaf12f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/26/bf8062518fe0416fa1abddb541f0e8ed.png"
 }
 ,
 {
@@ -1247,23 +1247,6 @@
 
 ,
 {
-    "Name": "在线视频下载器",
-    "Version": "2.8.0-1",
-    "Filename": "media-downloader_2.8.0-1_amd64.deb",
-    "Torrent_address": "media-downloader_2.8.0-1_amd64.deb.torrent",
-    "Pkgname": "media-downloader",
-    "Author": "Mhogo Mchungu <mhogomchungu@gmail.com>",
-    "Contributor": "flutter",
-    "Website": "https://github.com/mhogomchungu/media-downloader",
-    "Update": "2023-02-22 17:36:23",
-    "Size": "499.3 KB",
-    "More": "下载在线视频软件，支持b站等网站",
-    "Tags": "ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/f2d4508a71a74272ade330166f967b46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/ab3c081001d8452cbe08e616e77d0b46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/e5c0410412f14bc0bdf0de36a512f8f4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/6874582326514388bbbee71ad1429450.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/22/fab7a65e5c3e44ef81b8c8eb757e0e22.png"
-}
-,
-{
     "Name": "360企业安全浏览器",
     "Version": "10.5.2002.473-1",
     "Filename": "browser360ent-cn-stable_10.5.2002.473-1_amd64.deb",
@@ -1278,6 +1261,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/e6ff1dc787304065b8a373dcffae87ab.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/73cb9b3ec66d4daa95f9fae36593c012.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/1ad86b5503cf4ef3872b82718189de32.png"
+}
+,
+{
+    "Name": "在线视频下载器",
+    "Version": "2.8.0-1",
+    "Filename": "media-downloader_2.8.0-1_amd64.deb",
+    "Torrent_address": "media-downloader_2.8.0-1_amd64.deb.torrent",
+    "Pkgname": "media-downloader",
+    "Author": "Mhogo Mchungu <mhogomchungu@gmail.com>",
+    "Contributor": "flutter",
+    "Website": "https://github.com/mhogomchungu/media-downloader",
+    "Update": "2023-02-22 17:36:23",
+    "Size": "499.3 KB",
+    "More": "下载在线视频软件，支持b站等网站",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/f2d4508a71a74272ade330166f967b46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/ab3c081001d8452cbe08e616e77d0b46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/e5c0410412f14bc0bdf0de36a512f8f4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/6874582326514388bbbee71ad1429450.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/22/fab7a65e5c3e44ef81b8c8eb757e0e22.png"
 }
 ,
 {
@@ -1413,23 +1413,6 @@
 }
 ,
 {
-    "Name": "方德浏览器",
-    "Version": "6.0.0.1",
-    "Filename": "nfs-browser_6.0.0.1_amd64.deb",
-    "Torrent_address": "nfs-browser_6.0.0.1_amd64.deb.torrent",
-    "Pkgname": "nfs-browser",
-    "Author": "www.nfs-china.com <service@nfschina.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "http://browser.nfschina.com/browser/public/",
-    "Update": "2024-02-27 14:01:25",
-    "Size": "77.47 MB",
-    "More": "方德浏览器",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/27/3b722c822f1c434bae7ca7bd5fbe78a1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/27/b4de95ddda204d789422afee791d83dc.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/27/2f6d3a4bf3524e7eb8cbacd156b25c2e.png"
-}
-,
-{
     "Name": "腾讯微云（wine）",
     "Version": "5.2.1282spark1",
     "Filename": "com.weiyun.spark_5.2.1282spark1_i386.deb",
@@ -1444,6 +1427,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/24/ba1062f58e0b4b5c8e40c76765553407.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/24/e0a38f76e66b484b9de86a58d3e616ad.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/24/9254114039fc453ab804763abb79f1f8.png"
+}
+,
+{
+    "Name": "方德浏览器",
+    "Version": "6.0.0.1",
+    "Filename": "nfs-browser_6.0.0.1_amd64.deb",
+    "Torrent_address": "nfs-browser_6.0.0.1_amd64.deb.torrent",
+    "Pkgname": "nfs-browser",
+    "Author": "www.nfs-china.com <service@nfschina.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "http://browser.nfschina.com/browser/public/",
+    "Update": "2024-02-27 14:01:25",
+    "Size": "77.47 MB",
+    "More": "方德浏览器",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/27/3b722c822f1c434bae7ca7bd5fbe78a1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/27/b4de95ddda204d789422afee791d83dc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/27/2f6d3a4bf3524e7eb8cbacd156b25c2e.png"
 }
 ,
 {
@@ -1497,23 +1497,6 @@
 }
 ,
 {
-    "Name": "畅邮",
-    "Version": "6.6.4.6",
-    "Filename": "com.cy-email.spark_6.6.4.6_i386.deb",
-    "Torrent_address": "com.cy-email.spark_6.6.4.6_i386.deb.torrent",
-    "Pkgname": "com.cy-email.spark",
-    "Author": "DreamMail",
-    "Contributor": "shenmo",
-    "Website": "https://cy-email.com/",
-    "Update": "2022-09-02 15:58:50",
-    "Size": "181.44 MB",
-    "More": "精巧纯净又稳定，集收发、追踪、群发为一身的强大邮件客户端",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7f3340-2a94-11ed-9bd6-8b4709310a39.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7c7420-2a94-11ed-9bd6-8b4709310a39.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7dd3b0-2a94-11ed-9bd6-8b4709310a39.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/02/f87d6fd0-2a94-11ed-9bd6-8b4709310a39.png"
-}
-,
-{
     "Name": "网络投递",
     "Version": "0.4.0",
     "Filename": "landrop_0.4.0_amd64.deb",
@@ -1528,6 +1511,23 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/22/46cd5ef0-110f-11ee-8cbf-e769c1600687.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/22/29875260-110f-11ee-8cbf-e769c1600687.png"
+}
+,
+{
+    "Name": "畅邮",
+    "Version": "6.6.4.6",
+    "Filename": "com.cy-email.spark_6.6.4.6_i386.deb",
+    "Torrent_address": "com.cy-email.spark_6.6.4.6_i386.deb.torrent",
+    "Pkgname": "com.cy-email.spark",
+    "Author": "DreamMail",
+    "Contributor": "shenmo",
+    "Website": "https://cy-email.com/",
+    "Update": "2022-09-02 15:58:50",
+    "Size": "181.44 MB",
+    "More": "精巧纯净又稳定，集收发、追踪、群发为一身的强大邮件客户端",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7f3340-2a94-11ed-9bd6-8b4709310a39.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7c7420-2a94-11ed-9bd6-8b4709310a39.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7dd3b0-2a94-11ed-9bd6-8b4709310a39.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/02/f87d6fd0-2a94-11ed-9bd6-8b4709310a39.png"
 }
 ,
 {
@@ -1579,20 +1579,20 @@
 }
 ,
 {
-    "Name": "115网盘",
-    "Version": "2.0.7.9",
-    "Filename": "115_2.0.7.9_amd64.deb",
-    "Torrent_address": "115_2.0.7.9_amd64.deb.torrent",
+    "Name": "115生活(Linux版)",
+    "Version": "2.0.10.2",
+    "Filename": "115_2.0.10.2_all.deb",
+    "Torrent_address": "115_2.0.10.2_all.deb.torrent",
     "Pkgname": "115",
     "Author": "115 <dev@115.com>",
-    "Contributor": "115 <dev@115.com>",
+    "Contributor": "Fredoong",
     "Website": "https://115.com/",
-    "Update": "2024-02-25 17:23:29",
-    "Size": "101.68 MB",
+    "Update": "2024-06-26 06:44:18",
+    "Size": "101.69 MB",
     "More": "115电脑版支持115账号快捷登录、收藏夹云同步、文件拖拽备份、批量上传下载等功能，为用户提供安全、稳定、高效和智能的云存储服务。\n文件分门别类，支持全局搜索与批量操作，并有略缩图展示模式，帮助你全面掌控文件资源，随心所欲。",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/25/478fe28f948541f98f12f4ff2c8c9b3d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/25/5334aad048ad4ad2a38b1215ee144e1a.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/8cc806ef18fd4046af8e2001c9f6ad04.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/26/b8c54940333e4ba1bc4736772eeed062.png"
 }
 ,
 {
@@ -1813,6 +1813,23 @@
 }
 ,
 {
+    "Name": "Thorium 浏览器",
+    "Version": "122.0.6261.132-1",
+    "Filename": "thorium-browser_122.0.6261.132-1_amd64.deb",
+    "Torrent_address": "thorium-browser_122.0.6261.132-1_amd64.deb.torrent",
+    "Pkgname": "thorium-browser",
+    "Author": "Thorium Linux Maintainers <alex313031@gmail.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://github.com/Alex313031/thorium",
+    "Update": "2024-03-23 08:19:38",
+    "Size": "132.79 MB",
+    "More": "为现代系统和Linux优化国的Chromium浏览器，十分流畅！\n\n支持黑暗模式哦！",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/08723f6d3bef48d5a8845a9e6911b372.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/31452c605637485f86633664ee842ef3.png"
+}
+,
+{
    "Name":"锐捷校园网认证工具",
    "Version":"2.4",
    "Filename":"rj-aux_linux_v2.4-beta5_amd64.deb",
@@ -1840,23 +1857,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/30/e0329d00-0980-11ec-9a1f-c5ae1a09765a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/30/e04b2e10-0980-11ec-9a1f-c5ae1a09765a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/30/dbbb93d0-0980-11ec-9a1f-c5ae1a09765a.png"
-}
-,
-{
-    "Name": "Thorium 浏览器",
-    "Version": "122.0.6261.132-1",
-    "Filename": "thorium-browser_122.0.6261.132-1_amd64.deb",
-    "Torrent_address": "thorium-browser_122.0.6261.132-1_amd64.deb.torrent",
-    "Pkgname": "thorium-browser",
-    "Author": "Thorium Linux Maintainers <alex313031@gmail.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://github.com/Alex313031/thorium",
-    "Update": "2024-03-23 08:19:38",
-    "Size": "132.79 MB",
-    "More": "为现代系统和Linux优化国的Chromium浏览器，十分流畅！\n\n支持黑暗模式哦！",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/08723f6d3bef48d5a8845a9e6911b372.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/31452c605637485f86633664ee842ef3.png"
 }
 ,
 {
@@ -2193,22 +2193,6 @@
 }
 ,
 {
-    "Name": "Vivaldi 快照版",
-    "Version": "3.7.2202.3-1",
-    "Filename": "vivaldi-snapshot_3.7.2202.3-1_amd64.deb",
-    "Pkgname": "vivaldi-snapshot",
-    "Author": "Vivaldi Technologies",
-    "Contributor": "SamLukeYes",
-    "Website": "https://vivaldi.com",
-    "Update": "2021-02-17 23:36:03",
-    "Size": "74.99 MB",
-    "More": "Vivaldi 浏览器的预览分支。",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/17/8ba1d8d0-7134-11eb-88cf-e192393f9189.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/17/8e9c2d10-7134-11eb-88cf-e192393f9189.png"
-}
-,
-{
     "Name": "哔哩下载姬（Linux版）",
     "Version": "1.0.10-1",
     "Filename": "downkyi_1.0.10-1_amd64.deb",
@@ -2223,6 +2207,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/d127b60f946c4b0a89109dcfb6139167.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/f11ffe9e58e245718abfd4470cadb65c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/49ee9d18432f4d3e92e38ba3a482d5cb.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/46d00e022bc8417eb510e5ca2734cbb6.png"
+}
+,
+{
+    "Name": "Vivaldi 快照版",
+    "Version": "3.7.2202.3-1",
+    "Filename": "vivaldi-snapshot_3.7.2202.3-1_amd64.deb",
+    "Pkgname": "vivaldi-snapshot",
+    "Author": "Vivaldi Technologies",
+    "Contributor": "SamLukeYes",
+    "Website": "https://vivaldi.com",
+    "Update": "2021-02-17 23:36:03",
+    "Size": "74.99 MB",
+    "More": "Vivaldi 浏览器的预览分支。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/17/8ba1d8d0-7134-11eb-88cf-e192393f9189.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/17/8e9c2d10-7134-11eb-88cf-e192393f9189.png"
 }
 ,
 {

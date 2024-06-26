@@ -1261,6 +1261,27 @@ Description:
 License: GPL-2.0-only
 Vendor: bitporo <bitporo@qq.com>
 
+Package: easy-send
+Architecture: all
+Version: 1.1.4
+Priority: optional
+Section: default
+Maintainer: bitporo <bitporo@qq.com>
+Installed-Size: 244123
+Depends: com.electron
+Recommends: libappindicator3-1
+Filename: tools/easy-send/easy-send_1.1.4_all.deb
+Size: 7958720
+MD5sum: becb2aca8af93bc6d5b9f9981726fc38
+SHA1: ec95b1ddcbe6248739aa1cdbb8e62d82a48d62d3
+SHA256: aeb98724a07e74b50b738437f77623104d816f9259cbefd03812aa522335b683
+SHA512: e0f5581155255b2a5781d560a2731cb91658bb29289797f734b4dba819d8a9e50377286911c66af5eefb5bea33f35ed0c1ae9e89ddc5bdf3f7233ed4767a16a0
+Homepage: https://easysend.channer.cn
+Description: 
+  便捷的局域网共享文本文件小工具，简捷使用，传送方便，仅需一台设备启动，其余设备使用浏览器访问即可使用
+License: GPL-2.0-only
+Vendor: bitporo <bitporo@qq.com>
+
 Package: gxde-kernel-manager
 Architecture: arm64
 Version: 1.1.0

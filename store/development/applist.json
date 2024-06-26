@@ -911,22 +911,6 @@
 }
 ,
 {
-    "Name": "TeXstudio",
-    "Version": "4.1.2-1_plus_3.1",
-    "Filename": "texstudio_4.1.2-1_plus_3.1_amd64.deb",
-    "Pkgname": "texstudio",
-    "Author": "Benito van der Zander, Jan Sundermeyer, Daniel Braun, Tim Hoffmann",
-    "Contributor": "sgb76",
-    "Website": "http://texstudio.sourceforge.net/",
-    "Update": "2021-12-16 20:38:42",
-    "Size": "19.37 MB",
-    "More": "TeXstudio是一个用于创建LaTeX文档的集成写作环境。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/16/05cadd70-5e6d-11ec-95f6-1d6d123aedfa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/16/0b9f2cb0-5e6d-11ec-95f6-1d6d123aedfa.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/16/0032faf0-5e6d-11ec-95f6-1d6d123aedfa.png"
-}
-,
-{
     "Name": "STM32CubeMX",
     "Version": "6.0.1",
     "Filename": "stm32cubemx_6.0.1_amd64.deb",
@@ -940,6 +924,22 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0ce0c590-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0f2bee10-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/11310ce0-1b46-11eb-9c06-c785f5a589ec.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/0a06ca90-1b46-11eb-9c06-c785f5a589ec.png"
+}
+,
+{
+    "Name": "TeXstudio",
+    "Version": "4.1.2-1_plus_3.1",
+    "Filename": "texstudio_4.1.2-1_plus_3.1_amd64.deb",
+    "Pkgname": "texstudio",
+    "Author": "Benito van der Zander, Jan Sundermeyer, Daniel Braun, Tim Hoffmann",
+    "Contributor": "sgb76",
+    "Website": "http://texstudio.sourceforge.net/",
+    "Update": "2021-12-16 20:38:42",
+    "Size": "19.37 MB",
+    "More": "TeXstudio是一个用于创建LaTeX文档的集成写作环境。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/16/05cadd70-5e6d-11ec-95f6-1d6d123aedfa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/16/0b9f2cb0-5e6d-11ec-95f6-1d6d123aedfa.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/16/0032faf0-5e6d-11ec-95f6-1d6d123aedfa.png"
 }
 ,
 {
@@ -1288,6 +1288,23 @@
 }
 ,
 {
+    "Name": "Beekeeper Studio",
+    "Version": "3.8.9",
+    "Filename": "beekeeper-studio_3.8.9_amd64.deb",
+    "Torrent_address": "beekeeper-studio_3.8.9_amd64.deb.torrent",
+    "Pkgname": "beekeeper-studio",
+    "Author": "Beekeeper Studio Team",
+    "Contributor": "sgb76",
+    "Website": "https://github.com/beekeeper-studio/beekeeper-studio#readme",
+    "Update": "2023-02-06 18:12:38",
+    "Size": "69.81 MB",
+    "More": "Beekeeper Studio是一款可用于Linux、Mac和Windows的跨平台SQL编辑器和数据库管理器。",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/6d5d332ccfd94048993490c493c23a0b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/aff962c8a1e543beaf3a026bc4095f29.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/06/b24ab96e8dab4056bc6ea31e665afa84.png"
+}
+,
+{
     "Name": "Distrobox",
     "Version": "1.4.2.1~spark2",
     "Filename": "distrobox_1.4.2.1~spark2_all.deb",
@@ -1319,23 +1336,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/77aad368736846d5a4a334c995be5b63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/80225203a30647ab932d8dabcce41c93.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/6c8eab3343b9471e909518c8f34134f8.png"
-}
-,
-{
-    "Name": "Beekeeper Studio",
-    "Version": "3.8.9",
-    "Filename": "beekeeper-studio_3.8.9_amd64.deb",
-    "Torrent_address": "beekeeper-studio_3.8.9_amd64.deb.torrent",
-    "Pkgname": "beekeeper-studio",
-    "Author": "Beekeeper Studio Team",
-    "Contributor": "sgb76",
-    "Website": "https://github.com/beekeeper-studio/beekeeper-studio#readme",
-    "Update": "2023-02-06 18:12:38",
-    "Size": "69.81 MB",
-    "More": "Beekeeper Studio是一款可用于Linux、Mac和Windows的跨平台SQL编辑器和数据库管理器。",
-    "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/6d5d332ccfd94048993490c493c23a0b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/aff962c8a1e543beaf3a026bc4095f29.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/06/b24ab96e8dab4056bc6ea31e665afa84.png"
 }
 ,
 {
@@ -1488,22 +1488,6 @@
 }
 ,
 {
-    "Name": "源码编辑器",
-    "Version": "3.7.11",
-    "Filename": "codemao.kitten.yzf_3.7.11_amd64.deb",
-    "Pkgname": "codemao.kitten.yzf",
-    "Author": "编程猫",
-    "Contributor": "小鱼yuzifu",
-    "Website": "https://codemao.com",
-    "Update": "2021-02-16 22:05:28",
-    "Size": "210.92 MB",
-    "More": "支持离线编辑代码，让创作更简单\n此版本为官方exe包解压后使用nw.js封装而成，已解决webGL无法启用问题",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/9faa8a50-705f-11eb-8e9e-f56e26a8efa0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/9fd088e0-705f-11eb-8e9e-f56e26a8efa0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/9fe79350-705f-11eb-8e9e-f56e26a8efa0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/9fd78dc0-705f-11eb-8e9e-f56e26a8efa0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/16/ca529aa0-705e-11eb-8e9e-f56e26a8efa0.png"
-}
-,
-{
     "Name": "阿里云 OSS Browser",
     "Version": "1.18.0",
     "Filename": "aliyun-oss-browser_1.18.0_amd64.deb",
@@ -1518,6 +1502,22 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/527e90fcdb554436bdaab80f0570cea1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/173bae9edd0a4d23a9659b6a8f1fb089.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/7040b3068c994dce8fc71ec9e9246908.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/a5e343b744d54d15a880954d1cd3ebfe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/d659fed789c34902b952c8b40ff2753f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/230ac02c87634ee793bbd0aa7c53a108.png"
+}
+,
+{
+    "Name": "源码编辑器",
+    "Version": "3.7.11",
+    "Filename": "codemao.kitten.yzf_3.7.11_amd64.deb",
+    "Pkgname": "codemao.kitten.yzf",
+    "Author": "编程猫",
+    "Contributor": "小鱼yuzifu",
+    "Website": "https://codemao.com",
+    "Update": "2021-02-16 22:05:28",
+    "Size": "210.92 MB",
+    "More": "支持离线编辑代码，让创作更简单\n此版本为官方exe包解压后使用nw.js封装而成，已解决webGL无法启用问题",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/9faa8a50-705f-11eb-8e9e-f56e26a8efa0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/9fd088e0-705f-11eb-8e9e-f56e26a8efa0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/9fe79350-705f-11eb-8e9e-f56e26a8efa0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/9fd78dc0-705f-11eb-8e9e-f56e26a8efa0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/16/ca529aa0-705e-11eb-8e9e-f56e26a8efa0.png"
 }
 ,
 {
@@ -1773,19 +1773,19 @@
 ,
 {
     "Name": "quardCRT",
-    "Version": "0.46",
-    "Filename": "quardcrt_0.46_amd64.deb",
-    "Torrent_address": "quardcrt_0.46_amd64.deb.torrent",
+    "Version": "0.47",
+    "Filename": "quardcrt_0.47_amd64.deb",
+    "Torrent_address": "quardcrt_0.47_amd64.deb.torrent",
     "Pkgname": "quardcrt",
     "Author": "QQxiaoming <2014500726@smail.xtu.edu.cn>",
     "Contributor": "QQxiaoming <2014500726@smail.xtu.edu.cn>",
     "Website": "https://github.com/QQxiaoming/quardCRT",
-    "Update": "2024-05-27 09:24:21",
-    "Size": "50.07 MB",
-    "More": "quardCRT一款多功能终端仿真/图形桌面软件，支持多种后端协议，无依赖跨平台使用，windows/linux/mac使用体验完全一致，支持多标签页和历史记录管理等传统终端软件功能，同时支持一些独具特色的细节功能。\n\n目前支持的终端协议\n\n- ssh\n- telnet (支持带websocket封装)\n- serial\n- loaclshell\n- rawsocket\n- windows:NamedPipe（linux/macos:unix domain socket）\n\n目前支持的图形桌面协议\n\n- vnc\n\n基本功能\n\n- 会话记录管理\n- 多标签页管理，标签页克隆，标签页拖拽排序\n- 双列分屏显示，标签页自由拖拽至分列\n- 终端样式配置（配色方案，字体）\n- HEX显示\n- 终端背景图片配置\n- 终端滚动行数设置\n- XYZmodem支持\n- 支持深色/浅色主题\n- UI支持多语言（简体中文/繁体中文/英语/日语/韩语/西班牙语/法语/俄语）\n\n特色功能 \n\n- 浮动窗口支持，可将标签页拖拽至浮动窗口\n- SSH2会话一键打开SFTP文件传输窗口\n- 本地终端工作目录书签\n- 自动化发送\n- 终端背景图片支持gif动画和视频\n- 终端关键词高亮匹配\n- 选中文本翻译功能\n- 路径匹配与一键直达\n- 工作路径直达\n\nV0.4.6版本说明：\n状态栏跟踪：一目了然地查看活动会话信息。\nWSL 按钮 (Windows)：轻松访问 WSL 终端。\n自定义插件：从您喜欢的位置加载插件。\n错误修复：提高稳定性和可用性。\n新插件：CharacterCode、ListSerial 和更新的 SearchOnWeb (V0.0.4)。\n完整详细信息可在线获取。",
+    "Update": "2024-06-26 10:09:17",
+    "Size": "50.19 MB",
+    "More": "quardCRT一款多功能终端仿真/图形桌面软件，支持多种后端协议，无依赖跨平台使用，windows/linux/mac使用体验完全一致，支持多标签页和历史记录管理等传统终端软件功能，同时支持一些独具特色的细节功能。\n\n目前支持的终端协议\n\n- ssh\n- telnet (支持带websocket封装)\n- serial\n- loaclshell\n- rawsocket\n- windows:NamedPipe（linux/macos:unix domain socket）\n\n目前支持的图形桌面协议\n\n- vnc\n\n基本功能\n\n- 会话记录管理\n- 多标签页管理，标签页克隆，标签页拖拽排序\n- 双列分屏显示，标签页自由拖拽至分列\n- 终端样式配置（配色方案，字体）\n- HEX显示\n- 终端背景图片配置\n- 终端滚动行数设置\n- XYZmodem支持\n- 支持深色/浅色主题\n- UI支持多语言（简体中文/繁体中文/英语/日语/韩语/西班牙语/法语/俄语）\n\n特色功能 \n\n- 浮动窗口支持，可将标签页拖拽至浮动窗口\n- SSH2会话一键打开SFTP文件传输窗口\n- 本地终端工作目录书签\n- 自动化发送\n- 终端背景图片支持gif动画和视频\n- 终端关键词高亮匹配\n- 选中文本翻译功能\n- 路径匹配与一键直达\n- 工作路径直达\n\nV0.4.7版本说明：\n此更新包含功能和修复，可实现更流畅的工作流程。广播会话、标签颜色和改进的选择选项可提高您的效率。\n使用用户定义的光标颜色和信息丰富的工具提示享受自定义。此外，高级选项允许微调您的启动 shell。\n我们还解决了崩溃、上下文菜单放置和光标对齐问题。现在，文本粘贴在用户控制下更加可靠。\n体验更强大的 SSH 连接和改进的窗口管理。\n完整详细信息可在线获取。",
     "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/083c41d528b94b74bbe88b02b5c762c2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/80efa5772d074711bd37fad1cc4f1870.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/e037050630fd45808e455309f8d59fb7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/4520a1b647994db28e33af9f0b12a14b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/33b0de7fe3a04975852b9b75a5ca9699.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/53b630acf10c4fca9b2beeedc94750ca.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/3e3d4c468a2e4c76896e2c0b1d8e6437.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/6cd562c5f1d348c0927027773c24f81c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/34045cd57ca044ea965d182ba5039bbd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/26/170585db45904e539989e95bc6c85e3a.png"
 }
 ,
 {
@@ -1823,6 +1823,23 @@
 }
 ,
 {
+    "Name": "Liberica JDK 21 Full",
+    "Version": "21.0.3+10",
+    "Filename": "bellsoft-java21-full_21.0.3_plus10_amd64.deb",
+    "Torrent_address": "bellsoft-java21-full_21.0.3_plus10_amd64.deb.torrent",
+    "Pkgname": "bellsoft-java21-full",
+    "Author": "BellSoft <info@bell-sw.com>",
+    "Contributor": "ThinkYoung",
+    "Website": "https://bell-sw.com/pages/libericajdk/",
+    "Update": "2024-05-09 11:09:43",
+    "Size": "281.55 MB",
+    "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/b0baff509e8f476285b670841a2d2e18.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/fe4c5ef81af045ffb930cbe83f1b26f4.png"
+}
+,
+{
     "Name": "unmkbootimg(CLI工具)",
     "Version": "1.0.0-1",
     "Filename": "unmkbootimg_1.0.0-1_amd64.deb",
@@ -1854,23 +1871,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/769311f7580740e181b2e4ed427c1ca4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/bada8c80dd3949a18ee45f927f378b9d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/594adbf2f98d4fbf99a4c0f568e9dc59.png"
-}
-,
-{
-    "Name": "Liberica JDK 21 Full",
-    "Version": "21.0.3+10",
-    "Filename": "bellsoft-java21-full_21.0.3_plus10_amd64.deb",
-    "Torrent_address": "bellsoft-java21-full_21.0.3_plus10_amd64.deb.torrent",
-    "Pkgname": "bellsoft-java21-full",
-    "Author": "BellSoft <info@bell-sw.com>",
-    "Contributor": "ThinkYoung",
-    "Website": "https://bell-sw.com/pages/libericajdk/",
-    "Update": "2024-05-09 11:09:43",
-    "Size": "281.55 MB",
-    "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/b0baff509e8f476285b670841a2d2e18.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/fe4c5ef81af045ffb930cbe83f1b26f4.png"
 }
 ,
 {
@@ -1990,6 +1990,23 @@
 }
 ,
 {
+    "Name": "多功能调试助手",
+    "Version": "1.0.1.5",
+    "Filename": "fire-tool_1.0.1.5_amd64.deb",
+    "Torrent_address": "fire-tool_1.0.1.5_amd64.deb.torrent",
+    "Pkgname": "fire-tool",
+    "Author": "东莞野火科技有限公司",
+    "Contributor": "freeor",
+    "Website": "https://embedfire.com/",
+    "Update": "2024-05-21 10:56:06",
+    "Size": "17.28 MB",
+    "More": "串口、网络、pid等多功能调试助手",
+    "Tags": "deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e74a630-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e808d10-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e7ae7c0-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e876ae0-171d-11ef-aa54-156affbdb62c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/21/6c8ac960-171d-11ef-aa54-156affbdb62c.png"
+}
+,
+{
     "Author": "shenmo <jifengshenmo@outlook.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "shirodeb_0.1.2.1_all.deb",
@@ -2039,23 +2056,6 @@
     "Tags": "community;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/02fe1110-da05-11ed-84b8-a9e6dfd6bea3.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/13/00b9ed70-da05-11ed-84b8-a9e6dfd6bea3.png"
-}
-,
-{
-    "Name": "多功能调试助手",
-    "Version": "1.0.1.5",
-    "Filename": "fire-tool_1.0.1.5_amd64.deb",
-    "Torrent_address": "fire-tool_1.0.1.5_amd64.deb.torrent",
-    "Pkgname": "fire-tool",
-    "Author": "东莞野火科技有限公司",
-    "Contributor": "freeor",
-    "Website": "https://embedfire.com/",
-    "Update": "2024-05-21 10:56:06",
-    "Size": "17.28 MB",
-    "More": "串口、网络、pid等多功能调试助手",
-    "Tags": "deepin;ubuntu;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e74a630-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e808d10-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e7ae7c0-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e876ae0-171d-11ef-aa54-156affbdb62c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/21/6c8ac960-171d-11ef-aa54-156affbdb62c.png"
 }
 ,
 {
@@ -2143,6 +2143,23 @@
 }
 ,
 {
+    "Name": "Liberica JDK 17 Full",
+    "Version": "17.0.11+10",
+    "Filename": "bellsoft-java17-full_17.0.11_plus10_amd64.deb",
+    "Torrent_address": "bellsoft-java17-full_17.0.11_plus10_amd64.deb.torrent",
+    "Pkgname": "bellsoft-java17-full",
+    "Author": "BellSoft <info@bell-sw.com>",
+    "Contributor": "ThinkYoung",
+    "Website": "https://bell-sw.com/pages/libericajdk/",
+    "Update": "2024-05-09 11:06:56",
+    "Size": "262.52 MB",
+    "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/83cab02e184f4b94800db8391db77a50.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/950185125ef94f95922b3f39cf450443.png"
+}
+,
+{
     "Name": "Scene Builder",
     "Version": "19.0.0",
     "Filename": "scenebuilder_19.0.0_amd64.deb",
@@ -2225,23 +2242,6 @@
     "Tags": "deepin;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/c8a06100-94a2-11ed-8ba3-ed09025bf416.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/c8b45e30-94a2-11ed-8ba3-ed09025bf416.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/15/c606a350-94a2-11ed-8ba3-ed09025bf416.png"
-}
-,
-{
-    "Name": "Liberica JDK 17 Full",
-    "Version": "17.0.11+10",
-    "Filename": "bellsoft-java17-full_17.0.11_plus10_amd64.deb",
-    "Torrent_address": "bellsoft-java17-full_17.0.11_plus10_amd64.deb.torrent",
-    "Pkgname": "bellsoft-java17-full",
-    "Author": "BellSoft <info@bell-sw.com>",
-    "Contributor": "ThinkYoung",
-    "Website": "https://bell-sw.com/pages/libericajdk/",
-    "Update": "2024-05-09 11:06:56",
-    "Size": "262.52 MB",
-    "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/83cab02e184f4b94800db8391db77a50.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/950185125ef94f95922b3f39cf450443.png"
 }
 ,
 {
@@ -2394,23 +2394,6 @@
 }
 ,
 {
-    "Name": "myled",
-    "Version": "2024.06.02",
-    "Filename": "myled_2024.06.02_amd64.deb",
-    "Torrent_address": "myled_2024.06.02_amd64.deb.torrent",
-    "Pkgname": "myled",
-    "Author": "Eric <gasensor@sina.com>",
-    "Contributor": "Eric <gasensor@sina.com>",
-    "Website": "www.gasensor.net",
-    "Update": "2024-06-04 03:23:07",
-    "Size": "1.92 MB",
-    "More": "数码管段码生成器",
-    "Tags": "ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/04/7eed6c40-21de-11ef-99bd-d9f30b93d9e4.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/04/6415eeb0-21de-11ef-99bd-d9f30b93d9e4.png"
-}
-,
-{
     "Name": "RustRover",
     "Version": "24.1.2",
     "Filename": "com.jetbrains.rustrover_24.1.2_amd64.deb",
@@ -2428,6 +2411,23 @@
 }
 ,
 {
+    "Name": "myled",
+    "Version": "2024.06.02",
+    "Filename": "myled_2024.06.02_amd64.deb",
+    "Torrent_address": "myled_2024.06.02_amd64.deb.torrent",
+    "Pkgname": "myled",
+    "Author": "Eric <gasensor@sina.com>",
+    "Contributor": "Eric <gasensor@sina.com>",
+    "Website": "www.gasensor.net",
+    "Update": "2024-06-04 03:23:07",
+    "Size": "1.92 MB",
+    "More": "数码管段码生成器",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/04/7eed6c40-21de-11ef-99bd-d9f30b93d9e4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/04/6415eeb0-21de-11ef-99bd-d9f30b93d9e4.png"
+}
+,
+{
     "Name": "Clion(过渡包)",
     "Version": "2022.2.4",
     "Filename": "com.jetbrains.clion_2022.2.4_all.deb",
@@ -2442,6 +2442,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/19/d722996b-ee34-4f59-84c3-55186b7cd490.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/19/f1b35f59-8a7c-4ae9-810e-156982eb0218.png"
+}
+,
+{
+    "Name": "Mind+",
+    "Version": "202307011900",
+    "Filename": "com.dfrobot.mindplus_202307011900_amd64.deb",
+    "Torrent_address": "com.dfrobot.mindplus_202307011900_amd64.deb.torrent",
+    "Pkgname": "com.dfrobot.mindplus",
+    "Author": "DFRobot <mindplus@dfrobot.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://mindplus.cc/",
+    "Update": "2024-06-22 20:45:08",
+    "Size": "674.81 MB",
+    "More": "Mind+是一款拥有自主知识产权的国产青少年编程软件，集成各种主流主控板及上百种开源硬件，支持人工智能（AI）与物联网（IoT）功能，既可以拖动图形化积木编程，还可以使用Python/C/C++等高级编程语言，让大家轻松体验创造的乐趣。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/860aeab96f6742cdb6a769a2993f7a77.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/7963142613304945996ec8e462f46e5c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/dfea2f033c8c47328a184a2d8e59f6b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/678204a54a0d4723963b335e97397f63.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/22/8ce6d3c24e064c4d9764617067ccfd4b.png"
 }
 ,
 {
@@ -2476,22 +2493,5 @@
     "Tags": "ubuntu;deepin;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/12/3b5e3090-ba3e-11ec-8ddb-ab07b13ee39f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/12/3fc66cb0-ba3e-11ec-8ddb-ab07b13ee39f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/12/42ef4b00-ba3e-11ec-8ddb-ab07b13ee39f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/12/369780c0-ba3e-11ec-8ddb-ab07b13ee39f.png"
-}
-,
-{
-    "Name": "Mind+",
-    "Version": "202307011900",
-    "Filename": "com.dfrobot.mindplus_202307011900_amd64.deb",
-    "Torrent_address": "com.dfrobot.mindplus_202307011900_amd64.deb.torrent",
-    "Pkgname": "com.dfrobot.mindplus",
-    "Author": "DFRobot <mindplus@dfrobot.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://mindplus.cc/",
-    "Update": "2024-06-22 20:45:08",
-    "Size": "674.81 MB",
-    "More": "Mind+是一款拥有自主知识产权的国产青少年编程软件，集成各种主流主控板及上百种开源硬件，支持人工智能（AI）与物联网（IoT）功能，既可以拖动图形化积木编程，还可以使用Python/C/C++等高级编程语言，让大家轻松体验创造的乐趣。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/860aeab96f6742cdb6a769a2993f7a77.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/7963142613304945996ec8e462f46e5c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/dfea2f033c8c47328a184a2d8e59f6b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/678204a54a0d4723963b335e97397f63.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/22/8ce6d3c24e064c4d9764617067ccfd4b.png"
 }
 ]

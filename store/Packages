@@ -3397,19 +3397,19 @@ Description: 安兔兔评测 for linux 安兔兔评测（AnTuTu）是一款跨�
 
 Package: easy-send
 Architecture: all
-Version: 1.1.3
+Version: 1.1.4
 Priority: optional
 Section: default
 Maintainer: bitporo <bitporo@qq.com>
 Installed-Size: 244123
 Depends: com.electron
 Recommends: libappindicator3-1
-Filename: tools/easy-send/easy-send_1.1.3_all.deb
-Size: 7950096
-MD5sum: e35d22aca2ee3bdde911e7a7af6c7d0f
-SHA1: d849f5354d8349c318eae8990d2a4a3436f7adfd
-SHA256: 8b39f064ee663377b78f8c787d2aa1138ddff73f7f8d0452992ef92ee69af472
-SHA512: e091b4537fa017ef8958e105972b7d4dcfd33d90858f85144e82357d9d7311530c5e35b9dbe1dc4dab378ef74c289a320afd6b3e6e4a9bc471a4d12cef9a4c3b
+Filename: tools/easy-send/easy-send_1.1.4_all.deb
+Size: 7958720
+MD5sum: becb2aca8af93bc6d5b9f9981726fc38
+SHA1: ec95b1ddcbe6248739aa1cdbb8e62d82a48d62d3
+SHA256: aeb98724a07e74b50b738437f77623104d816f9259cbefd03812aa522335b683
+SHA512: e0f5581155255b2a5781d560a2731cb91658bb29289797f734b4dba819d8a9e50377286911c66af5eefb5bea33f35ed0c1ae9e89ddc5bdf3f7233ed4767a16a0
 Homepage: https://easysend.channer.cn
 Description: 
   便捷的局域网共享文本文件小工具，简捷使用，传送方便，仅需一台设备启动，其余设备使用浏览器访问即可使用
@@ -6673,17 +6673,17 @@ Vendor: Zixuan Chen <remch183@outlook.com>
 
 Package: com.gitee.zinface.soup
 Architecture: amd64
-Version: 0.0.1-20240312
+Version: 0.0.2-20240625
 Priority: optional
 Section: devel
 Maintainer: zinface <zinface@163.com>
-Installed-Size: 284300
-Filename: tools/com.gitee.zinface.soup/com.gitee.zinface.soup_0.0.1-20240312_amd64.deb
-Size: 77628442
-MD5sum: 39c5e8c5187bca0f77bbed782d287461
-SHA1: 06c570ba798a7acbe65b1863c29d775ea30d8d7c
-SHA256: 6d831ca27e62cb8d7941b5b83e2f77234f3f6059306d7e6e3322a4fd9b49b6c8
-SHA512: 3f6f8db9cbe9eb632edeb3e7f47772475d7cf6e7c806cb562b479e917d81a34b3f64a5e3e2d243a3c5bcdf8b35b2a52632b1fd66dbcebae7420791e23800ecb6
+Installed-Size: 284304
+Filename: tools/com.gitee.zinface.soup/com.gitee.zinface.soup_0.0.2-20240625_amd64.deb
+Size: 77646436
+MD5sum: d7a58527216640d8d7b6d7e8f571fb5c
+SHA1: 4db82e1b3664d9af19d8ed2460e2a8678b9d2aac
+SHA256: 98d307bc2a85f8e1c4f8150dce9cc41f909fd82083d4ec797f3edfbf037534b8
+SHA512: 8ba7078009961d229d69185e638336b5bd0c565255aa5707bec19a9f11c06335166899958b7d8f988a10d5ce97f9fc47a793c7c7501c3a2a72c5d191535169ad
 Homepage: https://gitee.com/zinface/pyside6.beautiful-soup
 Description: 一个简单的 beautifulSoup 工具
  基于 PySide6 的 beautifulSoup 图形化工具
@@ -20771,21 +20771,6 @@ SHA512: 3e5d20170148d1e3648b96d00797e464c4566d29e3d5028821ed9c89d595d9d28879ab86
 Description: FarCry on Wine7
  孤岛惊魂中文版
 
-Package: uengine-dc-com.mihoyo.enterprise.nghsod
-Architecture: all
-Version: 6.5.0
-Priority: optional
-Section: utils
-Maintainer: 崩坏3
-Depends: deepin-elf-verify, uengine (>= 1.0.1)
-Filename: games/uengine-dc-com.mihoyo.enterprise.nghsod/uengine-dc-com.mihoyo.enterprise.nghsod_6.5.0_all.deb
-Size: 527796304
-MD5sum: d16ad694c5bc5266bf8d583cc26dea71
-SHA1: ace616b065897b3a3351114b175d0ba6dfe0d489
-SHA256: 1eef295f24cf04113e730b49fc9fee3a501ad55f78929f46cb93718e2ca933c6
-SHA512: 16ceaa53e57bd7aa73e184542115d2d2e42db612715919e51e62025b9ae52ee5ac013999f25ec690f3dc3eb4f9019e2076d74d70b0c64f5d2832d3feef449a92
-Description: 崩坏3, Build By UEngine Runner Packager
-
 Package: mari0
 Architecture: all
 Version: 1.6.2~spark3
@@ -21621,17 +21606,17 @@ Description: com.pvzhz.spark
 
 Package: osu-lazer
 Architecture: amd64
-Version: 2024.521.2
+Version: 2024.625.0
 Priority: optional
 Section: utils
 Maintainer: spark-store
 Depends: libfuse2
-Filename: games/osu-lazer/osu-lazer_2024.521.2_amd64.deb
-Size: 129229886
-MD5sum: ab6598737745e787fd1389925c3e046f
-SHA1: 93e7a6056955884532cd43d4d1ce8b1ab732cf75
-SHA256: 0733188b614abf6ff78c8ddbc4334693b78606c8c5e13b0bac469945544a63c5
-SHA512: 1360f433dd0a61afb83d02f4a90fb7b5515e2a41fab3a5927bbfe5082465b21e80dc5bd06376e4cda8bcc4775207db5ea33f2c6d1f5c7bf593dfaf59f0f7c81a
+Filename: games/osu-lazer/osu-lazer_2024.625.0_amd64.deb
+Size: 129941350
+MD5sum: 8ed57dbe2e5a622280c18871f7bc5a74
+SHA1: cc12ecf5136b7be1060b5a303931bbc0da3ebef0
+SHA256: ea21516e3f582c6f97ca807edf8ab59c5bf14f2147472018c2c3bd4e655e90de
+SHA512: a76ae7cea1e76a03e18b2658fffd0da6d3144001ef159cc04e9010bcbae2b9f0e2d85639986b6eac4ab9a708cf6933bd2757f5ecbc813117555197703bd6d432
 Description: osu-lazer Software Package created by Appimage2Deb
 
 Package: com.dxball2.spark
@@ -27130,19 +27115,19 @@ Description: yidongbangong Client on Deepin Wine6
 
 Package: tdappdesktop
 Architecture: amd64
-Version: 3.5.3
+Version: 3.5.5
 Priority: optional
 Section: default
 Maintainer: TencentDocs
-Installed-Size: 646852
+Installed-Size: 648861
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: office/tdappdesktop/tdappdesktop_3.5.3_amd64.deb
-Size: 148229372
-MD5sum: 0610a8c62fb02138d532ffc14f1ad65b
-SHA1: d1e473ab5d86f7983447b2de001b89fbb507cf1b
-SHA256: 078ef22b4f5eedf0ee42dc82e67dfdc39bdd0db41b0843ed51d046accf40e283
-SHA512: ff7c475ac09430d7a6e224fc0cad5997d8e85a48844971538a18ee94a65da75caa235b329cd2ed027e8e4a244efe691a839dfb617b1d806e53b9e04663066c3d
+Filename: office/tdappdesktop/tdappdesktop_3.5.5_amd64.deb
+Size: 146936154
+MD5sum: fd1b5a0a916b7c66d2e7e7c01b02709c
+SHA1: a8aefdd73c4e7ae52799c0f63be9417d47aba76a
+SHA256: 91bee42b268a5dcffc031f8df58a70b6894d0c2b09ae668f5beb405a69d1f7ed
+SHA512: 1e9b9016f053fd977889f19696bf935d4fdf93e7885f33ff3f84e5c24634b330b247f6bfa3d488e361dc53d4af4cfd629866b17474f6971d97d552a24898610e
 Homepage: https://docs.qq.com/home
 Description: 
   腾讯文档
@@ -29012,21 +28997,21 @@ Description: The web browser from Google
 
 Package: browser360-cn-stable
 Architecture: amd64
-Version: 13.3.1013.59-1
+Version: 13.3.1014.32-1
 Priority: optional
 Section: web
 Maintainer: 360安全浏览器团队 <pc_browser_kefu@360.cn>
-Installed-Size: 412521
+Installed-Size: 412575
 Provides: www-browser
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.16), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.60), libexpat1 (>= 2.0.1), libgbm1 (>= 8.1~0), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.39.4), libgtk2.0-0 (>= 2.24.0), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.26), libpango-1.0-0 (>= 1.14.0), libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, libxtst6, wget, xdg-utils (>= 1.0.2)
 Recommends: libu2f-udev, libvulkan1
-Filename: network/browser360-cn-stable/browser360-cn-stable_13.3.1013.59-1_amd64.deb
-Size: 134280252
-MD5sum: 4028ac461008949a2ec04dec62c4aa27
-SHA1: ae9946bf738c16b2f05cba316dfaf9b4bdfdf02a
-SHA256: 7a8bb2659aab6267ffd2a0df81184ec5c6aff4cc19e39dc4680891cf9871fbfc
-SHA512: ece8a7d4f2a95f25142eb97e80f070f5142f8e1bfa208d8978f10dfe29a8f2ae2d46924ce2b318cab8b8704ca2aef0220b5fc730bb42dc866bf0190f90f8e8e6
+Filename: network/browser360-cn-stable/browser360-cn-stable_13.3.1014.32-1_amd64.deb
+Size: 134260088
+MD5sum: 502795bd824e477336dc4378f1368125
+SHA1: 00df1bd1bbcb78345bfd2d05515e9d2780ca1ecc
+SHA256: 9d493291b4c0def6c3fd143e69a54c262741c5899b9ac34a581f853a53cf6b7d
+SHA512: 0ce41a210ae4fed601d141dc7966b1844342ee747946bdd3619ed75666a214e5da6e1017bbb4ca47bc8aeff84a8a303c355af2c0f81b3860d82c468ad6856386
 Description: 360安全浏览器
  360安全浏览器结合最新的Chromium内核，领先的国密套件支持，完整的信创迁移方案，为政企客户提供最极速、最安全、最易用的浏览器。
 
@@ -30148,8 +30133,8 @@ Description: FDM is a powerful modern download accelerator and organizer.
  It is a powerful modern cross-platform download accelerator and organizer for Windows, Mac, Linux, Android.
 
 Package: 115
-Architecture: amd64
-Version: 2.0.7.9
+Architecture: all
+Version: 2.0.10.2
 Priority: extra
 Section: Internet
 Maintainer: 115 <dev@115.com>
@@ -30157,14 +30142,14 @@ Installed-Size: 100296
 Depends:
 Recommends:
 Replaces: 115
-Filename: network/115/115_2.0.7.9_amd64.deb
-Size: 106620476
-MD5sum: c40357ffe1132a155480ee8f362d326f
-SHA1: cea500bc47435672e197dd3e1ac152248ff408cf
-SHA256: c86d7fe1dc4a5b32808d1dea91b21b17130c4fcdc78c28c2172fde3ddba23539
-SHA512: db6fcd1ee190749a184be55867202179674292b08afc8de42ffeb5f3be18d0996248627b57edeae4cabf796b76fb999bb8a778f46ea99a0e753b87c711ce2ce4
+Filename: network/115/115_2.0.10.2_all.deb
+Size: 106634400
+MD5sum: b85e0dfb838f778cf521cd77be368b04
+SHA1: 401b4e10e366a20b5f870c3bf52bdaa0c39a4885
+SHA256: ef20854617ce7c08c122e5209aa0f1680d676c6c520cb92589cee8ec24006264
+SHA512: 459ad31bbeba2252f841693f5792d6515d70b9039c2003b050ebbf8997b31bf3e3efaeb3fe38ea65fd9f69f9ddfda1bf1ae475d45272fda253e3c2b6a6692825
 Homepage: https://www.115.com
-Description: 115电脑版
+Description: 115生活
 
 Package: baidunetdisk
 Architecture: amd64
@@ -34260,20 +34245,20 @@ Description: NONE
 
 Package: quardcrt
 Architecture: amd64
-Version: 0.46
+Version: 0.47
 Priority: extra
 Section: utils
 Source: quardcrt
 Maintainer: QQxiaoming <2014500726@smail.xtu.edu.cn>
-Installed-Size: 156504
+Installed-Size: 156936
 Depends:
 Recommends:
-Filename: development/quardcrt/quardcrt_0.46_amd64.deb
-Size: 52503824
-MD5sum: 8d97e816c48a3748bd373b592a4328b9
-SHA1: df0e03847b8d26d03c5533fbab983f8bb47aed75
-SHA256: ed3a24a63a48275d32f39ebf07b0f4938d29e8920dc503b9a8426f8133b941f2
-SHA512: f64bc1cf2050f3f3c332e5e32ac7fa9664df3a733f94f67abbc6c307c4f48bb3c5d3ab74cb6f39f6aae9ba818dd62570f2df0a097766eb48dd8332566cc0eb34
+Filename: development/quardcrt/quardcrt_0.47_amd64.deb
+Size: 52631740
+MD5sum: ac2a3aa3e374b5c43ac854b233561355
+SHA1: 7476aaf77147b190fd7e305af33fa9cbc5728649
+SHA256: b6f4505697f2947b19807ba9dcb646b142d59c3a0127a964097c8ecdfba3e797
+SHA512: 3944ae4b461ff17fd0411b0c3d890840b8e0a35b94db1bbdb6a5df8083ac8110c24b98427113cb3685259cf2d3aca42fefd9f243b344195f7dbea976564b31f6
 Homepage: https://github.com/QQxiaoming/quardCRT
 Description: quardCRT tools
 

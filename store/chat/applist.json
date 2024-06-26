@@ -662,22 +662,6 @@
 }
 ,
 {
-    "Name": "signal",
-    "Version": "1.39.4",
-    "Filename": "signal-desktop_1.39.4_amd64.deb",
-    "Pkgname": "signal-desktop",
-    "Author": "signal",
-    "Contributor": "jerrywang",
-    "Website": "https://www.signal.org/",
-    "Update": "2020-12-29 17:33:58",
-    "Size": "104.7 MB",
-    "More": "端到端加密的简单，强大且安全的通讯工具。代码开源且由非盈利组织运营。中国大陆可正常使用。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/29/85752d00-49fb-11eb-98c6-4bd0150970dc.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/29/d318f820-49fb-11eb-98c6-4bd0150970dc.png"
-}
-,
-{
     "Name": "element",
     "Version": "1.11.17",
     "Filename": "element-desktop_1.11.17_amd64.deb",
@@ -695,20 +679,19 @@
 }
 ,
 {
-    "Name": "Koishi(Linux版)",
-    "Version": "1.0.2",
-    "Filename": "koishi_1.0.2_amd64.deb",
-    "Torrent_address": "koishi_1.0.2_amd64.deb.torrent",
-    "Pkgname": "koishi",
-    "Author": "https://github.com/koishijs/koishi",
-    "Contributor": "Fredoong",
-    "Website": "https://koishi.chat",
-    "Update": "2024-03-10 17:00:46",
-    "Size": "34.66 MB",
-    "More": "Koishi是一个跨平台、可扩展、高性能的聊天机器人框架\n它的名字和图标设计来源于东方Project中的角色Komeiji Koishi\n\n打开浏览器，打开 http://localhost:5140/ 查看界面",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/05ef1cfaf6894117a301bafd5947e47d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/10/e0fd3810c08747eaaef9bdc8e830d892.png"
+    "Name": "signal",
+    "Version": "1.39.4",
+    "Filename": "signal-desktop_1.39.4_amd64.deb",
+    "Pkgname": "signal-desktop",
+    "Author": "signal",
+    "Contributor": "jerrywang",
+    "Website": "https://www.signal.org/",
+    "Update": "2020-12-29 17:33:58",
+    "Size": "104.7 MB",
+    "More": "端到端加密的简单，强大且安全的通讯工具。代码开源且由非盈利组织运营。中国大陆可正常使用。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/29/85752d00-49fb-11eb-98c6-4bd0150970dc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/29/d318f820-49fb-11eb-98c6-4bd0150970dc.png"
 }
 ,
 {
@@ -726,6 +709,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/ecaa58843c7e41659d8ceb3509a09e6a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/d94cbfea7cd849dfa67fd236a99bb433.png"
+}
+,
+{
+    "Name": "Koishi(Linux版)",
+    "Version": "1.0.2",
+    "Filename": "koishi_1.0.2_amd64.deb",
+    "Torrent_address": "koishi_1.0.2_amd64.deb.torrent",
+    "Pkgname": "koishi",
+    "Author": "https://github.com/koishijs/koishi",
+    "Contributor": "Fredoong",
+    "Website": "https://koishi.chat",
+    "Update": "2024-03-10 17:00:46",
+    "Size": "34.66 MB",
+    "More": "Koishi是一个跨平台、可扩展、高性能的聊天机器人框架\n它的名字和图标设计来源于东方Project中的角色Komeiji Koishi\n\n打开浏览器，打开 http://localhost:5140/ 查看界面",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/05ef1cfaf6894117a301bafd5947e47d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/10/e0fd3810c08747eaaef9bdc8e830d892.png"
 }
 ,
 {

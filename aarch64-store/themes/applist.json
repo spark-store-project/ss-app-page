@@ -160,24 +160,6 @@
 }
 ,
 {
-    "Author": "Deepin Packages Builder <packages@deepin.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "sea-icon-theme_2020.04.13-1_all.deb",
-    "More": "一款海洋风格的图表主题，为你平淡的生活增添一丝大海的气息～～～",
-    "Name": "海洋风格图标主题",
-    "Pkgname": "sea-icon-theme",
-    "Size": "2013 Kb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "sea-icon-theme_2020.04.13-1_all.deb.torrent",
-    "Update": "2023-03-07 22:06:53",
-    "Version": "2020.04.13-1",
-    "Website": " ",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/sea-icon-theme/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/sea-icon-theme/screen_1.png\"]"
-}
-
-,
-{
     "Author": "liuminghang  <liuminghang0821@gmail.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "panda-dock_1.0.0_arm64.deb",
@@ -192,6 +174,24 @@
     "Website": "panda-dock",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/panda-dock/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/panda-dock/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/panda-dock/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "Deepin Packages Builder <packages@deepin.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "sea-icon-theme_2020.04.13-1_all.deb",
+    "More": "一款海洋风格的图表主题，为你平淡的生活增添一丝大海的气息～～～",
+    "Name": "海洋风格图标主题",
+    "Pkgname": "sea-icon-theme",
+    "Size": "2013 Kb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "sea-icon-theme_2020.04.13-1_all.deb.torrent",
+    "Update": "2023-03-07 22:06:53",
+    "Version": "2020.04.13-1",
+    "Website": " ",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/sea-icon-theme/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/sea-icon-theme/screen_1.png\"]"
 }
 
 ,
@@ -394,24 +394,6 @@
 
 ,
 {
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "fcitx5-ui-deepin-terminal_0.1-2_all.deb",
-    "More": "深度终端主题的fcitx5皮肤，安装后更改皮肤的教程在下面的截图",
-    "Name": "fcitx5皮肤深度终端",
-    "Pkgname": "fcitx5-ui-deepin-terminal",
-    "Size": "105 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "fcitx5-ui-deepin-terminal_0.1-2_all.deb.torrent",
-    "Update": "2023-03-07 22:09:35",
-    "Version": "0.1-2",
-    "Website": "https://pinyin.sogou.com/skins/detail/view/info/587186?rf=search&tf=p",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx5-ui-deepin-terminal/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx5-ui-deepin-terminal/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx5-ui-deepin-terminal/screen_2.png\"]"
-}
-
-,
-{
     "Author": "liuminghang <liuminghang0821@gmail.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "fantascene-v23_1.7.0_arm64.deb",
@@ -426,6 +408,24 @@
     "Website": "http://github.com/dependon",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/themes/fantascene-v23/icon.png",
     "img_urls": "[]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "fcitx5-ui-deepin-terminal_0.1-2_all.deb",
+    "More": "深度终端主题的fcitx5皮肤，安装后更改皮肤的教程在下面的截图",
+    "Name": "fcitx5皮肤深度终端",
+    "Pkgname": "fcitx5-ui-deepin-terminal",
+    "Size": "105 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "fcitx5-ui-deepin-terminal_0.1-2_all.deb.torrent",
+    "Update": "2023-03-07 22:09:35",
+    "Version": "0.1-2",
+    "Website": "https://pinyin.sogou.com/skins/detail/view/info/587186?rf=search&tf=p",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx5-ui-deepin-terminal/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx5-ui-deepin-terminal/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx5-ui-deepin-terminal/screen_2.png\"]"
 }
 
 ,

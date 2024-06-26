@@ -484,22 +484,6 @@
 }
 ,
 {
-    "Name": "输入法皮肤",
-    "Version": "1.0",
-    "Filename": "shururfapifu_1.0_i386.deb",
-    "Pkgname": "shururfapifu",
-    "Author": "liu",
-    "Contributor": "liu",
-    "Website": "https://gitee.com/rgba/fcitx-skin",
-    "Update": "2021-01-24 18:02:15",
-    "Size": "174.02 KB",
-    "More": "自己的改的一些皮肤",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/8ab7f0c0-5e2a-11eb-a7bb-67f4743fa843.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/24/3532abd0-5e2b-11eb-a7bb-67f4743fa843.jpg"
-}
-,
-{
     "Name": "幻梦动态壁纸-yoyoOs",
     "Version": "1.3.7-2",
     "Filename": "yoyo-fantacy_1.3.7-2_amd64.deb",
@@ -514,6 +498,22 @@
     "Tags": "community",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/09/b832f3d0-17e5-11ed-9e3d-3d8c6fcc23a6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/09/b864d940-17e5-11ed-9e3d-3d8c6fcc23a6.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/09/9a1e2590-17e5-11ed-9e3d-3d8c6fcc23a6.png"
+}
+,
+{
+    "Name": "输入法皮肤",
+    "Version": "1.0",
+    "Filename": "shururfapifu_1.0_i386.deb",
+    "Pkgname": "shururfapifu",
+    "Author": "liu",
+    "Contributor": "liu",
+    "Website": "https://gitee.com/rgba/fcitx-skin",
+    "Update": "2021-01-24 18:02:15",
+    "Size": "174.02 KB",
+    "More": "自己的改的一些皮肤",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/8ab7f0c0-5e2a-11eb-a7bb-67f4743fa843.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/24/3532abd0-5e2b-11eb-a7bb-67f4743fa843.jpg"
 }
 ,
 {
@@ -765,23 +765,6 @@
 }
 ,
 {
-    "Name": "纳西妲主题光标",
-    "Version": "1.0.0",
-    "Filename": "nahida.cursors_1.0.0_all.deb",
-    "Torrent_address": "nahida.cursors_1.0.0_all.deb.torrent",
-    "Pkgname": "nahida.cursors",
-    "Author": "唯溯",
-    "Contributor": "阿尼樱奈奈",
-    "Website": "https://space.bilibili.com/436623402",
-    "Update": "2024-01-24 21:23:55",
-    "Size": "10.15 KB",
-    "More": "《原神》纳西妲主题光标，作者为B站用户@唯溯（https://space.bilibili.com/436623402），deepin论坛用户@阿尼樱奈奈 转换为Linux主题可用光标。\n 指针为免费分享，禁止商用；原Windows版指针有几个替代，这里没有用上。原指针分享视频网址：https://www.bilibili.com/video/BV1Ks4y1K7Kh/\n 下载安装后，需要手动去鼠标主题相关设置项设置（因不同发行版而异）",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/24/59283c32027f4649a5fb685ebf083251.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/24/cb60f663a27a462e8cd3925ae84b2acc.png"
-}
-,
-{
     "Name": "幻梦动态壁纸deepinV23特别版本",
     "Version": "1.7.5",
     "Filename": "fantascene-v23_1.7.5_amd64.deb",
@@ -796,6 +779,23 @@
     "Tags": "community;deepin;dtk5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/5a3fc790ec6e4a46aab790dadd91a737.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/3b2679dde61647469b1397d0aebdf18d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/c4ddc742d86c419db10a93b0d81bd096.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/3b6fef9e291845cd827ea1759a8b3230.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/de4c13aba6c542e3b902a6d5804a7852.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/23/6554ca04e4844e63ab73d74a21377e44.png"
+}
+,
+{
+    "Name": "纳西妲主题光标",
+    "Version": "1.0.0",
+    "Filename": "nahida.cursors_1.0.0_all.deb",
+    "Torrent_address": "nahida.cursors_1.0.0_all.deb.torrent",
+    "Pkgname": "nahida.cursors",
+    "Author": "唯溯",
+    "Contributor": "阿尼樱奈奈",
+    "Website": "https://space.bilibili.com/436623402",
+    "Update": "2024-01-24 21:23:55",
+    "Size": "10.15 KB",
+    "More": "《原神》纳西妲主题光标，作者为B站用户@唯溯（https://space.bilibili.com/436623402），deepin论坛用户@阿尼樱奈奈 转换为Linux主题可用光标。\n 指针为免费分享，禁止商用；原Windows版指针有几个替代，这里没有用上。原指针分享视频网址：https://www.bilibili.com/video/BV1Ks4y1K7Kh/\n 下载安装后，需要手动去鼠标主题相关设置项设置（因不同发行版而异）",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/24/59283c32027f4649a5fb685ebf083251.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/24/cb60f663a27a462e8cd3925ae84b2acc.png"
 }
 ,
 {

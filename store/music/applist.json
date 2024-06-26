@@ -885,6 +885,23 @@
 
 ,
 {
+    "Name": "musicfox （网易云音乐命令行版）",
+    "Version": "4.5.3-1",
+    "Filename": "go-musicfox_4.5.3-1_amd64.deb",
+    "Torrent_address": "go-musicfox_4.5.3-1_amd64.deb.torrent",
+    "Pkgname": "go-musicfox",
+    "Author": "anhoder <anhoder@88.com>",
+    "Contributor": "xmb505 <530060699@qq.com>",
+    "Website": "https://github.com/go-musicfox/go-musicfox",
+    "Update": "2024-06-21 14:03:39",
+    "Size": "6.01 MB",
+    "More": "go-musicfox 是用 Go 写的又一款网易云音乐命令行客户端，支持各种音质级别、UnblockNeteaseMusic、Last.fm、MPRIS 和 macOS 交互响应（睡眠暂停、蓝牙耳机连接断开响应和菜单栏控制等）等功能特性。",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/1fb64824355c453cb28028e53344a1e3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/8ee6ba2f21aa47d9827eb8c397b40389.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/3384d1b343384bb787757d5e2ae7933e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/a50a4cdbfafd41c8a3a4f212789131bb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/371e4c4b9a624895852d7002f8e7e440.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/21/5f08c989696e4f0fa4aa8247a9cdb817.png"
+}
+,
+{
     "Name": "UTAU(Wine)",
     "Version": "5",
     "Filename": "utau-spark-wine_5_all.deb",
@@ -914,23 +931,6 @@
    "More":"Douban.FM Client With Extra - - - 一个简洁的豆瓣FM客户端。"
 }
 
-,
-{
-    "Name": "musicfox （网易云音乐命令行版）",
-    "Version": "4.5.3-1",
-    "Filename": "go-musicfox_4.5.3-1_amd64.deb",
-    "Torrent_address": "go-musicfox_4.5.3-1_amd64.deb.torrent",
-    "Pkgname": "go-musicfox",
-    "Author": "anhoder <anhoder@88.com>",
-    "Contributor": "xmb505 <530060699@qq.com>",
-    "Website": "https://github.com/go-musicfox/go-musicfox",
-    "Update": "2024-06-21 14:03:39",
-    "Size": "6.01 MB",
-    "More": "go-musicfox 是用 Go 写的又一款网易云音乐命令行客户端，支持各种音质级别、UnblockNeteaseMusic、Last.fm、MPRIS 和 macOS 交互响应（睡眠暂停、蓝牙耳机连接断开响应和菜单栏控制等）等功能特性。",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/1fb64824355c453cb28028e53344a1e3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/8ee6ba2f21aa47d9827eb8c397b40389.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/3384d1b343384bb787757d5e2ae7933e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/a50a4cdbfafd41c8a3a4f212789131bb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/371e4c4b9a624895852d7002f8e7e440.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/21/5f08c989696e4f0fa4aa8247a9cdb817.png"
-}
 ,
 {
     "Name": "sportssoundpro",
@@ -1099,20 +1099,6 @@
 }
 ,
 {
-   "Name":"XunScore",
-   "Version":"1.2.7.1",
-   "Filename":"xunscore_1.2.7.1_amd64.deb",
-   "Pkgname":"xunscore",
-   "Author":"XunScore",
-   "Contributor":"Anysets",
-   "Website":"https://www.xunscore.cn/",
-   "Update":"2020-08-23 18:34",
-   "Size":"31.06MB",
-   "More":"让你简易自由地创建和分享乐谱。编辑器之所以称为“埙”，是寄望它更多地兼顾华夏民族乐谱，更好地符合国人使用习惯。"
-}
-
-,
-{
     "Name": "musicfox 源码编译版",
     "Version": "2024.05.27-2",
     "Filename": "go-musicfox-git_2024.05.27-2_amd64.deb",
@@ -1128,6 +1114,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/e4b0756b4d984118b00e47e7221a2947.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/cb8df42c3a194357a62f49e3ec25fc35.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/5af0f5b0eb91440aaf2be4f307adeb97.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/a90862f202844246aa945464094d35bf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/59eef96031a648429e8cf1a846659c48.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/02f54b0572ad4f698c430777bb9bad5d.png"
 }
+,
+{
+   "Name":"XunScore",
+   "Version":"1.2.7.1",
+   "Filename":"xunscore_1.2.7.1_amd64.deb",
+   "Pkgname":"xunscore",
+   "Author":"XunScore",
+   "Contributor":"Anysets",
+   "Website":"https://www.xunscore.cn/",
+   "Update":"2020-08-23 18:34",
+   "Size":"31.06MB",
+   "More":"让你简易自由地创建和分享乐谱。编辑器之所以称为“埙”，是寄望它更多地兼顾华夏民族乐谱，更好地符合国人使用习惯。"
+}
+
 ,
 {
     "Author": "spark-store",

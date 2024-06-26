@@ -465,24 +465,6 @@
 
 ,
 {
-    "Author": "Qaxbrowser Team <qaxbrowser@qianxin.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "com.qianxin.browser-stable_1.0.45276.3-1_arm64.deb",
-    "More": "奇安信可信浏览器\n 奇安信可信浏览器是基于Blink内核，专为政企定制的安全浏览器产品。简便快捷、兼容性高，满足政企互联网安全接入需求，是政企上网办公首选。\n（如果需要有 Flash 版本请安装1.0.1365.3-1 ）",
-    "Name": "奇安信浏览器基础版",
-    "Pkgname": "com.qianxin.browser-stable",
-    "Size": "81 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "com.qianxin.browser-stable_1.0.45276.3-1_arm64.deb.torrent",
-    "Update": "2023-07-05 11:27:42",
-    "Version": "1.0.45276.3-1",
-    "Website": "https://www.qianxin.com/",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qianxin.browser-stable/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qianxin.browser-stable/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qianxin.browser-stable/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qianxin.browser-stable/screen_3.png\"]"
-}
-
-,
-{
     "Author": "zzzgydi, wonfen, MystiPanda",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "clash-verge_1.6.6_arm64.deb",
@@ -497,6 +479,24 @@
     "Website": "https://clash-verge-rev.github.io/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "Qaxbrowser Team <qaxbrowser@qianxin.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.qianxin.browser-stable_1.0.45276.3-1_arm64.deb",
+    "More": "奇安信可信浏览器\n 奇安信可信浏览器是基于Blink内核，专为政企定制的安全浏览器产品。简便快捷、兼容性高，满足政企互联网安全接入需求，是政企上网办公首选。\n（如果需要有 Flash 版本请安装1.0.1365.3-1 ）",
+    "Name": "奇安信浏览器基础版",
+    "Pkgname": "com.qianxin.browser-stable",
+    "Size": "81 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.qianxin.browser-stable_1.0.45276.3-1_arm64.deb.torrent",
+    "Update": "2023-07-05 11:27:42",
+    "Version": "1.0.45276.3-1",
+    "Website": "https://www.qianxin.com/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qianxin.browser-stable/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qianxin.browser-stable/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qianxin.browser-stable/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qianxin.browser-stable/screen_3.png\"]"
 }
 
 ,
@@ -771,6 +771,24 @@
 
 ,
 {
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "cn.quarkclouddrive.spark_3.2.6spark4_all.deb",
+    "More": "夸克网盘\n电脑高效拍档 一键存爽快看",
+    "Name": "夸克网盘",
+    "Pkgname": "cn.quarkclouddrive.spark",
+    "Size": "150 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "cn.quarkclouddrive.spark_3.2.6spark4_all.deb.torrent",
+    "Update": "2024-06-15 15:07:28",
+    "Version": "3.2.6spark4",
+    "Website": "https://pan.quark.cn/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/screen_2.png\"]"
+}
+
+,
+{
     "Author": "lon <lon83129@126.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "gwakeonlan_0.8.5-3lon_all.deb",
@@ -825,22 +843,21 @@
 
 ,
 {
-    "Author": "sgb76 <sgb76@163.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "cn.quarkclouddrive.spark_3.2.6spark4_all.deb",
-    "More": "夸克网盘\n电脑高效拍档 一键存爽快看",
-    "Name": "夸克网盘",
-    "Pkgname": "cn.quarkclouddrive.spark",
-    "Size": "150 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "cn.quarkclouddrive.spark_3.2.6spark4_all.deb.torrent",
-    "Update": "2024-06-15 15:07:28",
-    "Version": "3.2.6spark4",
-    "Website": "https://pan.quark.cn/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/screen_2.png\"]"
+    "Name": "iTubeGo 视频下载",
+    "Version": "7.8.2",
+    "Filename": "com.itubego.deepin_7.8.2_all.deb",
+    "Torrent_address": "com.itubego.deepin_7.8.2_all.deb.torrent",
+    "Pkgname": "com.itubego.deepin",
+    "Author": "iTubeGodde-fileManager",
+    "Contributor": "iTubeGo",
+    "Website": "https://itubego.com/en63/",
+    "Update": "2024-06-19 21:03:58",
+    "Size": "144.39 MB",
+    "More": "一款顶级的视频下载工具，能从YouTube及其他超过1000个视频分享平台快速下载视频和音频文件，并支持多种格式转换",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/5208fc68a15145a493e1c9d37510dc42.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/f61015f443344289903d574984793378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/7fe1f9cb38cc4f218531582fe38c5fd0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/d7681c2a5ea440e8a39f99a4130d002d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/19/2ac5f698c5e54f639f585cb7059e58ff.png"
 }
-
 ,
 {
     "Author": "shenmo <shenmo@spark-app.store>",
@@ -913,21 +930,4 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.xiakeduanshipin.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.xiakeduanshipin.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.xiakeduanshipin.deepin/screen_3.png\"]"
 }
 
-,
-{
-    "Name": "iTubeGo 视频下载",
-    "Version": "7.8.2",
-    "Filename": "com.itubego.deepin_7.8.2_all.deb",
-    "Torrent_address": "com.itubego.deepin_7.8.2_all.deb.torrent",
-    "Pkgname": "com.itubego.deepin",
-    "Author": "iTubeGodde-fileManager",
-    "Contributor": "iTubeGo",
-    "Website": "https://itubego.com/en63/",
-    "Update": "2024-06-19 21:03:58",
-    "Size": "144.39 MB",
-    "More": "一款顶级的视频下载工具，能从YouTube及其他超过1000个视频分享平台快速下载视频和音频文件，并支持多种格式转换",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/5208fc68a15145a493e1c9d37510dc42.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/f61015f443344289903d574984793378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/7fe1f9cb38cc4f218531582fe38c5fd0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/d7681c2a5ea440e8a39f99a4130d002d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/19/2ac5f698c5e54f639f585cb7059e58ff.png"
-}
 ]
