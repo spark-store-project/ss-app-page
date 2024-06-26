@@ -28302,6 +28302,21 @@ Description: WeiDrive on Deepin Wine
 
 Package: org.qbittorrent.qbittorrent
 Architecture: amd64
+Version: 4.6.5
+Priority: optional
+Section: utils
+Maintainer: spark-store
+Depends: libfuse2
+Filename: network/org.qbittorrent.qbittorrent/org.qbittorrent.qbittorrent_4.6.5_amd64.deb
+Size: 71080316
+MD5sum: 084e45a18811a89e7ad9978705223b09
+SHA1: 3d7450e2ad5fe40c86f1baa638f166749f92bf66
+SHA256: d28103723d4446fd193437f89042be262c026926a71a5c3bbfbaf28cb37c6205
+SHA512: f272fa084c5ff59d7f26444cb674a95fe1d26fcbf03e2fc41253ed94e948a120091ab472b95e62390ed9e29ebc77581363e23614124798ee180c9b277ed8baf5
+Description: org.qbittorrent.qbittorrent Software Package created by Appimage2Deb
+
+Package: org.qbittorrent.qbittorrent
+Architecture: amd64
 Version: 4.6.2
 Priority: optional
 Section: utils

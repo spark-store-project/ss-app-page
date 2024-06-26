@@ -356,21 +356,22 @@
 }
 ,
 {
-    "Name": "qBittorrent",
-    "Version": "4.6.2",
-    "Filename": "org.qbittorrent.qbittorrent_4.6.2_amd64.deb",
-    "Torrent_address": "org.qbittorrent.qbittorrent_4.6.2_amd64.deb.torrent",
-    "Pkgname": "org.qbittorrent.qbittorrent",
     "Author": "spark-store",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "http://www.qbittorrent.org/",
-    "Update": "2023-12-10 14:31:32",
-    "Size": "67.55 MB",
+    "Filename": "org.qbittorrent.qbittorrent_4.6.5_amd64.deb",
     "More": "一款使用 Qt 做界面的 BT 传输软件。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/d183864f69da442bbd9b4754e39eacf3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/2efd018424ab4913a2094ccc69885767.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/10/c8d31f1e95b044ae95ee796ac8463812.png"
+    "Name": "qBittorrent",
+    "Pkgname": "org.qbittorrent.qbittorrent",
+    "Size": "71 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "org.qbittorrent.qbittorrent_4.6.5_amd64.deb.torrent",
+    "Update": "2024-06-27 00:29:26",
+    "Version": "4.6.5",
+    "Website": "http://www.qbittorrent.org/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/screen_2.png\"]"
 }
+
 ,
 {
     "Name": "远程桌面管理",
