@@ -268,6 +268,23 @@
 
 ,
 {
+    "Name": "Internet Explorer 8 (wine)",
+    "Version": "1.0.1deepin3",
+    "Filename": "deepin.com.ie8_1.0.1deepin3_all.deb",
+    "Torrent_address": "deepin.com.ie8_1.0.1deepin3_all.deb.torrent",
+    "Pkgname": "deepin.com.ie8",
+    "Author": "Person By Deepin WINE",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://bbs.deepin.org/post/168562",
+    "Update": "2023-09-20 13:14:55",
+    "Size": "353.18 MB",
+    "More": "个人基于Deepin Wine打包的IE8，仅供交流学习使用。\n------\n更新说明：支持deepin v23\n----\n注意：首次启动可能会出现闪退，再次启动即可\n如果点击关闭之后仍有残留窗口，请强制结束进程",
+    "Tags": "ubuntu;deepin;uos;dwine2",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/20/6b487a7d5d994d249a7d7800efae9573.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/20/0af4e1be6dee4284a9e718daf4760c62.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/20/2443432b0b1f4da2980fa08afdcc33f6.png"
+}
+,
+{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.163.dashi.mailmaster.spark_4.18.1.1006-1_all.deb",
@@ -284,23 +301,6 @@
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.163.dashi.mailmaster.spark/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.163.dashi.mailmaster.spark/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.163.dashi.mailmaster.spark/screen_3.png\"]"
 }
 
-,
-{
-    "Name": "Internet Explorer 8 (wine)",
-    "Version": "1.0.1deepin3",
-    "Filename": "deepin.com.ie8_1.0.1deepin3_all.deb",
-    "Torrent_address": "deepin.com.ie8_1.0.1deepin3_all.deb.torrent",
-    "Pkgname": "deepin.com.ie8",
-    "Author": "Person By Deepin WINE",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://bbs.deepin.org/post/168562",
-    "Update": "2023-09-20 13:14:55",
-    "Size": "353.18 MB",
-    "More": "个人基于Deepin Wine打包的IE8，仅供交流学习使用。\n------\n更新说明：支持deepin v23\n----\n注意：首次启动可能会出现闪退，再次启动即可\n如果点击关闭之后仍有残留窗口，请强制结束进程",
-    "Tags": "ubuntu;deepin;uos;dwine2",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/20/6b487a7d5d994d249a7d7800efae9573.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/20/0af4e1be6dee4284a9e718daf4760c62.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/20/2443432b0b1f4da2980fa08afdcc33f6.png"
-}
 ,
 {
     "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
@@ -447,24 +447,6 @@
 
 ,
 {
-    "Author": "Dr_rOot <agalwood.net@gmail.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "motrix_1.8.12_arm64.deb",
-    "More": "Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源。",
-    "Name": "Motrix",
-    "Pkgname": "motrix",
-    "Size": "66 Mb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "motrix_1.8.12_arm64.deb.torrent",
-    "Update": "2023-04-27 16:25:10",
-    "Version": "1.8.12",
-    "Website": "https://motrix.app",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/screen_3.png\"]"
-}
-
-,
-{
     "Author": "zzzgydi, wonfen, MystiPanda",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "clash-verge_1.6.6_arm64.deb",
@@ -479,6 +461,24 @@
     "Website": "https://clash-verge-rev.github.io/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "Dr_rOot <agalwood.net@gmail.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "motrix_1.8.12_arm64.deb",
+    "More": "Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源。",
+    "Name": "Motrix",
+    "Pkgname": "motrix",
+    "Size": "66 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "motrix_1.8.12_arm64.deb.torrent",
+    "Update": "2023-04-27 16:25:10",
+    "Version": "1.8.12",
+    "Website": "https://motrix.app",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/motrix/screen_3.png\"]"
 }
 
 ,

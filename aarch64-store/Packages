@@ -1983,6 +1983,27 @@ Description: 基于 Qt 的微型屏幕涂鸦程序
 
 Package: linglong-store
 Architecture: arm64
+Version: 1.2.7
+Priority: optional
+Section: default
+Maintainer: Jokul <986432015@qq.com>
+Installed-Size: 328873
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: tools/linglong-store/linglong-store_1.2.7_arm64.deb
+Size: 73185022
+MD5sum: d5e4444328d8de7247e74451e9d30537
+SHA1: 5fdd7eadbcd70662dc7e16aef7ca22ac49966a22
+SHA256: 45e38651625bd8ce0e665477ccb9ffa0799df3ba18665f6ecac616df9034816e
+SHA512: 794c4267ff1d1cc1ec90955ab4069a7335b7cd156f72cca9a212c929d60b876a6a96e4c834a7b3039e0fbb50b2c07f7b6c42ce4232140809881d94c2cc03dfdd
+Homepage: https://github.com/GershonWang/linglong-store
+Description: 
+  简易式玲珑商店客户端
+License: MIT
+Vendor: Jokul <986432015@qq.com>
+
+Package: linglong-store
+Architecture: arm64
 Version: 1.2.5
 Priority: optional
 Section: default

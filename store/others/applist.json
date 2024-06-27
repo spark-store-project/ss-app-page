@@ -1112,23 +1112,6 @@
 }
 ,
 {
-    "Name": "24 个“疫情”相关的、免费的 WPS 模板",
-    "Version": "1.24-2",
-    "Filename": "wps-office-templates-02-yiqingfangkong_1.24-2_all.deb",
-    "Torrent_address": "wps-office-templates-02-yiqingfangkong_1.24-2_all.deb.torrent",
-    "Pkgname": "wps-office-templates-02-yiqingfangkong",
-    "Author": "Anyone <anyone@126.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.docer.com/",
-    "Update": "2023-05-16 19:44:27",
-    "Size": "1.13 MB",
-    "More": "包含 24 个“疫情”相关的、免费的 WPS Office 文字、表格文档的简体中文模\n 板（添加了模板预览图片）。包含：“WPS 文字”模板 16 个；“WPS 表格”模板\n 8个。\n .\n 适用场景：学校（校领导、班主任、学生干部）；社区基层、街道办；企业、 机关\n 单位；家庭个人，等等。\n  * 来源: 稻壳儿 (金山办公内容服务平台) https://www.docer.com/\n  * 注：部分模板文件，在原始模板的基础上，排版格式有调整优化。\n .\n 模板文件目录位置：\n  * /opt/kingsoft/wps-office/office6/mui/zh_CN/templates/wps/yiQingFangKong/\n  * /opt/kingsoft/wps-office/office6/mui/zh_CN/templates/et/yiQingFangKong/\n .\n 模板文件格式：WPT (WPS 文字模板); XLT/XLTX/XLTM (WPS 表格模板)\n .\n\n .\n 测试环境：\n  * 操作系统：Debian 10.6 amd64\n  * 版本：WPS Office 11.1.0.9719 (2020.10.28 发布)\n  * DEB包文件名：wps-office_11.1.0.9719_amd64.deb\n  * DEB包名：wps-office\n  * 测试结果：模板文件名显示正常、模板打开正常",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/16/ec1ab93ce70a46e0a529473029dd1ae8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/16/3325975f68594609a0c59291d2622acf.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/16/5c578b01853042608d28dc94d3e8921e.png"
-}
-,
-{
     "Name": "NoBook初中生物（web）",
     "Version": "1.0",
     "Filename": "web-czsw.nobook.com_1.0_all.deb",
@@ -1143,6 +1126,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/4b752c3ba4654fa0a509be2bc49c4e52.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/05/b6fefefe1c7a4acf8f6ba568c7bc99ef.png"
+}
+,
+{
+    "Name": "24 个“疫情”相关的、免费的 WPS 模板",
+    "Version": "1.24-2",
+    "Filename": "wps-office-templates-02-yiqingfangkong_1.24-2_all.deb",
+    "Torrent_address": "wps-office-templates-02-yiqingfangkong_1.24-2_all.deb.torrent",
+    "Pkgname": "wps-office-templates-02-yiqingfangkong",
+    "Author": "Anyone <anyone@126.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.docer.com/",
+    "Update": "2023-05-16 19:44:27",
+    "Size": "1.13 MB",
+    "More": "包含 24 个“疫情”相关的、免费的 WPS Office 文字、表格文档的简体中文模\n 板（添加了模板预览图片）。包含：“WPS 文字”模板 16 个；“WPS 表格”模板\n 8个。\n .\n 适用场景：学校（校领导、班主任、学生干部）；社区基层、街道办；企业、 机关\n 单位；家庭个人，等等。\n  * 来源: 稻壳儿 (金山办公内容服务平台) https://www.docer.com/\n  * 注：部分模板文件，在原始模板的基础上，排版格式有调整优化。\n .\n 模板文件目录位置：\n  * /opt/kingsoft/wps-office/office6/mui/zh_CN/templates/wps/yiQingFangKong/\n  * /opt/kingsoft/wps-office/office6/mui/zh_CN/templates/et/yiQingFangKong/\n .\n 模板文件格式：WPT (WPS 文字模板); XLT/XLTX/XLTM (WPS 表格模板)\n .\n\n .\n 测试环境：\n  * 操作系统：Debian 10.6 amd64\n  * 版本：WPS Office 11.1.0.9719 (2020.10.28 发布)\n  * DEB包文件名：wps-office_11.1.0.9719_amd64.deb\n  * DEB包名：wps-office\n  * 测试结果：模板文件名显示正常、模板打开正常",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/16/ec1ab93ce70a46e0a529473029dd1ae8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/16/3325975f68594609a0c59291d2622acf.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/16/5c578b01853042608d28dc94d3e8921e.png"
 }
 ,
 {
@@ -1327,6 +1327,23 @@
 }
 ,
 {
+    "Name": "NoBook 小学科学（web）",
+    "Version": "1.0",
+    "Filename": "web-science.nobook.com_1.0_all.deb",
+    "Torrent_address": "web-science.nobook.com_1.0_all.deb.torrent",
+    "Pkgname": "web-science.nobook.com",
+    "Author": "NoBook",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://science.nobook.com",
+    "Update": "2023-03-05 09:54:41",
+    "Size": "43.17 KB",
+    "More": "NOBOOK虚拟实验是一款专为中小学教师与学生打造的简单实用的科学实验工具平台。\n通过多媒体手段，依托学科特色，打造富有科技感的物理、化学、生物学科虚拟仿真实验资源和应用，做到教学模式多样化，教学资源共享化，教育信息数字化。让繁琐的实验课变高效、简单。让理论知识可视化、生动化、形象化。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/305572798b904d5c8a16e958d901f11f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/05/bf50faeddb084ae8be1c2969fc7db29f.png"
+}
+,
+{
     "Name": "极域课堂（学生端）",
     "Version": "2.7.3605-1.0.102+10751uos",
     "Filename": "com.mythware.cms-student_2.7.3605-1.0.102_plus_10751uos_amd64.deb",
@@ -1358,23 +1375,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/53694c436a504582aadf26063619def9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/70fd92f525f745e28b1970e1d2d206e3.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/01/ca4b824327654f09a4bca336dc191790.png"
-}
-,
-{
-    "Name": "NoBook 小学科学（web）",
-    "Version": "1.0",
-    "Filename": "web-science.nobook.com_1.0_all.deb",
-    "Torrent_address": "web-science.nobook.com_1.0_all.deb.torrent",
-    "Pkgname": "web-science.nobook.com",
-    "Author": "NoBook",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://science.nobook.com",
-    "Update": "2023-03-05 09:54:41",
-    "Size": "43.17 KB",
-    "More": "NOBOOK虚拟实验是一款专为中小学教师与学生打造的简单实用的科学实验工具平台。\n通过多媒体手段，依托学科特色，打造富有科技感的物理、化学、生物学科虚拟仿真实验资源和应用，做到教学模式多样化，教学资源共享化，教育信息数字化。让繁琐的实验课变高效、简单。让理论知识可视化、生动化、形象化。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/305572798b904d5c8a16e958d901f11f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/05/bf50faeddb084ae8be1c2969fc7db29f.png"
 }
 ,
 {

@@ -54,24 +54,6 @@
 
 ,
 {
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "spark-deepin-wine-runner_3.9.1_all.deb",
-    "More": "Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序，内置了对Wine图形化的支持、各种Wine工具、自制的Wine程序打包器和运行库安装工具等。\n它同时还内置了基于VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作。\n\n一个图形化了如下命令的程序（最简单格式）\nenv WINEPREFIX=容器路径 wine（wine的路径） 可执行文件路径\n让你可以简易方便的使用 wine\n\nWine 运行器 QQ 交流群：762985460",
-    "Name": "Wine运行器 3.9.0",
-    "Pkgname": "spark-deepin-wine-runner",
-    "Size": "53 Mb",
-    "Tags": "community;deepin;uos;ubuntu;dtk5;dwine2;dwine5",
-    "Torrent_address": "spark-deepin-wine-runner_3.9.1_all.deb.torrent",
-    "Update": "2024-06-22 20:33:13",
-    "Version": "3.9.1",
-    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
-    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_5.png\"]"
-}
-
-,
-{
     "Author": "keke <243768648@qq.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.github.ccc-app-manager_0.0.11_loong64.deb",
@@ -86,6 +68,24 @@
     "Website": "https://gitee.com/ct243768648/ccc-app-manager",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.github.ccc-app-manager/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.ccc-app-manager/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.ccc-app-manager/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.ccc-app-manager/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.ccc-app-manager/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.ccc-app-manager/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "spark-deepin-wine-runner_3.9.1_all.deb",
+    "More": "Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序，内置了对Wine图形化的支持、各种Wine工具、自制的Wine程序打包器和运行库安装工具等。\n它同时还内置了基于VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作。\n\n一个图形化了如下命令的程序（最简单格式）\nenv WINEPREFIX=容器路径 wine（wine的路径） 可执行文件路径\n让你可以简易方便的使用 wine\n\nWine 运行器 QQ 交流群：762985460",
+    "Name": "Wine运行器 3.9.0",
+    "Pkgname": "spark-deepin-wine-runner",
+    "Size": "53 Mb",
+    "Tags": "community;deepin;uos;ubuntu;dtk5;dwine2;dwine5",
+    "Torrent_address": "spark-deepin-wine-runner_3.9.1_all.deb.torrent",
+    "Update": "2024-06-22 20:33:13",
+    "Version": "3.9.1",
+    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_5.png\"]"
 }
 
 ,
@@ -108,23 +108,6 @@
 
 ,
 {
-    "Name": "360压缩(wine)",
-    "Version": "4.0.0.1490spark0",
-    "Filename": "com.360.ya.suo.spark_4.0.0.1490spark0_all.deb",
-    "Torrent_address": "com.360.ya.suo.spark_4.0.0.1490spark0_all.deb.torrent",
-    "Pkgname": "com.360.ya.suo.spark",
-    "Author": "gfdgd xi<3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://yasuo.360.cn/",
-    "Update": "2023-11-04 15:30:12",
-    "Size": "120.57 MB",
-    "More": "360压缩，wine版，支持压缩包连续看图等功能\n\n支持arm\n使用 spark wine8",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/46b28263ee3c4ad692cd7cfe6f1fb2f1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/04/f154f48ee46e4877ba548b1a9f4eb18a.png"
-}
-,
-{
     "Author": "DebuggerX <dx8913712@163.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.debuggerx.fcitx5-customizer_1.0.6_all.deb",
@@ -141,6 +124,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_4.png\"]"
 }
 
+,
+{
+    "Name": "360压缩(wine)",
+    "Version": "4.0.0.1490spark0",
+    "Filename": "com.360.ya.suo.spark_4.0.0.1490spark0_all.deb",
+    "Torrent_address": "com.360.ya.suo.spark_4.0.0.1490spark0_all.deb.torrent",
+    "Pkgname": "com.360.ya.suo.spark",
+    "Author": "gfdgd xi<3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://yasuo.360.cn/",
+    "Update": "2023-11-04 15:30:12",
+    "Size": "120.57 MB",
+    "More": "360压缩，wine版，支持压缩包连续看图等功能\n\n支持arm\n使用 spark wine8",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/46b28263ee3c4ad692cd7cfe6f1fb2f1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/04/f154f48ee46e4877ba548b1a9f4eb18a.png"
+}
 ,
 {
     "Author": "shenmo<shenmo@spark-app.store>",
@@ -459,6 +459,24 @@
 }
 ,
 {
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "htyfloatball_1.0.1_loong64.deb",
+    "More": "一个通过桌面浮球、托盘图标显示网速、内存使用情况的小工具\n\n通过xwayland支持了wayland",
+    "Name": "海天鹰浮球",
+    "Pkgname": "htyfloatball",
+    "Size": "33 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "htyfloatball_1.0.1_loong64.deb.torrent",
+    "Update": "2024-03-21 23:47:05",
+    "Version": "1.0.1",
+    "Website": "https://github.com/sonichy/HTYFloatBall",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/htyfloatball/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/htyfloatball/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/htyfloatball/screen_2.png\"]"
+}
+
+,
+{
     "Author": "Dylan Aïssi <daissi@debian.org>",
     "Contributor": "Dylan Aïssi <daissi@debian.org>",
     "Filename": "com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus_1_all.deb",
@@ -508,24 +526,6 @@
     "Website": "https://gitee.com/deepin-community-store/spark-wine",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/screen_1.png\"]"
-}
-
-,
-{
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "htyfloatball_1.0.1_loong64.deb",
-    "More": "一个通过桌面浮球、托盘图标显示网速、内存使用情况的小工具\n\n通过xwayland支持了wayland",
-    "Name": "海天鹰浮球",
-    "Pkgname": "htyfloatball",
-    "Size": "33 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "htyfloatball_1.0.1_loong64.deb.torrent",
-    "Update": "2024-03-21 23:47:05",
-    "Version": "1.0.1",
-    "Website": "https://github.com/sonichy/HTYFloatBall",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/htyfloatball/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/htyfloatball/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/htyfloatball/screen_2.png\"]"
 }
 
 ,
