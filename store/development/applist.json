@@ -877,23 +877,6 @@
 }
 ,
 {
-    "Name": "海龟编辑器",
-    "Version": "0.1.3",
-    "Filename": "cn.codemao.wood_0.1.3_amd64.deb",
-    "Torrent_address": "cn.codemao.wood_0.1.3_amd64.deb.torrent",
-    "Pkgname": "cn.codemao.wood",
-    "Author": "Codemao",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://wood.codemao.cn",
-    "Update": "2023-01-01 18:43:20",
-    "Size": "59.36 MB",
-    "More": "海龟编辑器，是编程猫面向Python初学者开发的图形化Python编辑器。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/f13739abcebf47d7a96bc5efae2383e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/082973b24d3645c5922317bd4158a18f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/2b75ab8ba96346cf904c9f5ab1e7505f.png"
-}
-,
-{
     "Name": "XTerminal",
     "Version": "1.8.0",
     "Filename": "xterminal_1.8.0_amd64.deb",
@@ -908,6 +891,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/03/9dd93d21fc554cdebd3af290c72a9833.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/03/f009fcf19bee4d74a4e8292a972166a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/03/1dabfa919f39420db8c730eb72ce7e4a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/03/2171522cfef7400cb68610b1a54d4aa9.png"
+}
+,
+{
+    "Name": "海龟编辑器",
+    "Version": "0.1.3",
+    "Filename": "cn.codemao.wood_0.1.3_amd64.deb",
+    "Torrent_address": "cn.codemao.wood_0.1.3_amd64.deb.torrent",
+    "Pkgname": "cn.codemao.wood",
+    "Author": "Codemao",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://wood.codemao.cn",
+    "Update": "2023-01-01 18:43:20",
+    "Size": "59.36 MB",
+    "More": "海龟编辑器，是编程猫面向Python初学者开发的图形化Python编辑器。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/f13739abcebf47d7a96bc5efae2383e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/082973b24d3645c5922317bd4158a18f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/2b75ab8ba96346cf904c9f5ab1e7505f.png"
 }
 ,
 {
@@ -1076,22 +1076,6 @@
 }
 ,
 {
-    "Name": "Liberica JDK 15 Full",
-    "Version": "15+36",
-    "Filename": "bellsoft-jdk15_plus_36-linux-amd64-full.deb",
-    "Pkgname": "bellsoft-java15-full",
-    "Author": "BellSoft",
-    "Contributor": "deltacatxx",
-    "Website": "https://bell-sw.com/",
-    "Update": "2020-10-17 09:01:31",
-    "Size": "234.71 MB",
-    "More": "Liberica JDK 是由 BellSoft 开发的一个 OpenJDK 发行版。Full 版本集成了 JavaFX，无需配置、开箱即用",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/17/c23be540-1052-11eb-b5f0-79f3a121a6ea.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/17/c9b224b0-1052-11eb-b5f0-79f3a121a6ea.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/17/9844a3d0-1052-11eb-b5f0-79f3a121a6ea.png"
-}
-,
-{
     "Name": "Visual Studio Code Insider",
     "Version": "1.88.0-1711087966",
     "Filename": "code-insiders_1.88.0-1711087966_amd64.deb",
@@ -1106,6 +1090,22 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/27b331238bc548e7b951a001ec93a37b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/24/87c4eb9649274a228bd1908474073ca8.png"
+}
+,
+{
+    "Name": "Liberica JDK 15 Full",
+    "Version": "15+36",
+    "Filename": "bellsoft-jdk15_plus_36-linux-amd64-full.deb",
+    "Pkgname": "bellsoft-java15-full",
+    "Author": "BellSoft",
+    "Contributor": "deltacatxx",
+    "Website": "https://bell-sw.com/",
+    "Update": "2020-10-17 09:01:31",
+    "Size": "234.71 MB",
+    "More": "Liberica JDK 是由 BellSoft 开发的一个 OpenJDK 发行版。Full 版本集成了 JavaFX，无需配置、开箱即用",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/17/c23be540-1052-11eb-b5f0-79f3a121a6ea.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/17/c9b224b0-1052-11eb-b5f0-79f3a121a6ea.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/17/9844a3d0-1052-11eb-b5f0-79f3a121a6ea.png"
 }
 ,
 {
@@ -1143,20 +1143,6 @@
 }
 ,
 {
-   "Name":"mqttfx",
-   "Version":"1.7.1",
-   "Filename":"mqttfx-1.7.1-64bit.deb",
-   "Pkgname":"mqttfx",
-   "Author":"mqttfx",
-   "Contributor":"风铃",
-   "Website":"http://mqttfx.jensd.de/",
-   "Update":"2020-07-26 23:51",
-   "Size":"72.41MB",
-   "More":"MQTT.fx是一个跨平台的MQTT的图形化客户端"
-}
-
-,
-{
     "Name": "Liberica JDK 11 Full",
     "Version": "11.0.23+10",
     "Filename": "bellsoft-java11-full_11.0.23_plus10_amd64.deb",
@@ -1172,6 +1158,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/3d3664a4e60a4859be50d2b6612761ff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/f7d2ce4abc754c06a88bd7db5fd6a410.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/b545a377c4414ff092031e1ed18ee5f0.png"
 }
+,
+{
+   "Name":"mqttfx",
+   "Version":"1.7.1",
+   "Filename":"mqttfx-1.7.1-64bit.deb",
+   "Pkgname":"mqttfx",
+   "Author":"mqttfx",
+   "Contributor":"风铃",
+   "Website":"http://mqttfx.jensd.de/",
+   "Update":"2020-07-26 23:51",
+   "Size":"72.41MB",
+   "More":"MQTT.fx是一个跨平台的MQTT的图形化客户端"
+}
+
 ,
 {
     "Name": "OpenCore Auxiliary Tools",
@@ -1288,23 +1288,6 @@
 }
 ,
 {
-    "Name": "Beekeeper Studio",
-    "Version": "3.8.9",
-    "Filename": "beekeeper-studio_3.8.9_amd64.deb",
-    "Torrent_address": "beekeeper-studio_3.8.9_amd64.deb.torrent",
-    "Pkgname": "beekeeper-studio",
-    "Author": "Beekeeper Studio Team",
-    "Contributor": "sgb76",
-    "Website": "https://github.com/beekeeper-studio/beekeeper-studio#readme",
-    "Update": "2023-02-06 18:12:38",
-    "Size": "69.81 MB",
-    "More": "Beekeeper Studio是一款可用于Linux、Mac和Windows的跨平台SQL编辑器和数据库管理器。",
-    "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/6d5d332ccfd94048993490c493c23a0b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/aff962c8a1e543beaf3a026bc4095f29.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/06/b24ab96e8dab4056bc6ea31e665afa84.png"
-}
-,
-{
     "Name": "Distrobox",
     "Version": "1.4.2.1~spark2",
     "Filename": "distrobox_1.4.2.1~spark2_all.deb",
@@ -1319,6 +1302,23 @@
     "Tags": "community;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd3ae380-93d3-11ed-9a43-41fc3215d261.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd4c48a0-93d3-11ed-9a43-41fc3215d261.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd5e7110-93d3-11ed-9a43-41fc3215d261.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd7e5520-93d3-11ed-9a43-41fc3215d261.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd6db350-93d3-11ed-9a43-41fc3215d261.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/14/db136fa0-93d3-11ed-9a43-41fc3215d261.png"
+}
+,
+{
+    "Name": "Beekeeper Studio",
+    "Version": "3.8.9",
+    "Filename": "beekeeper-studio_3.8.9_amd64.deb",
+    "Torrent_address": "beekeeper-studio_3.8.9_amd64.deb.torrent",
+    "Pkgname": "beekeeper-studio",
+    "Author": "Beekeeper Studio Team",
+    "Contributor": "sgb76",
+    "Website": "https://github.com/beekeeper-studio/beekeeper-studio#readme",
+    "Update": "2023-02-06 18:12:38",
+    "Size": "69.81 MB",
+    "More": "Beekeeper Studio是一款可用于Linux、Mac和Windows的跨平台SQL编辑器和数据库管理器。",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/6d5d332ccfd94048993490c493c23a0b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/aff962c8a1e543beaf3a026bc4095f29.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/06/b24ab96e8dab4056bc6ea31e665afa84.png"
 }
 ,
 {
@@ -1554,23 +1554,6 @@
 }
 ,
 {
-    "Name": "CP Editor",
-    "Version": "6.10.3",
-    "Filename": "cpeditor_6.10.3_amd64.deb",
-    "Torrent_address": "cpeditor_6.10.3_amd64.deb.torrent",
-    "Pkgname": "cpeditor",
-    "Author": "ouuan",
-    "Contributor": "图小贝",
-    "Website": "https://cpeditor.org/",
-    "Update": "2023-03-25 01:42:12",
-    "Size": "19.4 MB",
-    "More": "CP Editor 专为算法竞赛设计，不像其它 IDE 主要是为了开发设计的。它可以帮助你自动化编译、运行、测试，从而让你专注于算法设计。它甚至可以从各种算法竞赛网站上获取样例，将代码提交到 Codeforces 上！",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/25/9c8f0bedb2a9400a912a47d01eef6d75.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/25/07ca6cee5307488ba59e2b36026e7507.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/25/7d71bedf20484f738e8e603b3b7b72b3.png"
-}
-,
-{
     "Name": "Ghidra",
     "Version": "10.4.0",
     "Filename": "com.nsa.ghidra_10.4.0_amd64.deb",
@@ -1585,6 +1568,23 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/93f04bc877e84f8ca81d8dd9fc2de917.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/c6b2ed2ba7d54ce0a343d1cb3e22b054.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/b5b29eca4e20422687ca01caf313ff40.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/01/84c38f7839b14eec939f5f9f23b2073d.png"
+}
+,
+{
+    "Name": "CP Editor",
+    "Version": "6.10.3",
+    "Filename": "cpeditor_6.10.3_amd64.deb",
+    "Torrent_address": "cpeditor_6.10.3_amd64.deb.torrent",
+    "Pkgname": "cpeditor",
+    "Author": "ouuan",
+    "Contributor": "图小贝",
+    "Website": "https://cpeditor.org/",
+    "Update": "2023-03-25 01:42:12",
+    "Size": "19.4 MB",
+    "More": "CP Editor 专为算法竞赛设计，不像其它 IDE 主要是为了开发设计的。它可以帮助你自动化编译、运行、测试，从而让你专注于算法设计。它甚至可以从各种算法竞赛网站上获取样例，将代码提交到 Codeforces 上！",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/25/9c8f0bedb2a9400a912a47d01eef6d75.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/25/07ca6cee5307488ba59e2b36026e7507.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/25/7d71bedf20484f738e8e603b3b7b72b3.png"
 }
 ,
 {
@@ -2110,6 +2110,23 @@
 }
 ,
 {
+    "Name": "Liberica JDK 17 Full",
+    "Version": "17.0.11+10",
+    "Filename": "bellsoft-java17-full_17.0.11_plus10_amd64.deb",
+    "Torrent_address": "bellsoft-java17-full_17.0.11_plus10_amd64.deb.torrent",
+    "Pkgname": "bellsoft-java17-full",
+    "Author": "BellSoft <info@bell-sw.com>",
+    "Contributor": "ThinkYoung",
+    "Website": "https://bell-sw.com/pages/libericajdk/",
+    "Update": "2024-05-09 11:06:56",
+    "Size": "262.52 MB",
+    "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/83cab02e184f4b94800db8391db77a50.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/950185125ef94f95922b3f39cf450443.png"
+}
+,
+{
     "Name": "SWebRuntime 唤醒",
     "Version": "1.5",
     "Filename": "spark-webapp-runtime-waker_1.5_amd64.deb",
@@ -2140,23 +2157,6 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/5c4885fb37e9491a85e32ed79c60830f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/5c7b3587f44e4b1ebfdf7d62089ecd53.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/a11b8f7200da42fd9b9fbccd9263a6f6.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/16/2248d4d3f947447ea035de40d69eed77.png"
-}
-,
-{
-    "Name": "Liberica JDK 17 Full",
-    "Version": "17.0.11+10",
-    "Filename": "bellsoft-java17-full_17.0.11_plus10_amd64.deb",
-    "Torrent_address": "bellsoft-java17-full_17.0.11_plus10_amd64.deb.torrent",
-    "Pkgname": "bellsoft-java17-full",
-    "Author": "BellSoft <info@bell-sw.com>",
-    "Contributor": "ThinkYoung",
-    "Website": "https://bell-sw.com/pages/libericajdk/",
-    "Update": "2024-05-09 11:06:56",
-    "Size": "262.52 MB",
-    "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/83cab02e184f4b94800db8391db77a50.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/950185125ef94f95922b3f39cf450443.png"
 }
 ,
 {

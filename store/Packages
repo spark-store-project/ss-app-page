@@ -1803,6 +1803,26 @@ Description: deepin-wine8-stable ACE
 
 Package: deepin-wine8-stable
 Architecture: amd64
+Version: 8.16deepin21-1
+Multi-Arch: foreign
+Priority: optional
+Section: otherosfs
+Maintainer: Wei Xie <xiewei@uniontech.com>, Guo Lv <lvguo@uniontech.com>
+Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
+Installed-Size: 1207314
+Pre-Depends: dpkg (>= 1.14.12ubuntu3)
+Depends: libasound2 (>= 1.0.16), libc6 (>= 2.38), libdbus-1-3 (>= 1.9.16), libgcc-s1 (>= 3.0), libgphoto2-6 (>= 2.5.10), libgphoto2-port12 (>= 2.5.10), libpulse0 (>= 0.99.1), libsane1 (>= 1.0.27), libudev1 (>= 183), libwayland-client0 (>= 1.20.0), libx11-6, libxext6, ocl-icd-libopencl1 | libopencl1, ocl-icd-libopencl1 (>= 1.0) | libopencl-1.2-1, libasound2-plugins, libncurses6 | libncurses5 | libncurses, deepin-elf-verify (>= 1.1.10-1)
+Recommends: libcap2-bin, libcups2, libnss-myhostname, libfontconfig1, libfreetype6, libglu1-mesa | libglu1, libgnutls30 | libgnutls28 | libgnutls26, libgssapi-krb5-2, libjpeg62-turbo | libjpeg8, libkrb5-3, libodbc1, libosmesa6, libsdl2-2.0-0, libv4l-0, libxcomposite1, libxcursor1, libxfixes3, libxi6, libxinerama1, libxrandr2, libxrender1, libxxf86vm1
+Filename: depends/deepin-wine8/deepin-wine8-stable_8.16deepin21-1_amd64.deb
+Size: 191632882
+MD5sum: 0670a3524fe6b7321ffcb8e2c143a508
+SHA1: 93879d47187ef5fb28e65cc856c9499d1c92f36f
+SHA256: da1e2598d220a9162e3ede6da406173a06927777b60c66fb052c517f663fcb14
+SHA512: 3eb0ebe4bbce0c00d13a3526ed1a2571062f508aeb97e62fdadb98bd93fb5ec5cb3a9241c30b465b93576f9064c6c5272ab6b2513f4856eb1f097f93baa6c033
+Description: WINE Is Not An Emulator - runs MS Windows programs Wine is a program which allows running Microsoft Windows programs (including DOS, Windows 3.x and Win32 executables) on Unix. . This package contains the files needed to support 64-bit or 32-bit Windows programs.
+
+Package: deepin-wine8-stable
+Architecture: amd64
 Version: 8.16-deepin10+Mejituu
 Multi-Arch: foreign
 Priority: optional
@@ -11433,6 +11453,24 @@ MD5sum: 9bbe51739a6ba96d9fd7111c38eb8e12
 SHA1: aaf1f380f62e5d7bf334b0b71758db59a8f289f8
 SHA256: 71240b7949134c04187b7ee55042a890315d1d6cf1fc87cdd01cdcd9aa2b27a0
 SHA512: 5e8a236bb50ddfb133be2b13541f2b7ffdfa8ec241fe835eafbcbb7e961edf9e7c86b44ab0aba081456e1bb1df2fda78b537c52f1e5afe0204dbdc86ddfd0e35
+Homepage: https://github.com/go-musicfox/go-musicfox
+Description: A NetEase music player in terminal.
+
+Package: go-musicfox
+Architecture: amd64
+Version: 4.5.3-3
+Priority: optional
+Section: sound
+Maintainer: anhoder <anhoder@88.com>
+Installed-Size: 17832
+Depends: flac, libasound2-dev
+Conflicts: go-musicfox-git
+Filename: music/go-musicfox/go-musicfox_4.5.3-3_amd64.deb
+Size: 5806708
+MD5sum: 6077191a3725dfc4f8c7e9e564535650
+SHA1: ccadbf832c1df1ae39b0cda0bad1900fe8922419
+SHA256: 21f4d8a5956a68271587e6acf27c44431527b2f5a79143635ebdb4b98b4812b3
+SHA512: 4763696674a2cc354187afc9408808bb47ed32d40233cede4cd7013ab7ab1468e91e1ed41ceb99f3c1b93fd3fd9d57baf52dddbf2c9b380a3801db63f5106446
 Homepage: https://github.com/go-musicfox/go-musicfox
 Description: A NetEase music player in terminal.
 

@@ -857,23 +857,6 @@
 }
 ,
 {
-    "Name": "Android - adb/fastboot 测试工具",
-    "Version": "0.3.2-20221210",
-    "Filename": "android-adb-fastboot-tools_0.3.2-20221210_amd64.deb",
-    "Torrent_address": "android-adb-fastboot-tools_0.3.2-20221210_amd64.deb.torrent",
-    "Pkgname": "android-adb-fastboot-tools",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/qt.android-adb-fastboot-tools",
-    "Update": "2022-12-10 01:38:51",
-    "Size": "7.27 MB",
-    "More": "基于 adb/fastboot 命令的图形化工具，可用于简单的基于 AOSP 镜像刷机测试",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/10/2c4350b7-1ad8-466d-9443-0c326156bbdb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/10/ec59e585-05b9-4f4b-8c8f-f576fe7b5b58.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/10/6a6bcea4-a399-4de0-9911-354640fa54c7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/10/cc0d939d-e3e3-4a24-9ae9-127628ab3643.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/10/bd65a178-a7fa-41b1-bc9e-2038dc6d8c7b.png"
-}
-,
-{
     "Name": "LocalSend",
     "Version": "1.14.0+45",
     "Filename": "localsend_1.14.0_plus_45_amd64.deb",
@@ -890,6 +873,23 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/a6433d9fb4de4166ab3a3531bb9d76a9.png"
 }
 
+,
+{
+    "Name": "Android - adb/fastboot 测试工具",
+    "Version": "0.3.2-20221210",
+    "Filename": "android-adb-fastboot-tools_0.3.2-20221210_amd64.deb",
+    "Torrent_address": "android-adb-fastboot-tools_0.3.2-20221210_amd64.deb.torrent",
+    "Pkgname": "android-adb-fastboot-tools",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/qt.android-adb-fastboot-tools",
+    "Update": "2022-12-10 01:38:51",
+    "Size": "7.27 MB",
+    "More": "基于 adb/fastboot 命令的图形化工具，可用于简单的基于 AOSP 镜像刷机测试",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/10/2c4350b7-1ad8-466d-9443-0c326156bbdb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/10/ec59e585-05b9-4f4b-8c8f-f576fe7b5b58.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/10/6a6bcea4-a399-4de0-9911-354640fa54c7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/10/cc0d939d-e3e3-4a24-9ae9-127628ab3643.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/10/bd65a178-a7fa-41b1-bc9e-2038dc6d8c7b.png"
+}
 ,
 {
     "Name": "Bleachbit",
@@ -909,23 +909,6 @@
 }
 ,
 {
-    "Name": "使用N卡运行 NVIDIA for deepin-prime",
-    "Version": "1.0",
-    "Filename": "deepin-prime-run_1.0_amd64.deb",
-    "Torrent_address": "deepin-prime-run_1.0_amd64.deb.torrent",
-    "Pkgname": "deepin-prime-run",
-    "Author": "shenmo",
-    "Contributor": "shenmo",
-    "Website": "https://blog.shenmo.tech/",
-    "Update": "2023-05-08 00:11:53",
-    "Size": "1.84 KB",
-    "More": "prime-run for deepin-prime,可以简单的使用N卡启动应用",
-    "Tags": "community;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/08/8e3efec0-ecf1-11ed-a415-1fbb11fc4147.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/08/de0582d0-ecf1-11ed-a415-1fbb11fc4147.png"
-}
-,
-{
     "Name": "桌面小部件",
     "Version": "1.0.3",
     "Filename": "com.gitee.desktop.dashboard_1.0.3_amd64.deb",
@@ -940,6 +923,23 @@
     "Tags": "community;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/27/ffffffff-ffff-4fff-bfff-ffffffffffff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/27/ffffffff-ffff-4fff-bfff-ffffffffffff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/27/ffffffff-ffff-4fff-bfff-ffffffffffff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/27/ffffffff-ffff-4fff-bfff-ffffffffffff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/27/ffffffff-ffff-4fff-bfff-ffffffffffff.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/27/ffffffff-ffff-4fff-bfff-ffffffffffff.png"
+}
+,
+{
+    "Name": "使用N卡运行 NVIDIA for deepin-prime",
+    "Version": "1.0",
+    "Filename": "deepin-prime-run_1.0_amd64.deb",
+    "Torrent_address": "deepin-prime-run_1.0_amd64.deb.torrent",
+    "Pkgname": "deepin-prime-run",
+    "Author": "shenmo",
+    "Contributor": "shenmo",
+    "Website": "https://blog.shenmo.tech/",
+    "Update": "2023-05-08 00:11:53",
+    "Size": "1.84 KB",
+    "More": "prime-run for deepin-prime,可以简单的使用N卡启动应用",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/08/8e3efec0-ecf1-11ed-a415-1fbb11fc4147.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/08/de0582d0-ecf1-11ed-a415-1fbb11fc4147.png"
 }
 ,
 {
@@ -1011,23 +1011,6 @@
 }
 ,
 {
-    "Name": "格式工厂（Wine）",
-    "Version": "5.11.0",
-    "Filename": "com.sugarcane.formatfactory_5.11.0_all.deb",
-    "Torrent_address": "com.sugarcane.formatfactory_5.11.0_all.deb.torrent",
-    "Pkgname": "com.sugarcane.formatfactory",
-    "Author": "Team FormatFactory",
-    "Contributor": "zkqgxlbjx",
-    "Website": "http://www.pcgeshi.com/",
-    "Update": "2023-08-08 02:18:08",
-    "Size": "103.57 MB",
-    "More": "格式工厂是一款免费多功能的多媒体格式转换软件。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/65fdb0f0-354e-11ee-a987-4f47b34b2038.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/08/6787fa70-354e-11ee-a987-4f47b34b2038.png"
-}
-,
-{
     "Name": "RustDesk",
     "Version": "1.2.3",
     "Filename": "rustdesk_1.2.3_amd64.deb",
@@ -1042,6 +1025,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/667306c238a24f0793ec1b743c15f431.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/82c68a1816ec4796a31b1b22e67789b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/1a67dedd3d5d475494a24edb648ee880.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/9f2afc5705fa426ab6930e4519ef34ac.png"
+}
+,
+{
+    "Name": "格式工厂（Wine）",
+    "Version": "5.11.0",
+    "Filename": "com.sugarcane.formatfactory_5.11.0_all.deb",
+    "Torrent_address": "com.sugarcane.formatfactory_5.11.0_all.deb.torrent",
+    "Pkgname": "com.sugarcane.formatfactory",
+    "Author": "Team FormatFactory",
+    "Contributor": "zkqgxlbjx",
+    "Website": "http://www.pcgeshi.com/",
+    "Update": "2023-08-08 02:18:08",
+    "Size": "103.57 MB",
+    "More": "格式工厂是一款免费多功能的多媒体格式转换软件。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/65fdb0f0-354e-11ee-a987-4f47b34b2038.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/08/6787fa70-354e-11ee-a987-4f47b34b2038.png"
 }
 ,
 {
@@ -1914,22 +1914,6 @@
 
 ,
 {
-    "Name": "lfxNet",
-    "Version": "1.0.0-1",
-    "Filename": "lfxnet_1.0.0-1_amd64.deb",
-    "Pkgname": "lfxnet",
-    "Author": "偕臧<xmuli>",
-    "Contributor": "偕臧<xmuli>",
-    "Website": "https://xmuli.tech",
-    "Update": "2021-02-02 19:20:35",
-    "Size": "145.43 KB",
-    "More": "lfxNet 是一款轻量、快速的实时显示系统资源信息的应用程序, 是 dde-dock 的网速插件； 项目地址 https://github.com/xmuli/lfxNet",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/86733540-6548-11eb-a7d4-295ea2f68a3b.gif\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/868d25e0-6548-11eb-a7d4-295ea2f68a3b.gif\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/9a390190-6548-11eb-a7d4-295ea2f68a3b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/9a55ff70-6548-11eb-a7d4-295ea2f68a3b.gif\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/02/43a77230-6548-11eb-a7d4-295ea2f68a3b.png"
-}
-,
-{
     "Name": "系统监视中心",
     "Version": "2.26.0",
     "Filename": "system-monitoring-center_2.26.0_all.deb",
@@ -1944,6 +1928,22 @@
     "Tags": "ubuntu;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/d9637c265212451b99c2eb2c21cfcd3a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/7823e438c63945d98e784149eccb311f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/18/7fa7aea14fad473ebfc6221f7ecee220.png"
+}
+,
+{
+    "Name": "lfxNet",
+    "Version": "1.0.0-1",
+    "Filename": "lfxnet_1.0.0-1_amd64.deb",
+    "Pkgname": "lfxnet",
+    "Author": "偕臧<xmuli>",
+    "Contributor": "偕臧<xmuli>",
+    "Website": "https://xmuli.tech",
+    "Update": "2021-02-02 19:20:35",
+    "Size": "145.43 KB",
+    "More": "lfxNet 是一款轻量、快速的实时显示系统资源信息的应用程序, 是 dde-dock 的网速插件； 项目地址 https://github.com/xmuli/lfxNet",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/86733540-6548-11eb-a7d4-295ea2f68a3b.gif\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/868d25e0-6548-11eb-a7d4-295ea2f68a3b.gif\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/9a390190-6548-11eb-a7d4-295ea2f68a3b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/9a55ff70-6548-11eb-a7d4-295ea2f68a3b.gif\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/02/43a77230-6548-11eb-a7d4-295ea2f68a3b.png"
 }
 ,
 {
@@ -2332,6 +2332,23 @@
 }
 ,
 {
+    "Name": "QGIS(书虫版)",
+    "Version": "3.32.1-fix1-cursor",
+    "Filename": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb",
+    "Torrent_address": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb.torrent",
+    "Pkgname": "org.qgis.qgis",
+    "Author": "shenmo<ouyangyunrui@uniontech.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://qgis.org/",
+    "Update": "2023-08-20 16:04:58",
+    "Size": "622.3 MB",
+    "More": "一款免费的开源地理信息系统\n\n A Geographic Information System (GIS) manages, analyzes, and displays\n databases of geographic information. QGIS supports shape file viewing and\n editing, spatial data storage with PostgreSQL/PostGIS, projection on-the-fly,\n map composition, and a number of other features via a plugin interface. QGIS\n also supports display of various georeferenced raster and Digital Elevation\n Model (DEM) formats including GeoTIFF, Arc/Info ASCII Grid, and USGS ASCII\n DEM.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/0242916c1eca488e98137daf10193c4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/74a9c8eefd83424490112c7fd3e4c1f1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/20/cc2dabfeb636416fa76e62ba58a53540.png"
+}
+,
+{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Filename": "open-in-terminal-tool_1.0.1_all.deb",
@@ -2348,23 +2365,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_2.png\"]"
 }
 
-,
-{
-    "Name": "QGIS(书虫版)",
-    "Version": "3.32.1-fix1-cursor",
-    "Filename": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb",
-    "Torrent_address": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb.torrent",
-    "Pkgname": "org.qgis.qgis",
-    "Author": "shenmo<ouyangyunrui@uniontech.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://qgis.org/",
-    "Update": "2023-08-20 16:04:58",
-    "Size": "622.3 MB",
-    "More": "一款免费的开源地理信息系统\n\n A Geographic Information System (GIS) manages, analyzes, and displays\n databases of geographic information. QGIS supports shape file viewing and\n editing, spatial data storage with PostgreSQL/PostGIS, projection on-the-fly,\n map composition, and a number of other features via a plugin interface. QGIS\n also supports display of various georeferenced raster and Digital Elevation\n Model (DEM) formats including GeoTIFF, Arc/Info ASCII Grid, and USGS ASCII\n DEM.",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/0242916c1eca488e98137daf10193c4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/74a9c8eefd83424490112c7fd3e4c1f1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/20/cc2dabfeb636416fa76e62ba58a53540.png"
-}
 ,
 {
    "Name":"一键息屏 one key shut screen",
@@ -2550,6 +2550,22 @@
 }
 ,
 {
+    "Name": "海天鹰时钟",
+    "Version": "1.0",
+    "Filename": "com.htyclock.spark_1.0_amd64.deb",
+    "Pkgname": "com.htyclock.spark",
+    "Author": "海天鹰",
+    "Contributor": "gfdgd xi",
+    "Website": "https://github.com/sonichy/HTYClock",
+    "Update": "2021-01-02 07:13:22",
+    "Size": "110.87 KB",
+    "More": "一个小时钟",
+    "Tags": "community;deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/b23e0ac0-4cc9-11eb-89fb-bf4424610143.gif\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/02/b4fba420-4cc9-11eb-89fb-bf4424610143.png"
+}
+,
+{
     "Name": "安卓信息查看器(adb)",
     "Version": "0.1.1-20230817",
     "Filename": "z-tools-adbmanager_0.1.1-20230817_amd64.deb",
@@ -2564,22 +2580,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/17/7e95222de2df4e8cb06e5766ae78610c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/17/38e21561bc794278b31f6c869edff8a8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/17/2997e98fdb2248098275d5397fa21bed.png"
-}
-,
-{
-    "Name": "海天鹰时钟",
-    "Version": "1.0",
-    "Filename": "com.htyclock.spark_1.0_amd64.deb",
-    "Pkgname": "com.htyclock.spark",
-    "Author": "海天鹰",
-    "Contributor": "gfdgd xi",
-    "Website": "https://github.com/sonichy/HTYClock",
-    "Update": "2021-01-02 07:13:22",
-    "Size": "110.87 KB",
-    "More": "一个小时钟",
-    "Tags": "community;deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/b23e0ac0-4cc9-11eb-89fb-bf4424610143.gif\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/02/b4fba420-4cc9-11eb-89fb-bf4424610143.png"
 }
 ,
 {
@@ -3219,23 +3219,6 @@
 
 ,
 {
-    "Name": "CPU 排名搜索工具",
-    "Version": "0.1-20231206",
-    "Filename": "cpu-rank-search_0.1-20231206_amd64.deb",
-    "Torrent_address": "cpu-rank-search_0.1-20231206_amd64.deb.torrent",
-    "Pkgname": "cpu-rank-search",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/qt.bmxc-cpu",
-    "Update": "2023-12-06 17:16:38",
-    "Size": "21.53 KB",
-    "More": "本软件基于 BMCX (便民查询) 网的数据简要，作为CPU的排名来源。\n .\n 包含一个可执行文件;\n .\n Build for Deepin20.9 through spark-deb-build.",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/2a89a282a98c49c5a0e0055076ab87e7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/be4215830ba54d0da98e2bf2e9438a2d.png"
-}
-,
-{
     "Name": "键盘检测(Wine)",
     "Version": "1.0.0",
     "Filename": "com.jianpanjiancegongju.spark_1.0.0_i386.deb",
@@ -3250,6 +3233,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/09/ce383090-d69a-11ed-8a97-15d378a127b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/09/ce5380c0-d69a-11ed-8a97-15d378a127b8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/09/c066e5b0-d69a-11ed-8a97-15d378a127b8.png"
+}
+,
+{
+    "Name": "CPU 排名搜索工具",
+    "Version": "0.1-20231206",
+    "Filename": "cpu-rank-search_0.1-20231206_amd64.deb",
+    "Torrent_address": "cpu-rank-search_0.1-20231206_amd64.deb.torrent",
+    "Pkgname": "cpu-rank-search",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/qt.bmxc-cpu",
+    "Update": "2023-12-06 17:16:38",
+    "Size": "21.53 KB",
+    "More": "本软件基于 BMCX (便民查询) 网的数据简要，作为CPU的排名来源。\n .\n 包含一个可执行文件;\n .\n Build for Deepin20.9 through spark-deb-build.",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/2a89a282a98c49c5a0e0055076ab87e7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/be4215830ba54d0da98e2bf2e9438a2d.png"
 }
 ,
 {
@@ -4330,6 +4330,23 @@
 }
 ,
 {
+    "Name": "Wine 运行器 Qemu 拓展",
+    "Version": "9.0.1~beige",
+    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1~beige_amd64.deb",
+    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1~beige_amd64.deb.torrent",
+    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
+    "Update": "2024-06-22 21:38:19",
+    "Size": "143.01 MB",
+    "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \n安装此包后在后续版本的 Wine 运行器虚拟机配置工具将支持调用该新版本的 Qemu\n\n该版本只支持 deepin23,如需支持其它系统版本的（如 deepin 20），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/d18500842b194facbb9e237e26a09c8c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/c5b2ae498c1343e6b891b6e236a38bb7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/26f9e1e9421e43119d11c36cab473dad.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/22/69d5c06a79d54f56a116108c71971100.png"
+}
+,
+{
     "Name": "Deepin Community Live CD 2.0.0 Debian Core",
     "Version": "2.0.0",
     "Filename": "live-filesystem-community-debian-core_2.0.0_amd64.deb",
@@ -4395,23 +4412,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/78a96b553baf4f978b2dffd3d84b5351.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/25/0120ae7eda7e4a4f873c7fc4ef927930.png"
-}
-,
-{
-    "Name": "Wine 运行器 Qemu 拓展",
-    "Version": "9.0.1~beige",
-    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1~beige_amd64.deb",
-    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1~beige_amd64.deb.torrent",
-    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
-    "Update": "2024-06-22 21:38:19",
-    "Size": "143.01 MB",
-    "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \n安装此包后在后续版本的 Wine 运行器虚拟机配置工具将支持调用该新版本的 Qemu\n\n该版本只支持 deepin23,如需支持其它系统版本的（如 deepin 20），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
-    "Tags": "community;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/d18500842b194facbb9e237e26a09c8c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/c5b2ae498c1343e6b891b6e236a38bb7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/26f9e1e9421e43119d11c36cab473dad.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/22/69d5c06a79d54f56a116108c71971100.png"
 }
 ,
 {
@@ -4585,6 +4585,23 @@
 }
 ,
 {
+    "Name": "时钟大师",
+    "Version": "1.5-20240517",
+    "Filename": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb",
+    "Torrent_address": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb.torrent",
+    "Pkgname": "com.gitee.xinghuo.clock",
+    "Author": "夜行者",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gitee.com/xinghuowangluo/clockwidget",
+    "Update": "2024-06-08 09:33:03",
+    "Size": "54.19 KB",
+    "More": "桌面时钟圆形钟盘设计，钟盘内为星期、时间及日期显示。可设置圆环颜色、刻度及指针颜色，同时可以设置闹钟。",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/5e2984ccd58b425f82f553dc1cde8dcf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/c05fd447264b4d579157d087f7b929e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/d10a9b5894d247cf96413130496e8ead.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/17c17f17215047d69e2b19389ea120e3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/d6cd5c8c76fe4785865048fcdca8c748.png"
+}
+,
+{
     "Name": "Advanced PassGen",
     "Version": "2.4.0spark0",
     "Filename": "com.codedead.advanced-passgen.spark_2.4.0spark0_amd64.deb",
@@ -4616,23 +4633,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/19/4ac1f35d8476465ab261b1ae074a7e01.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/19/9f863f2a73d94f5b8366e54f3012db46.png"
-}
-,
-{
-    "Name": "时钟大师",
-    "Version": "1.5-20240517",
-    "Filename": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb",
-    "Torrent_address": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb.torrent",
-    "Pkgname": "com.gitee.xinghuo.clock",
-    "Author": "夜行者",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gitee.com/xinghuowangluo/clockwidget",
-    "Update": "2024-06-08 09:33:03",
-    "Size": "54.19 KB",
-    "More": "桌面时钟圆形钟盘设计，钟盘内为星期、时间及日期显示。可设置圆环颜色、刻度及指针颜色，同时可以设置闹钟。",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/5e2984ccd58b425f82f553dc1cde8dcf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/c05fd447264b4d579157d087f7b929e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/d10a9b5894d247cf96413130496e8ead.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/17c17f17215047d69e2b19389ea120e3.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/d6cd5c8c76fe4785865048fcdca8c748.png"
 }
 ,
 {

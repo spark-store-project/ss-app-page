@@ -162,24 +162,6 @@
 
 ,
 {
-    "Author": "gfdgd xi",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "spark-photozoom_1.1_arm64.deb",
-    "More": "这是一个使用了全新的S-Spline技术的程序，对不断放大的图片保持了极佳的品质\n（我发现以前打包上传的是非官方原版的，因此重新打包，发现官方原版的 PhotoZoom Pro 8 可以正常使用）",
-    "Name": "PhotoZoom Pro 8（wine）",
-    "Pkgname": "spark-photozoom",
-    "Size": "45 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine2",
-    "Torrent_address": "spark-photozoom_1.1_arm64.deb.torrent",
-    "Update": "2023-03-05 19:35:49",
-    "Version": "1.1",
-    "Website": "https://www.benvista.com/",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/spark-photozoom/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/spark-photozoom/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/spark-photozoom/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/spark-photozoom/screen_3.png\"]"
-}
-
-,
-{
     "Author": "support <support@gstarcad.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.gstarcad2023.cad_23.0.2_arm64.deb",
@@ -194,6 +176,24 @@
     "Website": "https://www.gstarcad.com",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2023.cad/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2023.cad/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2023.cad/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2023.cad/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "gfdgd xi",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "spark-photozoom_1.1_arm64.deb",
+    "More": "这是一个使用了全新的S-Spline技术的程序，对不断放大的图片保持了极佳的品质\n（我发现以前打包上传的是非官方原版的，因此重新打包，发现官方原版的 PhotoZoom Pro 8 可以正常使用）",
+    "Name": "PhotoZoom Pro 8（wine）",
+    "Pkgname": "spark-photozoom",
+    "Size": "45 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine2",
+    "Torrent_address": "spark-photozoom_1.1_arm64.deb.torrent",
+    "Update": "2023-03-05 19:35:49",
+    "Version": "1.1",
+    "Website": "https://www.benvista.com/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/spark-photozoom/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/spark-photozoom/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/spark-photozoom/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/spark-photozoom/screen_3.png\"]"
 }
 
 ,

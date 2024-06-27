@@ -1147,6 +1147,23 @@
 }
 ,
 {
+    "Name": "Microsoft Teams",
+    "Version": "1.5.00.23861",
+    "Filename": "teams_1.5.00.23861_amd64.deb",
+    "Torrent_address": "teams_1.5.00.23861_amd64.deb.torrent",
+    "Pkgname": "teams",
+    "Author": "Microsoft Corporation",
+    "Contributor": "Microsoft Corporation",
+    "Website": "https://www.microsoft.com/zh-cn/microsoft-teams/group-chat-software",
+    "Update": "2022-12-16 23:20:52",
+    "Size": "81.51 MB",
+    "More": "在家里、在办公室里以及在学校里共同创造非凡成就。\nMicrosoft Teams 成就更多可能: 随时保持联系并访问共享内容，协同进行学习、规划和创新。\n自如保持联系: 只需在一个位置即可聊天、通话和分享视频，帮助你与生活中的所有人保持密切联系。\n协同实现大有作为: 共享文档和文件始终可用，您可以随时创建、共享和交换创意，并让事情协同向前发展。\n随时了解最新动态: 当你需要的所有优质应用和功能触手可及时，你就会变得更加专注和高效。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/16/794b9c50f6664bbb8692d6ad61b7b6a5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/16/7d8baeefcf804cff9dab737a1bdccb02.png"
+}
+,
+{
     "Name": "幕布（wine）",
     "Version": "4.0.3spark4",
     "Filename": "com.mubu.spark_4.0.3spark4_all.deb",
@@ -1178,23 +1195,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/2a572d978d8340c397b5b78b1cffb520.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/d52fa7b991cd409fb29b3349c35992bb.png"
-}
-,
-{
-    "Name": "Microsoft Teams",
-    "Version": "1.5.00.23861",
-    "Filename": "teams_1.5.00.23861_amd64.deb",
-    "Torrent_address": "teams_1.5.00.23861_amd64.deb.torrent",
-    "Pkgname": "teams",
-    "Author": "Microsoft Corporation",
-    "Contributor": "Microsoft Corporation",
-    "Website": "https://www.microsoft.com/zh-cn/microsoft-teams/group-chat-software",
-    "Update": "2022-12-16 23:20:52",
-    "Size": "81.51 MB",
-    "More": "在家里、在办公室里以及在学校里共同创造非凡成就。\nMicrosoft Teams 成就更多可能: 随时保持联系并访问共享内容，协同进行学习、规划和创新。\n自如保持联系: 只需在一个位置即可聊天、通话和分享视频，帮助你与生活中的所有人保持密切联系。\n协同实现大有作为: 共享文档和文件始终可用，您可以随时创建、共享和交换创意，并让事情协同向前发展。\n随时了解最新动态: 当你需要的所有优质应用和功能触手可及时，你就会变得更加专注和高效。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/16/794b9c50f6664bbb8692d6ad61b7b6a5.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/16/7d8baeefcf804cff9dab737a1bdccb02.png"
 }
 ,
 {
@@ -1384,22 +1384,6 @@
 }
 ,
 {
-    "Name": "语雀（web）",
-    "Version": "1.0spark0",
-    "Filename": "web-yuque_1.0spark0_amd64.deb",
-    "Pkgname": "web-yuque",
-    "Author": "阿里支付宝",
-    "Contributor": "sgb76",
-    "Website": "https://www.yuque.com/",
-    "Update": "2020-11-25 15:20:51",
-    "Size": "16.29 KB",
-    "More": "专业的云端知识库，面向个人和团队，提供与众不同的知识管理，打造轻松流畅的工作协同。已知问题：打开应用后无法输入中文。临时解决办法：应用内出现输入框界面后，可以先随意打开一个别的应用（比如文件管理器）窗口再关闭，然后就可以正常输入中文了。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/93e4cb00-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/988973e0-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/9c54d3c0-2f31-11eb-afff-ebd060f2ab0f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/25/86050130-2f31-11eb-afff-ebd060f2ab0f.png"
-}
-,
-{
     "Name": "稻壳阅读器（Wine）",
     "Version": "2.2.21spark0",
     "Filename": "com.docbox.spark_2.2.21spark0_all.deb",
@@ -1414,6 +1398,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/5c2f33d74069430c91f2fa89b8aacc64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/48a877bb6bfa486aa4ca01aaea41916a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/21/e89c98d38e6f464d8b1bb33fd04b1501.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/21/cf30b76596e745aaafbf3f347a413e12.png"
+}
+,
+{
+    "Name": "语雀（web）",
+    "Version": "1.0spark0",
+    "Filename": "web-yuque_1.0spark0_amd64.deb",
+    "Pkgname": "web-yuque",
+    "Author": "阿里支付宝",
+    "Contributor": "sgb76",
+    "Website": "https://www.yuque.com/",
+    "Update": "2020-11-25 15:20:51",
+    "Size": "16.29 KB",
+    "More": "专业的云端知识库，面向个人和团队，提供与众不同的知识管理，打造轻松流畅的工作协同。已知问题：打开应用后无法输入中文。临时解决办法：应用内出现输入框界面后，可以先随意打开一个别的应用（比如文件管理器）窗口再关闭，然后就可以正常输入中文了。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/93e4cb00-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/988973e0-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/9c54d3c0-2f31-11eb-afff-ebd060f2ab0f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/25/86050130-2f31-11eb-afff-ebd060f2ab0f.png"
 }
 ,
 {
@@ -2100,6 +2100,23 @@
 }
 ,
 {
+    "Name": "WPS Office 365",
+    "Version": "12.8.2.16969.AK.preload.sw",
+    "Filename": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb",
+    "Torrent_address": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb.torrent",
+    "Pkgname": "wps-office-365",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://wps-community.org",
+    "Update": "2024-06-16 10:13:44",
+    "Size": "722.16 MB",
+    "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/819a4c6aea004b1bb9059da5c1511085.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6bd9ad01e587436fb9ca5e74ef078921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/76097ef94d21409091dbcada9fcefe7c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/2dffce17cb754c4a8407d85de5511bc2.png"
+}
+,
+{
     "Name": "网龙 Office",
     "Version": "1.0.20.837.23ZH",
     "Filename": "com.netchina.ndoffice-stable_1.0.20.837.23ZH_amd64.deb",
@@ -2199,23 +2216,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/18/c4c0baf341c24547bd0eac07551174bb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/18/0a8d2e87c0924b2990f8a2dfb5845f66.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/18/02001d818dd1479389d1cf69489f6571.png"
-}
-,
-{
-    "Name": "WPS Office 365",
-    "Version": "12.8.2.16969.AK.preload.sw",
-    "Filename": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb",
-    "Torrent_address": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb.torrent",
-    "Pkgname": "wps-office-365",
-    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://wps-community.org",
-    "Update": "2024-06-16 10:13:44",
-    "Size": "722.16 MB",
-    "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/819a4c6aea004b1bb9059da5c1511085.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6bd9ad01e587436fb9ca5e74ef078921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/76097ef94d21409091dbcada9fcefe7c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/2dffce17cb754c4a8407d85de5511bc2.png"
 }
 ,
 {
@@ -2337,6 +2337,22 @@
 }
 ,
 {
+    "Name": "360安全云盘",
+    "Version": "1.0.0.1013",
+    "Filename": "cn.360.cloud_1.0.0.1013_amd64.deb",
+    "Pkgname": "cn.360.cloud",
+    "Author": "360官方",
+    "Contributor": "清怨",
+    "Website": "https://yunpan.360.cn/",
+    "Update": "2021-01-29 20:02:18",
+    "Size": "21.25 MB",
+    "More": "支持国产龙芯、兆芯、飞腾芯片\n管理云端文件，上传下载备份文",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/c8011f30-6229-11eb-887e-6339da1850f7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/29/aa842420-6229-11eb-887e-6339da1850f7.jpg"
+}
+,
+{
     "Name": "Li文件浏览器",
     "Version": "24.6.7~beta",
     "Filename": "lwleen-file_24.6.7~beta_amd64.deb",
@@ -2384,22 +2400,6 @@
     "Tags": "deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/24165390-5efa-11eb-9627-610ae2c0210b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/2d9c6030-5efa-11eb-9627-610ae2c0210b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/33361770-5efa-11eb-9627-610ae2c0210b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/25/1d005c90-5efa-11eb-9627-610ae2c0210b.png"
-}
-,
-{
-    "Name": "360安全云盘",
-    "Version": "1.0.0.1013",
-    "Filename": "cn.360.cloud_1.0.0.1013_amd64.deb",
-    "Pkgname": "cn.360.cloud",
-    "Author": "360官方",
-    "Contributor": "清怨",
-    "Website": "https://yunpan.360.cn/",
-    "Update": "2021-01-29 20:02:18",
-    "Size": "21.25 MB",
-    "More": "支持国产龙芯、兆芯、飞腾芯片\n管理云端文件，上传下载备份文",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/c8011f30-6229-11eb-887e-6339da1850f7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/29/aa842420-6229-11eb-887e-6339da1850f7.jpg"
 }
 ,
 {
@@ -2621,23 +2621,6 @@
 }
 ,
 {
-    "Name": "电子档案管理系统",
-    "Version": "2022.10.18-7",
-    "Filename": "com.hsl.amis_2022.10.18-7_amd64.deb",
-    "Torrent_address": "com.hsl.amis_2022.10.18-7_amd64.deb.torrent",
-    "Pkgname": "com.hsl.amis",
-    "Author": "028-87670336 15884401691",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "不知道",
-    "Update": "2023-05-30 22:18:39",
-    "Size": "55.16 MB",
-    "More": "1、支持文书档案、科技档案、党员档案、干部人事档案、会计档案等多种类型档案；\n2、支持国产操作系统，数据可以在各操作系统之间无缝迁移；\n3、支持档案收集、档案管理、档案利用、档案检索、全文检索；\n4、支持通过网络查询档案和全文检索档案，在线浏览PDF、ODF、JPG电子文件；\n5、支持多全宗、自定义档案类型、档案条目、档案报表等；\n6、支持EXCEL导入、导出档案目录，批量挂接电子文件；\n7、功能强大、数据配置灵活，适应各类型的档案；\n8、界面清晰,容易上手；\n9、电话：028-87670336，15884401691（微信同号）",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/34e2cc284587418dad37fbd7ebee2bfa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/06e778c904a34b16993167090ed8430b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/492416581292491da172a665316072c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/17cf7932aa654c5ca2829a23413e608e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/fdc889d3c24b40379d4154c39e4ac4d0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/30/a60bfd2f1f884ee39502f8168338e8db.png"
-}
-,
-{
     "Name": "搜狗输入法UOS版语言数据包",
     "Version": "1.0.0",
     "Filename": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb",
@@ -2652,6 +2635,23 @@
     "Tags": "uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/442ae1d904d449249264283f3df7cd1f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/dbc5adabad134395874f57c34aa9ffe2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/3043006c16644596818679607634c83c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/8da17b09e48d4450b3a4000646d53d31.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/bd8e4b080a744d7da23846b40f5af8d4.png"
+}
+,
+{
+    "Name": "电子档案管理系统",
+    "Version": "2022.10.18-7",
+    "Filename": "com.hsl.amis_2022.10.18-7_amd64.deb",
+    "Torrent_address": "com.hsl.amis_2022.10.18-7_amd64.deb.torrent",
+    "Pkgname": "com.hsl.amis",
+    "Author": "028-87670336 15884401691",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "不知道",
+    "Update": "2023-05-30 22:18:39",
+    "Size": "55.16 MB",
+    "More": "1、支持文书档案、科技档案、党员档案、干部人事档案、会计档案等多种类型档案；\n2、支持国产操作系统，数据可以在各操作系统之间无缝迁移；\n3、支持档案收集、档案管理、档案利用、档案检索、全文检索；\n4、支持通过网络查询档案和全文检索档案，在线浏览PDF、ODF、JPG电子文件；\n5、支持多全宗、自定义档案类型、档案条目、档案报表等；\n6、支持EXCEL导入、导出档案目录，批量挂接电子文件；\n7、功能强大、数据配置灵活，适应各类型的档案；\n8、界面清晰,容易上手；\n9、电话：028-87670336，15884401691（微信同号）",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/34e2cc284587418dad37fbd7ebee2bfa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/06e778c904a34b16993167090ed8430b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/492416581292491da172a665316072c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/17cf7932aa654c5ca2829a23413e608e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/fdc889d3c24b40379d4154c39e4ac4d0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/30/a60bfd2f1f884ee39502f8168338e8db.png"
 }
 ,
 {
@@ -3622,6 +3622,23 @@
 }
 ,
 {
+    "Name": "白杉树背单词训练软件",
+    "Version": "2.1.1",
+    "Filename": "bssenglish_2.1.1_all.deb",
+    "Torrent_address": "bssenglish_2.1.1_all.deb.torrent",
+    "Pkgname": "bssenglish",
+    "Author": "Bail <2915289604@qq.com>",
+    "Contributor": "Bail <2915289604@qq.com>",
+    "Website": "https://BailPlus.github.io/bssenglish.pages/",
+    "Update": "2023-08-16 22:55:07",
+    "Size": "25.18 KB",
+    "More": "帮助你更快速、更牢固地记忆单词",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/16/c4936220-3c44-11ee-a552-55bad39b105e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/16/c5eb5100-3c44-11ee-a552-55bad39b105e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/16/c71a0d00-3c44-11ee-a552-55bad39b105e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/16/c8781660-3c44-11ee-a552-55bad39b105e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/16/c38351b0-3c44-11ee-a552-55bad39b105e.png"
+}
+,
+{
     "Name": "想学吗",
     "Version": "6.4.9",
     "Filename": "xiangxuema.spark_6.4.9_amd64.deb",
@@ -3635,6 +3652,23 @@
     "Tags": "deepin;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/07/e27e1b10-20ca-11eb-8b68-e56d9275241d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/07/ea2dba00-20ca-11eb-8b68-e56d9275241d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/07/d44beb80-20ca-11eb-8b68-e56d9275241d.png"
+}
+,
+{
+    "Name": "文心一言（web）",
+    "Version": "1.0",
+    "Filename": "com.yiyan.uos_1.0_amd64.deb",
+    "Torrent_address": "com.yiyan.uos_1.0_amd64.deb.torrent",
+    "Pkgname": "com.yiyan.uos",
+    "Author": "<zhuyanlong@uniontech.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://yiyan.baidu.com/?utm_source=uos",
+    "Update": "2024-06-15 20:22:08",
+    "Size": "72.29 MB",
+    "More": "1、文心一言由文心大模型驱动，具备理解、生成、逻辑、记忆四大基础能力。当前文心大模型已升级至4.0版本，能够帮助你轻松搞定各类复杂任务。\n理解能力：听得懂潜台词、复杂句式、专业术语，今天，人类说的每一句话，它大概率都能听懂！\n生成能力：快速生成文本、代码、图片、图表、视频，今天，人类目光所致的所有内容，它几乎都能生成！\n逻辑能力： 复杂的逻辑难题、困难的数学计算、重要的职业/生活决策统统能帮你解决，情商智商双商在线！\n记忆能力：不仅有高性能，更有好记性。N轮对话过后，你话里的重点，它总会记得，帮你步步精进，解决复杂任务！\n2、文心一言是你工作、学习、生活中省时提效的好帮手；是你闲暇时刻娱乐打趣的好伙伴；也是你需要倾诉陪伴时的好朋友。在你人生旅途经历的每个阶段、面对的各种场景中，文心一言7*24小时在线，伴你左右。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/a41a95ff5ac0478384e7173599fb7cbc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/38ba0bfcb5a741858da5b97a8d9ca465.png"
 }
 ,
 {
@@ -3668,23 +3702,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/02/d45eeff0-c9e8-11ec-828b-b13e135b351f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/02/d6c4f370-c9e8-11ec-828b-b13e135b351f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/02/cef1ee00-c9e8-11ec-828b-b13e135b351f.png"
-}
-,
-{
-    "Name": "白杉树背单词训练软件",
-    "Version": "2.1.1",
-    "Filename": "bssenglish_2.1.1_all.deb",
-    "Torrent_address": "bssenglish_2.1.1_all.deb.torrent",
-    "Pkgname": "bssenglish",
-    "Author": "Bail <2915289604@qq.com>",
-    "Contributor": "Bail <2915289604@qq.com>",
-    "Website": "https://BailPlus.github.io/bssenglish.pages/",
-    "Update": "2023-08-16 22:55:07",
-    "Size": "25.18 KB",
-    "More": "帮助你更快速、更牢固地记忆单词",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/16/c4936220-3c44-11ee-a552-55bad39b105e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/16/c5eb5100-3c44-11ee-a552-55bad39b105e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/16/c71a0d00-3c44-11ee-a552-55bad39b105e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/16/c8781660-3c44-11ee-a552-55bad39b105e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/16/c38351b0-3c44-11ee-a552-55bad39b105e.png"
 }
 ,
 {
@@ -3768,23 +3785,6 @@
 }
 ,
 {
-    "Name": "文心一言（web）",
-    "Version": "1.0",
-    "Filename": "com.yiyan.uos_1.0_amd64.deb",
-    "Torrent_address": "com.yiyan.uos_1.0_amd64.deb.torrent",
-    "Pkgname": "com.yiyan.uos",
-    "Author": "<zhuyanlong@uniontech.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://yiyan.baidu.com/?utm_source=uos",
-    "Update": "2024-06-15 20:22:08",
-    "Size": "72.29 MB",
-    "More": "1、文心一言由文心大模型驱动，具备理解、生成、逻辑、记忆四大基础能力。当前文心大模型已升级至4.0版本，能够帮助你轻松搞定各类复杂任务。\n理解能力：听得懂潜台词、复杂句式、专业术语，今天，人类说的每一句话，它大概率都能听懂！\n生成能力：快速生成文本、代码、图片、图表、视频，今天，人类目光所致的所有内容，它几乎都能生成！\n逻辑能力： 复杂的逻辑难题、困难的数学计算、重要的职业/生活决策统统能帮你解决，情商智商双商在线！\n记忆能力：不仅有高性能，更有好记性。N轮对话过后，你话里的重点，它总会记得，帮你步步精进，解决复杂任务！\n2、文心一言是你工作、学习、生活中省时提效的好帮手；是你闲暇时刻娱乐打趣的好伙伴；也是你需要倾诉陪伴时的好朋友。在你人生旅途经历的每个阶段、面对的各种场景中，文心一言7*24小时在线，伴你左右。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/a41a95ff5ac0478384e7173599fb7cbc.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/38ba0bfcb5a741858da5b97a8d9ca465.png"
-}
-,
-{
     "Name": "学而思网校",
     "Version": "1.0",
     "Filename": "com.xueersi.wangxiao_1.0_amd64.deb",
@@ -3832,6 +3832,23 @@
     "Tags": "uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/26/e2311120-4759-11eb-97de-f50fc71ac830.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/26/5f9c43b0-4759-11eb-97de-f50fc71ac830.png"
+}
+,
+{
+    "Name": "全能王PDF转换软件",
+    "Version": "2.0.1.2spark0",
+    "Filename": "com.quannengpdfconvert.spark_2.0.1.2spark0_all.deb",
+    "Torrent_address": "com.quannengpdfconvert.spark_2.0.1.2spark0_all.deb.torrent",
+    "Pkgname": "com.quannengpdfconvert.spark",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.360qnw.com/",
+    "Update": "2024-05-01 15:23:19",
+    "Size": "58.48 MB",
+    "More": "支持PDF转Word，Word转PDF，PDF转Excel，PDF转图片，PPT转PDF等文档文件互转。全能王PDF转换软件是一款专业PDF文件转换处理软件，支持多种格式互转，如WORD转PDF，EXCEL转PDF，图片转PDF。同时还支持 PDF压缩、PDF合并、PDF拆分、PDF提取等功能，支持多个PDF文件批量转换，轻松快捷，是办公人员必备的PDF转换工具。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/090c786373ba406e8ede86cb37641fe8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/06794672562b40b587fd1fdd2ce045a0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/bec8c80fc44d46b0bbb4fbf68fc34745.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/01/204d45a2af3b41c0b2e78b699db938b3.png"
 }
 ,
 {
@@ -3950,23 +3967,6 @@
 }
 ,
 {
-    "Name": "全能王PDF转换软件",
-    "Version": "2.0.1.2spark0",
-    "Filename": "com.quannengpdfconvert.spark_2.0.1.2spark0_all.deb",
-    "Torrent_address": "com.quannengpdfconvert.spark_2.0.1.2spark0_all.deb.torrent",
-    "Pkgname": "com.quannengpdfconvert.spark",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.360qnw.com/",
-    "Update": "2024-05-01 15:23:19",
-    "Size": "58.48 MB",
-    "More": "支持PDF转Word，Word转PDF，PDF转Excel，PDF转图片，PPT转PDF等文档文件互转。全能王PDF转换软件是一款专业PDF文件转换处理软件，支持多种格式互转，如WORD转PDF，EXCEL转PDF，图片转PDF。同时还支持 PDF压缩、PDF合并、PDF拆分、PDF提取等功能，支持多个PDF文件批量转换，轻松快捷，是办公人员必备的PDF转换工具。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/090c786373ba406e8ede86cb37641fe8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/06794672562b40b587fd1fdd2ce045a0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/bec8c80fc44d46b0bbb4fbf68fc34745.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/01/204d45a2af3b41c0b2e78b699db938b3.png"
-}
-,
-{
     "Name": "GitMind",
     "Version": "23.12.14spark0",
     "Filename": "cn.gitmind.spark_23.12.14spark0_all.deb",
@@ -4013,6 +4013,23 @@
     "Tags": "community;ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/876dcf30-c76f-11eb-a635-71e04c3946d8.svg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/895c7fd0-c76f-11eb-a635-71e04c3946d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/8b5e1c30-c76f-11eb-a635-71e04c3946d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/8e383e40-c76f-11eb-a635-71e04c3946d8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/07/81a58de0-c76f-11eb-a635-71e04c3946d8.png"
+}
+,
+{
+    "Name": "office2010 deepinV23版",
+    "Version": "14.0.0",
+    "Filename": "spark.office2010-runner.com_14.0.0_all.deb",
+    "Torrent_address": "spark.office2010-runner.com_14.0.0_all.deb.torrent",
+    "Pkgname": "spark.office2010-runner.com",
+    "Author": "microsofft",
+    "Contributor": "洗头 乐  ",
+    "Website": "https://www.microsoft.com/zh-cn",
+    "Update": "2024-06-09 07:42:44",
+    "Size": "1.01 GB",
+    "More": "会用的都会用",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceaa6660-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceddd270-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/cecfc8b0-25ef-11ef-a857-8d6ee211e447.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/09/c8f47490-25ef-11ef-a857-8d6ee211e447.png"
 }
 ,
 {
@@ -4142,23 +4159,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/08/8401dcf0-4e32-11ee-92f8-0391c2a09c9c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/08/ee909c50-4e32-11ee-92f8-0391c2a09c9c.png"
-}
-,
-{
-    "Name": "office2010 deepinV23版",
-    "Version": "14.0.0",
-    "Filename": "spark.office2010-runner.com_14.0.0_all.deb",
-    "Torrent_address": "spark.office2010-runner.com_14.0.0_all.deb.torrent",
-    "Pkgname": "spark.office2010-runner.com",
-    "Author": "microsofft",
-    "Contributor": "洗头 乐  ",
-    "Website": "https://www.microsoft.com/zh-cn",
-    "Update": "2024-06-09 07:42:44",
-    "Size": "1.01 GB",
-    "More": "会用的都会用",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceaa6660-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceddd270-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/cecfc8b0-25ef-11ef-a857-8d6ee211e447.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/09/c8f47490-25ef-11ef-a857-8d6ee211e447.png"
 }
 ,
 {
