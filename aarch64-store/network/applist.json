@@ -19,14 +19,14 @@
 ,
 {
     "Name": "Firefox火狐浏览器",
-    "Version": "125.0.3+build1-0ubuntu0.22.04.1~mt1",
-    "Filename": "firefox-spark_125.0.3_plus_build1-0ubuntu0.22.04.1~mt1_arm64.deb",
-    "Torrent_address": "firefox-spark_125.0.3_plus_build1-0ubuntu0.22.04.1~mt1_arm64.deb.torrent",
+    "Version": "127.0.2+build1-0ubuntu0.22.04.1~mt1",
+    "Filename": "firefox-spark_127.0.2_plus_build1-0ubuntu0.22.04.1~mt1_arm64.deb",
+    "Torrent_address": "firefox-spark_127.0.2_plus_build1-0ubuntu0.22.04.1~mt1_arm64.deb.torrent",
     "Pkgname": "firefox-spark",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://gitee.com/spark-building-service/firefox-spark-arm",
-    "Update": "2024-06-21 17:58:08",
+    "Update": "2024-06-28 17:33:36",
     "Size": "56M",
     "More": "Firefox最新版。适用于Ubuntu 2204/Debian 12/deepin23. 其他用户请使用firefox-spark-ace.\n重复，请使用firefox-spark-ace\n重复，请使用firefox-spark-ace\n重复，请使用firefox-spark-ace\n\n请安装  spk://store/network/firefox-spark-ace\n复制上一行的spk到搜索栏回车以前往",
     "Tags": "ubuntu;deepin",
@@ -429,24 +429,6 @@
 
 ,
 {
-    "Author": "gfdgd xi<3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "spark-thundermini_1.0_arm64.deb",
-    "More": "一个简简单单的迅雷精简版",
-    "Name": "迅雷精简版",
-    "Pkgname": "spark-thundermini",
-    "Size": "9262 Kb",
-    "Tags": "uos;dwine5",
-    "Torrent_address": "spark-thundermini_1.0_arm64.deb.torrent",
-    "Update": "2023-03-05 19:36:38",
-    "Version": "1.0",
-    "Website": "https://www.xunlei.com/",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_4.png\"]"
-}
-
-,
-{
     "Author": "zzzgydi, wonfen, MystiPanda",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "clash-verge_1.6.6_arm64.deb",
@@ -461,6 +443,24 @@
     "Website": "https://clash-verge-rev.github.io/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "gfdgd xi<3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "spark-thundermini_1.0_arm64.deb",
+    "More": "一个简简单单的迅雷精简版",
+    "Name": "迅雷精简版",
+    "Pkgname": "spark-thundermini",
+    "Size": "9262 Kb",
+    "Tags": "uos;dwine5",
+    "Torrent_address": "spark-thundermini_1.0_arm64.deb.torrent",
+    "Update": "2023-03-05 19:36:38",
+    "Version": "1.0",
+    "Website": "https://www.xunlei.com/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/spark-thundermini/screen_4.png\"]"
 }
 
 ,
@@ -537,24 +537,6 @@
 
 ,
 {
-    "Author": "chenky177@chinatelecom.cn",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.dlife.ecloud_1.0.0.0_arm64.deb",
-    "More": "天翼云盘的linux原生版本",
-    "Name": "天翼云盘",
-    "Pkgname": "com.dlife.ecloud",
-    "Size": "14 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "com.dlife.ecloud_1.0.0.0_arm64.deb.torrent",
-    "Update": "2023-11-05 13:16:32",
-    "Version": "1.0.0.0",
-    "Website": "https://cloud.189.cn/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.dlife.ecloud/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.dlife.ecloud/screen_1.png\"]"
-}
-
-,
-{
     "Author": "xretia <webmaster@xretia.labs>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "cn.speedtest.master_1.6.1_arm64.deb",
@@ -569,6 +551,24 @@
     "Website": "https://gitlab.com/dfc643/speedtest-cn/",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "chenky177@chinatelecom.cn",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.dlife.ecloud_1.0.0.0_arm64.deb",
+    "More": "天翼云盘的linux原生版本",
+    "Name": "天翼云盘",
+    "Pkgname": "com.dlife.ecloud",
+    "Size": "14 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.dlife.ecloud_1.0.0.0_arm64.deb.torrent",
+    "Update": "2023-11-05 13:16:32",
+    "Version": "1.0.0.0",
+    "Website": "https://cloud.189.cn/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.dlife.ecloud/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.dlife.ecloud/screen_1.png\"]"
 }
 
 ,

@@ -1113,6 +1113,23 @@
 }
 ,
 {
+    "Name": "小书匠markdown编辑器",
+    "Version": "8.13.0",
+    "Filename": "com.story-writer.spark_8.13.0_amd64.deb",
+    "Torrent_address": "com.story-writer.spark_8.13.0_amd64.deb.torrent",
+    "Pkgname": "com.story-writer.spark",
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "http://soft.xiaoshujiang.com/",
+    "Update": "2024-04-02 12:40:22",
+    "Size": "125.38 MB",
+    "More": "一款专注个性自由开放灵活的笔记软件\n开始写作\n激发你的写作热情\n促进你的写作时效\n沉淀你的知识宝藏\n开拓你的第二大脑\n就现在\n一起和小书匠\n在文字里，在生活里\n披荆斩棘\n享受成长的快乐",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/02/a8c1f4bc22e34a0f8a12f5ba435674aa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/02/3bc19b4296524ce19a7973bd4c31de8d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/02/43b935d212444000bdb06395db7885bf.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/02/79b404d8e06e4558b3da3675bf17e9f1.png"
+}
+,
+{
     "Name": "云看盘",
     "Version": "1.2.3.1",
     "Filename": "com.yunkanpan.numnode_1.2.3.1_amd64.deb",
@@ -1130,20 +1147,20 @@
 }
 ,
 {
-    "Name": "小书匠markdown编辑器",
-    "Version": "8.13.0",
-    "Filename": "com.story-writer.spark_8.13.0_amd64.deb",
-    "Torrent_address": "com.story-writer.spark_8.13.0_amd64.deb.torrent",
-    "Pkgname": "com.story-writer.spark",
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "http://soft.xiaoshujiang.com/",
-    "Update": "2024-04-02 12:40:22",
-    "Size": "125.38 MB",
-    "More": "一款专注个性自由开放灵活的笔记软件\n开始写作\n激发你的写作热情\n促进你的写作时效\n沉淀你的知识宝藏\n开拓你的第二大脑\n就现在\n一起和小书匠\n在文字里，在生活里\n披荆斩棘\n享受成长的快乐",
+    "Name": "QQ邮箱(web)",
+    "Version": "1.0",
+    "Filename": "web-qqmail_1.0_amd64.deb",
+    "Torrent_address": "web-qqmail_1.0_amd64.deb.torrent",
+    "Pkgname": "web-qqmail",
+    "Author": "腾讯",
+    "Contributor": "heymu66",
+    "Website": "mail.qq.com",
+    "Update": "2023-02-12 12:45:35",
+    "Size": "16.23 KB",
+    "More": "QQ邮箱web，使用星火网页打包工具打包。",
     "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/02/a8c1f4bc22e34a0f8a12f5ba435674aa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/02/3bc19b4296524ce19a7973bd4c31de8d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/02/43b935d212444000bdb06395db7885bf.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/02/79b404d8e06e4558b3da3675bf17e9f1.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/2a572d978d8340c397b5b78b1cffb520.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/d52fa7b991cd409fb29b3349c35992bb.png"
 }
 ,
 {
@@ -1178,23 +1195,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/17/ce81fb81486b4bcab5bb5976ff5caffb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/17/4a93a2ffc193488f993a09fc21a49c3b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/17/73319cc2dd8e42698315811fd503db72.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/17/eee160eba9d84825a1dded2faa075540.png"
-}
-,
-{
-    "Name": "QQ邮箱(web)",
-    "Version": "1.0",
-    "Filename": "web-qqmail_1.0_amd64.deb",
-    "Torrent_address": "web-qqmail_1.0_amd64.deb.torrent",
-    "Pkgname": "web-qqmail",
-    "Author": "腾讯",
-    "Contributor": "heymu66",
-    "Website": "mail.qq.com",
-    "Update": "2023-02-12 12:45:35",
-    "Size": "16.23 KB",
-    "More": "QQ邮箱web，使用星火网页打包工具打包。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/2a572d978d8340c397b5b78b1cffb520.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/d52fa7b991cd409fb29b3349c35992bb.png"
 }
 ,
 {
@@ -1568,22 +1568,6 @@
 }
 ,
 {
-    "Name": "PDF OCR识别工具",
-    "Version": "0.1",
-    "Filename": "nexfia.pdf-ocr_0.1_amd64.deb",
-    "Pkgname": "nexfia.pdf-ocr",
-    "Author": "nexfia",
-    "Contributor": "nexfia",
-    "Website": "https://gitee.com/nexfia",
-    "Update": "2021-05-21 18:23:57",
-    "Size": "91.36 KB",
-    "More": "PDF扫描件OCR识别。支持中英文识别。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/21/a2e453f0-ba1e-11eb-9784-eb09de216206.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/21/9341f290-ba1e-11eb-9784-eb09de216206.svg"
-}
-,
-{
     "Name": "MIcrosoft Office Access 2007 Professional Plus（Wine）",
     "Version": "2007deepin2",
     "Filename": "com.microsoft.access.deepin_2007deepin2_i386.deb",
@@ -1598,6 +1582,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/03/4e5967d9-48bd-4317-afd9-ebdb7309345a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/03/c0323063-0d9f-4367-9beb-ee87f4e0539a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/03/298dd756-d2a9-4cbf-bc5e-0cd0eae32723.png"
+}
+,
+{
+    "Name": "PDF OCR识别工具",
+    "Version": "0.1",
+    "Filename": "nexfia.pdf-ocr_0.1_amd64.deb",
+    "Pkgname": "nexfia.pdf-ocr",
+    "Author": "nexfia",
+    "Contributor": "nexfia",
+    "Website": "https://gitee.com/nexfia",
+    "Update": "2021-05-21 18:23:57",
+    "Size": "91.36 KB",
+    "More": "PDF扫描件OCR识别。支持中英文识别。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/21/a2e453f0-ba1e-11eb-9784-eb09de216206.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/21/9341f290-ba1e-11eb-9784-eb09de216206.svg"
 }
 ,
 {
@@ -2453,23 +2453,6 @@
 }
 ,
 {
-    "Name": "微秘Linux版",
-    "Version": "4.2.4",
-    "Filename": "wemind_4.2.4_amd64.deb",
-    "Torrent_address": "wemind_4.2.4_amd64.deb.torrent",
-    "Pkgname": "wemind",
-    "Author": "微秘科技（深圳）有限公司",
-    "Contributor": "sgb76",
-    "Website": "https://wemind.cn/",
-    "Update": "2023-10-23 21:56:31",
-    "Size": "64.68 MB",
-    "More": "每个人的AI助理，一站式工作空间，私有数据库“AI + 应用 + 数据”的最佳实现 \n微秘为个人或小微团队打造专属AI助理、一站式工作空间，以及构建私有数据库。 \n\n--说明--\n目前该版本临时屏蔽了Chat AI功能，后期版本待调整后会上架AI功能",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/23/50df13900e354035863e8c3f4e2c51bd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/23/5cc5f5cdb92e4b5ba739dd0a22e163d5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/23/1a53d28d88844bfc8b08bb6d4259e714.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/23/d3092d7c9fc94e258fa4231a6a5653f8.png"
-}
-,
-{
     "Name": "极星期货客户端9.3（wine）",
     "Version": "9.3spark0",
     "Filename": "xyz.epolestar.93.spark_9.3spark0_amd64.deb",
@@ -2487,20 +2470,20 @@
 }
 ,
 {
-    "Name": "超级星学习通",
-    "Version": "1.0.0",
-    "Filename": "chaoxingstudy_1.0.0_i386.deb",
-    "Torrent_address": "chaoxingstudy_1.0.0_i386.deb.torrent",
-    "Pkgname": "chaoxingstudy",
-    "Author": "rc3583z<huawei0086@126.com>",
-    "Contributor": "rc3583z",
-    "Website": "huawei0086@126.com>",
-    "Update": "2023-04-16 09:10:55",
-    "Size": "480.5 MB",
-    "More": "学习通，完成作业。",
+    "Name": "微秘Linux版",
+    "Version": "4.2.4",
+    "Filename": "wemind_4.2.4_amd64.deb",
+    "Torrent_address": "wemind_4.2.4_amd64.deb.torrent",
+    "Pkgname": "wemind",
+    "Author": "微秘科技（深圳）有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://wemind.cn/",
+    "Update": "2023-10-23 21:56:31",
+    "Size": "64.68 MB",
+    "More": "每个人的AI助理，一站式工作空间，私有数据库“AI + 应用 + 数据”的最佳实现 \n微秘为个人或小微团队打造专属AI助理、一站式工作空间，以及构建私有数据库。 \n\n--说明--\n目前该版本临时屏蔽了Chat AI功能，后期版本待调整后会上架AI功能",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e202d70-dbf3-11ed-b7c5-79e728797698.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e32a400-dbf3-11ed-b7c5-79e728797698.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/16/2a1ddf10-dbf3-11ed-b7c5-79e728797698.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/23/50df13900e354035863e8c3f4e2c51bd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/23/5cc5f5cdb92e4b5ba739dd0a22e163d5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/23/1a53d28d88844bfc8b08bb6d4259e714.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/23/d3092d7c9fc94e258fa4231a6a5653f8.png"
 }
 ,
 {
@@ -2520,6 +2503,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.xylink.linuxclient/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.xylink.linuxclient/screen_2.png\"]"
 }
 
+,
+{
+    "Name": "超级星学习通",
+    "Version": "1.0.0",
+    "Filename": "chaoxingstudy_1.0.0_i386.deb",
+    "Torrent_address": "chaoxingstudy_1.0.0_i386.deb.torrent",
+    "Pkgname": "chaoxingstudy",
+    "Author": "rc3583z<huawei0086@126.com>",
+    "Contributor": "rc3583z",
+    "Website": "huawei0086@126.com>",
+    "Update": "2023-04-16 09:10:55",
+    "Size": "480.5 MB",
+    "More": "学习通，完成作业。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e202d70-dbf3-11ed-b7c5-79e728797698.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e32a400-dbf3-11ed-b7c5-79e728797698.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/16/2a1ddf10-dbf3-11ed-b7c5-79e728797698.png"
+}
 ,
 {
     "Name": "移动办公",
@@ -2756,6 +2756,22 @@
 }
 ,
 {
+    "Name": "智速ocr文字识别",
+    "Version": "1.1.10",
+    "Filename": "com.zhisuocr.spark_1.1.10_amd64.deb",
+    "Pkgname": "com.zhisuocr.spark",
+    "Author": "壶丘子软件科技有限责任公司",
+    "Contributor": "jerrywang",
+    "Website": "https://ocr.psing.tech",
+    "Update": "2021-01-20 15:26:40",
+    "Size": "50.42 MB",
+    "More": "专业OCR软件,识别更精准、更快速,性能卓越,识别率高",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/20/c0609ca0-5af0-11eb-bdea-55bdbb71dafd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/20/ab8d7f00-5af0-11eb-bdea-55bdbb71dafd.png"
+}
+,
+{
     "Name": "滴答清单",
     "Version": "2.0.10",
     "Filename": "dida_2.0.10_amd64.deb",
@@ -2773,19 +2789,20 @@
 }
 ,
 {
-    "Name": "智速ocr文字识别",
-    "Version": "1.1.10",
-    "Filename": "com.zhisuocr.spark_1.1.10_amd64.deb",
-    "Pkgname": "com.zhisuocr.spark",
-    "Author": "壶丘子软件科技有限责任公司",
-    "Contributor": "jerrywang",
-    "Website": "https://ocr.psing.tech",
-    "Update": "2021-01-20 15:26:40",
-    "Size": "50.42 MB",
-    "More": "专业OCR软件,识别更精准、更快速,性能卓越,识别率高",
+    "Name": "WPS Office 2016",
+    "Version": "10.1.0.6757spark1",
+    "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
+    "Torrent_address": "wps-office-2016_10.1.0.6757spark1_amd64.deb.torrent",
+    "Pkgname": "wps-office-2016",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://wps-community.org",
+    "Update": "2024-05-19 16:58:39",
+    "Size": "129.41 MB",
+    "More": "WPS Office 2016 旧版本，三组件分别独立，资源占用更小，支持类 office 2003 经典界面\n云同步功能依旧可用\n与现行的 WPS Office， 2019 冲突",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/20/c0609ca0-5af0-11eb-bdea-55bdbb71dafd.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/20/ab8d7f00-5af0-11eb-bdea-55bdbb71dafd.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
 }
 ,
 {
@@ -2887,23 +2904,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/96d42e95370f474fbd1ea35a2760a565.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/27/695781b1030448779e3a3ce1e1e51929.png"
-}
-,
-{
-    "Name": "WPS Office 2016",
-    "Version": "10.1.0.6757spark1",
-    "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
-    "Torrent_address": "wps-office-2016_10.1.0.6757spark1_amd64.deb.torrent",
-    "Pkgname": "wps-office-2016",
-    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://wps-community.org",
-    "Update": "2024-05-19 16:58:39",
-    "Size": "129.41 MB",
-    "More": "WPS Office 2016 旧版本，三组件分别独立，资源占用更小，支持类 office 2003 经典界面\n云同步功能依旧可用\n与现行的 WPS Office， 2019 冲突",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
 }
 ,
 {
@@ -3123,23 +3123,6 @@
 }
 ,
 {
-    "Name": "sleek任务清单",
-    "Version": "1.3.1",
-    "Filename": "sleek_1.3.1_amd64.deb",
-    "Torrent_address": "sleek_1.3.1_amd64.deb.torrent",
-    "Pkgname": "sleek",
-    "Author": "Robin Ahle",
-    "Contributor": "sgb76",
-    "Website": "https://github.com/ransome1/sleek#readme",
-    "Update": "2023-08-28 15:28:38",
-    "Size": "67.72 MB",
-    "More": "一款基于Todo.txt，免费且开源的任务清单软件，适用于Linux、Windows和MacOS",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/54203f70a78747e496cfc701d4bb9f0b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/754c1475c15d4f079de2be836ad5e0f6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/b6529469dcc6424abe01a544edbde65d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/28/88c2f19a7e324bc9a62d52622eb141bf.png"
-}
-,
-{
     "Name": "搜狗输入法UOS版手写数据包",
     "Version": "1.0.0",
     "Filename": "com.sogou.sogoupinyin-uos-sogouhw_1.0.0_all.deb",
@@ -3154,6 +3137,23 @@
     "Tags": "uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/5454e33df9d24fb6908d7af6f6d403aa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/fc26fb46d3e342a8bf437c20caa2d300.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/d9c96596e0614c36b94fd9656cfc818d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/67c17f068437489da609fbe6dbd4dc0f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/672cc55b20c74981956e5a0687ca10b2.png"
+}
+,
+{
+    "Name": "sleek任务清单",
+    "Version": "1.3.1",
+    "Filename": "sleek_1.3.1_amd64.deb",
+    "Torrent_address": "sleek_1.3.1_amd64.deb.torrent",
+    "Pkgname": "sleek",
+    "Author": "Robin Ahle",
+    "Contributor": "sgb76",
+    "Website": "https://github.com/ransome1/sleek#readme",
+    "Update": "2023-08-28 15:28:38",
+    "Size": "67.72 MB",
+    "More": "一款基于Todo.txt，免费且开源的任务清单软件，适用于Linux、Windows和MacOS",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/54203f70a78747e496cfc701d4bb9f0b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/754c1475c15d4f079de2be836ad5e0f6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/b6529469dcc6424abe01a544edbde65d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/28/88c2f19a7e324bc9a62d52622eb141bf.png"
 }
 ,
 {
@@ -3403,6 +3403,23 @@
 }
 ,
 {
+    "Name": "2345 PDF 转换器",
+    "Version": "2.9.0.830spark0",
+    "Filename": "com.2345pdf.spark_2.9.0.830spark0_all.deb",
+    "Torrent_address": "com.2345pdf.spark_2.9.0.830spark0_all.deb.torrent",
+    "Pkgname": "com.2345pdf.spark",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://pdfcvt.2345.cc/",
+    "Update": "2024-04-26 19:47:07",
+    "Size": "42.71 MB",
+    "More": "支持PDF与Word、PPT、Excel、图片、OFD等文件之间的互相转换，支持PDF转换成Word、图片、Excel、PPT、OFD等文件，同时也支持把Word、PPT、Excel、图片、OFD、CAJ、CAD等文件档转换为PDF文件。可以一键批量转换，转换后的文件可以在Word、Powerpoint、Excel中打开直接编辑。此外还支持PDF压缩、PDF拆分、PDF合并、PDF添加和解除密码、PDF添加水印、OCR文字识别、图片处理等特色功能。 2345PDF转换器，支持转换的文件格式丰富、转换质量超好、界面操作简单。你只需要把PDF文件拖到软件主窗口，然后点击“开始转换”按钮即可轻松完成转换，最大精准度地保留所有原始数据和布局。不同类型的文件皆可适用，下载使用即可提高工作效率。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/eb7c3c50420f4b288190af06cf78ce77.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/ede2a7aebe9d4bc9af0ff32c160dcd02.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/14cdbd1ae4094c0687cebb1d7e2049dc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/8f58b9deb050411483b2eef45a1b9295.png"
+}
+,
+{
     "Name": "口袋写作",
     "Version": "0.1.1spark0",
     "Filename": "cn.kdwrite.spark_0.1.1spark0_amd64.deb",
@@ -3434,6 +3451,23 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/09/855bcdb0-b7e6-11ec-80f0-b1165b1d9175.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/09/874e00c0-b7e6-11ec-80f0-b1165b1d9175.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/09/81c3b2d0-b7e6-11ec-80f0-b1165b1d9175.png"
+}
+,
+{
+    "Name": "希沃白板Web",
+    "Version": "1.14514",
+    "Filename": "wed-seewo_1.14514_all.deb",
+    "Torrent_address": "wed-seewo_1.14514_all.deb.torrent",
+    "Pkgname": "wed-seewo",
+    "Author": "baimacao",
+    "Contributor": "baimacao",
+    "Website": "https://enweb.seewo.com/",
+    "Update": "2024-05-22 17:50:56",
+    "Size": "29.16 KB",
+    "More": "唯一被老师认可的希沃白板，可以正常上课，web应用",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/a0ba4974dee742fcb656146be01cb321.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/49082957d0c64a059f6cadb90be58342.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/b80a658ca0594703ad75bcbd7c0abccb.png"
 }
 ,
 {
@@ -3470,23 +3504,6 @@
 }
 ,
 {
-    "Name": "2345 PDF 转换器",
-    "Version": "2.9.0.830spark0",
-    "Filename": "com.2345pdf.spark_2.9.0.830spark0_all.deb",
-    "Torrent_address": "com.2345pdf.spark_2.9.0.830spark0_all.deb.torrent",
-    "Pkgname": "com.2345pdf.spark",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://pdfcvt.2345.cc/",
-    "Update": "2024-04-26 19:47:07",
-    "Size": "42.71 MB",
-    "More": "支持PDF与Word、PPT、Excel、图片、OFD等文件之间的互相转换，支持PDF转换成Word、图片、Excel、PPT、OFD等文件，同时也支持把Word、PPT、Excel、图片、OFD、CAJ、CAD等文件档转换为PDF文件。可以一键批量转换，转换后的文件可以在Word、Powerpoint、Excel中打开直接编辑。此外还支持PDF压缩、PDF拆分、PDF合并、PDF添加和解除密码、PDF添加水印、OCR文字识别、图片处理等特色功能。 2345PDF转换器，支持转换的文件格式丰富、转换质量超好、界面操作简单。你只需要把PDF文件拖到软件主窗口，然后点击“开始转换”按钮即可轻松完成转换，最大精准度地保留所有原始数据和布局。不同类型的文件皆可适用，下载使用即可提高工作效率。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/eb7c3c50420f4b288190af06cf78ce77.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/ede2a7aebe9d4bc9af0ff32c160dcd02.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/14cdbd1ae4094c0687cebb1d7e2049dc.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/8f58b9deb050411483b2eef45a1b9295.png"
-}
-,
-{
     "Name": "boardmix",
     "Version": "1.3.7spark0",
     "Filename": "cn.boardmix.spark_1.3.7spark0_amd64.deb",
@@ -3518,23 +3535,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/12/f2407c6c51fb41b8b2873173cf5d06ec.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/12/b2c05b07054c4025918c5abccab51311.png"
-}
-,
-{
-    "Name": "希沃白板Web",
-    "Version": "1.14514",
-    "Filename": "wed-seewo_1.14514_all.deb",
-    "Torrent_address": "wed-seewo_1.14514_all.deb.torrent",
-    "Pkgname": "wed-seewo",
-    "Author": "baimacao",
-    "Contributor": "baimacao",
-    "Website": "https://enweb.seewo.com/",
-    "Update": "2024-05-22 17:50:56",
-    "Size": "29.16 KB",
-    "More": "唯一被老师认可的希沃白板，可以正常上课，web应用",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/a0ba4974dee742fcb656146be01cb321.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/49082957d0c64a059f6cadb90be58342.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/b80a658ca0594703ad75bcbd7c0abccb.png"
 }
 ,
 {
@@ -5080,6 +5080,23 @@
 }
 ,
 {
+    "Name": "Aiseesoft Free PDF Viewer",
+    "Version": "1.0",
+    "Filename": "com.aiseesoft.free-pdf-conver.deepin_1.0_all.deb",
+    "Torrent_address": "com.aiseesoft.free-pdf-conver.deepin_1.0_all.deb.torrent",
+    "Pkgname": "com.aiseesoft.free-pdf-conver.deepin",
+    "Author": "Aiseesoft 工作室",
+    "Contributor": "Aiseesoft 工作室",
+    "Website": "https://zh-cn.aiseesoft.com/free-pdf-viewer/",
+    "Update": "2024-06-17 23:22:02",
+    "Size": "7.92 MB",
+    "More": "Aiseesoft Free PDF Viewer是最好的免费PDF阅读器，它可以帮助您轻松地在PC上打开和阅读PDF文件，而不会造成任何质量损失。 它具有让您以单页或多页查看模式打开和阅读PDF文件的功能。 通过各种编辑功能，您可以流畅地查看PDF文件。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/17/5f61353e7fcf4149b55eddce326677e4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/17/cab48c0695ee45a09f62d4e6c313b53d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/17/3fb7ddfc8bd54ffca52eb0fa217eee8a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/17/959a9dc194594c0fae7ac122f95c05a7.png"
+}
+,
+{
     "Name": "Abricotine",
     "Version": "1.0.0",
     "Filename": "abricotine_1.0.0_amd64.deb",
@@ -5178,23 +5195,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/04/1e3fd6431ab54c64a26b0d24be1e85af.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/04/9809f81b32404a5dbe7a381e0dbbd918.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/04/d54d5b6ae8b64b7d94bd4ad0a657d270.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/04/0cc2d1c688284d1394bd8e0c50d29cac.png"
-}
-,
-{
-    "Name": "Aiseesoft Free PDF Viewer",
-    "Version": "1.0",
-    "Filename": "com.aiseesoft.free-pdf-conver.deepin_1.0_all.deb",
-    "Torrent_address": "com.aiseesoft.free-pdf-conver.deepin_1.0_all.deb.torrent",
-    "Pkgname": "com.aiseesoft.free-pdf-conver.deepin",
-    "Author": "Aiseesoft 工作室",
-    "Contributor": "Aiseesoft 工作室",
-    "Website": "https://zh-cn.aiseesoft.com/free-pdf-viewer/",
-    "Update": "2024-06-17 23:22:02",
-    "Size": "7.92 MB",
-    "More": "Aiseesoft Free PDF Viewer是最好的免费PDF阅读器，它可以帮助您轻松地在PC上打开和阅读PDF文件，而不会造成任何质量损失。 它具有让您以单页或多页查看模式打开和阅读PDF文件的功能。 通过各种编辑功能，您可以流畅地查看PDF文件。",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/17/5f61353e7fcf4149b55eddce326677e4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/17/cab48c0695ee45a09f62d4e6c313b53d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/17/3fb7ddfc8bd54ffca52eb0fa217eee8a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/17/959a9dc194594c0fae7ac122f95c05a7.png"
 }
 ,
 {

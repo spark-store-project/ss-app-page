@@ -233,24 +233,6 @@
 
 ,
 {
-    "Author": "maicss@126.com",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "com.appimage-installer_2.1_arm64.deb",
-    "More": "用于将AppImage格式安装包添加至启动器。",
-    "Name": "AppImage安装器",
-    "Pkgname": "com.appimage-installer",
-    "Size": "72 Kb",
-    "Tags": "community;dtk5",
-    "Torrent_address": "com.appimage-installer_2.1_arm64.deb.torrent",
-    "Update": "2023-03-05 18:26:23",
-    "Version": "2.1",
-    "Website": "无",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_3.png\"]"
-}
-
-,
-{
     "Author": "Huorong Unix Team <unix-dev@huorong.cn>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "cn.huorong.esm_2.0.7.5_arm64.deb",
@@ -265,6 +247,24 @@
     "Website": "https://huorong.cn",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.huorong.esm/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.huorong.esm/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.huorong.esm/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.huorong.esm/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "maicss@126.com",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.appimage-installer_2.1_arm64.deb",
+    "More": "用于将AppImage格式安装包添加至启动器。",
+    "Name": "AppImage安装器",
+    "Pkgname": "com.appimage-installer",
+    "Size": "72 Kb",
+    "Tags": "community;dtk5",
+    "Torrent_address": "com.appimage-installer_2.1_arm64.deb.torrent",
+    "Update": "2023-03-05 18:26:23",
+    "Version": "2.1",
+    "Website": "无",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_3.png\"]"
 }
 
 ,
@@ -786,24 +786,6 @@
 
 ,
 {
-    "Author": "zty199 <zty2864@gmail.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.5~uos_arm64.deb",
-    "More": "桌面快捷方式编辑器，帮助你快速创建桌面快捷方式，支持修改、另存为等基本文件操作。\n\n【更新日志】\nv1.4.5\n1. 重构部分代码，使用信号槽函数取代直接操作私有成员；\n2. 重新在 UOS 个人版 1030 系统中使用 Qt 5.11.3 进行编译，修复兼容性。",
-    "Name": "桌面快捷方式编辑器",
-    "Pkgname": "com.gitee.deepin-opensource.desktop-entry-editor",
-    "Size": "70 Kb",
-    "Tags": "community;deepin;uos;dtk5",
-    "Torrent_address": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.5~uos_arm64.deb.torrent",
-    "Update": "2023-03-06 21:01:25",
-    "Version": "1.4.5~uos",
-    "Website": "https://gitee.com/deepin-opensource/desktop-entry-editor",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_3.png\"]"
-}
-
-,
-{
     "Author": "Zhuhai Pantum Electronics Co., Ltd <support@pantum.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.pantum.pantum_7.4.176-1_plus_uos_arm64.deb",
@@ -818,6 +800,24 @@
     "Website": "https://www.pantum.cn/",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.pantum.pantum/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.pantum.pantum/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.pantum.pantum/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.pantum.pantum/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "zty199 <zty2864@gmail.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.5~uos_arm64.deb",
+    "More": "桌面快捷方式编辑器，帮助你快速创建桌面快捷方式，支持修改、另存为等基本文件操作。\n\n【更新日志】\nv1.4.5\n1. 重构部分代码，使用信号槽函数取代直接操作私有成员；\n2. 重新在 UOS 个人版 1030 系统中使用 Qt 5.11.3 进行编译，修复兼容性。",
+    "Name": "桌面快捷方式编辑器",
+    "Pkgname": "com.gitee.deepin-opensource.desktop-entry-editor",
+    "Size": "70 Kb",
+    "Tags": "community;deepin;uos;dtk5",
+    "Torrent_address": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.5~uos_arm64.deb.torrent",
+    "Update": "2023-03-06 21:01:25",
+    "Version": "1.4.5~uos",
+    "Website": "https://gitee.com/deepin-opensource/desktop-entry-editor",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_3.png\"]"
 }
 
 ,

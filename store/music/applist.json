@@ -689,6 +689,23 @@
 }
 ,
 {
+    "Name": "Lyricify 4",
+    "Version": "4.2.28.240502-release-wpack240503.01",
+    "Filename": "com.wxriw.lyricify4_4.2.28.240502-release-wpack240503.01_amd64.deb",
+    "Torrent_address": "com.wxriw.lyricify4_4.2.28.240502-release-wpack240503.01_amd64.deb.torrent",
+    "Pkgname": "com.wxriw.lyricify4",
+    "Author": "WXRIW <wxriw@foxmail.com>",
+    "Contributor": "Sheng Fan",
+    "Website": "https://github.com/WXRIW/Lyricify-App",
+    "Update": "2024-05-03 19:55:14",
+    "Size": "908.69 MB",
+    "More": "More than lyrics 不仅有歌词",
+    "Tags": "community;ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/95bc45d6bbb64c088a64f617fe9c1122.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/526ece2c06b14e5a8eeb0b0e53328aed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/21193eb5408b4165a7fc8dcbdbd5789e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/62aeff5a81804ab49fcd01f3af34edbf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/41aa2d3e5b5048108d3be6dbbcd86a6e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/03/cda9da7c46784982add7568172dcdab6.png"
+}
+,
+{
     "Name": "千千音乐（wine）",
     "Version": "12.1.2spark1",
     "Filename": "com.taihe.music.spark_12.1.2spark1_amd64.deb",
@@ -735,23 +752,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/25/028e4bce22d6445990c87f2ca05f11a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/25/f458f7cd25e74c628a2acc743829cad5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/25/9a665aa6e2a84bb19f283c6d8dc6ba8c.png"
-}
-,
-{
-    "Name": "Lyricify 4",
-    "Version": "4.2.28.240502-release-wpack240503.01",
-    "Filename": "com.wxriw.lyricify4_4.2.28.240502-release-wpack240503.01_amd64.deb",
-    "Torrent_address": "com.wxriw.lyricify4_4.2.28.240502-release-wpack240503.01_amd64.deb.torrent",
-    "Pkgname": "com.wxriw.lyricify4",
-    "Author": "WXRIW <wxriw@foxmail.com>",
-    "Contributor": "Sheng Fan",
-    "Website": "https://github.com/WXRIW/Lyricify-App",
-    "Update": "2024-05-03 19:55:14",
-    "Size": "908.69 MB",
-    "More": "More than lyrics 不仅有歌词",
-    "Tags": "community;ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/95bc45d6bbb64c088a64f617fe9c1122.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/526ece2c06b14e5a8eeb0b0e53328aed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/21193eb5408b4165a7fc8dcbdbd5789e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/62aeff5a81804ab49fcd01f3af34edbf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/41aa2d3e5b5048108d3be6dbbcd86a6e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/03/cda9da7c46784982add7568172dcdab6.png"
 }
 ,
 {
@@ -871,20 +871,6 @@
 }
 ,
 {
-   "Name":"i5sing",
-   "Version":"0.3.0",
-   "Filename":"i5sing_0.3.0_amd64.deb",
-   "Pkgname":"i5sing",
-   "Author":"i5sing",
-   "Contributor":"anima",
-   "Website":"https://github.com/i5sing/i5SING/",
-   "Update":"2020-08-26 11:57",
-   "Size":"82.11MB",
-   "More":"中国原创音乐基地5sing PC版。爱生活,爱音乐,爱5SING。"
-}
-
-,
-{
     "Name": "musicfox （网易云音乐命令行版）",
     "Version": "4.5.3-3",
     "Filename": "go-musicfox_4.5.3-3_amd64.deb",
@@ -900,6 +886,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/27/297cca1656de4934912bf69cc68d8e10.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/27/dea8e453b737411389cd000e1fcda218.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/27/de43cd38bca84ea88711688ec64a4d2d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/27/bc68942d16cb47fc9bb8e2dd63dde22e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/27/63f5e073ffd3472dac9be010fea4fc14.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/27/1f72f6e6bceb4787b117cd4592e7c022.png"
 }
+,
+{
+   "Name":"i5sing",
+   "Version":"0.3.0",
+   "Filename":"i5sing_0.3.0_amd64.deb",
+   "Pkgname":"i5sing",
+   "Author":"i5sing",
+   "Contributor":"anima",
+   "Website":"https://github.com/i5sing/i5SING/",
+   "Update":"2020-08-26 11:57",
+   "Size":"82.11MB",
+   "More":"中国原创音乐基地5sing PC版。爱生活,爱音乐,爱5SING。"
+}
+
 ,
 {
     "Name": "UTAU(Wine)",

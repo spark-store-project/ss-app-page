@@ -2002,27 +2002,6 @@ Description:
 License: MIT
 Vendor: Jokul <986432015@qq.com>
 
-Package: linglong-store
-Architecture: arm64
-Version: 1.2.5
-Priority: optional
-Section: default
-Maintainer: Jokul <986432015@qq.com>
-Installed-Size: 328152
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: tools/linglong-store/linglong-store_1.2.5_arm64.deb
-Size: 75983140
-MD5sum: 16d3ce80533568c6bc7ee3ca896685a7
-SHA1: 1fa441ee70c3f2e42b5356ba78e2e73c9828a344
-SHA256: 9911759e8fc5853e3f228be386459446e105f1034a8e17f4eab82b8cb8c8e96f
-SHA512: 365f225d367330de07c7e134603d6a11e1f39245c3861591ae4a72742d61f71f5120fb15e8bf75a9501c1f4dff0b25d34a021119f9cf41d36c18d6771fd6f2bc
-Homepage: https://github.com/GershonWang/linglong_store
-Description: 
-  简易式玲珑商店客户端
-License: unknown
-Vendor: Jokul <986432015@qq.com>
-
 Package: com.htyclock.spark
 Architecture: arm64
 Version: 1.0
@@ -7391,22 +7370,22 @@ Description: fast, lightweight graphical web browser
 
 Package: firefox-spark
 Architecture: arm64
-Version: 125.0.3+build1-0ubuntu0.22.04.1~mt1
+Version: 127.0.2+build1-0ubuntu0.22.04.1~mt1
 Priority: optional
 Section: utils
 Maintainer: shenmo<shenmo@spark-app.store>
 Installed-Size: 52K
-Provides: x-www-browser,gnome-www-browser,firefox(=125.0.3+build1-0ubuntu0.22.04.1~mt1)
+Provides: x-www-browser,gnome-www-browser,firefox(=127.0.2+build1-0ubuntu0.22.04.1~mt1)
 Depends: libdbus-glib-1-2,libgtk-3-0
 Recommends: speech-dispatcher
 Conflicts: firefox,firefox-spark(<=117.0)
 Replaces: firefox
-Filename: network/firefox-spark/firefox-spark_125.0.3_plus_build1-0ubuntu0.22.04.1~mt1_arm64.deb
-Size: 57685220
-MD5sum: 703fb8618890c20c717b8f79ad4c05a4
-SHA1: 996a8bb67f35d4b821c1e0f4c12602eb6bd6a24c
-SHA256: a62e3e6bb3ba4ba8cd12e5b0b807c40318739bd661312748f8ea249bcabafcca
-SHA512: 59a0deea1031823a2426ee7cd7b08e5a2ed5b8c3edf509114650faa311dd5cd311cfc985e272cb249ae453e303c95906965ffb6f2c4c29cf0a0af56a07466d6a
+Filename: network/firefox-spark/firefox-spark_127.0.2_plus_build1-0ubuntu0.22.04.1~mt1_arm64.deb
+Size: 58406404
+MD5sum: 8fc1444fed7c1da41dc106af35750bff
+SHA1: 9b586cd99d09ef070746da51c7f63d715cfab2a1
+SHA256: 6e887f09c511069a7131be1e7d6fcf3137ec8d8a17897c002e1f421637ce7a85
+SHA512: a04897b4905be9f009cf63a0056f10d3e33fd2a15958ae8dded0d705a3d47af724f7177cd8be9209a024f7f03827cb8c270cc7f85e008792d5b3995ea7e92b15
 Homepage: https://gitee.com/spark-building-service/firefox-spark-arm
 Description: 一款开源自由的浏览器
  长介绍
@@ -8329,6 +8308,27 @@ MD5sum: 6f0ffc87a2898c24ab18d8a91eee5457
 SHA1: 92aabf4d9d79483be95baf5673d0e0bebdec2473
 SHA256: a82dde51cdc7b359e895926101db34431fad0250ff011dec706c66700f1db44c
 SHA512: cc3b9e4ed14a315432fa9d33cce7b211b8f22df1ac672b7e7125783ccc0822e92b9ea190e0f0d551070c7e35c91cdbd9d56e0320f619f84edb79e93e142ace4d
+Homepage: https://im.qq.com
+Description: 
+  QQ
+License: unknown
+Vendor: Tencent <QQ-Team@tencent.com>
+
+Package: linuxqq
+Architecture: amd64
+Version: 3.2.10-25234
+Priority: optional
+Section: default
+Maintainer: Tencent <QQ-Team@tencent.com>
+Installed-Size: 516425
+Depends: libopengl0
+Recommends: libappindicator3-1
+Filename: chat/linuxqq/linuxqq_3.2.10-25234_amd64.deb
+Size: 149455420
+MD5sum: 944f8942636582d06b1b3498f41b6052
+SHA1: 3d635ae91cf1a7a68fa126b5dd5f5cf6ed582ef3
+SHA256: 087557e6d055ff0fff02ddb00632ea813cdaca2e0d2398b4e880e0c96fbe85ae
+SHA512: 10e7e623385bb179f95d9d4429b9b21ece0470e5ae49de614370e536ea51310fb29ae1cf1f01407b4932738af3159ae149c2968de33d9312dc2dd0bd099a7b2f
 Homepage: https://im.qq.com
 Description: 
   QQ

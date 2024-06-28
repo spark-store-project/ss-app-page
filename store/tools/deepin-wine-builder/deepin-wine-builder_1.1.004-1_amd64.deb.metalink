@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="deepin-wine-builder_1.1.004-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">663cdf9a86e0638999cb809a2f50d52d</hash>
+				  
+				<hash type="sha1">fb8a4cb918f1d8567fee06435cc23c7889b47d42</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/deepin-wine-builder/deepin-wine-builder_1.1.004-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://fetish.spark-app.store/store/tools/deepin-wine-builder/deepin-wine-builder_1.1.004-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://piercing.spark-app.store/store/tools/deepin-wine-builder/deepin-wine-builder_1.1.004-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store/store/tools/deepin-wine-builder/deepin-wine-builder_1.1.004-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://blinder.spark-app.store/store/tools/deepin-wine-builder/deepin-wine-builder_1.1.004-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/tools/deepin-wine-builder/deepin-wine-builder_1.1.004-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/deepin-wine-builder/deepin-wine-builder_1.1.004-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

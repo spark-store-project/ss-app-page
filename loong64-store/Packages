@@ -9024,11 +9024,11 @@ Maintainer: dingtalk alibaba-inc
 Installed-Size: 10
 Depends: amber-ce-loongnix,bash,wget,sudo,libnotify-bin
 Filename: chat/com.alibabainc.dingtalk/com.alibabainc.dingtalk_7.5.0.40221_loong64.deb
-Size: 312990936
-MD5sum: 9c051db6de3825e69aa98d01fb3b8c27
-SHA1: 3f2d276e2fee4daf87aa923e698f1d739ed197b6
-SHA256: 044cfbf0ab928ca6afa62cc5a22795b50c6c63f754c93fa0aa20176af7de8099
-SHA512: 2cb78372faadbd50780465ba14b86750cf0a0f6ad8c420979d52725201de5fa1fd423b79a7dd90846a2753359cd9f37bf2460d736bd2095078f9d460c5cb48c3
+Size: 312990944
+MD5sum: 073dc7873532c01086412829b472e732
+SHA1: b9018088eef2305b0d0352783bf1ba393a8ccf64
+SHA256: ab35d9b24006bd23eeac058c37dfb685eed9ae883c56c49783326c5244a392e1
+SHA512: 10f2d30ff7e574d62d9a541ef15f9d201a1193950782f712905324283d3a07da1d8577703c92eb28745563657ef7d6a88e737daaec373e47685ef4e1cead774f
 Homepage: https://gitee.com/spark-building-service/ace-host-package-creator
 Description: 钉钉
 
