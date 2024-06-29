@@ -1248,23 +1248,6 @@
 }
 ,
 {
-    "Name": "在线视频下载器",
-    "Version": "2.8.0-1",
-    "Filename": "media-downloader_2.8.0-1_amd64.deb",
-    "Torrent_address": "media-downloader_2.8.0-1_amd64.deb.torrent",
-    "Pkgname": "media-downloader",
-    "Author": "Mhogo Mchungu <mhogomchungu@gmail.com>",
-    "Contributor": "flutter",
-    "Website": "https://github.com/mhogomchungu/media-downloader",
-    "Update": "2023-02-22 17:36:23",
-    "Size": "499.3 KB",
-    "More": "下载在线视频软件，支持b站等网站",
-    "Tags": "ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/f2d4508a71a74272ade330166f967b46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/ab3c081001d8452cbe08e616e77d0b46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/e5c0410412f14bc0bdf0de36a512f8f4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/6874582326514388bbbee71ad1429450.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/22/fab7a65e5c3e44ef81b8c8eb757e0e22.png"
-}
-,
-{
     "Name": "360企业安全浏览器",
     "Version": "10.5.2002.473-1",
     "Filename": "browser360ent-cn-stable_10.5.2002.473-1_amd64.deb",
@@ -1279,6 +1262,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/e6ff1dc787304065b8a373dcffae87ab.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/73cb9b3ec66d4daa95f9fae36593c012.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/1ad86b5503cf4ef3872b82718189de32.png"
+}
+,
+{
+    "Name": "在线视频下载器",
+    "Version": "2.8.0-1",
+    "Filename": "media-downloader_2.8.0-1_amd64.deb",
+    "Torrent_address": "media-downloader_2.8.0-1_amd64.deb.torrent",
+    "Pkgname": "media-downloader",
+    "Author": "Mhogo Mchungu <mhogomchungu@gmail.com>",
+    "Contributor": "flutter",
+    "Website": "https://github.com/mhogomchungu/media-downloader",
+    "Update": "2023-02-22 17:36:23",
+    "Size": "499.3 KB",
+    "More": "下载在线视频软件，支持b站等网站",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/f2d4508a71a74272ade330166f967b46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/ab3c081001d8452cbe08e616e77d0b46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/e5c0410412f14bc0bdf0de36a512f8f4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/22/6874582326514388bbbee71ad1429450.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/22/fab7a65e5c3e44ef81b8c8eb757e0e22.png"
 }
 ,
 {
@@ -1615,22 +1615,6 @@
 
 ,
 {
-    "Name": "水狐",
-    "Version": "3.1.0",
-    "Filename": "waterfox_3.1.0_amd64.deb",
-    "Pkgname": "waterfox",
-    "Author": "Waterfox Ltd.",
-    "Contributor": "Windsejuk",
-    "Website": "https://www.waterfox.net/",
-    "Update": "2021-02-04 14:11:35",
-    "Size": "54.35 MB",
-    "More": "水狐網頁瀏覽器基於火狐ESR 78.7 Gecko。 官網下載.tar.bz2，投遞星火應用商店。deb安裝包備份https://github.com/windsejuk/Waterfox/releases。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/04/a35d1af0-66af-11eb-af9a-59029733c48e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/04/b1d57b40-66af-11eb-af9a-59029733c48e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/04/bb4d7e20-66af-11eb-af9a-59029733c48e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/04/a47b9530-66ad-11eb-af9a-59029733c48e.png"
-}
-,
-{
     "Name": "megasync",
     "Version": "4.3.8-1.1",
     "Filename": "MEGASync.deb",
@@ -1644,6 +1628,22 @@
     "Tags": "ubuntu;deepin;uos;community",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/f3c05e40-4d13-11eb-92f3-bbda55832fa7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/02/f1376970-4d13-11eb-92f3-bbda55832fa7.png"
+}
+,
+{
+    "Name": "水狐",
+    "Version": "3.1.0",
+    "Filename": "waterfox_3.1.0_amd64.deb",
+    "Pkgname": "waterfox",
+    "Author": "Waterfox Ltd.",
+    "Contributor": "Windsejuk",
+    "Website": "https://www.waterfox.net/",
+    "Update": "2021-02-04 14:11:35",
+    "Size": "54.35 MB",
+    "More": "水狐網頁瀏覽器基於火狐ESR 78.7 Gecko。 官網下載.tar.bz2，投遞星火應用商店。deb安裝包備份https://github.com/windsejuk/Waterfox/releases。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/04/a35d1af0-66af-11eb-af9a-59029733c48e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/04/b1d57b40-66af-11eb-af9a-59029733c48e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/04/bb4d7e20-66af-11eb-af9a-59029733c48e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/04/a47b9530-66ad-11eb-af9a-59029733c48e.png"
 }
 ,
 {

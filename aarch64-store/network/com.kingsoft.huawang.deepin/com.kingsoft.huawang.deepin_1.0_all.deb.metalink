@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.kingsoft.huawang.deepin_1.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">cb689edba514d47521551465cf13143e</hash>
+				  
+				<hash type="sha1">192f26ed40a98b58be44dd3caa2d25994304c986</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/network/com.kingsoft.huawang.deepin/com.kingsoft.huawang.deepin_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://fetish.spark-app.store/aarch64-store/network/com.kingsoft.huawang.deepin/com.kingsoft.huawang.deepin_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://piercing.spark-app.store/aarch64-store/network/com.kingsoft.huawang.deepin/com.kingsoft.huawang.deepin_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store/aarch64-store/network/com.kingsoft.huawang.deepin/com.kingsoft.huawang.deepin_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://blinder.spark-app.store/aarch64-store/network/com.kingsoft.huawang.deepin/com.kingsoft.huawang.deepin_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/com.kingsoft.huawang.deepin_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/com.kingsoft.huawang.deepin_1.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

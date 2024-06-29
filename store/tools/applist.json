@@ -1045,23 +1045,6 @@
 }
 ,
 {
-    "Name": "安兔兔评测",
-    "Version": "1.0.0.610",
-    "Filename": "com.antutu.benchmark_1.0.0.610_amd64.deb",
-    "Torrent_address": "com.antutu.benchmark_1.0.0.610_amd64.deb.torrent",
-    "Pkgname": "com.antutu.benchmark",
-    "Author": "antutu <support@antutu.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.antutu.com/",
-    "Update": "2023-06-11 11:20:10",
-    "Size": "150.9 MB",
-    "More": "安兔兔评测 For Linux",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/8026135d32384834a6ce7118be2ac42f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/317409dd01364c45b6723c782d3d29eb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/46cd0f0ece934816be6bf039b9b9595a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/34e44c4d9b5b4d22a65767bed3684ffd.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/11/fde06c9646d84c6c98829ceacd849d16.png"
-}
-,
-{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "uos-packaging-tools_1.2.1_all.deb",
@@ -1078,6 +1061,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_2.png\"]"
 }
 
+,
+{
+    "Name": "安兔兔评测",
+    "Version": "1.0.0.610",
+    "Filename": "com.antutu.benchmark_1.0.0.610_amd64.deb",
+    "Torrent_address": "com.antutu.benchmark_1.0.0.610_amd64.deb.torrent",
+    "Pkgname": "com.antutu.benchmark",
+    "Author": "antutu <support@antutu.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.antutu.com/",
+    "Update": "2023-06-11 11:20:10",
+    "Size": "150.9 MB",
+    "More": "安兔兔评测 For Linux",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/8026135d32384834a6ce7118be2ac42f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/317409dd01364c45b6723c782d3d29eb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/46cd0f0ece934816be6bf039b9b9595a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/34e44c4d9b5b4d22a65767bed3684ffd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/11/fde06c9646d84c6c98829ceacd849d16.png"
+}
 ,
 {
     "Name": "爱思助手",
@@ -4246,21 +4246,22 @@
 }
 ,
 {
-    "Name": "Wine 运行器 Qemu 拓展",
-    "Version": "9.0.1~beige",
-    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1~beige_amd64.deb",
-    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1~beige_amd64.deb.torrent",
-    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
     "Author": "gfdgd_xi <3025613752@qq.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
-    "Update": "2024-06-22 21:38:19",
-    "Size": "143.01 MB",
+    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb",
     "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \n安装此包后在后续版本的 Wine 运行器虚拟机配置工具将支持调用该新版本的 Qemu\n\n该版本只支持 deepin23,如需支持其它系统版本的（如 deepin 20），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
+    "Name": "Wine 运行器 Qemu 拓展",
+    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
+    "Size": "289 Mb",
     "Tags": "community;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/d18500842b194facbb9e237e26a09c8c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/c5b2ae498c1343e6b891b6e236a38bb7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/26f9e1e9421e43119d11c36cab473dad.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/22/69d5c06a79d54f56a116108c71971100.png"
+    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb.torrent",
+    "Update": "2024-06-29 17:54:44",
+    "Version": "9.0.1runner1~beige",
+    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
 }
+
 ,
 {
     "Name": "墨干编辑器",
@@ -4619,6 +4620,23 @@
 }
 ,
 {
+    "Name": "SYL抽奖",
+    "Version": "1.1",
+    "Filename": "skin.syl.syllottery_1.1_amd64.deb",
+    "Torrent_address": "skin.syl.syllottery_1.1_amd64.deb.torrent",
+    "Pkgname": "skin.syl.syllottery",
+    "Author": "SYL科技工作室-黄振宇",
+    "Contributor": "SYL科技工作室-黄振宇",
+    "Website": "https://syl.skin/index.php/syl-lottery/",
+    "Update": "2024-06-29 10:40:39",
+    "Size": "40.06 MB",
+    "More": "本应用是SYL科技工作室[黄振宇]自主独立开发的跨平台抽奖程序。本应用在Windows平台、Linux的UOS平台均可运行，为Linux社区贡献高质量应用工具！ 本应用通过随机模块，对用户设置的奖品随机抽取，是活动场所抽奖软件的不二选择！",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/97683a98a675450c8e693ca372ce8dc4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/45b9077f80bd4d35acd9e59c364a5637.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/3fec15e636654a2ba64e6d36ef61096f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/29/deb8b25e1ef84c8dad1e580b30002b8a.png"
+}
+,
+{
     "Name": "quicktile",
     "Version": "0.4.1-3lon",
     "Filename": "quicktile_0.4.1-3lon_all.deb",
@@ -4718,23 +4736,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/5d25264480384fceb442069978790c4d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/177cd1984cf447dc8c2e024af4fc56a8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/49c26b0265914737806403d66a2651de.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/02/824b9570e7ae49b295f42507945b51cf.png"
-}
-,
-{
-    "Name": "SYL抽奖",
-    "Version": "1.1",
-    "Filename": "skin.syl.syllottery_1.1_amd64.deb",
-    "Torrent_address": "skin.syl.syllottery_1.1_amd64.deb.torrent",
-    "Pkgname": "skin.syl.syllottery",
-    "Author": "SYL科技工作室-黄振宇",
-    "Contributor": "SYL科技工作室-黄振宇",
-    "Website": "https://syl.skin/index.php/syl-lottery/",
-    "Update": "2024-06-29 10:40:39",
-    "Size": "40.06 MB",
-    "More": "本应用是SYL科技工作室[黄振宇]自主独立开发的跨平台抽奖程序。本应用在Windows平台、Linux的UOS平台均可运行，为Linux社区贡献高质量应用工具！ 本应用通过随机模块，对用户设置的奖品随机抽取，是活动场所抽奖软件的不二选择！",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/97683a98a675450c8e693ca372ce8dc4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/45b9077f80bd4d35acd9e59c364a5637.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/3fec15e636654a2ba64e6d36ef61096f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/29/deb8b25e1ef84c8dad1e580b30002b8a.png"
 }
 ,
 {
