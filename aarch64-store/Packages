@@ -252,23 +252,6 @@ SHA256: f3f7fe4837b6b498bf770cae394f671db9f9fd2679d02a2678d14d0bb0168bbe
 SHA512: e5c65ae332ab6526879798465aa31e9da7c502f9c8a8a55af5f722923f8390e7e37a65e8ec486ca9168a40bfb85035fa6d0958ecd84305b237b7f517e218fff8
 Description: ExaGear binary translation system.
 
-Package: exagear-core-x32a64
-Architecture: arm64
-Version: 2870.1
-Priority: extra
-Section: misc
-Maintainer: Huawei_Moscow_Compiler_Lab
-Installed-Size: 5916
-Provides: exagear-core
-Depends: exagear-utils, systemd, deepin-elf-verify (>= 1.1.10-1)
-Filename: depends/deepin-wine6-stable/exagear-core-x32a64_2870.1_arm64.deb
-Size: 842936
-MD5sum: d885882d085adf5c8017a5d1466d72b6
-SHA1: b444216bba20cc20989c8e58c528918295dd5520
-SHA256: 99014cf745f8f20c7ff8f0bcdd45b62a6840a3b10fb3821cd0ca9d36c6c05b8a
-SHA512: e3d45b2eb2cc556a5f5261cb3830acd56bbc8a479fc70d165854993429acceb346a8faa4397b2ab37801c4a3cd4bff640a1da5978ad476469262c8e310aabc47
-Description: ExaGear binary translation system.
-
 Package: exagear-core-x64a64
 Architecture: arm64
 Version: 2870.1
@@ -411,22 +394,6 @@ SHA1: c3f55fbcc5d946390e17491939608a4db8ae7599
 SHA256: 8462c1b9034aafffd98a984bb4fcbf540f9d30f68e4d28308779343b81016350
 SHA512: c2a8839d85c8c511cb0031c9bf01c428408e104c10146ea82c665775f506fac511ff05fadf611d4b85afc84a5eb9135debc4f311b1f0d0d18cec1f631458c922
 Description: exagear runfs with deepin-wine needed libs
-
-Package: com.deepin-wine-runtime.deepin
-Architecture: arm64
-Version: 1.1deepin3
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: deepin-wine team
-Depends: deepin-elf-verify (>= 1.1.10-1)
-Filename: depends/deepin-wine6-stable/com.deepin-wine-runtime.deepin_1.1deepin3_arm64.deb
-Size: 72985568
-MD5sum: ab1ba4bcb5027c90b135a96ea6cedbbd
-SHA1: a720cda7373cfb9f22ebf40a4f2bc6c021cc7817
-SHA256: 1088d97431feaf249396abd55bb3660f70b5a49da5f455b7cbe48484efce4b8e
-SHA512: 807c80f9bf305cd89e6ca9059e8b0ee9a023bd1804ff26481362c727e4b1034ac94f1a79c79e4eff83c3316c346c33c3389125daae485090379f033881dbfa79
-Description: deepin-wine runtime
 
 Package: spark-wine8-wow
 Architecture: arm64
@@ -733,25 +700,6 @@ MD5sum: b67251cdec3b58aade8385559568373f
 SHA1: bd16d630fcfc0c97c4be0895af366ee434152776
 SHA256: 5b936f7d83f0bd2e3072a0966d3729c583031fc2748e58a6b83246b5fda29582
 SHA512: bffd7cd303a532adf06670bfd869fe809b3ed34cffac6d15c3da3b87fea20e4c7166819e8cff4dbbe12db8100d5c28b80c5aa8a390d13d20b55a58e9f2467618
-Description: WINE Is Not An Emulator - runs MS Windows programs Wine is a program which allows running Microsoft Windows programs (including DOS, Windows 3.x and Win32 executables) on Unix. . This package contains the files needed to support 64-bit or 32-bit Windows programs.
-
-Package: deepin-wine8-stable
-Architecture: arm64
-Version: 8.16deepin16
-Multi-Arch: foreign
-Priority: optional
-Section: otherosfs
-Maintainer: Wei Xie <xiewei@uniontech.com>, Guo Lv <lvguo@uniontech.com>
-Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
-Installed-Size: 1264734
-Pre-Depends: dpkg (>= 1.14.12ubuntu3)
-Depends: box64, deepin-elf-verify (>= 1.1.10-1)
-Filename: depends/deepin-wine8/deepin-wine8-stable_8.16deepin16_arm64.deb
-Size: 193617488
-MD5sum: cd8b5e1630f6e173ea7a2fb88e6def13
-SHA1: f286da9478c4578b030556b386455ec534028929
-SHA256: b787df3c808da43864c538463a362fa9e684835c5daac854a4dc014ea5abffc6
-SHA512: 50d91b35924022a95e2a100a2908bb44c64a1c9a204854f44d46833d5fb44044146e400fa1ed6eca8e69c1dd1ac603d97fbe2368f3d39d1029a7bf8dd215a6dd
 Description: WINE Is Not An Emulator - runs MS Windows programs Wine is a program which allows running Microsoft Windows programs (including DOS, Windows 3.x and Win32 executables) on Unix. . This package contains the files needed to support 64-bit or 32-bit Windows programs.
 
 Package: bubblewrap
@@ -1328,27 +1276,6 @@ MD5sum: f14029de51248004bb1955528a430d97
 SHA1: 612bc28f9aa0da511a7c6a4b8ecd54df9472e6e0
 SHA256: 1967f78e53a117dc9f2f9e29e16a3b3d87430aff0642c130eda67882143a677e
 SHA512: a4269876f9e8d1b28e748be1ba3f117133c4204b789a620b5dcb0274dfaaf57e3ba737626cb98e1b56109d53fb7a5b34f8072ad1e48f82ae297d0aa8a57e25d5
-Homepage: https://easysend.channer.cn
-Description: 
-  便捷的局域网共享文本文件小工具，简捷使用，传送方便，仅需一台设备启动，其余设备使用浏览器访问即可使用
-License: GPL-2.0-only
-Vendor: bitporo <bitporo@qq.com>
-
-Package: easy-send
-Architecture: all
-Version: 1.1.4
-Priority: optional
-Section: default
-Maintainer: bitporo <bitporo@qq.com>
-Installed-Size: 244123
-Depends: com.electron
-Recommends: libappindicator3-1
-Filename: tools/easy-send/easy-send_1.1.4_all.deb
-Size: 7958720
-MD5sum: becb2aca8af93bc6d5b9f9981726fc38
-SHA1: ec95b1ddcbe6248739aa1cdbb8e62d82a48d62d3
-SHA256: aeb98724a07e74b50b738437f77623104d816f9259cbefd03812aa522335b683
-SHA512: e0f5581155255b2a5781d560a2731cb91658bb29289797f734b4dba819d8a9e50377286911c66af5eefb5bea33f35ed0c1ae9e89ddc5bdf3f7233ed4767a16a0
 Homepage: https://easysend.channer.cn
 Description: 
   便捷的局域网共享文本文件小工具，简捷使用，传送方便，仅需一台设备启动，其余设备使用浏览器访问即可使用
@@ -2883,34 +2810,6 @@ SHA1: b5aba271bb4c81f899429b0a672f3548ae79ffb2
 SHA256: 407cbea38d6798fe6b179c4d892213f8fb5f0530503e6296708a49c675464df4
 SHA512: f9b679d1e7c04e2d6303022c9b68a08ab9f98846138d09ee627aa00459a03d9d41388c409e0ebdef7499bf472b1467e80fa359750ce720de8c2f6f5dc650ad09
 Description: Phyvirt provides a graphical tool to install and run guest.
-
-Package: spark-deepin-wine-runner
-Architecture: all
-Version: 3.9.1
-Priority: optional
-Section: utils
-Maintainer: gfdgd xi <3025613752@qq.com>
-Installed-Size: 192316
-Provides: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
-Depends: python3, python3-pil, python3-pil.imagetk, python3-pyquery, aria2, curl, unrar | unrar-free , unzip, python3-requests, python3-pyqt5, python3-psutil, xfce4-terminal | deepin-terminal | mate-terminal | gnome-terminal, python3-dbus, python3-pip, p7zip-full | p7zip-legacy, sudo, python3-pyperclip, bubblewrap, zenity, tree, dpkg, fakeroot
-Recommends: winbind, wimtools, python3-pyqt5.qtwebengine, binfmt-support, libc6:i386, libc6:armhf, libwine, qemu-system, qemu-full, alien
-Conflicts: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
-Replaces: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
-Filename: tools/spark-deepin-wine-runner/spark-deepin-wine-runner_3.9.1_all.deb
-Size: 53950004
-MD5sum: aac1add47e91197f3f118a6cf29123f5
-SHA1: d57802534d7fc637d6807ec0bd081bef0c537b70
-SHA256: aea8bbaeaea54da70bca2634fea2a5fc8951e91361ad5e2350651b53afa44878
-SHA512: 6d907c371567cb508c320e7d69768e75e2cae1e820c3c847da1e92d52fd7d9594cb84058eb90006da8396e05c543f50e5babdbb10a6a5ecbd2ee33a05104a226
-Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
-Description: Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序。原版的 Wine 只能使用命令操作，且安装过程较为繁琐，对小白不友好。于是该运行器为了解决该痛点，内置了对Wine图形化的支持、Wine 安装器、微型应用商店、各种Wine工具、自制的Wine程序打包器、运行库安装工具等。
- 它同时还内置了基于Qemu/VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作，也能在非 X86 架构安装 X86 架构的 Windows 操作系统（但是效率较低，可以运行些老系统）。
- 而且对于部分 Wine 应用适配者来说，提供了图形化的打包工具，以及提供了一些常用工具以及运行库的安装方式，以及能安装多种不同的 Wine 以测试效果，能极大提升适配效率。
- 且对于 Deepin23 用户做了特别优化，以便能在缺少 i386 运行库的情况下运行 Wine32。同时也为非 X86 架构用户提供了 Box86/64、Qemu User 的安装方式
-Severity: serious
-Certainty: possible
-Check: binaries
-Type: binary, udeb
 
 Package: spark-deepin-wine-runner
 Architecture: all
@@ -5431,6 +5330,23 @@ SHA512: d62ecb85f57b1afba408a9c9005194d75952774be0abb113a1cab01a0e8dc67632a15e6c
 Homepage: https://www.yzzi.icu
 Description: 24点
 
+Package: com.popcap.plants-vs-zombies.danxiaogudream
+Architecture: all
+Version: 0.1spark0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 318677
+Depends: spark-wine, spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepin, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: games/com.popcap.plants-vs-zombies.danxiaogudream/com.popcap.plants-vs-zombies.danxiaogudream_0.1spark0_all.deb
+Size: 318694636
+MD5sum: 64b62836f3f299d311552b25b86ceee2
+SHA1: 23be62272201f11f620729224b2113951d9fd67c
+SHA256: 623c5a9c217574dbf121bae36475cb8564902272ec25236fe6cf184692f0a203
+SHA512: 552ca79257b77265842f111db36f49e8565521ddf3fd54c298643e4ab28ab85b49b8470ecdb08f9579b9a7d6056f1b45d6e9675c174afdf94257bd8bfb0787eb
+Description: 植物大战僵尸改版《胆小菇之梦》第一大关，同时打开游戏（首页，不进入关卡）和修改器，修改器出现“修改成功！”字样后，进入冒险模式即可。
+
 Package: com.pvzhz.spark
 Architecture: all
 Version: 2.1
@@ -6812,18 +6728,18 @@ Description: 奇安信可信浏览器
 
 Package: firefox-spark-ace
 Architecture: all
-Version: 125.0.3+build1-0ubuntu0.22.04.1~mt1
+Version: 127.0.2+build1-0ubuntu0.22.04.1~mt1
 Priority: optional
 Section: utils
 Maintainer: shenmo <shenmo@spark-app.store>
 Installed-Size: 10
 Depends: cn.flamescion.bookworm-compatibility-mode,bash,wget,sudo,libnotify-bin
-Filename: network/firefox-spark-ace/firefox-spark-ace_125.0.3_plus_build1-0ubuntu0.22.04.1~mt1_all.deb
-Size: 1672
-MD5sum: 72270186bee17d64a91c05399a9bf844
-SHA1: d7dded6ed1117f1ebbbdbb91df8587cb4bb20a9f
-SHA256: 642d131dbe5aa66a87f11c5dca7d061665c2f06d9537b4761a2429a0909cd326
-SHA512: ff47b7527775f968bbe4d85809602fe1c6c63a57be12d5eef62e09ff83fefd44c9d5f995590c712d8dedd41d37765f1eabe47a79eed5411a37d12aa19ed3dc5f
+Filename: network/firefox-spark-ace/firefox-spark-ace_127.0.2_plus_build1-0ubuntu0.22.04.1~mt1_all.deb
+Size: 1668
+MD5sum: 734f3107626b2a0d3a35ab764b222de6
+SHA1: 53a0c96c2b5707ec6a0b5d284790abf62ecf793a
+SHA256: 790b05037174e98f7dba401b9750590bb0076ecb4909aa370d1d889b2fe960bf
+SHA512: 5280fd00e0ef62badef09e6884ccfee1d3d60402e3a4b03da836c8e3aed04ed40adfa89668c9fc81d5638a6fd7392ca691c6dab4a5d4c8cfe5b9d52b49764de6
 Homepage: https://gitee.com/spark-building-service/ace-host-package-creator
 Description: 一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...
 
@@ -8487,27 +8403,6 @@ SHA256: ba4f743958f54b56920cecaca78a95458d1321f706423f4200d8f21519869987
 SHA512: 313facd519b7b4ad508abe83ebe39cff7f917ab629f9bf2b390eca132827c5d690a5d4d7486ac27b550a7a1829b545d91e33bf18c991943e6e291a8120981fec
 Homepage: https://gov.dingtalk.com
 Description: 钉钉
-
-Package: linuxqq
-Architecture: arm64
-Version: 3.2.9-24815
-Priority: optional
-Section: default
-Maintainer: Tencent <QQ-Team@tencent.com>
-Installed-Size: 533061
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: chat/linuxqq/linuxqq_3.2.9-24815_arm64.deb
-Size: 145967628
-MD5sum: 6f0ffc87a2898c24ab18d8a91eee5457
-SHA1: 92aabf4d9d79483be95baf5673d0e0bebdec2473
-SHA256: a82dde51cdc7b359e895926101db34431fad0250ff011dec706c66700f1db44c
-SHA512: cc3b9e4ed14a315432fa9d33cce7b211b8f22df1ac672b7e7125783ccc0822e92b9ea190e0f0d551070c7e35c91cdbd9d56e0320f619f84edb79e93e142ace4d
-Homepage: https://im.qq.com
-Description: 
-  QQ
-License: unknown
-Vendor: Tencent <QQ-Team@tencent.com>
 
 Package: linuxqq
 Architecture: amd64

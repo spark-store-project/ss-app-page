@@ -2481,6 +2481,24 @@
 }
 ,
 {
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.steampowered.steam_1.0_all.deb",
+    "More": "Arm下仅测试了exagear\n\n龙芯未测试\n\n正在飞车阶段~",
+    "Name": "Steam(Wine)",
+    "Pkgname": "com.steampowered.steam",
+    "Size": "246 Mb",
+    "Tags": "deepin;ubuntu;dwine5",
+    "Torrent_address": "com.steampowered.steam_1.0_all.deb.torrent",
+    "Update": "2024-03-24 21:07:07",
+    "Version": "1.0",
+    "Website": "https://s.team",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.steampowered.steam/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.steampowered.steam/screen_1.png\"]"
+}
+
+,
+{
     "Name": "轴心国与同盟国",
     "Version": "1.0spark0",
     "Filename": "com.axisallies.spark_1.0spark0_amd64.deb",
@@ -2547,24 +2565,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/52ffee28a4bb4aae890e4cf2fa067107.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/47c862c80535475cb0d6975745d3cb55.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/dae90fa02c78421b9e044e31d35cd429.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/02/46736fd4ef564a9aaced11e2d6af26fc.png"
 }
-,
-{
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.steampowered.steam_1.0_all.deb",
-    "More": "Arm下仅测试了exagear\n\n龙芯未测试\n\n正在飞车阶段~",
-    "Name": "Steam(Wine)",
-    "Pkgname": "com.steampowered.steam",
-    "Size": "246 Mb",
-    "Tags": "deepin;ubuntu;dwine5",
-    "Torrent_address": "com.steampowered.steam_1.0_all.deb.torrent",
-    "Update": "2024-03-24 21:07:07",
-    "Version": "1.0",
-    "Website": "https://s.team",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.steampowered.steam/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.steampowered.steam/screen_1.png\"]"
-}
-
 ,
 {
     "Name": "戴夫RUSH(uengine)",
@@ -2715,6 +2715,23 @@
 }
 ,
 {
+    "Name": "鸿图对战平台(红警2战网对战平台）",
+    "Version": "0.1.0",
+    "Filename": "com.ra2ol.deepin_0.1.0_all.deb",
+    "Torrent_address": "com.ra2ol.deepin_0.1.0_all.deb.torrent",
+    "Pkgname": "com.ra2ol.deepin",
+    "Author": "红色警戒2战网",
+    "Contributor": "RichardYann",
+    "Website": "https://www.ra2ol.com/",
+    "Update": "2024-03-08 14:45:35",
+    "Size": "815.3 MB",
+    "More": "ubuntu20测试运行成功，全屏游戏下有时会有卡顿，此时打开右上角菜单页，再选择返回游戏，即可流畅运行。\n\n使用窗口模式运行，无需额外操作，流畅无卡顿。",
+    "Tags": "community;ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/597e1b4678274328bbcde2a63ef84583.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/692dc9b64a044b90a6e5a46744db7c1a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/81988647acfb486f9e84e3ece43cb06f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/08/04d175efcfd040cb99b496191bae12cc.png"
+}
+,
+{
     "Name": "墨染",
     "Version": "1.0spark0",
     "Filename": "com.inked.spark_1.0spark0_amd64.deb",
@@ -2830,23 +2847,6 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/01/82dab380-ef7f-11ee-9671-81712e149e2a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/01/82e00ab0-ef7f-11ee-9671-81712e149e2a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/01/7d4dcd80-ef7f-11ee-9671-81712e149e2a.png"
-}
-,
-{
-    "Name": "鸿图对战平台(红警2战网对战平台）",
-    "Version": "0.1.0",
-    "Filename": "com.ra2ol.deepin_0.1.0_all.deb",
-    "Torrent_address": "com.ra2ol.deepin_0.1.0_all.deb.torrent",
-    "Pkgname": "com.ra2ol.deepin",
-    "Author": "红色警戒2战网",
-    "Contributor": "RichardYann",
-    "Website": "https://www.ra2ol.com/",
-    "Update": "2024-03-08 14:45:35",
-    "Size": "815.3 MB",
-    "More": "ubuntu20测试运行成功，全屏游戏下有时会有卡顿，此时打开右上角菜单页，再选择返回游戏，即可流畅运行。\n\n使用窗口模式运行，无需额外操作，流畅无卡顿。",
-    "Tags": "community;ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/597e1b4678274328bbcde2a63ef84583.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/692dc9b64a044b90a6e5a46744db7c1a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/81988647acfb486f9e84e3ece43cb06f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/08/04d175efcfd040cb99b496191bae12cc.png"
 }
 ,
 {
