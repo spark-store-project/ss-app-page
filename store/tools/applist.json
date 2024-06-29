@@ -2162,6 +2162,23 @@
 }
 ,
 {
+    "Name": "GXDE 内核管理器 1.1.0",
+    "Version": "1.1.0",
+    "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
+    "Torrent_address": "gxde-kernel-manager_1.1.0_amd64.deb.torrent",
+    "Pkgname": "gxde-kernel-manager",
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
+    "Update": "2024-05-12 17:25:58",
+    "Size": "1.07 MB",
+    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \n\n\nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
+}
+,
+{
     "Name": "樱花助手",
     "Version": "2.2.5-20230427",
     "Filename": "sakura-assistant_2.2.5-20230427_amd64.deb",
@@ -2193,23 +2210,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/cad34bf37b2b470ba9c59a560b8c1607.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/3653b6677aba447bb3c69d57fd2c6527.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/d1b3c04ab9b54f4aa03dd0b4220455df.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/eb8ae307e3bf4ecab2354f152448d71f.png"
-}
-,
-{
-    "Name": "GXDE 内核管理器 1.1.0",
-    "Version": "1.1.0",
-    "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
-    "Torrent_address": "gxde-kernel-manager_1.1.0_amd64.deb.torrent",
-    "Pkgname": "gxde-kernel-manager",
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
-    "Update": "2024-05-12 17:25:58",
-    "Size": "1.07 MB",
-    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \n\n\nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
 }
 ,
 {
@@ -2763,23 +2763,6 @@
 }
 ,
 {
-    "Name": "DoubleCmd",
-    "Version": "1.0.11spark3",
-    "Filename": "doublecmd-spark_1.0.11spark3_amd64.deb",
-    "Torrent_address": "doublecmd-spark_1.0.11spark3_amd64.deb.torrent",
-    "Pkgname": "doublecmd-spark",
-    "Author": "alexx2000",
-    "Contributor": "sgb76",
-    "Website": "http://doublecommander.com/",
-    "Update": "2023-09-27 15:44:45",
-    "Size": "8.04 MB",
-    "More": "Double Commander是一款具有两个并排面板的跨平台开源文件管理器",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/27/04f9d6439e5842cc9decccb6480e9434.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/27/3e7c93892a01495986a75852357c68c7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/27/0b9457458c424e6e809142c7c0d08858.png"
-}
-,
-{
     "Name": "CPU-Z（Wine）",
     "Version": "2.09spark0",
     "Filename": "com.cpuz.spark_2.09spark0_all.deb",
@@ -2794,6 +2777,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
+}
+,
+{
+    "Name": "DoubleCmd",
+    "Version": "1.0.11spark3",
+    "Filename": "doublecmd-spark_1.0.11spark3_amd64.deb",
+    "Torrent_address": "doublecmd-spark_1.0.11spark3_amd64.deb.torrent",
+    "Pkgname": "doublecmd-spark",
+    "Author": "alexx2000",
+    "Contributor": "sgb76",
+    "Website": "http://doublecommander.com/",
+    "Update": "2023-09-27 15:44:45",
+    "Size": "8.04 MB",
+    "More": "Double Commander是一款具有两个并排面板的跨平台开源文件管理器",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/27/04f9d6439e5842cc9decccb6480e9434.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/27/3e7c93892a01495986a75852357c68c7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/27/0b9457458c424e6e809142c7c0d08858.png"
 }
 ,
 {

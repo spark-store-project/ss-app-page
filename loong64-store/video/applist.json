@@ -1,5 +1,23 @@
 [
 {
+    "Author": "shenmo <jifengshenmo@outlook.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "org.vlc.ace_3.0.18.1_all.deb",
+    "More": "使用琥珀兼容环境运行的VLC，请在安装时确保网络通畅",
+    "Name": "VLC播放器(ACE)",
+    "Pkgname": "org.vlc.ace",
+    "Size": "1 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "org.vlc.ace_3.0.18.1_all.deb.torrent",
+    "Update": "2023-11-12 22:18:57",
+    "Version": "3.0.18.1",
+    "Website": "https://shenmo7192.gitee.io/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/video/org.vlc.ace/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/org.vlc.ace/screen_1.png\"]"
+}
+
+,
+{
     "Name": "央视影音",
     "Version": "6.0.0.1spark10",
     "Filename": "com.cctv.ysyy.spark_6.0.0.1spark10_all.deb",

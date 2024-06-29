@@ -900,22 +900,6 @@
 }
 ,
 {
-    "Name": "网速管家",
-    "Version": "1.6.1",
-    "Filename": "cn.speedtest.master_1.6.1_amd64.deb",
-    "Pkgname": "cn.speedtest.master",
-    "Author": "巨擎网络科技（济南）有限公司",
-    "Contributor": "dfc643",
-    "Website": "https://www.speedtest.cn",
-    "Update": "2020-12-25 10:03:55",
-    "Size": "61.68 MB",
-    "More": "SpeedTest.cn 官方客户端移植版\n\nv1.6.1 - 2020/12/25\n从官方 1.6.1 Windows 版本移植\n修复标题栏缺失导致 Linux 无法关闭程序\n修复 Linux 图标缺失\n修复 Linux 下布局轻微错乱\n去除升级提示\n\n也有 ARM 平台，看这里：https://bbs.deepin.org/post/208628",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/25/4bf956d0-4697-11eb-8102-b5a8e652a900.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/25/5cbd06b0-4697-11eb-8102-b5a8e652a900.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/25/75aab5a0-4697-11eb-8102-b5a8e652a900.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/25/99133170-4697-11eb-8102-b5a8e652a900.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/25/423e0960-4697-11eb-8102-b5a8e652a900.png"
-}
-,
-{
     "Name": "Google Chrome 开发者版",
     "Version": "124.0.6342.3-1",
     "Filename": "google-chrome-unstable_124.0.6342.3-1_amd64.deb",
@@ -930,6 +914,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/925f44f2e7e449f7b610d91a7ca8d0db.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/10/512bdbf92b024712b8b19aa9310d2cb7.png"
+}
+,
+{
+    "Name": "网速管家",
+    "Version": "1.6.1",
+    "Filename": "cn.speedtest.master_1.6.1_amd64.deb",
+    "Pkgname": "cn.speedtest.master",
+    "Author": "巨擎网络科技（济南）有限公司",
+    "Contributor": "dfc643",
+    "Website": "https://www.speedtest.cn",
+    "Update": "2020-12-25 10:03:55",
+    "Size": "61.68 MB",
+    "More": "SpeedTest.cn 官方客户端移植版\n\nv1.6.1 - 2020/12/25\n从官方 1.6.1 Windows 版本移植\n修复标题栏缺失导致 Linux 无法关闭程序\n修复 Linux 图标缺失\n修复 Linux 下布局轻微错乱\n去除升级提示\n\n也有 ARM 平台，看这里：https://bbs.deepin.org/post/208628",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/25/4bf956d0-4697-11eb-8102-b5a8e652a900.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/25/5cbd06b0-4697-11eb-8102-b5a8e652a900.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/25/75aab5a0-4697-11eb-8102-b5a8e652a900.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/25/99133170-4697-11eb-8102-b5a8e652a900.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/25/423e0960-4697-11eb-8102-b5a8e652a900.png"
 }
 ,
 {
@@ -2446,23 +2446,6 @@
 }
 ,
 {
-    "Name": "侠客短视频解析去水印工具",
-    "Version": "4.8",
-    "Filename": "com.xiakeduanshipin.deepin_4.8_all.deb",
-    "Torrent_address": "com.xiakeduanshipin.deepin_4.8_all.deb.torrent",
-    "Pkgname": "com.xiakeduanshipin.deepin",
-    "Author": "佚名RJ",
-    "Contributor": "佚名RJ",
-    "Website": "https://www.52pojie.cn/thread-1933305-1-1.html",
-    "Update": "2024-06-16 10:40:00",
-    "Size": "21.71 MB",
-    "More": ".本工具支持无水印解析下载抖音、抖音极速版、快手、快手极速版、剪映、火山、皮皮虾、皮皮搞笑、最右、微视、QQ看点、西瓜视频、小红书、淘宝、天猫、绿洲、美拍、今日头条、微博、各国外平台(随缘)、各平台图集、微信公众号...等等众多短视频平台。",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/ee0e20fc3e234fdcb3bbbba72db1d4e0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/4d68576431604f4294f3e1cfd535796e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/c78841dd591540c5b22ca81a48439472.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/aad1ca78729842229f55aad0d3e932b8.png"
-}
-,
-{
     "Name": "anto  翻译工具",
     "Version": "3.6.3",
     "Filename": "com.anto.deepin_3.6.3_all.deb",
@@ -2477,6 +2460,23 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/76f975593fa64114944c0d15bb37c439.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/fcd7bd1efccf47d096899ed9eb68019d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/799c32d36e5c4d12af9994133c82f06f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/30/39c35facca4c4456ab7f2e4efbd2f6ab.png"
+}
+,
+{
+    "Name": "侠客短视频解析去水印工具",
+    "Version": "4.8",
+    "Filename": "com.xiakeduanshipin.deepin_4.8_all.deb",
+    "Torrent_address": "com.xiakeduanshipin.deepin_4.8_all.deb.torrent",
+    "Pkgname": "com.xiakeduanshipin.deepin",
+    "Author": "佚名RJ",
+    "Contributor": "佚名RJ",
+    "Website": "https://www.52pojie.cn/thread-1933305-1-1.html",
+    "Update": "2024-06-16 10:40:00",
+    "Size": "21.71 MB",
+    "More": ".本工具支持无水印解析下载抖音、抖音极速版、快手、快手极速版、剪映、火山、皮皮虾、皮皮搞笑、最右、微视、QQ看点、西瓜视频、小红书、淘宝、天猫、绿洲、美拍、今日头条、微博、各国外平台(随缘)、各平台图集、微信公众号...等等众多短视频平台。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/ee0e20fc3e234fdcb3bbbba72db1d4e0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/4d68576431604f4294f3e1cfd535796e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/c78841dd591540c5b22ca81a48439472.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/aad1ca78729842229f55aad0d3e932b8.png"
 }
 ,
 {

@@ -237,6 +237,23 @@ Description: ExaGear binary translation system. This package provides facility t
 
 Package: exagear-core-x32a64
 Architecture: arm64
+Version: 3046.1
+Priority: extra
+Section: misc
+Maintainer: Huawei_Moscow_Compiler_Lab
+Installed-Size: 8369
+Provides: exagear-core
+Depends: exagear-utils, systemd, deepin-elf-verify (>= 1.1.10-1)
+Filename: depends/deepin-wine6-stable/exagear-core-x32a64_3046.1_arm64.deb
+Size: 1322354
+MD5sum: 7c6eaf45d340325e14cba38c12f6bc51
+SHA1: 3df0ca3d6188748296d07dd228a68381e9582af8
+SHA256: f3f7fe4837b6b498bf770cae394f671db9f9fd2679d02a2678d14d0bb0168bbe
+SHA512: e5c65ae332ab6526879798465aa31e9da7c502f9c8a8a55af5f722923f8390e7e37a65e8ec486ca9168a40bfb85035fa6d0958ecd84305b237b7f517e218fff8
+Description: ExaGear binary translation system.
+
+Package: exagear-core-x32a64
+Architecture: arm64
 Version: 2870.1
 Priority: extra
 Section: misc
@@ -362,6 +379,22 @@ SHA256: c72bfc797aab0032eb7f9383f39bdb48d7ce56bdf78310d2976a609fb340aa9f
 SHA512: 9632618b2a6fccfad5a23d8f7a7a0e6de69b54166ac4638a416a03efa17bc48ab65e8f78bdfa7e3f6956460b2fa37ff8be60b6abde0cb447ad340c7a874052ff
 Homepage: http://www.linuxdeepin.com/
 Description: Deepin Wine emu tools
+
+Package: com.deepin-wine-runtime.deepin
+Architecture: arm64
+Version: 1.1deepin4
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: deepin-wine team
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: depends/deepin-wine6-stable/com.deepin-wine-runtime.deepin_1.1deepin4_arm64.deb
+Size: 72419414
+MD5sum: cf02b0e076ef32ef171bbfff9eb587c3
+SHA1: 0bd177ba3657de2b781213330080b6071a585d31
+SHA256: 1ed7a2eca0339b2a8db8c8a4ade25e795364a7843308aab008e69f34cb168261
+SHA512: 176c0451a7da56916a2cf6635eeea7a75308d93c50e051631141ccd53429c4d44973f78c9cfbd05836dcab65611ea958952a2fcd6329f30af2c57894f04fc5ee
+Description: deepin-wine runtime
 
 Package: deepin-wine-exagear-images
 Architecture: arm64
@@ -682,6 +715,25 @@ SHA256: 5057bcf5a1fc6b19f65f33947d991d3072d60e9d9b4368493850966ac4490672
 SHA512: 74fc231f4ddc2c437b6b67d22b43ebf22c3ef286a56ef5a575cce0f5108971ff8c733ad91833b4224ebf74d27fcb43258d6125aa0f711a253daf7bcc5700def7
 Homepage: https://shenmo7192.gitee.io/
 Description: deepin-wine8-stable ACE
+
+Package: deepin-wine8-stable
+Architecture: arm64
+Version: 8.16deepin21
+Multi-Arch: foreign
+Priority: optional
+Section: otherosfs
+Maintainer: Wei Xie <xiewei@uniontech.com>, Guo Lv <lvguo@uniontech.com>
+Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
+Installed-Size: 1264874
+Pre-Depends: dpkg (>= 1.14.12ubuntu3)
+Depends: deepin-box64, deepin-elf-verify (>= 1.1.10-1)
+Filename: depends/deepin-wine8/deepin-wine8-stable_8.16deepin21_arm64.deb
+Size: 193660534
+MD5sum: b67251cdec3b58aade8385559568373f
+SHA1: bd16d630fcfc0c97c4be0895af366ee434152776
+SHA256: 5b936f7d83f0bd2e3072a0966d3729c583031fc2748e58a6b83246b5fda29582
+SHA512: bffd7cd303a532adf06670bfd869fe809b3ed34cffac6d15c3da3b87fea20e4c7166819e8cff4dbbe12db8100d5c28b80c5aa8a390d13d20b55a58e9f2467618
+Description: WINE Is Not An Emulator - runs MS Windows programs Wine is a program which allows running Microsoft Windows programs (including DOS, Windows 3.x and Win32 executables) on Unix. . This package contains the files needed to support 64-bit or 32-bit Windows programs.
 
 Package: deepin-wine8-stable
 Architecture: arm64
@@ -1051,6 +1103,27 @@ SHA512: ccb86b3a743985679b230787f4dcedd107834d6a4a5e6ea117c210e8cf82e71b6219d184
 Homepage: https://github.com/linuxdeepin/deepin-icon-theme
 Description: Deepin Icons
  This package is DeepinIconTheme
+
+Package: deepin-box64
+Architecture: arm64
+Version: 0.2.6deepin9-1
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: Ryan Fortner <ryankfortner@gmail.com>
+Installed-Size: 21948
+Provides: com.deepin-box64.deepin
+Depends: libc6 (>= 2.28), deepin-elf-verify (>= 1.1.10-1)
+Conflicts: com.deepin-box64.deepin
+Replaces: com.deepin-box64.deepin
+Filename: depends/box8664/deepin-box64_0.2.6deepin9-1_arm64.deb
+Size: 4269486
+MD5sum: a649753aaf5f5ba9f1fbcc81c9fcf18a
+SHA1: eb000931deae8d18bdc00e1b6480b2ab1afddaad
+SHA256: 43cd2a26c0ca50e56fbc910264cfbca97c9c112067ebe934b82e3b9c50d0c4ff
+SHA512: 396ca1802200788b7250450e78ff0a5cf562c29f7a74a85e6da647608ebaef8c41bf431daec40a08ca5c869edd75c33c8cf3832654c3bcdf3e143abfd0c9d648
+Homepage: https://github.com/ptitSeb/box64
+Description: Linux Userspace x86_64 Emulator with a twist, targeted at ARM Linux devices Box86 lets you run x86_64 Linux programs (such as games) on non-x86 Linux systems, like ARM (host system needs to be 64bit little-endian).
 
 Package: spark-box64
 Architecture: arm64
@@ -4152,6 +4225,25 @@ SHA256: dfc4ec34d7a5ec743b47c8eb8b717c0fd1a9a1d8df536b30509c9b1705e2ca6f
 SHA512: 9ed7cd4f4480578cc76f379ed2e1dd7bfbba42035af4197beb501d4f7316dcfcbcfc90ac7f60330d3b906f9a736fcc09dab6e131672cdf36a849afe5ad2e1b15
 Homepage: https://www.zwcad.com
 Description: ZWCAD2023 Architecture Linux是ZWSOFT研发的计算机辅助设计软件。
+
+Package: com.jihehuaban.cn
+Architecture: all
+Version: 5.06.3
+Priority: optional
+Section: math
+Maintainer: RX7900XT
+Installed-Size: 379904
+Depends: deepin-wine6-stable, spark-dwine-helper | spark-dwine-helper:amd64, ms-core-fonts
+Conflicts: com.jihehuaban.cn
+Replaces: com.jihehuaban.cn
+Filename: image_graphics/com.jihehuaban.cn/com.jihehuaban.cn_5.06.3_all.deb
+Size: 117514584
+MD5sum: fd1c6cec5aa2d8f9a729a07598bb5451
+SHA1: 74dfe8401152959e8de02b8d333133816e951b57
+SHA256: 8374c3872fcf210a9e00dd77f6be212374748b65888a32fdae3d329f28c3ba2e
+SHA512: 9c7139e1d74fdf259dabe005ccd5188ae8360f9c35301ec5794b88230dda6aacab5425eb3c2dc33f417b08d53f1e7122237496290b23b8f58107430e276cd933
+Description: 几何画板5.06.3中文版
+ “几何画板”是一个作图和实现动画的辅助教学软件，用户可以根据教学需要编制出相关的图像和动画过程。几何画板是适用于数学、平面几何、物理的矢量分析、作图，函数作图的动态几何工具。
 
 Package: com.photoshopcs6.deepin
 Architecture: all
@@ -7965,6 +8057,24 @@ SHA512: cb46d9020af5f8b5841d034b4853e81c0578b4de337e6fead5f39a6d03c5f9976c29fb46
 Homepage: https://github.com/shiftkey/desktop
 Description: Simple collaboration from your desktop
  This is the unofficial port of GitHub Desktop for Linux distributions
+
+Package: deepin-unioncode
+Architecture: arm64
+Version: 1.3.4
+Priority: optional
+Section: libdevel
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 114395
+Depends: libc6 (>= 2.17), libclang1-7 (>= 1:5.0~+rc1~), libdbus-1-3 (>= 1.9.14), libdtkcore5 (>= 5.4), libdtkgui5 (>= 5.4), libdtkwidget5 (>= 5.4), libdwarf++0 (>= 0.2), libelf++0 (>= 0.2), libgcc1 (>= 1:4.2), libjson-c3 (>= 0.11), libjsoncpp1 (>= 1.7.4), libkf5syntaxhighlighting5, libqt5concurrent5 (>= 5.6.0~rc), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.11.0~rc1), libqt5network5 (>= 5.0.2), libqt5script5 (>= 5.6.0~beta), libqt5scripttools5 (>= 5.6.0~beta), libqt5webenginewidgets5 (>= 5.7.1), libqt5widgets5 (>= 5.11.3.28-1+eagle), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 7), libzstd1 (>= 1.3.2), python3-pip, deepin-elf-verify (>= 1.1.10-1)
+Recommends: cmake, make, gdb, g++, gcc, git, clangd-13 | clangd
+Filename: development/deepin-unioncode/deepin-unioncode_1.3.4_arm64.deb
+Size: 72520950
+MD5sum: 8d388995b1f4fb2c2d36242895020366
+SHA1: afa539b1a76f83c7461d8dff74b4758f3451d90c
+SHA256: 7cd6548523c01bd80cd1c9e42c8ce60b032799148df7917137763a6b11b8f6ee
+SHA512: b45d986171af9491eeb542778735bc88a5407835f6986c81fe5cd83390a8d43384b34f977ceba201f52ba239c7e395af96b0fdc232b794e4be564f1df5ce7746
+Homepage: http://www.deepin.org
+Description: IDE 'Deepin Union Code' Lightweight cross-platform integrated development environment
 
 Package: vscode-history-analyzer
 Architecture: arm64

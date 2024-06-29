@@ -1120,6 +1120,22 @@
 }
 ,
 {
+    "Name": "魔塔",
+    "Version": "1.0.0",
+    "Filename": "magic-tower_1.0.0_amd64.deb",
+    "Pkgname": "magic-tower",
+    "Author": "Chong Guo",
+    "Contributor": "depend",
+    "Website": "https://github.com/dependon/Magic-Tower-Qt",
+    "Update": "2021-10-09 16:43:03",
+    "Size": "9.87 MB",
+    "More": "魔塔-qt版",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5bfdd80-28dc-11ec-8d07-cdc4a71453ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5e0fa10-28dc-11ec-8d07-cdc4a71453ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5ce5c70-28dc-11ec-8d07-cdc4a71453ec.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/09/bb8f7560-28dc-11ec-8d07-cdc4a71453ec.png"
+}
+,
+{
     "Name": "Minecraft 官方启动器",
     "Version": "1.1.26",
     "Filename": "minecraft-launcher_1.1.26_amd64.deb",
@@ -1134,22 +1150,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/a803c123b4184a998fcdd1b48cd1a869.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/3fe5665e72b94dd4adeffcac6acea570.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/fefe4018a0714b60a6d88243ba819a83.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/04/553558bc61924ed28cb3d20aaf9c0ca1.png"
-}
-,
-{
-    "Name": "魔塔",
-    "Version": "1.0.0",
-    "Filename": "magic-tower_1.0.0_amd64.deb",
-    "Pkgname": "magic-tower",
-    "Author": "Chong Guo",
-    "Contributor": "depend",
-    "Website": "https://github.com/dependon/Magic-Tower-Qt",
-    "Update": "2021-10-09 16:43:03",
-    "Size": "9.87 MB",
-    "More": "魔塔-qt版",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5bfdd80-28dc-11ec-8d07-cdc4a71453ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5e0fa10-28dc-11ec-8d07-cdc4a71453ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5ce5c70-28dc-11ec-8d07-cdc4a71453ec.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/09/bb8f7560-28dc-11ec-8d07-cdc4a71453ec.png"
 }
 ,
 {
@@ -2121,22 +2121,6 @@
 }
 ,
 {
-    "Name": "星云模拟器（wine）",
-    "Version": "2.25bspark0",
-    "Filename": "com.emulatronia.nebula.spark_2.25bspark0_i386.deb",
-    "Pkgname": "com.emulatronia.nebula.spark",
-    "Author": "ElSemi",
-    "Contributor": "anima",
-    "Website": "http://nebula.emulatronia.com/",
-    "Update": "2021-05-07 11:52:11",
-    "Size": "75.23 MB",
-    "More": "Nebula是由ElSemi所写的最好的街机模拟器之一，支持CPS-1、CPS-2、NEOGEO、IGS、Konami等，NEOGEO、IGS游戏则需要BIOS的支持,分别为neogeo.zip和pgmbios.zip，都不解压的放入roms目录中即可，有多种画面显示处理效果。",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/07/931a39e0-aee7-11eb-aedc-9596fee5f04c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/07/930a0d40-aee7-11eb-aedc-9596fee5f04c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/07/35ac8830-aee7-11eb-aedc-9596fee5f04c.png"
-}
-,
-{
     "Name": "孤岛惊魂2",
     "Version": "1.0spark0",
     "Filename": "com.farcry2.spark_1.0spark0_amd64.deb",
@@ -2151,6 +2135,22 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/13/ae1c12f0-39ea-11ee-b39a-3184b3b910bb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/13/afd69430-39ea-11ee-b39a-3184b3b910bb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/13/b1cb1130-39ea-11ee-b39a-3184b3b910bb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/13/b3b10f40-39ea-11ee-b39a-3184b3b910bb.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/13/ab5d1a00-39ea-11ee-b39a-3184b3b910bb.png"
+}
+,
+{
+    "Name": "星云模拟器（wine）",
+    "Version": "2.25bspark0",
+    "Filename": "com.emulatronia.nebula.spark_2.25bspark0_i386.deb",
+    "Pkgname": "com.emulatronia.nebula.spark",
+    "Author": "ElSemi",
+    "Contributor": "anima",
+    "Website": "http://nebula.emulatronia.com/",
+    "Update": "2021-05-07 11:52:11",
+    "Size": "75.23 MB",
+    "More": "Nebula是由ElSemi所写的最好的街机模拟器之一，支持CPS-1、CPS-2、NEOGEO、IGS、Konami等，NEOGEO、IGS游戏则需要BIOS的支持,分别为neogeo.zip和pgmbios.zip，都不解压的放入roms目录中即可，有多种画面显示处理效果。",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/07/931a39e0-aee7-11eb-aedc-9596fee5f04c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/07/930a0d40-aee7-11eb-aedc-9596fee5f04c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/07/35ac8830-aee7-11eb-aedc-9596fee5f04c.png"
 }
 ,
 {

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.deepin-wine-runtime.deepin_1.1deepin4_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">cf02b0e076ef32ef171bbfff9eb587c3</hash>
+				  
+				<hash type="sha1">0bd177ba3657de2b781213330080b6071a585d31</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/depends/deepin-wine6-stable/com.deepin-wine-runtime.deepin_1.1deepin4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://fetish.spark-app.store/aarch64-store/depends/deepin-wine6-stable/com.deepin-wine-runtime.deepin_1.1deepin4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://piercing.spark-app.store/aarch64-store/depends/deepin-wine6-stable/com.deepin-wine-runtime.deepin_1.1deepin4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store/aarch64-store/depends/deepin-wine6-stable/com.deepin-wine-runtime.deepin_1.1deepin4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://blinder.spark-app.store/aarch64-store/depends/deepin-wine6-stable/com.deepin-wine-runtime.deepin_1.1deepin4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/aarch64-store/depends/deepin-wine6-stable/com.deepin-wine-runtime.deepin_1.1deepin4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/aarch64-store/depends/deepin-wine6-stable/com.deepin-wine-runtime.deepin_1.1deepin4_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

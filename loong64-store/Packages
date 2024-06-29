@@ -8579,6 +8579,23 @@ SHA256: 926b54075e0a9cef062bac3cf465ba58bac7fbfc98cee01a0499b76611942534
 SHA512: 21f91b56b686744d3763657dad88a7e72b8e1f97e25048e47839ff23340a00fe006b24a6590b631547146298425d7014417e9014d00821a801022a0d0eaa18ff
 Description: 萤石云视频
 
+Package: org.vlc.ace
+Architecture: all
+Version:  3.0.18.1
+Priority: optional
+Section: utils
+Maintainer: shenmo <jifengshenmo@outlook.com>
+Installed-Size: 10
+Depends: cn.flamescion.bookworm-compatibility-mode,bash,wget,sudo,libnotify-bin
+Filename: video/org.vlc.ace/org.vlc.ace_3.0.18.1_all.deb
+Size: 1796
+MD5sum: 480c805eda47cc9ce8d1e8f6ef795f76
+SHA1: 2ed5a09dcdcdc4135a06095c9bc0c2244e0e91e7
+SHA256: f3d597d68a2c7a1a6a180b80bf67cf20f558db7d7e6bfa8938bacec5173b4baf
+SHA512: e8b928c4f8d2e551f43fc6759976d7957cf6cafaccc7716ec2e5ff50c9d75c597123df769081348de5f1531bd5f5c04c0b7105e617c7794ee07f134f5cc5758f
+Homepage: https://shenmo7192.gitee.io/
+Description: vlc ace
+
 Package: cn.codemao.kitten3
 Architecture: loong64
 Version: 3.7.14

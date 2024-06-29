@@ -2042,23 +2042,6 @@
 }
 ,
 {
-    "Name": "阿里云命令行工具",
-    "Version": "3.0.161~spark1",
-    "Filename": "aliyun-cli_3.0.161~spark1_amd64.deb",
-    "Torrent_address": "aliyun-cli_3.0.161~spark1_amd64.deb.torrent",
-    "Pkgname": "aliyun-cli",
-    "Author": "阿里云",
-    "Contributor": "Donald Sebastian Leung",
-    "Website": "https://github.com/aliyun/aliyun-cli",
-    "Update": "2023-04-13 22:11:04",
-    "Size": "3.09 MB",
-    "More": "阿里云命令行工具是用 Go 语言编写的, 基于阿里云 OpenAPI 打造的，用于管理阿里云资源的工具。通过下载和配置该工具，您可以在一个命令行方式下管理多个阿里云产品资源。\n\n声明：本软件包并非由阿里云官方提供或支持，如有问题请发邮件到 donaldsebleung@qq.com 或于 https://gitee.com/donaldsebleung/aliyun-cli-spark-store 建工单。",
-    "Tags": "community;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/02fe1110-da05-11ed-84b8-a9e6dfd6bea3.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/13/00b9ed70-da05-11ed-84b8-a9e6dfd6bea3.png"
-}
-,
-{
     "Name": "HeidiSQL(wine)",
     "Version": "12.7.0.6850",
     "Filename": "com.heidisql.spark_12.7.0.6850_i386.deb",
@@ -2073,6 +2056,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/414fa85ea4c34f0796ba83893603ec89.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/8bc85a35f1014aa89dfb7af038b76207.png"
+}
+,
+{
+    "Name": "阿里云命令行工具",
+    "Version": "3.0.161~spark1",
+    "Filename": "aliyun-cli_3.0.161~spark1_amd64.deb",
+    "Torrent_address": "aliyun-cli_3.0.161~spark1_amd64.deb.torrent",
+    "Pkgname": "aliyun-cli",
+    "Author": "阿里云",
+    "Contributor": "Donald Sebastian Leung",
+    "Website": "https://github.com/aliyun/aliyun-cli",
+    "Update": "2023-04-13 22:11:04",
+    "Size": "3.09 MB",
+    "More": "阿里云命令行工具是用 Go 语言编写的, 基于阿里云 OpenAPI 打造的，用于管理阿里云资源的工具。通过下载和配置该工具，您可以在一个命令行方式下管理多个阿里云产品资源。\n\n声明：本软件包并非由阿里云官方提供或支持，如有问题请发邮件到 donaldsebleung@qq.com 或于 https://gitee.com/donaldsebleung/aliyun-cli-spark-store 建工单。",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/02fe1110-da05-11ed-84b8-a9e6dfd6bea3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/13/00b9ed70-da05-11ed-84b8-a9e6dfd6bea3.png"
 }
 ,
 {
