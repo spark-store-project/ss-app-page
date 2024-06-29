@@ -1315,6 +1315,27 @@ Description: 安兔兔评测 for linux 安兔兔评测（AnTuTu）是一款跨�
 
 Package: easy-send
 Architecture: all
+Version: 1.1.6
+Priority: optional
+Section: default
+Maintainer: bitporo <bitporo@qq.com>
+Installed-Size: 244504
+Depends: com.electron
+Recommends: libappindicator3-1
+Filename: tools/easy-send/easy-send_1.1.6_all.deb
+Size: 8143216
+MD5sum: f14029de51248004bb1955528a430d97
+SHA1: 612bc28f9aa0da511a7c6a4b8ecd54df9472e6e0
+SHA256: 1967f78e53a117dc9f2f9e29e16a3b3d87430aff0642c130eda67882143a677e
+SHA512: a4269876f9e8d1b28e748be1ba3f117133c4204b789a620b5dcb0274dfaaf57e3ba737626cb98e1b56109d53fb7a5b34f8072ad1e48f82ae297d0aa8a57e25d5
+Homepage: https://easysend.channer.cn
+Description: 
+  便捷的局域网共享文本文件小工具，简捷使用，传送方便，仅需一台设备启动，其余设备使用浏览器访问即可使用
+License: GPL-2.0-only
+Vendor: bitporo <bitporo@qq.com>
+
+Package: easy-send
+Architecture: all
 Version: 1.1.4
 Priority: optional
 Section: default

@@ -738,23 +738,6 @@
 }
 ,
 {
-    "Name": "简单任务栏网速插件",
-    "Version": "0.0.5",
-    "Filename": "com.github.ccc-proc-info-plugin_0.0.5_amd64.deb",
-    "Torrent_address": "com.github.ccc-proc-info-plugin_0.0.5_amd64.deb.torrent",
-    "Pkgname": "com.github.ccc-proc-info-plugin",
-    "Author": "keke <243768648@qq.com>",
-    "Contributor": "keke <243768648@qq.com>",
-    "Website": "https://gitee.com/ct243768648/ccc-proc-info-plugin",
-    "Update": "2023-03-08 11:06:38",
-    "Size": "356.53 KB",
-    "More": "查看进程信息，包括网速、包名等；清理进程。\n（如果安装不成功，可能是由于安装了此工具的较老版本，请在终端执行“sudo apt remove com.github.proc-info-plugin”卸载之前版本后，再尝试安装本工具）\n\n\nV0.0.5更新说明：\n——————————————————\n添加功能： \n1、上下拖动应用项可以控制应用的关闭和锁定\n\nV0.0.4更新说明：\n——————————————————\n修复： \n1、当网易云音乐后台播放时不可被强制关闭；\n2、深度音乐不可被强制关闭\n\nV0.0.3更新说明：\n——————————————————\n更新： \n1、进程清理工具\n修复： \n1、启动器中点击进程信息图标，不能打开应用",
-    "Tags": "deepin;uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/f7a59f35cf8e4ad99e856fb8c7b23611.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/bf704e4b4e1e4323b7ff28df976a086f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/82574bdc9b4a4e3095029f3a04528459.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/504fe01d34594e92bad21719936b2d65.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/08/412e723da853488f8165db03f99381d2.png"
-}
-,
-{
     "Name": "Snipaste",
     "Version": "2.9spark1",
     "Filename": "com.snipaste.spark_2.9spark1_amd64.deb",
@@ -769,6 +752,23 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/131a529b3f0b428a849328f238758feb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/f96acec3ca3045269b2d04a0a07a5205.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/1755f75caecb4230881566b6e434be1b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/03/f7fba72083024d8bb21a26b4a95df32c.png"
+}
+,
+{
+    "Name": "简单任务栏网速插件",
+    "Version": "0.0.5",
+    "Filename": "com.github.ccc-proc-info-plugin_0.0.5_amd64.deb",
+    "Torrent_address": "com.github.ccc-proc-info-plugin_0.0.5_amd64.deb.torrent",
+    "Pkgname": "com.github.ccc-proc-info-plugin",
+    "Author": "keke <243768648@qq.com>",
+    "Contributor": "keke <243768648@qq.com>",
+    "Website": "https://gitee.com/ct243768648/ccc-proc-info-plugin",
+    "Update": "2023-03-08 11:06:38",
+    "Size": "356.53 KB",
+    "More": "查看进程信息，包括网速、包名等；清理进程。\n（如果安装不成功，可能是由于安装了此工具的较老版本，请在终端执行“sudo apt remove com.github.proc-info-plugin”卸载之前版本后，再尝试安装本工具）\n\n\nV0.0.5更新说明：\n——————————————————\n添加功能： \n1、上下拖动应用项可以控制应用的关闭和锁定\n\nV0.0.4更新说明：\n——————————————————\n修复： \n1、当网易云音乐后台播放时不可被强制关闭；\n2、深度音乐不可被强制关闭\n\nV0.0.3更新说明：\n——————————————————\n更新： \n1、进程清理工具\n修复： \n1、启动器中点击进程信息图标，不能打开应用",
+    "Tags": "deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/f7a59f35cf8e4ad99e856fb8c7b23611.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/bf704e4b4e1e4323b7ff28df976a086f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/82574bdc9b4a4e3095029f3a04528459.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/504fe01d34594e92bad21719936b2d65.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/08/412e723da853488f8165db03f99381d2.png"
 }
 ,
 {
@@ -1011,23 +1011,6 @@
 }
 ,
 {
-    "Name": "格式工厂（Wine）",
-    "Version": "5.11.0",
-    "Filename": "com.sugarcane.formatfactory_5.11.0_all.deb",
-    "Torrent_address": "com.sugarcane.formatfactory_5.11.0_all.deb.torrent",
-    "Pkgname": "com.sugarcane.formatfactory",
-    "Author": "Team FormatFactory",
-    "Contributor": "zkqgxlbjx",
-    "Website": "http://www.pcgeshi.com/",
-    "Update": "2023-08-08 02:18:08",
-    "Size": "103.57 MB",
-    "More": "格式工厂是一款免费多功能的多媒体格式转换软件。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/65fdb0f0-354e-11ee-a987-4f47b34b2038.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/08/6787fa70-354e-11ee-a987-4f47b34b2038.png"
-}
-,
-{
     "Name": "RustDesk",
     "Version": "1.2.3",
     "Filename": "rustdesk_1.2.3_amd64.deb",
@@ -1042,6 +1025,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/667306c238a24f0793ec1b743c15f431.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/82c68a1816ec4796a31b1b22e67789b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/1a67dedd3d5d475494a24edb648ee880.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/9f2afc5705fa426ab6930e4519ef34ac.png"
+}
+,
+{
+    "Name": "格式工厂（Wine）",
+    "Version": "5.11.0",
+    "Filename": "com.sugarcane.formatfactory_5.11.0_all.deb",
+    "Torrent_address": "com.sugarcane.formatfactory_5.11.0_all.deb.torrent",
+    "Pkgname": "com.sugarcane.formatfactory",
+    "Author": "Team FormatFactory",
+    "Contributor": "zkqgxlbjx",
+    "Website": "http://www.pcgeshi.com/",
+    "Update": "2023-08-08 02:18:08",
+    "Size": "103.57 MB",
+    "More": "格式工厂是一款免费多功能的多媒体格式转换软件。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/65fdb0f0-354e-11ee-a987-4f47b34b2038.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/08/6787fa70-354e-11ee-a987-4f47b34b2038.png"
 }
 ,
 {
@@ -3135,22 +3135,6 @@
 }
 ,
 {
-    "Name": "红手指云手机（wine）",
-    "Version": "2.2.23.spark0",
-    "Filename": "com.redfingerplayer.spark_2.2.23.spark0_i386.deb",
-    "Pkgname": "com.redfingerplayer.spark",
-    "Author": "湖南微算互联信息技术有限公司",
-    "Contributor": "sgb76",
-    "Website": "https://www.gc.com.cn/",
-    "Update": "2020-10-03 10:06:09",
-    "Size": "52.64 MB",
-    "More": "红手指云手机是一个智能手机应用云平台，全面支持各种手机应用程序的展示、下载及应用与管理服务。  并卓越实现全天候云端智能托管应用，让用户在脱离移动终端的状态下，也能将各种应用程序托管到云端，保持全天候在线。已知问题：登录界面无法通过QQ登录，帐号登录和微信登录没有问题",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/03/d0a8d690-055f-11eb-9cad-b3640a7d923a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/03/d315b7e0-055f-11eb-9cad-b3640a7d923a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/03/d643ed60-055f-11eb-9cad-b3640a7d923a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/03/d8bdc700-055f-11eb-9cad-b3640a7d923a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/03/cc9cc430-055f-11eb-9cad-b3640a7d923a.png"
-}
-,
-{
     "Name": "Slimbook Battery",
     "Version": "3.97beta",
     "Filename": "slimbookbattery_3.97beta_all.deb",
@@ -3164,6 +3148,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/24/3aa74ce0-76ab-11eb-b043-1321b17d460b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/24/4482f390-76ab-11eb-b043-1321b17d460b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/24/fe6f5880-76aa-11eb-b043-1321b17d460b.png"
+}
+,
+{
+    "Name": "红手指云手机（wine）",
+    "Version": "2.2.23.spark0",
+    "Filename": "com.redfingerplayer.spark_2.2.23.spark0_i386.deb",
+    "Pkgname": "com.redfingerplayer.spark",
+    "Author": "湖南微算互联信息技术有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.gc.com.cn/",
+    "Update": "2020-10-03 10:06:09",
+    "Size": "52.64 MB",
+    "More": "红手指云手机是一个智能手机应用云平台，全面支持各种手机应用程序的展示、下载及应用与管理服务。  并卓越实现全天候云端智能托管应用，让用户在脱离移动终端的状态下，也能将各种应用程序托管到云端，保持全天候在线。已知问题：登录界面无法通过QQ登录，帐号登录和微信登录没有问题",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/03/d0a8d690-055f-11eb-9cad-b3640a7d923a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/03/d315b7e0-055f-11eb-9cad-b3640a7d923a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/03/d643ed60-055f-11eb-9cad-b3640a7d923a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/03/d8bdc700-055f-11eb-9cad-b3640a7d923a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/03/cc9cc430-055f-11eb-9cad-b3640a7d923a.png"
 }
 ,
 {
@@ -3389,19 +3389,19 @@
 ,
 {
     "Name": "简传",
-    "Version": "1.1.4",
-    "Filename": "easy-send_1.1.4_all.deb",
-    "Torrent_address": "easy-send_1.1.4_all.deb.torrent",
+    "Version": "1.1.6",
+    "Filename": "easy-send_1.1.6_all.deb",
+    "Torrent_address": "easy-send_1.1.6_all.deb.torrent",
     "Pkgname": "easy-send",
     "Author": "bitporo <bitporo@qq.com>",
     "Contributor": "bitporo <bitporo@qq.com>",
     "Website": "https://easysend.channer.cn",
-    "Update": "2024-06-26 22:55:44",
-    "Size": "7.59 MB",
+    "Update": "2024-06-29 18:38:16",
+    "Size": "7.77 MB",
     "More": "便捷的局域网共享文本文件小工具，简捷使用，传送方便，仅需一台设备启动，其余设备使用浏览器访问即可使用",
     "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/f1e7fdffa99d4e7fb8808a3915794daf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/dac1953298ec4dee84883e61e192469d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/26/654a427d67c546a59cf7b469ab5ae27b.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/f27aa17f9b8748b2b6fa466bb0711083.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/e65063cd089a43d8bb2e1e8eec9e57c5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/29/dcd1a59926a347a597a8cb6aa594597f.png"
 }
 ,
 {

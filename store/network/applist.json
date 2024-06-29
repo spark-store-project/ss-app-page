@@ -1218,6 +1218,20 @@
 }
 ,
 {
+   "Name":"百度网盘（wine）",
+   "Version":"5.7.3deepin0",
+   "Filename":"deepin.com.baidu.pan_5.7.3deepin0_i386.deb",
+   "Pkgname":"deepin.com.baidu.pan",
+   "Author":"百度",
+   "Contributor":"奇点法则",
+   "Website":" ",
+   "Update":"2020-08-13 19:23",
+   "Size":"73.51MB",
+   "More":"远古win版百度网盘，图就不放了。"
+}
+
+,
+{
     "Name": "SnowFlake 终端",
     "Version": "1.0.4-fix1",
     "Filename": "snowflake_1.0.4-fix1_amd64.deb",
@@ -1232,20 +1246,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/095937c0-402d-11eb-9901-b19676ce26f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/095c1df0-402d-11eb-9901-b19676ce26f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/0960b1d0-402d-11eb-9901-b19676ce26f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/0966cc50-402d-11eb-9901-b19676ce26f7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/17/066e4cd0-402d-11eb-9901-b19676ce26f7.png"
 }
-,
-{
-   "Name":"百度网盘（wine）",
-   "Version":"5.7.3deepin0",
-   "Filename":"deepin.com.baidu.pan_5.7.3deepin0_i386.deb",
-   "Pkgname":"deepin.com.baidu.pan",
-   "Author":"百度",
-   "Contributor":"奇点法则",
-   "Website":" ",
-   "Update":"2020-08-13 19:23",
-   "Size":"73.51MB",
-   "More":"远古win版百度网盘，图就不放了。"
-}
-
 ,
 {
     "Name": "在线视频下载器",
@@ -1978,22 +1978,6 @@
 }
 ,
 {
-    "Name": "Slimjet",
-    "Version": "33.0.0.0",
-    "Filename": "slimjet_33.0.0.0_amd64.deb",
-    "Pkgname": "slimjet",
-    "Author": "Slimjet",
-    "Contributor": "OkayPJ",
-    "Website": "https://www.slimjet.com/",
-    "Update": "2022-02-01 23:25:33",
-    "Size": "73.04 MB",
-    "More": "高速高效\n基于业界领先的Blink引擎，浏览器启动更快，加载页面更快，下载文件更快。\n\n安全稳定\n自动防止钓鱼和恶意软件入侵，灵活的隐私控制选项，稳健的多进程体系结构\n\n功能强大\n集诸多强大而方便的功能于一身，风之影浏览器不需要依赖于外部插件就可以轻松帮你在更短的时间里面做更多的事情。\n\n配置灵活\n风之影浏览器提供了很多灵活的选项让您可以按照个人喜好和需求配置浏览器，提高使用的便利性和效率。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/01/d906e1a0-8372-11ec-a511-0f88ef1eb8c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/01/d9200ef0-8372-11ec-a511-0f88ef1eb8c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/01/d958ab20-8372-11ec-a511-0f88ef1eb8c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/01/d93e4550-8372-11ec-a511-0f88ef1eb8c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/01/d9749790-8372-11ec-a511-0f88ef1eb8c8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/02/01/d4728c70-8372-11ec-a511-0f88ef1eb8c8.png"
-}
-,
-{
     "Name": "Classin Linux客户端",
     "Version": "5.1.1.34",
     "Filename": "classin_5.1.1.34_amd64.deb",
@@ -2008,6 +1992,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/28/89a1183d59914b4fa979d8069300f2c4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/28/88d9d4fd26804dcb8803c3ba72b5ada5.png"
+}
+,
+{
+    "Name": "Slimjet",
+    "Version": "33.0.0.0",
+    "Filename": "slimjet_33.0.0.0_amd64.deb",
+    "Pkgname": "slimjet",
+    "Author": "Slimjet",
+    "Contributor": "OkayPJ",
+    "Website": "https://www.slimjet.com/",
+    "Update": "2022-02-01 23:25:33",
+    "Size": "73.04 MB",
+    "More": "高速高效\n基于业界领先的Blink引擎，浏览器启动更快，加载页面更快，下载文件更快。\n\n安全稳定\n自动防止钓鱼和恶意软件入侵，灵活的隐私控制选项，稳健的多进程体系结构\n\n功能强大\n集诸多强大而方便的功能于一身，风之影浏览器不需要依赖于外部插件就可以轻松帮你在更短的时间里面做更多的事情。\n\n配置灵活\n风之影浏览器提供了很多灵活的选项让您可以按照个人喜好和需求配置浏览器，提高使用的便利性和效率。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/01/d906e1a0-8372-11ec-a511-0f88ef1eb8c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/01/d9200ef0-8372-11ec-a511-0f88ef1eb8c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/01/d958ab20-8372-11ec-a511-0f88ef1eb8c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/01/d93e4550-8372-11ec-a511-0f88ef1eb8c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/01/d9749790-8372-11ec-a511-0f88ef1eb8c8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/02/01/d4728c70-8372-11ec-a511-0f88ef1eb8c8.png"
 }
 ,
 {
@@ -2480,6 +2480,23 @@
 }
 ,
 {
+    "Name": "ODE 多功能助手",
+    "Version": "0.8.3",
+    "Filename": "com.ode.deepin_0.8.3_all.deb",
+    "Torrent_address": "com.ode.deepin_0.8.3_all.deb.torrent",
+    "Pkgname": "com.ode.deepin",
+    "Author": "wang",
+    "Contributor": "wang",
+    "Website": "https://www.123pan.com/s/qEbeVv-Zh663.html",
+    "Update": "2024-06-21 22:02:10",
+    "Size": "67.12 MB",
+    "More": "这是一款电脑端下载工具，其实它的主要功能是链接下载，和迅雷、idm是一样类型的下载软件，支持链接下载和网盘链接解析下载。如遇启动白板请重启电脑。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/0f25bed889654d0793a2cbebbf725dc8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/3cb9e747fef64f518e321ee43c870958.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/ee88a4fa32a544a88710667fe7e304d1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/0ce395e9ed424069b5bc9361aa422e49.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/21/a72139c745d64d0b83054a9a6500db2f.png"
+}
+,
+{
     "Name": "Pixso",
     "Version": "1.34.1.0deepin0",
     "Filename": "cn.pixso.deepin_1.34.1.0deepin0_all.deb",
@@ -2511,23 +2528,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/15/85946781c94c4a2591d5d4c006727fb0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/15/7b95652feb1440859dfed86d6d04a4bb.png"
-}
-,
-{
-    "Name": "ODE 多功能助手",
-    "Version": "0.8.3",
-    "Filename": "com.ode.deepin_0.8.3_all.deb",
-    "Torrent_address": "com.ode.deepin_0.8.3_all.deb.torrent",
-    "Pkgname": "com.ode.deepin",
-    "Author": "wang",
-    "Contributor": "wang",
-    "Website": "https://www.123pan.com/s/qEbeVv-Zh663.html",
-    "Update": "2024-06-21 22:02:10",
-    "Size": "67.12 MB",
-    "More": "这是一款电脑端下载工具，其实它的主要功能是链接下载，和迅雷、idm是一样类型的下载软件，支持链接下载和网盘链接解析下载。如遇启动白板请重启电脑。",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/0f25bed889654d0793a2cbebbf725dc8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/3cb9e747fef64f518e321ee43c870958.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/ee88a4fa32a544a88710667fe7e304d1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/0ce395e9ed424069b5bc9361aa422e49.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/21/a72139c745d64d0b83054a9a6500db2f.png"
 }
 ,
 {
@@ -2596,6 +2596,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/12/c939d888ea1041f38cea03c2bb54c654.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/12/10b27d37c90e470588d7aaebbc6a204e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/12/fb0c52389cb044e8bb98e5d74f001c65.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/12/3f96f9cb788545d1aee33f7c062a3b2a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/12/6c4d6d74bc5a4a61b95d6dfb021d1295.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/12/1d4d52b13e5d4e8393ceba37e965c6fe.png"
+}
+,
+{
+    "Name": "金山画王2006",
+    "Version": "1.0",
+    "Filename": "com.kingsoft.huawang.deepin_1.0_all.deb",
+    "Torrent_address": "com.kingsoft.huawang.deepin_1.0_all.deb.torrent",
+    "Pkgname": "com.kingsoft.huawang.deepin",
+    "Author": "Kingsoft",
+    "Contributor": "Kingsoft",
+    "Website": "http://www.paintroom.cn/",
+    "Update": "2024-06-29 17:11:03",
+    "Size": "163.66 MB",
+    "More": "为儿童设计，所以绘画的时候有声音、简单易操作的人性化界面，还有卡通人物的实时提示，但其功能又不简单了，绘画工具的功能应有尽有，几十种画笔、印记、线条、形状和奇特效果足跟其他绘画工具相比。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/360a4d86f5d64924bd7bd6957a86901f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/25768d25f0334ed788963fac2bc964b0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/e4b7df8075034bf5bbbc57de7393b847.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/29/1fd9086d1e8f4ee0a843fd143b1b0a66.png"
 }
 ,
 {

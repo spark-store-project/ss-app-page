@@ -629,20 +629,6 @@
 }
 ,
 {
-   "Name":"OneDrive Client for Linux",
-   "Version":"2.4.3",
-   "Filename":"onedrive_2.4.3_all.deb",
-   "Pkgname":"onedrive",
-   "Author":"abraunegg",
-   "Contributor":"jalawov",
-   "Website":"https://github.com/abraunegg/onedrive",
-   "Update":"2020-07-07 17:58",
-   "Size":"4.54MB",
-   "More":"onedrive 的命令行客户端 支持business版和office365版，支持世纪互联（zg特色）版"
-}
-
-,
-{
     "Name": "OneNote",
     "Version": "2024.4.124",
     "Filename": "p3x-onenote_2024.4.124_amd64.deb",
@@ -658,6 +644,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/27/4cef56c0-d514-11ee-9418-d7bd641101d9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/27/7a182910-d514-11ee-9418-d7bd641101d9.png"
 }
+,
+{
+   "Name":"OneDrive Client for Linux",
+   "Version":"2.4.3",
+   "Filename":"onedrive_2.4.3_all.deb",
+   "Pkgname":"onedrive",
+   "Author":"abraunegg",
+   "Contributor":"jalawov",
+   "Website":"https://github.com/abraunegg/onedrive",
+   "Update":"2020-07-07 17:58",
+   "Size":"4.54MB",
+   "More":"onedrive 的命令行客户端 支持business版和office365版，支持世纪互联（zg特色）版"
+}
+
 ,
 {
     "Name": "Microsoft Office PowerPoint 2007(wine)",
@@ -2772,23 +2772,6 @@
 }
 ,
 {
-    "Name": "滴答清单",
-    "Version": "2.0.10",
-    "Filename": "dida_2.0.10_amd64.deb",
-    "Torrent_address": "dida_2.0.10_amd64.deb.torrent",
-    "Pkgname": "dida",
-    "Author": "Appest Inc",
-    "Contributor": "wylovecat <2438626764@qq.com>",
-    "Website": "https://dida365.com/home",
-    "Update": "2024-02-04 22:17:46",
-    "Size": "77.57 MB",
-    "More": "滴答清单，一款轻便的待办事项(Todo)、日程管理(GTD)应用，全球逾千万用户的共同选择。它可以帮你制定项目计划、设置会议提醒、 安排行程规划、保持工作专注，还能用于记录备忘、整理购物清单。滴答清单集计划表、备忘录、日程清单、笔记、便签、闹钟、日历、番茄钟、在线协作多种实用功能于一体，是你高效办公、目标管理、习惯养成及便捷生活的得力助手。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/04/9ce743b48a20482a84459d4f96170727.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/04/913cf31484414a2eae913f72447f426c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/04/9bf0437d4fb041eeb71a5e3d180959e3.png"
-}
-,
-{
     "Name": "WPS Office 2016",
     "Version": "10.1.0.6757spark1",
     "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
@@ -2803,6 +2786,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
+}
+,
+{
+    "Name": "滴答清单",
+    "Version": "2.0.10",
+    "Filename": "dida_2.0.10_amd64.deb",
+    "Torrent_address": "dida_2.0.10_amd64.deb.torrent",
+    "Pkgname": "dida",
+    "Author": "Appest Inc",
+    "Contributor": "wylovecat <2438626764@qq.com>",
+    "Website": "https://dida365.com/home",
+    "Update": "2024-02-04 22:17:46",
+    "Size": "77.57 MB",
+    "More": "滴答清单，一款轻便的待办事项(Todo)、日程管理(GTD)应用，全球逾千万用户的共同选择。它可以帮你制定项目计划、设置会议提醒、 安排行程规划、保持工作专注，还能用于记录备忘、整理购物清单。滴答清单集计划表、备忘录、日程清单、笔记、便签、闹钟、日历、番茄钟、在线协作多种实用功能于一体，是你高效办公、目标管理、习惯养成及便捷生活的得力助手。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/04/9ce743b48a20482a84459d4f96170727.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/04/913cf31484414a2eae913f72447f426c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/04/9bf0437d4fb041eeb71a5e3d180959e3.png"
 }
 ,
 {
