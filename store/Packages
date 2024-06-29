@@ -21388,6 +21388,23 @@ SHA512: 83af281c327a4193998279ebe0fb4c206231e2de63e8cb45ec41b30c5e1f6fe53fea4aa7
 Homepage: https://gitee.com/JackLee02/vekGame
 Description: VEK主要用于Linux操作系统利用Wine+dxvk自动配置容器来运行windows下程序的工具。
 
+Package: com.popcap.plants-vs-zombies.danxiaogudream
+Architecture: all
+Version: 0.1spark0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 318677
+Depends: spark-wine, spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepin, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: games/com.popcap.plants-vs-zombies.danxiaogudream/com.popcap.plants-vs-zombies.danxiaogudream_0.1spark0_all.deb
+Size: 318705568
+MD5sum: 445a63ca59bd133be9019e00326b2638
+SHA1: 89a53b194bc450c9382e63922be22483d2292b59
+SHA256: 8f3ea65473bc13af36f73b8f89501e52ea43d70c1867a75d8de950a7c1c3138f
+SHA512: 8affe8eab98add6ff0200da3578946182b0de8deec684bcad9269bc5c369d82fc26a9d889141e2b6019524b01270e76cb587ca8e48d0cdfaa14af01cde2df32b
+Description: 植物大战僵尸改版《胆小菇之梦》第一大关，同时打开游戏（首页，不进入关卡）和修改器，修改器出现“修改成功！”字样后，进入冒险模式即可。
+
 Package: com.foxwq.spark
 Architecture: i386
 Version: 2022spark1

@@ -467,23 +467,6 @@
 }
 ,
 {
-    "Name": "腾讯WeGame",
-    "Version": "1.0.0",
-    "Filename": "wegame_1.0.0_i386.deb",
-    "Torrent_address": "wegame_1.0.0_i386.deb.torrent",
-    "Pkgname": "wegame",
-    "Author": "rc3583z<huawei0086@126.com>",
-    "Contributor": "rc3583z",
-    "Website": "0",
-    "Update": "2023-06-11 11:24:06",
-    "Size": "1.41 GB",
-    "More": "腾讯WeGame，作者电脑配置不好游戏还没有测试，请谅解。目前来看功能应该可以正常使用。",
-    "Tags": "deepin;ubuntu;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/9afb71e0-0806-11ee-91ff-01da5404af49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/9b10cea0-0806-11ee-91ff-01da5404af49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/9b2a7120-0806-11ee-91ff-01da5404af49.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/11/91306d00-0806-11ee-91ff-01da5404af49.png"
-}
-,
-{
     "Name": "暴雪战网客户端（wine）",
     "Version": "2.13.1.13521deepin6",
     "Filename": "cn.blizzardgames.battlenet.spark_2.13.1.13521deepin6_amd64.deb",
@@ -498,6 +481,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/25/943f1750-f44b-11ec-95cd-334d21a0f722.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/25/92ed1be0-f44b-11ec-95cd-334d21a0f722.png"
+}
+,
+{
+    "Name": "腾讯WeGame",
+    "Version": "1.0.0",
+    "Filename": "wegame_1.0.0_i386.deb",
+    "Torrent_address": "wegame_1.0.0_i386.deb.torrent",
+    "Pkgname": "wegame",
+    "Author": "rc3583z<huawei0086@126.com>",
+    "Contributor": "rc3583z",
+    "Website": "0",
+    "Update": "2023-06-11 11:24:06",
+    "Size": "1.41 GB",
+    "More": "腾讯WeGame，作者电脑配置不好游戏还没有测试，请谅解。目前来看功能应该可以正常使用。",
+    "Tags": "deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/9afb71e0-0806-11ee-91ff-01da5404af49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/9b10cea0-0806-11ee-91ff-01da5404af49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/9b2a7120-0806-11ee-91ff-01da5404af49.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/11/91306d00-0806-11ee-91ff-01da5404af49.png"
 }
 ,
 {
@@ -1103,6 +1103,24 @@
 }
 ,
 {
+    "Author": "shiroko <hanhaoxuan@uniontech.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.mihoyo.ys-cloud_1.0.0_all.deb",
+    "More": "云原神网页版是米哈游（miHoYo）旗下的原神云游戏版本。通过实时云端技术，你无需下载完整原神包体，也可尽享低延迟、高画质、高顿率游戏体验。《原神》是由米哈游自研的一款开放世界冒险RPG。你将在游戏中探索一个被称作「提瓦特」的幻想世界。在这广阔的世界中，你可以踏遍七国，邂逅性格各异、能力独特的同伴，与他们一同对抗强敌，踏上寻回血亲之路；也可以不带目的地漫游，沉浸在充满生机的世界里，让好奇心驱使自己发掘各个角落的奥秘……直到\n你与分离的血亲重聚，在终点见证一切事物的沉淀\n",
+    "Name": "云·原神",
+    "Pkgname": "com.mihoyo.ys-cloud",
+    "Size": "49 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "com.mihoyo.ys-cloud_1.0.0_all.deb.torrent",
+    "Update": "2024-01-05 17:51:54",
+    "Version": "1.0.0",
+    "Website": "https://ys.mihoyo.com/cloud/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_3.png\"]"
+}
+
+,
+{
     "Name": "蜘蛛纸牌",
     "Version": "1.0.0",
     "Filename": "spider-card_1.0.0_amd64.deb",
@@ -1150,24 +1168,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5bfdd80-28dc-11ec-8d07-cdc4a71453ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5e0fa10-28dc-11ec-8d07-cdc4a71453ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5ce5c70-28dc-11ec-8d07-cdc4a71453ec.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/09/bb8f7560-28dc-11ec-8d07-cdc4a71453ec.png"
 }
-,
-{
-    "Author": "shiroko <hanhaoxuan@uniontech.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.mihoyo.ys-cloud_1.0.0_all.deb",
-    "More": "云原神网页版是米哈游（miHoYo）旗下的原神云游戏版本。通过实时云端技术，你无需下载完整原神包体，也可尽享低延迟、高画质、高顿率游戏体验。《原神》是由米哈游自研的一款开放世界冒险RPG。你将在游戏中探索一个被称作「提瓦特」的幻想世界。在这广阔的世界中，你可以踏遍七国，邂逅性格各异、能力独特的同伴，与他们一同对抗强敌，踏上寻回血亲之路；也可以不带目的地漫游，沉浸在充满生机的世界里，让好奇心驱使自己发掘各个角落的奥秘……直到\n你与分离的血亲重聚，在终点见证一切事物的沉淀\n",
-    "Name": "云·原神",
-    "Pkgname": "com.mihoyo.ys-cloud",
-    "Size": "49 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "com.mihoyo.ys-cloud_1.0.0_all.deb.torrent",
-    "Update": "2024-01-05 17:51:54",
-    "Version": "1.0.0",
-    "Website": "https://ys.mihoyo.com/cloud/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_3.png\"]"
-}
-
 ,
 {
     "Name": "开源卡丁车",
@@ -4546,6 +4546,23 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/3d627175229a43e7ba0104a4f30288e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/4e744552c75c4b2684794b1bfb41670a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/03/5619ac9662d9471c9a10cbfb0193810d.png"
+}
+,
+{
+    "Name": "胆小菇之梦 第一大关（关卡1-1到关卡1-10）",
+    "Version": "0.1spark0",
+    "Filename": "com.popcap.plants-vs-zombies.danxiaogudream_0.1spark0_all.deb",
+    "Torrent_address": "com.popcap.plants-vs-zombies.danxiaogudream_0.1spark0_all.deb.torrent",
+    "Pkgname": "com.popcap.plants-vs-zombies.danxiaogudream",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://space.bilibili.com/484494032",
+    "Update": "2024-06-29 22:14:23",
+    "Size": "303.94 MB",
+    "More": "打开游戏（首页，不进入关卡）和修改器，修改器出现“修改成功！”字样后，进入冒险模式即可。\n\n如果游戏已经有存档，请点击游戏首页左上角木牌子新建用户，以进入一周目关卡1-1。\n游戏中可以按alt+enter全屏。\n\n欢迎用本修改器录视频/直播，但是请说明出处。\n祝玩得愉快！\nBilibili 北窗遥望",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/075283294b3948a2a948a346c72a78f1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/29/26954cd61e4f418aacd619a52f64da3d.png"
 }
 ,
 {

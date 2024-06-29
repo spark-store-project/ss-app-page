@@ -4857,4 +4857,21 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.kaspersky.www.kvrt/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.kaspersky.www.kvrt/screen_2.png\"]"
 }
 
+,
+{
+    "Name": "AIDA64（Wine）",
+    "Version": "6.90.6500",
+    "Filename": "com.aida64.deepin_6.90.6500_i386.deb",
+    "Torrent_address": "com.aida64.deepin_6.90.6500_i386.deb.torrent",
+    "Pkgname": "com.aida64.deepin",
+    "Author": "Ticozhang",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.aida64.com/downloads",
+    "Update": "2024-06-29 21:22:43",
+    "Size": "78.42 MB",
+    "More": "一款测试软硬件系统信息的工具，它可以详细的显示出pc每一个方面的信息。aida64不仅提供了诸如协助超频，硬件侦错，压力测试和传感器监测等多种功能，而且还可以对处理器，系统内存和磁盘驱动器的性能进行全面评估。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/e2e45bbe0b024e7db24e59f88e3ad59e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/16470b3d62ee45fbaa6685499f9ee2f1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/29/8491fdb71873479eb4356a863901870a.png"
+}
 ]
