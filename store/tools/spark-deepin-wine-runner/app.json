@@ -1,16 +1,16 @@
 {
-    "Name": "Wine运行器 3.9.0",
-    "Version": "3.9.1",
-    "Filename": "spark-deepin-wine-runner_3.9.1_all.deb",
-    "Torrent_address": "spark-deepin-wine-runner_3.9.1_all.deb.torrent",
+    "Name": "Wine运行器 3.9.2",
+    "Version": "3.9.2",
+    "Filename": "spark-deepin-wine-runner_3.9.2_all.deb",
+    "Torrent_address": "spark-deepin-wine-runner_3.9.2_all.deb.torrent",
     "Pkgname": "spark-deepin-wine-runner",
     "Author": "gfdgd xi <3025613752@qq.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
-    "Update": "2024-06-07 16:10:16",
-    "Size": "51.45 MB",
+    "Update": "2024-06-29 16:00:23",
+    "Size": "48.98 MB",
     "More": "Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序，内置了对Wine图形化的支持、各种Wine工具、自制的Wine程序打包器和运行库安装工具等。\n它同时还内置了基于VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作。\n\n一个图形化了如下命令的程序（最简单格式）\nenv WINEPREFIX=容器路径 wine（wine的路径） 可执行文件路径\n让你可以简易方便的使用 wine\n\nWine 运行器 QQ 交流群：762985460",
     "Tags": "community;ubuntu;deepin;uos;dtk5;dwine2;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/0d8468eee9f242ea87c74699f793c24b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/7cabaa47f7184077a85a006d592c3857.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/038fac85843e40619611e0f0e6a1d4a2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/27ef208e8ee54707997913361f966ee7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/005b958a13e5407e9626f48b8a6b465a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/07/61548f7187c5463d84447f75f34de610.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/9d518a42d7cb4e3da3265a8ea92d0ca6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/c5e403b3107640fe8260192dcda98da1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/945662d4ad144f0289341880c669ce0e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/808af5b649f843d8bc18b630a5aa4a1c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/62c7dedc806f49569ae995ce9793163e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/29/04052dc71f794049b00025797aeb8a93.png"
 }
