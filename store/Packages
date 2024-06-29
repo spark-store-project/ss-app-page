@@ -5229,6 +5229,20 @@ Homepage: http://ksnip.org
 Description: Screenshot Tool
  Screenshot tool that provides many annotation features for your screenshots.
 
+Package: skin.syl.syllottery
+Architecture: amd64
+Version: 1.1
+Priority: standard
+Section: game
+Maintainer: SYL科技工作室-黄振宇
+Filename: tools/skin.syl.syllottery/skin.syl.syllottery_1.1_amd64.deb
+Size: 42002728
+MD5sum: 3fe44bb019ad9bcc84bfa55b3a9b8ae7
+SHA1: 63e23b1f5090ba6d14185f7519167e084281d614
+SHA256: e12031d978a67cae543eb7c7fe4ffdc98894c79139ce95af77d183497e20cd36
+SHA512: 826b243eb02b1aede0bede2fb553f40dfe9f3daad60c3dbb714c5b6f0fd33680c509b83dc981f25bf206fb0c1f9151c5df9016348e1ed6723d9ba83e7d1917cd
+Description: SYL的抽奖随机软件
+
 Package: keepassxc
 Architecture: amd64
 Version: 2.7.7
@@ -12693,6 +12707,23 @@ SHA256: 0b67c36388d83c958af03ba3d05939c164b7b721639e502fe7ea42b6bfd9646e
 SHA512: 37f0d8bacbc139bae6788609867496dcc9cbed8d50bcbe3ef72dd8e6e5e2df5a9fa4460a138c2394c07f9dfc5281fc251721eecb48132febeed9e9fd4369ace7
 Description: Round Corner on spark-webapp-runtime
  基于spark-webapp-runtime打包的圆角裁切小工具
+
+Package: com.honeyview.deepin
+Architecture: all
+Version: 5.53
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: bandisoft.com
+Installed-Size: 11044
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: image_graphics/com.honeyview.deepin/com.honeyview.deepin_5.53_all.deb
+Size: 11049256
+MD5sum: 8873f4e78ab37c69f802c14ea1676fd4
+SHA1: 90f2bdc8c8eeb47e15be57df65c75e0d637499d3
+SHA256: e1dd64fbfc0d838b1d3577ef6d30ab15d03f2a789aa7f9abbaed9f20d17e777a
+SHA512: fbba54c2656cd106a5284a81347555ada73531cebbe37c9c15947ea5411be6f3e31b5564cd85b2f961a22f3b6794ecaa163c9614f359e5f3f83df1cd8436ebf6
+Description: .Honeyview 是一款快速的图片查看器
 
 Package: azpainter
 Architecture: amd64

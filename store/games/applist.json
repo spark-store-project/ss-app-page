@@ -1120,22 +1120,6 @@
 }
 ,
 {
-    "Name": "魔塔",
-    "Version": "1.0.0",
-    "Filename": "magic-tower_1.0.0_amd64.deb",
-    "Pkgname": "magic-tower",
-    "Author": "Chong Guo",
-    "Contributor": "depend",
-    "Website": "https://github.com/dependon/Magic-Tower-Qt",
-    "Update": "2021-10-09 16:43:03",
-    "Size": "9.87 MB",
-    "More": "魔塔-qt版",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5bfdd80-28dc-11ec-8d07-cdc4a71453ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5e0fa10-28dc-11ec-8d07-cdc4a71453ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5ce5c70-28dc-11ec-8d07-cdc4a71453ec.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/09/bb8f7560-28dc-11ec-8d07-cdc4a71453ec.png"
-}
-,
-{
     "Name": "Minecraft 官方启动器",
     "Version": "1.1.26",
     "Filename": "minecraft-launcher_1.1.26_amd64.deb",
@@ -1150,6 +1134,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/a803c123b4184a998fcdd1b48cd1a869.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/3fe5665e72b94dd4adeffcac6acea570.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/fefe4018a0714b60a6d88243ba819a83.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/04/553558bc61924ed28cb3d20aaf9c0ca1.png"
+}
+,
+{
+    "Name": "魔塔",
+    "Version": "1.0.0",
+    "Filename": "magic-tower_1.0.0_amd64.deb",
+    "Pkgname": "magic-tower",
+    "Author": "Chong Guo",
+    "Contributor": "depend",
+    "Website": "https://github.com/dependon/Magic-Tower-Qt",
+    "Update": "2021-10-09 16:43:03",
+    "Size": "9.87 MB",
+    "More": "魔塔-qt版",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5bfdd80-28dc-11ec-8d07-cdc4a71453ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5e0fa10-28dc-11ec-8d07-cdc4a71453ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5ce5c70-28dc-11ec-8d07-cdc4a71453ec.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/09/bb8f7560-28dc-11ec-8d07-cdc4a71453ec.png"
 }
 ,
 {
@@ -1689,23 +1689,6 @@
 }
 ,
 {
-    "Name": "球杆俱乐部2：台球和斯诺克",
-    "Version": "1.0spark0",
-    "Filename": "com.cueclub2.spark_1.0spark0_amd64.deb",
-    "Torrent_address": "com.cueclub2.spark_1.0spark0_amd64.deb.torrent",
-    "Pkgname": "com.cueclub2.spark",
-    "Author": "Bulldog Interactive",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-07-03 00:21:26",
-    "Size": "112.46 MB",
-    "More": "一款桌球休闲游戏，玩家将会进入一个专业的桌球俱乐部，在里面和帅哥美女们打休闲的台球以及专业的斯诺克比赛，物理引擎非常真实，玩家击球和球碰球的反馈都显得非常真实，和现实中打台球基本没什么两样",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/d73ccbe3e7674398a60a2c3f19321956.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/bd35c544fde94dc8a7fe6d88f3cb693f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/1bd348eeb69e434a840f35f77d89fd1b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/03/735fbf6e348c4be98120deeffde66fda.png"
-}
-,
-{
     "Name": "卡车司机",
     "Version": "1.0spark0",
     "Filename": "com.truckdriver.spark_1.0spark0_amd64.deb",
@@ -1720,6 +1703,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/11/3f4d6f9200d84475911e0a263df95d2b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/11/ce488acf838b4c0585ae1397fc18e5ac.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/11/0844c43f3d7944edb7b0f0f06b992ced.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/11/3e3647ee94a84eeca9111bf1f68df0cd.png"
+}
+,
+{
+    "Name": "球杆俱乐部2：台球和斯诺克",
+    "Version": "1.0spark0",
+    "Filename": "com.cueclub2.spark_1.0spark0_amd64.deb",
+    "Torrent_address": "com.cueclub2.spark_1.0spark0_amd64.deb.torrent",
+    "Pkgname": "com.cueclub2.spark",
+    "Author": "Bulldog Interactive",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-07-03 00:21:26",
+    "Size": "112.46 MB",
+    "More": "一款桌球休闲游戏，玩家将会进入一个专业的桌球俱乐部，在里面和帅哥美女们打休闲的台球以及专业的斯诺克比赛，物理引擎非常真实，玩家击球和球碰球的反馈都显得非常真实，和现实中打台球基本没什么两样",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/d73ccbe3e7674398a60a2c3f19321956.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/bd35c544fde94dc8a7fe6d88f3cb693f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/1bd348eeb69e434a840f35f77d89fd1b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/03/735fbf6e348c4be98120deeffde66fda.png"
 }
 ,
 {
@@ -2465,23 +2465,6 @@
 }
 ,
 {
-    "Name": "轴心国与同盟国",
-    "Version": "1.0spark0",
-    "Filename": "com.axisallies.spark_1.0spark0_amd64.deb",
-    "Torrent_address": "com.axisallies.spark_1.0spark0_amd64.deb.torrent",
-    "Pkgname": "com.axisallies.spark",
-    "Author": "Avalon Hill",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-05-22 21:06:25",
-    "Size": "767.45 MB",
-    "More": "一款以二战为题材的即时战略类游戏\n\n注：只在deepin下测试通过，其他发行版未作测试",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/1ea84240-f8a1-11ed-864a-6d63066f1123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/21695e10-f8a1-11ed-864a-6d63066f1123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/23dafa50-f8a1-11ed-864a-6d63066f1123.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/22/1c1fc2a0-f8a1-11ed-864a-6d63066f1123.png"
-}
-,
-{
     "Name": "落叶城",
     "Version": "1.0spark0",
     "Filename": "com.ambercity.spark_1.0spark0_amd64.deb",
@@ -2496,6 +2479,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/8d91ec211ac6480ea4c7c7691969b2d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/878d15dde53347fdbeb2912582e048df.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/25072382ee06488d83962da81255b623.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/c9f29ec37f68459d8ff8fc707ae9e92e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/03/8289544f235d421b990341729ee2ad2e.png"
+}
+,
+{
+    "Name": "轴心国与同盟国",
+    "Version": "1.0spark0",
+    "Filename": "com.axisallies.spark_1.0spark0_amd64.deb",
+    "Torrent_address": "com.axisallies.spark_1.0spark0_amd64.deb.torrent",
+    "Pkgname": "com.axisallies.spark",
+    "Author": "Avalon Hill",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-05-22 21:06:25",
+    "Size": "767.45 MB",
+    "More": "一款以二战为题材的即时战略类游戏\n\n注：只在deepin下测试通过，其他发行版未作测试",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/1ea84240-f8a1-11ed-864a-6d63066f1123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/21695e10-f8a1-11ed-864a-6d63066f1123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/23dafa50-f8a1-11ed-864a-6d63066f1123.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/22/1c1fc2a0-f8a1-11ed-864a-6d63066f1123.png"
 }
 ,
 {
@@ -4048,6 +4048,24 @@
 }
 ,
 {
+    "Author": "unknown <shenmo-ikun@shenmo-ikun-PC>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.mihoyo.sr-cloud_1.0.0_all.deb",
+    "More": "星穹铁道，启动！",
+    "Name": "云·崩坏星穹铁道",
+    "Pkgname": "com.mihoyo.sr-cloud",
+    "Size": "26 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "com.mihoyo.sr-cloud_1.0.0_all.deb.torrent",
+    "Update": "2024-06-19 22:06:32",
+    "Version": "1.0.0",
+    "Website": "https://sr.mihoyo.com/cloud/#/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.sr-cloud/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.sr-cloud/screen_1.png\"]"
+}
+
+,
+{
     "Name": "DARQ",
     "Version": "1.0spark1",
     "Filename": "com.darq.spark_1.0spark1_all.deb",
@@ -4179,24 +4197,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/21/654bebcefbfe42589a42bfadbe4d61ff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/21/b5ea0d52259b4432bc2cb7e3cd130c79.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/21/15a6ad057c01455f85a63fa994409707.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/21/59a20e0d0db64a39b17f043a2d562410.png"
 }
-,
-{
-    "Author": "unknown <shenmo-ikun@shenmo-ikun-PC>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.mihoyo.sr-cloud_1.0.0_all.deb",
-    "More": "星穹铁道，启动！",
-    "Name": "云·崩坏星穹铁道",
-    "Pkgname": "com.mihoyo.sr-cloud",
-    "Size": "26 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "com.mihoyo.sr-cloud_1.0.0_all.deb.torrent",
-    "Update": "2024-06-19 22:06:32",
-    "Version": "1.0.0",
-    "Website": "https://sr.mihoyo.com/cloud/#/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.sr-cloud/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.sr-cloud/screen_1.png\"]"
-}
-
 ,
 {
     "Name": "撞击时间2",
