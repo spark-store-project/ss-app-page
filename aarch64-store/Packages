@@ -7518,17 +7518,17 @@ Description: The web browser from qianxin.com
 
 Package: io.github.msojocs.bilibili
 Architecture: arm64
-Version: 1.13.6-2
+Version: 1.14.0-1
 Priority: optional
 Section: application
 Maintainer: msojocs
-Installed-Size: 280672
-Filename: video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.13.6-2_arm64.deb
-Size: 74770976
-MD5sum: a536455ed9bf7c3349fabeceb5a399ce
-SHA1: 49f6026ad713aaab6f0161bc5c6666214e1ade87
-SHA256: 516294b5c36d33cb9a47a505018b1cb9c00ceda8f5cedda8f28463821aae6e3b
-SHA512: ebf73a1ebba5d3d366206732306f7a90f96a307a9142efef0fc7b05ef7c059d51af5e45c38113a455cb50c8aca8ccebac702cd1e307307c2e9fa1caf64b6d099
+Installed-Size: 282953
+Filename: video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.14.0-1_arm64.deb
+Size: 76164108
+MD5sum: 0b48d3ecc20ea027ce4c0e68eabf0183
+SHA1: 04ccdb4e9f56f30f866825894cbb943cf16e21ef
+SHA256: 117b07a8c0b6ca879465fb20f94f5f12da88afd929d10662b4b314f8e5eb8791
+SHA512: e7e0bca2e4e8d42be74a21aad167bd6d423d123bead19ad38cf352b519bcecde5bd0139b0e291fcbcf747aeb2cb39fbd91d40b054503cf61746a3a63781fae19
 Description: BiliBili For Linux.
   BiliBili For Linux. This version is unofficial.
 

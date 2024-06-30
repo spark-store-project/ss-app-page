@@ -637,6 +637,23 @@
 }
 ,
 {
+    "Name": "Virtual DJ Studio Pro",
+    "Version": "8.3.4787spark0",
+    "Filename": "com.virtualdj.virtualdjpro.spark_8.3.4787spark0_amd64.deb",
+    "Torrent_address": "com.virtualdj.virtualdjpro.spark_8.3.4787spark0_amd64.deb.torrent",
+    "Pkgname": "com.virtualdj.virtualdjpro.spark",
+    "Author": "Atomix Productions",
+    "Contributor": "sgb76",
+    "Website": "http://www.virtualdj.com/",
+    "Update": "2022-07-11 10:55:29",
+    "Size": "69.35 MB",
+    "More": "一款强大的混音工作站，有着直观的界面，完全能满足各种场合的现场表演，从自由选曲、梦幻调音，到多声道混音、生成多种特效，Virtual DJ 都能为您代劳。\n\n注：部分电脑因显卡驱动问题可能会提示DirectX初始化失败而无法启动",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/11/c73d5970-00c4-11ed-a347-a1bd6736f343.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/11/c98c0460-00c4-11ed-a347-a1bd6736f343.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/11/cbe1b430-00c4-11ed-a347-a1bd6736f343.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/07/11/c07645c0-00c4-11ed-a347-a1bd6736f343.png"
+}
+,
+{
     "Author": "spark-store",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "org.musescore.spark_4.1.0.231921359_amd64.deb",
@@ -653,23 +670,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/music/org.musescore.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/org.musescore.spark/screen_2.png\"]"
 }
 
-,
-{
-    "Name": "Virtual DJ Studio Pro",
-    "Version": "8.3.4787spark0",
-    "Filename": "com.virtualdj.virtualdjpro.spark_8.3.4787spark0_amd64.deb",
-    "Torrent_address": "com.virtualdj.virtualdjpro.spark_8.3.4787spark0_amd64.deb.torrent",
-    "Pkgname": "com.virtualdj.virtualdjpro.spark",
-    "Author": "Atomix Productions",
-    "Contributor": "sgb76",
-    "Website": "http://www.virtualdj.com/",
-    "Update": "2022-07-11 10:55:29",
-    "Size": "69.35 MB",
-    "More": "一款强大的混音工作站，有着直观的界面，完全能满足各种场合的现场表演，从自由选曲、梦幻调音，到多声道混音、生成多种特效，Virtual DJ 都能为您代劳。\n\n注：部分电脑因显卡驱动问题可能会提示DirectX初始化失败而无法启动",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/11/c73d5970-00c4-11ed-a347-a1bd6736f343.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/11/c98c0460-00c4-11ed-a347-a1bd6736f343.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/11/cbe1b430-00c4-11ed-a347-a1bd6736f343.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/07/11/c07645c0-00c4-11ed-a347-a1bd6736f343.png"
-}
 ,
 {
     "Name": "musicyou",
@@ -1181,6 +1181,23 @@
 }
 ,
 {
+    "Name": "网易云音乐X studio",
+    "Version": "1.2.1.39spark1.0",
+    "Filename": "com.neteasecloudxstudio.spark_1.2.1.39spark1.0_all.deb",
+    "Torrent_address": "com.neteasecloudxstudio.spark_1.2.1.39spark1.0_all.deb.torrent",
+    "Pkgname": "com.neteasecloudxstudio.spark",
+    "Author": "zjh<zjh97t@qq.com>",
+    "Contributor": "zjh<zjh97t@qq.com>",
+    "Website": "https://xstudio.music.163.com/",
+    "Update": "2024-05-17 22:09:39",
+    "Size": "193.4 MB",
+    "More": "测试支持deepin-wine8,这是一个wine应用，部分linux可能要安装store.spark-app.spark-dwine-helper:all 依赖",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/17/26166c12b2764a4e970282d45db60fb8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/17/6d5f819abbf64e7c94b7ddea803815b9.png"
+}
+,
+{
     "Name": "Waylyrics",
     "Version": "0.3.10-1",
     "Filename": "waylyrics_0.3.10-1_amd64.deb",
@@ -1212,22 +1229,5 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/13/1ab8564b94f642ef9e5de6942e98e82c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/13/7a901cd010324786965988d09c6a67c9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/13/c599e42584c54bdf8ff241a4d6c1bed3.png"
-}
-,
-{
-    "Name": "网易云音乐X studio",
-    "Version": "1.2.1.39spark1.0",
-    "Filename": "com.neteasecloudxstudio.spark_1.2.1.39spark1.0_all.deb",
-    "Torrent_address": "com.neteasecloudxstudio.spark_1.2.1.39spark1.0_all.deb.torrent",
-    "Pkgname": "com.neteasecloudxstudio.spark",
-    "Author": "zjh<zjh97t@qq.com>",
-    "Contributor": "zjh<zjh97t@qq.com>",
-    "Website": "https://xstudio.music.163.com/",
-    "Update": "2024-05-17 22:09:39",
-    "Size": "193.4 MB",
-    "More": "测试支持deepin-wine8,这是一个wine应用，部分linux可能要安装store.spark-app.spark-dwine-helper:all 依赖",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/17/26166c12b2764a4e970282d45db60fb8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/17/6d5f819abbf64e7c94b7ddea803815b9.png"
 }
 ]

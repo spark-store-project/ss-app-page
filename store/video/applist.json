@@ -1,15 +1,15 @@
 [
 {
     "Name": "bilibili客户端",
-    "Version": "1.13.6-2",
-    "Filename": "io.github.msojocs.bilibili_1.13.6-2_amd64.deb",
-    "Torrent_address": "io.github.msojocs.bilibili_1.13.6-2_amd64.deb.torrent",
+    "Version": "1.14.0-1",
+    "Filename": "io.github.msojocs.bilibili_1.14.0-1_amd64.deb",
+    "Torrent_address": "io.github.msojocs.bilibili_1.14.0-1_amd64.deb.torrent",
     "Pkgname": "io.github.msojocs.bilibili",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://github.com/msojocs/bilibili-linux/releases",
-    "Update": "2024-06-16 17:31:33",
-    "Size": "80M",
+    "Update": "2024-06-30 17:31:26",
+    "Size": "82M",
     "More": "由msojocs编写的哔哩哔哩客户端 Linux 移植版本",
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/io.github.msojocs.bilibili/screen_5.png\"]",
@@ -899,22 +899,6 @@
 }
 ,
 {
-    "Name": "Avidemux",
-    "Version": "2.8.0spark0",
-    "Filename": "org.avidemux.spark_2.8.0spark0_amd64.deb",
-    "Pkgname": "org.avidemux.spark",
-    "Author": "Avidemux",
-    "Contributor": "sgb76",
-    "Website": "http://avidemux.sourceforge.net/",
-    "Update": "2022-02-22 17:14:58",
-    "Size": "27.06 MB",
-    "More": "一款免费开源的视频编辑器，专为简单的剪切，过滤和编码任务而设计",
-    "Tags": "deepin;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/22/c5a14580-93bf-11ec-b7da-51c597f813ed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/22/cb248e90-93bf-11ec-b7da-51c597f813ed.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/02/22/c23d32f0-93bf-11ec-b7da-51c597f813ed.png"
-}
-,
-{
     "Name": "WebTorrent",
     "Version": "0.24.0",
     "Filename": "webtorrent-desktop_0.24.0_amd64.deb",
@@ -929,6 +913,22 @@
     "Tags": "deepin;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/23/6cf5b0a0-0a6c-11ed-a33a-c3d074d810a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/23/71ad4540-0a6c-11ed-a33a-c3d074d810a7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/07/23/697626d0-0a6c-11ed-a33a-c3d074d810a7.png"
+}
+,
+{
+    "Name": "Avidemux",
+    "Version": "2.8.0spark0",
+    "Filename": "org.avidemux.spark_2.8.0spark0_amd64.deb",
+    "Pkgname": "org.avidemux.spark",
+    "Author": "Avidemux",
+    "Contributor": "sgb76",
+    "Website": "http://avidemux.sourceforge.net/",
+    "Update": "2022-02-22 17:14:58",
+    "Size": "27.06 MB",
+    "More": "一款免费开源的视频编辑器，专为简单的剪切，过滤和编码任务而设计",
+    "Tags": "deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/22/c5a14580-93bf-11ec-b7da-51c597f813ed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/22/cb248e90-93bf-11ec-b7da-51c597f813ed.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/02/22/c23d32f0-93bf-11ec-b7da-51c597f813ed.png"
 }
 ,
 {

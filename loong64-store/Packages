@@ -7982,23 +7982,6 @@ Description: mCloud Client on Deepin Wine6
 
 Package: com.bitcomet.linux
 Architecture: loong64
-Version: 2.7.0
-Priority: optional
-Section: utils
-Maintainer: spark-store
-Installed-Size: 10
-Depends: ace-bookworm-x86(>=12.4.11),bash,wget,sudo,libnotify-bin
-Filename: network/com.bitcomet.linux/com.bitcomet.linux_2.7.0_loong64.deb
-Size: 18776154
-MD5sum: b9c2ba9659d886ce409129fea1fc3d62
-SHA1: f3f057e9493a46eeeeb03576765d64ad461ef9d6
-SHA256: e56944cd82e7ae0a6dc00595a7409e866439e82167e8b6cf7fd9a18220cf9497
-SHA512: 738127fb5b6bb7906907125426fb7096f3adc276a9cf1161e67387b77f29b3371d3c1e9a4f7410b7e9f9ba4f0713e5b5912d6af4e8c75148a1051b21e8291a21
-Homepage: https://gitee.com/spark-building-service/ace-host-package-creator
-Description: com.bitcomet.linux Software Package created by Appimage2Deb
-
-Package: com.bitcomet.linux
-Architecture: loong64
 Version: 2.8.3
 Priority: optional
 Section: utils
@@ -8445,17 +8428,17 @@ Description: The web browser from qianxin.com
 
 Package: io.github.msojocs.bilibili
 Architecture: loong64
-Version: 1.13.6-2
+Version: 1.14.0-1
 Priority: optional
 Section: application
 Maintainer: msojocs
-Installed-Size: 367214
-Filename: video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.13.6-2_loong64.deb
-Size: 81686328
-MD5sum: 81953b9594a60e0dbe88e59682430792
-SHA1: d0925606e4599e66a907bbb80658a22b0cdec9da
-SHA256: fe24333c4e324a1cc4d062f9cbf85dec7baac961c27f6e5c3637bdad47231997
-SHA512: 2073906486ebe716c40b9f056c3a2f5c0e88dbae9b82451f56f857c0668b0bac03c2fc6b7df7edc59b479d57135621f0ff7d74eb81e03ed329aea9922e83991e
+Installed-Size: 369495
+Filename: video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.14.0-1_loong64.deb
+Size: 83142888
+MD5sum: 742d0a8a2624a2f277a250dc964adf7d
+SHA1: 96006be41b82c04e546b8904c4c937ed37b4a583
+SHA256: 4119efebc680352e780c559736b46d5d7bddd974b20f3854e23968f45f1dfd36
+SHA512: 5634ec740d96bc3ba9fbdf7d77579dafc3ca67aab8ff3d64d205bc75972d2d282f38c9e7295835364dc196fd8671df9fc91d24075b52e09b42b27cc8d3ab4a34
 Description: BiliBili For Linux.
   BiliBili For Linux. This version is unofficial.
 

@@ -1412,20 +1412,6 @@
 }
 ,
 {
-   "Name":"Cryptomator",
-   "Version":"1.5.5",
-   "Filename":"cryptomator-1.5.5_amd64.deb",
-   "Pkgname":"cryptomator",
-   "Author":" ",
-   "Contributor":"qygw",
-   "Website":" ",
-   "Update":"2020-06-25 18:03",
-   "Size":"50.52MB",
-   "More":"一个实用友好的加密文件管理器，基于qt5"
-}
-
-,
-{
     "Name": "广州共享课堂（Web）",
     "Version": "1.0",
     "Filename": "web-gzclass.gztv.com_1.0_amd64.deb",
@@ -1441,6 +1427,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/351c24f0af7d45ea8b72c7f860a1d8ea.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/30a1f761d6b84f4298fbd6cc7698eed1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/01/97a0511aa2024e44bdbf83eb94673225.png"
 }
+,
+{
+   "Name":"Cryptomator",
+   "Version":"1.5.5",
+   "Filename":"cryptomator-1.5.5_amd64.deb",
+   "Pkgname":"cryptomator",
+   "Author":" ",
+   "Contributor":"qygw",
+   "Website":" ",
+   "Update":"2020-06-25 18:03",
+   "Size":"50.52MB",
+   "More":"一个实用友好的加密文件管理器，基于qt5"
+}
+
 ,
 {
    "Name":"opentoonz",
@@ -1520,6 +1520,23 @@
 
 ,
 {
+    "Name": "华彩人生牛金岁月（Wine）",
+    "Version": "8.13spark0",
+    "Filename": "com.hx168.spark_8.13spark0_i386.deb",
+    "Torrent_address": "com.hx168.spark_8.13spark0_i386.deb.torrent",
+    "Pkgname": "com.hx168.spark",
+    "Author": "华西证券",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://www.hx168.com.cn",
+    "Update": "2023-02-01 14:07:50",
+    "Size": "90.02 MB",
+    "More": "“华彩人生牛金岁月”是原“华彩人生1点通”的全新升级版本，集行情、交易、资讯、数据为一体。“华彩人生牛金岁月”在保留原版经典功能的基础上，全面优化相关板块，添加丰富的行情和资讯内容，达到信息的无缝整合，把握趋势面面观。精彩体验升级，华彩人生不变。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/fa2e06f29ec94f4fb9eb0f87e8c5abea.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/52daa128fb124e31b9c01df0ff3f881d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/01/38e9936b873a444489c9339bf407b354.png"
+}
+,
+{
     "Name": "JHelioViewer",
     "Version": "4.4.0",
     "Filename": "org.jhelioviewer.jhelioviewer_4.4.0_amd64.deb",
@@ -1551,23 +1568,6 @@
     "Tags": "ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/18/b22f4dca6d124b589af71b2cd5caf00d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/18/b74b5eed70884bb694c6269b738e137a.png"
-}
-,
-{
-    "Name": "华彩人生牛金岁月（Wine）",
-    "Version": "8.13spark0",
-    "Filename": "com.hx168.spark_8.13spark0_i386.deb",
-    "Torrent_address": "com.hx168.spark_8.13spark0_i386.deb.torrent",
-    "Pkgname": "com.hx168.spark",
-    "Author": "华西证券",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://www.hx168.com.cn",
-    "Update": "2023-02-01 14:07:50",
-    "Size": "90.02 MB",
-    "More": "“华彩人生牛金岁月”是原“华彩人生1点通”的全新升级版本，集行情、交易、资讯、数据为一体。“华彩人生牛金岁月”在保留原版经典功能的基础上，全面优化相关板块，添加丰富的行情和资讯内容，达到信息的无缝整合，把握趋势面面观。精彩体验升级，华彩人生不变。",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/fa2e06f29ec94f4fb9eb0f87e8c5abea.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/52daa128fb124e31b9c01df0ff3f881d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/01/38e9936b873a444489c9339bf407b354.png"
 }
 ,
 {

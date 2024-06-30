@@ -18049,27 +18049,6 @@ Description:
 License: MIT
 Vendor: ci010 <cijhn@hotmail.com>
 
-Package: xmcl
-Architecture: amd64
-Version: 0.44.9-843
-Priority: optional
-Section: default
-Maintainer: ci010 <cijhn@hotmail.com>
-Installed-Size: 284383
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: games/xmcl/xmcl_0.44.9-843_amd64.deb
-Size: 82868692
-MD5sum: cd78a2782b51d0263c691510e90640e2
-SHA1: 46c26b9bb5d717ab105a9d501179c7af211401f2
-SHA256: 6cbb1caa8c6843e6bd8d7ade7efb2cbec116a9aa928a0c19af9cf3c22d40dc4f
-SHA512: 22aaa4e317f9bebdd704fd4abd3ad297b4a999427a4524628662ab957a0f7e32c06196642a72e937e885f30135e5b5c41aff70385b94888f0c64e15ae2e59ecc
-Homepage: https://github.com/voxelum/x-minecraft-launcher#readme
-Description: 
-  A great minecraft launcher in the future
-License: MIT
-Vendor: ci010 <cijhn@hotmail.com>
-
 Package: com.ra2ol.deepin
 Architecture: all
 Version: 0.1.0
@@ -21757,23 +21736,6 @@ SHA256: 5ca9baac0fc9a7fb6afa3001c9a33a6d943165f2600d94997c1436ae69beb79f
 SHA512: 8a0863947b25228fc66505b831cb90bc23271d7d483c8f7505e573aca0b77fb7346afaadc87d94a6ef032ee0f4031c7e0df5689c4cb20d2233099f31dba35a33
 Description: com.pvzhz.spark
 
-Package: com.pvzhz.spark
-Architecture: all
-Version: 2.1
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: shenmo@spark-app.store
-Installed-Size: 377442
-Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
-Filename: games/com.pvzhz.spark/com.pvzhz.spark_2.1_all.deb
-Size: 365951788
-MD5sum: a1139163cbbc44b48eb63846436be9d7
-SHA1: 867eb0c796f6e36ce85d1b131a7d31f2c3db3d21
-SHA256: 88ae5ffa268df11109d99d38f5769e09589280a459913a7d26aec30ea720e3ea
-SHA512: 100cfb3e0fcdc25393bf7a1049ff66a65dc1d8a99797ea7c63bf35489906ba94564533b9c6c16ddf0129becb36af582020b596250776432cfa0dc26d185003b2
-Description: com.pvzhz.spark
-
 Package: osu-lazer
 Architecture: amd64
 Version: 2024.625.2
@@ -24276,22 +24238,22 @@ Description: #一个微信排版编辑器，使用 MDX，更是一个跨平台 M
 
 Package: bssenglish
 Architecture: all
-Version: 2.1.1
+Version: 2.1.3
 Priority: optional
 Maintainer: Bail<2915289604@qq.com>
-Installed-Size: 91KB
+Installed-Size: 106.5KB
 Provides: Office
 Pre-Depends:
 Depends: python3(>=3.7),python3-gst-1.0,python3-tk,python3-pip
 Recommends:
 Conflicts: com.Bail.bssenglish
 Replaces:
-Filename: office/bssenglish/bssenglish_2.1.1_all.deb
-Size: 25788
-MD5sum: 3aeaa2df4a1fab10647ea86067bb9c90
-SHA1: 488ec5dfec582a3183995e73778c27d0b79b2823
-SHA256: 56e88e7496efaed4c27211c5a0f9dd481c716cbbf4344a958f28ab86da30c9d9
-SHA512: f664ba4a2d9f36102859fb1ed72ee3c0c585bffc4f96acbbda800a0906061224e4f4426415a1a668136b484d378d4272aa98a9a7137f956ea12f0c853e109539
+Filename: office/bssenglish/bssenglish_2.1.3_all.deb
+Size: 28752
+MD5sum: c6c666ed2a1954539d1775945083268c
+SHA1: 3dea7085d7250db80a03eb763a636e2a73308c27
+SHA256: 37a74f30af509baf7eb1f9302290799e2ca42631a987da6a1f183b50a8245534
+SHA512: 5eea3c3775549d338ab2fe69ce0fd4def6ed26d4cf1f1686bada652a3fdd68056ff946c4829bef403c4aea254428783e6122700e2cd3dc2a0f5cc44f203315c8
 Description: 帮助你更快速、更牢固地记忆单词
 
 Package: xyz.epolestar.93.spark
@@ -29362,21 +29324,6 @@ SHA256: 652c10a50f5f453620efab8f56fbfc5f1008e126fdfcd6a00f39f01d03342bf3
 SHA512: abbf0952eebefaff74ef736a4f0b7323b288d95ddc2a1c9b4ba0bb4269fce57d63657d7ebd82dd892febe106e4559067b2a9528a87e7023451759c1bfcb1dd96
 Description: com.bitcomet.linux Software Package created by Appimage2Deb
 
-Package: com.bitcomet.linux
-Architecture: amd64
-Version: 2.7.0
-Priority: optional
-Section: utils
-Maintainer: spark-store
-Depends: libwebkit2gtk-4.0-37
-Filename: network/com.bitcomet.linux/com.bitcomet.linux_2.7.0_amd64.deb
-Size: 18768768
-MD5sum: 3ca63f0e2cabd677ebbd2f3d652d03ca
-SHA1: e318901200bf4d36ee70f872dad39d168e66f02c
-SHA256: 4464bce22f1ad70e9bebfc49f42dc0dc00f0bcfaac12a984b4eabc03f585ae1e
-SHA512: dd14c2fe7945306bffc2f5a9d28ea321e202ae2ee56b2c9b8ad61f1bc5c0481e34ade5af576bccc718ad78fd0b7b1ed3078d23761548053210b9fa31bd5f4c58
-Description: com.bitcomet.linux Software Package created by Appimage2Deb
-
 Package: classin
 Architecture: amd64
 Version: 5.1.1.34
@@ -30334,23 +30281,6 @@ Homepage: https://www.freedownloadmanager.org/
 Description: FDM is a powerful modern download accelerator and organizer.
  It is a powerful modern cross-platform download accelerator and organizer for Windows, Mac, Linux, Android.
 
-Package: freedownloadmanager
-Architecture: amd64
-Version: 6.20.0.5510
-Priority: optional
-Section: net
-Maintainer: Freedownloadmanager Team <support@freedownloadmanager.org>
-Depends: openssl, xdg-utils, ffmpeg
-Filename: network/freedownloadmanager/freedownloadmanager_6.20.0.5510_amd64.deb
-Size: 40855092
-MD5sum: 5be30821ccb115819d54c8d0642b6c70
-SHA1: b3c799f767a22a46ef60195ef5699660f6fac20f
-SHA256: 164a11bc5ff634e74f902c6334d159f608cdf45c037a0a3497dd1236bbd346c5
-SHA512: e503fc53a58550c0621e5886bb6d10ff003a6922a8ee5083ff456a6ee92e0a46b0ff73942cae8befce5d3435e49188a1a0bc14edb129e802b5104bcd4d24cf83
-Homepage: https://www.freedownloadmanager.org/
-Description: FDM is a powerful modern download accelerator and organizer.
- It is a powerful modern cross-platform download accelerator and organizer for Windows, Mac, Linux, Android.
-
 Package: 115
 Architecture: all
 Version: 2.0.10.2
@@ -31092,17 +31022,17 @@ Description: open-source AirPlay mirroring server
 
 Package: io.github.msojocs.bilibili
 Architecture: amd64
-Version: 1.13.6-2
+Version: 1.14.0-1
 Priority: optional
 Section: application
 Maintainer: msojocs
-Installed-Size: 275617
-Filename: video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.13.6-2_amd64.deb
-Size: 78699876
-MD5sum: 87efd749754d65bc0a5d33ff5b1e5e2b
-SHA1: b0ebb9a256e6d084e627ba96f7e9ac009d6f0b27
-SHA256: ebea7f5a7307636749f1a905d4b14c8d4e63e5c241ae983dfcbfcf309f4017e5
-SHA512: b6cfd489d45c9328f9d764fc9081e50dc4066c8d7017ed19bf212bc794806dfc02418a161806d9bf87cd5ccf28334d5a896a4281964641439287f23600ab7937
+Installed-Size: 277898
+Filename: video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.14.0-1_amd64.deb
+Size: 80081584
+MD5sum: e5f8a34400ac200c40508fcb46d0f9d2
+SHA1: 9455f1ac910b4364b56d704f47a83d0a46afbb7f
+SHA256: 49124d2e299d9d85adc3dcbbd471944d0918f965b11d1606dccf8ab6ea1919ce
+SHA512: 7a308569ab77e35fe234db07695b5a6945e8f04991a397e556e27908094bc9432a64a66f975e5262cceb663b0f49ba09ef70f20377035d7b32c0d8e0206b558f
 Description: BiliBili For Linux.
   BiliBili For Linux. This version is unofficial.
 
@@ -36362,23 +36292,6 @@ Vendor: The Icalingua++ Authors <Icalinguaplusplus@protonmail.com>
 
 Package: com.qq.weixin.work.deepin
 Architecture: all
-Version: 4.1.10.6007.spark1
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: Deepin WINE Team
-Installed-Size: 613019
-Depends: deepin-wine6-stable,spark-dwine-helper, fonts-wqy-microhei, deepin-elf-verify (>= 1.1.10-1)
-Filename: chat/com.qq.weixin.work.deepin/com.qq.weixin.work.deepin_4.1.10.6007.spark1_all.deb
-Size: 606083968
-MD5sum: 3184436827c25ff6fe79bc7378e120c8
-SHA1: 3f8dd0f62d64166c79fb3cdc5e6e92bad08e66c8
-SHA256: 4137acc175ec839ed411958ebe1aa28580682fce27d4f786b16d67c785111780
-SHA512: 88014f3d7ed9db98701489c69e1dd5b48b734808b7ac0e248bbd31fa68a7db706f83c291ba134ed90ab0aeaf1b6b6ebd8588ff849377078d9860e11732f927a2
-Description: Tencent WXWork Client on Deepin Wine6
-
-Package: com.qq.weixin.work.deepin
-Architecture: all
 Version: 4.1.16.6007spark2
 Multi-Arch: foreign
 Priority: optional
@@ -36486,28 +36399,6 @@ MD5sum: 487d234e804646cf0eaf94885d1694a5
 SHA1: 9686c0f838d2c3273414794f2d12fae5099240b8
 SHA256: 09f3caa448b9cc83b896510bc3f9114360ce00ac20522942948c49747531cb6c
 SHA512: 93710f2284879ad3f5351f70e3670263f66d8367ab70cb7281e9322fb9af073f1c5c704ceae194dd97cd863cc4d949cef3a53ddfd3db5f8095eefb3406a4e57b
-Homepage: https://wx.qq.com/
-Description: WeChat Desktop WeChat Desktop
-
-Package: store.spark-app.wechat-linux-spark
-Architecture: amd64
-Version: 2.2.1-real1.0.0.241.7
-Priority: optional
-Section: default
-Maintainer: shenmo <shenmo@spark-app.store>
-Installed-Size: 351725
-Provides: wechat-linux-spark (= 2.1.3-3)
-Depends: libgtk2.0-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin, bubblewrap,  libasound2,procps, deepin-elf-verify (>= 1.1.10-1)
-Recommends: deepin-elf-verify (>= 0.0.16.7-1), libgconf-2-4 | libgconf2-4, libappindicator3-1
-Conflicts: com.qq.weixin, weixin, com.tencent.weixin, com.tencent.wechat
-Breaks: wechat-linux-spark (<< 2.1.2-1)
-Replaces: wechat-linux-spark (<< 2.1.2-1)
-Filename: chat/store.spark-app.wechat-linux-spark/store.spark-app.wechat-linux-spark_2.2.1-real1.0.0.241.7_amd64.deb
-Size: 119490124
-MD5sum: 681013891282135136673823dc8ed445
-SHA1: c192ad25672f588880ca3b52c6f6d99df2762ff0
-SHA256: 020eb07966e37707412b88daa730e9379d76e49718afa24f54cde0143d6ca4cb
-SHA512: 9b32ab71822d330253834ae14004f1479c0066b49fd76bfe0052824431baacbe08ebcf01425145908fe9e40bea9256ef709c0337e46d61fed4dd5dd0221c2039
 Homepage: https://wx.qq.com/
 Description: WeChat Desktop WeChat Desktop
 
