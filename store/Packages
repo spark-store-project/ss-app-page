@@ -21582,6 +21582,23 @@ SHA256: 1876955839182a786d1b0dfbfd22da27486fe9f2bf35b7c4c2944c1ff87922dd
 SHA512: fbc440b2bd961dd696746f7ded630e4337ed4452c56406299b2e5782d1f8734a05999ff8e88b4609e5af2e6335e9763cf9fce3bee2fffcefb9a85dbf6ae81ea3
 Description: 该作由仙剑系列众多角色共同经营逍遥客栈，主线全程配音，多种结局，同时综合经营、探索、约会、小游戏等多重玩法，打造一个温馨浪漫大团圆的平行异时空世界
 
+Package: com.pvz95.spark
+Architecture: all
+Version: 1.0.2.56spark0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 290528
+Depends: spark-wine, spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepin, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: games/com.pvz95.spark/com.pvz95.spark_1.0.2.56spark0_all.deb
+Size: 290558660
+MD5sum: d8ba75213b712a82cefdcd7e8e64d695
+SHA1: 962a0224d39f1a891979811adaba3b3bcc2a7d2f
+SHA256: 765cecbeed2d7e060a6257f88f04f29314ea8905e1052cfb024222142f126a4c
+SHA512: d27c3c792ff1640e5c83bdb04b313f7746f6d2bc2f2f84f35dd4f9a04bf90e45d94452a85470800ee2d6e4da0311d9168c6e73657283c67b6cff95673560cd19
+Description: 植物大战僵尸95版是一款在原版游戏基础上经过修改和增强的版本，由植物大战僵尸吧吧友冥谷川恋制作。这个版本被称为“植物大战僵尸加强版第95版本”，是作者制作的第95版加强版。
+
 Package: dyberpet
 Architecture: amd64
 Version: 0.3.1
@@ -21722,6 +21739,23 @@ SHA256: 32dfda0eb31bfc0d35bef1c55f2678e7148f29842b9418f17daeb28520054bff
 SHA512: 20775116031cf536d24ea6a0cc6f0b8ce931eb21c34fd058b73c9e9fc832b37ed17548f8f4b9c2e2ad35a20df340d6895e2958b9163017bdd770bdd2e0faefbf
 Description: Silent World on Deepin Wine6
  一款益智类生存冒险游戏，以架空世界为背景，玩家在游戏内操纵角色使用火柴等道具，突破各种障碍的同时与怪物斗智斗勇，尽快脱离困境，逃离黑暗世界，早日找寻光明！
+
+Package: com.pvzhz.spark
+Architecture: all
+Version: 2.1spark1
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: shenmo@spark-app.store
+Installed-Size: 422532
+Depends: spark-wine, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: games/com.pvzhz.spark/com.pvzhz.spark_2.1spark1_all.deb
+Size: 410175576
+MD5sum: 30452dd02e2d213302e423c431d15f45
+SHA1: 9b0ff1dbd35de00ba85928517feb5763d65f72b1
+SHA256: 5ca9baac0fc9a7fb6afa3001c9a33a6d943165f2600d94997c1436ae69beb79f
+SHA512: 8a0863947b25228fc66505b831cb90bc23271d7d483c8f7505e573aca0b77fb7346afaadc87d94a6ef032ee0f4031c7e0df5689c4cb20d2233099f31dba35a33
+Description: com.pvzhz.spark
 
 Package: com.pvzhz.spark
 Architecture: all
@@ -29315,6 +29349,21 @@ Description: VNC® Server
 
 Package: com.bitcomet.linux
 Architecture: amd64
+Version: 2.8.3
+Priority: optional
+Section: utils
+Maintainer: spark-store
+Depends: libfuse2
+Filename: network/com.bitcomet.linux/com.bitcomet.linux_2.8.3_amd64.deb
+Size: 19371490
+MD5sum: f63f22cf90ba4c2c3d9bea24baf11d94
+SHA1: 4929c6108e86a71b3aba596d385d5e6a7da1743e
+SHA256: 652c10a50f5f453620efab8f56fbfc5f1008e126fdfcd6a00f39f01d03342bf3
+SHA512: abbf0952eebefaff74ef736a4f0b7323b288d95ddc2a1c9b4ba0bb4269fce57d63657d7ebd82dd892febe106e4559067b2a9528a87e7023451759c1bfcb1dd96
+Description: com.bitcomet.linux Software Package created by Appimage2Deb
+
+Package: com.bitcomet.linux
+Architecture: amd64
 Version: 2.7.0
 Priority: optional
 Section: utils
@@ -36327,6 +36376,23 @@ SHA1: 3f8dd0f62d64166c79fb3cdc5e6e92bad08e66c8
 SHA256: 4137acc175ec839ed411958ebe1aa28580682fce27d4f786b16d67c785111780
 SHA512: 88014f3d7ed9db98701489c69e1dd5b48b734808b7ac0e248bbd31fa68a7db706f83c291ba134ed90ab0aeaf1b6b6ebd8588ff849377078d9860e11732f927a2
 Description: Tencent WXWork Client on Deepin Wine6
+
+Package: com.qq.weixin.work.deepin
+Architecture: all
+Version: 4.1.16.6007spark2
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: Deepin WINE Team
+Installed-Size: 568745
+Depends: mejituu-wine8 , spark-dwine-helper, fonts-wqy-microhei, deepin-elf-verify (>= 1.1.10-1)
+Filename: chat/com.qq.weixin.work.deepin/com.qq.weixin.work.deepin_4.1.16.6007spark2_all.deb
+Size: 568980664
+MD5sum: fcd7c9c6ca283a904f9738523d5b0a55
+SHA1: 43fe0a04e9d9ef8d6052d049808bc8377ea31dc5
+SHA256: 5f926843f8d3bb6912b7b0b3881da88de6a7413c11635ceb0875c5eb7e23f0f7
+SHA512: e8d4ef8fdb5e60caa2440430df35a3a333f388e493127339ac381f0872b80e300c46c075fd9b4e9849438c324c9ae5e96b99678c660bb590cd3a7e3044480cd8
+Description: Tencent WXWork Client on Deepin Wine
 
 Package: ferdium
 Architecture: amd64

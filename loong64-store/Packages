@@ -7997,6 +7997,23 @@ SHA512: 738127fb5b6bb7906907125426fb7096f3adc276a9cf1161e67387b77f29b3371d3c1e9a
 Homepage: https://gitee.com/spark-building-service/ace-host-package-creator
 Description: com.bitcomet.linux Software Package created by Appimage2Deb
 
+Package: com.bitcomet.linux
+Architecture: loong64
+Version: 2.8.3
+Priority: optional
+Section: utils
+Maintainer: spark-store
+Installed-Size: 10
+Depends: ace-bookworm-x86(>=12.4.11),bash,wget,sudo,libnotify-bin
+Filename: network/com.bitcomet.linux/com.bitcomet.linux_2.8.3_loong64.deb
+Size: 19379104
+MD5sum: e01afdec11c2c71c1b84e42013be2af8
+SHA1: 0d9c38111b5caf2132769b9eaa596e5bb9275409
+SHA256: 52db6270c0db6ce95959fc1412df9dda26cdebcbbb9bfb314ee41e68f3b64217
+SHA512: 8f8a4bca39dda52eb78812c44785a1d4df41aee304c8af6c47a58b19ec3629489126147930bddd67f70054e7f610931eca7b94f743f2f0397cbf4d218bf5f1dd
+Homepage: https://gitee.com/spark-building-service/ace-host-package-creator
+Description: com.bitcomet.linux Software Package created by Appimage2Deb
+
 Package: cn.loongnix.lbrowser
 Architecture: loong64
 Version: 3.3.1814.2-1.stable
