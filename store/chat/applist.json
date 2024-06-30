@@ -746,23 +746,6 @@
 }
 ,
 {
-    "Name": "Rocket.Chat.Electron",
-    "Version": "3.8.14",
-    "Filename": "rocketchat_3.8.14_amd64.deb",
-    "Torrent_address": "rocketchat_3.8.14_amd64.deb.torrent",
-    "Pkgname": "rocketchat",
-    "Author": "Rocket.Chat Support <support@rocket.chat>",
-    "Contributor": "Rocket.Chat Support <support@rocket.chat>",
-    "Website": "https://rocket.chat",
-    "Update": "2022-11-28 18:34:09",
-    "Size": "59.44 MB",
-    "More": "Rocket.Chat 的官方 Linux 客户端，用 Electron 写成。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/28/ffffffff-ffff-4fff-bfff-ffffffffffff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/28/ffffffff-ffff-4fff-bfff-ffffffffffff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/28/ffffffff-ffff-4fff-bfff-ffffffffffff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/28/ffffffff-ffff-4fff-bfff-ffffffffffff.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/28/ffffffff-ffff-4fff-bfff-ffffffffffff.png"
-}
-,
-{
     "Name": "雷鸟邮件",
     "Version": "1",
     "Filename": "thunderbird_1_amd64.deb",
@@ -777,6 +760,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/16/7917f701eba6440781ae6e64ef1c1b58.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/16/580b3d71b34641638ac9c97a3fe2a3bb.png"
+}
+,
+{
+    "Name": "Rocket.Chat.Electron",
+    "Version": "3.8.14",
+    "Filename": "rocketchat_3.8.14_amd64.deb",
+    "Torrent_address": "rocketchat_3.8.14_amd64.deb.torrent",
+    "Pkgname": "rocketchat",
+    "Author": "Rocket.Chat Support <support@rocket.chat>",
+    "Contributor": "Rocket.Chat Support <support@rocket.chat>",
+    "Website": "https://rocket.chat",
+    "Update": "2022-11-28 18:34:09",
+    "Size": "59.44 MB",
+    "More": "Rocket.Chat 的官方 Linux 客户端，用 Electron 写成。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/28/ffffffff-ffff-4fff-bfff-ffffffffffff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/28/ffffffff-ffff-4fff-bfff-ffffffffffff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/28/ffffffff-ffff-4fff-bfff-ffffffffffff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/28/ffffffff-ffff-4fff-bfff-ffffffffffff.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/28/ffffffff-ffff-4fff-bfff-ffffffffffff.png"
 }
 ,
 {

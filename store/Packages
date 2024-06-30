@@ -18030,6 +18030,27 @@ Description: cloudar-electron
 
 Package: xmcl
 Architecture: amd64
+Version: 0.44.10-847
+Priority: optional
+Section: default
+Maintainer: ci010 <cijhn@hotmail.com>
+Installed-Size: 284484
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: games/xmcl/xmcl_0.44.10-847_amd64.deb
+Size: 80398838
+MD5sum: 750ec881b446e4029183bd5d33d7bd73
+SHA1: 1861743ce6f6c0221d5e9d3e6c6d57f6ea02bcd3
+SHA256: fcbabacfc3d8b6a958b93c91cd929ceadecb627d88f249679ce60ad05350966b
+SHA512: 2f8a6b8a2f716c3935e1910fb4812be3e49c9336a35e629a94d5372b73bc80cdf1a1935aad8989467a7dcd15c3f6718bb47e5a005f7e0990cc2c9e24e968c76a
+Homepage: https://github.com/voxelum/x-minecraft-launcher#readme
+Description: 
+  A great minecraft launcher in the future
+License: MIT
+Vendor: ci010 <cijhn@hotmail.com>
+
+Package: xmcl
+Architecture: amd64
 Version: 0.44.9-843
 Priority: optional
 Section: default
@@ -20666,6 +20687,23 @@ SHA1: 4d6eebcec21d320d936e51deeebfc07a20a8a4c7
 SHA256: 2ab5081333a35b46fccc2b9121d4aa4f82799048948023f84dc935af5eaf6794
 SHA512: 5fe250a666c51bfe149e0657bdc4e77e56832da0c63e5346de70e2383effd2d1def51e47629aab4721b5012cbee5a36fe9660351508ef55e09a8c5a0a4437ce9
 Description: Deepin-wine8运行的红色警戒2-兵临城下4
+
+Package: com.pgvz.spark
+Architecture: all
+Version: 1.0.2.56spark0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 373506
+Depends: spark-wine, spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepin, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: games/com.pgvz.spark/com.pgvz.spark_1.0.2.56spark0_all.deb
+Size: 373543056
+MD5sum: eba25136b2c08696d8139aa35272cd5c
+SHA1: 1e40722c1e8559070567e3a643d6f1fa37f1d2f6
+SHA256: 2e4c58e7e09c27a40c9cb1b857b2c03017d3ac9d70b01b2b444c9ee1558bbc5e
+SHA512: ce37f05157240f033b0fec50e0d3e807933e5bf3224ba47691d2a0b234b07d2e3d12e6b2fa786b1d55f5b8b7fc10a0941ea52964bba2d20f38b11b9776a0cb17
+Description: 将会带来非常好看的二次元动漫娘化形象，很多植物都变成了二次元妹子，但是也会有很多植物还是原版的样子，只是在这里增加了一部分的特色内容，让我们能够使游戏变得更加丰富。
 
 Package: minesweep
 Architecture: amd64
@@ -30229,6 +30267,23 @@ SHA256: 7e8561f5e2f4e6a9016b89433a7fb895ac512df75b1bce18bff351c9be2e8246
 SHA512: 10477b5de94023f130814bab1d228aa6c890c5ea78f4db790a0dff47e36544440f28d84ec62b7d7f4945f531eee2e345f6e77774061fc4049bc52266098089be
 Homepage: www.srware.net/iron
 Description: SRWare Iron-Browser 64-Bit
+
+Package: freedownloadmanager
+Architecture: amd64
+Version: 6.23.0.5754
+Priority: optional
+Section: net
+Maintainer: Freedownloadmanager Team <support@freedownloadmanager.org>
+Depends: openssl, xdg-utils, ffmpeg
+Filename: network/freedownloadmanager/freedownloadmanager_6.23.0.5754_amd64.deb
+Size: 36600956
+MD5sum: 1c569ab616bde66ec45feeb674756612
+SHA1: 38d756de720c059a41c46630c5cb36cbe715dbd0
+SHA256: bede8c755dc9f84b4972435773fdde6c2e6d6313f0e39a88bce3b3d6b2d24385
+SHA512: 16a96835d2f10d9db2e52d7ec764983f6e2515d8fbffbc267450218e2f761bd39d1fab68d6495f62c7b3b9ea952513d8466e632c9a962737d3d8e28b7cbdf8c4
+Homepage: https://www.freedownloadmanager.org/
+Description: FDM is a powerful modern download accelerator and organizer.
+ It is a powerful modern cross-platform download accelerator and organizer for Windows, Mac, Linux, Android.
 
 Package: freedownloadmanager
 Architecture: amd64

@@ -2050,23 +2050,6 @@
 }
 ,
 {
-    "Name": "写字板",
-    "Version": "1.2.2~git20231014.0932--bullseye-2",
-    "Filename": "xournalpp_1.2.2~git20231014.0932--bullseye-2_amd64.deb",
-    "Torrent_address": "xournalpp_1.2.2~git20231014.0932--bullseye-2_amd64.deb.torrent",
-    "Pkgname": "xournalpp",
-    "Author": "xournalpp",
-    "Contributor": "sgb76",
-    "Website": "https://xournalpp.github.io/",
-    "Update": "2024-03-05 00:01:51",
-    "Size": "1.32 MB",
-    "More": "Xournal++ 是一款快速、灵活且功能强大的开源跨平台笔记软件，一款手写注释工具，可为PDF文件添加各种元素的注释标记。 精彩的 Xournal 程序的现代重写和功能更丰富的版本。(Xournal++ (/ˌzɚnl̟ˌplʌsˈplʌs/) is an open-source and cross-platform note-taking software that is fast, flexible, and functional. A modern rewrite and a more feature-rich version of the wonderful Xournal program.)",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/1e822ebf280d4354a2116fc22dbd2e50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/19b874151e2741848348c80530897b99.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/1df325082c994ed0a8001771656fb3fc.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/05/7b171d5009684e25a3773159d5bb0bf3.png"
-}
-,
-{
     "Name": "WPS Office 365",
     "Version": "12.8.2.16969.AK.preload.sw",
     "Filename": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb",
@@ -2081,6 +2064,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/819a4c6aea004b1bb9059da5c1511085.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6bd9ad01e587436fb9ca5e74ef078921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/76097ef94d21409091dbcada9fcefe7c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/2dffce17cb754c4a8407d85de5511bc2.png"
+}
+,
+{
+    "Name": "写字板",
+    "Version": "1.2.2~git20231014.0932--bullseye-2",
+    "Filename": "xournalpp_1.2.2~git20231014.0932--bullseye-2_amd64.deb",
+    "Torrent_address": "xournalpp_1.2.2~git20231014.0932--bullseye-2_amd64.deb.torrent",
+    "Pkgname": "xournalpp",
+    "Author": "xournalpp",
+    "Contributor": "sgb76",
+    "Website": "https://xournalpp.github.io/",
+    "Update": "2024-03-05 00:01:51",
+    "Size": "1.32 MB",
+    "More": "Xournal++ 是一款快速、灵活且功能强大的开源跨平台笔记软件，一款手写注释工具，可为PDF文件添加各种元素的注释标记。 精彩的 Xournal 程序的现代重写和功能更丰富的版本。(Xournal++ (/ˌzɚnl̟ˌplʌsˈplʌs/) is an open-source and cross-platform note-taking software that is fast, flexible, and functional. A modern rewrite and a more feature-rich version of the wonderful Xournal program.)",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/1e822ebf280d4354a2116fc22dbd2e50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/19b874151e2741848348c80530897b99.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/1df325082c994ed0a8001771656fb3fc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/05/7b171d5009684e25a3773159d5bb0bf3.png"
 }
 ,
 {
@@ -2269,6 +2269,23 @@
 }
 ,
 {
+    "Name": "百度文库",
+    "Version": "1.2.8spark2",
+    "Filename": "com.baidu.wenku.spark_1.2.8spark2_all.deb",
+    "Torrent_address": "com.baidu.wenku.spark_1.2.8spark2_all.deb.torrent",
+    "Pkgname": "com.baidu.wenku.spark",
+    "Author": "百度",
+    "Contributor": "sgb76",
+    "Website": "https://wenku.baidu.com/",
+    "Update": "2023-10-24 12:28:08",
+    "Size": "76.89 MB",
+    "More": "由百度开发的一款在线互动式文档分享平台，在这里，您可以和千万网友分享自己手中的文档，全文阅读其他用户的文档，同时，也可以利用分享文档获取的积分下载文档...",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/24/e90bfb427fa94e34be316feb982051fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/24/b9c7c68aa0a846ce9425eae0713b4bf7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/24/382ede4247644694b26ee776adf209db.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/24/d3f0fad20ca34e6dac33e04e1d0be4f1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/24/9e486eadf495450fb2a8138f591386b8.png"
+}
+,
+{
     "Name": "作业帮学生端",
     "Version": "0.02+1",
     "Filename": "zybang.spark_0.02_plus_1_i386.deb",
@@ -2300,23 +2317,6 @@
     "Tags": "uos;deepin;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/23/acadacc0-b31d-11ed-8913-95aae9d068e0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/23/8aae84f0-b31d-11ed-8913-95aae9d068e0.png"
-}
-,
-{
-    "Name": "百度文库",
-    "Version": "1.2.8spark2",
-    "Filename": "com.baidu.wenku.spark_1.2.8spark2_all.deb",
-    "Torrent_address": "com.baidu.wenku.spark_1.2.8spark2_all.deb.torrent",
-    "Pkgname": "com.baidu.wenku.spark",
-    "Author": "百度",
-    "Contributor": "sgb76",
-    "Website": "https://wenku.baidu.com/",
-    "Update": "2023-10-24 12:28:08",
-    "Size": "76.89 MB",
-    "More": "由百度开发的一款在线互动式文档分享平台，在这里，您可以和千万网友分享自己手中的文档，全文阅读其他用户的文档，同时，也可以利用分享文档获取的积分下载文档...",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/24/e90bfb427fa94e34be316feb982051fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/24/b9c7c68aa0a846ce9425eae0713b4bf7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/24/382ede4247644694b26ee776adf209db.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/24/d3f0fad20ca34e6dac33e04e1d0be4f1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/24/9e486eadf495450fb2a8138f591386b8.png"
 }
 ,
 {
@@ -2487,6 +2487,23 @@
 }
 ,
 {
+    "Name": "超级星学习通",
+    "Version": "1.0.0",
+    "Filename": "chaoxingstudy_1.0.0_i386.deb",
+    "Torrent_address": "chaoxingstudy_1.0.0_i386.deb.torrent",
+    "Pkgname": "chaoxingstudy",
+    "Author": "rc3583z<huawei0086@126.com>",
+    "Contributor": "rc3583z",
+    "Website": "huawei0086@126.com>",
+    "Update": "2023-04-16 09:10:55",
+    "Size": "480.5 MB",
+    "More": "学习通，完成作业。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e202d70-dbf3-11ed-b7c5-79e728797698.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e32a400-dbf3-11ed-b7c5-79e728797698.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/16/2a1ddf10-dbf3-11ed-b7c5-79e728797698.png"
+}
+,
+{
     "Author": "Xylink team <support@xylink.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.xylink.linuxclient_3.3.1.15008_amd64.deb",
@@ -2503,23 +2520,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.xylink.linuxclient/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.xylink.linuxclient/screen_2.png\"]"
 }
 
-,
-{
-    "Name": "超级星学习通",
-    "Version": "1.0.0",
-    "Filename": "chaoxingstudy_1.0.0_i386.deb",
-    "Torrent_address": "chaoxingstudy_1.0.0_i386.deb.torrent",
-    "Pkgname": "chaoxingstudy",
-    "Author": "rc3583z<huawei0086@126.com>",
-    "Contributor": "rc3583z",
-    "Website": "huawei0086@126.com>",
-    "Update": "2023-04-16 09:10:55",
-    "Size": "480.5 MB",
-    "More": "学习通，完成作业。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e202d70-dbf3-11ed-b7c5-79e728797698.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e32a400-dbf3-11ed-b7c5-79e728797698.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/16/2a1ddf10-dbf3-11ed-b7c5-79e728797698.png"
-}
 ,
 {
     "Name": "移动办公",
@@ -2621,23 +2621,6 @@
 }
 ,
 {
-    "Name": "搜狗输入法UOS版语言数据包",
-    "Version": "1.0.0",
-    "Filename": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb",
-    "Torrent_address": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb.torrent",
-    "Pkgname": "com.sogou.sogoupinyin-uos-sogouvoice",
-    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://pinyin.sogou.com/linux",
-    "Update": "2023-05-20 22:09:03",
-    "Size": "878.22 MB",
-    "More": "搜狗输入法UOS版使用语音功能，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一。",
-    "Tags": "uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/442ae1d904d449249264283f3df7cd1f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/dbc5adabad134395874f57c34aa9ffe2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/3043006c16644596818679607634c83c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/8da17b09e48d4450b3a4000646d53d31.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/bd8e4b080a744d7da23846b40f5af8d4.png"
-}
-,
-{
     "Name": "电子档案管理系统",
     "Version": "2022.10.18-7",
     "Filename": "com.hsl.amis_2022.10.18-7_amd64.deb",
@@ -2652,6 +2635,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/34e2cc284587418dad37fbd7ebee2bfa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/06e778c904a34b16993167090ed8430b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/492416581292491da172a665316072c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/17cf7932aa654c5ca2829a23413e608e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/fdc889d3c24b40379d4154c39e4ac4d0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/30/a60bfd2f1f884ee39502f8168338e8db.png"
+}
+,
+{
+    "Name": "搜狗输入法UOS版语言数据包",
+    "Version": "1.0.0",
+    "Filename": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb",
+    "Torrent_address": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb.torrent",
+    "Pkgname": "com.sogou.sogoupinyin-uos-sogouvoice",
+    "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://pinyin.sogou.com/linux",
+    "Update": "2023-05-20 22:09:03",
+    "Size": "878.22 MB",
+    "More": "搜狗输入法UOS版使用语音功能，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一。",
+    "Tags": "uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/442ae1d904d449249264283f3df7cd1f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/dbc5adabad134395874f57c34aa9ffe2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/3043006c16644596818679607634c83c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/8da17b09e48d4450b3a4000646d53d31.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/bd8e4b080a744d7da23846b40f5af8d4.png"
 }
 ,
 {
@@ -3918,6 +3918,23 @@
 }
 ,
 {
+    "Name": "office2010 deepinV23版",
+    "Version": "14.0.0",
+    "Filename": "spark.office2010-runner.com_14.0.0_all.deb",
+    "Torrent_address": "spark.office2010-runner.com_14.0.0_all.deb.torrent",
+    "Pkgname": "spark.office2010-runner.com",
+    "Author": "microsofft",
+    "Contributor": "洗头 乐  ",
+    "Website": "https://www.microsoft.com/zh-cn",
+    "Update": "2024-06-09 07:42:44",
+    "Size": "1.01 GB",
+    "More": "会用的都会用",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceaa6660-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceddd270-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/cecfc8b0-25ef-11ef-a857-8d6ee211e447.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/09/c8f47490-25ef-11ef-a857-8d6ee211e447.png"
+}
+,
+{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "ofdview_1.0_all.deb",
@@ -4013,23 +4030,6 @@
     "Tags": "community;ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/876dcf30-c76f-11eb-a635-71e04c3946d8.svg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/895c7fd0-c76f-11eb-a635-71e04c3946d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/8b5e1c30-c76f-11eb-a635-71e04c3946d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/8e383e40-c76f-11eb-a635-71e04c3946d8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/07/81a58de0-c76f-11eb-a635-71e04c3946d8.png"
-}
-,
-{
-    "Name": "office2010 deepinV23版",
-    "Version": "14.0.0",
-    "Filename": "spark.office2010-runner.com_14.0.0_all.deb",
-    "Torrent_address": "spark.office2010-runner.com_14.0.0_all.deb.torrent",
-    "Pkgname": "spark.office2010-runner.com",
-    "Author": "microsofft",
-    "Contributor": "洗头 乐  ",
-    "Website": "https://www.microsoft.com/zh-cn",
-    "Update": "2024-06-09 07:42:44",
-    "Size": "1.01 GB",
-    "More": "会用的都会用",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceaa6660-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceddd270-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/cecfc8b0-25ef-11ef-a857-8d6ee211e447.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/09/c8f47490-25ef-11ef-a857-8d6ee211e447.png"
 }
 ,
 {

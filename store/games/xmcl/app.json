@@ -1,16 +1,16 @@
 {
     "Name": "X Minecraft Launcher",
-    "Version": "0.44.9-843",
-    "Filename": "xmcl_0.44.9-843_amd64.deb",
-    "Torrent_address": "xmcl_0.44.9-843_amd64.deb.torrent",
+    "Version": "0.44.10-847",
+    "Filename": "xmcl_0.44.10-847_amd64.deb",
+    "Torrent_address": "xmcl_0.44.10-847_amd64.deb.torrent",
     "Pkgname": "xmcl",
     "Author": "ci010 <cijhn@hotmail.com>",
-    "Contributor": "idleness <3499847908@qq.com>",
-    "Website": "https://github.com/voxelum/x-minecraft-launcher#readme",
-    "Update": "2024-06-20 13:47:57",
-    "Size": "83.5 MB",
-    "More": "X Minecraft Launcher (XMCL) 是一个方便你管理大量的整合包，模组，资源包，光影包的的现代化启动器。它对 Minecraft Forge，Fabric，Quilt，Curseforge 和 Modrinth 都有内置支持。\n\n第三方打包以修复,官方打包的chrome-sandbox权限问题(替换了postinst)",
+    "Contributor": "ci010 <cijhn@hotmail.com>",
+    "Website": "https://xmcl.app/",
+    "Update": "2024-06-30 00:47:35",
+    "Size": "76.67 MB",
+    "More": "X Minecraft Launcher (XMCL) 是一个方便你管理大量的整合包，模组，资源包，光影包的的现代化启动器。它对 Minecraft Forge，Fabric，Quilt，Curseforge 和 Modrinth 都有内置支持。",
     "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/8a1443ac39b24e98a3f3a51eccfdc70c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/0d7482e3857e4322a68f5ac4edf578f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/5c3f5c7581274b419e09da85dbf95fd5.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/20/a63bef191c804a1f991394a2cf23e771.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/6a4b6b0eefaa4a2ca9b308225533346d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/8dce536163f84501947e90ff072b0ca8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/64230f9d8d11474b816508280cb00776.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/30/1c6500e5e49b479ab11dfff34e1da9ed.png"
 }

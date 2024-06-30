@@ -2144,6 +2144,23 @@
 }
 ,
 {
+    "Name": "哔哩下载姬（Linux版）",
+    "Version": "1.0.10-1",
+    "Filename": "downkyi_1.0.10-1_amd64.deb",
+    "Torrent_address": "downkyi_1.0.10-1_amd64.deb.torrent",
+    "Pkgname": "downkyi",
+    "Author": "yaobiao131",
+    "Contributor": "sgb",
+    "Website": "https://github.com/yaobiao131/downkyicore",
+    "Update": "2024-06-02 00:16:32",
+    "Size": "38.66 MB",
+    "More": "基于哔哩下载姬Windows版和AvaloniaUI制作的跨平台版本",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/d127b60f946c4b0a89109dcfb6139167.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/f11ffe9e58e245718abfd4470cadb65c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/49ee9d18432f4d3e92e38ba3a482d5cb.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/46d00e022bc8417eb510e5ca2734cbb6.png"
+}
+,
+{
     "Name": "COSBrowser",
     "Version": "2.8.0spark0",
     "Filename": "com.cosbrowser.spark_2.8.0spark0_amd64.deb",
@@ -2174,23 +2191,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/23/a20a5834-a1da-4482-96ec-3cfb828977c9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/23/4e633776-0566-444a-a594-533fe7752a8c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/23/df59cf50-515c-4aaf-8f99-8b01ec5999af.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/23/60a47063-0b85-45af-ae0a-76990a88047e.png"
-}
-,
-{
-    "Name": "哔哩下载姬（Linux版）",
-    "Version": "1.0.10-1",
-    "Filename": "downkyi_1.0.10-1_amd64.deb",
-    "Torrent_address": "downkyi_1.0.10-1_amd64.deb.torrent",
-    "Pkgname": "downkyi",
-    "Author": "yaobiao131",
-    "Contributor": "sgb",
-    "Website": "https://github.com/yaobiao131/downkyicore",
-    "Update": "2024-06-02 00:16:32",
-    "Size": "38.66 MB",
-    "More": "基于哔哩下载姬Windows版和AvaloniaUI制作的跨平台版本",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/d127b60f946c4b0a89109dcfb6139167.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/f11ffe9e58e245718abfd4470cadb65c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/49ee9d18432f4d3e92e38ba3a482d5cb.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/46d00e022bc8417eb510e5ca2734cbb6.png"
 }
 ,
 {
@@ -2261,6 +2261,23 @@
 }
 ,
 {
+    "Name": "PDF to DOCX 转换器",
+    "Version": "1.1",
+    "Filename": "com.pdftodocx.deepin_1.1_all.deb",
+    "Torrent_address": "com.pdftodocx.deepin_1.1_all.deb.torrent",
+    "Pkgname": "com.pdftodocx.deepin",
+    "Author": "苦瓜甘甜（wszjf）",
+    "Contributor": "wang",
+    "Website": "https://www.52pojie.cn/thread-1799014-1-1.html",
+    "Update": "2024-05-27 23:22:26",
+    "Size": "139.92 MB",
+    "More": "PDF to DOCX 转换器是个PDF转成Word的转换器，这是吾爱大佬开发的，有非常多的人使用，软件界面非常简单。软件转换过程没有进度显示，只有转换完了才会有提示，它不支持纯图片的PDF，对表格等格式的转换效果非常好。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b5310980-1c3c-11ef-844a-857c0f6b164f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b53a3140-1c3c-11ef-844a-857c0f6b164f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/b010a0f0-1c3c-11ef-844a-857c0f6b164f.png"
+}
+,
+{
     "Name": "Qili弹幕姬",
     "Version": "1.0.0",
     "Filename": "me.sauntor.qili_1.0.0_amd64.deb",
@@ -2291,23 +2308,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/04c39770-c78f-11eb-a8c5-6bf9bdef1f7d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/07/03be0b20-c78b-11eb-a8c5-6bf9bdef1f7d.svg"
-}
-,
-{
-    "Name": "PDF to DOCX 转换器",
-    "Version": "1.1",
-    "Filename": "com.pdftodocx.deepin_1.1_all.deb",
-    "Torrent_address": "com.pdftodocx.deepin_1.1_all.deb.torrent",
-    "Pkgname": "com.pdftodocx.deepin",
-    "Author": "苦瓜甘甜（wszjf）",
-    "Contributor": "wang",
-    "Website": "https://www.52pojie.cn/thread-1799014-1-1.html",
-    "Update": "2024-05-27 23:22:26",
-    "Size": "139.92 MB",
-    "More": "PDF to DOCX 转换器是个PDF转成Word的转换器，这是吾爱大佬开发的，有非常多的人使用，软件界面非常简单。软件转换过程没有进度显示，只有转换完了才会有提示，它不支持纯图片的PDF，对表格等格式的转换效果非常好。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b5310980-1c3c-11ef-844a-857c0f6b164f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b53a3140-1c3c-11ef-844a-857c0f6b164f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/b010a0f0-1c3c-11ef-844a-857c0f6b164f.png"
 }
 ,
 {

@@ -1660,23 +1660,6 @@
 }
 ,
 {
-    "Name": "Scrcpy安卓手机投屏",
-    "Version": "2.4+szbt4",
-    "Filename": "scrcpy.genymobile.github_2.4_plus_szbt4_amd64.deb",
-    "Torrent_address": "scrcpy.genymobile.github_2.4_plus_szbt4_amd64.deb.torrent",
-    "Pkgname": "scrcpy.genymobile.github",
-    "Author": "SZBT CI <lu1044100652@outlook.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://bbs.deepin.org/user/95253",
-    "Update": "2024-04-05 12:11:05",
-    "Size": "1.92 MB",
-    "More": "Scrcpy安卓手机投屏，只支持数据线连接",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/e65badf895b24fc29a28f05cd8de2342.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/05/b050c1bc3c7a4159affe3a97e6df63a2.png"
-}
-,
-{
     "Name": "desktop 图标生成器",
     "Version": "1.2.1-20231212",
     "Filename": "z-tools-desktop-generater_1.2.1-20231212_amd64.deb",
@@ -1691,6 +1674,23 @@
     "Tags": "community;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/12/57fedafeb46041c3ba4ce942f1f01fd3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/12/9d7d30aa350849d6aabe197c8adbeb47.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/12/132604db6d7f48db86bbec13e5111a21.png"
+}
+,
+{
+    "Name": "Scrcpy安卓手机投屏",
+    "Version": "2.4+szbt4",
+    "Filename": "scrcpy.genymobile.github_2.4_plus_szbt4_amd64.deb",
+    "Torrent_address": "scrcpy.genymobile.github_2.4_plus_szbt4_amd64.deb.torrent",
+    "Pkgname": "scrcpy.genymobile.github",
+    "Author": "SZBT CI <lu1044100652@outlook.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://bbs.deepin.org/user/95253",
+    "Update": "2024-04-05 12:11:05",
+    "Size": "1.92 MB",
+    "More": "Scrcpy安卓手机投屏，只支持数据线连接",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/e65badf895b24fc29a28f05cd8de2342.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/05/b050c1bc3c7a4159affe3a97e6df63a2.png"
 }
 ,
 {
@@ -2746,6 +2746,23 @@
 }
 ,
 {
+    "Name": "通知中心天气小组件",
+    "Version": "0.1-1",
+    "Filename": "dde-widgets-weather-plugin_0.1-1_amd64.deb",
+    "Torrent_address": "dde-widgets-weather-plugin_0.1-1_amd64.deb.torrent",
+    "Pkgname": "dde-widgets-weather-plugin",
+    "Author": "linuxdeepin / zty199",
+    "Contributor": "zty199",
+    "Website": "https://github.com/zty199/dde-widgets-weather-plugin",
+    "Update": "2024-04-24 10:27:23",
+    "Size": "3.1 MB",
+    "More": "一个简单的通知中心天气小组件，基于和风天气开发服务开发。",
+    "Tags": "community;deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/4dcb79eff8654ae79b2984638ab7849c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/f1cd8bb207bb4f33b4de84d1f27688e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/b73a74a7b2cc4402a3918623d7d01278.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/a16b522362684bf8a7c72b08a676f017.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/24/574f62857e744d6db3046b8053364a02.png"
+}
+,
+{
     "Name": "羽云工具箱",
     "Version": "1.0.0",
     "Filename": "com.wingsummer.wingtool_1.0.0_amd64.deb",
@@ -2794,23 +2811,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/27/04f9d6439e5842cc9decccb6480e9434.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/27/3e7c93892a01495986a75852357c68c7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/27/0b9457458c424e6e809142c7c0d08858.png"
-}
-,
-{
-    "Name": "通知中心天气小组件",
-    "Version": "0.1-1",
-    "Filename": "dde-widgets-weather-plugin_0.1-1_amd64.deb",
-    "Torrent_address": "dde-widgets-weather-plugin_0.1-1_amd64.deb.torrent",
-    "Pkgname": "dde-widgets-weather-plugin",
-    "Author": "linuxdeepin / zty199",
-    "Contributor": "zty199",
-    "Website": "https://github.com/zty199/dde-widgets-weather-plugin",
-    "Update": "2024-04-24 10:27:23",
-    "Size": "3.1 MB",
-    "More": "一个简单的通知中心天气小组件，基于和风天气开发服务开发。",
-    "Tags": "community;deepin;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/4dcb79eff8654ae79b2984638ab7849c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/f1cd8bb207bb4f33b4de84d1f27688e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/b73a74a7b2cc4402a3918623d7d01278.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/a16b522362684bf8a7c72b08a676f017.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/24/574f62857e744d6db3046b8053364a02.png"
 }
 ,
 {
@@ -2865,6 +2865,23 @@
 }
 ,
 {
+    "Name": "Deepin Community Live CD 2.0.0-tiny",
+    "Version": "2.0.0",
+    "Filename": "live-filesystem-community-tiny_2.0.0_amd64.deb",
+    "Torrent_address": "live-filesystem-community-tiny_2.0.0_amd64.deb.torrent",
+    "Pkgname": "live-filesystem-community-tiny",
+    "Author": "LinuxDeepin Project <linuxdeepin@linuxdeepin.com>, gfdgd xi<3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gfdgd-xi.github.io",
+    "Update": "2023-07-26 22:32:14",
+    "Size": "416.95 MB",
+    "More": "此 Live CD 基于 deepin 20.7.1 和原 Live CD 2.0 制作，目前提供三种版本，安装部分维护工具（如果还有需要添加的就说），感谢 https://bbs.deepin.org/post/166409 的作者 @xchngg的参考文档，测试完整版 Ventoy 在 Legary 和 UEFT 模式下均可运行此 Live CD，有常用驱动（网卡、显卡、声卡），理论上能运行 deepin 20.5 均可运行，其它版本理论上只要能正常启动 Live CD 2.0 就可以开启\n同时也借鉴了以下文章的内容：\nhttps://bbs.deepin.org/post/228930 @deepin-superuser\n\nhttps://bbs.deepin.org/post/228568 @木一明\n以及感谢用户 @为什么您不喜欢熊出没和阿布呢 参与制作（他还未注册 deepin 论坛）\n此版本相比于原来官方的 Live CD 只升级了内核，没有多的更新，也没有重新打包（所以壁纸也没有换），适用于应急或者空间、网速以及对功能要求不高且电脑配置较低以及语言非简体中文的用户\n提示：该版本支持读取 exfat 分区\n以及此应用与 mini 和 full 版本冲突\n并且此 Live CD 密码未知，如果有使用密码的需求建议使用 passwd 修改密码\n更新内容：\n※1、更新内核到 5.18.17-hwe",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/26/17f30a45e01b493e9dc38ee89b9b0222.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/26/a6954a870f9143d484c416971b1a145c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/26/8760cfb6485a408fb4128de9b02531ff.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/26/019bb0366a414f6d8bdb6890b3219081.png"
+}
+,
+{
     "Name": "卡片视界",
     "Version": "1.0.0",
     "Filename": "cn.miaoys.desktop.widgets_1.0.0_amd64.deb",
@@ -2899,23 +2916,6 @@
 }
 ,
 {
-    "Name": "Deepin Community Live CD 2.0.0-tiny",
-    "Version": "2.0.0",
-    "Filename": "live-filesystem-community-tiny_2.0.0_amd64.deb",
-    "Torrent_address": "live-filesystem-community-tiny_2.0.0_amd64.deb.torrent",
-    "Pkgname": "live-filesystem-community-tiny",
-    "Author": "LinuxDeepin Project <linuxdeepin@linuxdeepin.com>, gfdgd xi<3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gfdgd-xi.github.io",
-    "Update": "2023-07-26 22:32:14",
-    "Size": "416.95 MB",
-    "More": "此 Live CD 基于 deepin 20.7.1 和原 Live CD 2.0 制作，目前提供三种版本，安装部分维护工具（如果还有需要添加的就说），感谢 https://bbs.deepin.org/post/166409 的作者 @xchngg的参考文档，测试完整版 Ventoy 在 Legary 和 UEFT 模式下均可运行此 Live CD，有常用驱动（网卡、显卡、声卡），理论上能运行 deepin 20.5 均可运行，其它版本理论上只要能正常启动 Live CD 2.0 就可以开启\n同时也借鉴了以下文章的内容：\nhttps://bbs.deepin.org/post/228930 @deepin-superuser\n\nhttps://bbs.deepin.org/post/228568 @木一明\n以及感谢用户 @为什么您不喜欢熊出没和阿布呢 参与制作（他还未注册 deepin 论坛）\n此版本相比于原来官方的 Live CD 只升级了内核，没有多的更新，也没有重新打包（所以壁纸也没有换），适用于应急或者空间、网速以及对功能要求不高且电脑配置较低以及语言非简体中文的用户\n提示：该版本支持读取 exfat 分区\n以及此应用与 mini 和 full 版本冲突\n并且此 Live CD 密码未知，如果有使用密码的需求建议使用 passwd 修改密码\n更新内容：\n※1、更新内核到 5.18.17-hwe",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/26/17f30a45e01b493e9dc38ee89b9b0222.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/26/a6954a870f9143d484c416971b1a145c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/26/8760cfb6485a408fb4128de9b02531ff.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/26/019bb0366a414f6d8bdb6890b3219081.png"
-}
-,
-{
     "Name": "icalingua++ 用户服务",
     "Version": "0.0.1",
     "Filename": "icalingua-autoservice_0.0.1_all.deb",
@@ -2930,6 +2930,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/03/9ad86483-b606-4fe6-a0b2-943f139f9323.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/03/e6c02952-90ab-4eb5-8f50-8c530a0483bc.png"
+}
+,
+{
+    "Name": "希沃白板5",
+    "Version": "5.2.1.0.7942.2a6",
+    "Filename": "com.seewo.easinote5_5.2.1.0.7942.2a6_amd64.deb",
+    "Torrent_address": "com.seewo.easinote5_5.2.1.0.7942.2a6_amd64.deb.torrent",
+    "Pkgname": "com.seewo.easinote5",
+    "Author": "广州视睿电子科技有限公司",
+    "Contributor": "tayasui_lime",
+    "Website": "https://www.seewo.com",
+    "Update": "2024-04-20 15:41:58",
+    "Size": "146.55 MB",
+    "More": "希沃白板5是一款由希沃（seewo）自主研发，专为老师打造的互动教学平台。针对信息化教学场景，提供课件制作、互动授课、在线课堂、微课录制、课件资源库等多项功能，满足线上、线下教学的多个场景，让老师能一站式完成教学环节的主要流程。\n这个版本要激！活！码！会整开的逝世能不能用吧",
+    "Tags": "deepin;uos;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/20/467dd1f0-fee9-11ee-9ec3-2d8f34987640.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/20/135b9c30-fee9-11ee-9ec3-2d8f34987640.png"
 }
 ,
 {
@@ -2997,23 +3014,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/e1fd85e453894de083d59e1e7959dab1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/ce818a5edba5410b87f443339164ab0c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/8b3435e095794b36a3a86177e12c468d.png"
-}
-,
-{
-    "Name": "希沃白板5",
-    "Version": "5.2.1.0.7942.2a6",
-    "Filename": "com.seewo.easinote5_5.2.1.0.7942.2a6_amd64.deb",
-    "Torrent_address": "com.seewo.easinote5_5.2.1.0.7942.2a6_amd64.deb.torrent",
-    "Pkgname": "com.seewo.easinote5",
-    "Author": "广州视睿电子科技有限公司",
-    "Contributor": "tayasui_lime",
-    "Website": "https://www.seewo.com",
-    "Update": "2024-04-20 15:41:58",
-    "Size": "146.55 MB",
-    "More": "希沃白板5是一款由希沃（seewo）自主研发，专为老师打造的互动教学平台。针对信息化教学场景，提供课件制作、互动授课、在线课堂、微课录制、课件资源库等多项功能，满足线上、线下教学的多个场景，让老师能一站式完成教学环节的主要流程。\n这个版本要激！活！码！会整开的逝世能不能用吧",
-    "Tags": "deepin;uos;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/20/467dd1f0-fee9-11ee-9ec3-2d8f34987640.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/20/135b9c30-fee9-11ee-9ec3-2d8f34987640.png"
 }
 ,
 {
@@ -4128,6 +4128,24 @@
 }
 ,
 {
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb",
+    "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \n安装此包后在后续版本的 Wine 运行器虚拟机配置工具将支持调用该新版本的 Qemu\n\n该版本只支持 deepin23,如需支持其它系统版本的（如 deepin 20），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
+    "Name": "Wine 运行器 Qemu 拓展",
+    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
+    "Size": "289 Mb",
+    "Tags": "community;deepin",
+    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb.torrent",
+    "Update": "2024-06-29 17:54:44",
+    "Version": "9.0.1runner1~beige",
+    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
+}
+
+,
+{
     "Name": "PicList",
     "Version": "2.6.1",
     "Filename": "piclist_2.6.1_amd64.deb",
@@ -4244,24 +4262,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/15/3e0fd5f0-270f-11eb-8b5c-3b78c2037741.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/15/3593e650-270f-11eb-8b5c-3b78c2037741.png"
 }
-,
-{
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb",
-    "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \n安装此包后在后续版本的 Wine 运行器虚拟机配置工具将支持调用该新版本的 Qemu\n\n该版本只支持 deepin23,如需支持其它系统版本的（如 deepin 20），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
-    "Name": "Wine 运行器 Qemu 拓展",
-    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
-    "Size": "289 Mb",
-    "Tags": "community;deepin",
-    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb.torrent",
-    "Update": "2024-06-29 17:54:44",
-    "Version": "9.0.1runner1~beige",
-    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
-}
-
 ,
 {
     "Name": "墨干编辑器",
