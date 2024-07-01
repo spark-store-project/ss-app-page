@@ -748,23 +748,6 @@
 }
 ,
 {
-    "Name": "拟态时钟屏保程序(升级多屏适配)",
-    "Version": "1.0.0-20240620",
-    "Filename": "mimicry-clock-screensaver_1.0.0-20240620_amd64.deb",
-    "Torrent_address": "mimicry-clock-screensaver_1.0.0-20240620_amd64.deb.torrent",
-    "Pkgname": "mimicry-clock-screensaver",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/qt.mimicry-clock-screensaver",
-    "Update": "2024-06-20 15:34:13",
-    "Size": "490.99 KB",
-    "More": "适用于深度操作系统的拟态时钟屏保程序\n\nv1.0.0: 支持多个显示器预览屏保\n20240620: 提供 UOS 系统包",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/2eab22481ad942e1801a1d2dca8bda1a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/878eeb303d344d23926c14cfcba38be0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/99431c2510c941b4ba944ce7ee82537e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/20/913fe5ab36914540ad302bda86797544.png"
-}
-,
-{
     "Name": "幻梦动态壁纸deepinV23特别版本",
     "Version": "1.7.5",
     "Filename": "fantascene-v23_1.7.5_amd64.deb",
@@ -779,6 +762,23 @@
     "Tags": "community;deepin;dtk5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/5a3fc790ec6e4a46aab790dadd91a737.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/3b2679dde61647469b1397d0aebdf18d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/c4ddc742d86c419db10a93b0d81bd096.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/3b6fef9e291845cd827ea1759a8b3230.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/de4c13aba6c542e3b902a6d5804a7852.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/23/6554ca04e4844e63ab73d74a21377e44.png"
+}
+,
+{
+    "Name": "拟态时钟屏保程序(升级多屏适配)",
+    "Version": "1.0.0-20240620",
+    "Filename": "mimicry-clock-screensaver_1.0.0-20240620_amd64.deb",
+    "Torrent_address": "mimicry-clock-screensaver_1.0.0-20240620_amd64.deb.torrent",
+    "Pkgname": "mimicry-clock-screensaver",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/qt.mimicry-clock-screensaver",
+    "Update": "2024-06-20 15:34:13",
+    "Size": "490.99 KB",
+    "More": "适用于深度操作系统的拟态时钟屏保程序\n\nv1.0.0: 支持多个显示器预览屏保\n20240620: 提供 UOS 系统包",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/2eab22481ad942e1801a1d2dca8bda1a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/878eeb303d344d23926c14cfcba38be0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/99431c2510c941b4ba944ce7ee82537e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/20/913fe5ab36914540ad302bda86797544.png"
 }
 ,
 {
@@ -1001,23 +1001,6 @@
 }
 ,
 {
-    "Name": "CuteFish图标",
-    "Version": "0.8+3",
-    "Filename": "cutefish-icons_0.8_plus3_all.deb",
-    "Torrent_address": "cutefish-icons_0.8_plus3_all.deb.torrent",
-    "Pkgname": "cutefish-icons",
-    "Author": "CutefishOS <support@cutefishos.com>",
-    "Contributor": "CutefishOS <support@cutefishos.com>",
-    "Website": "https://cutefishos.com",
-    "Update": "2023-08-08 00:03:21",
-    "Size": "6.59 MB",
-    "More": "CuteFish图标\n新增dde-launcher, vscode",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/950a9e54e72b4f4c80a141757c0d4146.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/dc09a651ef604da3a7753502914ca6d5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/cc9eeafc5a104e87936afb15b1b9d72e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/08/8cb3db7c6db8499383a73c556456c4f4.png"
-}
-,
-{
     "Name": "幻梦动态壁纸deepinV20特别版本",
     "Version": "1.7.0",
     "Filename": "fantascene-v20_1.7.0_amd64.deb",
@@ -1032,6 +1015,23 @@
     "Tags": "community;deepin;dtk5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/20/ea3c2c60fabc41a8a90d3d1b26c9940b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/20/04241794e1cc464b9d4d5a0a5c5f07f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/20/11b1ca976128432e8491c38616421fe9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/20/5e879c38742a487c8d3928014732c6ab.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/20/0a45f4f2d8fa4b31b838e7d4421e3bd9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/20/2d041b0699eb4044a75fd5a2a9cd362f.png"
+}
+,
+{
+    "Name": "CuteFish图标",
+    "Version": "0.8+3",
+    "Filename": "cutefish-icons_0.8_plus3_all.deb",
+    "Torrent_address": "cutefish-icons_0.8_plus3_all.deb.torrent",
+    "Pkgname": "cutefish-icons",
+    "Author": "CutefishOS <support@cutefishos.com>",
+    "Contributor": "CutefishOS <support@cutefishos.com>",
+    "Website": "https://cutefishos.com",
+    "Update": "2023-08-08 00:03:21",
+    "Size": "6.59 MB",
+    "More": "CuteFish图标\n新增dde-launcher, vscode",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/950a9e54e72b4f4c80a141757c0d4146.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/dc09a651ef604da3a7753502914ca6d5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/cc9eeafc5a104e87936afb15b1b9d72e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/08/8cb3db7c6db8499383a73c556456c4f4.png"
 }
 ,
 {

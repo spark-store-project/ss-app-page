@@ -2372,6 +2372,28 @@ Description: A script to run programs with newer libc.
  libc-bin download URL: http://ftp.cn.debian.org/debian/pool/main/g/glibc/libc-bin_2.36-9+deb12u3_arm64.deb
  libstdc++6 download URL: http://ftp.cn.debian.org/debian/pool/main/g/gcc-12/libstdc++6_12.2.0-14_arm64.deb
 
+Package: additional-base-lib
+Architecture: arm64
+Version: 2.38-13-9
+Priority: optional
+Section: utils
+Maintainer: CongTianKong
+Installed-Size: 26052
+Depends: bubblewrap, bash, coreutils
+Suggests: shared-mime-info, xdg-utils
+Filename: tools/additional-base-lib/additional-base-lib_2.38-13-9_arm64.deb
+Size: 5675668
+MD5sum: dd7927147ee484950affd612dcca40ac
+SHA1: 586022649af99956393a72871f046d596bed75b4
+SHA256: 93fb6d6d7cfce7e51f75166250ec3c2e0fb6df4fadc7fe332aab7e947d6e894f
+SHA512: ad7b17a4d7d336fb87b3bbd0b5fb1dbbb1f461e6adb28f91282143be95a1d9983fb6e58c56e952f1ccfa3c2a998aa773ce3038268580fe38994628707317953e
+Homepage: https://gitee.com/deepin-community-store/additional-base-lib
+Description: A script to run programs with newer libc.
+ package built with make-deb.sh from additional-base-lib project.
+ libc6 download URL: http://mirrors.ustc.edu.cn/debian/pool/main/g/glibc/libc6_2.38-13_arm64.deb
+ libc-bin download URL: http://mirrors.ustc.edu.cn/debian/pool/main/g/glibc/libc-bin_2.38-13_arm64.deb
+ libstdc++6 download URL: http://mirrors.ustc.edu.cn/debian/pool/main/g/gcc-14/libstdc++6_14-20240330-1_arm64.deb
+
 Package: sm-refresh
 Architecture: all
 Version: 1.1
@@ -5764,6 +5786,26 @@ MD5sum: b7d87cd6350192028a36eea76e011628
 SHA1: 79d4f352c093364a894675b200e6dae1ac227547
 SHA256: 5a0c4292539f8c6f698fa2487ca626adb3014f5a835bec2431886e8dc6d51c4d
 SHA512: bee7b68ca05684a5e2fcf13b25adcc504876dc97d7bcc2e5483d4aa773ffc13ed283606c0188f2bb5336b49eb904e6d02bcb3bf99e16b585cf8949e54088ee3f
+Description: 帮助你更快速、更牢固地记忆单词
+
+Package: bssenglish
+Architecture: all
+Version: 2.1.3
+Priority: optional
+Maintainer: Bail<2915289604@qq.com>
+Installed-Size: 106.5KB
+Provides: Office
+Pre-Depends:
+Depends: python3(>=3.7),python3-gst-1.0,python3-tk,python3-pip
+Recommends:
+Conflicts: com.Bail.bssenglish
+Replaces:
+Filename: office/bssenglish/bssenglish_2.1.3_all.deb
+Size: 28744
+MD5sum: 489f0801faade5ef880cdf5aa41899bf
+SHA1: 60e42347a24c70bda827467064a92e19d749dd46
+SHA256: ece1026aa2c474cac2bcbfdffd685781fc3b55c5d6ed3929acd15a55ff53cc1c
+SHA512: 61e4f2f544b8e00bd06b7446dc5ab5c494da338f1788dd5009f6e58c6e37f788a0ff7643788439d524d93d3019e71ea695d96c79d848a79058e2ccd91f3a0f18
 Description: 帮助你更快速、更牢固地记忆单词
 
 Package: org.libreoffice.libreoffice

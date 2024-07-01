@@ -6391,6 +6391,28 @@ Description: screen your phone on computer
 
 Package: additional-base-lib
 Architecture: amd64
+Version: 2.38-13-9
+Priority: optional
+Section: utils
+Maintainer: CongTianKong
+Installed-Size: 15220
+Depends: bubblewrap, bash, coreutils
+Suggests: shared-mime-info, xdg-utils
+Filename: tools/additional-base-lib/additional-base-lib_2.38-13-9_amd64.deb
+Size: 5765532
+MD5sum: cc0e8ca731c8c9d721268e93d1b8e640
+SHA1: 8aa1fba8cfe38561f610377508bf8e1501bc3ea2
+SHA256: e48281949f890c0b1eb81328584ec8c92af1609d8b26a6c14ddf564ec2e8ef79
+SHA512: aac09b4df3ed44d0956737748ed3ddc3388b78e2592e468dde6d8dce6ccca63e064ac20695b3160c537d3aa348fea66b0f536d6e65310eaaaa1a9875edfd574e
+Homepage: https://gitee.com/deepin-community-store/additional-base-lib
+Description: A script to run programs with newer libc.
+ package built with make-deb.sh from additional-base-lib project.
+ libc6 download URL: http://mirrors.ustc.edu.cn/debian/pool/main/g/glibc/libc6_2.38-13_amd64.deb
+ libc-bin download URL: http://mirrors.ustc.edu.cn/debian/pool/main/g/glibc/libc-bin_2.38-13_amd64.deb
+ libstdc++6 download URL: http://mirrors.ustc.edu.cn/debian/pool/main/g/gcc-14/libstdc++6_14-20240330-1_amd64.deb
+
+Package: additional-base-lib
+Architecture: amd64
 Version: 2.36-9+deb12u3-9
 Priority: optional
 Section: utils

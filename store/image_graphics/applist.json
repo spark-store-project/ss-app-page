@@ -203,22 +203,6 @@
 }
 ,
 {
-    "Name": "尧创CAD（wine）",
-    "Version": "10.1spark0",
-    "Filename": "cn.yaoccad.spark_10.1spark0_i386.deb",
-    "Pkgname": "cn.yaoccad.spark",
-    "Author": "武汉尧创软件科技有限责任公司",
-    "Contributor": "sgb76",
-    "Website": "http://www.yaocsoft.com.cn/ChsDefault.aspx",
-    "Update": "2021-08-06 22:51:41",
-    "Size": "694.03 MB",
-    "More": "尧创CAD 是一款拥有完全自主知识产权的专业绘图软件，它与AutoCAD全面兼容，功能强大，性价比高，在机械、电子、化工、建筑、船舶、航空等行业得到了广泛地应用。",
-    "Tags": "ubuntu;deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/06/7f9312a0-f6c4-11eb-8453-8b053af67d50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/06/877e0ce0-f6c4-11eb-8453-8b053af67d50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/06/8d33b090-f6c4-11eb-8453-8b053af67d50.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/06/7849af90-f6c4-11eb-8453-8b053af67d50.png"
-}
-,
-{
     "Name": "蜂蜜图片浏览器",
     "Version": "5.51spark2",
     "Filename": "com.bandisoft.honeyview.spark_5.51spark2_amd64.deb",
@@ -233,6 +217,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/14/169c980c860a4370a5af5aa8b9915ca2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/14/4eac852a83e844dea60443bb4f2eaad7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/14/c00ab5a14d22491bb59588103c9996fa.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/14/05187c5148f9414e84aeba061dfa9a94.png"
+}
+,
+{
+    "Name": "尧创CAD（wine）",
+    "Version": "10.1spark0",
+    "Filename": "cn.yaoccad.spark_10.1spark0_i386.deb",
+    "Pkgname": "cn.yaoccad.spark",
+    "Author": "武汉尧创软件科技有限责任公司",
+    "Contributor": "sgb76",
+    "Website": "http://www.yaocsoft.com.cn/ChsDefault.aspx",
+    "Update": "2021-08-06 22:51:41",
+    "Size": "694.03 MB",
+    "More": "尧创CAD 是一款拥有完全自主知识产权的专业绘图软件，它与AutoCAD全面兼容，功能强大，性价比高，在机械、电子、化工、建筑、船舶、航空等行业得到了广泛地应用。",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/06/7f9312a0-f6c4-11eb-8453-8b053af67d50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/06/877e0ce0-f6c4-11eb-8453-8b053af67d50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/06/8d33b090-f6c4-11eb-8453-8b053af67d50.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/06/7849af90-f6c4-11eb-8453-8b053af67d50.png"
 }
 ,
 {
@@ -2174,6 +2174,23 @@
 }
 ,
 {
+    "Name": "图片浏览器 - 你的浏览大法器",
+    "Version": "0.4-20240531",
+    "Filename": "z-tools-imagesbrowser_0.4-20240531_amd64.deb",
+    "Torrent_address": "z-tools-imagesbrowser_0.4-20240531_amd64.deb.torrent",
+    "Pkgname": "z-tools-imagesbrowser",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/z-tools/tree/imagebrowser-dev",
+    "Update": "2024-05-31 15:59:40",
+    "Size": "65.71 KB",
+    "More": "图片浏览器可以用来浏览指定目录下及子目录下所有 jpg, png, svg 图片。\n\n如何使用它：\n1. 图片数数量太多在你找不到某张图片时，你可以提供大概所在目录，然后慢慢浏览可能存在的图片。\n2. 如果目录太多，不知道哪里有图片时，它可以为你遍历目录文件来列出所有图片文件。\n3. 找到图片时，如果图片很大，你可以使用鼠标放大+拖动来查看你想预览的部分，并且还可以复制图片数据，或直接打开所在目录。\n\n嗯？电脑上没几张图片，可以尝试使用图片吸收器哦(一分吸百图)~\n           spk://store/image_graphics/image-absorber\n .\n Build for Uos20 through spark-deb-build.",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/1b39d2456bab49cebb748925b77a64c3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/c8b5ba7d579949c6adaa151574b39f0a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/b72c02f3939a4e42822eededfa55d4d7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/72224845fa46450488d1fc1fb691e135.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/31/c5ceb84925a84d4ab3e9c0aab88a89a5.png"
+}
+,
+{
     "Name": "Tropy",
     "Version": "1.12.0spark2",
     "Filename": "org.tropy.spark_1.12.0spark2_amd64.deb",
@@ -2274,23 +2291,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/27/e51f7c3aee6e4f04adb4d6d43d903be1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/27/2ac37f60706443ca837d206f877f042a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/27/6260f12ce4ab4845a5034dccf0f60d87.png"
-}
-,
-{
-    "Name": "图片浏览器 - 你的浏览大法器",
-    "Version": "0.4-20240531",
-    "Filename": "z-tools-imagesbrowser_0.4-20240531_amd64.deb",
-    "Torrent_address": "z-tools-imagesbrowser_0.4-20240531_amd64.deb.torrent",
-    "Pkgname": "z-tools-imagesbrowser",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/z-tools/tree/imagebrowser-dev",
-    "Update": "2024-05-31 15:59:40",
-    "Size": "65.71 KB",
-    "More": "图片浏览器可以用来浏览指定目录下及子目录下所有 jpg, png, svg 图片。\n\n如何使用它：\n1. 图片数数量太多在你找不到某张图片时，你可以提供大概所在目录，然后慢慢浏览可能存在的图片。\n2. 如果目录太多，不知道哪里有图片时，它可以为你遍历目录文件来列出所有图片文件。\n3. 找到图片时，如果图片很大，你可以使用鼠标放大+拖动来查看你想预览的部分，并且还可以复制图片数据，或直接打开所在目录。\n\n嗯？电脑上没几张图片，可以尝试使用图片吸收器哦(一分吸百图)~\n           spk://store/image_graphics/image-absorber\n .\n Build for Uos20 through spark-deb-build.",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/1b39d2456bab49cebb748925b77a64c3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/c8b5ba7d579949c6adaa151574b39f0a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/b72c02f3939a4e42822eededfa55d4d7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/72224845fa46450488d1fc1fb691e135.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/31/c5ceb84925a84d4ab3e9c0aab88a89a5.png"
 }
 ,
 {
