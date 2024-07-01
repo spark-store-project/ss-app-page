@@ -777,6 +777,22 @@
 }
 ,
 {
+    "Name": "Atom",
+    "Version": "1.60.0",
+    "Filename": "atom_1.60.0_amd64.deb",
+    "Pkgname": "atom",
+    "Author": "atom",
+    "Contributor": "sgb76",
+    "Website": "https://atom.io/",
+    "Update": "2022-03-24 15:05:20",
+    "Size": "132.28 MB",
+    "More": "A hackable text editor for the 21st Century",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/24/95ba1660-ab40-11ec-9d88-c35843a2e64d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/24/9952f490-ab40-11ec-9d88-c35843a2e64d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/24/8f0e04c0-ab40-11ec-9d88-c35843a2e64d.png"
+}
+,
+{
     "Name": "Godot游戏引擎",
     "Version": "4.1.3",
     "Filename": "godot_4.1.3_amd64.deb",
@@ -791,22 +807,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/308361eef03847da9ed39e950c21e512.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/79fce1e3d55c493792c716025e272970.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/2aed699218de41e681c7e624b6a55ed5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/04/5161e6c032674cc0b0502a2820e28bb1.png"
-}
-,
-{
-    "Name": "Atom",
-    "Version": "1.60.0",
-    "Filename": "atom_1.60.0_amd64.deb",
-    "Pkgname": "atom",
-    "Author": "atom",
-    "Contributor": "sgb76",
-    "Website": "https://atom.io/",
-    "Update": "2022-03-24 15:05:20",
-    "Size": "132.28 MB",
-    "More": "A hackable text editor for the 21st Century",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/24/95ba1660-ab40-11ec-9d88-c35843a2e64d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/24/9952f490-ab40-11ec-9d88-c35843a2e64d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/24/8f0e04c0-ab40-11ec-9d88-c35843a2e64d.png"
 }
 ,
 {
@@ -1059,23 +1059,6 @@
 }
 ,
 {
-    "Name": "LibrePCB",
-    "Version": "0.1.6",
-    "Filename": "org.librepcb_0.1.6_amd64.deb",
-    "Torrent_address": "org.librepcb_0.1.6_amd64.deb.torrent",
-    "Pkgname": "org.librepcb",
-    "Author": "LibrePCB",
-    "Contributor": "秦以南",
-    "Website": "https://librepcb.org/",
-    "Update": "2022-08-03 21:24:58",
-    "Size": "26.74 MB",
-    "More": "LibrePCB is a free EDA software to develop printed circuit boards.\n\nLibrePCB是一个开发印刷电路板的免费EDA软件。",
-    "Tags": "community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/03/a226b5f0-132f-11ed-b41d-b3e7f276408f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/03/a24a6a90-132f-11ed-b41d-b3e7f276408f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/03/a26cbfa0-132f-11ed-b41d-b3e7f276408f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/03/a28f89e0-132f-11ed-b41d-b3e7f276408f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/03/a2b51340-132f-11ed-b41d-b3e7f276408f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/03/7dcde6b0-132f-11ed-b41d-b3e7f276408f.png"
-}
-,
-{
     "Name": "Visual Studio Code Insider",
     "Version": "1.88.0-1711087966",
     "Filename": "code-insiders_1.88.0-1711087966_amd64.deb",
@@ -1090,6 +1073,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/27b331238bc548e7b951a001ec93a37b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/24/87c4eb9649274a228bd1908474073ca8.png"
+}
+,
+{
+    "Name": "LibrePCB",
+    "Version": "0.1.6",
+    "Filename": "org.librepcb_0.1.6_amd64.deb",
+    "Torrent_address": "org.librepcb_0.1.6_amd64.deb.torrent",
+    "Pkgname": "org.librepcb",
+    "Author": "LibrePCB",
+    "Contributor": "秦以南",
+    "Website": "https://librepcb.org/",
+    "Update": "2022-08-03 21:24:58",
+    "Size": "26.74 MB",
+    "More": "LibrePCB is a free EDA software to develop printed circuit boards.\n\nLibrePCB是一个开发印刷电路板的免费EDA软件。",
+    "Tags": "community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/03/a226b5f0-132f-11ed-b41d-b3e7f276408f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/03/a24a6a90-132f-11ed-b41d-b3e7f276408f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/03/a26cbfa0-132f-11ed-b41d-b3e7f276408f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/03/a28f89e0-132f-11ed-b41d-b3e7f276408f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/03/a2b51340-132f-11ed-b41d-b3e7f276408f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/03/7dcde6b0-132f-11ed-b41d-b3e7f276408f.png"
 }
 ,
 {
@@ -1471,23 +1471,6 @@
 }
 ,
 {
-    "Name": "CCompare",
-    "Version": "1.16.1.0",
-    "Filename": "cn.itdp.ccompare_1.16.1.0_amd64.deb",
-    "Torrent_address": "cn.itdp.ccompare_1.16.1.0_amd64.deb.torrent",
-    "Pkgname": "cn.itdp.ccompare",
-    "Author": "尹作为 <757210198@qq.com>",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "www.itdp.cn",
-    "Update": "2022-12-28 14:16:54",
-    "Size": "1.54 MB",
-    "More": "支持文件夹对比、合并功能；支持文本文件对比同步；二进制文件对比；文本编码批量转换； uos下替换beyond compare的免费工具。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/825831840baa429698c182b53c9937af.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/28/2288b23228ad461c928ab3e3f119c7b7.png"
-}
-,
-{
     "Name": "阿里云 OSS Browser",
     "Version": "1.18.0",
     "Filename": "aliyun-oss-browser_1.18.0_amd64.deb",
@@ -1502,6 +1485,23 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/527e90fcdb554436bdaab80f0570cea1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/173bae9edd0a4d23a9659b6a8f1fb089.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/7040b3068c994dce8fc71ec9e9246908.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/a5e343b744d54d15a880954d1cd3ebfe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/d659fed789c34902b952c8b40ff2753f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/230ac02c87634ee793bbd0aa7c53a108.png"
+}
+,
+{
+    "Name": "CCompare",
+    "Version": "1.16.1.0",
+    "Filename": "cn.itdp.ccompare_1.16.1.0_amd64.deb",
+    "Torrent_address": "cn.itdp.ccompare_1.16.1.0_amd64.deb.torrent",
+    "Pkgname": "cn.itdp.ccompare",
+    "Author": "尹作为 <757210198@qq.com>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "www.itdp.cn",
+    "Update": "2022-12-28 14:16:54",
+    "Size": "1.54 MB",
+    "More": "支持文件夹对比、合并功能；支持文本文件对比同步；二进制文件对比；文本编码批量转换； uos下替换beyond compare的免费工具。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/825831840baa429698c182b53c9937af.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/28/2288b23228ad461c928ab3e3f119c7b7.png"
 }
 ,
 {
@@ -1588,6 +1588,23 @@
 }
 ,
 {
+    "Name": "finalshell-2024年更新版",
+    "Version": "4.3.10",
+    "Filename": "finalshell_4.3.10_amd64.deb",
+    "Torrent_address": "finalshell_4.3.10_amd64.deb.torrent",
+    "Pkgname": "finalshell",
+    "Author": "kentrl",
+    "Contributor": "kentrl",
+    "Website": "kentrl",
+    "Update": "2024-04-26 10:50:48",
+    "Size": "89.68 MB",
+    "More": "2024年的本次更新发现可以设置字体大小了，终端还带颜色的 ，finalshell_linux-4.3.10",
+    "Tags": "deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/8bf86c80-0377-11ef-ab63-e103c5305d10.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/6933f8e0-0377-11ef-ab63-e103c5305d10.desktop"
+}
+,
+{
     "Name": "VOFA+",
     "Version": "1.3.10",
     "Filename": "vofa_plus_1.3.10_amd64.deb",
@@ -1619,23 +1636,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/13/6d583866228c4d6e9f24e498db541685.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/13/eac9e657419d45dcac4b842ee40d054f.png"
-}
-,
-{
-    "Name": "finalshell-2024年更新版",
-    "Version": "4.3.10",
-    "Filename": "finalshell_4.3.10_amd64.deb",
-    "Torrent_address": "finalshell_4.3.10_amd64.deb.torrent",
-    "Pkgname": "finalshell",
-    "Author": "kentrl",
-    "Contributor": "kentrl",
-    "Website": "kentrl",
-    "Update": "2024-04-26 10:50:48",
-    "Size": "89.68 MB",
-    "More": "2024年的本次更新发现可以设置字体大小了，终端还带颜色的 ，finalshell_linux-4.3.10",
-    "Tags": "deepin;ubuntu;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/8bf86c80-0377-11ef-ab63-e103c5305d10.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/6933f8e0-0377-11ef-ab63-e103c5305d10.desktop"
 }
 ,
 {

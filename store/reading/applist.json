@@ -135,23 +135,6 @@
 }
 ,
 {
-    "Name": "CAJViewer官网版",
-    "Version": "9.0.0-24061",
-    "Filename": "cajviewer_9.0.0-24061_amd64.deb",
-    "Torrent_address": "cajviewer_9.0.0-24061_amd64.deb.torrent",
-    "Pkgname": "cajviewer",
-    "Author": "Zhang Bin <zhangbin@gmail.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://cajviewer.cnki.net",
-    "Update": "2024-03-23 08:52:35",
-    "Size": "224.07 MB",
-    "More": "中国知网",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/96f8e57e90de40219102b0d529b8e88a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/0d2b95204c4345d0aeb4095bca00f825.png"
-}
-,
-{
     "Name": "番茄免费小说",
     "Version": "6.0.3.32",
     "Filename": "uengine-dc-com.dragon.read_6.0.3.32_all.deb",
@@ -166,6 +149,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/2089205fd2514e6daa8e8cc48fe525d6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/0c00dffc0f4048809835dc0bf1dddbaf.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/dd23ed12b42b410b9812bf1997e2b7f3.png"
+}
+,
+{
+    "Name": "CAJViewer官网版",
+    "Version": "9.0.0-24061",
+    "Filename": "cajviewer_9.0.0-24061_amd64.deb",
+    "Torrent_address": "cajviewer_9.0.0-24061_amd64.deb.torrent",
+    "Pkgname": "cajviewer",
+    "Author": "Zhang Bin <zhangbin@gmail.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://cajviewer.cnki.net",
+    "Update": "2024-03-23 08:52:35",
+    "Size": "224.07 MB",
+    "More": "中国知网",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/96f8e57e90de40219102b0d529b8e88a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/0d2b95204c4345d0aeb4095bca00f825.png"
 }
 ,
 {
@@ -583,6 +583,22 @@
 }
 ,
 {
+    "Name": "csBooks",
+    "Version": "6.1.0",
+    "Filename": "csbooks_6.1.0_amd64.deb",
+    "Pkgname": "csbooks",
+    "Author": "Caesium Studio",
+    "Contributor": "sgb76",
+    "Website": "https://caesiumstudio.com/apps",
+    "Update": "2022-03-08 15:02:30",
+    "Size": "54.38 MB",
+    "More": "轻松管理和阅读您的PDF、ePub和MOBI书籍",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/08/929d35b0-9ead-11ec-be06-69f5523f708c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/08/9608e960-9ead-11ec-be06-69f5523f708c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/08/8d7b1f70-9ead-11ec-be06-69f5523f708c.png"
+}
+,
+{
     "Name": "数科OFD阅读器",
     "Version": "5.0.23.1117spark0",
     "Filename": "cn.suwell.ofd-reader.spark_5.0.23.1117spark0_all.deb",
@@ -597,22 +613,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/256ab40f92f34b369d9101093aa6991a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/2b100cef06cc40b8b09a92d5d5479080.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/fd58f95316df4def83ee9636f756c9f6.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/09/3bd8b68b2ffe42df99549fc7ff175698.png"
-}
-,
-{
-    "Name": "csBooks",
-    "Version": "6.1.0",
-    "Filename": "csbooks_6.1.0_amd64.deb",
-    "Pkgname": "csbooks",
-    "Author": "Caesium Studio",
-    "Contributor": "sgb76",
-    "Website": "https://caesiumstudio.com/apps",
-    "Update": "2022-03-08 15:02:30",
-    "Size": "54.38 MB",
-    "More": "轻松管理和阅读您的PDF、ePub和MOBI书籍",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/08/929d35b0-9ead-11ec-be06-69f5523f708c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/08/9608e960-9ead-11ec-be06-69f5523f708c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/08/8d7b1f70-9ead-11ec-be06-69f5523f708c.png"
 }
 ,
 {

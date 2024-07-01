@@ -1075,7 +1075,7 @@ Description: Linux Userspace x86_64 Emulator with a twist, targeted at ARM Linux
 
 Package: spark-box64
 Architecture: arm64
-Version: 0.2.9-20240625
+Version: 0.2.9-20240701
 Priority: extra
 Section: utils
 Maintainer: shenmo@spark-app.store
@@ -1083,12 +1083,12 @@ Installed-Size: 35220
 Provides: box64
 Depends: binfmt-support
 Conflicts:  box64-android, box64-rpi4arm64, box64-rpi3arm64, box64-tegrax1, box64-rk3399, box64-rk3588
-Filename: depends/box8664/spark-box64_0.2.9-20240625_arm64.deb
-Size: 10649764
-MD5sum: ca92871e9f1ff7c61de2fd328833059e
-SHA1: 4cbbbd328f031f6781a21ee781cb27508cd03e9c
-SHA256: a07ae22d865bb0a495c8694c15436d341b045f0ec543f849097bf711a4a5d943
-SHA512: 1b23b7e50be78de2d4423f642302fb1a0af3cde75c2cf20216a3483a532351776f7ed496d0e4fdde203d1ade71617be984225bb7b93ac7f2dfbf1a711a146464
+Filename: depends/box8664/spark-box64_0.2.9-20240701_arm64.deb
+Size: 10653448
+MD5sum: c159de748646f19bd26c0a46e7aa3ddb
+SHA1: d1dae9b0261533d220baa92cf570181d426dd147
+SHA256: 4ae821750921b442c4fc4c888d71d766a48b0c8d16667bfb81eae48c7ae7a90b
+SHA512: 89e9bed78525094948f309516cd4ed09122f8057d1768860874f9c4698fcff02f93a4d1dbe51d4c0cb207fc27a6737f5f97b35cb7a0bf30a049079fbd69ed0b9
 Description: Box64 lets you run x86_64 Linux programs (such as games) on non-x86_64 Linux systems, like ARM (host system needs to be 64bit little-endian)
  Box64 lets you run x86_64 Linux programs (such as games) on non-x86_64 Linux systems, like ARM (host system needs to be 64bit little-endian)
 
@@ -2349,28 +2349,6 @@ SHA512: 98cd936c1a53a857573dabb1dbf875227a8276b23c787cc429d95edd535b8c4b6e972c4b
 Homepage: https://github.com/q77190858/dde-sys-monitor-plugin/
 Description: A dde-dock system monitor plugin for Deepin 20.
  一款方便的任务栏插件，可以显示网速、CPU、内存等信息。适配 Deepin 20.7 解决被dock遮挡问题。
-
-Package: additional-base-lib
-Architecture: arm64
-Version: 2.36-9+deb12u3-9
-Priority: optional
-Section: utils
-Maintainer: CongTianKong
-Installed-Size: 5924
-Depends: bubblewrap, bash, coreutils
-Suggests: shared-mime-info, xdg-utils
-Filename: tools/additional-base-lib/additional-base-lib_2.36-9_plus_deb12u3-9_arm64.deb
-Size: 2095336
-MD5sum: 7b49d3597d8049b28eb9c97e6ad2a789
-SHA1: e6d010019c03f4010c26b5cd78acad39af7b838a
-SHA256: ea303adee3f74a1d3f6c069d747cd258f54f522a24a73a99541a4017c61e98d8
-SHA512: ef8c410a0bd23c79009bba4b16e86628a1b38abada8d8e9020f2869c5c77ca53cca093a3036182cfc27cf6a47c29d735974c1ab6685d25e14ee2d5694b211d67
-Homepage: https://gitee.com/deepin-community-store/additional-base-lib
-Description: A script to run programs with newer libc.
- package built with make-deb.sh from additional-base-lib project.
- libc6 download URL: http://ftp.cn.debian.org/debian/pool/main/g/glibc/libc6_2.36-9+deb12u3_arm64.deb
- libc-bin download URL: http://ftp.cn.debian.org/debian/pool/main/g/glibc/libc-bin_2.36-9+deb12u3_arm64.deb
- libstdc++6 download URL: http://ftp.cn.debian.org/debian/pool/main/g/gcc-12/libstdc++6_12.2.0-14_arm64.deb
 
 Package: additional-base-lib
 Architecture: arm64
@@ -5767,26 +5745,6 @@ SHA1: 943514cd87dedd6862f122e37749daaadf9e2ac4
 SHA256: eac71ab9e3d731142066283f359893e06bd1ca24a3785c406269bf2128a7ba6c
 SHA512: ef9ed85760ddacc6ef538f8a239c9a5ad87d15a85c2a3f398d0df151dcbc299526afcc603fc8b262821f60865cffc51ec46d98f28aaad6852188e597469d9a67
 Description: 好分数
-
-Package: bssenglish
-Architecture: all
-Version: 2.0
-Priority: optional
-Maintainer: Bail<2915289604@qq.com>
-Installed-Size: 91KB
-Provides: Office
-Pre-Depends:
-Depends: python3(>=3.7),python3-gst-1.0,python3-tk,python3-pip
-Recommends:
-Conflicts: com.Bail.bssenglish
-Replaces:
-Filename: office/bssenglish/bssenglish_2.0_all.deb
-Size: 24672
-MD5sum: b7d87cd6350192028a36eea76e011628
-SHA1: 79d4f352c093364a894675b200e6dae1ac227547
-SHA256: 5a0c4292539f8c6f698fa2487ca626adb3014f5a835bec2431886e8dc6d51c4d
-SHA512: bee7b68ca05684a5e2fcf13b25adcc504876dc97d7bcc2e5483d4aa773ffc13ed283606c0188f2bb5336b49eb904e6d02bcb3bf99e16b585cf8949e54088ee3f
-Description: 帮助你更快速、更牢固地记忆单词
 
 Package: bssenglish
 Architecture: all

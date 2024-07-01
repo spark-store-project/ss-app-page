@@ -1216,20 +1216,6 @@
 
 ,
 {
-   "Name":"必应好壁纸",
-   "Version":"5.0-1",
-   "Filename":"bingnicewallpapers_5.0-1_all.deb",
-   "Pkgname":"bingnicewallpapers",
-   "Author":"iMath",
-   "Contributor":"lenke",
-   "Website":"https://www.cnblogs.com/iMath/p/BingNiceWallpapers.html",
-   "Update":"2020-07-19 18:05",
-   "Size":"1.94MB",
-   "More":"将为你的桌面注入新的活力，它每天都会为你更新来自微软必应搜索的高品质壁纸！"
-}
-
-,
-{
     "Name": "PowerISO",
     "Version": "1.1",
     "Filename": "com.poweriso.spark_1.1_amd64.deb",
@@ -1244,6 +1230,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/13/aa8bcce0-5552-11eb-bc77-c11cb833af69.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/13/ac90c4a0-5552-11eb-bc77-c11cb833af69.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/13/aef2f790-5552-11eb-bc77-c11cb833af69.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/13/a54e1850-5552-11eb-bc77-c11cb833af69.png"
 }
+,
+{
+   "Name":"必应好壁纸",
+   "Version":"5.0-1",
+   "Filename":"bingnicewallpapers_5.0-1_all.deb",
+   "Pkgname":"bingnicewallpapers",
+   "Author":"iMath",
+   "Contributor":"lenke",
+   "Website":"https://www.cnblogs.com/iMath/p/BingNiceWallpapers.html",
+   "Update":"2020-07-19 18:05",
+   "Size":"1.94MB",
+   "More":"将为你的桌面注入新的活力，它每天都会为你更新来自微软必应搜索的高品质壁纸！"
+}
+
 ,
 {
     "Name": "Deepin系统升级工具（20升23）",
@@ -1459,22 +1459,6 @@
 }
 ,
 {
-    "Name": "TLP 设置",
-    "Version": "1.3.1-1",
-    "Filename": "python3-tlpui_1.3.1-1_all.deb",
-    "Pkgname": "python3-tlpui",
-    "Author": "Daniel Christophis",
-    "Contributor": "lidanger",
-    "Website": "https://github.com/d4nj1/TLPUI",
-    "Update": "2020-10-24 01:58:02",
-    "Size": "56.46 KB",
-    "More": "GTK UI for tlp (Python 3)",
-    "Tags": "deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a94af90-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a996a80-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a9f0fd0-159c-11eb-b57a-2596064cdd9a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/24/06e192a0-159c-11eb-b57a-2596064cdd9a.png"
-}
-,
-{
     "Name": "WPS Office 版本信息及字体检测小工具",
     "Version": "0.3-1",
     "Filename": "wps-check_0.3-1_all.deb",
@@ -1489,6 +1473,22 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/c9d64dc5317e415dbf51e0d935bd79ca.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/10/a77559bee8c94d93ac29d8e226971db7.png"
+}
+,
+{
+    "Name": "TLP 设置",
+    "Version": "1.3.1-1",
+    "Filename": "python3-tlpui_1.3.1-1_all.deb",
+    "Pkgname": "python3-tlpui",
+    "Author": "Daniel Christophis",
+    "Contributor": "lidanger",
+    "Website": "https://github.com/d4nj1/TLPUI",
+    "Update": "2020-10-24 01:58:02",
+    "Size": "56.46 KB",
+    "More": "GTK UI for tlp (Python 3)",
+    "Tags": "deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a94af90-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a996a80-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a9f0fd0-159c-11eb-b57a-2596064cdd9a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/24/06e192a0-159c-11eb-b57a-2596064cdd9a.png"
 }
 ,
 {
@@ -1626,23 +1626,6 @@
 }
 ,
 {
-    "Name": "FreeFileSync",
-    "Version": "13.2spark4",
-    "Filename": "org.freefilesync.spark_13.2spark4_amd64.deb",
-    "Torrent_address": "org.freefilesync.spark_13.2spark4_amd64.deb.torrent",
-    "Pkgname": "org.freefilesync.spark",
-    "Author": "Zenju",
-    "Contributor": "sgb76",
-    "Website": "https://freefilesync.org/",
-    "Update": "2023-11-24 17:00:40",
-    "Size": "23.11 MB",
-    "More": "一款免费、开源的文件夹比较和同步软件",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/24/1198b481ad064835a4b201583e6272c0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/24/11012b11d6a34992b48222ccd01c3c9c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/24/f9e39089ee484cddbee9521629f07cc8.png"
-}
-,
-{
     "Name": "SecureCRT",
     "Version": "9.0.2-2496",
     "Filename": "scrt_9.0.2-2496_amd64.deb",
@@ -1657,6 +1640,23 @@
     "Tags": "deepin;ubuntu;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/d3f44b70-83c6-11ee-b5cb-27e705cc1ba9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/15/2cb739c0-83c7-11ee-b5cb-27e705cc1ba9.png"
+}
+,
+{
+    "Name": "FreeFileSync",
+    "Version": "13.2spark4",
+    "Filename": "org.freefilesync.spark_13.2spark4_amd64.deb",
+    "Torrent_address": "org.freefilesync.spark_13.2spark4_amd64.deb.torrent",
+    "Pkgname": "org.freefilesync.spark",
+    "Author": "Zenju",
+    "Contributor": "sgb76",
+    "Website": "https://freefilesync.org/",
+    "Update": "2023-11-24 17:00:40",
+    "Size": "23.11 MB",
+    "More": "一款免费、开源的文件夹比较和同步软件",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/24/1198b481ad064835a4b201583e6272c0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/24/11012b11d6a34992b48222ccd01c3c9c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/24/f9e39089ee484cddbee9521629f07cc8.png"
 }
 ,
 {
@@ -1931,22 +1931,6 @@
 }
 ,
 {
-    "Name": "lfxNet",
-    "Version": "1.0.0-1",
-    "Filename": "lfxnet_1.0.0-1_amd64.deb",
-    "Pkgname": "lfxnet",
-    "Author": "偕臧<xmuli>",
-    "Contributor": "偕臧<xmuli>",
-    "Website": "https://xmuli.tech",
-    "Update": "2021-02-02 19:20:35",
-    "Size": "145.43 KB",
-    "More": "lfxNet 是一款轻量、快速的实时显示系统资源信息的应用程序, 是 dde-dock 的网速插件； 项目地址 https://github.com/xmuli/lfxNet",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/86733540-6548-11eb-a7d4-295ea2f68a3b.gif\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/868d25e0-6548-11eb-a7d4-295ea2f68a3b.gif\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/9a390190-6548-11eb-a7d4-295ea2f68a3b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/9a55ff70-6548-11eb-a7d4-295ea2f68a3b.gif\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/02/43a77230-6548-11eb-a7d4-295ea2f68a3b.png"
-}
-,
-{
     "Name": "Q4Wine",
     "Version": "1.3.13-1",
     "Filename": "q4wine_1.3.13-1_amd64.deb",
@@ -1961,6 +1945,22 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/17/6cd960547f28478398c94293c19f1bcc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/17/a2f2c30ff04942b59774cfcda04f3e77.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/17/4f496757797747d1b098e7370a71c7f2.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/17/f23308e3791d48a8942f5fc718e5aa73.png"
+}
+,
+{
+    "Name": "lfxNet",
+    "Version": "1.0.0-1",
+    "Filename": "lfxnet_1.0.0-1_amd64.deb",
+    "Pkgname": "lfxnet",
+    "Author": "偕臧<xmuli>",
+    "Contributor": "偕臧<xmuli>",
+    "Website": "https://xmuli.tech",
+    "Update": "2021-02-02 19:20:35",
+    "Size": "145.43 KB",
+    "More": "lfxNet 是一款轻量、快速的实时显示系统资源信息的应用程序, 是 dde-dock 的网速插件； 项目地址 https://github.com/xmuli/lfxNet",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/86733540-6548-11eb-a7d4-295ea2f68a3b.gif\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/868d25e0-6548-11eb-a7d4-295ea2f68a3b.gif\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/9a390190-6548-11eb-a7d4-295ea2f68a3b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/9a55ff70-6548-11eb-a7d4-295ea2f68a3b.gif\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/02/43a77230-6548-11eb-a7d4-295ea2f68a3b.png"
 }
 ,
 {
@@ -1981,23 +1981,6 @@
 }
 ,
 {
-    "Name": "腾讯御点",
-    "Version": "2.1.0.348-1.uos20",
-    "Filename": "com.tencent.yudian_2.1.0.348-1.uos20_amd64.deb",
-    "Torrent_address": "com.tencent.yudian_2.1.0.348-1.uos20_amd64.deb.torrent",
-    "Pkgname": "com.tencent.yudian",
-    "Author": "tav",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "http://tav.qq.com",
-    "Update": "2022-10-22 18:05:19",
-    "Size": "56.41 MB",
-    "More": "终端安全管理系统是腾讯出品的企业级安全服务。依托腾讯多年的安全经验积累，终端安全管理系统将百亿量级云查杀病毒库、引擎库以及腾讯反病毒引擎的杀毒引擎、系统修复引擎应用到企业内部，可有效防御企业内网终端的病毒木马攻击。终端安全管理系统具备终端杀毒统一管控、修复漏洞统一管控以及策略管控等全方位的安全管理功能，可帮助企业管理者全面了解和管理企业内网的安全状况，保护企业安全。",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/899a2001-8332-495f-929a-d1661b409a8f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/4d378646-2f4b-4e8b-af43-c245061dd647.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/e0041bf0-4f24-4137-9c6d-8f1804585585.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/114d744d-dc98-4b03-892f-8a2ffe1186b1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/22/58ded873-759c-405a-bceb-ba1610093b33.png"
-}
-,
-{
     "Name": "奇安信网神终端安全管理系统",
     "Version": "7.0.5.1600",
     "Filename": "com.qianxin.qaxsafe_7.0.5.1600_amd64.deb",
@@ -2012,6 +1995,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/e09fefaa861d4c72a4a35f0fec293ee8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/515d6f69d687424097b48f409ad614c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/d6043d97cf784955b856210763893ce4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/ad6833efdc524d84aabb04d5ec0c2928.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/01/cbe6253af7d547bda9c80f37fb59991f.png"
+}
+,
+{
+    "Name": "腾讯御点",
+    "Version": "2.1.0.348-1.uos20",
+    "Filename": "com.tencent.yudian_2.1.0.348-1.uos20_amd64.deb",
+    "Torrent_address": "com.tencent.yudian_2.1.0.348-1.uos20_amd64.deb.torrent",
+    "Pkgname": "com.tencent.yudian",
+    "Author": "tav",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "http://tav.qq.com",
+    "Update": "2022-10-22 18:05:19",
+    "Size": "56.41 MB",
+    "More": "终端安全管理系统是腾讯出品的企业级安全服务。依托腾讯多年的安全经验积累，终端安全管理系统将百亿量级云查杀病毒库、引擎库以及腾讯反病毒引擎的杀毒引擎、系统修复引擎应用到企业内部，可有效防御企业内网终端的病毒木马攻击。终端安全管理系统具备终端杀毒统一管控、修复漏洞统一管控以及策略管控等全方位的安全管理功能，可帮助企业管理者全面了解和管理企业内网的安全状况，保护企业安全。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/899a2001-8332-495f-929a-d1661b409a8f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/4d378646-2f4b-4e8b-af43-c245061dd647.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/e0041bf0-4f24-4137-9c6d-8f1804585585.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/114d744d-dc98-4b03-892f-8a2ffe1186b1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/22/58ded873-759c-405a-bceb-ba1610093b33.png"
 }
 ,
 {
@@ -2145,23 +2145,6 @@
 }
 ,
 {
-    "Name": "GXDE 内核管理器 1.1.0",
-    "Version": "1.1.0",
-    "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
-    "Torrent_address": "gxde-kernel-manager_1.1.0_amd64.deb.torrent",
-    "Pkgname": "gxde-kernel-manager",
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
-    "Update": "2024-05-12 17:25:58",
-    "Size": "1.07 MB",
-    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \n\n\nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
-}
-,
-{
     "Name": "spark-webapp-runtime 运行器",
     "Version": "1.1.0",
     "Filename": "spark-webapp-runtime-runner_1.1.0_all.deb",
@@ -2176,6 +2159,23 @@
     "Tags": "community;deepin;dtk5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/09/e44eaf70-1783-11ed-b704-136e1b5b46da.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/09/dfa2daa0-1783-11ed-b704-136e1b5b46da.png"
+}
+,
+{
+    "Name": "GXDE 内核管理器 1.1.0",
+    "Version": "1.1.0",
+    "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
+    "Torrent_address": "gxde-kernel-manager_1.1.0_amd64.deb.torrent",
+    "Pkgname": "gxde-kernel-manager",
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
+    "Update": "2024-05-12 17:25:58",
+    "Size": "1.07 MB",
+    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \n\n\nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
 }
 ,
 {
@@ -2332,23 +2332,6 @@
 }
 ,
 {
-    "Name": "QGIS(书虫版)",
-    "Version": "3.32.1-fix1-cursor",
-    "Filename": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb",
-    "Torrent_address": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb.torrent",
-    "Pkgname": "org.qgis.qgis",
-    "Author": "shenmo<ouyangyunrui@uniontech.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://qgis.org/",
-    "Update": "2023-08-20 16:04:58",
-    "Size": "622.3 MB",
-    "More": "一款免费的开源地理信息系统\n\n A Geographic Information System (GIS) manages, analyzes, and displays\n databases of geographic information. QGIS supports shape file viewing and\n editing, spatial data storage with PostgreSQL/PostGIS, projection on-the-fly,\n map composition, and a number of other features via a plugin interface. QGIS\n also supports display of various georeferenced raster and Digital Elevation\n Model (DEM) formats including GeoTIFF, Arc/Info ASCII Grid, and USGS ASCII\n DEM.",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/0242916c1eca488e98137daf10193c4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/74a9c8eefd83424490112c7fd3e4c1f1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/20/cc2dabfeb636416fa76e62ba58a53540.png"
-}
-,
-{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Filename": "open-in-terminal-tool_1.0.1_all.deb",
@@ -2365,6 +2348,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_2.png\"]"
 }
 
+,
+{
+    "Name": "QGIS(书虫版)",
+    "Version": "3.32.1-fix1-cursor",
+    "Filename": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb",
+    "Torrent_address": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb.torrent",
+    "Pkgname": "org.qgis.qgis",
+    "Author": "shenmo<ouyangyunrui@uniontech.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://qgis.org/",
+    "Update": "2023-08-20 16:04:58",
+    "Size": "622.3 MB",
+    "More": "一款免费的开源地理信息系统\n\n A Geographic Information System (GIS) manages, analyzes, and displays\n databases of geographic information. QGIS supports shape file viewing and\n editing, spatial data storage with PostgreSQL/PostGIS, projection on-the-fly,\n map composition, and a number of other features via a plugin interface. QGIS\n also supports display of various georeferenced raster and Digital Elevation\n Model (DEM) formats including GeoTIFF, Arc/Info ASCII Grid, and USGS ASCII\n DEM.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/0242916c1eca488e98137daf10193c4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/74a9c8eefd83424490112c7fd3e4c1f1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/20/cc2dabfeb636416fa76e62ba58a53540.png"
+}
 ,
 {
    "Name":"一键息屏 one key shut screen",
@@ -2763,23 +2763,6 @@
 }
 ,
 {
-    "Name": "羽云工具箱",
-    "Version": "1.0.0",
-    "Filename": "com.wingsummer.wingtool_1.0.0_amd64.deb",
-    "Torrent_address": "com.wingsummer.wingtool_1.0.0_amd64.deb.torrent",
-    "Pkgname": "com.wingsummer.wingtool",
-    "Author": "寂静的羽夏(wingsummer)",
-    "Contributor": "wingsummer <1326224942@qq.com>",
-    "Website": "https://www.cnblogs.com/wingsummer/",
-    "Update": "2022-12-01 10:29:36",
-    "Size": "4.15 MB",
-    "More": "WingTool是一个强大的插件工具箱，中文名 羽云工具箱，支持热键响应、鼠标跟踪等基本接口。通过开发强大的对应的插件，就可以大大提高生产力。\n该软件如果没有任何插件，仅支持添加热键使用默认方式打开任何文件。插件的强大决定着该软件的上限，通过热键可以配置使用热键调用插件借口；默认通过鼠标中键配合 Super键（在 Windows系统中称之为 Win键）可以调出工具窗口，选择合适的工具；也可以通过热键调出窗口工具，点击打开所需的文件或者软件，而不必从启动器翻找，避免任务栏图标过多以及桌面文件过多的情况。\n程序 Wiki：https://code.gitlink.org.cn/wingsummer/WingTool/wiki/%E7%AE%80%E4%BB%8B",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/df1374d3f10e4abb8450ccdc66a0f791.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/20d407b92a7c44b8b03bfde82c77d652.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/f9d1c7d1070144dbb7127030fcb02215.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/01ac84ade538458bac751f958ad4e2a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/ee3ef868e23446fba57a10012bd7d97d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/01/4233dfac46334fc9b1671ac795d7ab69.png"
-}
-,
-{
     "Name": "CPU-Z（Wine）",
     "Version": "2.09spark0",
     "Filename": "com.cpuz.spark_2.09spark0_all.deb",
@@ -2794,6 +2777,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
+}
+,
+{
+    "Name": "羽云工具箱",
+    "Version": "1.0.0",
+    "Filename": "com.wingsummer.wingtool_1.0.0_amd64.deb",
+    "Torrent_address": "com.wingsummer.wingtool_1.0.0_amd64.deb.torrent",
+    "Pkgname": "com.wingsummer.wingtool",
+    "Author": "寂静的羽夏(wingsummer)",
+    "Contributor": "wingsummer <1326224942@qq.com>",
+    "Website": "https://www.cnblogs.com/wingsummer/",
+    "Update": "2022-12-01 10:29:36",
+    "Size": "4.15 MB",
+    "More": "WingTool是一个强大的插件工具箱，中文名 羽云工具箱，支持热键响应、鼠标跟踪等基本接口。通过开发强大的对应的插件，就可以大大提高生产力。\n该软件如果没有任何插件，仅支持添加热键使用默认方式打开任何文件。插件的强大决定着该软件的上限，通过热键可以配置使用热键调用插件借口；默认通过鼠标中键配合 Super键（在 Windows系统中称之为 Win键）可以调出工具窗口，选择合适的工具；也可以通过热键调出窗口工具，点击打开所需的文件或者软件，而不必从启动器翻找，避免任务栏图标过多以及桌面文件过多的情况。\n程序 Wiki：https://code.gitlink.org.cn/wingsummer/WingTool/wiki/%E7%AE%80%E4%BB%8B",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/df1374d3f10e4abb8450ccdc66a0f791.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/20d407b92a7c44b8b03bfde82c77d652.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/f9d1c7d1070144dbb7127030fcb02215.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/01ac84ade538458bac751f958ad4e2a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/ee3ef868e23446fba57a10012bd7d97d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/01/4233dfac46334fc9b1671ac795d7ab69.png"
 }
 ,
 {
@@ -3219,23 +3219,6 @@
 
 ,
 {
-    "Name": "键盘检测(Wine)",
-    "Version": "1.0.0",
-    "Filename": "com.jianpanjiancegongju.spark_1.0.0_i386.deb",
-    "Torrent_address": "com.jianpanjiancegongju.spark_1.0.0_i386.deb.torrent",
-    "Pkgname": "com.jianpanjiancegongju.spark",
-    "Author": "rc3583z",
-    "Contributor": "rc3583z",
-    "Website": "QQ:1733089032",
-    "Update": "2023-04-09 13:54:20",
-    "Size": "8.42 MB",
-    "More": "用于检测键盘按键和鼠标按键",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/09/ce383090-d69a-11ed-8a97-15d378a127b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/09/ce5380c0-d69a-11ed-8a97-15d378a127b8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/09/c066e5b0-d69a-11ed-8a97-15d378a127b8.png"
-}
-,
-{
     "Name": "CPU 排名搜索工具",
     "Version": "0.1-20231206",
     "Filename": "cpu-rank-search_0.1-20231206_amd64.deb",
@@ -3250,6 +3233,23 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/2a89a282a98c49c5a0e0055076ab87e7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/be4215830ba54d0da98e2bf2e9438a2d.png"
+}
+,
+{
+    "Name": "键盘检测(Wine)",
+    "Version": "1.0.0",
+    "Filename": "com.jianpanjiancegongju.spark_1.0.0_i386.deb",
+    "Torrent_address": "com.jianpanjiancegongju.spark_1.0.0_i386.deb.torrent",
+    "Pkgname": "com.jianpanjiancegongju.spark",
+    "Author": "rc3583z",
+    "Contributor": "rc3583z",
+    "Website": "QQ:1733089032",
+    "Update": "2023-04-09 13:54:20",
+    "Size": "8.42 MB",
+    "More": "用于检测键盘按键和鼠标按键",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/09/ce383090-d69a-11ed-8a97-15d378a127b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/09/ce5380c0-d69a-11ed-8a97-15d378a127b8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/09/c066e5b0-d69a-11ed-8a97-15d378a127b8.png"
 }
 ,
 {
@@ -3456,6 +3456,23 @@
 }
 ,
 {
+    "Name": "nvtop (v23 构建)",
+    "Version": "3.0.2",
+    "Filename": "nvtop_3.0.2_amd64.deb",
+    "Torrent_address": "nvtop_3.0.2_amd64.deb.torrent",
+    "Pkgname": "nvtop",
+    "Author": "spark-buildx <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/spark-buildx/nvtop",
+    "Update": "2023-11-19 19:16:50",
+    "Size": "76.05 KB",
+    "More": "NVTOP是Neat Videocard TOP的缩写，这是一款类似于AMD、Intel和NVIDIA gpu的任务监视器。它可以处理多个gpu，并以一种熟悉的方式打印有关它们的信息。\n\nPS: 该程序在 deepin v23 系统上构建，其它系统能不能用不知道。",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/55f8b0a6013a4e02b7fd62900c36b2fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/ede86c41672f424bafe7d5cb532dcc16.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/be6833d261554d7a93ee8841804c5919.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/19/ad6a1887fef141d499e4a067b3682760.png"
+}
+,
+{
     "Name": "Deepin 壁纸设置工具(此包仅限v23可用)",
     "Version": "0.1",
     "Filename": "deepin-wallpaper-quiksetting_0.1_amd64.deb",
@@ -3504,23 +3521,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/f9bb666ac4c94bcc885de2c8d55870b9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/52f30c5a409d412ea461d656ee5b5b80.png"
-}
-,
-{
-    "Name": "nvtop (v23 构建)",
-    "Version": "3.0.2",
-    "Filename": "nvtop_3.0.2_amd64.deb",
-    "Torrent_address": "nvtop_3.0.2_amd64.deb.torrent",
-    "Pkgname": "nvtop",
-    "Author": "spark-buildx <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/spark-buildx/nvtop",
-    "Update": "2023-11-19 19:16:50",
-    "Size": "76.05 KB",
-    "More": "NVTOP是Neat Videocard TOP的缩写，这是一款类似于AMD、Intel和NVIDIA gpu的任务监视器。它可以处理多个gpu，并以一种熟悉的方式打印有关它们的信息。\n\nPS: 该程序在 deepin v23 系统上构建，其它系统能不能用不知道。",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/55f8b0a6013a4e02b7fd62900c36b2fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/ede86c41672f424bafe7d5cb532dcc16.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/be6833d261554d7a93ee8841804c5919.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/19/ad6a1887fef141d499e4a067b3682760.png"
 }
 ,
 {
@@ -3690,6 +3690,23 @@
 }
 ,
 {
+    "Name": "字体拖动预览",
+    "Version": "0.2-20231207",
+    "Filename": "font-drop-preview_0.2-20231207_amd64.deb",
+    "Torrent_address": "font-drop-preview_0.2-20231207_amd64.deb.torrent",
+    "Pkgname": "font-drop-preview",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/qt.font-drop-preview",
+    "Update": "2023-12-07 11:03:56",
+    "Size": "50.5 KB",
+    "More": "可拖动字体查看预览状态;\n .\n Build for Deepin20.9 through spark-deb-build.",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/06ffa0cb05ba472a8de69b4f0c768f7b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/18ba54eba17b44159e1e8aaff6c371e3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/9134fb891fac4c64af9802a8e355162f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/07/05f8247043f24be88006c24d87b56625.png"
+}
+,
+{
     "Name": "Alacritty",
     "Version": "0.5.0-1",
     "Filename": "alacritty_0.5.0-1_amd64.deb",
@@ -3737,23 +3754,6 @@
     "Tags": "deepin;ubuntu;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/29/0ba80470-7617-11ee-b02a-ffa67c89e541.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/29/e0070aa0-7616-11ee-b02a-ffa67c89e541.png"
-}
-,
-{
-    "Name": "字体拖动预览",
-    "Version": "0.2-20231207",
-    "Filename": "font-drop-preview_0.2-20231207_amd64.deb",
-    "Torrent_address": "font-drop-preview_0.2-20231207_amd64.deb.torrent",
-    "Pkgname": "font-drop-preview",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/qt.font-drop-preview",
-    "Update": "2023-12-07 11:03:56",
-    "Size": "50.5 KB",
-    "More": "可拖动字体查看预览状态;\n .\n Build for Deepin20.9 through spark-deb-build.",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/06ffa0cb05ba472a8de69b4f0c768f7b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/18ba54eba17b44159e1e8aaff6c371e3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/9134fb891fac4c64af9802a8e355162f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/07/05f8247043f24be88006c24d87b56625.png"
 }
 ,
 {
@@ -3959,6 +3959,24 @@
 }
 ,
 {
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb",
+    "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \n安装此包后在后续版本的 Wine 运行器虚拟机配置工具将支持调用该新版本的 Qemu\n\n该版本只支持 deepin23,如需支持其它系统版本的（如 deepin 20），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
+    "Name": "Wine 运行器 Qemu 拓展",
+    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
+    "Size": "289 Mb",
+    "Tags": "community;deepin",
+    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb.torrent",
+    "Update": "2024-06-29 17:54:44",
+    "Version": "9.0.1runner1~beige",
+    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
+}
+
+,
+{
     "Name": "今天吃什么",
     "Version": "1.1.2",
     "Filename": "jim.yhj_1.1.2_amd64.deb",
@@ -4128,24 +4146,6 @@
 }
 ,
 {
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb",
-    "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \n安装此包后在后续版本的 Wine 运行器虚拟机配置工具将支持调用该新版本的 Qemu\n\n该版本只支持 deepin23,如需支持其它系统版本的（如 deepin 20），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
-    "Name": "Wine 运行器 Qemu 拓展",
-    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
-    "Size": "289 Mb",
-    "Tags": "community;deepin",
-    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb.torrent",
-    "Update": "2024-06-29 17:54:44",
-    "Version": "9.0.1runner1~beige",
-    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
-}
-
-,
-{
     "Name": "PicList",
     "Version": "2.6.1",
     "Filename": "piclist_2.6.1_amd64.deb",
@@ -4176,6 +4176,23 @@
     "Tags": "ubuntu;community;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/21/ae816260-a2b4-11eb-8bc4-3d1ce405dce1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/21/ae8707b0-a2b4-11eb-8bc4-3d1ce405dce1.png"
+}
+,
+{
+    "Name": "GtkHash-哈希计算工具",
+    "Version": "1.5-1",
+    "Filename": "gtkhash_1.5-1_amd64.deb",
+    "Torrent_address": "gtkhash_1.5-1_amd64.deb.torrent",
+    "Pkgname": "gtkhash",
+    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+    "Contributor": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+    "Website": "https://gtkhash.org",
+    "Update": "2024-05-04 14:05:47",
+    "Size": "113.28 KB",
+    "More": "GtkHash是一个用于计算消息校验和的桌面实用程序。支持大多数著名的哈希函数，包括MD5，SHA1，SHA 2（SHA 256/SHA 512）、SHA 3和BLAKE 2。版本为1.5-1，在deepin23测试通过。在deepin20.9会报缺少依赖。",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/3c0466ee8c894032932cf06b323aa9ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/b99da6009db640cdadd419b107f2627e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/fc0ed7cb39204a06b0ba8398ea2783a9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/04/d6506139cb2245688bd6f60bb7aacdbf.png"
 }
 ,
 {
@@ -4295,23 +4312,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/40d34b20-884a-11ed-96cb-3d8750470e30.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/30/3eff9c90-884a-11ed-96cb-3d8750470e30.png"
-}
-,
-{
-    "Name": "GtkHash-哈希计算工具",
-    "Version": "1.5-1",
-    "Filename": "gtkhash_1.5-1_amd64.deb",
-    "Torrent_address": "gtkhash_1.5-1_amd64.deb.torrent",
-    "Pkgname": "gtkhash",
-    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-    "Contributor": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-    "Website": "https://gtkhash.org",
-    "Update": "2024-05-04 14:05:47",
-    "Size": "113.28 KB",
-    "More": "GtkHash是一个用于计算消息校验和的桌面实用程序。支持大多数著名的哈希函数，包括MD5，SHA1，SHA 2（SHA 256/SHA 512）、SHA 3和BLAKE 2。版本为1.5-1，在deepin23测试通过。在deepin20.9会报缺少依赖。",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/3c0466ee8c894032932cf06b323aa9ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/b99da6009db640cdadd419b107f2627e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/fc0ed7cb39204a06b0ba8398ea2783a9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/04/d6506139cb2245688bd6f60bb7aacdbf.png"
 }
 ,
 {
@@ -4671,6 +4671,23 @@
 }
 ,
 {
+    "Name": "UOS应用迁移助手",
+    "Version": "1.1.004-1",
+    "Filename": "deepin-wine-builder_1.1.004-1_amd64.deb",
+    "Torrent_address": "deepin-wine-builder_1.1.004-1_amd64.deb.torrent",
+    "Pkgname": "deepin-wine-builder",
+    "Author": "Tingzhong Luo <luotingzhong@uniontech.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.deepin.org",
+    "Update": "2024-06-28 12:34:31",
+    "Size": "365.63 KB",
+    "More": "这是一款专为Linux用户设计的便捷工具，可以轻松便捷地享受Windows应用程序。\nUOS迁移助手支持将本地windows应用或者windows在线下载地址，通过简单的配置，打包成deb包。\n我们的目标是打破平台界限，让应用体验无缝衔接。",
+    "Tags": "deepin;uos;dtk5;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/28/02b620a35afd4f7b9ced2b1b7a787a52.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/28/26da26c05a724b388bdb834b11575521.png"
+}
+,
+{
     "Name": "ARCHPR 压缩文件密码破解",
     "Version": "4.66.266spark1",
     "Filename": "com.elcomsoft.deepin_4.66.266spark1_all.deb",
@@ -4719,23 +4736,6 @@
     "Tags": "community",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/583593b26b9741449ca7ba8789f76d73.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/a6712da25a2f473e84becf093fb845d4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/3e364e153b69436f8a450a0304090265.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/1343c23fd2b34f60885703b6472b56a4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/22/2a7cb8978cdc4c11b4a00ad3b8a23d02.png"
-}
-,
-{
-    "Name": "UOS应用迁移助手",
-    "Version": "1.1.004-1",
-    "Filename": "deepin-wine-builder_1.1.004-1_amd64.deb",
-    "Torrent_address": "deepin-wine-builder_1.1.004-1_amd64.deb.torrent",
-    "Pkgname": "deepin-wine-builder",
-    "Author": "Tingzhong Luo <luotingzhong@uniontech.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.deepin.org",
-    "Update": "2024-06-28 12:34:31",
-    "Size": "365.63 KB",
-    "More": "这是一款专为Linux用户设计的便捷工具，可以轻松便捷地享受Windows应用程序。\nUOS迁移助手支持将本地windows应用或者windows在线下载地址，通过简单的配置，打包成deb包。\n我们的目标是打破平台界限，让应用体验无缝衔接。",
-    "Tags": "deepin;uos;dtk5;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/28/02b620a35afd4f7b9ced2b1b7a787a52.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/28/26da26c05a724b388bdb834b11575521.png"
 }
 ,
 {

@@ -6411,28 +6411,6 @@ Description: A script to run programs with newer libc.
  libc-bin download URL: http://mirrors.ustc.edu.cn/debian/pool/main/g/glibc/libc-bin_2.38-13_amd64.deb
  libstdc++6 download URL: http://mirrors.ustc.edu.cn/debian/pool/main/g/gcc-14/libstdc++6_14-20240330-1_amd64.deb
 
-Package: additional-base-lib
-Architecture: amd64
-Version: 2.36-9+deb12u3-9
-Priority: optional
-Section: utils
-Maintainer: CongTianKong
-Installed-Size: 6840
-Depends: bubblewrap, bash, coreutils
-Suggests: shared-mime-info, xdg-utils
-Filename: tools/additional-base-lib/additional-base-lib_2.36-9_plus_deb12u3-9_amd64.deb
-Size: 2980436
-MD5sum: ebd753351957d9ba1c604f725bb47410
-SHA1: d2ec3c05f5dd95dce95f069030ba890e5dd41b93
-SHA256: f3ec9b194c63a2e300e9343d3e670a42dacc06ede6035e7057b491df69042652
-SHA512: f217850ebac52aa7787665170bcf8a4f0fb98c4366638cfba4c6677825bc61aad0977defb1ddd6a3609003f10bf65ed48bf7b52fe51e1fda4f980e07eb36b772
-Homepage: https://gitee.com/deepin-community-store/additional-base-lib
-Description: A script to run programs with newer libc.
- package built with make-deb.sh from additional-base-lib project.
- libc6 download URL: http://ftp.cn.debian.org/debian/pool/main/g/glibc/libc6_2.36-9+deb12u3_amd64.deb
- libc-bin download URL: http://ftp.cn.debian.org/debian/pool/main/g/glibc/libc-bin_2.36-9+deb12u3_amd64.deb
- libstdc++6 download URL: http://ftp.cn.debian.org/debian/pool/main/g/gcc-12/libstdc++6_12.2.0-14_amd64.deb
-
 Package: sm-refresh
 Architecture: all
 Version: 1.1

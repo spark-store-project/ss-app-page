@@ -824,23 +824,6 @@
 }
 ,
 {
-    "Name": "MindMaster",
-    "Version": "10.8.0",
-    "Filename": "mindmaster_10.8.0_amd64.deb",
-    "Torrent_address": "mindmaster_10.8.0_amd64.deb.torrent",
-    "Pkgname": "mindmaster",
-    "Author": "SHENZHEN EDRAW SOFTWARE CO.LTD",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.edrawsoft.cn/",
-    "Update": "2024-03-23 09:54:02",
-    "Size": "410.5 MB",
-    "More": "一款基于云的跨端思维导图软件。MindMaster可以将纷繁复杂的想法、知识和信息，如学习笔记、会议纪要、项目需求等简化成一张张清晰的思维导图，以结构化有序化的方式呈现，提高归纳、学习和记忆的效率，方便展示和讲解。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/1c30f0fa133c4bbb9a5f78ba131a9cb6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/ccf7df6ec6d44daba6fc2eeeab9d12c1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/ffddcfa55e794dd9a64f03ed846a66b6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/f34a169f164b44f2a4568e728a8feb32.png"
-}
-,
-{
     "Name": "Joplin",
     "Version": "2.9.17",
     "Filename": "org.joplin.spark_2.9.17_all.deb",
@@ -855,6 +838,23 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/74abfbf3bd2f486fbba03c2183fc4d51.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/8807954e5f81442082b53356ac03a5f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/01819b12067b434391ed237a2261a189.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/0d95a0d2bfb141afa38778f4376fffc3.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/02/18c553a6414243fcb0c8015002f8752b.png"
+}
+,
+{
+    "Name": "MindMaster",
+    "Version": "10.8.0",
+    "Filename": "mindmaster_10.8.0_amd64.deb",
+    "Torrent_address": "mindmaster_10.8.0_amd64.deb.torrent",
+    "Pkgname": "mindmaster",
+    "Author": "SHENZHEN EDRAW SOFTWARE CO.LTD",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.edrawsoft.cn/",
+    "Update": "2024-03-23 09:54:02",
+    "Size": "410.5 MB",
+    "More": "一款基于云的跨端思维导图软件。MindMaster可以将纷繁复杂的想法、知识和信息，如学习笔记、会议纪要、项目需求等简化成一张张清晰的思维导图，以结构化有序化的方式呈现，提高归纳、学习和记忆的效率，方便展示和讲解。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/1c30f0fa133c4bbb9a5f78ba131a9cb6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/ccf7df6ec6d44daba6fc2eeeab9d12c1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/ffddcfa55e794dd9a64f03ed846a66b6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/f34a169f164b44f2a4568e728a8feb32.png"
 }
 ,
 {
@@ -2555,39 +2555,6 @@
 }
 ,
 {
-    "Name": "NoteExpress",
-    "Version": "3.9.0.9640spark2",
-    "Filename": "com.noteexpress.spark_3.9.0.9640spark2_all.deb",
-    "Torrent_address": "com.noteexpress.spark_3.9.0.9640spark2_all.deb.torrent",
-    "Pkgname": "com.noteexpress.spark",
-    "Author": "北京爱琴海乐之技术有限公司",
-    "Contributor": "sgb76",
-    "Website": "http://www.inoteexpress.com/aegean/",
-    "Update": "2023-11-12 01:00:19",
-    "Size": "327.9 MB",
-    "More": "一款优秀的国产参考文献管理工具。由于是wine版本，虽然测试过程中尚未发现明显的问题，但不保证所有功能都能正常使用，仅供尝鲜试用。\n\n提示：软件在deepin下点击运行，初始过程稍长，请耐心等待。初次启动会重新配置容器，可能出现无法正常启动的问题，再次启动就正常了。Ubuntu22.04下启动过程较快；应用内某些功能模块点击后加载时间较长，如新建笔记、选项等，请耐心等待，加载后使用还是比较流畅的。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/12/dbd1fb1d763949f1bb0f9560859863a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/12/627abbb30b754e6e91836edd443ad688.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/12/26e6c49b2ee04ed092477d95a8fea798.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/12/7e6018c5f5d84a998f178e86608fc4ee.png"
-}
-,
-{
-    "Name": "BookxNote Pro（wine）",
-    "Version": "2.0.0.1023spark0",
-    "Filename": "com.bookxnote.spark_2.0.0.1023spark0_i386.deb",
-    "Pkgname": "com.bookxnote.spark",
-    "Author": "BookxNote",
-    "Contributor": "anima",
-    "Website": "http://www.bookxnote.com/",
-    "Update": "2020-10-31 02:14:14",
-    "Size": "50.63 MB",
-    "More": "BookxNote支持打开PDF和EPUB两种格式的电子书，自动导入书籍目录，还能自定义阅读书签;阅读时可对文档进行重点笔记标注，一边标注，一边对重点进行批注。标注的重点自动形成笔记大纲;标注重点的时候，笔记脑图可以窗口并列显示，方便整理自己对书籍的知识记忆。",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/85975b70-1b1e-11eb-ba7c-d9ba7435645b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/85f5f630-1b1e-11eb-ba7c-d9ba7435645b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/862ac1d0-1b1e-11eb-ba7c-d9ba7435645b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/80bbeb20-1b1e-11eb-ba7c-d9ba7435645b.png"
-}
-,
-{
     "Name": "全球学术快报",
     "Version": "0.2.31spark0",
     "Filename": "net.cnki.cnkiexpress.spark_0.2.31spark0_amd64.deb",
@@ -2618,6 +2585,39 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/26/bf9e1ca0-96b5-11ec-824e-3f1c67982b36.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/02/26/b50e4120-96b5-11ec-824e-3f1c67982b36.svg"
+}
+,
+{
+    "Name": "NoteExpress",
+    "Version": "3.9.0.9640spark2",
+    "Filename": "com.noteexpress.spark_3.9.0.9640spark2_all.deb",
+    "Torrent_address": "com.noteexpress.spark_3.9.0.9640spark2_all.deb.torrent",
+    "Pkgname": "com.noteexpress.spark",
+    "Author": "北京爱琴海乐之技术有限公司",
+    "Contributor": "sgb76",
+    "Website": "http://www.inoteexpress.com/aegean/",
+    "Update": "2023-11-12 01:00:19",
+    "Size": "327.9 MB",
+    "More": "一款优秀的国产参考文献管理工具。由于是wine版本，虽然测试过程中尚未发现明显的问题，但不保证所有功能都能正常使用，仅供尝鲜试用。\n\n提示：软件在deepin下点击运行，初始过程稍长，请耐心等待。初次启动会重新配置容器，可能出现无法正常启动的问题，再次启动就正常了。Ubuntu22.04下启动过程较快；应用内某些功能模块点击后加载时间较长，如新建笔记、选项等，请耐心等待，加载后使用还是比较流畅的。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/12/dbd1fb1d763949f1bb0f9560859863a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/12/627abbb30b754e6e91836edd443ad688.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/12/26e6c49b2ee04ed092477d95a8fea798.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/12/7e6018c5f5d84a998f178e86608fc4ee.png"
+}
+,
+{
+    "Name": "BookxNote Pro（wine）",
+    "Version": "2.0.0.1023spark0",
+    "Filename": "com.bookxnote.spark_2.0.0.1023spark0_i386.deb",
+    "Pkgname": "com.bookxnote.spark",
+    "Author": "BookxNote",
+    "Contributor": "anima",
+    "Website": "http://www.bookxnote.com/",
+    "Update": "2020-10-31 02:14:14",
+    "Size": "50.63 MB",
+    "More": "BookxNote支持打开PDF和EPUB两种格式的电子书，自动导入书籍目录，还能自定义阅读书签;阅读时可对文档进行重点笔记标注，一边标注，一边对重点进行批注。标注的重点自动形成笔记大纲;标注重点的时候，笔记脑图可以窗口并列显示，方便整理自己对书籍的知识记忆。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/85975b70-1b1e-11eb-ba7c-d9ba7435645b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/85f5f630-1b1e-11eb-ba7c-d9ba7435645b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/862ac1d0-1b1e-11eb-ba7c-d9ba7435645b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/80bbeb20-1b1e-11eb-ba7c-d9ba7435645b.png"
 }
 ,
 {
@@ -2756,22 +2756,6 @@
 }
 ,
 {
-    "Name": "智速ocr文字识别",
-    "Version": "1.1.10",
-    "Filename": "com.zhisuocr.spark_1.1.10_amd64.deb",
-    "Pkgname": "com.zhisuocr.spark",
-    "Author": "壶丘子软件科技有限责任公司",
-    "Contributor": "jerrywang",
-    "Website": "https://ocr.psing.tech",
-    "Update": "2021-01-20 15:26:40",
-    "Size": "50.42 MB",
-    "More": "专业OCR软件,识别更精准、更快速,性能卓越,识别率高",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/20/c0609ca0-5af0-11eb-bdea-55bdbb71dafd.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/20/ab8d7f00-5af0-11eb-bdea-55bdbb71dafd.png"
-}
-,
-{
     "Name": "WPS Office 2016",
     "Version": "10.1.0.6757spark1",
     "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
@@ -2786,6 +2770,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
+}
+,
+{
+    "Name": "智速ocr文字识别",
+    "Version": "1.1.10",
+    "Filename": "com.zhisuocr.spark_1.1.10_amd64.deb",
+    "Pkgname": "com.zhisuocr.spark",
+    "Author": "壶丘子软件科技有限责任公司",
+    "Contributor": "jerrywang",
+    "Website": "https://ocr.psing.tech",
+    "Update": "2021-01-20 15:26:40",
+    "Size": "50.42 MB",
+    "More": "专业OCR软件,识别更精准、更快速,性能卓越,识别率高",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/20/c0609ca0-5af0-11eb-bdea-55bdbb71dafd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/20/ab8d7f00-5af0-11eb-bdea-55bdbb71dafd.png"
 }
 ,
 {
@@ -3538,6 +3538,23 @@
 }
 ,
 {
+    "Name": "安全日记本",
+    "Version": "1.2.16-deepin20",
+    "Filename": "secret-diary_1.2.16-deepin20_amd64.deb",
+    "Torrent_address": "secret-diary_1.2.16-deepin20_amd64.deb.torrent",
+    "Pkgname": "secret-diary",
+    "Author": "fu huizhong <fuhuizn@163.com>",
+    "Contributor": "rocket049 <fuhuizn@163.com>",
+    "Website": "https://gitee.com/rocket049/secret-diary",
+    "Update": "2023-06-13 14:52:31",
+    "Size": "4.01 MB",
+    "More": "一个加密日记本，加密强度非常强，只能暴力破解数据，只要密码足够复杂，数据就足够安全。 编辑器也相当完善，支持富文本格式",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/13/b1bbb0fd12ef40c18f8f0b520c47a462.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/13/4a5b5dc59dba4889a8a69402fa89246e.png"
+}
+,
+{
     "Name": "動畫模擬教學_PhET",
     "Version": "202112",
     "Filename": "ezgo-phet_202112_all.deb",
@@ -3572,23 +3589,6 @@
 }
 ,
 {
-    "Name": "安全日记本",
-    "Version": "1.2.16-deepin20",
-    "Filename": "secret-diary_1.2.16-deepin20_amd64.deb",
-    "Torrent_address": "secret-diary_1.2.16-deepin20_amd64.deb.torrent",
-    "Pkgname": "secret-diary",
-    "Author": "fu huizhong <fuhuizn@163.com>",
-    "Contributor": "rocket049 <fuhuizn@163.com>",
-    "Website": "https://gitee.com/rocket049/secret-diary",
-    "Update": "2023-06-13 14:52:31",
-    "Size": "4.01 MB",
-    "More": "一个加密日记本，加密强度非常强，只能暴力破解数据，只要密码足够复杂，数据就足够安全。 编辑器也相当完善，支持富文本格式",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/13/b1bbb0fd12ef40c18f8f0b520c47a462.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/13/4a5b5dc59dba4889a8a69402fa89246e.png"
-}
-,
-{
     "Name": "一起中学学生(uengine)",
     "Version": "6.4.0.1136",
     "Filename": "com.shensz.student_6.4.0.1136_all.deb",
@@ -3603,6 +3603,23 @@
     "Tags": "uos;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/31/1937f290-b097-11ec-a273-5b4aeeaba9c2.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/31/19516e00-b097-11ec-a273-5b4aeeaba9c2.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/31/196ae970-b097-11ec-a273-5b4aeeaba9c2.jpg\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/31/15b0c7a0-b097-11ec-a273-5b4aeeaba9c2.png"
+}
+,
+{
+    "Name": "office2010 deepinV23版",
+    "Version": "14.0.0",
+    "Filename": "spark.office2010-runner.com_14.0.0_all.deb",
+    "Torrent_address": "spark.office2010-runner.com_14.0.0_all.deb.torrent",
+    "Pkgname": "spark.office2010-runner.com",
+    "Author": "microsofft",
+    "Contributor": "洗头 乐  ",
+    "Website": "https://www.microsoft.com/zh-cn",
+    "Update": "2024-06-09 07:42:44",
+    "Size": "1.01 GB",
+    "More": "会用的都会用",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceaa6660-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceddd270-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/cecfc8b0-25ef-11ef-a857-8d6ee211e447.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/09/c8f47490-25ef-11ef-a857-8d6ee211e447.png"
 }
 ,
 {
@@ -3915,23 +3932,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/22/bd0d65e0-2c80-11eb-b495-df5b3874f1b7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/22/c67d2b60-2c80-11eb-b495-df5b3874f1b7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/22/b7a87a40-2c80-11eb-b495-df5b3874f1b7.png"
-}
-,
-{
-    "Name": "office2010 deepinV23版",
-    "Version": "14.0.0",
-    "Filename": "spark.office2010-runner.com_14.0.0_all.deb",
-    "Torrent_address": "spark.office2010-runner.com_14.0.0_all.deb.torrent",
-    "Pkgname": "spark.office2010-runner.com",
-    "Author": "microsofft",
-    "Contributor": "洗头 乐  ",
-    "Website": "https://www.microsoft.com/zh-cn",
-    "Update": "2024-06-09 07:42:44",
-    "Size": "1.01 GB",
-    "More": "会用的都会用",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceaa6660-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceddd270-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/cecfc8b0-25ef-11ef-a857-8d6ee211e447.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/09/c8f47490-25ef-11ef-a857-8d6ee211e447.png"
 }
 ,
 {
